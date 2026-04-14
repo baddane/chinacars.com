@@ -1,29 +1,26 @@
-import { Helmet } from 'react-helmet-async';
-
 interface JsonLdProps {
-  /** Schema.org object or array of objects. */
   data: Record<string, unknown> | Array<Record<string, unknown>>;
-  /** Optional id to make duplicate insertions easier to debug. */
   id?: string;
 }
 
 /**
- * Injects one or more JSON-LD blocks in <head> using react-helmet-async.
- * Renders nothing in the DOM body.
+ * Server Component: renders one or more JSON-LD blocks directly in the DOM.
+ * Safe against injection because JSON.stringify escapes `<`.
  */
 export default function JsonLd({ data, id }: JsonLdProps) {
   const payload = Array.isArray(data) ? data : [data];
   return (
-    <Helmet>
+    <>
       {payload.map((item, index) => (
         <script
           key={`${id ?? 'jsonld'}-${index}`}
           type="application/ld+json"
-          // JSON.stringify safely escapes </script> via replace below
-        >
-          {JSON.stringify(item).replace(/</g, '\\u003c')}
-        </script>
+          // eslint-disable-next-line react/no-danger
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(item).replace(/</g, '\\u003c'),
+          }}
+        />
       ))}
-    </Helmet>
+    </>
   );
 }

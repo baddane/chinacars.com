@@ -5,9 +5,7 @@
 export const SITE = {
   name: 'ChinaCarsMA',
   shortName: 'ChinaCars',
-  url:
-    (typeof import.meta !== 'undefined' && import.meta.env?.VITE_SITE_URL) ||
-    'https://chinacarsma.com',
+  url: process.env.NEXT_PUBLIC_SITE_URL || 'https://chinacarsma.com',
   locale: 'fr_MA',
   defaultLanguage: 'fr',
   supportedLanguages: ['fr', 'ar', 'en'] as const,

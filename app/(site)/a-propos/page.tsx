@@ -1,5 +1,5 @@
+import type { Metadata } from 'next';
 import { Target, Users, Newspaper } from 'lucide-react';
-import Seo from '@/src/components/seo/Seo';
 import Breadcrumb from '@/src/components/layout/Breadcrumb';
 import JsonLd from '@/src/components/seo/JsonLd';
 import { organizationSchema } from '@/src/lib/seo/schemas';
@@ -22,14 +22,16 @@ const values = [
   },
 ];
 
-export default function About() {
+export const metadata: Metadata = {
+  title: 'À propos',
+  description:
+    "ChinaCarsMA est le média indépendant de référence sur l'automobile chinoise au Maroc.",
+  alternates: { canonical: '/a-propos' },
+};
+
+export default function AboutPage() {
   return (
     <>
-      <Seo
-        title="À propos de ChinaCarsMA"
-        description="ChinaCarsMA est le média indépendant de référence sur l'automobile chinoise au Maroc."
-        canonical="/a-propos"
-      />
       <JsonLd data={organizationSchema()} id="about-org" />
 
       <div className="bg-white pt-32 pb-24">
@@ -40,11 +42,11 @@ export default function About() {
             À propos de ChinaCarsMA
           </h1>
           <p className="mt-6 text-lg leading-8 text-gray-600">
-            ChinaCarsMA est le premier média francophone dédié à l'automobile
+            ChinaCarsMA est le premier média francophone dédié à l&apos;automobile
             chinoise au Maroc. Depuis notre lancement, nous décryptons un marché
-            en pleine révolution : l'arrivée massive des constructeurs chinois,
-            l'explosion du véhicule électrique et les nouvelles habitudes
-            d'achat des automobilistes marocains.
+            en pleine révolution : l&apos;arrivée massive des constructeurs chinois,
+            l&apos;explosion du véhicule électrique et les nouvelles habitudes
+            d&apos;achat des automobilistes marocains.
           </p>
 
           <h2 className="mt-16 text-2xl font-bold tracking-tight text-gray-900">

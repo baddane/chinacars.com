@@ -1,0 +1,125 @@
+import type { Metadata } from 'next';
+import Image from 'next/image';
+import { notFound } from 'next/navigation';
+import Breadcrumb from '@/src/components/layout/Breadcrumb';
+import JsonLd from '@/src/components/seo/JsonLd';
+import { articles, formatArticleDate, type ArticleSeed } from '@/src/data/articles';
+import { newsArticleSchema } from '@/src/lib/seo/schemas';
+import { truncateDescription } from '@/src/lib/seo/metadata';
+
+interface PageProps {
+  params: { slug: string };
+}
+
+function findArticle(slug: string): ArticleSeed | undefined {
+  return articles.find((a) => a.slug === slug);
+}
+
+export function generateStaticParams() {
+  return articles.map((article) => ({ slug: article.slug }));
+}
+
+export function generateMetadata({ params }: PageProps): Metadata {
+  const article = findArticle(params.slug);
+  if (!article) return { title: 'Article introuvable' };
+  const canonical = `/actualites/${article.slug}`;
+  return {
+    title: article.title,
+    description: truncateDescription(article.excerpt),
+    alternates: { canonical },
+    openGraph: {
+      type: 'article',
+      title: article.title,
+      description: article.excerpt,
+      url: canonical,
+      publishedTime: article.publishedAt,
+      images: [{ url: article.image }],
+      authors: article.author ? [article.author] : undefined,
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: article.title,
+      description: article.excerpt,
+      images: [article.image],
+    },
+  };
+}
+
+export default function ArticlePage({ params }: PageProps) {
+  const article = findArticle(params.slug);
+  if (!article) notFound();
+
+  return (
+    <article className="bg-white pt-32 pb-24">
+      <JsonLd
+        data={newsArticleSchema({
+          title: article.title,
+          description: article.excerpt,
+          url: `/actualites/${article.slug}`,
+          image: article.image,
+          datePublished: article.publishedAt,
+          authorName: article.author,
+          section: article.category,
+        })}
+        id="article"
+      />
+
+      <div className="mx-auto max-w-3xl px-6 lg:px-8">
+        <Breadcrumb
+          items={[
+            { name: 'Actualités', url: '/actualites' },
+            { name: article.title, url: `/actualites/${article.slug}` },
+          ]}
+          className="mb-8"
+        />
+
+        <p className="text-sm font-semibold text-red-600 uppercase tracking-widest">
+          {article.category}
+        </p>
+        <h1 className="mt-4 text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl">
+          {article.title}
+        </h1>
+        <div className="mt-6 flex items-center gap-x-3 text-sm text-gray-500">
+          <time dateTime={article.publishedAt}>
+            {formatArticleDate(article.publishedAt)}
+          </time>
+          <span aria-hidden="true">·</span>
+          <span>{article.readingTime} min de lecture</span>
+          {article.author && (
+            <>
+              <span aria-hidden="true">·</span>
+              <span>Par {article.author}</span>
+            </>
+          )}
+        </div>
+        <p className="mt-6 text-xl leading-8 text-gray-700">{article.excerpt}</p>
+
+        <div className="relative mt-12 aspect-[16/9] overflow-hidden rounded-2xl">
+          <Image
+            src={article.image}
+            alt={article.title}
+            fill
+            sizes="(min-width: 768px) 768px, 100vw"
+            className="object-cover"
+            priority
+          />
+        </div>
+
+        <div className="prose prose-gray mt-12 max-w-none">
+          <p>
+            Le contenu éditorial complet sera chargé depuis Sanity CMS. Cette
+            page de démonstration montre la structure SEO : balises meta
+            dynamiques, Schema.org <code>NewsArticle</code>, image principale
+            optimisée via <code>next/image</code>, fil d&apos;Ariane accessible
+            et temps de lecture.
+          </p>
+          <p>
+            Quand le CMS sera peuplé, remplacez l&apos;appel à{' '}
+            <code>articles</code> par <code>sanityFetch(articleBySlugQuery)</code> et
+            utilisez <code>@portabletext/react</code> pour rendre le corps.
+          </p>
+        </div>
+      </div>
+    </article>
+  );
+}

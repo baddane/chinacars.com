@@ -1,5 +1,8 @@
+'use client';
+
 import { useState, useEffect } from 'react';
-import { Link, useLocation } from 'react-router-dom';
+import Link from 'next/link';
+import { usePathname } from 'next/navigation';
 import { Menu, X, Car, Search, Globe } from 'lucide-react';
 import { cn } from '@/src/lib/utils';
 
@@ -15,9 +18,8 @@ const navigation = [
 export default function Header() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
-  const location = useLocation();
-  const isHome = location.pathname === '/';
-  // Transparent header is only acceptable on the home hero.
+  const pathname = usePathname();
+  const isHome = pathname === '/';
   const transparent = isHome && !scrolled;
 
   useEffect(() => {
@@ -27,10 +29,9 @@ export default function Header() {
     return () => window.removeEventListener('scroll', handleScroll);
   }, []);
 
-  // Close mobile menu on route change.
   useEffect(() => {
     setMobileMenuOpen(false);
-  }, [location.pathname]);
+  }, [pathname]);
 
   return (
     <header
@@ -52,7 +53,7 @@ export default function Header() {
         aria-label="Navigation principale"
       >
         <div className="flex lg:flex-1">
-          <Link to="/" className="-m-1.5 p-1.5 flex items-center gap-2">
+          <Link href="/" className="-m-1.5 p-1.5 flex items-center gap-2">
             <Car className={cn('h-8 w-8', transparent ? 'text-red-500' : 'text-red-600')} aria-hidden="true" />
             <span
               className={cn(
@@ -81,11 +82,11 @@ export default function Header() {
         </div>
         <div className="hidden lg:flex lg:gap-x-8">
           {navigation.map((item) => {
-            const active = location.pathname.startsWith(item.href);
+            const active = pathname?.startsWith(item.href);
             return (
               <Link
                 key={item.name}
-                to={item.href}
+                href={item.href}
                 aria-current={active ? 'page' : undefined}
                 className={cn(
                   'text-sm font-semibold leading-6 transition-colors',
@@ -128,7 +129,6 @@ export default function Header() {
         </div>
       </nav>
 
-      {/* Mobile menu */}
       <div
         className={cn(
           'lg:hidden fixed inset-0 z-50 bg-white px-6 py-6 transition-transform duration-300 ease-in-out',
@@ -138,7 +138,7 @@ export default function Header() {
       >
         <div className="flex items-center justify-between">
           <Link
-            to="/"
+            href="/"
             className="-m-1.5 p-1.5 flex items-center gap-2"
             onClick={() => setMobileMenuOpen(false)}
           >
@@ -160,21 +160,13 @@ export default function Header() {
               {navigation.map((item) => (
                 <Link
                   key={item.name}
-                  to={item.href}
+                  href={item.href}
                   className="block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-50"
                   onClick={() => setMobileMenuOpen(false)}
                 >
                   {item.name}
                 </Link>
               ))}
-            </div>
-            <div className="py-6 flex flex-col gap-4">
-              <button className="flex items-center gap-2 text-base font-semibold leading-7 text-gray-900">
-                <Search className="h-5 w-5" aria-hidden="true" /> Rechercher
-              </button>
-              <button className="flex items-center gap-2 text-base font-semibold leading-7 text-gray-900">
-                <Globe className="h-5 w-5" aria-hidden="true" /> Langue : Français
-              </button>
             </div>
           </div>
         </div>

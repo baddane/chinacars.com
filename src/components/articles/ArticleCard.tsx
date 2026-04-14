@@ -1,8 +1,7 @@
-import { Link } from 'react-router-dom';
-import { motion } from 'motion/react';
+import Link from 'next/link';
+import Image from 'next/image';
 import { cn } from '@/src/lib/utils';
 import Badge from '@/src/components/ui/Badge';
-import ImageWithFallback from '@/src/components/ui/ImageWithFallback';
 import { formatArticleDate } from '@/src/data/articles';
 
 export interface ArticleCardData {
@@ -11,7 +10,7 @@ export interface ArticleCardData {
   excerpt: string;
   image: string;
   category: string;
-  publishedAt: string; // ISO 8601
+  publishedAt: string;
   readingTime?: number;
 }
 
@@ -24,24 +23,22 @@ interface ArticleCardProps {
 export default function ArticleCard({ article, className, priority = false }: ArticleCardProps) {
   const href = `/actualites/${article.slug}`;
   return (
-    <motion.article
-      initial={{ opacity: 0, y: 20 }}
-      whileInView={{ opacity: 1, y: 0 }}
-      viewport={{ once: true, margin: '-50px' }}
-      className={cn('flex flex-col items-start', className)}
-    >
+    <article className={cn('flex flex-col items-start', className)}>
       <Link
-        to={href}
+        href={href}
         className="relative block w-full overflow-hidden rounded-2xl bg-gray-100 mb-6 group focus-visible:outline focus-visible:outline-2 focus-visible:outline-red-600"
         aria-label={article.title}
       >
-        <ImageWithFallback
-          src={article.image}
-          alt={article.title}
-          aspectRatio="16/9"
-          priority={priority}
-          className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105"
-        />
+        <div className="aspect-[16/9] relative">
+          <Image
+            src={article.image}
+            alt={article.title}
+            fill
+            sizes="(min-width: 1024px) 400px, (min-width: 640px) 50vw, 100vw"
+            priority={priority}
+            className="object-cover transition-transform duration-500 group-hover:scale-105"
+          />
+        </div>
         <div className="absolute top-4 left-4">
           <Badge tone="red">{article.category}</Badge>
         </div>
@@ -56,9 +53,9 @@ export default function ArticleCard({ article, className, priority = false }: Ar
         ) : null}
       </div>
       <h3 className="text-xl font-bold leading-7 text-gray-900 hover:text-red-600 transition-colors">
-        <Link to={href}>{article.title}</Link>
+        <Link href={href}>{article.title}</Link>
       </h3>
       <p className="mt-4 text-sm leading-6 text-gray-600 line-clamp-3">{article.excerpt}</p>
-    </motion.article>
+    </article>
   );
 }
