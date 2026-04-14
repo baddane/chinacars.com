@@ -72,6 +72,29 @@ sanity/
 - Breadcrumbs sur toutes les pages hors accueil
 - URLs slug-based (ex: `/actualites/byd-seal-prix-maroc-2025`)
 
+## Déploiement Vercel
+
+Le projet est prêt pour Vercel (framework `vite` détecté automatiquement).
+Configuration : voir `vercel.json` (rewrites SPA, cache headers, security headers).
+
+### Étapes
+
+1. Importer le repo GitHub dans Vercel.
+2. Vercel détecte `framework: vite` et utilise la commande `vercel-build`
+   (définie dans `package.json`) qui génère le sitemap puis build.
+3. Renseigner les variables d'environnement dans **Settings → Environment Variables** :
+   - `VITE_SANITY_PROJECT_ID`
+   - `VITE_SANITY_DATASET` (défaut : `production`)
+   - `VITE_SITE_URL` (ex: `https://chinacarsma.com`)
+4. Déployer.
+
+### Revalidation du sitemap
+
+À chaque publish dans Sanity, déclenchez un rebuild via un
+[Deploy Hook](https://vercel.com/docs/git/deploy-hooks) Vercel ou via un
+webhook Sanity → Vercel. Le script `generate-sitemap.ts` ira alors requêter
+les contenus publiés et régénérera `public/sitemap.xml`.
+
 ## Licence
 
 Propriétaire — tous droits réservés.
