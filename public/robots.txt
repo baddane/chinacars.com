@@ -1,0 +1,15 @@
+# ChinaCarsMA — robots.txt
+# https://chinacarsma.com
+
+User-agent: *
+Allow: /
+Disallow: /studio/
+Disallow: /api/
+Disallow: /*?utm_*
+Disallow: /*?ref=*
+
+# Legacy / preview paths
+Disallow: /draft/
+Disallow: /preview/
+
+Sitemap: https://chinacarsma.com/sitemap.xml
