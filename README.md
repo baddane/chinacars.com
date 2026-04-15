@@ -1,4 +1,4 @@
-# ChinaCarsMA
+# VehiculesChinois.com
 
 > Site média spécialisé sur les voitures chinoises au Maroc — actualités, essais,
 > comparatifs, fiches modèles et guides d'achat.
@@ -85,7 +85,7 @@ Configuration : voir `vercel.json` (rewrites SPA, cache headers, security header
 3. Renseigner les variables d'environnement dans **Settings → Environment Variables** :
    - `VITE_SANITY_PROJECT_ID`
    - `VITE_SANITY_DATASET` (défaut : `production`)
-   - `VITE_SITE_URL` (ex: `https://chinacarsma.com`)
+   - `NEXT_PUBLIC_SITE_URL` (ex: `https://vehiculeschinois.com`)
 4. Déployer.
 
 ### Revalidation du sitemap

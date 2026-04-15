@@ -27,7 +27,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'nouveaute',
     publishedAt: '2024-04-12T09:00:00+01:00',
     readingTime: 6,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction VehiculesChinois.com',
   },
   {
     slug: 'mg-cyberster-roadster-electrique',

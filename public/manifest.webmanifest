@@ -1,6 +1,6 @@
 {
-  "name": "ChinaCarsMA",
-  "short_name": "ChinaCars",
+  "name": "VehiculesChinois.com",
+  "short_name": "VehiculesChinois",
   "description": "L'actualité des voitures chinoises au Maroc",
   "start_url": "/",
   "display": "standalone",

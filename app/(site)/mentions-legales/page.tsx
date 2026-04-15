@@ -4,7 +4,7 @@ import Breadcrumb from '@/src/components/layout/Breadcrumb';
 export const metadata: Metadata = {
   title: 'Mentions légales',
   description:
-    'Mentions légales, éditeur, hébergeur et politique de confidentialité du site ChinaCarsMA.',
+    'Mentions légales, éditeur, hébergeur et politique de confidentialité du site VehiculesChinois.com.',
   alternates: { canonical: '/mentions-legales' },
 };
 
@@ -24,13 +24,13 @@ export default function LegalNoticePage() {
         <div className="prose prose-gray mt-10 max-w-none text-gray-700">
           <h2 className="text-xl font-bold text-gray-900">Éditeur du site</h2>
           <p>
-            Le site <strong>chinacarsma.com</strong> est édité par ChinaCarsMA.
+            Le site <strong>vehiculeschinois.com</strong> est édité par la rédaction VehiculesChinois.com.
             <br />
             Directeur de la publication : à renseigner.
             <br />
             Contact :{' '}
-            <a href="mailto:contact@chinacarsma.com" className="text-red-600 hover:underline">
-              contact@chinacarsma.com
+            <a href="mailto:contact@vehiculeschinois.com" className="text-red-600 hover:underline">
+              contact@vehiculeschinois.com
             </a>
             .
           </p>
@@ -45,7 +45,7 @@ export default function LegalNoticePage() {
           <p>
             L&apos;ensemble des contenus publiés sur ce site (textes, images,
             graphismes, logo, vidéos) sont la propriété exclusive de
-            ChinaCarsMA ou de ses partenaires, sauf mention contraire. Toute
+            VehiculesChinois.com ou de ses partenaires, sauf mention contraire. Toute
             reproduction, représentation ou diffusion, totale ou partielle,
             sans autorisation écrite préalable est interdite.
           </p>
