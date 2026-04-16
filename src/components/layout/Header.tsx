@@ -7,12 +7,11 @@ import { Menu, X, Car, Search, Globe } from 'lucide-react';
 import { cn } from '@/src/lib/utils';
 
 const navigation = [
-  { name: 'Actualités', href: '/actualites' },
   { name: 'Marques', href: '/marques' },
-  { name: 'Comparatifs', href: '/comparatifs' },
+  { name: 'Voitures', href: '/voitures' },
+  { name: 'Utilitaires', href: '/utilitaires' },
   { name: 'Guides', href: '/guides' },
-  { name: 'Électrique', href: '/electrique' },
-  { name: 'Maroc', href: '/maroc' },
+  { name: 'Actualités', href: '/actualites' },
 ];
 
 export default function Header() {

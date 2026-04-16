@@ -1,6 +1,6 @@
 # VehiculesChinois.com
 
-> Site média spécialisé sur les voitures chinoises au Maroc — actualités, essais,
+> Site média spécialisé sur les voitures et utilitaires chinois en France — actualités, essais,
 > comparatifs, fiches modèles et guides d'achat.
 
 ## Stack technique
@@ -70,7 +70,7 @@ sanity/
 - JSON-LD via `<JsonLd>` (`NewsArticle`, `Product`, `BreadcrumbList`,
   `FAQPage`, `Organization`, `WebSite`)
 - Breadcrumbs sur toutes les pages hors accueil
-- URLs slug-based (ex: `/actualites/byd-seal-prix-maroc-2025`)
+- URLs slug-based (ex: `/actualites/byd-seal-prix-france-2026`)
 
 ## Déploiement Vercel
 

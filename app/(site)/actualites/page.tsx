@@ -3,6 +3,7 @@ import Breadcrumb from '@/src/components/layout/Breadcrumb';
 import ArticleCard from '@/src/components/articles/ArticleCard';
 import Pagination from '@/src/components/ui/Pagination';
 import { articles } from '@/src/data/articles';
+import { actualitesDossiers } from '@/src/data/silos';
 
 const PAGE_SIZE = 9;
 
@@ -17,7 +18,7 @@ export function generateMetadata({ searchParams }: PageProps): Metadata {
   return {
     title,
     description:
-      "Toute l'actualité des voitures chinoises au Maroc : nouveautés, essais, prix et guides d'achat.",
+      "Toute l'actualité des voitures chinoises en France : nouveautés, essais, prix et droits de douane UE.",
     alternates: { canonical },
   };
 }
@@ -40,8 +41,19 @@ export default function NewsPage({ searchParams }: PageProps) {
           </h1>
           <p className="mt-6 text-lg leading-8 text-gray-600">
             Restez informé des derniers lancements, des essais détaillés et
-            des évolutions du marché automobile chinois au Maroc.
+            des évolutions du marché automobile chinois en France.
           </p>
+          <div className="mt-8 grid grid-cols-1 gap-3 sm:grid-cols-3">
+            {actualitesDossiers.slice(0, 3).map((dossier) => (
+              <a
+                key={dossier.slug}
+                href={`/actualites/${dossier.slug}`}
+                className="rounded-xl border border-gray-200 bg-gray-50 px-4 py-3 text-sm font-semibold text-gray-900 hover:border-red-500 hover:text-red-600 transition"
+              >
+                Dossier : {dossier.title.split(' :')[0]}
+              </a>
+            ))}
+          </div>
         </div>
 
         <div className="mx-auto mt-16 grid max-w-2xl grid-cols-1 gap-x-8 gap-y-20 lg:mx-0 lg:max-w-none lg:grid-cols-3">

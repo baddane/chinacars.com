@@ -13,19 +13,19 @@ const values = [
   {
     icon: Newspaper,
     title: 'Expertise terrain',
-    text: "Essais, visites d'usines et rencontres avec les importateurs marocains.",
+    text: "Essais, visites d'usines en Chine et rencontres avec les distributeurs français.",
   },
   {
     icon: Users,
-    title: 'Pensé pour le Maroc',
-    text: 'Prix, homologation, pièces, SAV : nos guides répondent aux réalités locales.',
+    title: 'Pensé pour la France',
+    text: 'Prix France, homologation UE, bonus, fiabilité, SAV, ZFE : guides concrets pour le marché français.',
   },
 ];
 
 export const metadata: Metadata = {
   title: 'À propos',
   description:
-    "VehiculesChinois.com est le média indépendant de référence sur l'automobile chinoise au Maroc.",
+    "VehiculesChinois.com est le média indépendant de référence sur l'automobile chinoise en France.",
   alternates: { canonical: '/a-propos' },
 };
 
@@ -42,18 +42,19 @@ export default function AboutPage() {
             À propos de VehiculesChinois.com
           </h1>
           <p className="mt-6 text-lg leading-8 text-gray-600">
-            VehiculesChinois.com est le premier média francophone dédié à l&apos;automobile
-            chinoise au Maroc. Depuis notre lancement, nous décryptons un marché
-            en pleine révolution : l&apos;arrivée massive des constructeurs chinois,
-            l&apos;explosion du véhicule électrique et les nouvelles habitudes
-            d&apos;achat des automobilistes marocains.
+            VehiculesChinois.com est un média francophone dédié à l&apos;automobile
+            chinoise en France. Nous décryptons un marché en pleine révolution :
+            l&apos;arrivée massive des constructeurs chinois sur le sol européen,
+            l&apos;explosion du véhicule électrique, la montée en puissance des
+            utilitaires chinois pour les flottes pro et l&apos;impact des droits
+            de douane UE sur les prix en concession.
           </p>
 
           <h2 className="mt-16 text-2xl font-bold tracking-tight text-gray-900">
             Notre mission
           </h2>
           <p className="mt-4 text-base leading-7 text-gray-600">
-            Fournir aux automobilistes marocains et francophones une information
+            Fournir aux automobilistes français et francophones une information
             fiable, documentée et indépendante sur les marques, modèles et
             technologies venues de Chine. Nous testons, comparons et
             contextualisons pour aider à faire les bons choix.

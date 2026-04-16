@@ -82,7 +82,6 @@ export const carModelSchema = {
       title: 'Tarifs',
       type: 'object',
       fields: [
-        { name: 'priceMaroc', title: 'Prix Maroc (MAD)', type: 'number' },
         { name: 'priceFrance', title: 'Prix France (€)', type: 'number' },
         { name: 'priceChine', title: 'Prix Chine (¥)', type: 'number' },
       ],
@@ -113,8 +112,8 @@ export const carModelSchema = {
       type: 'string',
       options: {
         list: [
-          { title: 'Disponible au Maroc', value: 'disponible-maroc' },
-          { title: 'Bientôt au Maroc', value: 'bientot-maroc' },
+          { title: 'Disponible en France', value: 'disponible-france' },
+          { title: 'Bientôt en France', value: 'bientot-france' },
           { title: 'Import uniquement', value: 'import-uniquement' },
         ],
       },

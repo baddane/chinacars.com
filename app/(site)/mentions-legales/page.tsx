@@ -50,20 +50,23 @@ export default function LegalNoticePage() {
             sans autorisation écrite préalable est interdite.
           </p>
 
-          <h2 className="mt-10 text-xl font-bold text-gray-900">Données personnelles</h2>
+          <h2 className="mt-10 text-xl font-bold text-gray-900">Données personnelles (RGPD)</h2>
           <p>
-            Conformément à la loi 09-08 relative à la protection des personnes
-            physiques à l&apos;égard du traitement des données à caractère
-            personnel, vous disposez d&apos;un droit d&apos;accès, de rectification et
-            de suppression des données vous concernant. Pour l&apos;exercer,
-            contactez-nous à l&apos;adresse indiquée ci-dessus.
+            Conformément au Règlement (UE) 2016/679 (RGPD) et à la loi
+            Informatique et Libertés, vous disposez d&apos;un droit d&apos;accès,
+            de rectification, d&apos;effacement, de portabilité, de limitation
+            et d&apos;opposition au traitement de vos données personnelles.
+            Pour l&apos;exercer, contactez-nous à l&apos;adresse indiquée
+            ci-dessus ou déposez une réclamation auprès de la CNIL
+            (www.cnil.fr).
           </p>
 
           <h2 className="mt-10 text-xl font-bold text-gray-900">Cookies</h2>
           <p>
-            Le site utilise des cookies à des fins de mesure d&apos;audience et
-            d&apos;affichage publicitaire. Vous pouvez configurer vos préférences
-            directement via votre navigateur.
+            Le site utilise des cookies de mesure d&apos;audience et, le cas
+            échéant, des cookies publicitaires soumis à votre consentement
+            préalable (bannière cookies). Vous pouvez à tout moment retirer
+            votre consentement ou configurer vos préférences via votre navigateur.
           </p>
         </div>
       </div>

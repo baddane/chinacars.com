@@ -2,13 +2,12 @@ import Link from 'next/link';
 import { Car, Facebook, Twitter, Instagram, Youtube } from 'lucide-react';
 
 const footerNavigation = {
-  marques: [
-    { name: 'BYD', href: '/marques/byd' },
-    { name: 'MG Motor', href: '/marques/mg' },
-    { name: 'Chery', href: '/marques/chery' },
-    { name: 'Geely', href: '/marques/geely' },
-    { name: 'GWM', href: '/marques/gwm' },
-    { name: 'Zeekr', href: '/marques/zeekr' },
+  silos: [
+    { name: 'Marques', href: '/marques' },
+    { name: 'Voitures', href: '/voitures' },
+    { name: 'Utilitaires', href: '/utilitaires' },
+    { name: 'Guides', href: '/guides' },
+    { name: 'Actualités', href: '/actualites' },
   ],
   support: [
     { name: 'À propos', href: '/a-propos' },
@@ -39,8 +38,8 @@ export default function Footer() {
               </span>
             </Link>
             <p className="text-sm leading-6 text-gray-300 max-w-xs">
-              Votre source n°1 d&apos;actualités, de tests et de prix sur les voitures
-              chinoises au Maroc et dans le monde.
+              Média indépendant sur les voitures et utilitaires chinois
+              commercialisés en France. Actus, essais, prix et guides.
             </p>
             <div className="flex space-x-6">
               {footerNavigation.social.map((item) => (
@@ -59,10 +58,10 @@ export default function Footer() {
             <div className="md:grid md:grid-cols-2 md:gap-8">
               <div>
                 <h3 className="text-sm font-semibold leading-6 text-white">
-                  Marques populaires
+                  Explorer
                 </h3>
                 <ul className="mt-6 space-y-4">
-                  {footerNavigation.marques.map((item) => (
+                  {footerNavigation.silos.map((item) => (
                     <li key={item.name}>
                       <Link
                         href={item.href}
