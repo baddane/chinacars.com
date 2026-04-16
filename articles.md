@@ -1,4 +1,4 @@
-merci de metter cette liste d'articles a publier sur le site prochainement dans un fichier md a consulter plutard : 100 titres d'articles de blog classés par thématiques. Ces titres reflètent le marché automobile de 2026, incluant les nouveaux modèles (Xiaomi, Zeekr, Omoda) et les technologies actuelles (hybride SHS-H, batteries Blade).
+100 titres d'articles de blog classés par thématiques. Ces titres reflètent le marché automobile de 2026, incluant les nouveaux modèles (Xiaomi, Zeekr, Omoda) et les technologies actuelles (hybride SHS-H, batteries Blade).
 
 🇨🇳 Duel au Sommet : Les Chinoises entre elles
 1. BYD Seal vs Xiaomi SU7 Ultra : quelle est la berline électrique la plus rapide en 2026 ?
