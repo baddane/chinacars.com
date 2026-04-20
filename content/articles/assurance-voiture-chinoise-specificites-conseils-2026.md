@@ -9,6 +9,9 @@ publishedAt: "2026-05-16T10:00:00Z"
 seo:
   metaTitle: "Assurance voiture chinoise 2026 : tarifs, spécificités et conseils"
   metaDescription: "Assurer une voiture chinoise en 2026 : tarifs d'assurance BYD, MG, NIO, XPeng. Spécificités de la réparation électrique et conseils pour trouver le meilleur assureur."
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "Assurer une voiture chinoise – conseils 2026"
 ---
 
 Vous achetez une BYD, une MG ou une NIO — quelle assurance choisir et à quel prix ? L'assurance des voitures chinoises a ses spécificités en 2026 : pièces de rechange parfois difficiles à trouver, valeurs de cote incertaines, systèmes électroniques complexes. Voici tout ce que vous devez savoir.

@@ -9,6 +9,9 @@ publishedAt: "2026-05-13T10:00:00Z"
 seo:
   metaTitle: "Électrique, hybride ou PHEV : quelle motorisation au Maroc en 2026 ?"
   metaDescription: "Quel type de motorisation choisir au Maroc en 2026 : voiture électrique, hybride HEV ou hybride rechargeable PHEV ? Guide complet adapté au contexte marocain."
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "Choisir entre électrique, hybride et PHEV au Maroc"
 ---
 
 C'est la question que se posent de plus en plus d'acheteurs marocains : en 2026, faut-il aller directement au tout électrique, ou est-ce que l'hybride — dans toutes ses variantes — est plus adapté à la réalité marocaine ? Ce guide vous aide à choisir selon votre situation.

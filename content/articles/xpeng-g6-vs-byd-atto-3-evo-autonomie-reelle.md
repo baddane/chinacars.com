@@ -9,6 +9,9 @@ publishedAt: "2026-04-25T09:00:00Z"
 seo:
   metaTitle: "XPeng G6 vs BYD Atto 3 Evo 2026 : autonomie réelle et recharge comparées"
   metaDescription: "XPeng G6 vs BYD Atto 3 Evo 2026 : autonomie réelle, recharge rapide et technologies. Quel SUV électrique chinois tient ses promesses sur la route ?"
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "XPeng G6 – autonomie réelle 800V"
 ---
 
 L'autonomie réelle est le test de vérité de tout véhicule électrique. Les chiffres WLTP sont un point de départ, mais ce qui compte vraiment, c'est la distance que vous parcourez en conditions réelles : autoroute à 130 km/h, climatisation en marche, par une chaude journée. Sur ce terrain, le **XPeng G6** et le **BYD Atto 3 Evo** ont beaucoup à prouver.

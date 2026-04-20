@@ -9,6 +9,9 @@ publishedAt: "2026-05-19T09:00:00Z"
 seo:
   metaTitle: "Top 10 meilleures voitures chinoises 2026 : notre classement définitif"
   metaDescription: "Top 10 voitures chinoises 2026 : BYD Seal, Xiaomi SU7, NIO ET5, Zeekr 001, MG4... Notre classement des meilleures autos chinoises toutes catégories."
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "Top 10 meilleures voitures chinoises 2026"
 ---
 
 En 2026, choisir parmi les dizaines de modèles chinois disponibles est devenu un exercice complexe. Pour vous aider, nous avons établi notre top 10 en combinant des critères objectifs (performances, autonomie, prix, SAV) et subjectifs (design, expérience de conduite, rapport valeur). Voici notre classement.

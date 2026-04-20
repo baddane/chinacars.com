@@ -9,6 +9,9 @@ publishedAt: "2026-06-11T09:00:00Z"
 seo:
   metaTitle: "Comment revendre sa voiture chinoise en 2026 : guide pratique"
   metaDescription: "Guide complet pour revendre votre voiture chinoise (BYD, MG, NIO) en France ou au Maroc : timing, plateformes, prix et conseils pour maximiser la valeur de revente."
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "Comment revendre sa voiture chinoise – guide pratique 2026"
 ---
 
 Vous avez acheté une BYD, une MG ou une NIO, et vous pensez à la revendre ? La donne est différente de la revente d'une Toyota ou d'une Volkswagen. Les voitures chinoises ont des spécificités de marché d'occasion qui influencent directement le prix que vous obtiendrez. Voici le guide complet.

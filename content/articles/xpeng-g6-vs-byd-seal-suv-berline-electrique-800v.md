@@ -9,6 +9,9 @@ publishedAt: "2026-06-09T10:00:00Z"
 seo:
   metaTitle: "XPeng G6 vs BYD Seal 2026 : comparatif électriques chinoises"
   metaDescription: "XPeng G6 vs BYD Seal : 800V vs 400V, XNGP vs DiPilot, SUV vs berline. Quel meilleur choix sous 50 000 € parmi les meilleures électriques chinoises en 2026 ?"
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "XPeng G6 vs BYD Seal – 800V vs 400V"
 ---
 
 Le XPeng G6 et le BYD Seal représentent les deux meilleures options du marché électrique chinois sous 50 000 €. L'un est un SUV SUB-50k avec la charge la plus rapide de sa catégorie. L'autre est une berline avec la batterie la plus fiable du marché. Comment trancher ?

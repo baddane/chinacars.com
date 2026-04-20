@@ -9,6 +9,9 @@ publishedAt: "2026-05-07T09:00:00Z"
 seo:
   metaTitle: "GWM Wey 05 vs Volvo XC60 Recharge 2026 : SUV PHEV premium, Chine ou Suède ?"
   metaDescription: "GWM Wey 05 vs Volvo XC60 Recharge 2026 : autonomie électrique, équipements, prix. Le SUV hybride rechargeable premium de GWM défie-t-il le Volvo XC60 ?"
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "GWM Wey 05 PHEV – SUV hybride 100 km autonomie EV"
 ---
 
 Le **Volvo XC60 Recharge** est l'un des SUV hybrides rechargeables les plus appréciés de son segment : design scandinave épuré, qualité de fabrication exemplaire et une image de marque premium bien établie. En face, le **GWM Wey 05** est la carte premium de Great Wall Motor — une marque chinoise qui cible explicitement le segment du luxe accessible avec une technologie hybride rechargeable sophistiquée. Qui sort vainqueur de ce duel ?

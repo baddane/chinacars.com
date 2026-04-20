@@ -9,6 +9,9 @@ publishedAt: "2026-04-30T09:00:00Z"
 seo:
   metaTitle: "Xiaomi SU7 vs Porsche Taycan 2026 : la berline chinoise dépasse-t-elle Porsche ?"
   metaDescription: "Xiaomi SU7 vs Porsche Taycan 2026 : performances, technologie, autonomie et prix. La berline électrique chinoise est-elle vraiment supérieure au Taycan ?"
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "Xiaomi SU7 Ultra vs Porsche Taycan – record Nürburgring"
 ---
 
 Le titre de ce comparatif aurait paru ridicule il y a cinq ans. Comparer une voiture fabriquée par un fabricant de smartphones à la Porsche Taycan ? Pourtant, en 2026, ce n'est plus une provocation — c'est une question légitime. La **Xiaomi SU7** a établi des records au Nürburgring et séduit des centaines de milliers d'acheteurs dans le monde. A-t-elle vraiment dépassé la référence de la berline électrique sportive premium ?

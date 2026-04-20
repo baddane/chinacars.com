@@ -9,6 +9,9 @@ publishedAt: "2026-05-11T09:00:00Z"
 seo:
   metaTitle: "XPeng LiDAR vs Tesla Vision 2026 : quelle technologie de conduite autonome gagne ?"
   metaDescription: "XPeng LiDAR vs Tesla Vision 2026 : caméras vs LiDAR pour la conduite autonome. Analyse technique des deux approches et de leurs performances réelles en 2026."
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "XPeng G9 avec LiDAR – conduite autonome XNGP"
 ---
 
 C'est l'un des débats les plus vifs de l'industrie automobile mondiale. **Tesla** a supprimé le radar en 2021 et mise tout sur **Vision** — des caméras + intelligence artificielle pure. **XPeng** (et la quasi-totalité des constructeurs chinois avancés) utilise le **LiDAR** comme capteur principal de leur système de conduite autonome. En 2026, qui a raison ?

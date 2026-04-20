@@ -9,6 +9,9 @@ publishedAt: "2026-05-03T09:00:00Z"
 seo:
   metaTitle: "Zeekr 001 vs Tesla Model S 2026 : la Chine fait trembler Tesla ?"
   metaDescription: "Zeekr 001 vs Tesla Model S 2026 : design, performances, autonomie et prix. La berline électrique chinoise est-elle supérieure à la Model S de Tesla ?"
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "Zeekr 001 – berline électrique premium chinoise"
 ---
 
 La **Tesla Model S** a longtemps été la référence absolue : la voiture qui a prouvé que l'électrique pouvait être désirable, rapide et autonome. Pendant des années, aucun constructeur traditionnel ni nouveau entrant n'a réellement menacé son trône. Mais en 2026, la **Zeekr 001** est là — et elle pose des questions très dérangeantes pour Elon Musk.

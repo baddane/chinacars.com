@@ -9,6 +9,9 @@ publishedAt: "2026-04-28T09:00:00Z"
 seo:
   metaTitle: "NIO EL6 vs XPeng G9 2026 : grands SUV électriques premium face à face"
   metaDescription: "NIO EL6 vs XPeng G9 2026 : autonomie, technologie, luxe et prix. Quel grand SUV électrique premium chinois choisir face aux BMW iX et Mercedes EQC ?"
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "NIO EL6 – grand SUV électrique premium"
 ---
 
 Le segment des grands SUV électriques premium est l'un des plus disputés de l'automobile mondiale. BMW iX, Mercedes EQC, Audi e-tron : les constructeurs européens ont longtemps régné sans partage. Mais en 2026, le **NIO EL6** et le **XPeng G9** ont clairement élevé le niveau et s'imposent comme des alternatives crédibles, voire supérieures sur plusieurs critères. Lequel choisir ?

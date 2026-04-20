@@ -9,6 +9,9 @@ publishedAt: "2026-05-08T09:00:00Z"
 seo:
   metaTitle: "BYD Seagull vs Citroën ë-C3 2026 : citadine électrique populaire, laquelle choisir ?"
   metaDescription: "BYD Seagull vs Citroën ë-C3 2026 : prix, autonomie, équipements. La citadine électrique abordable de BYD face au Citroën ë-C3. Comparatif 2026."
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "BYD Seagull – citadine électrique ultra-accessible"
 ---
 
 Deux visions de l'électrique populaire s'affrontent en 2026. La **Citroën ë-C3** incarne la renaissance française de la voiture populaire électrique : design rétro-moderne, prix accessible, fabrication européenne. La **BYD Seagull** est un phénomène asiatique qui débarque en Europe avec des arguments techniques impressionnants pour son prix. Sous 25 000 €, qui gagne ?

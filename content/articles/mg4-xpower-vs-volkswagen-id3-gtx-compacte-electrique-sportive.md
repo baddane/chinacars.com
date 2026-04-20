@@ -9,6 +9,9 @@ publishedAt: "2026-05-05T09:00:00Z"
 seo:
   metaTitle: "MG4 XPower vs VW ID.3 GTX 2026 : compacte sportive chinoise ou allemande ?"
   metaDescription: "MG4 XPower vs VW ID.3 GTX 2026 : performances, autonomie, prix. La compacte électrique sportive chinoise bat-elle la version GTX de Volkswagen ?"
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "MG4 XPower – compacte électrique sportive 435 ch"
 ---
 
 La Volkswagen ID.3 GTX a promis de réconcilier l'électrique avec le plaisir de conduire. À la même époque, **MG** sortait l'**XPower** — une version biturbo de son MG4 qui affiche 435 ch et 600 Nm. Deux visions de la compacte électrique sportive : l'héritage GTI allemand contre l'impudence chinoise. Qui gagne ?

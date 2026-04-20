@@ -9,6 +9,9 @@ publishedAt: "2026-06-07T10:00:00Z"
 seo:
   metaTitle: "BYD Atto 3 Evo vs Hyundai Kona Electric 2026 : comparatif complet"
   metaDescription: "BYD Atto 3 Evo vs Hyundai Kona Electric : autonomie, Blade LFP, prix et équipements. Quel SUV compact électrique choisir sous 35 000 € en 2026 ?"
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "BYD Atto 3 Evo vs Hyundai Kona Electric 2026"
 ---
 
 Le BYD Atto 3 Evo et le Hyundai Kona Electric se disputent le même segment : le SUV compact électrique familial sous 35 000 €. L'un vient de Shenzhen avec une batterie révolutionnaire. L'autre est le champion établi de Corée. Lequel mérite votre argent en 2026 ?

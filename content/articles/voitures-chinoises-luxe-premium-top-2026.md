@@ -9,6 +9,9 @@ publishedAt: "2026-05-21T10:00:00Z"
 seo:
   metaTitle: "Voitures chinoises de luxe 2026 : NIO ET9, Hongqi, AITO M9 — top sélection"
   metaDescription: "Les meilleures voitures chinoises de luxe et premium en 2026 : NIO ET9, Hongqi EHS9, AITO M9, HiPhi Z. Comparatif des alternatives chinoises aux marques de prestige."
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "Voitures chinoises de luxe et premium – top 2026"
 ---
 
 En 2026, le segment du luxe automobile chinois a atteint une maturité qui mérite d'être prise au sérieux. Ces voitures ne sont plus des imitations du luxe allemand ou américain — elles proposent une vision propre, ambitieuse et souvent technologiquement avancée du véhicule premium. Tour d'horizon.

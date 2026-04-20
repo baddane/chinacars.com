@@ -9,6 +9,9 @@ publishedAt: "2026-05-10T10:00:00Z"
 seo:
   metaTitle: "MG3 Hybrid+ vs Renault Clio E-Tech 2026 : la citadine hybride idéale ?"
   metaDescription: "MG3 Hybrid+ vs Renault Clio E-Tech 2026 : puissance hybride, consommation, équipements et prix. La citadine hybride chinoise peut-elle détrôner la Clio ?"
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "MG3 Hybrid+ – citadine hybride compétitive"
 ---
 
 La **Renault Clio E-Tech** est l'une des voitures les plus vendues d'Europe depuis des années. Sa réputation de fiabilité, son réseau omniprésent et son hybride éprouvé en font le choix par défaut de millions d'automobilistes. Mais la **MG3 Hybrid+** est arrivée en 2024 avec une déclaration de guerre : plus de puissance, plus d'équipements, et un prix agressif. Alors — fin de l'hégémonie française ou fausse alerte ?

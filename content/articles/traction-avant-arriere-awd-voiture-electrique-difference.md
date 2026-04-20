@@ -9,6 +9,9 @@ publishedAt: "2026-05-24T10:00:00Z"
 seo:
   metaTitle: "Traction avant, arrière ou AWD pour voiture électrique : quelle différence ?"
   metaDescription: "Traction avant vs propulsion arrière vs AWD sur voiture électrique chinoise : performance, autonomie, comportement. Tout comprendre pour bien choisir sa transmission."
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "Traction avant arrière AWD – différence en électrique"
 ---
 
 Vous avez remarqué que certaines voitures électriques chinoises sont disponibles en "traction avant", "propulsion arrière" ou "AWD" — mais vous ne savez pas quelle différence cela fait concrètement ? Ce guide vous explique tout, avec des exemples concrets tirés des modèles disponibles.

@@ -9,6 +9,9 @@ publishedAt: "2026-05-29T09:00:00Z"
 seo:
   metaTitle: "GWM, Haval, Wey, Ora 2026 : Great Wall Motor guide complet"
   metaDescription: "Great Wall Motor 2026 : Haval H6, Wey 05 PHEV, Ora 03, GWM Cannon — guide des marques disponibles en Europe et au Maroc. Modèles, prix et technologies GWM."
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "GWM Haval Wey Ora – guide du groupe 2026"
 ---
 
 **Great Wall Motor (GWM)** est le premier producteur de pickups et de SUV en Chine. Fondé en 1984 à Baoding (Hebei), GWM a construit sa réputation sur des véhicules robustes et polyvalents avant de se lancer dans l'électrique et l'hybride. En 2026, ses quatre marques — **Haval**, **Wey**, **Ora** et la marque maison **GWM** — couvrent un spectre allant du pickup professionnel à la citadine électrique rétro.

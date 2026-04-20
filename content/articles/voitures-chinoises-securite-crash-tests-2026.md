@@ -9,6 +9,9 @@ publishedAt: "2026-06-03T09:00:00Z"
 seo:
   metaTitle: "Crash tests voitures chinoises 2026 : résultats Euro NCAP complets"
   metaDescription: "Résultats Euro NCAP des voitures chinoises en 2026 : BYD, MG, NIO, XPeng, Omoda. Les voitures chinoises sont-elles sûres ? Analyse complète des crash tests."
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "Crash tests Euro NCAP voitures chinoises 2026"
 ---
 
 Il y a dix ans, "voiture chinoise" et "sécurité" étaient difficilement conciliables. C'est fini. En 2026, plusieurs modèles chinois obtiennent 5 étoiles Euro NCAP avec des scores parfois supérieurs aux équivalents européens. Voici le bilan complet.

@@ -9,6 +9,9 @@ publishedAt: "2026-05-11T10:00:00Z"
 seo:
   metaTitle: "Comment fonctionne le SHS-H d'Omoda ? Le système hybride Chery expliqué"
   metaDescription: "Explication du système hybride SHS-H d'Omoda/Chery : moteur Atkinson, module électrique, récupération d'énergie. Comment fonctionne cet hybride et pourquoi est-il différent ?"
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "Omoda 5 SHS-H – système hybride full HEV Chery"
 ---
 
 Le **SHS-H** (Super High-Speed Hybrid) est le terme que Chery et Omoda utilisent pour leur technologie hybride propriétaire. On entend souvent qu'il s'agit d'une "révolution" — mais qu'est-ce que cela veut dire concrètement ? Voici l'explication complète, sans jargon inutile.

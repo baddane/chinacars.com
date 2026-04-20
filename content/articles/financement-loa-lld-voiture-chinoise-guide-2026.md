@@ -9,6 +9,9 @@ publishedAt: "2026-05-15T10:00:00Z"
 seo:
   metaTitle: "LOA LLD ou achat comptant pour voiture chinoise 2026 : quel financement choisir ?"
   metaDescription: "LOA, LLD ou achat comptant pour une voiture chinoise en 2026 : comparaison avec exemples BYD et MG. Guide complet pour choisir le meilleur financement."
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "Financement LOA LLD voiture chinoise – guide 2026"
 ---
 
 Vous avez choisi votre voiture chinoise — maintenant, comment la financer ? En 2026, la LOA (Location avec Option d'Achat), le LLD (Location Longue Durée) et l'achat comptant ont chacun leurs avantages et inconvénients. Et les spécificités des voitures chinoises — valeur résiduelle incertaine, garanties longues — changent le calcul par rapport aux marques traditionnelles.

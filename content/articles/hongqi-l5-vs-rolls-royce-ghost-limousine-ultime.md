@@ -9,6 +9,9 @@ publishedAt: "2026-05-09T10:00:00Z"
 seo:
   metaTitle: "Hongqi L5 vs Rolls-Royce Ghost 2026 : limousine de luxe, Chine ou Angleterre ?"
   metaDescription: "Hongqi L5 vs Rolls-Royce Ghost 2026 : luxe, puissance et prestige. La limousine d'État chinoise peut-elle rivaliser avec le Ghost de Rolls-Royce ? Comparatif ultime."
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "Hongqi L5 – limousine d'État chinoise"
 ---
 
 Cette comparaison est, en un sens, la plus audacieuse de toute cette série. La **Rolls-Royce Ghost** est la définition même du luxe automobile depuis un siècle. La **Hongqi L5** est la limousine d'État officielle de la République Populaire de Chine — la voiture des présidents, des dignitaires, de la puissance nationale. Deux nations, deux visions du summum automobile. Qui l'emporte ?

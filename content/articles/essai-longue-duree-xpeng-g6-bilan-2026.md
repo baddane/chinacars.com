@@ -9,6 +9,9 @@ publishedAt: "2026-06-01T09:00:00Z"
 seo:
   metaTitle: "Essai longue durée XPeng G6 : bilan honnête après 45 000 km"
   metaDescription: "XPeng G6 après 45 000 km : XNGP, charge 280 kW, batterie et fiabilité réelle. Le bilan du SUV électrique 800V le plus technologique sous 50 000 €."
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "XPeng G6 – bilan 45 000 km XNGP et 280 kW"
 ---
 
 Le XPeng G6 est entré sur le marché européen comme le SUV électrique le plus technologiquement avancé de son segment : architecture 800V, charge à 280 kW, XNGP avec LiDAR. Après 45 000 km d'usage réel, est-ce que la technologie tient ses promesses au quotidien ?

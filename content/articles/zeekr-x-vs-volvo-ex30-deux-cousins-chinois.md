@@ -9,6 +9,9 @@ publishedAt: "2026-04-30T10:00:00Z"
 seo:
   metaTitle: "Zeekr X vs Volvo EX30 2026 : deux cousins Geely face à face"
   metaDescription: "Zeekr X vs Volvo EX30 2026 : même plateforme SEA, deux marques différentes. Design, autonomie, prix — lequel choisir entre les deux cousins Geely ?"
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "Zeekr X – SUV compact électrique premium"
 ---
 
 C'est l'un des secrets les mieux gardés — et les plus ouverts — de l'industrie automobile. Le **Zeekr X** et la **Volvo EX30** partagent la même plateforme SEA (Sustainable Experience Architecture) développée par Geely, le géant chinois qui possède les deux marques. Même base, même empattement, même architecture électrique. Mais deux personnalités, deux réseaux, deux prix. Laquelle choisir ?

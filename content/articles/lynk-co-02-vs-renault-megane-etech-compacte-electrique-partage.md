@@ -9,6 +9,9 @@ publishedAt: "2026-05-09T09:00:00Z"
 seo:
   metaTitle: "Lynk & Co 02 vs Renault Mégane E-Tech 2026 : quelle compacte électrique choisir ?"
   metaDescription: "Lynk & Co 02 vs Renault Mégane E-Tech 2026 : design, autonomie, modèle d'abonnement. La compacte électrique de Geely face au lauréat Car of the Year 2023."
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "Lynk & Co 02 – compacte électrique par abonnement"
 ---
 
 En 2023, la **Renault Mégane E-Tech** remportait le titre de Voiture de l'Année — récompensant son design révolutionnaire, sa plateforme CMF-EV et son positionnement avant-gardiste. En 2026, le **Lynk & Co 02** arrive sur le même terrain avec une proposition qui questionne même le modèle de possession classique de la voiture. Deux visions, deux innovations, une comparaison.

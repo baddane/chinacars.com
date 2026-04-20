@@ -9,6 +9,9 @@ publishedAt: "2026-05-15T09:00:00Z"
 seo:
   metaTitle: "Garantie et SAV voitures chinoises France et Maroc 2026 : tout vérifier"
   metaDescription: "Garantie constructeur et SAV des voitures chinoises en France et au Maroc 2026 : BYD, MG, NIO, XPeng. Ce qu'il faut vérifier avant d'acheter pour éviter les mauvaises surprises."
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "Garantie et SAV voitures chinoises – BYD MG NIO"
 ---
 
 La garantie et le service après-vente sont les premières questions que pose tout acheteur rationnel d'une voiture chinoise. "Et si ça tombe en panne ?" "Où je vais pour la révision ?" "Les pièces sont disponibles ?" Ce guide répond à toutes ces questions — avec les données réelles du terrain en 2026.

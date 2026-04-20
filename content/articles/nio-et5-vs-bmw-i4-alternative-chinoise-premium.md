@@ -9,6 +9,9 @@ publishedAt: "2026-05-13T10:00:00Z"
 seo:
   metaTitle: "NIO ET5 vs BMW i4 2026 : la berline chinoise est-elle vraiment premium ?"
   metaDescription: "NIO ET5 vs BMW i4 2026 : performances, luxe, autonomie et prix. La berline électrique NIO est-elle une vraie alternative premium au BMW i4 ?"
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "NIO ET5 – berline électrique premium"
 ---
 
 Le segment des berlines électriques premium est l'un des plus difficiles à conquérir. Les acheteurs de BMW i4 ne choisissent pas seulement une voiture — ils choisissent une marque, une expérience, un statut. Alors quand **NIO** prétend rivaliser avec le **BMW i4**, la question mérite une réponse honnête : l'alternative chinoise est-elle vraiment premium, ou seulement premium en apparence ?

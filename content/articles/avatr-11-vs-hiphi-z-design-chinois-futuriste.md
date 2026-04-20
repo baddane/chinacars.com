@@ -9,6 +9,9 @@ publishedAt: "2026-05-01T10:00:00Z"
 seo:
   metaTitle: "Avatr 11 vs HiPhi Z 2026 : le design futuriste chinois au sommet"
   metaDescription: "Avatr 11 vs HiPhi Z 2026 : deux voitures électriques chinoises au design spectaculaire. Laquelle incarne le mieux l'avenir de l'automobile de luxe ?"
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "Avatr 11 – design futuriste chinois"
 ---
 
 Si vous pensiez encore que l'innovation de design venait exclusivement d'Italie ou d'Allemagne, l'**Avatr 11** et la **HiPhi Z** vont changer votre perspective. Ces deux véhicules électriques chinois haut de gamme repoussent les frontières de ce qu'une voiture peut être visuellement — et techniquement. Bienvenue dans le futur, made in China.

@@ -9,6 +9,9 @@ publishedAt: "2026-05-12T10:00:00Z"
 seo:
   metaTitle: "Voiture électrique au Maroc 2026 : guide complet achat, prix et recharge"
   metaDescription: "Guide complet voiture électrique au Maroc 2026 : marques disponibles, réseau de recharge ONEE, prix en MAD, avantages fiscaux et conseils pratiques pour acheteurs marocains."
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "Voiture électrique au Maroc – guide complet 2026"
 ---
 
 Le marché de la voiture électrique au Maroc connaît une accélération sans précédent en 2026. Entre les marques chinoises qui s'implantent massivement, les projets d'infrastructure de recharge de l'ONEE et les évolutions fiscales, il y a beaucoup à démêler. Ce guide vous donne toutes les clés pour faire le bon choix.

@@ -9,6 +9,9 @@ publishedAt: "2026-06-03T10:00:00Z"
 seo:
   metaTitle: "Qualité voitures chinoises 2026 : évolution et réalité"
   metaDescription: "La qualité des voitures chinoises a radicalement changé depuis 2015. Assemblage, fiabilité, matériaux : analyse honnête de la montée en gamme des constructeurs chinois en 2026."
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "Qualité voitures chinoises – évolution 2015-2026"
 ---
 
 "Une voiture chinoise ? Non merci." Cette réaction, commune en 2015, est devenue rare en 2026. La transformation de la qualité des voitures chinoises en dix ans est l'une des évolutions industrielles les plus spectaculaires de l'histoire récente. Voici l'analyse honnête : ce qui a vraiment changé, et ce qui reste encore à améliorer.

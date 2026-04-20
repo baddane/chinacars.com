@@ -9,6 +9,9 @@ publishedAt: "2026-05-20T09:00:00Z"
 seo:
   metaTitle: "Meilleures voitures chinoises sous 25 000 € en 2026 : guide d'achat"
   metaDescription: "Meilleures voitures chinoises moins de 25 000 € en 2026 : MG ZS Hybrid+, BYD Seagull, MG4, Omoda 5. Guide d'achat comparatif avec prix et équipements."
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "Meilleures voitures chinoises sous 25 000 € 2026"
 ---
 
 25 000 € (ou ~275 000 MAD) est un budget charnière sur le marché automobile 2026. En dessous, les choix chinois deviennent clairement supérieurs aux alternatives européennes et japonaises en termes de valeur. Voici notre sélection définitive.

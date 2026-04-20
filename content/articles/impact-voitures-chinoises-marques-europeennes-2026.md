@@ -9,6 +9,9 @@ publishedAt: "2026-06-05T10:00:00Z"
 seo:
   metaTitle: "Impact des voitures chinoises sur les marques européennes 2026"
   metaDescription: "Comment Volkswagen, Renault, Stellantis et BMW réagissent à l'offensive chinoise ? Analyse des impacts, stratégies et qui s'adapte le mieux en 2026."
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "Impact voitures chinoises sur marques européennes 2026"
 ---
 
 En 2026, l'irruption des voitures chinoises sur le marché européen n'est plus une menace future — c'est une réalité qui impacte les résultats financiers, les stratégies et les fermetures d'usines des constructeurs européens. Voici qui souffre le plus, qui s'adapte le mieux, et ce que cela signifie pour les consommateurs.

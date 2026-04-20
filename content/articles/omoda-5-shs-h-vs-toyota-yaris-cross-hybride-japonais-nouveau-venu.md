@@ -9,6 +9,9 @@ publishedAt: "2026-05-04T09:00:00Z"
 seo:
   metaTitle: "Omoda 5 SHS-H vs Toyota Yaris Cross 2026 : hybride chinois vs japonais"
   metaDescription: "Omoda 5 SHS-H vs Toyota Yaris Cross 2026 : technologie hybride, consommation, fiabilité et prix. L'hybride chinois SHS-H peut-il détrôner le Yaris Cross ?"
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "Omoda 5 SHS-H vs Toyota Yaris Cross – hybride japonais vs chinois"
 ---
 
 La **Toyota Yaris Cross** est l'un des SUV compacts hybrides les plus vendus d'Europe. Sa réputation de fiabilité à toute épreuve, sa consommation frugale et sa valeur résiduelle rassurante en font la référence absolue pour l'acheteur pragmatique. Mais en 2026, l'**Omoda 5 SHS-H** débarque avec une technologie hybride que Chery qualifie de "révolutionnaire". Les promesses tiennent-elles à l'épreuve des faits ?

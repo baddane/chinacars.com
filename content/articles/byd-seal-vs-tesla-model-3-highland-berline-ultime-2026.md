@@ -9,6 +9,9 @@ publishedAt: "2026-05-11T10:00:00Z"
 seo:
   metaTitle: "BYD Seal vs Tesla Model 3 Highland 2026 : quelle berline électrique choisir ?"
   metaDescription: "BYD Seal vs Tesla Model 3 Highland 2026 : autonomie, performances, technologie et prix. Le comparatif ultime entre les deux meilleures berlines électriques accessibles."
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "BYD Seal 2026 – berline électrique"
 ---
 
 C'est LE duel du segment. La **Tesla Model 3 Highland** est la référence absolue — la berline électrique qui a défini les attentes de millions d'acheteurs. Le **BYD Seal** est l'outsider devenu incontournable, fort de la technologie BYD Blade et d'une proposition de valeur qui fait réfléchir même les plus fidèles fans de Tesla. En 2026, ce comparatif est plus serré que jamais.

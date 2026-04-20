@@ -9,6 +9,9 @@ publishedAt: "2026-04-26T09:00:00Z"
 seo:
   metaTitle: "Jaecoo 7 vs Chery Tiggo 8 Pro 2026 : quel SUV familial Chery choisir ?"
   metaDescription: "Comparatif Jaecoo 7 vs Chery Tiggo 8 Pro 2026 : design, 7 places, motorisation et prix. Quel SUV familial du groupe Chery correspond à vos besoins ?"
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "Jaecoo 7 – SUV familial du groupe Chery"
 ---
 
 Un même groupe industriel, deux marques distinctes, deux visions différentes du SUV familial. Le **Jaecoo 7** et le **Chery Tiggo 8 Pro** sont tous deux issus des usines Chery Automobile, l'un des plus grands constructeurs automobiles chinois. Pourtant, ils s'adressent à des profils d'acheteurs bien différents. Comment choisir entre eux ?

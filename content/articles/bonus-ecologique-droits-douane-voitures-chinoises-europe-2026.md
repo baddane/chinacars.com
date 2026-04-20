@@ -9,6 +9,9 @@ publishedAt: "2026-05-16T09:00:00Z"
 seo:
   metaTitle: "Bonus écologique et droits de douane voitures chinoises Europe 2026"
   metaDescription: "Bonus écologique conditionné et droits de douane UE sur les voitures chinoises en 2026 : impact sur les prix BYD, MG, NIO. Ce que l'acheteur européen doit savoir."
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "Bonus écologique et droits de douane voitures chinoises EU"
 ---
 
 Si vous envisagez d'acheter une voiture chinoise en France ou en Europe en 2026, deux mécanismes réglementaires ont un impact direct sur le prix que vous payez : le **bonus écologique** (et ses nouvelles conditions d'éligibilité) et les **droits de douane supplémentaires** que l'Union Européenne a imposés sur les véhicules électriques fabriqués en Chine depuis 2024. Tour d'horizon.

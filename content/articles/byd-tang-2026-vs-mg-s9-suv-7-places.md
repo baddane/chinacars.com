@@ -9,6 +9,9 @@ publishedAt: "2026-05-05T10:00:00Z"
 seo:
   metaTitle: "BYD Tang 2026 vs MG S9 : quel SUV électrique 7 places choisir ?"
   metaDescription: "BYD Tang 2026 vs MG S9 : habitabilité 7 places, autonomie, équipements et prix. Le meilleur grand SUV électrique chinois pour les familles nombreuses."
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "BYD Tang 2026 – grand SUV électrique 7 places"
 ---
 
 Sept places, zéro émission, générosité maximale. Le **BYD Tang 2026** et le **MG S9** représentent l'approche chinoise du grand SUV familial électrique — et ils challendent sérieusement les Kia EV9, Tesla Model X et Mercedes EQB sur leur propre terrain. Espace, autonomie, technologies : le duel des familles nombreuses.

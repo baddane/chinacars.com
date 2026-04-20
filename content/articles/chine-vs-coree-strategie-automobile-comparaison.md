@@ -9,6 +9,9 @@ publishedAt: "2026-06-04T09:00:00Z"
 seo:
   metaTitle: "Chine vs Corée : deux stratégies automobiles en 2026"
   metaDescription: "BYD vs Hyundai, NIO vs Kia : comment la Chine et la Corée du Sud s'affrontent sur les marchés automobiles mondiaux ? Comparaison des stratégies et des résultats."
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "Chine vs Corée – stratégies automobiles comparées"
 ---
 
 La Corée du Sud a fait exactement ce que la Chine essaie de faire maintenant : passer de la réputation de "voitures bon marché et fragiles" à "voitures fiables, technologiques et bien finies". Il a fallu 25 ans aux Coréens. Les Chinois le font en 8. Analyse de deux stratégies et de leur confrontation.

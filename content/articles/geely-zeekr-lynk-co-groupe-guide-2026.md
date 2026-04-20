@@ -9,6 +9,9 @@ publishedAt: "2026-05-28T09:00:00Z"
 seo:
   metaTitle: "Geely 2026 : propriétaire Volvo, Zeekr, Lynk & Co — guide du groupe"
   metaDescription: "Guide complet Geely Group 2026 : Volvo, Polestar, Zeekr, Lynk & Co, Lotus, Lotus. Le groupe automobile chinois le plus international et ses modèles disponibles en Europe."
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "Geely Zeekr Lynk & Co – guide du groupe 2026"
 ---
 
 **Geely Holding** est peut-être le groupe automobile chinois le moins connu du grand public — et pourtant le plus présent dans notre quotidien. Si vous avez déjà conduit une Volvo, vous avez conduit une voiture Geely. Si vous regardez une Polestar ou une Lotus, c'est encore Geely. Voici le guide complet du groupe et de ses marques disponibles en Europe et au Maroc.

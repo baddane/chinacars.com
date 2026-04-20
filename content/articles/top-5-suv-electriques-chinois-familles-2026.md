@@ -9,6 +9,9 @@ publishedAt: "2026-05-19T10:00:00Z"
 seo:
   metaTitle: "Top 5 SUV électriques chinois pour familles 2026 : notre sélection"
   metaDescription: "Les 5 meilleurs SUV électriques chinois pour les familles en 2026 : BYD Tang, NIO EL6, MG HS, BYD Atto 3 Evo. Espace, autonomie et prix comparés."
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "Top 5 SUV électriques chinois pour les familles 2026"
 ---
 
 Acheter un SUV électrique chinois pour votre famille en 2026 : voici les 5 meilleurs choix, sélectionnés sur les critères qui comptent vraiment pour une famille — espace à bord, coffre, autonomie suffisante pour les vacances, sécurité et prix.

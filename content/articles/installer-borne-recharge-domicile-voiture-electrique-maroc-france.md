@@ -9,6 +9,9 @@ publishedAt: "2026-05-18T09:00:00Z"
 seo:
   metaTitle: "Installer borne recharge domicile voiture électrique France et Maroc 2026"
   metaDescription: "Guide installation borne recharge Wallbox domicile 2026 : coûts, aides, électricien agréé. Conseils pour France et Maroc pour recharger votre voiture chinoise chez vous."
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "Installer une borne de recharge à domicile – guide"
 ---
 
 La recharge à domicile est le point de départ de toute vie avec une voiture électrique. Si vous ne pouvez pas recharger chez vous, vous dépendrez entièrement des bornes publiques — souvent insuffisantes. Ce guide vous explique tout sur l'installation d'une borne à domicile en France et au Maroc.

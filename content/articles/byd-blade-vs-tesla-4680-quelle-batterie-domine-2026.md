@@ -9,6 +9,9 @@ publishedAt: "2026-05-10T09:00:00Z"
 seo:
   metaTitle: "BYD Blade vs Tesla 4680 : quelle batterie domine en 2026 ?"
   metaDescription: "BYD Blade vs Tesla 4680 : LFP vs NMC, densité énergétique, sécurité, durée de vie. Quelle technologie de batterie est supérieure en 2026 ? Analyse technique."
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "Batterie BYD Blade LFP – technologie révolutionnaire"
 ---
 
 La guerre des batteries électriques est peut-être la bataille technologique la plus importante du XXIe siècle. D'un côté, la **batterie Blade BYD** (LFP prismatique) — invention qui a réinventé la sécurité des batteries lithium. De l'autre, la **cellule 4680 Tesla** (NMC cylindrique format géant) — pari technologique de Musk pour réduire les coûts de 50%. En 2026, qui a gagné ?

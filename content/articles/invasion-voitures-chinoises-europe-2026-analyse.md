@@ -9,6 +9,9 @@ publishedAt: "2026-06-02T09:00:00Z"
 seo:
   metaTitle: "Voitures chinoises en Europe 2026 : l'invasion en chiffres"
   metaDescription: "Parts de marché, droits de douane, stratégies : analyse complète de la percée des voitures chinoises en Europe en 2026. Qui gagne, qui perd, et pourquoi."
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "Voitures chinoises en Europe – état des lieux 2026"
 ---
 
 En 2019, les voitures chinoises représentaient moins de 1% des ventes en Europe. En 2026, elles approchent les 8-10% sur le segment des véhicules électriques. Ce n'est pas une invasion — c'est une transformation structurelle du marché automobile européen. Voici l'analyse complète.

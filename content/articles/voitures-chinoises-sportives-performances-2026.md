@@ -9,6 +9,9 @@ publishedAt: "2026-05-21T09:00:00Z"
 seo:
   metaTitle: "Voitures chinoises les plus sportives 2026 : Xiaomi SU7, MG4 XPower, BYD Seal"
   metaDescription: "Les voitures chinoises les plus performantes et sportives en 2026 : Xiaomi SU7 Ultra record Nürburgring, MG4 XPower 435 ch, BYD Seal AWD. Performances comparées."
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "Voitures chinoises sportives et performances 2026"
 ---
 
 L'automobile chinoise n'est plus synonyme de voitures ternes et utilitaires. En 2026, plusieurs modèles chinois rivalisent avec les meilleures sportives européennes — et certains les battent. Voici le panorama des voitures chinoises les plus performantes.

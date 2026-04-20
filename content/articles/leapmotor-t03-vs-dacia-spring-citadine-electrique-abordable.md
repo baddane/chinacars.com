@@ -9,6 +9,9 @@ publishedAt: "2026-05-05T10:00:00Z"
 seo:
   metaTitle: "Leapmotor T03 vs Dacia Spring 2026 : quelle citadine électrique abordable ?"
   metaDescription: "Leapmotor T03 vs Dacia Spring 2026 : prix, autonomie, équipements. La citadine électrique chinoise la moins chère face au champion européen de l'accessibilité."
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "Leapmotor T03 face à la Dacia Spring"
 ---
 
 Moins de 15 000 € pour une voiture électrique neuve — c'est la promesse de la **Dacia Spring** depuis son lancement. Et cette promesse a séduit des centaines de milliers d'acheteurs européens. Mais en 2026, le **Leapmotor T03** débarque avec une proposition similaire, une technologie plus récente et une ambition claire : prendre la couronne du segment le plus accessible de l'électrique.

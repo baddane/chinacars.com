@@ -9,6 +9,9 @@ publishedAt: "2026-05-12T10:00:00Z"
 seo:
   metaTitle: "Jaecoo 5 vs Volkswagen Tiguan 2026 : le SUV allemand résiste-t-il au Chinois ?"
   metaDescription: "Jaecoo 5 vs Volkswagen Tiguan 2026 : prix, équipements, fiabilité et performances. Le SUV compact chinois est-il vraiment une alternative au Tiguan ?"
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "Jaecoo 5 – SUV compact challenger du Tiguan"
 ---
 
 Le **Volkswagen Tiguan** est l'un des SUV les plus vendus au monde depuis plus d'une décennie. Sa solidité, sa valeur résiduelle et sa polyvalence lui ont valu la confiance de millions d'acheteurs. Mais en 2026, le **Jaecoo 5** de Chery débarque avec 15 000 € de moins et une liste d'équipements qui fait rougir la liste de série du Tiguan. La menace est-elle sérieuse ?

@@ -9,6 +9,9 @@ publishedAt: "2026-05-13T09:00:00Z"
 seo:
   metaTitle: "HMI et interfaces numériques des voitures chinoises : pourquoi elles dominent en 2026"
   metaDescription: "HMI des voitures chinoises 2026 : HyperOS Xiaomi, DiLink BYD, ZEEKR OS — comment les interfaces chinoises ont révolutionné l'expérience numérique en voiture."
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "Interface HyperOS – tableau de bord voiture connectée"
 ---
 
 Si vous avez conduit une Xiaomi SU7, une BYD Han ou une NIO ET7, vous avez probablement ressenti la même chose : l'interface numérique est d'un autre niveau que ce proposent BMW, Mercedes ou Volkswagen à prix équivalent. Ce n'est pas un hasard. Voici pourquoi les voitures chinoises ont pris une longueur d'avance décisive sur le numérique embarqué.

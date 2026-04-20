@@ -9,6 +9,9 @@ publishedAt: "2026-05-28T10:00:00Z"
 seo:
   metaTitle: "Chery, Omoda, Jaecoo 2026 : guide complet du groupe en France et au Maroc"
   metaDescription: "Guide Chery Group 2026 : Omoda 5, Omoda E5, Jaecoo 7, Tiggo 8 Pro. Le groupe automobile chinois et ses marques en Europe et au Maroc — modèles, prix et technologies."
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "Chery Omoda Jaecoo – guide du groupe 2026"
 ---
 
 **Chery Group** est le plus grand exportateur de voitures chinoises de l'histoire — et l'un des moins connus en Europe jusqu'à très récemment. Fondé en 1997 à Wuhu (Anhui), Chery a vendu plus de **14 millions de voitures dans plus de 80 pays** avant même sa percée sur les marchés européens premium. En 2026, le groupe revient avec deux nouvelles marques — **Omoda** et **Jaecoo** — pour attaquer l'Europe et l'Afrique du Nord.

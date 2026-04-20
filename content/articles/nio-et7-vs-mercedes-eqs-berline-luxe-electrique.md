@@ -9,6 +9,9 @@ publishedAt: "2026-06-08T10:00:00Z"
 seo:
   metaTitle: "NIO ET7 vs Mercedes EQS 2026 : berline luxe électrique"
   metaDescription: "NIO ET7 vs Mercedes EQS : 150 kWh vs 118 kWh, BaaS vs Hyperscreen, 56 000 € vs 110 000 €. La berline de luxe électrique chinoise face à l'icône allemande en 2026."
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "NIO ET7 vs Mercedes EQS – berline de luxe électrique 2026"
 ---
 
 La Mercedes EQS est la berline électrique de luxe de référence en Europe depuis son lancement en 2021. La NIO ET7 est l'alternative chinoise premium — avec une batterie de 150 kWh, NOMI AI et le BaaS. Deux visions du luxe électrique, deux prix radicalement différents. Laquelle choisir en 2026 ?

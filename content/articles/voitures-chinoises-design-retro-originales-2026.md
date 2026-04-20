@@ -9,6 +9,9 @@ publishedAt: "2026-05-22T10:00:00Z"
 seo:
   metaTitle: "Voitures chinoises au design rétro et original 2026 : les modèles qui sortent du lot"
   metaDescription: "Les voitures chinoises au design rétro, futuriste ou original en 2026 : GWM Ora 03, MG Cyberster, HiPhi Z. Modèles qui se démarquent dans un marché standardisé."
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "Voitures chinoises au design rétro – Ora 03 MG Cyberster"
 ---
 
 Dans un marché de plus en plus normalisé où tous les SUV se ressemblent, certains constructeurs chinois prennent des risques de design remarquables. Voici les voitures chinoises qui ne ressemblent à rien d'autre — et qui réussissent à faire tourner les têtes en 2026.

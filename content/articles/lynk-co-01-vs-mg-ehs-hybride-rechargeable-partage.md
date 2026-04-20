@@ -9,6 +9,9 @@ publishedAt: "2026-05-03T10:00:00Z"
 seo:
   metaTitle: "Lynk & Co 01 vs MG EHS 2026 : quel SUV PHEV chinois choisir ?"
   metaDescription: "Lynk & Co 01 vs MG EHS 2026 : autonomie électrique, performances et prix. Le SUV hybride rechargeable chinois à l'abonnement vs l'achat classique."
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "Lynk & Co 01 – SUV hybride rechargeable par abonnement"
 ---
 
 Deux marques chinoises, deux SUV hybrides rechargeables, deux façons radicalement différentes de vous proposer une voiture. Le **Lynk & Co 01** est la représentation d'un nouveau modèle économique où vous pouvez partager votre voiture avec d'autres membres de la communauté pour amortir son coût. Le **MG EHS** est la proposition pragmatique classique : un SUV PHEV bien équipé, acheté ou loué de façon traditionnelle. Lequel vous correspond ?

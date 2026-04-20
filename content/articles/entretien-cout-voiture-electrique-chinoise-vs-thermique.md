@@ -9,6 +9,9 @@ publishedAt: "2026-05-17T09:00:00Z"
 seo:
   metaTitle: "Entretien voiture électrique chinoise 2026 : coûts réels vs thermique"
   metaDescription: "Combien coûte l'entretien d'une voiture électrique chinoise BYD ou MG en 2026 ? Comparaison des coûts réels de maintenance électrique vs thermique."
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "Coûts entretien voiture électrique chinoise vs thermique"
 ---
 
 "Les voitures électriques coûtent moins cher à entretenir" — c'est une affirmation que vous avez certainement entendue. Est-ce vrai pour les voitures chinoises en 2026 ? La réponse est nuancée : oui en grande partie, mais avec des exceptions importantes que tout acheteur doit connaître.

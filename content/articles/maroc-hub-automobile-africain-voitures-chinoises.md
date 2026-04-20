@@ -9,6 +9,9 @@ publishedAt: "2026-06-05T09:00:00Z"
 seo:
   metaTitle: "Maroc hub automobile africain : le rôle des voitures chinoises"
   metaDescription: "Le Maroc comme hub automobile africain : industrie, marché des voitures chinoises, infrastructure de recharge et perspectives 2030. Analyse complète."
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "Maroc hub automobile africain – rôle des voitures chinoises"
 ---
 
 Le Maroc n'est pas seulement un marché pour les voitures chinoises — il pourrait en devenir un centre de production. Avec ses accords de libre-échange, sa proximité avec l'Europe, son ambition industrielle et la montée des partenariats sino-marocains, le Royaume se positionne comme pivot stratégique de l'automobile africaine. Voici l'analyse complète.

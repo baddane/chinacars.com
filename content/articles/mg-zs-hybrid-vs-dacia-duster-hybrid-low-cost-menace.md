@@ -9,6 +9,9 @@ publishedAt: "2026-05-01T09:00:00Z"
 seo:
   metaTitle: "MG ZS Hybrid+ vs Dacia Duster Hybrid 2026 : le duel des SUV compacts abordables"
   metaDescription: "MG ZS Hybrid+ vs Dacia Duster Hybrid 2026 : prix, équipements, consommation et fiabilité. Le SUV low-cost chinois menace-t-il le roi européen de l'accessibilité ?"
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "MG ZS Hybrid+ face au Dacia Duster"
 ---
 
 Depuis des années, la **Dacia** occupe une position unique sur le marché automobile européen : proposer l'essentiel sans fioritures, au prix le plus juste. Le Duster Hybrid incarne cette philosophie avec brio. Mais le **MG ZS Hybrid+** est arrivé avec une proposition provocatrice : plus d'équipements, performances équivalentes, et un prix tout aussi agressif. Le trône du low-cost intelligent est-il en danger ?

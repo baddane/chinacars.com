@@ -9,6 +9,9 @@ publishedAt: "2026-06-10T09:00:00Z"
 seo:
   metaTitle: "Leapmotor B10 vs MG4 2026 : quelle compacte électrique sous 30 000 € ?"
   metaDescription: "Leapmotor B10 vs MG4 Standard : assemblage Europe vs Chine, autonomie, technologie et prix. Quel choix sous 30 000 € pour une compacte électrique chinoise en 2026 ?"
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "Leapmotor B10 vs MG4 – compacte électrique budget 2026"
 ---
 
 Le Leapmotor B10 est la nouvelle arme de Stellantis dans la guerre des compactes électriques abordables. Assemblé en Pologne, distribué via les réseaux Peugeot/Citroën, il affronte directement la MG4 Standard — le best-seller chinois à moins de 30 000 €. Qui l'emporte ?

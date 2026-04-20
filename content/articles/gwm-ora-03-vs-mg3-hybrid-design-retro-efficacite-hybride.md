@@ -9,6 +9,9 @@ publishedAt: "2026-04-29T09:00:00Z"
 seo:
   metaTitle: "GWM Ora 03 vs MG3 Hybrid+ 2026 : design rétro ou hybride efficace ?"
   metaDescription: "Comparatif GWM Ora 03 vs MG3 Hybrid+ 2026 : design, consommation, autonomie et prix. Citadine électrique ou hybride chinoise : laquelle choisir en ville ?"
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "GWM Ora 03 – citadine électrique rétro"
 ---
 
 Deux citadines chinoises, deux partis pris radicalement opposés. La **GWM Ora 03** est une voiture électrique habillée en rétro-futuriste attachant qui fait tourner toutes les têtes. La **MG3 Hybrid+** est une citadine hybride efficace dont le système de propulsion avant-gardiste fait l'admiration des ingénieurs. Laquelle correspond à votre profil ?

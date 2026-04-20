@@ -9,6 +9,9 @@ publishedAt: "2026-04-22T09:00:00Z"
 seo:
   metaTitle: "Zeekr 001 vs NIO ET7 2026 : comparatif berlines électriques premium chinoises"
   metaDescription: "Zeekr 001 vs NIO ET7 2026 : design, performances, autonomie et technologie. Quelle berline électrique premium chinoise mérite votre investissement ?"
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "Zeekr 001 face au NIO ET7"
 ---
 
 Il fut un temps où "voiture de luxe chinoise" faisait sourire. Ce temps est révolu. En 2026, le **Zeekr 001** et le **NIO ET7** représentent deux propositions de luxe technologique parfaitement abouties, capables de tenir tête aux meilleures berlines électriques de Mercedes, BMW ou Audi. Mais entre ces deux géants, lequel incarne le mieux l'avenir de l'automobile premium ?

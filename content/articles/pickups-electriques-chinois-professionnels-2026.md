@@ -9,6 +9,9 @@ publishedAt: "2026-05-22T09:00:00Z"
 seo:
   metaTitle: "Pickups électriques chinois 2026 : BYD Shark, Maxus T90 EV — pour professionnels"
   metaDescription: "Pickups électriques chinois pour professionnels 2026 : BYD Shark PHEV, Maxus T90 EV, GWM Cannon. Charge utile, autonomie et prix comparés. Guide complet."
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "Pickups électriques chinois professionnels 2026"
 ---
 
 Le pickup électrique ou hybride rechargeable est la prochaine révolution dans le monde des utilitaires professionnels. La Chine est en avance sur ce segment — BYD, Maxus et GWM proposent des modèles sérieux qui challengent le Ford Ranger PHEV ou le Mitsubishi L200 PHEV. Tour d'horizon des meilleurs choix pour les professionnels en 2026.

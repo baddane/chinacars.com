@@ -9,6 +9,9 @@ publishedAt: "2026-04-21T09:00:00Z"
 seo:
   metaTitle: "MG4 vs BYD Dolphin 2026 : quelle compacte électrique choisir ?"
   metaDescription: "Comparatif MG4 vs BYD Dolphin 2026 : autonomie, équipements, habitabilité et prix sous les 25 000 €. Quelle compacte électrique chinoise s'impose ?"
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "MG4 Electric – compacte électrique"
 ---
 
 Le marché de la compacte électrique accessible est devenu le terrain de jeu favori des constructeurs chinois en Europe. Et dans ce segment disputé, deux modèles se démarquent particulièrement : la **MG4** et la **BYD Dolphin**. Toutes deux revendiquent un rapport qualité-prix imbattable, une autonomie sérieuse et des équipements généreux pour moins de 25 000 €. Mais en regardant de plus près, les différences sont réelles. Voici le match complet.

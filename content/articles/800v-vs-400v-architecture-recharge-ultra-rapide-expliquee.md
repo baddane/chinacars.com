@@ -9,6 +9,9 @@ publishedAt: "2026-05-12T09:00:00Z"
 seo:
   metaTitle: "800V vs 400V : l'architecture de recharge ultra-rapide expliquée en 2026"
   metaDescription: "800V vs 400V : pourquoi l'architecture 800V permet une recharge plus rapide. Explications simples et comparaison des voitures électriques chinoises en 2026."
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "Architecture 800V – recharge ultra-rapide 280 kW"
 ---
 
 Pourquoi la **Porsche Taycan** ou la **Xiaomi SU7 Ultra** rechargent-elles de 10 à 80% en moins de 20 minutes, là où une Peugeot e-2008 met 45 minutes ? La réponse tient en deux chiffres : **800V ou 400V**. Voici l'explication simple de cette révolution technique qui change tout à l'expérience de recharge.

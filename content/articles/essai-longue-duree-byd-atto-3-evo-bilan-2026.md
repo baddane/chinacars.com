@@ -9,6 +9,9 @@ publishedAt: "2026-05-31T09:00:00Z"
 seo:
   metaTitle: "Essai longue durée BYD Atto 3 Evo : bilan honnête 60 000 km"
   metaDescription: "BYD Atto 3 Evo après 60 000 km : batterie Blade LFP quasi intacte, autonomie réelle, coûts et fiabilité. Le bilan complet en France et au Maroc."
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "BYD Atto 3 Evo – bilan 60 000 km Blade LFP"
 ---
 
 Le BYD Atto 3 Evo est arrivé sur le marché européen avec une promesse forte : la batterie Blade LFP, indestructible selon BYD. Après 60 000 km d'usage réel entre Paris, le sud de la France et le Maroc, qu'est-ce qui a tenu ? Voici le bilan sans concessions.

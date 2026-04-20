@@ -9,6 +9,9 @@ publishedAt: "2026-06-11T10:00:00Z"
 seo:
   metaTitle: "BYD Seal U vs XPeng G9 : grand SUV électrique familial 2026"
   metaDescription: "BYD Seal U vs XPeng G9 : Blade LFP vs NMC 800V, espace, prix et autonomie. Quel grand SUV électrique chinois choisir pour votre famille en 2026 ?"
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "BYD Seal U vs XPeng G9 – grand SUV électrique familial"
 ---
 
 Le BYD Seal U et le XPeng G9 ciblent les familles qui veulent de l'espace, de l'autonomie et la technologie des voitures chinoises dans un grand SUV. L'un mise sur la fiabilité et le prix. L'autre sur la technologie 800V et le XNGP. Lequel est le meilleur choix familial en 2026 ?

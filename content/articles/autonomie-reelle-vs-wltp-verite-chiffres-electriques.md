@@ -9,6 +9,9 @@ publishedAt: "2026-06-02T10:00:00Z"
 seo:
   metaTitle: "Autonomie réelle vs WLTP : comprendre les vrais chiffres en 2026"
   metaDescription: "WLTP vs CLTC vs autonomie réelle : guide complet pour interpréter les chiffres d'autonomie des voitures électriques chinoises et européennes. Facteurs de correction selon votre usage."
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "Autonomie réelle vs WLTP – la vérité sur les chiffres"
 ---
 
 Le constructeur annonce 600 km. Votre voisin dit qu'il ne dépasse pas 380 km sur l'autoroute. Votre collègue fait 520 km en ville. Qui a raison ? Tout le monde — et personne. Voici le guide complet pour comprendre l'autonomie réelle des voitures électriques.

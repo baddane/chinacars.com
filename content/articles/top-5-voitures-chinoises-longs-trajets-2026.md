@@ -9,6 +9,9 @@ publishedAt: "2026-05-20T10:00:00Z"
 seo:
   metaTitle: "Top 5 voitures chinoises pour longs trajets 2026 : autonomie et recharge"
   metaDescription: "Les 5 meilleures voitures chinoises pour les longs trajets 2026 : BYD Tang, NIO ET7, XPeng G6, Zeekr 001. Autonomie, vitesse de charge et confort comparés."
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "Top 5 voitures chinoises pour longs trajets 2026"
 ---
 
 Vous faites régulièrement des trajets de 300 km+ et vous envisagez une voiture chinoise ? La combinaison autonomie élevée + recharge rapide est votre critère numéro un. Voici les 5 meilleurs choix en 2026 pour les grands rouleurs.

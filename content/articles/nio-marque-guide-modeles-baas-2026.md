@@ -9,6 +9,9 @@ publishedAt: "2026-05-27T09:00:00Z"
 seo:
   metaTitle: "NIO 2026 : guide complet modèles ET5, ET7, EL6, EL7, ET9 et système BaaS"
   metaDescription: "Guide complet NIO 2026 : ET5, ET7, EL6, EL7, ET9 — modèles, BaaS (batterie en abonnement), Power Swap, prix Europe et Maroc. Tout sur la marque NIO."
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "NIO – guide complet marque BaaS et modèles 2026"
 ---
 
 **NIO** n'est pas une simple marque de voitures chinoises — c'est une vision différente de ce que doit être la mobilité électrique. Fondée en 2014 par William Li, NIO a introduit des concepts que l'industrie automobile mondiale commence seulement à copier : le swap de batterie en 3 minutes, la formule BaaS (batterie en abonnement), et l'assistant IA NOMI. Voici le guide complet.

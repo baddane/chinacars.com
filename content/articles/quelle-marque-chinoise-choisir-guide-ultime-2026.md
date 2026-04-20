@@ -9,6 +9,9 @@ publishedAt: "2026-06-06T09:00:00Z"
 seo:
   metaTitle: "Quelle marque chinoise choisir en 2026 ? Le guide ultime"
   metaDescription: "BYD, MG, NIO, XPeng, Zeekr ou Chery ? Guide complet pour choisir la meilleure marque chinoise selon votre profil, budget et usage en France et au Maroc en 2026."
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "Quelle marque chinoise choisir ? Guide ultime 2026"
 ---
 
 C'est la question que tout le monde finit par poser : "Je veux une voiture chinoise — mais laquelle, et de quelle marque ?" Avec une dizaine de marques disponibles en France et au Maroc, la décision n'est pas simple. Ce guide structure le choix selon votre profil réel.

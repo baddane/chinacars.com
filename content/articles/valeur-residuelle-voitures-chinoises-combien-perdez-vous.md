@@ -9,6 +9,9 @@ publishedAt: "2026-05-14T10:00:00Z"
 seo:
   metaTitle: "Valeur résiduelle voitures chinoises 2026 : que vaut votre MG ou BYD à la revente ?"
   metaDescription: "Valeur résiduelle des voitures chinoises en 2026 : BYD, MG, NIO, Zeekr. Analyse de la dépréciation et conseils pour minimiser la perte à la revente."
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "Valeur résiduelle voitures chinoises – guide revente"
 ---
 
 C'est la question que tous les vendeurs de voitures chinoises évitent soigneusement. Combien vaut une BYD Atto 3 ou une MG ZS EV deux ou trois ans après l'achat ? La dépréciation des marques émergentes est l'un des risques les moins discutés — et pourtant l'un des plus importants financièrement. Voici les données disponibles en 2026.

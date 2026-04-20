@@ -9,6 +9,9 @@ publishedAt: "2026-05-06T09:00:00Z"
 seo:
   metaTitle: "BYD Han vs Mercedes EQE 2026 : berline exécutive chinoise ou allemande ?"
   metaDescription: "BYD Han vs Mercedes EQE 2026 : design, performances, autonomie et prix. La berline executive électrique chinoise peut-elle défier la Mercedes sur son propre terrain ?"
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "BYD Han face à la Mercedes EQE"
 ---
 
 La berline executive a longtemps été le bastion inébranlable des marques allemandes. La **Mercedes EQE** représente cette tradition électrifiée : technologie de pointe, habitacle somptueux, étoile à trois branches. Mais en 2026, la **BYD Han** s'est imposée comme une alternative crédible sur ce segment — avec la batterie Blade LFP, un design international et un prix significativement inférieur. Qui mérite votre confiance ?

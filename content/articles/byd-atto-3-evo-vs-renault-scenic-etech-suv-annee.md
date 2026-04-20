@@ -9,6 +9,9 @@ publishedAt: "2026-05-02T09:00:00Z"
 seo:
   metaTitle: "BYD Atto 3 Evo vs Renault Scenic E-Tech 2026 : quel SUV électrique choisir ?"
   metaDescription: "Comparatif BYD Atto 3 Evo vs Renault Scenic E-Tech 2026 : autonomie, habitabilité, technologie et prix. Le SUV électrique familial chinois face au champion européen."
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "BYD Atto 3 Evo – SUV électrique familial"
 ---
 
 Deux reconnaissances, deux champions. Le **Renault Scenic E-Tech** a remporté le titre de Voiture de l'Année 2024 en Europe. Le **BYD Atto 3** a lui accumulé les prix dans les marchés asiatiques et est devenu l'un des SUV électriques les plus vendus en Europe. En 2026, avec les évolutions apportées sur l'Atto 3 Evo, le face-à-face est plus serré que jamais. Lequel mérite votre investissement ?

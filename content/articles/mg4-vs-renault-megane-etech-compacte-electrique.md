@@ -9,6 +9,9 @@ publishedAt: "2026-06-09T09:00:00Z"
 seo:
   metaTitle: "MG4 vs Renault Mégane E-Tech 2026 : comparatif compacte électrique"
   metaDescription: "MG4 vs Renault Mégane E-Tech Electric : autonomie, prix, charge et habitabilité. La compacte électrique française face au champion chinois sous 35 000 € en 2026."
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "MG4 vs Renault Mégane E-Tech – compacte électrique 2026"
 ---
 
 Le duel est direct et symbolique : la Renault Mégane E-Tech Electric, fleuron de l'électrique français, face à la MG4, le SUV berline chinois qui s'est imposé comme le best-seller électrique en Europe. Deux visions, deux prix, un segment commun.

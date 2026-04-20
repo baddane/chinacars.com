@@ -9,6 +9,9 @@ publishedAt: "2026-05-14T10:00:00Z"
 seo:
   metaTitle: "XPeng G6 vs Tesla Model Y 2026 : la recharge rapide 800V fait-elle la différence ?"
   metaDescription: "XPeng G6 vs Tesla Model Y 2026 : architecture 800V, autonomie, performances et prix. Le SUV électrique chinois XPeng dépasse-t-il le Tesla Model Y ?"
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "XPeng G6 – SUV électrique 800V"
 ---
 
 Le **Tesla Model Y** est la voiture la plus vendue au monde en 2023 et 2024 — toutes motorisations confondues. Sa domination sur le segment des SUV électriques compacts est sans équivalent. Mais le **XPeng G6** arrive avec un argument technique décisif : une architecture **800V** qui lui confère des capacités de recharge ultra-rapide hors norme pour sa catégorie. La technologie change-t-elle la donne ?

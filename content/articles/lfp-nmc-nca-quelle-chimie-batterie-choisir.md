@@ -9,6 +9,9 @@ publishedAt: "2026-05-25T09:00:00Z"
 seo:
   metaTitle: "LFP vs NMC vs NCA : quelle chimie de batterie choisir en 2026 ?"
   metaDescription: "LFP, NMC, NCA : différences des chimies de batteries électriques. Durabilité, densité énergétique, tolérance à la chaleur — laquelle choisir pour votre usage ?"
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "LFP NMC NCA – quelle chimie de batterie choisir ?"
 ---
 
 Vous avez vu "LFP", "NMC" ou "NCA" dans les fiches techniques de voitures électriques sans vraiment savoir ce que cela signifie ? Ce n'est pas qu'un détail technique — la chimie de la batterie influence directement la durabilité, l'autonomie, le comportement au chaud et au froid, et le coût de votre véhicule. Guide complet.

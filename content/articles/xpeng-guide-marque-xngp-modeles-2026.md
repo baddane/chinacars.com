@@ -9,6 +9,9 @@ publishedAt: "2026-05-27T10:00:00Z"
 seo:
   metaTitle: "XPeng 2026 : guide complet G6, G9, XNGP et conduite autonome"
   metaDescription: "Guide complet XPeng 2026 : G6, G9, P7i, X9 — modèles, technologie XNGP (conduite autonome), architecture 800V, prix Europe. La marque la plus avancée sur l'autonomie de conduite."
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "XPeng – guide complet XNGP et modèles 2026"
 ---
 
 **XPeng** (XPEV) est le constructeur chinois qui a fait de la conduite autonome sa raison d'être. Fondé en 2014 par He Xiaopeng (ex-VP d'Alibaba), XPeng est la marque qui investit le plus (proportionnellement) dans la R&D de la conduite autonome. En 2026, son système **XNGP** (XPeng Navigation Guided Pilot) est considéré comme l'un des systèmes de conduite assistée les plus avancés disponibles sur des voitures de série.

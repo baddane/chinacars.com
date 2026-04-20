@@ -9,6 +9,9 @@ publishedAt: "2026-05-14T09:00:00Z"
 seo:
   metaTitle: "Meilleures voitures chinoises moins de 30 000 € en 2026 : notre sélection"
   metaDescription: "Meilleures voitures chinoises sous 30 000 € en 2026 : MG, BYD, Leapmotor, Omoda. Comparatif et recommandations pour faire le meilleur achat au meilleur prix."
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "Meilleures voitures chinoises sous 30 000 € en 2026"
 ---
 
 Le marché des voitures chinoises sous 30 000 € est en pleine effervescence en 2026. Jamais autant de technologie, d'espace et d'équipements n'ont été disponibles pour ce budget. Voici notre sélection des meilleurs achats de la catégorie — testés, comparés et classés selon votre profil.

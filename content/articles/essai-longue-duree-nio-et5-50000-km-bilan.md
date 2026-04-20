@@ -9,6 +9,9 @@ publishedAt: "2026-05-31T10:00:00Z"
 seo:
   metaTitle: "Essai longue durée NIO ET5 après 50 000 km : bilan honnête"
   metaDescription: "NIO ET5 après 50 000 km : BaaS, batterie, NOMI AI, recharge 500 kW et fiabilité réelle. Le retour d'expérience complet sur la berline NIO en usage quotidien."
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "NIO ET5 – bilan 50 000 km BaaS et NOMI AI"
 ---
 
 La NIO ET5 est arrivée en Europe avec deux promesses révolutionnaires : le BaaS (Battery as a Service, location de batterie à la demande) et les stations de swap de batterie en 3 minutes. Après 50 000 km de test intensif, qu'est-ce qui a changé la vie — et qu'est-ce qui a déçu ?

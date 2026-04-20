@@ -9,6 +9,9 @@ publishedAt: "2026-06-04T10:00:00Z"
 seo:
   metaTitle: "Voitures chinoises en 2030 : les tendances confirmées"
   metaDescription: "Batteries solides, autonomie niveau 3, nouvelles usines : ce qui attend les voitures chinoises d'ici 2030. Tendances confirmées, prix et innovations attendues."
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "Voitures chinoises en 2030 – batteries solides et autonomie L3"
 ---
 
 En 2020, personne n'aurait prévu qu'en 2026, une voiture chinoise battrait le record du Nürburgring. En 2030, que va-t-il se passer ? Voici les tendances confirmées — et les scénarios plausibles — pour les voitures chinoises des 4 prochaines années.

@@ -9,6 +9,9 @@ publishedAt: "2026-05-02T10:00:00Z"
 seo:
   metaTitle: "BYD Shark vs Maxus T90 EV 2026 : quel pick-up chinois choisir ?"
   metaDescription: "BYD Shark vs Maxus T90 EV 2026 : charge utile, autonomie, prix et capacités tout-terrain. Le meilleur pick-up électrique chinois pour les professionnels."
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "BYD Shark – pickup hybride rechargeable"
 ---
 
 Le pick-up électrique est peut-être le segment automobile le plus difficile à conquérir. Les professionnels exigent une charge utile sérieuse, une autonomie sans compromis, des capacités tout-terrain réelles et un coût total de possession maîtrisé. Le **BYD Shark** et le **Maxus T90 EV** relèvent ce défi avec des propositions ambitieuses. Lequel mérite la confiance des artisans, agriculteurs et gestionnaires de flotte ?

@@ -9,6 +9,9 @@ publishedAt: "2026-05-08T10:00:00Z"
 seo:
   metaTitle: "Seres 5 vs Voyah Free 2026 : les outsiders du SUV électrique chinois"
   metaDescription: "Seres 5 vs Voyah Free 2026 : deux SUV électriques chinois méconnus mais ambitieux. Design, autonomie et prix — valent-ils le détour face aux marques établies ?"
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "Seres 5 – SUV électrique chinois"
 ---
 
 Pendant que BYD, MG et NIO accaparent les manchettes, deux marques chinoises moins connues avancent discrètement avec des propositions de valeur réelles. Le **Seres 5** et le **Voyah Free** ne bénéficient pas de la notoriété des géants, mais leurs caractéristiques techniques et leurs prix en font des alternatives légitimes à considérer. Portrait de deux outsiders déterminés.

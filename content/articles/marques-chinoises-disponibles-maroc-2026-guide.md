@@ -9,6 +9,9 @@ publishedAt: "2026-05-23T09:00:00Z"
 seo:
   metaTitle: "Marques chinoises disponibles au Maroc 2026 : BYD, MG, Omoda — guide complet"
   metaDescription: "Toutes les marques chinoises disponibles officiellement au Maroc en 2026 : importateurs, modèles, prix MAD. BYD, MG, Omoda, NIO, Chery, GWM — guide complet."
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "Marques chinoises disponibles au Maroc en 2026"
 ---
 
 Le marché marocain est devenu l'un des plus actifs d'Afrique pour les marques chinoises en 2026. Ce guide recense toutes les marques officiellement distribuées, leurs importateurs agréés, leurs modèles disponibles et leurs prix en MAD — pour que vous puissiez comparer et choisir en toute connaissance de cause.

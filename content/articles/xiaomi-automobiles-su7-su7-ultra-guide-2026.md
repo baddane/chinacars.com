@@ -9,6 +9,9 @@ publishedAt: "2026-05-29T10:00:00Z"
 seo:
   metaTitle: "Xiaomi Automobiles 2026 : SU7, SU7 Ultra et HyperOS — guide complet"
   metaDescription: "Guide Xiaomi Automobiles 2026 : SU7 Standard, Pro et Ultra (record Nürburgring), HyperOS, prix France et Maroc. Le constructeur automobile issu des smartphones."
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "Xiaomi Automobiles SU7 et SU7 Ultra – guide 2026"
 ---
 
 En 2020, quand Lei Jun (PDG de Xiaomi) a annoncé que Xiaomi allait fabriquer des voitures, beaucoup ont souri. En 2024, la **Xiaomi SU7 Ultra** a battu le record du Nürburgring. En 2026, Xiaomi est un constructeur automobile à part entière — avec des ventes en Chine dépassant déjà les attentes les plus optimistes. Voici le guide complet.

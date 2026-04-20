@@ -9,6 +9,9 @@ publishedAt: "2026-05-07T10:00:00Z"
 seo:
   metaTitle: "MG ZS EV vs Peugeot e-2008 2026 : SUV électrique chinois ou français ?"
   metaDescription: "MG ZS EV vs Peugeot e-2008 2026 : autonomie, équipements, prix. Le SUV électrique compact MG face au lion Peugeot. Quel choix pour l'acheteur français en 2026 ?"
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "MG ZS EV face au Peugeot e-2008"
 ---
 
 Le **Peugeot e-2008** fait partie des SUV électriques compacts les plus vendus en France. Design inspiré, cockpit i-Cockpit signature et réseau Stellantis dense — le lion rugit fort. Mais le **MG ZS EV** est là depuis 2019 avec une proposition qui ne cesse de s'améliorer. En 2026, la version restylée du ZS EV remet les compteurs à zéro. Lequel faut-il choisir ?

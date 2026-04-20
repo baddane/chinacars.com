@@ -9,6 +9,9 @@ publishedAt: "2026-05-06T10:00:00Z"
 seo:
   metaTitle: "Omoda E5 vs Hyundai Kona Electric 2026 : SUV électrique compact, Chine ou Corée ?"
   metaDescription: "Chery Omoda E5 vs Hyundai Kona Electric 2026 : autonomie, équipements, prix. Le SUV électrique compact chinois peut-il détrôner le Kona Electric au Maroc et en Europe ?"
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "Chery Omoda E5 – SUV électrique compact accessible"
 ---
 
 La **Hyundai Kona Electric** a longtemps été la valeur sûre du SUV électrique compact : autonomie raisonnable, qualité coréenne éprouvée, réseau SAV dense. Mais le **Chery Omoda E5** arrive en 2026 avec un argument simple — plus d'équipements, plus de style, pour le même prix. Chine contre Corée : quel SUV électrique compact choisir ?

@@ -9,6 +9,9 @@ publishedAt: "2026-04-27T09:00:00Z"
 seo:
   metaTitle: "MG Cyberster vs BYD Seal 06 GT 2026 : sportives électriques chinoises comparées"
   metaDescription: "MG Cyberster vs BYD Seal 06 GT 2026 : performances, sensations et prix. Quelle sportive électrique chinoise offre le meilleur plaisir de conduire ?"
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "MG Cyberster – roadster électrique chinois"
 ---
 
 La Chine peut-elle concevoir des voitures qui font battre le cœur ? La réponse est oui, et la preuve en est double : le **MG Cyberster** et le **BYD Seal 06 GT** prouvent que le plaisir de conduire n'est pas l'exclusivité des constructeurs européens ou japonais. Roadster électrique contre berline sportive GT : le duel des sensations chinoises en 2026.

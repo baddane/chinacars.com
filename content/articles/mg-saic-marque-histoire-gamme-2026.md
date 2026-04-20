@@ -9,6 +9,9 @@ publishedAt: "2026-05-26T10:00:00Z"
 seo:
   metaTitle: "MG (SAIC) 2026 : histoire, gamme complète et prix France et Maroc"
   metaDescription: "Guide complet MG Motor 2026 : histoire de la marque, gamme MG3 à MG Cyberster, technologie Pilot, prix Europe et Maroc. Tout sur la marque anglaise devenue chinoise."
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "MG SAIC – histoire et gamme complète 2026"
 ---
 
 **MG Motor** est l'une des histoires les plus paradoxales de l'automobile mondiale. Une marque fondée à Oxford en 1924 par Cecil Kimber, synonyme de roadsters sportifs anglais (MGA, MGB, MGC) — aujourd'hui propriété de **SAIC Motor** (Shanghai Automotive Industry Corporation), le plus grand constructeur automobile chinois. Comment ce mariage inattendu a-t-il créé l'une des marques les plus vendues d'Europe en 2026 ?

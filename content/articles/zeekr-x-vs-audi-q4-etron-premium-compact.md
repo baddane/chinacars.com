@@ -9,6 +9,9 @@ publishedAt: "2026-05-08T10:00:00Z"
 seo:
   metaTitle: "Zeekr X vs Audi Q4 e-tron 2026 : SUV électrique premium compact, qui gagne ?"
   metaDescription: "Zeekr X vs Audi Q4 e-tron 2026 : design, autonomie, prix. Le SUV électrique premium compact de Zeekr (Geely) face à l'Audi Q4 e-tron. Comparatif complet."
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "Zeekr X vs Audi Q4 e-tron – SUV premium compact"
 ---
 
 L'**Audi Q4 e-tron** a défini le SUV électrique premium compact avec ses quatre anneaux, son intérieur haut de gamme et la plateforme MEB éprouvée du groupe Volkswagen. Face à lui, le **Zeekr X** — marque premium de Geely, propriétaire de Volvo et Polestar — arrive avec une proposition qui oscille entre le cousinage avec les marques scandinaves et une identité technologique chinoise assumée. Duel inédit.

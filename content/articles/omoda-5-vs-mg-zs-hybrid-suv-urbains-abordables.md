@@ -9,6 +9,9 @@ publishedAt: "2026-04-23T09:00:00Z"
 seo:
   metaTitle: "Omoda 5 vs MG ZS Hybrid+ 2026 : comparatif SUV compacts abordables"
   metaDescription: "Comparatif Omoda 5 vs MG ZS Hybrid+ 2026 : design, consommation, équipements et prix. Quel SUV compact chinois choisir pour un budget maîtrisé ?"
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "Omoda 5 – SUV compact accessible"
 ---
 
 Le SUV compact accessible est le segment le plus disputé de l'automobile mondiale. Et les Chinois l'ont bien compris : l'**Omoda 5** de Chery et le **MG ZS Hybrid+** de SAIC Motor se battent à coups d'équipements généreux et de prix agressifs pour séduire les acheteurs en quête d'un SUV pratique sans se ruiner. Lequel des deux mérite votre confiance en 2026 ?

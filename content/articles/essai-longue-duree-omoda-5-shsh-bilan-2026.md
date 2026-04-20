@@ -9,6 +9,9 @@ publishedAt: "2026-06-01T10:00:00Z"
 seo:
   metaTitle: "Essai longue durée Omoda 5 SHS-H : bilan honnête 40 000 km"
   metaDescription: "Omoda 5 SHS-H après 40 000 km : consommation hybride réelle, fiabilité, comportement et rapport qualité/prix. Le bilan complet au Maroc et en France."
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "Omoda 5 SHS-H – bilan hybride 40 000 km"
 ---
 
 L'Omoda 5 SHS-H est la première hybride du groupe Chery à s'imposer en volume en Europe et au Maroc. Son argument : une technologie hybride full-HEV comparable à Toyota pour 21 000 € de moins. Après 40 000 km d'usage réel, le système SHS-H tient-il ses promesses ?

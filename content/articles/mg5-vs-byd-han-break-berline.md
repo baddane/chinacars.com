@@ -9,6 +9,9 @@ publishedAt: "2026-05-09T10:00:00Z"
 seo:
   metaTitle: "MG5 vs BYD Han 2026 : break électrique ou grande berline chinoise ?"
   metaDescription: "MG5 vs BYD Han 2026 : le break électrique abordable de MG face à la grande berline statutaire de BYD. Espace, autonomie et prix comparés."
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "BYD Han – berline électrique haut de gamme"
 ---
 
 Comparer le **MG5** et le **BYD Han**, c'est comparer deux philosophies de la voiture de famille électrique. L'un est un break accessible, l'héritier d'une longue tradition de voitures pratiques et rationnelles. L'autre est une grande berline statutaire qui revendique le luxe chinois sans complexe. Ce ne sont pas des concurrents directs — mais si vous hésitez sur le format de votre prochaine voiture électrique, ce face-à-face mérite d'être lu.

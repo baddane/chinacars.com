@@ -9,6 +9,9 @@ publishedAt: "2026-05-04T10:00:00Z"
 seo:
   metaTitle: "Hongqi E-HS9 vs NIO EL7 2026 : luxe présidentiel chinois face à face"
   metaDescription: "Hongqi E-HS9 vs NIO EL7 2026 : deux SUV électriques de grand luxe chinois. Tradition impériale vs technologie d'avant-garde — lequel incarne le mieux le luxe chinois ?"
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "Hongqi E-HS9 – limousine électrique de prestige"
 ---
 
 Deux SUV. Deux légendes. Deux façons d'être le summum de l'automobile chinoise. Le **Hongqi E-HS9** est la voiture de l'État, celle qui transporte les dignitaires et incarne la fierté nationale de la Chine. Le **NIO EL7** est la voiture du futur, chargée de technologie, associée à une communauté exclusive et à un modèle de service révolutionnaire. En 2026, lequel de ces colosses représente le vrai luxe chinois ?

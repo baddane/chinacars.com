@@ -9,6 +9,9 @@ publishedAt: "2026-05-24T09:00:00Z"
 seo:
   metaTitle: "Électrique pur vs hybride rechargeable PHEV 2026 : quel choix faire ?"
   metaDescription: "Électrique 100% ou PHEV en 2026 ? Analyse comparative : coût, usage, infrastructure, autonomie. Aide à la décision pour choisir entre BEV et plug-in hybride."
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "Électrique pur vs PHEV – quel choix en 2026 ?"
 ---
 
 "Dois-je passer directement à l'électrique pur ou opter pour un plug-in hybride (PHEV) comme étape intermédiaire ?" — c'est la question que se posent le plus les acheteurs de voitures chinoises en 2026. La réponse dépend entièrement de votre situation. Voici l'analyse complète.

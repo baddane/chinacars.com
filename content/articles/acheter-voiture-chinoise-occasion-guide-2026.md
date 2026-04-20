@@ -9,6 +9,9 @@ publishedAt: "2026-05-17T10:00:00Z"
 seo:
   metaTitle: "Acheter voiture chinoise d'occasion 2026 : guide BYD, MG, NIO occasion"
   metaDescription: "Guide achat voiture chinoise d'occasion 2026 : vérifications batterie, garantie, SAV, prix juste. BYD, MG, NIO occasion — comment éviter les pièges."
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "Acheter voiture chinoise occasion – guide complet 2026"
 ---
 
 Le marché de l'occasion des voitures chinoises commence à s'étoffer en 2026. Les premières MG ZS EV et BYD Atto 3 achetées en 2022-2023 arrivent sur le marché secondaire. C'est une opportunité intéressante — mais qui nécessite des vérifications spécifiques que vous ne feriez pas sur une Toyota d'occasion. Voici le guide complet.

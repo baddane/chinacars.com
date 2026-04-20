@@ -9,6 +9,9 @@ publishedAt: "2026-06-10T10:00:00Z"
 seo:
   metaTitle: "BYD Dolphin Mini vs Renault R5 Electric 2026 : citadine électrique"
   metaDescription: "BYD Dolphin Mini vs Renault R5 Electric : autonomie, prix et équipements. Deux citadines électriques sous 25 000 € — la chinoise vs l'icône française en 2026."
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "BYD Dolphin Mini vs Renault R5 Electric 2026"
 ---
 
 La Renault R5 Electric a redonné de la nostalgie au marché électrique européen. La BYD Dolphin Mini arrive de Shenzhen avec une proposition plus abordable et la Blade LFP indestructible. Deux citadines électriques qui visent le même acheteur : l'urbain qui veut passer à l'électrique sans se ruiner.

@@ -9,6 +9,9 @@ publishedAt: "2026-04-20T09:00:00Z"
 seo:
   metaTitle: "BYD Seal vs Xiaomi SU7 Ultra 2026 : comparatif berlines électriques"
   metaDescription: "BYD Seal vs Xiaomi SU7 Ultra 2026 : performances, autonomie, technologie et prix. Quelle berline électrique chinoise choisir en 2026 ?"
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "BYD Seal face à la Xiaomi SU7 Ultra"
 ---
 
 Deux titans. Deux philosophies. Deux visions radicalement différentes de ce que doit être une berline électrique chinoise haut de gamme. Le **BYD Seal** est l'artisan confirmé, armé d'une batterie Blade révolutionnaire et d'une cote de popularité au sommet depuis son lancement. Le **Xiaomi SU7 Ultra**, lui, est l'outsider flamboyant : né dans une entreprise de smartphones, il a fracassé les records au Nürburgring et relancé le débat sur la suprématie des constructeurs traditionnels. En 2026, lequel mérite vraiment la couronne ?

@@ -9,6 +9,9 @@ publishedAt: "2026-04-24T09:00:00Z"
 seo:
   metaTitle: "Leapmotor T03 vs BYD Seagull 2026 : quelle micro-citadine électrique choisir ?"
   metaDescription: "Comparatif Leapmotor T03 vs BYD Seagull 2026 : prix, autonomie, taille et équipements. La micro-citadine électrique chinoise la plus pratique pour la ville."
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "Leapmotor T03 – micro-citadine électrique"
 ---
 
 La voiture électrique accessible n'est plus un rêve. Avec le **Leapmotor T03** et le **BYD Seagull**, deux micro-citadines électriques chinoises s'affrontent sur le segment le plus abordable du marché. Ces deux modèles prouvent qu'il est possible de se déplacer en électrique au quotidien sans dépenser une fortune. Mais entre elles, laquelle est la plus maligne ?

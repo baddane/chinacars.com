@@ -9,6 +9,9 @@ publishedAt: "2026-05-26T09:00:00Z"
 seo:
   metaTitle: "BYD 2026 : guide complet de tous les modèles disponibles en France et au Maroc"
   metaDescription: "Guide complet BYD 2026 : Seagull, Dolphin, Atto 3 Evo, Seal, Han, Tang. Technologie Blade, prix Europe et Maroc, garanties. Tout sur la marque BYD."
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "BYD – guide complet de la marque et modèles 2026"
 ---
 
 **BYD** (Build Your Dreams) est devenu en 2023 le premier constructeur automobile mondial en volume de ventes — dépassant Toyota pour la première fois de l'histoire. En 2026, sa gamme européenne et marocaine est complète, couvrant tous les segments de la citadine électrique à la grande berline de prestige. Tour d'horizon complet.

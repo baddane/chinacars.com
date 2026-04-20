@@ -9,6 +9,9 @@ publishedAt: "2026-05-30T09:00:00Z"
 seo:
   metaTitle: "Essai longue durée MG4 : bilan honnête après 100 000 km"
   metaDescription: "Bilan MG4 après 100 000 km et 2 ans : état de la batterie, fiabilité, entretien, coûts réels. Le retour d'expérience complet sur le MG4 électrique en usage quotidien."
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "MG4 Electric – bilan essai longue durée 100 000 km"
 ---
 
 La MG4 est arrivée en Europe en 2022 avec des promesses ambitieuses. En 2026, les premières voitures atteignent les 100 000 km — et il est temps de faire un bilan honnête, loin des brochures commerciales. Qu'est-ce qui a tenu, qu'est-ce qui a décru ?

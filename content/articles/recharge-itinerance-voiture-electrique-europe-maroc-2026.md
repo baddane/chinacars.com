@@ -9,6 +9,9 @@ publishedAt: "2026-06-08T09:00:00Z"
 seo:
   metaTitle: "Recharge en itinérance 2026 : guide Europe et Maroc"
   metaDescription: "Guide complet de la recharge en itinérance pour voitures électriques en Europe et au Maroc : réseaux, apps, tarifs, Ionity, ONEE. Voyagez sereinement en électrique."
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "Recharge en itinérance Europe et Maroc – guide 2026"
 ---
 
 Vous venez d'acheter une voiture électrique chinoise et vous planifiez vos premiers longs trajets. Bonne nouvelle : en 2026, recharger en itinérance est devenu significativement plus simple qu'en 2022. Voici le guide pratique complet pour ne jamais vous retrouver en panne loin de chez vous.

@@ -9,6 +9,9 @@ publishedAt: "2026-05-07T10:00:00Z"
 seo:
   metaTitle: "Leapmotor C11 vs BYD Seal U 2026 : le meilleur SUV familial électrique ?"
   metaDescription: "Leapmotor C11 vs BYD Seal U 2026 : autonomie, habitabilité, prix et équipements. Quel SUV électrique familial chinois offre le meilleur rapport qualité-prix ?"
+coverImage:
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BYD_Seal_EV_2022_%28cropped%29.jpg/1200px-BYD_Seal_EV_2022_%28cropped%29.jpg"
+  alt: "Leapmotor C11 – SUV familial électrique"
 ---
 
 Dans la catégorie des SUV électriques familiaux entre 30 000 et 45 000 €, deux modèles chinois se disputent la première place du rapport qualité-prix : le **Leapmotor C11**, distribué en Europe par Stellantis, et le **BYD Seal U**, le grand frère du populaire [BYD Dolphin](/actualites/mg4-vs-byd-dolphin-compactes-electriques-moins-25000-euros). Lequel justifie mieux chaque euro dépensé ?
