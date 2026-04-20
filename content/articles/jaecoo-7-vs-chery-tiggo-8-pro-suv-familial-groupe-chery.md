@@ -104,3 +104,12 @@ Le Tiggo 8 Pro coûte un peu plus cher, mais offre deux places supplémentaires 
 **Choisissez le Chery Tiggo 8 Pro** si : vous avez une famille nombreuse, si les 7 places sont indispensables, et si vous valorisez le confort des passagers sur la dynamique de conduite.
 
 Les deux modèles sont d'excellents représentants du savoir-faire Chery, avec un rapport équipements/prix qui défie la concurrence japonaise et coréenne sur leurs marchés respectifs.
+
+---
+
+## À lire aussi
+
+- [Jaecoo 5 vs Volkswagen Tiguan : le SUV allemand face à la menace chinoise](/actualites/jaecoo-5-vs-volkswagen-tiguan-menace-chinoise)
+- [BYD Tang 2026 vs MG S9 : le match des SUV 7 places](/actualites/byd-tang-2026-vs-mg-s9-suv-7-places)
+- [Omoda 5 vs MG ZS Hybrid+ : duel de SUV urbains abordables](/actualites/omoda-5-vs-mg-zs-hybrid-suv-urbains-abordables)
+- [Omoda 5 SHS-H vs Toyota Yaris Cross : l'hybride japonais face au nouveau venu](/actualites/omoda-5-shs-h-vs-toyota-yaris-cross-hybride-japonais-nouveau-venu)

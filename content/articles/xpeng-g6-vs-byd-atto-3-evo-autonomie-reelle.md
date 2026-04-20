@@ -90,3 +90,12 @@ L'Atto 3 Evo est légèrement moins cher à finition comparable, et bénéficie 
 **Choisissez le BYD Atto 3 Evo** si vous cherchez un SUV électrique éprouvé, disponible avec un large réseau SAV, et que vous appréciez les fonctionnalités comme le V2L. Son bilan global autonomie/équipements/prix reste très compétitif.
 
 Les deux voitures montrent que le SUV électrique chinois a définitivement mûri. En 2026, choisir l'un ou l'autre, c'est choisir entre deux visions également valables de la mobilité électrique moderne.
+
+---
+
+## À lire aussi
+
+- [XPeng G6 vs Tesla Model Y : pourquoi le G6 gagne sur la recharge rapide](/actualites/xpeng-g6-vs-tesla-model-y-recharge-rapide)
+- [BYD Atto 3 Evo vs Renault Scenic E-Tech : le match des SUV de l'année](/actualites/byd-atto-3-evo-vs-renault-scenic-etech-suv-annee)
+- [NIO EL6 vs XPeng G9 : duel de grands SUV électriques premium](/actualites/nio-el6-vs-xpeng-g9-grands-suv-electriques-premium)
+- [Xiaomi SU7 vs XPeng P7i : quelle interface logicielle est la plus fluide ?](/actualites/xiaomi-su7-vs-xpeng-p7i-interface-logicielle)

@@ -94,3 +94,12 @@ L'Omoda 5 est légèrement moins cher à équipement comparable, ce qui est un a
 **Choisissez le MG ZS Hybrid+** si vous privilégiez la sérénité après-vente, un réseau de concessionnaires plus étoffé et une réputation déjà prouvée sur le marché européen.
 
 Les deux voitures représentent d'excellentes alternatives aux SUV européens ou japonais de même catégorie, avec un rapport équipements/prix difficile à battre. Vous ne ferez pas un mauvais choix.
+
+---
+
+## À lire aussi
+
+- [Jaecoo 7 vs Chery Tiggo 8 Pro : quel SUV familial choisir ?](/actualites/jaecoo-7-vs-chery-tiggo-8-pro-suv-familial-groupe-chery)
+- [Omoda 5 SHS-H vs Toyota Yaris Cross : l'hybride japonais face au nouveau venu](/actualites/omoda-5-shs-h-vs-toyota-yaris-cross-hybride-japonais-nouveau-venu)
+- [MG ZS Hybrid+ vs Dacia Duster Hybrid : le trône du low-cost est-il menacé ?](/actualites/mg-zs-hybrid-vs-dacia-duster-hybrid-low-cost-menace)
+- [Jaecoo 5 vs Volkswagen Tiguan : le SUV allemand face à la menace chinoise](/actualites/jaecoo-5-vs-volkswagen-tiguan-menace-chinoise)

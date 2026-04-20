@@ -105,3 +105,12 @@ Le BYD Seagull est nettement moins cher — c'est son argument massue. Mais l'av
 **Choisissez le BYD Seagull** si le prix est votre critère principal, que vous voulez plus d'espace et une autonomie légèrement supérieure, et que vous avez accès à un réseau BYD dans votre ville.
 
 En 2026, ces deux micro-citadines prouvent qu'une voiture électrique pratique peut coûter moins de 20 000 €. C'est une révolution tranquille qui est en train de changer la mobilité urbaine — et elle vient de Chine.
+
+---
+
+## À lire aussi
+
+- [MG4 vs BYD Dolphin : le match des compactes électriques à moins de 25 000 €](/actualites/mg4-vs-byd-dolphin-compactes-electriques-moins-25000-euros)
+- [GWM Ora 03 vs MG3 Hybrid+ : design rétro ou efficacité hybride ?](/actualites/gwm-ora-03-vs-mg3-hybrid-design-retro-efficacite-hybride)
+- [MG3 Hybrid+ vs Renault Clio E-Tech : la fin de l'hégémonie française ?](/actualites/mg3-hybrid-vs-renault-clio-etech-hegemonie-francaise)
+- [Leapmotor C11 vs BYD Seal U : le SUV familial au meilleur rapport prix-prestations](/actualites/leapmotor-c11-vs-byd-seal-u-suv-familial)

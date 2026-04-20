@@ -103,3 +103,12 @@ Les deux modèles sont éligibles au bonus écologique (sous conditions de reven
 **Optez pour le BYD Dolphin** si vous cherchez avant tout un véhicule citadin fiable, avec une batterie Blade réputée pour sa longévité, et que le design original vous attire.
 
 Ces deux voitures démontrent que l'électrique abordable n'est plus synonyme de compromis. En 2026, le segment des compactes électriques chinoises à moins de 25 000 € n'a jamais été aussi compétitif — et ce sont les conducteurs qui en sortent gagnants.
+
+---
+
+## À lire aussi
+
+- [GWM Ora 03 vs MG3 Hybrid+ : design rétro ou efficacité hybride ?](/actualites/gwm-ora-03-vs-mg3-hybrid-design-retro-efficacite-hybride)
+- [MG3 Hybrid+ vs Renault Clio E-Tech : la fin de l'hégémonie française ?](/actualites/mg3-hybrid-vs-renault-clio-etech-hegemonie-francaise)
+- [Leapmotor T03 vs BYD Seagull : quelle micro-citadine choisir ?](/actualites/leapmotor-t03-vs-byd-seagull-micro-citadine-ville)
+- [MG5 vs BYD Han : break pratique ou berline statutaire ?](/actualites/mg5-vs-byd-han-break-berline)

@@ -104,3 +104,12 @@ Le modèle BaaS de NIO rend son prix d'entrée comparable à celui du G9, tout e
 **Choisissez le XPeng G9** si la recharge ultra-rapide 800V, le dynamisme de conduite, la technologie XNGP et un prix de départ inférieur sont vos priorités.
 
 Ces deux SUV prouvent que le luxe automobile chinois a atteint un niveau de maturité qui mérite l'attention des acheteurs du segment premium. En 2026, ils ne sont plus des alternatives aux BMW et Mercedes — ils sont leurs égaux.
+
+---
+
+## À lire aussi
+
+- [NIO ET5 vs BMW i4 : l'alternative chinoise est-elle vraiment premium ?](/actualites/nio-et5-vs-bmw-i4-alternative-chinoise-premium)
+- [Hongqi E-HS9 vs NIO EL7 : le luxe présidentiel face à la technologie](/actualites/hongqi-e-hs9-vs-nio-el7-luxe-presidentiel)
+- [Zeekr 001 vs NIO ET7 : le luxe technologique chinois a-t-il un nouveau roi ?](/actualites/zeekr-001-vs-nio-et7-luxe-technologique-chinois-2026)
+- [XPeng G6 vs BYD Atto 3 Evo : le combat pour l'autonomie réelle](/actualites/xpeng-g6-vs-byd-atto-3-evo-autonomie-reelle)

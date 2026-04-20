@@ -96,3 +96,12 @@ Les prix sont très proches. La Dacia est légèrement plus chère mais ses coû
 - Vous faites des longs trajets, de la montagne, ou vous gardez votre voiture longtemps → **Dacia Duster Hybrid**
 
 Le trône du low-cost n'est pas encore tombé — mais il tremble. MG force Dacia à innover, et c'est l'acheteur qui en profite le plus.
+
+---
+
+## À lire aussi
+
+- [Omoda 5 vs MG ZS Hybrid+ : duel de SUV urbains abordables](/actualites/omoda-5-vs-mg-zs-hybrid-suv-urbains-abordables)
+- [MG3 Hybrid+ vs Renault Clio E-Tech : la fin de l'hégémonie française ?](/actualites/mg3-hybrid-vs-renault-clio-etech-hegemonie-francaise)
+- [Jaecoo 5 vs Volkswagen Tiguan : le SUV allemand face à la menace chinoise](/actualites/jaecoo-5-vs-volkswagen-tiguan-menace-chinoise)
+- [Omoda 5 SHS-H vs Toyota Yaris Cross : l'hybride japonais face au nouveau venu](/actualites/omoda-5-shs-h-vs-toyota-yaris-cross-hybride-japonais-nouveau-venu)
