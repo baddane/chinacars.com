@@ -63,3 +63,14 @@ export const AVAILABILITY = [
   'bientot-maroc',
   'import-uniquement',
 ] as const;
+
+/**
+ * Liens réseaux sociaux — remplir avec les vraies URLs avant mise en prod.
+ * Laisser vide ('') pour masquer le lien dans le footer.
+ */
+export const SOCIAL_LINKS = {
+  facebook: '',
+  instagram: '',
+  twitter: '',
+  youtube: '',
+} as const;

@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import { Car, Facebook, Twitter, Instagram, Youtube } from 'lucide-react';
 import NewsletterForm from './NewsletterForm';
+import { SOCIAL_LINKS } from '@/src/lib/constants';
 
 const footerNavigation = {
   marques: [
@@ -16,13 +17,14 @@ const footerNavigation = {
     { name: 'Contact', href: '/contact' },
     { name: 'Mentions légales', href: '/mentions-legales' },
   ],
-  social: [
-    { name: 'Facebook', href: '#', icon: Facebook },
-    { name: 'Instagram', href: '#', icon: Instagram },
-    { name: 'Twitter', href: '#', icon: Twitter },
-    { name: 'YouTube', href: '#', icon: Youtube },
-  ],
 };
+
+const socialLinks = [
+  { name: 'Facebook', href: SOCIAL_LINKS.facebook, icon: Facebook },
+  { name: 'Instagram', href: SOCIAL_LINKS.instagram, icon: Instagram },
+  { name: 'Twitter / X', href: SOCIAL_LINKS.twitter, icon: Twitter },
+  { name: 'YouTube', href: SOCIAL_LINKS.youtube, icon: Youtube },
+].filter((s) => s.href !== '');
 
 export default function Footer() {
   return (
@@ -43,18 +45,22 @@ export default function Footer() {
               Votre source n°1 d&apos;actualités, de tests et de prix sur les voitures
               chinoises au Maroc et dans le monde.
             </p>
-            <div className="flex space-x-6">
-              {footerNavigation.social.map((item) => (
-                <a
-                  key={item.name}
-                  href={item.href}
-                  className="text-gray-400 hover:text-gray-300"
-                >
-                  <span className="sr-only">{item.name}</span>
-                  <item.icon className="h-6 w-6" aria-hidden="true" />
-                </a>
-              ))}
-            </div>
+            {socialLinks.length > 0 && (
+              <div className="flex space-x-6">
+                {socialLinks.map((item) => (
+                  <a
+                    key={item.name}
+                    href={item.href}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-gray-400 hover:text-gray-300"
+                  >
+                    <span className="sr-only">{item.name}</span>
+                    <item.icon className="h-6 w-6" aria-hidden="true" />
+                  </a>
+                ))}
+              </div>
+            )}
           </div>
           <div className="mt-16 grid grid-cols-2 gap-8 xl:col-span-2 xl:mt-0">
             <div className="md:grid md:grid-cols-2 md:gap-8">

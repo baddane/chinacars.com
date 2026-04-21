@@ -105,8 +105,8 @@ export default function Header() {
           })}
         </div>
         <div className="hidden lg:flex lg:flex-1 lg:justify-end lg:gap-x-4">
-          <button
-            type="button"
+          <Link
+            href="/recherche"
             aria-label="Rechercher"
             className={cn(
               'p-2 transition-colors',
@@ -114,7 +114,7 @@ export default function Header() {
             )}
           >
             <Search className="h-5 w-5" aria-hidden="true" />
-          </button>
+          </Link>
           <button
             type="button"
             aria-label="Changer de langue"
@@ -167,6 +167,14 @@ export default function Header() {
                   {item.name}
                 </Link>
               ))}
+              <Link
+                href="/recherche"
+                className="flex items-center gap-2 rounded-lg px-3 py-2 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-50"
+                onClick={() => setMobileMenuOpen(false)}
+              >
+                <Search className="h-5 w-5 text-gray-400" aria-hidden="true" />
+                Recherche
+              </Link>
             </div>
           </div>
         </div>
