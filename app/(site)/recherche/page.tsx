@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useMemo, useEffect, useRef } from 'react';
+import { Suspense, useState, useMemo, useEffect, useRef } from 'react';
 import { useRouter, useSearchParams } from 'next/navigation';
 import Link from 'next/link';
 import { Search, X, FileText, Car } from 'lucide-react';
@@ -93,7 +93,7 @@ const typeIcon: Record<ResultType, typeof FileText> = {
   brand: Car,
 };
 
-export default function SearchPage() {
+function SearchInner() {
   const router = useRouter();
   const searchParams = useSearchParams();
   const initialQ = searchParams.get('q') ?? '';
@@ -202,5 +202,13 @@ export default function SearchPage() {
         </div>
       </div>
     </div>
+  );
+}
+
+export default function SearchPage() {
+  return (
+    <Suspense fallback={<div className="bg-white pt-32 pb-24 min-h-screen" />}>
+      <SearchInner />
+    </Suspense>
   );
 }
