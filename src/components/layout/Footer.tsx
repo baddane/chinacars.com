@@ -16,6 +16,7 @@ const footerNavigation = {
     { name: 'À propos', href: '/a-propos' },
     { name: 'Contact', href: '/contact' },
     { name: 'Mentions légales', href: '/mentions-legales' },
+    { name: 'Politique de confidentialité', href: '/politique-de-confidentialite' },
   ],
 };
 
@@ -42,8 +43,9 @@ export default function Footer() {
               </span>
             </Link>
             <p className="text-sm leading-6 text-gray-300 max-w-xs">
-              Votre source n°1 d&apos;actualités, de tests et de prix sur les voitures
-              chinoises au Maroc et dans le monde.
+              Le média francophone de référence sur les voitures chinoises — actualités,
+              essais, comparatifs et guides d&apos;achat pour la France, la Belgique,
+              la Suisse, le Maroc et au-delà.
             </p>
             {socialLinks.length > 0 && (
               <div className="flex space-x-6">
@@ -112,10 +114,18 @@ export default function Footer() {
             </div>
           </div>
         </div>
-        <div className="mt-16 border-t border-white/10 pt-8 sm:mt-20 lg:mt-24">
+        <div className="mt-16 border-t border-white/10 pt-8 sm:mt-20 lg:mt-24 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
           <p className="text-xs leading-5 text-gray-400">
             &copy; {new Date().getFullYear()} VéhiculesChinois. Tous droits réservés.
           </p>
+          <div className="flex gap-4">
+            <Link href="/mentions-legales" className="text-xs leading-5 text-gray-500 hover:text-gray-300">
+              Mentions légales
+            </Link>
+            <Link href="/politique-de-confidentialite" className="text-xs leading-5 text-gray-500 hover:text-gray-300">
+              Confidentialité
+            </Link>
+          </div>
         </div>
       </div>
     </footer>

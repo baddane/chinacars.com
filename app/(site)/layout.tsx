@@ -1,5 +1,6 @@
 import Header from '@/src/components/layout/Header';
 import Footer from '@/src/components/layout/Footer';
+import CookieBanner from '@/src/components/layout/CookieBanner';
 import JsonLd from '@/src/components/seo/JsonLd';
 import { organizationSchema, websiteSchema } from '@/src/lib/seo/schemas';
 
@@ -14,6 +15,7 @@ export default function SiteLayout({ children }: { children: React.ReactNode }) 
         </main>
         <Footer />
       </div>
+      <CookieBanner />
     </>
   );
 }

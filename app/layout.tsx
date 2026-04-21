@@ -1,8 +1,12 @@
 import type { Metadata, Viewport } from 'next';
 import { Inter } from 'next/font/google';
+import Script from 'next/script';
 import { SITE } from '@/src/lib/constants';
 import { absoluteUrl } from '@/src/lib/seo/metadata';
 import './globals.css';
+
+const GA_ID = process.env.NEXT_PUBLIC_GA_ID;
+const ADSENSE_ID = process.env.NEXT_PUBLIC_ADSENSE_PUBLISHER_ID;
 
 const inter = Inter({
   subsets: ['latin'],
@@ -13,7 +17,7 @@ const inter = Inter({
 export const metadata: Metadata = {
   metadataBase: new URL(SITE.url),
   title: {
-    default: `${SITE.name} | L'actualité des voitures chinoises au Maroc`,
+    default: `${SITE.name} | L'actualité des voitures chinoises`,
     template: `%s | ${SITE.name}`,
   },
   description: SITE.description,
@@ -34,7 +38,7 @@ export const metadata: Metadata = {
     type: 'website',
     locale: SITE.locale,
     siteName: SITE.name,
-    title: `${SITE.name} | L'actualité des voitures chinoises au Maroc`,
+    title: `${SITE.name} | L'actualité des voitures chinoises`,
     description: SITE.description,
     url: SITE.url,
     images: [{ url: absoluteUrl(SITE.defaultOgImage), width: 1200, height: 630 }],
@@ -68,7 +72,32 @@ export const viewport: Viewport = {
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang={SITE.defaultLanguage} className={inter.variable}>
-      <body>{children}</body>
+      <body>
+        {children}
+
+        {GA_ID && (
+          <>
+            <Script
+              src={`https://www.googletagmanager.com/gtag/js?id=${GA_ID}`}
+              strategy="afterInteractive"
+            />
+            <Script id="ga4-init" strategy="afterInteractive">{`
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+              gtag('config', '${GA_ID}', { anonymize_ip: true });
+            `}</Script>
+          </>
+        )}
+
+        {ADSENSE_ID && (
+          <Script
+            src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${ADSENSE_ID}`}
+            strategy="afterInteractive"
+            crossOrigin="anonymous"
+          />
+        )}
+      </body>
     </html>
   );
 }

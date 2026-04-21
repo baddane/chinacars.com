@@ -10,9 +10,9 @@ import { featuredArticlesQuery } from '@/src/lib/sanity/queries';
 import { toArticleCard, type SanityArticle } from '@/src/lib/sanity/normalize';
 
 export const metadata: Metadata = {
-  title: "L'actualité des voitures chinoises au Maroc",
+  title: "Voitures chinoises : actualités, essais et guides en français",
   description:
-    "Actualités, essais et guides d'achat sur les voitures chinoises (BYD, MG, Chery, Geely, GWM) au Maroc.",
+    "VéhiculesChinois — le média francophone de référence sur les voitures chinoises. Actualités, essais, comparatifs et guides d'achat pour la France, la Belgique, la Suisse et le Maroc.",
   alternates: { canonical: '/' },
 };
 
@@ -44,23 +44,23 @@ export default async function Home() {
           <div className="max-w-2xl">
             <div className="mb-8 flex">
               <div className="relative rounded-full px-3 py-1 text-sm leading-6 text-gray-400 ring-1 ring-white/10 hover:ring-white/20">
-                Le BYD Atto 3 est maintenant disponible au Maroc.{' '}
+                Droits anti-subvention UE : ce que ça change pour vous.{' '}
                 <Link
-                  href="/actualites/byd-seal-prix-maroc-2024"
+                  href="/actualites/guide-importation-voiture-chinoise-europe"
                   className="font-semibold text-red-500"
                 >
                   <span className="absolute inset-0" aria-hidden="true" />
-                  Lire plus <span aria-hidden="true">&rarr;</span>
+                  Lire notre guide <span aria-hidden="true">&rarr;</span>
                 </Link>
               </div>
             </div>
             <h1 className="text-4xl font-bold tracking-tight text-white sm:text-6xl">
-              L&apos;avenir de l&apos;automobile chinoise au Maroc
+              La référence francophone sur l&apos;automobile chinoise
             </h1>
             <p className="mt-6 text-lg leading-8 text-gray-300">
-              Expertise, actualités et guides complets sur les marques qui
-              révolutionnent le marché automobile. De BYD à MG, restez informé
-              sur les dernières innovations.
+              Actualités, essais routiers, comparatifs et guides d&apos;achat sur les
+              marques qui révolutionnent l&apos;automobile mondiale. Pour la France,
+              la Belgique, la Suisse, le Maroc et tous les francophones.
             </p>
             <div className="mt-10 flex items-center gap-x-6">
               <Link
