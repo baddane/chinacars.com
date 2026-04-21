@@ -61,6 +61,10 @@ export const articleSlugsQuery = /* groq */ `
   *[_type == "article" && defined(slug.current)][].slug.current
 `;
 
+export const brandSlugsQuery = /* groq */ `
+  *[_type == "brand" && defined(slug.current)][].slug.current
+`;
+
 export const brandsQuery = /* groq */ `
   *[_type == "brand" && defined(slug.current)]
     | order(name asc) {
