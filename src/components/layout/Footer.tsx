@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import { Car, Facebook, Twitter, Instagram, Youtube } from 'lucide-react';
+import NewsletterForm from './NewsletterForm';
 
 const footerNavigation = {
   marques: [
@@ -100,28 +101,7 @@ export default function Footer() {
                 <p className="mt-2 text-sm leading-6 text-gray-300">
                   Recevez les dernières actus auto directement dans votre boîte mail.
                 </p>
-                <form className="mt-6 sm:flex sm:max-w-md" action="/api/newsletter" method="post">
-                  <label htmlFor="email-address" className="sr-only">
-                    Email
-                  </label>
-                  <input
-                    type="email"
-                    name="email"
-                    id="email-address"
-                    autoComplete="email"
-                    required
-                    className="w-full min-w-0 appearance-none rounded-md border-0 bg-white/5 px-3 py-1.5 text-base text-white shadow-sm ring-1 ring-inset ring-white/10 placeholder:text-gray-500 focus:ring-2 focus:ring-inset focus:ring-red-500 sm:text-sm sm:leading-6"
-                    placeholder="votre@email.com"
-                  />
-                  <div className="mt-4 sm:ml-4 sm:mt-0 sm:shrink-0">
-                    <button
-                      type="submit"
-                      className="flex w-full items-center justify-center rounded-md bg-red-600 px-3 py-2 text-sm font-semibold text-white shadow-sm hover:bg-red-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-red-600"
-                    >
-                      S&apos;abonner
-                    </button>
-                  </div>
-                </form>
+                <NewsletterForm />
               </div>
             </div>
           </div>
