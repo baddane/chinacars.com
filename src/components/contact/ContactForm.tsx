@@ -8,12 +8,42 @@ type Status = 'idle' | 'submitting' | 'success' | 'error';
 
 export default function ContactForm() {
   const [status, setStatus] = useState<Status>('idle');
+  const [errorMessage, setErrorMessage] = useState<string>('');
 
-  function handleSubmit(event: React.FormEvent<HTMLFormElement>) {
+  async function handleSubmit(event: React.FormEvent<HTMLFormElement>) {
     event.preventDefault();
     setStatus('submitting');
-    // TODO: plug Resend / API route once backend is available.
-    setTimeout(() => setStatus('success'), 800);
+    setErrorMessage('');
+
+    const form = event.currentTarget;
+    const data = {
+      name: (form.elements.namedItem('name') as HTMLInputElement).value.trim(),
+      email: (form.elements.namedItem('email') as HTMLInputElement).value.trim(),
+      subject: (form.elements.namedItem('subject') as HTMLInputElement).value.trim(),
+      message: (form.elements.namedItem('message') as HTMLTextAreaElement).value.trim(),
+    };
+
+    try {
+      const response = await fetch('/api/contact', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(data),
+      });
+
+      const result = await response.json();
+
+      if (!response.ok) {
+        setErrorMessage(result.error ?? 'Une erreur est survenue.');
+        setStatus('error');
+        return;
+      }
+
+      setStatus('success');
+      form.reset();
+    } catch {
+      setErrorMessage('Impossible de contacter le serveur. Réessayez.');
+      setStatus('error');
+    }
   }
 
   return (
@@ -35,6 +65,7 @@ export default function ContactForm() {
           name="message"
           rows={6}
           required
+          minLength={10}
           className="mt-2 block w-full rounded-md border-0 px-3.5 py-2 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-red-600 sm:text-sm"
         />
       </div>
@@ -52,7 +83,7 @@ export default function ContactForm() {
       )}
       {status === 'error' && (
         <p className="text-sm font-semibold text-red-700">
-          Une erreur est survenue, réessayez.
+          {errorMessage || 'Une erreur est survenue, réessayez.'}
         </p>
       )}
     </form>
