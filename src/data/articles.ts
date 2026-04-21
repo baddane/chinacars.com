@@ -87,7 +87,7 @@ export const articles: ArticleSeed[] = [
     body: [
       {
         tag: 'h2',
-        text: 'Un hommage aux roadsters MG d'antan',
+        text: "Un hommage aux roadsters MG d'antan",
       },
       {
         tag: 'p',
@@ -107,7 +107,7 @@ export const articles: ArticleSeed[] = [
       },
       {
         tag: 'h2',
-        text: 'Un design qui polarise — et c'est voulu',
+        text: "Un design qui polarise — et c'est voulu",
       },
       {
         tag: 'p',
@@ -145,7 +145,7 @@ export const articles: ArticleSeed[] = [
       },
       {
         tag: 'h2',
-        text: 'Les taxes à l'importation selon les zones',
+        text: "Les taxes à l'importation selon les zones",
       },
       {
         tag: 'p',
@@ -157,7 +157,7 @@ export const articles: ArticleSeed[] = [
       },
       {
         tag: 'h2',
-        text: 'L'homologation : l'étape incontournable',
+        text: "L'homologation : l'étape incontournable",
       },
       {
         tag: 'p',
@@ -187,7 +187,7 @@ export const articles: ArticleSeed[] = [
     body: [
       {
         tag: 'h2',
-        text: 'Le challenger venu d'Orient',
+        text: "Le challenger venu d'Orient",
       },
       {
         tag: 'p',
@@ -211,7 +211,7 @@ export const articles: ArticleSeed[] = [
       },
       {
         tag: 'h2',
-        text: 'L'habitabilité, argument numéro 1',
+        text: "L'habitabilité, argument numéro 1",
       },
       {
         tag: 'p',
@@ -245,7 +245,7 @@ export const articles: ArticleSeed[] = [
       },
       {
         tag: 'h2',
-        text: 'Sur l'autoroute : la réalité de la consommation',
+        text: "Sur l'autoroute : la réalité de la consommation",
       },
       {
         tag: 'p',
