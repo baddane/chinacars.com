@@ -16,10 +16,10 @@ export function organizationSchema(): Thing {
     url: SITE.url,
     logo: absoluteUrl('/icons/logo.svg'),
     sameAs: [
-      'https://facebook.com/chinacarsma',
-      'https://instagram.com/chinacarsma',
-      'https://twitter.com/chinacarsma',
-      'https://youtube.com/@chinacarsma',
+      'https://facebook.com/vehiculeschinois',
+      'https://instagram.com/vehiculeschinois',
+      'https://twitter.com/vehiculeschinois',
+      'https://youtube.com/@vehiculeschinois',
     ],
   };
 }

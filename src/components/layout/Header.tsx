@@ -61,8 +61,8 @@ export default function Header() {
                 transparent ? 'text-white' : 'text-gray-900',
               )}
             >
-              ChinaCars
-              <span className={transparent ? 'text-red-500' : 'text-red-600'}>MA</span>
+              Véhicules
+              <span className={transparent ? 'text-red-500' : 'text-red-600'}>Chinois</span>
             </span>
           </Link>
         </div>
@@ -143,7 +143,7 @@ export default function Header() {
             onClick={() => setMobileMenuOpen(false)}
           >
             <Car className="h-8 w-8 text-red-600" aria-hidden="true" />
-            <span className="text-xl font-bold tracking-tight text-gray-900">ChinaCarsMA</span>
+            <span className="text-xl font-bold tracking-tight text-gray-900">VéhiculesChinois</span>
           </Link>
           <button
             type="button"

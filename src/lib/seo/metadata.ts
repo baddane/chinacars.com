@@ -13,7 +13,7 @@ export interface PageMetadata {
 }
 
 /**
- * Construit un titre balisé site : « Titre | ChinaCarsMA ».
+ * Construit un titre balisé site : « Titre | VéhiculesChinois ».
  * Garantit qu'on ne dépasse pas 65 chars.
  */
 export function formatTitle(title: string, withSuffix = true): string {

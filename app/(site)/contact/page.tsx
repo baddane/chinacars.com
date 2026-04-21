@@ -6,7 +6,7 @@ import ContactForm from '@/src/components/contact/ContactForm';
 export const metadata: Metadata = {
   title: 'Contact',
   description:
-    'Contactez la rédaction ChinaCarsMA pour toute question, suggestion ou demande de partenariat.',
+    'Contactez la rédaction VéhiculesChinois pour toute question, suggestion ou demande de partenariat.',
   alternates: { canonical: '/contact' },
 };
 
@@ -26,17 +26,17 @@ export default function ContactPage() {
 
         <div className="mt-12 grid gap-8 md:grid-cols-2">
           <a
-            href="mailto:contact@chinacarsma.com"
+            href="mailto:contact@vehiculeschinois.com"
             className="flex items-start gap-4 rounded-2xl border border-gray-200 p-6 hover:border-red-500 transition-colors"
           >
             <Mail className="h-6 w-6 shrink-0 text-red-600" aria-hidden="true" />
             <div>
               <h2 className="text-base font-semibold text-gray-900">Email</h2>
-              <p className="mt-1 text-sm text-gray-600">contact@chinacarsma.com</p>
+              <p className="mt-1 text-sm text-gray-600">contact@vehiculeschinois.com</p>
             </div>
           </a>
           <a
-            href="mailto:redaction@chinacarsma.com"
+            href="mailto:redaction@vehiculeschinois.com"
             className="flex items-start gap-4 rounded-2xl border border-gray-200 p-6 hover:border-red-500 transition-colors"
           >
             <MessageSquare
@@ -46,7 +46,7 @@ export default function ContactPage() {
             <div>
               <h2 className="text-base font-semibold text-gray-900">Rédaction</h2>
               <p className="mt-1 text-sm text-gray-600">
-                redaction@chinacarsma.com
+                redaction@vehiculeschinois.com
               </p>
             </div>
           </a>

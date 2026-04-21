@@ -33,7 +33,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'nouveaute',
     publishedAt: '2024-04-12T09:00:00+01:00',
     readingTime: 6,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction VéhiculesChinois',
     body: [
       {
         tag: 'h2',
@@ -83,7 +83,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'essai',
     publishedAt: '2024-04-10T09:00:00+01:00',
     readingTime: 5,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction VéhiculesChinois',
     body: [
       {
         tag: 'h2',
@@ -133,7 +133,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'guide',
     publishedAt: '2024-04-08T09:00:00+01:00',
     readingTime: 8,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction VéhiculesChinois',
     body: [
       {
         tag: 'h2',
@@ -183,7 +183,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'essai',
     publishedAt: '2024-04-05T09:00:00+01:00',
     readingTime: 7,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction VéhiculesChinois',
     body: [
       {
         tag: 'h2',
@@ -233,7 +233,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'essai',
     publishedAt: '2024-04-01T09:00:00+01:00',
     readingTime: 9,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction VéhiculesChinois',
     body: [
       {
         tag: 'h2',
@@ -283,7 +283,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'guide',
     publishedAt: '2024-03-28T09:00:00+01:00',
     readingTime: 6,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction VéhiculesChinois',
     body: [
       {
         tag: 'h2',

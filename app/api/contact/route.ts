@@ -34,7 +34,7 @@ export async function POST(request: NextRequest) {
   }
 
   const apiKey = process.env.RESEND_API_KEY;
-  const toEmail = process.env.CONTACT_EMAIL ?? 'contact@chinacarsma.com';
+  const toEmail = process.env.CONTACT_EMAIL ?? 'contact@vehiculeschinois.com';
 
   if (apiKey) {
     const response = await fetch('https://api.resend.com/emails', {
@@ -44,7 +44,7 @@ export async function POST(request: NextRequest) {
         'Content-Type': 'application/json',
       },
       body: JSON.stringify({
-        from: 'ChinaCarsMA <noreply@chinacarsma.com>',
+        from: 'VéhiculesChinois <noreply@vehiculeschinois.com>',
         to: [toEmail],
         reply_to: email,
         subject: `[Contact] ${subject}`,

@@ -8,24 +8,24 @@ const values = [
   {
     icon: Target,
     title: 'Indépendance éditoriale',
-    text: 'Aucun constructeur ne finance nos tests. Nos avis sont libres et documentés.',
+    text: 'Aucun constructeur ne finance nos tests. Nos avis sont libres, documentés et comparatifs.',
   },
   {
     icon: Newspaper,
     title: 'Expertise terrain',
-    text: "Essais, visites d'usines et rencontres avec les importateurs marocains.",
+    text: "Essais routiers, analyses techniques et veille permanente sur les marchés chinois et européens.",
   },
   {
     icon: Users,
-    title: 'Pensé pour le Maroc',
-    text: 'Prix, homologation, pièces, SAV : nos guides répondent aux réalités locales.',
+    title: 'Pensé pour les francophones',
+    text: 'Prix, homologation, disponibilité, SAV : nos guides répondent aux réalités de chaque marché.',
   },
 ];
 
 export const metadata: Metadata = {
   title: 'À propos',
   description:
-    "ChinaCarsMA est le média indépendant de référence sur l'automobile chinoise au Maroc.",
+    "VéhiculesChinois est le média indépendant de référence sur l'automobile chinoise pour le monde francophone.",
   alternates: { canonical: '/a-propos' },
 };
 
@@ -39,24 +39,24 @@ export default function AboutPage() {
           <Breadcrumb items={[{ name: 'À propos', url: '/a-propos' }]} className="mb-8" />
 
           <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl">
-            À propos de ChinaCarsMA
+            À propos de VéhiculesChinois
           </h1>
           <p className="mt-6 text-lg leading-8 text-gray-600">
-            ChinaCarsMA est le premier média francophone dédié à l&apos;automobile
-            chinoise au Maroc. Depuis notre lancement, nous décryptons un marché
-            en pleine révolution : l&apos;arrivée massive des constructeurs chinois,
-            l&apos;explosion du véhicule électrique et les nouvelles habitudes
-            d&apos;achat des automobilistes marocains.
+            VéhiculesChinois est le premier média francophone dédié à l&apos;automobile
+            chinoise. Depuis notre lancement, nous décryptons un marché en pleine
+            révolution : l&apos;arrivée massive des constructeurs chinois en Europe
+            et en Afrique du Nord, l&apos;explosion du véhicule électrique et les
+            nouvelles habitudes d&apos;achat des automobilistes francophones.
           </p>
 
           <h2 className="mt-16 text-2xl font-bold tracking-tight text-gray-900">
             Notre mission
           </h2>
           <p className="mt-4 text-base leading-7 text-gray-600">
-            Fournir aux automobilistes marocains et francophones une information
-            fiable, documentée et indépendante sur les marques, modèles et
-            technologies venues de Chine. Nous testons, comparons et
-            contextualisons pour aider à faire les bons choix.
+            Fournir aux automobilistes francophones — en France, Belgique, Suisse,
+            Maroc et au-delà — une information fiable, documentée et indépendante
+            sur les marques, modèles et technologies venues de Chine. Nous testons,
+            comparons et contextualisons pour aider à faire les bons choix.
           </p>
 
           <div className="mt-16 grid grid-cols-1 gap-8 md:grid-cols-3">
