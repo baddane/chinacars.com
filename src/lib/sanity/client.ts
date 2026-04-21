@@ -24,6 +24,9 @@ export function urlFor(source: unknown) {
 /**
  * Typed wrapper around client.fetch that returns null when Sanity is not
  * configured so pages can fall back to static seeds without crashing.
+ *
+ * Pass `tags` to opt into on-demand revalidation via /api/revalidate.
+ * Default revalidation is 1 hour as a safety net.
  */
 export async function sanityFetch<T>(
   query: string,
@@ -40,3 +43,13 @@ export async function sanityFetch<T>(
     return null;
   }
 }
+
+/** Pre-bound helpers with canonical cache tags for on-demand revalidation. */
+export const fetchArticles = <T>(query: string, params?: Record<string, unknown>) =>
+  sanityFetch<T>(query, params, { next: { tags: ['articles'] } });
+
+export const fetchBrands = <T>(query: string, params?: Record<string, unknown>) =>
+  sanityFetch<T>(query, params, { next: { tags: ['brands'] } });
+
+export const fetchModels = <T>(query: string, params?: Record<string, unknown>) =>
+  sanityFetch<T>(query, params, { next: { tags: ['models'] } });
