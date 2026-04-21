@@ -50,6 +50,13 @@ export const articleBySlugQuery = /* groq */ `
   }
 `;
 
+/** All articles ordered by date — for paginated listing pages. */
+export const allArticlesQuery = /* groq */ `
+  *[_type == "article" && defined(slug.current)]
+    | order(publishedAt desc)
+    { ${articleProjection} }
+`;
+
 export const articleSlugsQuery = /* groq */ `
   *[_type == "article" && defined(slug.current)][].slug.current
 `;

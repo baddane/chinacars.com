@@ -2,9 +2,12 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 import Image from 'next/image';
 import { ArrowRight, Zap, Shield, TrendingUp, ChevronRight } from 'lucide-react';
-import ArticleCard from '@/src/components/articles/ArticleCard';
+import ArticleCard, { type ArticleCardData } from '@/src/components/articles/ArticleCard';
 import { articles } from '@/src/data/articles';
 import { BRANDS } from '@/src/lib/constants';
+import { sanityFetch } from '@/src/lib/sanity/client';
+import { featuredArticlesQuery } from '@/src/lib/sanity/queries';
+import { toArticleCard, type SanityArticle } from '@/src/lib/sanity/normalize';
 
 export const metadata: Metadata = {
   title: "L'actualité des voitures chinoises au Maroc",
@@ -13,14 +16,18 @@ export const metadata: Metadata = {
   alternates: { canonical: '/' },
 };
 
-const featuredArticles = articles.slice(0, 3);
 const brandLogos = BRANDS.slice(0, 6).map((brand) => ({
   name: brand.name,
   slug: brand.slug,
   logo: `https://picsum.photos/seed/${brand.slug}logo/200/200`,
 }));
 
-export default function Home() {
+export default async function Home() {
+  const sanityFeatured = await sanityFetch<SanityArticle[]>(featuredArticlesQuery, { limit: 3 });
+  const featuredArticles: ArticleCardData[] = sanityFeatured?.length
+    ? sanityFeatured.map(toArticleCard)
+    : articles.slice(0, 3);
+
   return (
     <>
       <section className="relative isolate overflow-hidden bg-gray-900 pt-14">

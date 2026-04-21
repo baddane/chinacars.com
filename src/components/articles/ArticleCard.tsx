@@ -12,6 +12,7 @@ export interface ArticleCardData {
   category: string;
   publishedAt: string;
   readingTime?: number;
+  author?: string;
 }
 
 interface ArticleCardProps {
@@ -30,14 +31,18 @@ export default function ArticleCard({ article, className, priority = false }: Ar
         aria-label={article.title}
       >
         <div className="aspect-[16/9] relative">
-          <Image
-            src={article.image}
-            alt={article.title}
-            fill
-            sizes="(min-width: 1024px) 400px, (min-width: 640px) 50vw, 100vw"
-            priority={priority}
-            className="object-cover transition-transform duration-500 group-hover:scale-105"
-          />
+          {article.image ? (
+            <Image
+              src={article.image}
+              alt={article.title}
+              fill
+              sizes="(min-width: 1024px) 400px, (min-width: 640px) 50vw, 100vw"
+              priority={priority}
+              className="object-cover transition-transform duration-500 group-hover:scale-105"
+            />
+          ) : (
+            <div className="absolute inset-0 bg-gray-200" aria-hidden="true" />
+          )}
         </div>
         <div className="absolute top-4 left-4">
           <Badge tone="red">{article.category}</Badge>
@@ -49,6 +54,12 @@ export default function ArticleCard({ article, className, priority = false }: Ar
           <>
             <span aria-hidden="true">·</span>
             <span>{article.readingTime} min de lecture</span>
+          </>
+        ) : null}
+        {article.author ? (
+          <>
+            <span aria-hidden="true">·</span>
+            <span>{article.author}</span>
           </>
         ) : null}
       </div>

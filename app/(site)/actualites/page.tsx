@@ -1,8 +1,11 @@
 import type { Metadata } from 'next';
 import Breadcrumb from '@/src/components/layout/Breadcrumb';
-import ArticleCard from '@/src/components/articles/ArticleCard';
+import ArticleCard, { type ArticleCardData } from '@/src/components/articles/ArticleCard';
 import Pagination from '@/src/components/ui/Pagination';
 import { articles } from '@/src/data/articles';
+import { sanityFetch } from '@/src/lib/sanity/client';
+import { allArticlesQuery } from '@/src/lib/sanity/queries';
+import { toArticleCard, type SanityArticle } from '@/src/lib/sanity/normalize';
 
 const PAGE_SIZE = 9;
 
@@ -22,12 +25,17 @@ export function generateMetadata({ searchParams }: PageProps): Metadata {
   };
 }
 
-export default function NewsPage({ searchParams }: PageProps) {
+export default async function NewsPage({ searchParams }: PageProps) {
+  const sanityArticles = await sanityFetch<SanityArticle[]>(allArticlesQuery);
+  const allArticles: ArticleCardData[] = sanityArticles
+    ? sanityArticles.map(toArticleCard)
+    : articles;
+
   const page = Math.max(1, parseInt(searchParams.page || '1', 10));
-  const totalPages = Math.max(1, Math.ceil(articles.length / PAGE_SIZE));
+  const totalPages = Math.max(1, Math.ceil(allArticles.length / PAGE_SIZE));
   const safePage = Math.min(page, totalPages);
   const start = (safePage - 1) * PAGE_SIZE;
-  const pageArticles = articles.slice(start, start + PAGE_SIZE);
+  const pageArticles = allArticles.slice(start, start + PAGE_SIZE);
 
   return (
     <div className="bg-white pt-32 pb-24">
