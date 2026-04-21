@@ -4,7 +4,7 @@ import { notFound } from 'next/navigation';
 import { PortableText } from '@portabletext/react';
 import Breadcrumb from '@/src/components/layout/Breadcrumb';
 import JsonLd from '@/src/components/seo/JsonLd';
-import { articles, formatArticleDate } from '@/src/data/articles';
+import { articles, formatArticleDate, type ArticleBlock } from '@/src/data/articles';
 import { newsArticleSchema } from '@/src/lib/seo/schemas';
 import { truncateDescription } from '@/src/lib/seo/metadata';
 import { sanityFetch } from '@/src/lib/sanity/client';
@@ -229,9 +229,25 @@ export default async function ArticlePage({ params }: PageProps) {
           />
         </div>
 
-        <p className="mt-12 text-base leading-7 text-gray-500 italic">
-          Le contenu éditorial complet sera disponible prochainement.
-        </p>
+        {seed.body?.length ? (
+          <div className="mt-12">
+            {seed.body.map((block: ArticleBlock, i: number) =>
+              block.tag === 'h2' ? (
+                <h2 key={i} className="mt-12 text-2xl font-bold tracking-tight text-gray-900">
+                  {block.text}
+                </h2>
+              ) : (
+                <p key={i} className="mt-4 text-base leading-7 text-gray-700">
+                  {block.text}
+                </p>
+              ),
+            )}
+          </div>
+        ) : (
+          <p className="mt-12 text-base leading-7 text-gray-500 italic">
+            Le contenu éditorial complet sera disponible prochainement.
+          </p>
+        )}
       </div>
     </article>
   );
