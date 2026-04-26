@@ -14,6 +14,7 @@ export interface ArticleSeed {
   publishedAt: string; // ISO 8601
   readingTime: number;
   author?: string;
+  featured?: boolean;
 }
 
 export const articles: ArticleSeed[] = [
@@ -28,6 +29,7 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-04-12T09:00:00+01:00',
     readingTime: 6,
     author: 'Rédaction ChinaCarsMA',
+    featured: true,
   },
   {
     slug: 'mg-cyberster-roadster-electrique',
@@ -39,6 +41,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'essai',
     publishedAt: '2024-04-10T09:00:00+01:00',
     readingTime: 5,
+    featured: true,
   },
   {
     slug: 'importer-voiture-chinoise-maroc-2024',
@@ -50,6 +53,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'guide',
     publishedAt: '2024-04-08T09:00:00+01:00',
     readingTime: 8,
+    featured: true,
   },
   {
     slug: 'chery-tiggo-8-pro-suv-7-places',

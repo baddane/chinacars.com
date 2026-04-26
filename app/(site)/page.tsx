@@ -13,8 +13,10 @@ export const metadata: Metadata = {
   alternates: { canonical: '/' },
 };
 
-const featuredArticles = articles.slice(0, 3);
-const brandLogos = BRANDS.slice(0, 6).map((brand) => ({
+const latestArticle = articles[0];
+const featuredArticles = articles.filter((a) => a.featured).slice(0, 3);
+
+const brandLogos = BRANDS.map((brand) => ({
   name: brand.name,
   slug: brand.slug,
   logo: `https://picsum.photos/seed/${brand.slug}logo/200/200`,
@@ -37,9 +39,9 @@ export default function Home() {
           <div className="max-w-2xl">
             <div className="mb-8 flex">
               <div className="relative rounded-full px-3 py-1 text-sm leading-6 text-gray-400 ring-1 ring-white/10 hover:ring-white/20">
-                Le BYD Atto 3 est maintenant disponible au Maroc.{' '}
+                {latestArticle.title}{' '}
                 <Link
-                  href="/actualites/byd-seal-prix-maroc-2024"
+                  href={`/actualites/${latestArticle.slug}`}
                   className="font-semibold text-red-500"
                 >
                   <span className="absolute inset-0" aria-hidden="true" />
@@ -78,7 +80,7 @@ export default function Home() {
               Les constructeurs qui comptent
             </p>
           </div>
-          <div className="mx-auto mt-16 grid max-w-lg grid-cols-2 items-center gap-x-8 gap-y-10 sm:max-w-xl sm:grid-cols-3 sm:gap-x-10 lg:mx-0 lg:max-w-none lg:grid-cols-6">
+          <div className="mx-auto mt-16 grid max-w-lg grid-cols-3 items-center gap-x-8 gap-y-10 sm:max-w-xl sm:grid-cols-3 sm:gap-x-10 lg:mx-0 lg:max-w-none lg:grid-cols-9">
             {brandLogos.map((brand) => (
               <Link
                 key={brand.slug}
@@ -93,7 +95,7 @@ export default function Home() {
                   height={64}
                   className="rounded-full object-cover shadow-lg"
                 />
-                <span className="text-sm font-bold text-gray-600">{brand.name}</span>
+                <span className="text-xs font-bold text-gray-600 text-center">{brand.name}</span>
               </Link>
             ))}
           </div>
@@ -148,8 +150,8 @@ export default function Home() {
                     Technologie de pointe.
                   </dt>{' '}
                   <dd className="inline">
-                    Leader mondial des batteries et des systèmes
-                    d&apos;infodivertissement intelligents.
+                    BYD est le 1er fabricant mondial de batteries — ses véhicules
+                    intègrent des systèmes d&apos;infodivertissement de dernière génération.
                   </dd>
                 </div>
                 <div className="relative pl-9">
@@ -161,8 +163,8 @@ export default function Home() {
                     Sécurité 5 étoiles.
                   </dt>{' '}
                   <dd className="inline">
-                    La majorité des nouveaux modèles obtiennent les notes
-                    maximales aux tests Euro NCAP.
+                    MG, BYD et Chery obtiennent régulièrement la note maximale
+                    aux tests Euro NCAP, à égalité avec les marques européennes.
                   </dd>
                 </div>
                 <div className="relative pl-9">
@@ -174,7 +176,8 @@ export default function Home() {
                     Rapport qualité-prix imbattable.
                   </dt>{' '}
                   <dd className="inline">
-                    Des équipements premium accessibles à des tarifs compétitifs.
+                    Des équipements premium (toit panoramique, ADAS, recharge rapide)
+                    accessibles 20 à 30 % moins cher qu&apos;un équivalent européen.
                   </dd>
                 </div>
               </dl>
