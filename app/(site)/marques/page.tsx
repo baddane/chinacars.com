@@ -5,32 +5,10 @@ import { ExternalLink, Info } from 'lucide-react';
 import Breadcrumb from '@/src/components/layout/Breadcrumb';
 import { BRANDS } from '@/src/lib/constants';
 
-const brandsContent = BRANDS.slice(0, 6).map((brand, index) => ({
-  ...brand,
-  description: [
-    "Build Your Dreams est le leader mondial des véhicules électrifiés. Présent au Maroc avec une gamme complète.",
-    "Marque d'origine britannique sous pavillon chinois (SAIC), MG propose des véhicules au design dynamique.",
-    "L'un des plus grands exportateurs chinois, Chery se distingue par ses SUV technologiques.",
-    "Propriétaire de Volvo et Lotus, Geely insuffle une rigueur européenne à ses modèles.",
-    "Great Wall Motor est le spécialiste des SUV (Haval) et des pick-ups.",
-    'La marque de luxe électrique du groupe Geely, visant le très haut de gamme.',
-  ][index] || '',
-  logo: `https://picsum.photos/seed/${brand.slug}logo/400/400`,
-  modelsCount: [5, 4, 6, 3, 4, 2][index] || 0,
-  origin: [
-    'Shenzhen, Chine',
-    'Shanghai, Chine',
-    'Wuhu, Chine',
-    'Hangzhou, Chine',
-    'Baoding, Chine',
-    'Ningbo, Chine',
-  ][index],
-}));
-
 export const metadata: Metadata = {
   title: 'Marques de voitures chinoises au Maroc',
   description:
-    'Découvrez toutes les marques de voitures chinoises disponibles au Maroc : BYD, MG, Chery, Geely, GWM, Zeekr.',
+    'Découvrez toutes les marques de voitures chinoises disponibles au Maroc : BYD, MG, Chery, Geely, GWM, Zeekr, NIO, XPeng, Leapmotor.',
   alternates: { canonical: '/marques' },
 };
 
@@ -45,21 +23,21 @@ export default function BrandsPage() {
             Marques
           </h1>
           <p className="mt-6 text-lg leading-8 text-gray-600">
-            Explorez l&apos;univers des constructeurs chinois. De l&apos;entrée de
-            gamme accessible au luxe technologique, chaque marque apporte sa
-            vision de l&apos;automobile.
+            Explorez l&apos;univers des {BRANDS.length} constructeurs chinois présents ou attendus
+            au Maroc. De l&apos;entrée de gamme accessible au luxe technologique, chaque marque
+            apporte sa vision de l&apos;automobile.
           </p>
         </div>
 
         <div className="mx-auto mt-16 grid max-w-2xl grid-cols-1 gap-x-8 gap-y-12 lg:mx-0 lg:max-w-none lg:grid-cols-2">
-          {brandsContent.map((brand) => (
+          {BRANDS.map((brand) => (
             <article
               key={brand.slug}
               className="flex flex-col sm:flex-row gap-6 p-8 rounded-3xl bg-gray-50 border border-gray-100 hover:shadow-xl transition-all group"
             >
               <div className="shrink-0">
                 <Image
-                  src={brand.logo}
+                  src={`https://picsum.photos/seed/${brand.slug}logo/400/400`}
                   alt={`Logo ${brand.name}`}
                   width={128}
                   height={128}
@@ -73,9 +51,7 @@ export default function BrandsPage() {
                     {brand.origin}
                   </span>
                 </div>
-                <p className="text-sm leading-6 text-gray-600 mb-6">
-                  {brand.description}
-                </p>
+                <p className="text-sm leading-6 text-gray-600 mb-6">{brand.description}</p>
                 <div className="flex items-center gap-4">
                   <Link
                     href={`/marques/${brand.slug}`}
