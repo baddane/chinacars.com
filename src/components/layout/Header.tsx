@@ -5,6 +5,7 @@ import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { Menu, X, Car, Search, Globe } from 'lucide-react';
 import { cn } from '@/src/lib/utils';
+import SearchModal from '@/src/components/ui/SearchModal';
 
 const navigation = [
   { name: 'Actualités', href: '/actualites' },
@@ -17,6 +18,7 @@ const navigation = [
 
 export default function Header() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+  const [searchOpen, setSearchOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
   const pathname = usePathname();
   const isHome = pathname === '/';
@@ -108,6 +110,7 @@ export default function Header() {
           <button
             type="button"
             aria-label="Rechercher"
+            onClick={() => setSearchOpen(true)}
             className={cn(
               'p-2 transition-colors',
               transparent ? 'text-white hover:text-red-400' : 'text-gray-700 hover:text-red-600',
@@ -128,6 +131,8 @@ export default function Header() {
           </button>
         </div>
       </nav>
+
+      <SearchModal open={searchOpen} onClose={() => setSearchOpen(false)} />
 
       <div
         className={cn(
