@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useRef, useCallback } from 'react';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { Menu, X, Car, Search, Globe } from 'lucide-react';
@@ -16,6 +16,8 @@ const navigation = [
   { name: 'Maroc', href: '/maroc' },
 ];
 
+const FOCUSABLE = 'a[href], button:not([disabled]), [tabindex="0"]';
+
 export default function Header() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [searchOpen, setSearchOpen] = useState(false);
@@ -24,6 +26,9 @@ export default function Header() {
   const isHome = pathname === '/';
   const transparent = isHome && !scrolled;
 
+  const menuRef = useRef<HTMLDivElement>(null);
+  const openBtnRef = useRef<HTMLButtonElement>(null);
+
   useEffect(() => {
     const handleScroll = () => setScrolled(window.scrollY > 20);
     handleScroll();
@@ -31,9 +36,52 @@ export default function Header() {
     return () => window.removeEventListener('scroll', handleScroll);
   }, []);
 
+  // Close on route change
   useEffect(() => {
     setMobileMenuOpen(false);
   }, [pathname]);
+
+  // Focus first element when menu opens; restore focus when it closes
+  useEffect(() => {
+    if (mobileMenuOpen) {
+      const first = menuRef.current?.querySelector<HTMLElement>(FOCUSABLE);
+      first?.focus();
+      document.body.style.overflow = 'hidden';
+    } else {
+      document.body.style.overflow = '';
+      openBtnRef.current?.focus();
+    }
+    return () => { document.body.style.overflow = ''; };
+  }, [mobileMenuOpen]);
+
+  // Escape to close + focus trap
+  const handleMenuKeyDown = useCallback((e: { key: string; shiftKey: boolean; preventDefault: () => void }) => {
+    if (e.key === 'Escape') {
+      setMobileMenuOpen(false);
+      return;
+    }
+    if (e.key !== 'Tab') return;
+
+    const focusable = Array.from(
+      menuRef.current?.querySelectorAll<HTMLElement>(FOCUSABLE) ?? [],
+    );
+    if (focusable.length === 0) return;
+
+    const first = focusable[0] as HTMLElement;
+    const last = focusable[focusable.length - 1] as HTMLElement;
+
+    if (e.shiftKey) {
+      if (document.activeElement === first) {
+        e.preventDefault();
+        last.focus();
+      }
+    } else {
+      if (document.activeElement === last) {
+        e.preventDefault();
+        first.focus();
+      }
+    }
+  }, []);
 
   return (
     <header
@@ -70,6 +118,7 @@ export default function Header() {
         </div>
         <div className="flex lg:hidden">
           <button
+            ref={openBtnRef}
             type="button"
             className={cn(
               '-m-2.5 inline-flex items-center justify-center rounded-md p-2.5',
@@ -77,6 +126,7 @@ export default function Header() {
             )}
             aria-label="Ouvrir le menu"
             aria-expanded={mobileMenuOpen}
+            aria-controls="mobile-menu"
             onClick={() => setMobileMenuOpen(true)}
           >
             <Menu className="h-6 w-6" aria-hidden="true" />
@@ -134,12 +184,22 @@ export default function Header() {
 
       <SearchModal open={searchOpen} onClose={() => setSearchOpen(false)} />
 
+      {/* Mobile menu — full-screen dialog */}
       <div
+        id="mobile-menu"
+        ref={menuRef}
+        role="dialog"
+        aria-modal="true"
+        aria-label="Menu de navigation"
+        onKeyDown={handleMenuKeyDown}
         className={cn(
           'lg:hidden fixed inset-0 z-50 bg-white px-6 py-6 transition-transform duration-300 ease-in-out',
           mobileMenuOpen ? 'translate-x-0' : 'translate-x-full',
         )}
+        // keep it in the DOM for CSS transition; hide from AT when closed
         aria-hidden={!mobileMenuOpen}
+        // prevent focus from entering when visually hidden
+        inert={!mobileMenuOpen ? ('' as unknown as boolean) : undefined}
       >
         <div className="flex items-center justify-between">
           <Link
