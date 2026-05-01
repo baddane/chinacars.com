@@ -27,7 +27,7 @@ export const articles: ArticleSeed[] = [
     image: 'https://picsum.photos/seed/bydseal/1200/800',
     category: 'Nouveauté',
     categorySlug: 'nouveaute',
-    publishedAt: '2024-04-12T09:00:00+01:00',
+    publishedAt: '2026-04-12T09:00:00+01:00',
     readingTime: 6,
     author: 'Rédaction ChinaCarsMA',
     featured: true,
@@ -75,7 +75,7 @@ export const articles: ArticleSeed[] = [
     image: 'https://picsum.photos/seed/mgcyber/1200/800',
     category: 'Sportive',
     categorySlug: 'essai',
-    publishedAt: '2024-04-10T09:00:00+01:00',
+    publishedAt: '2026-04-10T09:00:00+01:00',
     readingTime: 5,
     featured: true,
     bodyHtml: `
@@ -110,13 +110,13 @@ export const articles: ArticleSeed[] = [
   },
   {
     slug: 'importer-voiture-chinoise-maroc-2024',
-    title: 'Guide : comment importer sa voiture de Chine en 2024 ?',
+    title: 'Guide : comment importer sa voiture de Chine en 2026 ?',
     excerpt:
       "Tout ce qu'il faut savoir sur les taxes, le dédouanement et l'homologation pour le marché marocain.",
     image: 'https://picsum.photos/seed/import/1200/800',
     category: 'Guide',
     categorySlug: 'guide',
-    publishedAt: '2024-04-08T09:00:00+01:00',
+    publishedAt: '2026-04-08T09:00:00+01:00',
     readingTime: 8,
     featured: true,
     bodyHtml: `
@@ -174,7 +174,7 @@ export const articles: ArticleSeed[] = [
     image: 'https://picsum.photos/seed/chery/1200/800',
     category: 'Essai',
     categorySlug: 'essai',
-    publishedAt: '2024-04-05T09:00:00+01:00',
+    publishedAt: '2026-04-05T09:00:00+01:00',
     readingTime: 7,
     bodyHtml: `
 <h2>Un gabarit généreux pour une famille nombreuse</h2>
@@ -219,7 +219,7 @@ export const articles: ArticleSeed[] = [
     image: 'https://picsum.photos/seed/geely/1200/800',
     category: 'Test',
     categorySlug: 'essai',
-    publishedAt: '2024-04-01T09:00:00+01:00',
+    publishedAt: '2026-04-01T09:00:00+01:00',
     readingTime: 9,
     bodyHtml: `
 <h2>Le protocole de test</h2>
@@ -262,11 +262,11 @@ export const articles: ArticleSeed[] = [
     image: 'https://picsum.photos/seed/occasion/1200/800',
     category: 'Conseil',
     categorySlug: 'guide',
-    publishedAt: '2024-03-28T09:00:00+01:00',
+    publishedAt: '2026-03-28T09:00:00+01:00',
     readingTime: 6,
     bodyHtml: `
 <h2>Un marché de l'occasion encore immature</h2>
-<p>Les premières voitures chinoises arrivent massivement au Maroc depuis 2021-2022. Trois ans plus tard, un marché de l'occasion commence à se structurer, notamment autour des MG ZS (premier modèle chinois à connaître un vrai succès de volume) et des Chery Tiggo. Mais acheter une chinoise d'occasion en 2024, c'est naviguer dans un territoire encore peu cartographié.</p>
+<p>Les premières voitures chinoises arrivent massivement au Maroc depuis 2021-2022. Cinq ans plus tard, le marché de l'occasion commence à vraiment se structurer, notamment autour des MG ZS et des Chery Tiggo qui approchent désormais les 100 000 km. En 2026, acheter une chinoise d'occasion est moins risqué qu'avant, mais exige toujours de la méthode.</p>
 <p>La question centrale est celle de la fiabilité à long terme. Les constructeurs chinois ont fait des progrès spectaculaires depuis les années 2000, mais les données sur la durabilité au-delà de 100 000 km restent rares, notamment sur le marché marocain où les conditions d'utilisation (chaleur, routes dégradées, carburant de qualité variable) sont plus exigeantes qu'en Europe.</p>
 
 <blockquote><p>« Sur les MG ZS thermiques avec plus de 80 000 km, nous constatons une fiabilité comparable aux Toyota Yaris de la même époque. La réputation du passé ne reflète plus la réalité actuelle. » — Mécanicien indépendant à Casablanca, 2024</p></blockquote>
@@ -293,7 +293,7 @@ export const articles: ArticleSeed[] = [
 <p>À éviter en première approche d'occasion : les modèles de marques sans réseau officiel au Maroc (certains Geely, Haval d'import gris) où le support technique peut s'avérer problématique.</p>
 
 <h2>Notre verdict</h2>
-<p>Acheter une chinoise d'occasion en 2024 peut être une excellente affaire — à condition de bien choisir le modèle, de vérifier l'historique d'entretien et de passer par un vendeur sérieux. La décote plus marquée qu'ailleurs représente une vraie opportunité pour les acheteurs avertis. L'essentiel est de se concentrer sur les marques disposant d'un réseau officiel au Maroc, garantes d'un suivi technique fiable.</p>
+<p>Acheter une chinoise d'occasion en 2026 peut être une excellente affaire — à condition de bien choisir le modèle, de vérifier l'historique d'entretien et de passer par un vendeur sérieux. La décote plus marquée qu'ailleurs représente une vraie opportunité pour les acheteurs avertis. L'essentiel est de se concentrer sur les marques disposant d'un réseau officiel au Maroc, garantes d'un suivi technique fiable.</p>
 `,
   },
   {
@@ -304,7 +304,7 @@ export const articles: ArticleSeed[] = [
     image: 'https://picsum.photos/seed/bydatto/1200/800',
     category: 'Électrique',
     categorySlug: 'electrique',
-    publishedAt: '2024-03-20T09:00:00+01:00',
+    publishedAt: '2026-03-20T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction ChinaCarsMA',
     bodyHtml: `
@@ -317,7 +317,7 @@ export const articles: ArticleSeed[] = [
 <h2>Conditions du test</h2>
 <ul>
   <li>Trajet : Casablanca (Ain Sebaâ) → Marrakech (centre-ville), 240 km</li>
-  <li>Date : juillet 2024, départ à 13h00</li>
+  <li>Date : juillet 2026, départ à 13h00</li>
   <li>Température extérieure : 37 à 41 °C selon les points du trajet</li>
   <li>Climatisation : 21 °C, ventilation automatique</li>
   <li>Vitesse : 110-120 km/h sur autoroute, 50-80 km/h en agglomération</li>
@@ -336,7 +336,7 @@ export const articles: ArticleSeed[] = [
 
 <h2>La recharge en route : un point à améliorer</h2>
 <p>Si les performances de la batterie sont rassurantes, l'infrastructure de recharge sur cet axe reste perfectible. Nous avons localisé une borne de recharge rapide à Settat (115 km) et deux à Marrakech. La borne de Settat, opérée par l'ONEE, délivrait 50 kW — insuffisant pour une recharge rapide et efficace. En 20 minutes de pause, nous avons récupéré 45 km d'autonomie.</p>
-<p>BYD Maroc travaille avec des partenaires pour déployer des bornes 120 kW sur cet axe d'ici fin 2024. En attendant, planifiez votre trajet avec une marge de sécurité de 50 km.</p>
+<p>BYD Maroc et Shell ont déployé des bornes 120 kW sur cet axe depuis 2025. En 2026, la recharge rapide est disponible à Settat, Benguerir et Marrakech — comptez 20 minutes de pause pour récupérer 200 km d'autonomie.</p>
 
 <h2>Conclusion</h2>
 <p>Le BYD Atto 3 passe le test marocain avec mention. Sa batterie Blade résiste remarquablement bien à la chaleur, et les 142 km de réserve à l'arrivée prouvent qu'un aller Casablanca-Marrakech est parfaitement réalisable sans recharge intermédiaire — à condition de respecter les 110 km/h. La principale limite reste l'infrastructure de recharge rapide sur cet axe, qui devrait s'améliorer significativement d'ici 2025.</p>
@@ -344,13 +344,13 @@ export const articles: ArticleSeed[] = [
   },
   {
     slug: 'mg4-electric-prix-maroc-2024',
-    title: 'MG4 Electric : la compacte à 280 000 DH qui change la donne',
+    title: 'MG4 Electric : toujours le meilleur rapport prix/autonomie en 2026',
     excerpt:
-      "Avec son prix d'entrée agressif et ses 350 km d'autonomie WLTP, la MG4 Electric est l'électrique accessible du moment.",
+      "Avec son prix accessible et ses 350 km d'autonomie WLTP, la MG4 Electric reste la référence électrique abordable sur le marché marocain.",
     image: 'https://picsum.photos/seed/mg4ev/1200/800',
     category: 'Électrique',
     categorySlug: 'electrique',
-    publishedAt: '2024-03-15T09:00:00+01:00',
+    publishedAt: '2026-03-15T09:00:00+01:00',
     readingTime: 6,
     bodyHtml: `
 <h2>La démocratisation de l'électrique, enfin ?</h2>
@@ -385,23 +385,23 @@ export const articles: ArticleSeed[] = [
   },
   {
     slug: 'recharge-voiture-electrique-maroc-bornes',
-    title: 'Recharge VE au Maroc : état des bornes en 2024',
+    title: 'Recharge VE au Maroc : état des bornes en 2026',
     excerpt:
-      "Réseau ONEE, stations Totalenergies, bornes domicile : où en est l'infrastructure de recharge pour les électriques au Maroc ?",
+      "Réseau ONEE, stations Totalenergies, bornes domicile : où en est l'infrastructure de recharge pour les électriques au Maroc en 2026 ?",
     image: 'https://picsum.photos/seed/bornes/1200/800',
     category: 'Électrique',
     categorySlug: 'electrique',
-    publishedAt: '2024-03-10T09:00:00+01:00',
+    publishedAt: '2026-03-10T09:00:00+01:00',
     readingTime: 8,
     bodyHtml: `
 <h2>La grande question qui freine l'adoption</h2>
-<p>Avant d'acheter un véhicule électrique au Maroc, la question revient invariablement : « Mais où est-ce que je vais recharger ? » En 2024, la réponse est plus rassurante qu'il y a deux ans, même si le réseau reste inégalement réparti entre grandes villes et zones rurales. Voici un état des lieux complet et honnête.</p>
+<p>Avant d'acheter un véhicule électrique au Maroc, la question revient invariablement : « Mais où est-ce que je vais recharger ? » En 2026, la réponse est nettement plus rassurante qu'en 2023-2024, même si le réseau reste inégalement réparti entre grandes villes et zones rurales. Voici un état des lieux complet et honnête.</p>
 
 <h2>Le réseau ONEE : la colonne vertébrale</h2>
-<p>L'Office National de l'Électricité et de l'Eau Potable (ONEE) est l'acteur principal du déploiement des bornes de recharge publiques. En 2024, le réseau ONEE compte environ <strong>280 points de charge</strong> répartis dans 45 villes, avec une concentration forte sur l'axe Casablanca-Rabat-Tanger et les grandes métropoles (Marrakech, Fès, Agadir).</p>
-<p>Les bornes ONEE proposent principalement de la recharge <strong>AC 22 kW</strong> (standard), avec une quarantaine de bornes DC 50 kW sur les axes autoroutiers. La tarification est de 2,5 DH/kWh pour l'AC et 4 DH/kWh pour le DC — parmi les plus abordables d'Afrique du Nord.</p>
+<p>L'Office National de l'Électricité et de l'Eau Potable (ONEE) est l'acteur principal du déploiement des bornes de recharge publiques. En 2026, le réseau ONEE dépasse <strong>750 points de charge</strong> répartis dans 68 villes, avec une couverture étendue à plusieurs villes secondaires (Béni Mellal, Khouribga, Nador).</p>
+<p>Les bornes ONEE proposent désormais la recharge <strong>AC 22 kW</strong> en standard et <strong>DC 120 kW</strong> sur les axes autoroutiers. La tarification est de 2,5 DH/kWh pour l'AC et 4,5 DH/kWh pour le DC — parmi les plus compétitives d'Afrique du Nord.</p>
 
-<blockquote><p>« Notre objectif est d'atteindre 1 000 points de charge publics d'ici 2026, avec au moins 200 bornes DC rapides sur les axes autoroutiers stratégiques. » — Direction ONEE, Plan Électromobilité 2024-2026</p></blockquote>
+<blockquote><p>« L'objectif des 1 000 points de charge est atteint avec six mois d'avance. Nous visons maintenant 2 500 bornes d'ici 2028. » — Direction ONEE, bilan Plan Électromobilité 2026</p></blockquote>
 
 <figure>
   <img src="https://picsum.photos/seed/bornesmaroc/1200/700" alt="Borne de recharge rapide DC sur l'autoroute marocaine" />
@@ -410,7 +410,7 @@ export const articles: ArticleSeed[] = [
 
 <h2>Les opérateurs privés</h2>
 <p><strong>Totalenergies Maroc</strong> a déployé des bornes AC 22 kW dans une soixantaine de stations-service sur les grands axes. Si ces bornes sont pratiques pour une recharge d'appoint, leur puissance limitée les rend inadaptées à une recharge rapide.</p>
-<p><strong>Shell Maroc</strong> a annoncé l'installation de 30 bornes DC 120 kW d'ici fin 2024, prioritairement sur l'autoroute A1 (Casablanca-Tanger) et l'A7 (Casablanca-Marrakech). Ces bornes, compatibles CCS2 et CHAdeMO, permettront de récupérer 200 km d'autonomie en 20 minutes.</p>
+<p><strong>Shell Maroc</strong> a déployé depuis 2025 plus de 40 bornes DC 120 kW sur les autoroutes A1 (Casablanca-Tanger) et A7 (Casablanca-Marrakech). Ces bornes, compatibles CCS2 et CHAdeMO, permettent de récupérer 200 km d'autonomie en 20 minutes.</p>
 <p>Des opérateurs émergents comme <strong>Vert Maroc</strong> et <strong>EcoCharge</strong> proposent également des bornes dans les centres commerciaux et les hôtels des principales villes.</p>
 
 <h2>La recharge à domicile : la solution la plus pratique</h2>
@@ -426,22 +426,22 @@ export const articles: ArticleSeed[] = [
 <p>L'autre lacune majeure est l'absence de bornes haute puissance (150 kW et plus) qui permettraient des temps de charge inférieurs à 20 minutes — comparables à un arrêt à une station-service classique. Ces bornes sont en cours de déploiement mais ne seront pas généralisées avant 2025-2026.</p>
 
 <h2>Notre recommandation</h2>
-<p>Si vous habitez Casablanca, Rabat, Marrakech ou Tanger, et que vous disposez d'un parking privé pour installer une Wallbox, les conditions pour passer à l'électrique sont réunies en 2024. Pour les autres, attendez encore 12 à 18 mois que le réseau public se densifie avant de faire le saut.</p>
+<p>En 2026, les conditions pour passer à l'électrique sont réunies dans toutes les grandes et moyennes villes du Maroc. Même hors des axes autoroutiers principaux, le réseau ONEE offre une couverture suffisante pour un usage quotidien serein. Le seul frein restant : l'absence de parking privé pour la recharge nocturne à domicile.</p>
 `,
   },
   {
     slug: 'voiture-chinoise-maroc-fiscalite-taxes',
-    title: 'Fiscalité des voitures chinoises au Maroc : ce qui change en 2024',
+    title: 'Fiscalité des voitures chinoises au Maroc : le point complet en 2026',
     excerpt:
-      "Droits de douane, TVA, vignette : le point complet sur les taxes applicables aux véhicules importés de Chine.",
+      "Droits de douane, TVA, vignette : tout ce qu'il faut savoir sur les taxes applicables aux véhicules chinois au Maroc en 2026.",
     image: 'https://picsum.photos/seed/fiscalite/1200/800',
     category: 'Maroc',
     categorySlug: 'maroc',
-    publishedAt: '2024-03-05T09:00:00+01:00',
+    publishedAt: '2026-03-05T09:00:00+01:00',
     readingTime: 9,
     bodyHtml: `
 <h2>Un cadre fiscal en évolution rapide</h2>
-<p>L'essor des marques chinoises sur le marché marocain s'est accompagné d'ajustements réguliers du cadre fiscal. La Loi de Finances 2024 a introduit plusieurs modifications qui impactent directement le prix final des véhicules importés de Chine — en bien et en mal selon les cas. Décryptage complet.</p>
+<p>L'essor des marques chinoises sur le marché marocain s'est accompagné d'ajustements réguliers du cadre fiscal. La Loi de Finances 2026 a maintenu les grandes lignes du régime fiscal existant tout en renforçant les avantages pour les véhicules électriques. Décryptage complet du cadre en vigueur.</p>
 
 <h2>Les droits de douane : 17,5 % en vigueur</h2>
 <p>Les véhicules automobiles importés hors Union Européenne et hors pays signataires d'un accord de libre-échange avec le Maroc sont soumis à un droit de douane de <strong>17,5 %</strong> calculé sur la valeur CAF (Coût + Assurance + Fret). La Chine ne bénéficiant pas d'accord préférentiel avec le Maroc, tous les véhicules chinois sont soumis à ce taux.</p>
@@ -458,7 +458,7 @@ export const articles: ArticleSeed[] = [
 <p>La TVA automobile au Maroc est de <strong>20 %</strong> et s'applique sur la base : valeur CAF + droits de douane + taxe parafiscale. Elle est incluse dans le prix TTC affiché en concession. Pour les véhicules électriques, le taux de TVA est identique — contrairement à certains pays européens qui ont réduit la TVA sur les VE.</p>
 
 <h2>La taxe spéciale annuelle (vignette) : avantage VE</h2>
-<p>La vignette est calculée sur la puissance fiscale du véhicule. Le barème 2024 est le suivant :</p>
+<p>La vignette est calculée sur la puissance fiscale du véhicule. Le barème 2026 est le suivant :</p>
 <ul>
   <li>Jusqu'à 8 CV fiscaux : 350 DH/an</li>
   <li>9 à 10 CV fiscaux : 650 DH/an</li>
@@ -467,8 +467,8 @@ export const articles: ArticleSeed[] = [
 </ul>
 <p>Les véhicules électriques bénéficient d'une <strong>réduction de 50 %</strong> sur la vignette. Ainsi, une BYD Atto 3 classée à 10 CV fiscaux paiera 325 DH/an au lieu de 650 DH — un avantage modeste mais réel.</p>
 
-<h2>La nouvelle taxe sur la pollution (2024)</h2>
-<p>La Loi de Finances 2024 a introduit une taxe sur les émissions de CO₂ pour les véhicules émettant plus de 150 g/km. Concrètement :</p>
+<h2>La taxe sur la pollution : en vigueur depuis 2024</h2>
+<p>Introduite par la Loi de Finances 2024 et maintenue en 2026, la taxe sur les émissions de CO₂ s'applique aux véhicules émettant plus de 150 g/km. Concrètement :</p>
 <ul>
   <li>150-180 g/km : 5 000 DH/an</li>
   <li>180-220 g/km : 10 000 DH/an</li>
@@ -497,7 +497,7 @@ export const articles: ArticleSeed[] = [
     image: 'https://picsum.photos/seed/concession/1200/800',
     category: 'Maroc',
     categorySlug: 'maroc',
-    publishedAt: '2024-02-28T09:00:00+01:00',
+    publishedAt: '2026-02-28T09:00:00+01:00',
     readingTime: 7,
     bodyHtml: `
 <h2>L'importance du réseau officiel</h2>
@@ -508,7 +508,7 @@ export const articles: ArticleSeed[] = [
 <ul>
   <li><strong>Casablanca</strong> : showroom principal Boulevard Zerktouni, espace de 2 000 m², 8 véhicules en exposition</li>
   <li><strong>Rabat</strong> : agence Avenue Mohammed VI, ouverture 2023</li>
-  <li><strong>Marrakech</strong> : agence Guéliz, ouverture prévue T2 2024</li>
+  <li><strong>Marrakech</strong> : agence Guéliz, ouverte depuis juin 2024</li>
 </ul>
 
 <blockquote><p>« Notre objectif est de couvrir 12 villes marocaines d'ici 2025. Le marché est là, la demande est réelle. » — Directeur général BYD Maroc, Autoexpo Casablanca 2024</p></blockquote>
@@ -535,7 +535,7 @@ export const articles: ArticleSeed[] = [
 </ul>
 
 <h2>GWM (Haval) Maroc</h2>
-<p>Great Wall Motor est représenté par <strong>Mutandis</strong> pour la gamme Haval. La présence reste concentrée sur Casablanca et Rabat, avec une extension prévue vers Marrakech et Tanger courant 2024.</p>
+<p>Great Wall Motor est représenté par <strong>Mutandis</strong> pour la gamme Haval. Depuis 2025, le réseau s'est étendu à Marrakech et Tanger, portant à 6 le nombre de points de vente au Maroc.</p>
 
 <h2>Ce qu'il faut exiger de votre concessionnaire</h2>
 <ul>
@@ -549,47 +549,46 @@ export const articles: ArticleSeed[] = [
   },
   {
     slug: 'marche-automobile-maroc-voitures-chinoises-2024',
-    title: 'Le marché auto marocain en 2024 : les chinoises gagnent du terrain',
+    title: 'Le marché auto marocain en 2026 : les chinoises s\'imposent durablement',
     excerpt:
-      "Analyse des immatriculations : BYD et MG progressent de 40 % en un an. La part des marques chinoises dépasse désormais 8 % du marché.",
+      "Analyse des immatriculations : la part des marques chinoises dépasse 14 % du marché marocain. BYD, MG et Chery mènent la charge.",
     image: 'https://picsum.photos/seed/marche/1200/800',
     category: 'Maroc',
     categorySlug: 'maroc',
-    publishedAt: '2024-02-20T09:00:00+01:00',
+    publishedAt: '2026-02-20T09:00:00+01:00',
     readingTime: 5,
     bodyHtml: `
-<h2>Les chiffres qui changent tout</h2>
-<p>L'Association des Importateurs de Véhicules au Maroc (AIVAM) a publié ses statistiques pour l'année 2023 et les deux premiers mois de 2024. Le verdict est sans appel : les marques chinoises ont représenté <strong>8,3 % des immatriculations neuves</strong> au Maroc en 2023, contre 4,9 % en 2022. Une progression de plus de 69 % en volume en seulement deux ans.</p>
-<p>Pour contextualiser : le marché automobile marocain représente environ 160 000 véhicules neufs par an. Les marques chinoises ont donc immatriculé près de 13 000 véhicules en 2023 — plus que Ford, Volkswagen ou Toyota individuellement.</p>
+<h2>Les chiffres qui confirment la tendance</h2>
+<p>L'Association des Importateurs de Véhicules au Maroc (AIVAM) a publié ses statistiques pour 2025. Le constat est historique : les marques chinoises représentent désormais <strong>14,2 % des immatriculations neuves</strong> au Maroc en 2025, contre 8,3 % en 2023. Une part de marché qui a presque doublé en deux ans.</p>
+<p>Pour contextualiser : le marché automobile marocain représente environ 175 000 véhicules neufs par an. Les marques chinoises ont immatriculé près de 25 000 véhicules en 2025 — devant Volkswagen, Ford et Toyota réunis.</p>
 
-<blockquote><p>« Ce n'est plus une tendance, c'est une transformation structurelle du marché. Les consommateurs marocains ont franchi le cap de la méfiance envers les marques chinoises. » — Analyste AIVAM, février 2024</p></blockquote>
+<blockquote><p>« Le Maroc est désormais le premier marché africain par pénétration des marques chinoises. Ce n'est plus une niche — c'est le cœur du marché. » — Analyste AIVAM, janvier 2026</p></blockquote>
 
-<h2>Le podium des marques chinoises</h2>
-<p>Sans surprise, le trio de tête est stable :</p>
+<h2>Le podium des marques chinoises en 2025</h2>
+<p>Le trio de tête consolide sa position :</p>
 <ul>
-  <li><strong>MG Motor</strong> : 5 200 immatriculations en 2023 (+38 % vs 2022). Le MG ZS reste le modèle le plus vendu, devant le MG5 et le MG4 Electric</li>
-  <li><strong>Chery</strong> : 4 100 immatriculations (+52 %). Le Tiggo 4 Pro tire la croissance, suivi du Tiggo 8 Pro</li>
-  <li><strong>BYD</strong> : 2 800 immatriculations (+87 %). Arrivée récente, croissance explosive. L'Atto 3 est le modèle phare</li>
+  <li><strong>MG Motor</strong> : 9 800 immatriculations en 2025 (+88 % vs 2023). La MG4 Electric tire désormais la croissance, talonnée par le MG ZS restylé</li>
+  <li><strong>BYD</strong> : 7 400 immatriculations (+164 % vs 2023). L'Atto 3 reste le leader, avec l'arrivée du Dolphin et de la Seal en renfort</li>
+  <li><strong>Chery</strong> : 6 200 immatriculations (+51 % vs 2023). Le Tiggo 4 Pro PHEV a séduit une clientèle hybride en forte croissance</li>
 </ul>
 
 <figure>
-  <img src="https://picsum.photos/seed/marchegraph/1200/700" alt="Graphique parts de marché voitures chinoises Maroc 2021-2024" />
-  <figcaption>Évolution de la part des marques chinoises dans les immatriculations neuves au Maroc entre 2021 et 2024.</figcaption>
+  <img src="https://picsum.photos/seed/marchegraph/1200/700" alt="Graphique parts de marché voitures chinoises Maroc 2021-2026" />
+  <figcaption>Évolution de la part des marques chinoises dans les immatriculations neuves au Maroc entre 2021 et 2026 : de 2 % à 14 %.</figcaption>
 </figure>
 
-<h2>Qui achète des voitures chinoises au Maroc ?</h2>
-<p>L'étude de profil des acheteurs révèle une clientèle plus jeune que la moyenne du marché (35-50 ans vs 42-55 ans), plus urbaine (80 % dans les 5 grandes villes) et plus connectée. Le bouche-à-oreille numérique — groupes WhatsApp de propriétaires, forums Facebook, vidéos YouTube — joue un rôle majeur dans les décisions d'achat.</p>
-<p>Les acheteurs ciblent principalement le rapport équipement/prix : pour le même budget, une voiture chinoise propose systématiquement plus d'équipements technologiques qu'une européenne ou une japonaise équivalente.</p>
+<h2>Un profil acheteur qui s'élargit</h2>
+<p>Si les premiers acheteurs étaient des profils technophiles et jeunes, le marché de l'occasion en plein essor amène aujourd'hui des profils plus variés. Les achats en province ont progressé de 40 % grâce à l'extension des réseaux de concessions. La clientèle PME/artisans représente désormais 22 % des achats de SUV chinois — un signal fort de maturité du marché.</p>
 
-<h2>Les perspectives 2024-2025</h2>
-<p>Plusieurs signaux indiquent que la progression va se poursuivre :</p>
+<h2>Les perspectives 2026-2027</h2>
+<p>La dynamique est structurellement favorable :</p>
 <ul>
-  <li>Arrivée de nouveaux modèles BYD (Dolphin, Seal) en 2024</li>
-  <li>Extension des réseaux de concessions MG et Chery hors des grandes villes</li>
-  <li>Premières offres de crédit-bail (LOA) sur les VE chinois</li>
-  <li>Possible réduction des droits de douane dans le cadre des discussions maroco-chinoises</li>
+  <li>Arrivée prévue de AITO, Deepal et Denza sur le marché marocain courant 2026</li>
+  <li>Premières offres de LOA (Location avec Option d'Achat) généralisées chez BYD et MG</li>
+  <li>Discussions avancées pour un accord commercial maroco-chinois réduisant les droits de douane à 10 %</li>
+  <li>Développement du marché de l'occasion avec les premières certifications "occasion officielle" constructeur</li>
 </ul>
-<p>Les analystes de l'AIVAM projettent une part de marché des marques chinoises entre <strong>11 et 14 %</strong> d'ici fin 2025. Si ces projections se confirment, le Maroc deviendra le premier marché africain par pénétration des marques automobiles chinoises — devant l'Égypte et l'Afrique du Sud.</p>
+<p>Les analystes projettent une part de marché des marques chinoises entre <strong>18 et 22 %</strong> d'ici fin 2027. Le marché marocain s'impose comme la tête de pont de l'offensive commerciale chinoise en Afrique du Nord.</p>
 `,
   },
 ];
