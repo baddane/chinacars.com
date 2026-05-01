@@ -48,18 +48,20 @@ export function generateMetadata({ params }: PageProps): Metadata {
 export default function ArticlePage({ params }: PageProps) {
   const article = findArticle(params.slug);
   if (!article) notFound();
+  // notFound() throws, but TypeScript doesn't always narrow the union — assert here
+  const a = article as NonNullable<typeof article>;
 
   return (
     <article className="bg-white pt-32 pb-24">
       <JsonLd
         data={newsArticleSchema({
-          title: article.title,
-          description: article.excerpt,
-          url: `/actualites/${article.slug}`,
-          image: article.image,
-          datePublished: article.publishedAt,
-          authorName: article.author,
-          section: article.category,
+          title: a.title,
+          description: a.excerpt,
+          url: `/actualites/${a.slug}`,
+          image: a.image,
+          datePublished: a.publishedAt,
+          authorName: a.author,
+          section: a.category,
         })}
         id="article"
       />
@@ -68,36 +70,36 @@ export default function ArticlePage({ params }: PageProps) {
         <Breadcrumb
           items={[
             { name: 'Actualités', url: '/actualites' },
-            { name: article.title, url: `/actualites/${article.slug}` },
+            { name: a.title, url: `/actualites/${a.slug}` },
           ]}
           className="mb-8"
         />
 
         <p className="text-sm font-semibold text-red-600 uppercase tracking-widest">
-          {article.category}
+          {a.category}
         </p>
         <h1 className="mt-4 text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl">
-          {article.title}
+          {a.title}
         </h1>
         <div className="mt-6 flex items-center gap-x-3 text-sm text-gray-500">
-          <time dateTime={article.publishedAt}>
-            {formatArticleDate(article.publishedAt)}
+          <time dateTime={a.publishedAt}>
+            {formatArticleDate(a.publishedAt)}
           </time>
           <span aria-hidden="true">·</span>
-          <span>{article.readingTime} min de lecture</span>
-          {article.author && (
+          <span>{a.readingTime} min de lecture</span>
+          {a.author && (
             <>
               <span aria-hidden="true">·</span>
-              <span>Par {article.author}</span>
+              <span>Par {a.author}</span>
             </>
           )}
         </div>
-        <p className="mt-6 text-xl leading-8 text-gray-700">{article.excerpt}</p>
+        <p className="mt-6 text-xl leading-8 text-gray-700">{a.excerpt}</p>
 
         <div className="relative mt-12 aspect-[16/9] overflow-hidden rounded-2xl">
           <Image
-            src={article.image}
-            alt={article.title}
+            src={a.image}
+            alt={a.title}
             fill
             sizes="(min-width: 768px) 768px, 100vw"
             className="object-cover"
@@ -105,20 +107,20 @@ export default function ArticlePage({ params }: PageProps) {
           />
         </div>
 
-        <div className="prose prose-gray mt-12 max-w-none">
-          <p>
-            Le contenu éditorial complet sera chargé depuis Sanity CMS. Cette
-            page de démonstration montre la structure SEO : balises meta
-            dynamiques, Schema.org <code>NewsArticle</code>, image principale
-            optimisée via <code>next/image</code>, fil d&apos;Ariane accessible
-            et temps de lecture.
-          </p>
-          <p>
-            Quand le CMS sera peuplé, remplacez l&apos;appel à{' '}
-            <code>articles</code> par <code>sanityFetch(articleBySlugQuery)</code> et
-            utilisez <code>@portabletext/react</code> pour rendre le corps.
-          </p>
-        </div>
+        {a.bodyHtml ? (
+          <div
+            className="prose prose-gray prose-headings:font-bold prose-h2:text-2xl prose-h3:text-xl prose-a:text-red-600 prose-a:no-underline hover:prose-a:underline prose-blockquote:border-l-red-600 prose-img:rounded-2xl mt-12 max-w-none"
+            // Content comes from our own controlled seed data, not user input
+            // eslint-disable-next-line react/no-danger
+            dangerouslySetInnerHTML={{ __html: a.bodyHtml }}
+          />
+        ) : (
+          <div className="prose prose-gray mt-12 max-w-none">
+            <p className="text-gray-500 italic">
+              Contenu en cours de rédaction — disponible prochainement.
+            </p>
+          </div>
+        )}
       </div>
     </article>
   );
