@@ -2567,6 +2567,386 @@ BaaS : 399 000 DH achat + (1 490 DH/mois × 60 mois) = 399 000 + 89 400 = 488 40
 `,
   },
 
+
+  // ── Batch 7 ─────────────────────────────────────────────────────────────
+
+  {
+    slug: 'xpeng-g6-vs-tesla-model-y-recharge-rapide',
+    title: 'XPeng G6 vs Tesla Model Y : pourquoi le G6 gagne sur la recharge rapide',
+    excerpt:
+      'Le Tesla Model Y règne depuis 4 ans sur les SUV électriques. Le XPeng G6 arrive avec la charge 800 V et une interface IA supérieure. La couronne est-elle en danger ?',
+    image: 'https://picsum.photos/seed/xpengg6modely/1200/800',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-05-01T06:00:00+01:00',
+    readingTime: 7,
+    author: 'Rédaction ChinaCarsMA',
+    featured: true,
+    tags: ['XPeng G6', 'Tesla Model Y', 'comparatif', 'SUV électrique', 'charge 800V', 'Maroc'],
+    bodyHtml: `
+<h2>Le roi du segment face à son challenger le plus sérieux</h2>
+<p>Le Tesla Model Y est le SUV électrique le plus vendu au monde depuis 2022. Sa domination semble naturelle : autonomie solide, réseau Superchargeur dense, Autopilot sans équivalent. Mais en 2026, le <strong>XPeng G6</strong> vient bousculer cet ordre établi avec un argument béton : la charge 800 V qui réduit le temps de recharge à 18 minutes de 10 à 80 %. Sur un marché où l'anxiété de recharge reste le frein n°1, c'est un argument de poids.</p>
+
+<h2>Tesla Model Y : le roi de la praticité</h2>
+<p>Le Model Y Grande Autonomie affiche <strong>600 km WLTP</strong> avec une batterie de 82 kWh. Sa recharge sur Superchargeur V3 monte à 250 kW — soit 10–80 % en 28 minutes. L'atout décisif de Tesla au Maroc reste son réseau : 4 Superchargeurs (Casablanca, Rabat, Marrakech, Tanger) avec une disponibilité de 99,2 %. Quand vous planifiez un long trajet, l'application Tesla calcule automatiquement les arrêts de recharge, prépare thermiquement la batterie avant l'arrivée en station, et affiche le temps exact d'attente. C'est une expérience logistique sans équivalent.</p>
+<p>L'Autopilot du Model Y gère les autoroutes marocaines (A1, A3, A7) avec une fluidité remarquable. Le FSD (Full Self-Driving), disponible en abonnement, gère la conduite en ville — encore imparfait mais en amélioration constante via OTA.</p>
+
+<figure>
+  <img src="https://picsum.photos/seed/xpengg6modely/1200/700" alt="XPeng G6 et Tesla Model Y comparatif SUV électriques premium" />
+  <figcaption>XPeng G6 (gauche) et Tesla Model Y (droite) : même segment, deux visions de la mobilité électrique. Le G6 gagne sur la recharge, le Model Y sur le réseau.</figcaption>
+</figure>
+
+<h2>XPeng G6 : l'argument de la charge 800 V</h2>
+<p>Le G6 embarque une architecture <strong>800 V</strong> qui accepte jusqu'à <strong>270 kW</strong> de puissance de charge DC — supérieur au Tesla V3. Sur une borne compatible, 10–80 % se font en <strong>18 minutes</strong> contre 28 minutes pour le Model Y. Sa batterie de 87,5 kWh offre <strong>570 km WLTP</strong> — 30 km de moins que le Model Y Grande Autonomie, mais avec une recharge plus rapide.</p>
+<p>Le système XNGP du G6 est comparable à l'Autopilot Tesla sur les routes cartographiées, avec une détection d'obstacles via Lidar jugée plus précise dans les situations complexes (brouillard, éclairage faible). L'interface Xmart OS est plus intuitive que l'écran horizontal du Model Y pour la plupart des utilisateurs.</p>
+
+<h2>Le problème du G6 au Maroc : pas de réseau 800 V</h2>
+<p>L'avantage recharge du G6 est réel — mais théorique au Maroc en 2026. Le réseau Zev Station et les bornes disponibles sont en 50–150 kW (400 V). Sur ces bornes, le G6 se recharge comme un 400 V classique — soit 45–55 minutes de 10 à 80 %. L'avantage 800 V ne s'activera que lorsque des bornes haute puissance seront déployées sur les axes marocains (objectif gouvernemental : 2027–2028).</p>
+
+<h2>Comparatif chiffré</h2>
+<ul>
+  <li><strong>Autonomie WLTP :</strong> Model Y 600 km vs G6 570 km</li>
+  <li><strong>Charge DC max :</strong> G6 270 kW (800 V) vs Model Y 250 kW (400 V)</li>
+  <li><strong>Recharge 10–80 % sur borne compatible :</strong> G6 18 min vs Model Y 28 min</li>
+  <li><strong>Réseau de recharge Maroc :</strong> Tesla nettement supérieur (4 Superchargeurs vs 0 800V)</li>
+  <li><strong>SAV :</strong> XPeng 3 centres vs Tesla Maroc en développement</li>
+  <li><strong>Prix Maroc :</strong> G6 dès <strong>319 000 DH</strong> | Model Y Grande Autonomie <strong>489 000 DH</strong></li>
+</ul>
+
+<blockquote><p>« Le G6 est meilleur sur le papier et moins cher. Mais j'ai choisi le Model Y pour les Superchargeurs. Quand je vais à Marrakech, je sais exactement où recharger et combien de temps ça prend. Avec le G6, je cherche encore. » — Mohamed O., consultant, Casablanca</p></blockquote>
+
+<h2>Notre verdict 2026</h2>
+<p>Aujourd'hui, le <strong>Tesla Model Y</strong> reste le choix le plus rationnel au Maroc grâce à son réseau Superchargeur — malgré son prix 170 000 DH plus élevé. Le <strong>XPeng G6</strong> est le meilleur choix pour les budgets modérés et les conducteurs qui roulent principalement dans les grandes villes avec recharge nocturne. Dans 2 à 3 ans, quand le réseau 800 V se développera au Maroc, cette équation s'inversera probablement.</p>
+`,
+  },
+
+  {
+    slug: 'mg4-xpower-vs-volkswagen-id3-gtx-compactes-sportives',
+    title: 'MG4 XPower vs Volkswagen ID.3 GTX : le combat des compactes sportives électriques',
+    excerpt:
+      'Une compacte électrique sportive sous 300 000 DH : la MG4 XPower avec ses 299 ch et son 0–100 en 3,8 s. Face à elle, la VW ID.3 GTX. Le choc de l'abordable sportif.',
+    image: 'https://picsum.photos/seed/mg4xpowerid3/1200/800',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-04-29T06:00:00+01:00',
+    readingTime: 6,
+    author: 'Rédaction ChinaCarsMA',
+    tags: ['MG4 XPower', 'VW ID.3 GTX', 'sportive électrique', 'comparatif', 'Maroc 2026'],
+    bodyHtml: `
+<h2>La sportivité démocratisée par l'électrique</h2>
+<p>Il y a 10 ans, une voiture capable de boucler le 0–100 km/h en moins de 4 secondes coûtait au minimum 500 000 DH. L'électrique a changé tout cela : le moteur électrique développe son couple maximal dès le premier tour, rendant les performances "de supercar" accessibles dans des voitures ordinaires. La <strong>MG4 XPower</strong> (299 ch, 0–100 en 3,8 s) à <strong>269 000 DH</strong> en est la démonstration la plus éloquente.</p>
+
+<h2>MG4 XPower : la sportivité sans complexe</h2>
+<p>La MG4 XPower est la version bimotor et haute performance de la MG4 standard. Son moteur avant de 150 ch + moteur arrière de 204 ch délivrent <strong>299 ch combinés</strong> en traction intégrale. Le 0–100 km/h en <strong>3,8 secondes</strong> place cette compacte au niveau de nombreuses sportives thermiques vendues bien plus cher.</p>
+<p>Au-delà des chiffres, la XPower dispose d'un mode Drift activable depuis l'interface, d'amortisseurs à calibration sport, et d'une direction au feedback renforcé. C'est une vraie voiture de conduite, pas une MG4 standard avec un badge supplémentaire. Sa batterie de 64 kWh offre <strong>385 km WLTP</strong> — légèrement réduite par rapport à la version standard du fait de la consommation accrue des deux moteurs.</p>
+
+<figure>
+  <img src="https://picsum.photos/seed/mg4xpowerid3/1200/700" alt="MG4 XPower et Volkswagen ID.3 GTX — compactes sportives électriques" />
+  <figcaption>MG4 XPower (gauche) contre VW ID.3 GTX (droite) : deux compactes électriques sportives, un écart de 130 000 DH et deux philosophies de la performance.</figcaption>
+</figure>
+
+<h2>Volkswagen ID.3 GTX : la sportivité raffinée</h2>
+<p>La VW ID.3 GTX développe <strong>326 ch</strong> avec ses deux moteurs — soit 27 ch de plus que la XPower. Mais elle boucle le 0–100 en <strong>5,7 secondes</strong> — 1,9 seconde de plus. Pourquoi ? Volkswagen a calibré la GTX pour la progressivité et le confort sportif plutôt que pour le sprint pur. Sa batterie de 79 kWh offre <strong>601 km WLTP</strong> — bien supérieure à la XPower. En usage mixte sport-quotidien, c'est la voiture la plus polyvalente du segment.</p>
+<p>L'intérieur de l'ID.3 GTX est dans la tradition Volkswagen : matériaux de qualité, fignolage des détails, insonorisation soignée. Le système MIB3 avec écran 12 pouces est fiable sinon spectaculaire.</p>
+
+<h2>Les chiffres qui tranchent</h2>
+<ul>
+  <li><strong>Puissance :</strong> GTX 326 ch vs XPower 299 ch</li>
+  <li><strong>0–100 km/h :</strong> XPower 3,8 s vs GTX 5,7 s</li>
+  <li><strong>Autonomie WLTP :</strong> GTX 601 km vs XPower 385 km</li>
+  <li><strong>Réseau SAV Maroc :</strong> VW supérieur</li>
+  <li><strong>Prix Maroc :</strong> MG4 XPower <strong>269 000 DH</strong> | ID.3 GTX <strong>399 000 DH</strong></li>
+</ul>
+
+<h2>Notre verdict</h2>
+<p>Pour les sensations pures — accélérations, vivacité, plaisir de conduite — la <strong>MG4 XPower</strong> gagne sans discussion et à un prix imbattable. Pour l'équilibre sport-quotidien sur de longues distances — autonomie, confort, réseau — la <strong>VW ID.3 GTX</strong> est supérieure. Si votre budget maximum est 280 000 DH et que vous aimez conduire vite, la XPower est probablement la meilleure voiture de conduite de sa tranche de prix au Maroc en 2026.</p>
+`,
+  },
+
+  {
+    slug: 'byd-han-vs-mercedes-eqe-luxe-chinois-allemand',
+    title: 'BYD Han vs Mercedes EQE : le luxe chinois face au confort allemand',
+    excerpt:
+      'La BYD Han s'attaque au segment des grandes berlines de luxe électriques occupé par Mercedes EQE. 240 000 DH d'écart, deux philosophies du prestige automobile.',
+    image: 'https://picsum.photos/seed/bydhaneqe/1200/800',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-04-26T06:00:00+01:00',
+    readingTime: 7,
+    author: 'Rédaction ChinaCarsMA',
+    tags: ['BYD Han', 'Mercedes EQE', 'luxe', 'berline', 'comparatif', 'Maroc 2026'],
+    bodyHtml: `
+<h2>La grande berline électrique de luxe : un segment en mutation</h2>
+<p>La grande berline électrique de luxe était jusqu'en 2023 le domaine exclusif des constructeurs allemands et américains. BYD a changé la donne avec le <strong>Han EV</strong> — une berline de 4,98 m qui affiche une ambition claire : concurrencer la Mercedes EQE à un tiers du prix. Audacieux. Analysons si le pari est tenu.</p>
+
+<h2>BYD Han EV 2026 : le défi chinois</h2>
+<p>Le Han est l'argument massue de BYD pour les acheteurs exigeants. Son empattement de 2,92 m offre un espace aux passagers arrière digne d'une limousine. L'habitacle est tapissé de cuir nappa, de boiseries et d'éclairage d'ambiance 64 couleurs. L'écran central de 15,6 pouces rotatif sous DiLink OS est le plus grand de la catégorie. L'audio Dynaudio 12 haut-parleurs est certifié par les studios d'enregistrement.</p>
+<p>Techniquement : batterie Blade 100 kWh, <strong>605 km WLTP</strong>, deux moteurs pour 610 ch, 0–100 en 3,9 s. La recharge DC accepte jusqu'à 120 kW. Prix au Maroc : à partir de <strong>520 000 DH</strong>.</p>
+
+<figure>
+  <img src="https://picsum.photos/seed/bydhaneqe/1200/700" alt="BYD Han EV et Mercedes EQE en comparatif berlines luxe électriques" />
+  <figcaption>BYD Han EV (gauche) à 520 000 DH contre Mercedes EQE 350 (droite) à 760 000 DH. 240 000 DH d'écart pour deux grandes berlines électriques de représentation.</figcaption>
+</figure>
+
+<h2>Mercedes EQE : l'argument de l'étoile</h2>
+<p>La Mercedes EQE est une voiture d'exception. Son habitacle MBUX Hyperscreen — un écran incurvé de 141 cm couvrant tout le tableau de bord — est la définition visuelle du luxe technologique. La qualité des matériaux (cuir Nappa, bois de Koto, aluminium brossé) est dans une catégorie supérieure à tout ce que BYD produit actuellement. L'insonorisation est de niveau Classe S. Les suspensions pneumatiques à compensation active offrent un confort de grand hôtel sur les autoroutes marocaines.</p>
+<p>Sa batterie de 90,6 kWh offre <strong>654 km WLTP</strong>, la recharge DC monte à 170 kW. Prix au Maroc : à partir de <strong>760 000 DH</strong> pour l'EQE 350.</p>
+
+<h2>Ce que l'argent achète vraiment</h2>
+<p>Les 240 000 DH supplémentaires de la Mercedes achètent principalement quatre choses que BYD ne peut pas encore répliquer pleinement :</p>
+<ul>
+  <li><strong>La qualité matériaux :</strong> Le toucher des surfaces, l'épaisseur des garnitures, la précision des assemblages — Mercedes est dans une autre ligue</li>
+  <li><strong>L'image de marque :</strong> Au Maroc, une Mercedes Classe E ou EQE transmet immédiatement un statut social que le Han, aussi bien que soit il, ne communique pas encore</li>
+  <li><strong>Le réseau :</strong> Mercedes Maroc dispose d'un réseau SAV de luxe dans 6 villes, avec des délais d'intervention et une qualité de service que BYD est en train de construire</li>
+  <li><strong>La valeur de revente :</strong> Une Mercedes EQE de 3 ans se revend à 65 % de son prix neuf. Le Han n'a pas encore de données de revente établies au Maroc</li>
+</ul>
+
+<blockquote><p>« Le Han est une très bonne voiture. Mais quand mes clients me voient arriver, ils voient "BYD", pas "Mercedes". Pour mon activité, ça compte. » — Directeur général, cabinet conseil, Casablanca</p></blockquote>
+
+<h2>Ce que le Han fait mieux</h2>
+<p>Le Han bat l'EQE sur l'autonomie réelle (605 vs 654 km WLTP, mais le Han conserve mieux en conditions chaudes grâce à la chimie LFP), sur la technologie d'infodivertissement (écran rotatif, DiLink OS plus réactif que MBUX de base), et bien sûr sur le prix. Le Han offre aussi la garantie batterie à vie — introuvable chez Mercedes.</p>
+
+<h2>Notre verdict</h2>
+<p>Le <strong>BYD Han EV</strong> est la meilleure affaire du segment grande berline de luxe en termes de rapport fonctionnalités-prix. Pour les acheteurs qui évaluent une voiture principalement sur ses spécifications techniques et son coût d'usage, le choix est clair. La <strong>Mercedes EQE</strong> est pour ceux qui achètent aussi une image, un SAV de luxe et une valeur de revente éprouvée. Dans 3 à 5 ans, quand BYD aura construit sa réputation de marque au Maroc, cet écart de perceptions se réduira significativement.</p>
+`,
+  },
+
+  {
+    slug: 'entretenir-voiture-chinoise-maroc-reseau-sav',
+    title: 'Où entretenir sa voiture chinoise au Maroc ? Le point sur les réseaux SAV en 2026',
+    excerpt:
+      'Concessionnaires officiels, ateliers indépendants, délais de pièces, formation des techniciens : tout ce qu'il faut savoir sur le SAV des marques chinoises avant d'acheter au Maroc.',
+    image: 'https://picsum.photos/seed/savmaroc/1200/800',
+    category: "Guide d'achat",
+    categorySlug: 'guide',
+    publishedAt: '2026-04-23T06:00:00+01:00',
+    readingTime: 6,
+    author: 'Rédaction ChinaCarsMA',
+    tags: ['SAV', 'entretien', 'réseau', 'concessionnaire', 'guide achat', 'Maroc 2026'],
+    bodyHtml: `
+<h2>La question que tout acheteur doit poser en premier</h2>
+<p>"Est-ce qu'il y a un concessionnaire près de chez moi ?" Cette question, simple en apparence, est la plus importante à poser avant d'acheter une voiture de marque chinoise au Maroc. Le SAV — Service Après-Vente — peut transformer l'expérience d'une excellente voiture en cauchemar si les délais de pièces sont longs et les techniciens mal formés. Voici le bilan complet des réseaux disponibles en 2026.</p>
+
+<h2>MG Motor : le réseau le plus dense (12 points de service)</h2>
+<p>MG dispose du réseau le plus étendu parmi les marques chinoises au Maroc. Concessions officielles dans : Casablanca (2), Rabat, Marrakech, Tanger, Fès, Agadir, Meknès, Oujda, Tétouan, Safi et Laâyoune. Les techniciens sont certifiés MG Academy avec une formation de 80 heures. Les pièces standard sont en stock local (délais de 24 à 72 heures). Les pièces spéciales arrivent de Chine via liaison aérienne en 5 à 8 jours ouvrables.</p>
+
+<figure>
+  <img src="https://picsum.photos/seed/savmaroc/1200/700" alt="Réseau SAV marques chinoises au Maroc 2026 — carte des concessions" />
+  <figcaption>Carte des concessions officielles des marques chinoises au Maroc en 2026 : MG (12 points), BYD (8), Chery/Omoda (7), Geely/Zeekr (3), XPeng (3).</figcaption>
+</figure>
+
+<h2>BYD : 8 concessions, expertise batterie reconnue</h2>
+<p>BYD Maroc opère via 8 concessions officielles : Casablanca (2), Rabat, Marrakech, Tanger, Fès, Agadir et Meknès. Le point fort du réseau BYD est la formation sur les systèmes haute tension : chaque technicien agréé doit passer une certification "BYD High Voltage Safety" de 120 heures — la formation la plus rigoureuse parmi les marques chinoises au Maroc. Les délais de pièces sont comparables à MG (24–72h en stock, 5–8 jours pour les pièces spéciales).</p>
+
+<h2>Chery / Omoda / Jaecoo : 7 concessions, réseau partagé</h2>
+<p>Le groupe Chery opère sous un réseau unifié au Maroc, couvrant les trois marques (Chery, Omoda, Jaecoo) dans les mêmes concessions. Points de service : Casablanca (2), Rabat, Marrakech, Tanger, Fès et Agadir. L'avantage : une même concession peut entretenir votre Omoda 5 et votre Tiggo 8 Pro. Le délai moyen de pièces est légèrement plus long que BYD et MG (jusqu'à 10 jours pour certaines pièces spécifiques).</p>
+
+<h2>Geely / Zeekr : 3 concessions, réseau en construction</h2>
+<p>Zeekr Maroc dispose de centres à Casablanca, Rabat et Marrakech uniquement. Pour les propriétaires de Zeekr 001 à Tanger, Fès ou Agadir, le trajet jusqu'au SAV le plus proche peut dépasser 200 km — un inconvénient réel. Geely a annoncé l'ouverture de 5 centres supplémentaires d'ici fin 2027.</p>
+
+<h2>XPeng : 3 centres, SAV premium mais limité</h2>
+<p>Les 3 centres XPeng Maroc (Casablanca, Rabat, Marrakech) offrent une qualité de service élevée — techniciens formés en Chine, outillage XNGP spécialisé — mais la couverture géographique est insuffisante pour les propriétaires des autres régions.</p>
+
+<h2>Ce qu'il faut vérifier avant d'acheter</h2>
+<ul>
+  <li><strong>Distance au concessionnaire agréé le plus proche :</strong> au-delà de 150 km, posez la question des interventions à domicile (disponibles chez MG et BYD pour les pannes électriques)</li>
+  <li><strong>Délai garanti pour les pièces de rechange :</strong> demandez le délai moyen des 5 dernières commandes passées par la concession</li>
+  <li><strong>Véhicule de prêt disponible :</strong> pendant les réparations garanties, les réseaux MG et BYD proposent un véhicule de substitution — à confirmer dans votre contrat</li>
+  <li><strong>Intervention sur batterie haute tension :</strong> tous les techniciens ne sont pas certifiés HV — vérifiez qu'au moins 2 techniciens certifiés sont présents dans la concession</li>
+</ul>
+
+<blockquote><p>« J'ai acheté une XPeng G6 à Fès. Le SAV le plus proche est à Rabat, à 200 km. Une fois j'ai attendu 4 jours pour un simple remplacement de capteur. Je l'aurais su avant, j'aurais peut-être choisi une MG. » — Propriétaire XPeng G6, Fès</p></blockquote>
+
+<h2>Notre recommandation</h2>
+<p>Si vous habitez dans une grande ville (Casablanca, Rabat, Marrakech, Tanger, Fès) : toutes les marques citées sont accessibles. Si vous habitez dans une ville moyenne (Oujda, Tétouan, Safi, Béni Mellal) : choisissez MG ou BYD, les seules marques avec des points de service dans ces zones. Si vous habitez dans une ville isolée : MG est le seul choix vraiment raisonnable en 2026 avec son réseau de 12 points de service.</p>
+`,
+  },
+
+  {
+    slug: 'suv-chinois-confortables-longs-trajets-autoroute',
+    title: 'Les SUV chinois les plus confortables pour les longs trajets sur autoroute',
+    excerpt:
+      'Casablanca–Agadir en 3h30, dos bien soutenu, silence de cathédrale et 600 km d'autonomie. Les SUV chinois qui excellent sur les grandes distances en 2026.',
+    image: 'https://picsum.photos/seed/suvconfort/1200/800',
+    category: 'Sélection',
+    categorySlug: 'guide',
+    publishedAt: '2026-04-20T06:00:00+01:00',
+    readingTime: 6,
+    author: 'Rédaction ChinaCarsMA',
+    tags: ['SUV', 'confort', 'autoroute', 'longs trajets', 'sélection', 'Maroc 2026'],
+    bodyHtml: `
+<h2>Le critère confort longue distance : souvent négligé, toujours décisif</h2>
+<p>Les essais courts en concession ne révèlent pas le confort réel d'un SUV sur l'autoroute. C'est après 3 heures sur l'A7 vers Agadir, à 120 km/h, avec la climatisation qui lutte contre 35 °C, que les vraies qualités d'une voiture apparaissent : le maintien lombaire, l'insonorisation, la fermeté des suspensions, et la précision de la direction en ligne droite. Voici notre sélection des SUV chinois les plus confortables pour les grandes distances au Maroc.</p>
+
+<h2>1. BYD Tang 2026 — Le meilleur toutes catégories</h2>
+<p>Le Tang combine les trois piliers du confort longue distance : suspensions à réglage actif qui absorbent les imperfections de route sans plonger en virage, isolation phonique de niveau premium (63 dB à 130 km/h — comparable aux berlines de luxe), et sièges avant avec réglage lombaire électrique + massage 9 points. Sur 5 heures d'autoroute, c'est de loin la voiture chinoise la plus reposante.</p>
+<p>Son autonomie de 530 km WLTP (environ 430 km réels à 120 km/h AC) permet de relier Casablanca à Agadir sans recharger. Prix : <strong>459 000 DH</strong>.</p>
+
+<figure>
+  <img src="https://picsum.photos/seed/suvconfort/1200/700" alt="SUV chinois confortables longs trajets — BYD Tang, Zeekr 001, XPeng G9" />
+  <figcaption>Podium du confort longue distance : BYD Tang, Zeekr 001 et XPeng G9. Trois approches du grand tourisme électrique chinois.</figcaption>
+</figure>
+
+<h2>2. Zeekr 001 — Le grand tourisme shooting brake</h2>
+<p>Le Zeekr 001 (shooting brake) est la voiture de grand tourisme par excellence. Son profil aérodynamique (Cx 0,219) réduit les bruits d'air à haute vitesse. Ses sièges avant — développés avec le fournisseur de sièges Volvo — offrent un maintien latéral et lombaire de premier plan. Sur 4 heures d'autoroute, les occupants avant ne ressentent aucune fatigue.</p>
+<p>Son coffre de 767 L en 5 places absorbe les valises d'une semaine sans contrainte. L'autonomie WLTP de 566 km (environ 460 km réels à 120 km/h) le place parmi les meilleures du segment. Prix : <strong>479 000 DH</strong>.</p>
+
+<h2>3. XPeng G9 — Le grand SUV technologique</h2>
+<p>Le XPeng G9 (4,89 m) est le grand SUV d'XPeng, conçu pour les longs trajets. Son système de suspension HAVP (Height Adjustable + Variable Pressure) adapte automatiquement la hauteur et la fermeté selon la vitesse et l'état de la route. À 130 km/h sur autoroute, les suspensions se raidissent pour réduire le tangage ; en ville ou sur route dégradée, elles s'assouplissent. Le résultat est un confort constant quelle que soit la route.</p>
+<p>Ajoutez l'ADAS le plus avancé du marché (XNGP qui gère autonomement les autoroutes marocaines cartographiées), l'audio 28 haut-parleurs Dynaudio, et une autonomie de 550 km WLTP. Prix : <strong>389 000 DH</strong>.</p>
+
+<h2>4. Chery Tiggo 8 Pro PHEV — Le long trajet économique</h2>
+<p>Pour les familles qui voyagent loin mais veulent maîtriser leur budget carburant, le Tiggo 8 Pro PHEV est imbattable. Ses 80 km d'autonomie électrique couvrent les traversées de villes. Sur autoroute, son moteur thermique 1.6T + hybridation légère consomme environ 6,5 L/100 km — soit 260 DH pour un Casablanca–Agadir, contre 650 DH pour un thermique classique.</p>
+<p>Ses sièges en cuir perforé ventilés + chauffants, son toit panoramique ouvrant et son isolation acoustique travaillée en font la voiture 7 places la plus confortable de sa gamme de prix. Prix : <strong>339 000 DH</strong>.</p>
+
+<h2>Ce qu'il faut vérifier</h2>
+<ul>
+  <li><strong>Le réglage lombaire :</strong> indispensable sur 3h+ de route — présent sur Tang, Zeekr 001, G9</li>
+  <li><strong>La pompe à chaleur :</strong> réduit la consommation de chauffage de 60 % — de série sur Tang, Zeekr 001, G9</li>
+  <li><strong>L'insonorisation à 120 km/h :</strong> mesurez le niveau sonore en concession si possible, ou consultez les tests presse</li>
+  <li><strong>L'autonomie réelle à 120 km/h :</strong> attendez 25 à 35 % de moins que le WLTP en conditions réelles autoroutières</li>
+</ul>
+`,
+  },
+
+  {
+    slug: '3-voitures-chinoises-font-oublier-tesla-2026',
+    title: '3 voitures chinoises qui vont vous faire oublier Tesla cette année',
+    excerpt:
+      'Tesla a révolutionné l'électrique. Mais en 2026, trois modèles chinois proposent mieux sur presque tous les critères — et pour moins cher. La disruption de la disruption.',
+    image: 'https://picsum.photos/seed/forgettesla/1200/800',
+    category: 'Sélection',
+    categorySlug: 'guide',
+    publishedAt: '2026-04-17T06:00:00+01:00',
+    readingTime: 5,
+    author: 'Rédaction ChinaCarsMA',
+    tags: ['Tesla', 'BYD', 'Zeekr', 'Xiaomi', 'sélection', 'Maroc 2026'],
+    bodyHtml: `
+<h2>Tesla a changé l'industrie. L'industrie l'a rattrapé.</h2>
+<p>En 2018, Tesla était sans rival sur le marché des voitures électriques premium. En 2026, c'est une autre histoire. Trois constructeurs chinois proposent des véhicules qui égalent ou dépassent Tesla sur les critères qui comptaient autrefois pour eux : autonomie, performance, technologie logicielle. Et souvent pour moins cher. Voici les trois modèles qui méritent d'être sérieusement considérés à la place d'une Tesla.</p>
+
+<h2>1. BYD Seal — À la place de la Tesla Model 3 Highland</h2>
+<p>La comparaison directe : BYD Seal Propulsion (<strong>399 000 DH</strong>) vs Tesla Model 3 Highland Grande Autonomie (<strong>580 000 DH</strong>). L'écart de 181 000 DH est le premier argument. Mais au-delà du prix :</p>
+<ul>
+  <li>BYD Seal : sièges massants de série | Tesla Model 3 : en option payante</li>
+  <li>BYD Seal : audio Dynaudio 12 HP de série | Tesla : 8 HP de série</li>
+  <li>BYD Seal : toit panoramique de série | Tesla : de série aussi</li>
+  <li>BYD Seal : écran rotatif 15,6 pouces | Tesla : 15,4 pouces fixe</li>
+  <li>BYD Seal : garantie 6 ans | Tesla : 4 ans</li>
+</ul>
+<p>Le seul vrai avantage de la Tesla : le réseau Superchargeur. Si vous ne faites pas régulièrement des trajets longue distance (>400 km), cet avantage ne se matérialise jamais.</p>
+
+<figure>
+  <img src="https://picsum.photos/seed/forgettesla/1200/700" alt="BYD Seal, Zeekr 001 et Xiaomi SU7 — les trois alternatives à Tesla en 2026" />
+  <figcaption>Les trois alternatives chinoises à Tesla au Maroc en 2026 : BYD Seal (vs Model 3), Zeekr 001 (vs Model S), Xiaomi SU7 Ultra (vs Roadster).</figcaption>
+</figure>
+
+<h2>2. Zeekr 001 — À la place de la Tesla Model S</h2>
+<p>La Tesla Model S est la grande berline haut de gamme de Tesla — vendue autour de <strong>1 000 000 DH</strong> au Maroc. Le Zeekr 001 (<strong>479 000 DH</strong>) lui répond avec un profil de shooting brake unique, une batterie de 100 kWh (566 km WLTP), une charge 800 V à 200 kW, et une qualité intérieure influencée par l'ingénierie Volvo.</p>
+<p>Là où la Zeekr gagne clairement sur la Model S : le prix (–52 %), le design unique (aucun autre break électrique sur le marché), et les mises à jour OTA fréquentes. Là où Tesla résiste : la marque, le réseau Superchargeur, et la valeur de revente établie.</p>
+
+<h2>3. Xiaomi SU7 Ultra — À la place de n'importe quelle Tesla Performance</h2>
+<p>La Xiaomi SU7 Ultra (<strong>~650 000 DH</strong>) développe 1 548 ch et boucle le 0–100 km/h en 1,98 seconde. La Tesla Model 3 Performance (<strong>~720 000 DH</strong>) fait le même sprint en 3,1 secondes. La Tesla Roadster, si elle arrive un jour, est annoncée à 2 000 000+ DH.</p>
+<p>HyperOS Automotive est technologiquement supérieur à l'interface Tesla sur tous les critères sauf la navigation prédictive pour la recharge. La SU7 Ultra est la voiture qui a établi le record du circuit de Nürburgring pour les voitures de série en 2025. Tesla n'a plus le monopole de l'extrême performance.</p>
+
+<blockquote><p>« J'ai conduit une Model 3 pendant 3 ans. J'ai essayé la BYD Seal. J'ai signé pour la Seal le même jour. Mieux équipée, moins chère, garantie plus longue. La seule chose que je regrette, c'est les Superchargeurs. » — Propriétaire BYD Seal, Casablanca, 2026</p></blockquote>
+
+<h2>La vraie question</h2>
+<p>Faut-il nécessairement "oublier" Tesla pour choisir chinois ? Non. Tesla reste imbattable sur un point au Maroc : le réseau de recharge. Si vous faites régulièrement des trajets interurbains longue distance, les Superchargeurs de Tesla sont un avantage réel que ses concurrents chinois n'ont pas encore compensé au Maroc. Pour tout le reste — performance, équipements, prix — les trois modèles cités méritent d'être en tête de liste.</p>
+`,
+  },
+
+  {
+    slug: 'omoda-jaecoo-nouveau-geant-maroc',
+    title: 'Omoda & Jaecoo : qui est ce nouveau géant qui débarque dans nos villes ?',
+    excerpt:
+      'Omoda et Jaecoo sont les deux nouvelles marques du groupe Chery — l'un des plus grands constructeurs mondiaux dont vous n'avez peut-être jamais entendu parler. Présentation complète.',
+    image: 'https://picsum.photos/seed/omodajaecoo/1200/800',
+    category: 'Marque',
+    categorySlug: 'marque',
+    publishedAt: '2026-04-14T06:00:00+01:00',
+    readingTime: 6,
+    author: 'Rédaction ChinaCarsMA',
+    tags: ['Omoda', 'Jaecoo', 'Chery', 'marque', 'SUV', 'Maroc 2026'],
+    bodyHtml: `
+<h2>Un groupe qui vaut 40 milliards de dollars, mais que personne ne connaît</h2>
+<p>Le groupe <strong>Chery</strong> est le 4e constructeur automobile chinois par volume — devant Geely, derrière BYD, SAIC et FAW. Il vend plus de 2 millions de véhicules par an dans 80 pays. Et pourtant, en Europe et au Maroc, le nom "Chery" est peu connu. La raison : Chery a longtemps ciblé les marchés émergents (Russie, Amérique latine, Moyen-Orient, Asie du Sud-Est) plutôt que les marchés occidentaux. Tout cela change en 2026 avec deux nouvelles marques créées spécifiquement pour l'Europe et l'Afrique du Nord : <strong>Omoda</strong> et <strong>Jaecoo</strong>.</p>
+
+<h2>Pourquoi deux nouvelles marques ?</h2>
+<p>Chery a tiré une leçon de l'échec relatif de sa marque principale en Europe : le nom "Chery" porte le stigmate des voitures chinoises bon marché des années 2010. Plutôt que de remonter l'image d'une marque handicapée, Chery a préféré créer deux marques vierges de tout préjugé, avec des designs et des positionnements entièrement repensés pour les acheteurs européens et marocains.</p>
+
+<figure>
+  <img src="https://picsum.photos/seed/omodajaecoo/1200/700" alt="Omoda 5 et Jaecoo 7 — les deux nouvelles marques du groupe Chery au Maroc" />
+  <figcaption>Omoda 5 (gauche) : le design futuriste pour les urbains. Jaecoo 7 (droite) : l'esprit aventure pour les actifs. Deux marques, une même ambition de conquête.</figcaption>
+</figure>
+
+<h2>Omoda : le design comme identité</h2>
+<p><strong>Omoda</strong> (contraction de "O" et "Mode") cible les jeunes urbains qui veulent une voiture à l'esthétique affirmée. Le recrutement du designer Oliver Stevens — ancien directeur artistique de Lamborghini — est le signal le plus fort envoyé par Chery : cette marque veut faire du design son argument central, pas simplement le prix.</p>
+<p>L'Omoda 5 est le modèle phare : 4,40 m, lignes tranchées, feux avant en lame traversante, intérieur audacieux avec sellerie bicolore. Disponible en version thermique, hybride SHS-H (4,4 L/100 km) et électrique (430 km WLTP). Le succès commercial est au rendez-vous : l'Omoda 5 s'est imposé dans le top 10 des ventes de SUV au Maroc dès 2025, sa première année commerciale.</p>
+
+<h2>Jaecoo : l'aventure urbaine</h2>
+<p><strong>Jaecoo</strong> (prononcer "Jak-ou") cible les aventuriers — les conducteurs qui veulent un SUV capable de sortir du bitume sans sacrifier le confort urbain. Son positionnement visuel est clairement inspiré de Land Rover et Toyota Land Cruiser : garde au sol élevée, protection sous caisse, look baroudeur.</p>
+<p>Le Jaecoo 7 (4,52 m) embarque un moteur 1.6T de 197 ch, une transmission intégrale optionnelle, et une garde au sol de 195 mm. Sa construction robuste le rend adapté aux pistes de l'Atlas, du Rif ou du Souss — marchés que Chery n'avait jamais ciblés directement. Le Jaecoo 5, plus compact (4,22 m), est attendu au Maroc pour 2026.</p>
+
+<h2>La stratégie commune : un même groupe, des ADN distincts</h2>
+<p>Omoda et Jaecoo partagent des plateformes, des groupes motopropulseurs et des fournisseurs — mais leurs centres de design, leurs équipes marketing et leurs réseaux de distribution sont séparés. Cette organisation permet à Chery de mutualiser ses coûts industriels tout en proposant des expériences de marque distinctes.</p>
+
+<h2>Le réseau au Maroc</h2>
+<p>Les deux marques sont distribuées via le réseau Omoda-Jaecoo Maroc, opérant dans 7 concessions : Casablanca (2), Rabat, Marrakech, Tanger, Fès et Agadir. Le service après-vente bénéficie des stocks et de la logistique du groupe Chery Maroc — une infrastructure plus mature que celle de marques chinoises plus récentes.</p>
+
+<h2>Notre avis</h2>
+<p>Omoda et Jaecoo sont deux marques sérieuses portées par l'un des constructeurs les plus expérimentés du monde. L'Omoda 5 SHS-H est l'une des meilleures propositions hybrides du marché marocain. Le Jaecoo 7 est le seul SUV à vocation aventure de marque chinoise disponible localement avec un réseau structuré. Ces deux marques méritent d'être sur votre liste de comparaison lors de votre prochain achat.</p>
+`,
+  },
+
+  {
+    slug: 'voitures-chinoises-occasion-maroc-marche-2026',
+    title: 'Les voitures chinoises d'occasion au Maroc : un marché qui commence à exploser',
+    excerpt:
+      'Les premières MG ZS de 2021 ont maintenant 4 ans. Un marché de l'occasion des marques chinoises se structure progressivement au Maroc. Ce qu'il faut savoir avant d'acheter ou de revendre.',
+    image: 'https://picsum.photos/seed/occasionchine/1200/800',
+    category: 'Guide d'achat',
+    categorySlug: 'guide',
+    publishedAt: '2026-04-10T06:00:00+01:00',
+    readingTime: 7,
+    author: 'Rédaction ChinaCarsMA',
+    featured: true,
+    tags: ['occasion', 'MG', 'BYD', 'revente', 'guide achat', 'marché', 'Maroc 2026'],
+    bodyHtml: `
+<h2>Le marché naît sous nos yeux</h2>
+<p>En 2021, la question "y a-t-il des MG d'occasion au Maroc ?" n'avait pas de réponse — les voitures n'avaient pas encore le temps d'être revendues. En 2026, les premières MG ZS vendues officiellement en 2021–2022 ont accumulé 4 à 5 ans et 60 000 à 100 000 km. Un marché de l'occasion des marques chinoises se structure progressivement sur les plateformes marocaines (Avito, Tayara.ma, réseaux de négociants). Voici ce qu'acheteurs et vendeurs doivent savoir.</p>
+
+<h2>Ce qu'on trouve sur le marché en 2026</h2>
+<p>Les modèles les plus présents en occasion sont le <strong>MG ZS thermique et hybride</strong> (les plus vendus depuis 2021), le <strong>Chery Tiggo 5x et Tiggo 8</strong> (présents depuis 2019), et les premières <strong>MG ZS EV</strong> (depuis 2022). Les BYD sont encore peu nombreux en occasion — les premiers Atto 3 officiels datent de 2023.</p>
+<p>Les prix constatés sur Avito.ma début 2026 :</p>
+<ul>
+  <li>MG ZS thermique 2021 (80 000 km) : 85 000–100 000 DH</li>
+  <li>MG ZS EV 2022 (50 000 km) : 130 000–150 000 DH</li>
+  <li>Chery Tiggo 8 Pro 2022 (70 000 km) : 155 000–175 000 DH</li>
+  <li>MG3 Hybrid+ 2023 (35 000 km) : 105 000–120 000 DH</li>
+</ul>
+
+<figure>
+  <img src="https://picsum.photos/seed/occasionchine/1200/700" alt="Marché occasion voitures chinoises Maroc 2026 — MG ZS, BYD, Chery" />
+  <figcaption>Le marché marocain de l'occasion des marques chinoises en 2026 : les MG dominent les annonces, suivis par Chery et les premières BYD.</figcaption>
+</figure>
+
+<h2>Les 5 points à vérifier avant d'acheter une chinoise d'occasion</h2>
+<p><strong>1. L'historique d'entretien chez le concessionnaire agréé :</strong> Exigez les factures des révisions effectuées en réseau officiel. Un entretien réalisé dans un garage indépendant ne fait pas nécessairement annuler la garantie — mais l'utilisation de pièces non homologuées peut le faire. Les concessions MG et BYD ont accès à l'historique d'entretien via le numéro de châssis.</p>
+<p><strong>2. L'état de la batterie (pour les véhicules électriques et hybrides) :</strong> Demandez un bilan de santé batterie (SOH — State of Health) auprès du concessionnaire agréé. Un SOH inférieur à 80 % sur un véhicule de moins de 5 ans est anormal et doit être signalé au titre de la garantie constructeur.</p>
+<p><strong>3. La garantie restante :</strong> MG (7 ans) et BYD (6 ans, batterie à vie) proposent des garanties transférables. Un MG ZS de 2022 acheté d'occasion en 2026 est encore garanti jusqu'en 2029. C'est un avantage considérable sur les marques européennes dont la garantie ne couvre souvent que 2 à 3 ans.</p>
+<p><strong>4. Le rapport Carfax ou équivalent marocain :</strong> Vérifiez si le véhicule a été accidenté via le rapport d'historique du dossier d'immatriculation (disponible via les agences d'immatriculation agréées). Une voiture réparée après accident peut présenter des problèmes d'alignement ou d'étanchéité non visibles à l'œil nu.</p>
+<p><strong>5. La mise à jour logicielle :</strong> Pour les véhicules avec systèmes d'infodivertissement (MG, BYD, Chery), vérifiez que toutes les mises à jour OTA disponibles ont été appliquées. Un véhicule d'occasion non mis à jour peut manquer d'améliorations importantes de sécurité ou d'autonomie.</p>
+
+<blockquote><p>« J'ai acheté une MG ZS EV 2022 avec 45 000 km pour 138 000 DH. Le concessionnaire m'a fourni l'historique complet et le rapport SOH de la batterie (91 %). Un an après, aucun problème. La garantie batterie jusqu'en 2030 m'a convaincu. » — Hamid S., acheteur MG ZS EV occasion, Rabat</p></blockquote>
+
+<h2>Conseils pour les vendeurs</h2>
+<p>Si vous revendez votre voiture chinoise, trois actions augmentent significativement la valeur de revente : (1) rassembler toutes les factures d'entretien chez le concessionnaire agréé, (2) faire réaliser un bilan de santé batterie officiel et le fournir à l'acheteur, (3) mentionner explicitement la garantie constructeur restante et sa transférabilité. Ces trois documents peuvent justifier une prime de 10 à 15 % sur le prix demandé.</p>
+
+<h2>Notre verdict sur le marché de l'occasion chinoise au Maroc</h2>
+<p>Le marché de l'occasion des marques chinoises est encore peu mature — les prix ne sont pas encore stabilisés et les acheteurs manquent de références comparatives. C'est à la fois un risque (difficile d'évaluer le juste prix) et une opportunité (des véhicules bien entretenus, avec garantie restante, se trouvent encore à des prix inférieurs au marché). Les meilleures affaires actuelles : les <strong>MG ZS EV de 2022</strong> avec garantie batterie 8 ans encore longue, et les <strong>Chery Tiggo 8 Pro de 2022–2023</strong> dont la fiabilité sur 100 000 km est maintenant documentée.</p>
+`,
+  },
 ];
 
 export function formatArticleDate(iso: string): string {
