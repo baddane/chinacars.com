@@ -25,3 +25,75 @@
     outline-offset: 2px;
   }
 }
+
+/* Article body — rich editorial content rendered from bodyHtml */
+@layer components {
+  .article-body {
+    @apply text-base leading-7 text-gray-700;
+
+    h2 {
+      @apply mt-12 mb-4 text-2xl font-bold tracking-tight text-gray-900;
+    }
+
+    h3 {
+      @apply mt-8 mb-3 text-xl font-bold text-gray-900;
+    }
+
+    p {
+      @apply mt-4;
+    }
+
+    a {
+      @apply text-red-600 underline underline-offset-2 hover:text-red-500;
+    }
+
+    strong {
+      @apply font-semibold text-gray-900;
+    }
+
+    blockquote {
+      @apply my-8 border-l-4 border-red-600 pl-6 italic text-gray-600;
+
+      p {
+        @apply mt-0;
+      }
+    }
+
+    ul {
+      @apply mt-4 list-disc pl-6 space-y-2;
+    }
+
+    ol {
+      @apply mt-4 list-decimal pl-6 space-y-2;
+    }
+
+    li {
+      @apply leading-7;
+    }
+
+    figure {
+      @apply my-10;
+    }
+
+    figure img {
+      @apply w-full rounded-2xl shadow-md object-cover;
+    }
+
+    figcaption {
+      @apply mt-3 text-center text-sm text-gray-500 italic;
+    }
+
+    /* Standalone img (outside figure) */
+    > img {
+      @apply my-8 w-full rounded-2xl shadow-md;
+    }
+
+    code {
+      @apply rounded bg-gray-100 px-1.5 py-0.5 text-sm font-mono text-gray-800;
+    }
+
+    hr {
+      @apply my-10 border-gray-200;
+    }
+  }
+}

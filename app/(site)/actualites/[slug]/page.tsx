@@ -109,13 +109,13 @@ export default function ArticlePage({ params }: PageProps) {
 
         {a.bodyHtml ? (
           <div
-            className="prose prose-gray prose-headings:font-bold prose-h2:text-2xl prose-h3:text-xl prose-a:text-red-600 prose-a:no-underline hover:prose-a:underline prose-blockquote:border-l-red-600 prose-img:rounded-2xl mt-12 max-w-none"
+            className="article-body mt-12"
             // Content comes from our own controlled seed data, not user input
             // eslint-disable-next-line react/no-danger
             dangerouslySetInnerHTML={{ __html: a.bodyHtml }}
           />
         ) : (
-          <div className="prose prose-gray mt-12 max-w-none">
+          <div className="mt-12">
             <p className="text-gray-500 italic">
               Contenu en cours de rédaction — disponible prochainement.
             </p>
