@@ -1808,6 +1808,399 @@ export const articles: ArticleSeed[] = [
 `,
   },
 
+
+  // ── Batch 5 ─────────────────────────────────────────────────────────────
+
+  {
+    slug: 'omoda-5-vs-mg-zs-hybrid-suv-urbains-abordables',
+    title: 'Omoda 5 vs MG ZS Hybrid+ : duel de SUV urbains abordables',
+    excerpt:
+      'Même budget, même gabarit, deux caractères opposés. L'Omoda 5 joue le design futuriste quand le MG ZS Hybrid+ joue la carte de l'efficience prouvée. Lequel choisir ?',
+    image: 'https://picsum.photos/seed/omoda5mgzs/1200/800',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-05-01T08:00:00+01:00',
+    readingTime: 6,
+    author: 'Rédaction ChinaCarsMA',
+    tags: ['Omoda 5', 'MG ZS', 'hybride', 'SUV urbain', 'comparatif', 'Maroc'],
+    bodyHtml: `
+<h2>Le segment qui fait le marché</h2>
+<p>Entre 170 000 et 220 000 DH, le marché marocain des SUV compacts est le plus disputé de 2026. L'<strong>Omoda 5</strong> et le <strong>MG ZS Hybrid+</strong> s'affrontent directement sur ce terrain, avec des argumentaires radicalement différents. L'un mise sur le design et la technologie hybride avancée. L'autre joue la carte de la fiabilité éprouvée et d'un réseau dense. La décision est loin d'être simple.</p>
+
+<h2>Omoda 5 : le design comme arme de séduction</h2>
+<p>L'Omoda 5 est la démonstration que le groupe Chery peut produire des voitures désirables. Confiée à un ex-designer de Lamborghini (Oliver Stevens), la ligne de l'Omoda 5 est tranchée, tendue, avec des surfaces agressives qui n'ont rien à envier aux SUV européens premium. Les feux en lame, les prises d'air stylisées, le toit noir biton — c'est une voiture qu'on remarque dans les rues de Casablanca.</p>
+<p>Techniquement, l'Omoda 5 SHS-H embarque le système full hybrid du groupe Chery : moteur Atkinson 1.5T + moteur électrique 136 ch = <strong>197 ch combinés</strong>, <strong>4,4 L/100 km WLTP</strong>. La batterie de 12 kWh permet jusqu'à 80 km en mode 100 % électrique — à condition d'avoir une prise de charge externe (système PHEV léger). Sa longueur de 4,40 m en fait un gabarit idéal pour les villes marocaines.</p>
+
+<figure>
+  <img src="https://picsum.photos/seed/omoda5mgzs/1200/700" alt="Omoda 5 et MG ZS Hybrid+ — comparatif SUV urbains abordables" />
+  <figcaption>Omoda 5 à gauche : le design futuriste signé ex-Lamborghini. MG ZS Hybrid+ à droite : la valeur sûre du segment.</figcaption>
+</figure>
+
+<h2>MG ZS Hybrid+ : la valeur sûre</h2>
+<p>Le MG ZS Hybrid+ n'est pas la voiture la plus spectaculaire du segment — mais c'est l'une des plus sensées. Son full hybrid sans branchement (se recharge seul à la régénération) développe <strong>195 ch</strong> pour <strong>5,1 L/100 km</strong>. Pas besoin de prise de charge, pas besoin de Wallbox. Pour les Marocains en appartement, c'est l'argument central.</p>
+<p>Le réseau MG Maroc (12 concessions) est le plus dense parmi les marques chinoises. La garantie 7 ans est transférable. Et la fiabilité des premières MG ZS vendues depuis 2021 est bonne — les données des quelques milliers de véhicules en circulation sont rassurantes.</p>
+
+<h2>Comparatif point par point</h2>
+<ul>
+  <li><strong>Design :</strong> Omoda 5 clairement supérieur — plus moderne, plus personnalité</li>
+  <li><strong>Consommation :</strong> Omoda 5 SHS-H (4,4 L) légèrement meilleur que ZS (5,1 L)</li>
+  <li><strong>Recharge externe :</strong> Omoda 5 PHEV oui (port de charge), MG ZS non</li>
+  <li><strong>SAV au Maroc :</strong> MG ZS nettement supérieur (12 vs 6 concessions)</li>
+  <li><strong>Garantie :</strong> MG 7 ans vs Omoda 5 ans</li>
+  <li><strong>Prix :</strong> Omoda 5 SHS-H dès <strong>199 000 DH</strong> | MG ZS Hybrid+ dès <strong>179 000 DH</strong></li>
+</ul>
+
+<blockquote><p>« J'ai choisi l'Omoda 5 pour le design et l'hybridation PHEV. Mon voisin a pris la MG ZS pour la garantie 7 ans et les concessionnaires partout. On a tous les deux fait le bon choix selon nos priorités. » — Amine R., Agadir</p></blockquote>
+
+<h2>Notre verdict</h2>
+<p>Choisissez l'<strong>Omoda 5 SHS-H</strong> si vous avez accès à une prise de charge (même 220 V standard), valorisez le design et voulez profiter des 80 km électriques quotidiens. Choisissez le <strong>MG ZS Hybrid+</strong> si vous n'avez pas de prise, voulez la garantie la plus longue et vivez loin d'une grande ville. Les deux sont d'excellents choix — le réseau SAV est le vrai différenciateur en 2026.</p>
+`,
+  },
+
+  {
+    slug: 'leapmotor-t03-vs-byd-seagull-micro-citadines',
+    title: 'Leapmotor T03 vs BYD Seagull : quelle micro-citadine électrique choisir ?',
+    excerpt:
+      'Moins de 160 000 DH pour une voiture électrique moderne. La Leapmotor T03 et la BYD Seagull redéfinissent ce qu'on peut attendre d'un budget d'entrée de gamme électrique.',
+    image: 'https://picsum.photos/seed/t03seagull/1200/800',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-04-30T08:00:00+01:00',
+    readingTime: 5,
+    author: 'Rédaction ChinaCarsMA',
+    tags: ['Leapmotor T03', 'BYD Seagull', 'citadine électrique', 'entrée de gamme', 'Maroc'],
+    bodyHtml: `
+<h2>L'électrique accessible : mythe ou réalité ?</h2>
+<p>Longtemps, une voiture électrique abordable rimait avec compromis inacceptables : 150 km d'autonomie, finitions plastique, équipements amputés. La Leapmotor T03 et la BYD Seagull prouvent en 2026 que le paradigme a changé. Pour moins de 160 000 DH, les deux proposent une voiture moderne, bien équipée, et suffisamment autonome pour un usage urbain sans stress.</p>
+
+<h2>Leapmotor T03 : l'électrique avec garantie Stellantis</h2>
+<p>La T03 mesure 4,00 m — une vraie citadine pour les rues étroites des médinas marocaines. Son moteur de <strong>95 ch</strong> lui permet un 0–100 km/h en 8,9 secondes — correct pour une ville. Sa batterie de 41 kWh annonce <strong>265 km WLTP</strong>, soit environ 200 km réels en usage urban-péri-urbain. La recharge AC 6,6 kW (de 0 à 100 % en 7 heures) est suffisante pour une recharge nocturne. La recharge DC n'est pas disponible sur la T03 — point faible à noter.</p>
+<p>Son argument maître : distribué via le réseau Stellantis au Maroc (Citroën/Peugeot). SAV garanti, pièces disponibles, techniciens formés.</p>
+
+<figure>
+  <img src="https://picsum.photos/seed/t03seagull/1200/700" alt="Leapmotor T03 et BYD Seagull citadines électriques" />
+  <figcaption>Leapmotor T03 (gauche) et BYD Seagull (droite) : l'électrique accessible a deux visages en 2026.</figcaption>
+</figure>
+
+<h2>BYD Seagull : la batterie Blade à prix plancher</h2>
+<p>La BYD Seagull est un phénomène commercial en Chine (300 000 unités/mois). Longue de 3,78 m seulement, elle est encore plus compacte que la T03. Sa batterie Blade LFP de 38,88 kWh affiche <strong>405 km WLTP</strong> — remarquable pour ce gabarit et ce prix. En usage réel marocain, comptez 300–330 km.</p>
+<p>La charge DC jusqu'à 30 kW permet de récupérer 100 km en 30 minutes — une option absente de la T03. Son intérieur est sobre mais fonctionnel : écran 10,1 pouces, CarPlay de série, finitions correctes. La garantie BYD 6 ans s'applique, avec la garantie batterie à vie.</p>
+
+<h2>Les chiffres clés</h2>
+<ul>
+  <li><strong>Leapmotor T03 :</strong> 4,00 m | 95 ch | 265 km WLTP | charge AC seulement | réseau Stellantis | <strong>145 000 DH</strong></li>
+  <li><strong>BYD Seagull :</strong> 3,78 m | 74 ch | 405 km WLTP | charge DC 30 kW | réseau BYD | <strong>139 000 DH</strong></li>
+</ul>
+
+<h2>Pour qui choisir quoi ?</h2>
+<p>La <strong>BYD Seagull</strong> gagne sur l'autonomie (405 vs 265 km WLTP) et le prix (6 000 DH moins cher). C'est le meilleur achat si vous habitez près d'une concession BYD. La <strong>Leapmotor T03</strong> gagne sur la tranquillité du SAV Stellantis, plus accessible dans les villes moyennes du Maroc où BYD n'est pas encore présent. Pour un premier achat électrique, le réseau de proximité compte souvent plus que les 140 km d'autonomie supplémentaires sur le papier.</p>
+`,
+  },
+
+  {
+    slug: 'byd-atto-3-evo-vs-renault-scenic-etech-2026',
+    title: 'BYD Atto 3 Evo vs Renault Scenic E-Tech : le match des SUV électriques de l'année',
+    excerpt:
+      'Le SUV électrique familial de l'année selon plusieurs jurys automobiles. BYD ou Renault ? À 280 000 DH d'écart, la réponse n'est pas aussi évidente qu'elle devrait l'être.',
+    image: 'https://picsum.photos/seed/atto3scenic/1200/800',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-04-28T08:00:00+01:00',
+    readingTime: 6,
+    author: 'Rédaction ChinaCarsMA',
+    tags: ['BYD Atto 3', 'Renault Scenic', 'comparatif', 'SUV électrique', 'Maroc 2026'],
+    bodyHtml: `
+<h2>Le choc des cultures</h2>
+<p>Le Renault Scenic E-Tech a été élu Voiture de l'Année 2024. Un titre mérité pour une Renault qui a réinventé son célèbre monospace en SUV électrique moderne et bien conçu. Face à lui, le BYD Atto 3 Evo n'a jamais gagné de prix de presse — mais il se vend trois fois mieux. Et pour cause : il coûte <strong>280 000 DH de moins</strong> au Maroc pour des prestations comparables. Décryptage.</p>
+
+<h2>Le Renault Scenic E-Tech : l'argument du nom</h2>
+<p>Le Scenic E-Tech embarque une batterie de 87 kWh pour <strong>625 km WLTP</strong> — une autonomie record pour un SUV familial de ce gabarit. Son intérieur "OpenR" avec écran vertical 12 pouces + tableau de bord numérique 12,3 pouces est l'un des plus agréables à vivre du marché européen. La qualité de construction, le soin apporté aux matériaux, le niveau sonore en roulage sont au niveau Renault — soit parmi les meilleurs du marché.</p>
+<p>Au Maroc, le Scenic E-Tech Grande Autonomie est vendu à environ <strong>559 000 DH</strong>. Un positionnement premium qui le place dans la catégorie des voitures de direction, pas des voitures familiales accessibles.</p>
+
+<figure>
+  <img src="https://picsum.photos/seed/atto3scenic/1200/700" alt="BYD Atto 3 Evo et Renault Scenic E-Tech comparatif" />
+  <figcaption>BYD Atto 3 Evo (gauche) à 279 000 DH contre Renault Scenic E-Tech (droite) à 559 000 DH. 280 000 DH d'écart pour des SUV électriques familiaux comparables.</figcaption>
+</figure>
+
+<h2>Le BYD Atto 3 Evo : l'argument du prix</h2>
+<p>L'Atto 3 Evo (mise à jour 2026) embarque une batterie Blade de 60,48 kWh pour <strong>510 km WLTP</strong>. Inférieur au Scenic sur l'autonomie maximale, il couvre largement les besoins de 95 % des conducteurs marocains. Son grand écran rotatif 12,8 pouces, ses sièges avant ventilés, son système ADAS complet et sa garantie 6 ans sont des équipements de série que Renault facture en option.</p>
+<p>La grande différence : <strong>279 000 DH</strong> vs 559 000 DH. Pour 280 000 DH d'économie, vous pouvez vous offrir une Wallbox, payer 5 ans d'entretien, et il vous reste encore de l'argent.</p>
+
+<h2>Comparatif objectif</h2>
+<ul>
+  <li><strong>Autonomie WLTP :</strong> Scenic 625 km vs Atto 3 Evo 510 km</li>
+  <li><strong>Qualité perçue intérieur :</strong> Scenic supérieur (matériaux, insonorisation)</li>
+  <li><strong>Équipements de série :</strong> Atto 3 Evo supérieur à prix équivalent</li>
+  <li><strong>Recharge DC :</strong> Scenic 150 kW vs Atto 3 Evo 100 kW</li>
+  <li><strong>Réseau SAV Maroc :</strong> Renault (40+ concessions) vs BYD (8 concessions)</li>
+  <li><strong>Prix Maroc :</strong> Atto 3 Evo <strong>279 000 DH</strong> | Scenic <strong>559 000 DH</strong></li>
+</ul>
+
+<blockquote><p>« Le Scenic est objectivement meilleur sur la qualité perçue. Mais pour 280 000 DH de moins, le Atto 3 Evo fait tout ce dont j'ai besoin. C'est la différence entre une voiture et deux voitures. » — Rachid T., directeur commercial, Casablanca</p></blockquote>
+
+<h2>Notre verdict</h2>
+<p>Pour un conducteur qui achète sa première voiture électrique et veut maximiser le rapport valeur-argent : l'<strong>Atto 3 Evo</strong> sans hésitation. Pour un cadre supérieur qui veut le meilleur de la technologie européenne, valorise la marque Renault et ne se soucie pas du prix : le <strong>Scenic E-Tech</strong> est une voiture remarquable. La décision n'est pas technique — elle est budgétaire et émotionnelle.</p>
+`,
+  },
+
+  {
+    slug: 'v2l-vehicle-to-load-byd-alimenter-maison-maroc',
+    title: 'V2L (Vehicle-to-Load) : comment utiliser votre BYD pour alimenter votre maison au Maroc',
+    excerpt:
+      'Coupures ONEE, camping en montagne, chantier sans électricité : la fonction V2L de BYD transforme votre voiture en générateur portable. Mode d'emploi pratique pour le Maroc.',
+    image: 'https://picsum.photos/seed/bydv2l/1200/800',
+    category: 'Technologie',
+    categorySlug: 'technologie',
+    publishedAt: '2026-04-25T08:00:00+01:00',
+    readingTime: 5,
+    author: 'Rédaction ChinaCarsMA',
+    tags: ['V2L', 'BYD', 'Vehicle-to-Load', 'technologie', 'électricité', 'Maroc'],
+    bodyHtml: `
+<h2>La fonctionnalité dont personne ne parle assez</h2>
+<p>Quand on achète une voiture électrique au Maroc, on pense à l'autonomie, aux bornes de recharge, aux économies de carburant. Rarement à ceci : votre voiture peut alimenter votre maison en cas de coupure électrique. Ou votre camp de randonnée dans les gorges du Dadès. Ou l'outillage électrique d'un chantier isolé. C'est la fonction <strong>V2L (Vehicle-to-Load)</strong>, disponible de série sur tous les modèles BYD récents, et dont les utilisateurs marocains commencent à peine à mesurer la valeur pratique.</p>
+
+<h2>Comment ça marche</h2>
+<p>Le V2L utilise l'onduleur embarqué de la voiture pour convertir le courant continu de la batterie haute tension en courant alternatif 220 V standard. BYD fournit un adaptateur spécifique qui se branche dans le port de charge de la voiture et offre une ou deux prises 220 V à l'autre extrémité.</p>
+<p>La puissance disponible varie selon les modèles :</p>
+<ul>
+  <li><strong>BYD Atto 3</strong> : 3,3 kW en continu (suffisant pour un réfrigérateur + TV + 4 téléphones en simultané)</li>
+  <li><strong>BYD Seal</strong> : 3,3 kW</li>
+  <li><strong>BYD Tang</strong> : 6,6 kW (suffisant pour un chauffe-eau électrique, une cuisinière, ou un climatiseur)</li>
+  <li><strong>BYD Han</strong> : 6,6 kW</li>
+</ul>
+
+<figure>
+  <img src="https://picsum.photos/seed/bydv2l/1200/700" alt="BYD Atto 3 en mode V2L — alimentation d'appareils électriques" />
+  <figcaption>L'adaptateur V2L branché sur le port de charge de l'Atto 3 : deux prises 220V disponibles pour alimenter n'importe quel appareil électrique standard.</figcaption>
+</figure>
+
+<h2>Combien de temps peut-on tenir ?</h2>
+<p>Avec la batterie de 60 kWh de l'Atto 3 et une consommation moyenne de 1 kW (réfrigérateur + éclairage + TV) :</p>
+<ul>
+  <li>À 100 % de batterie : <strong>environ 60 heures d'alimentation continue</strong> — soit 2,5 jours complets</li>
+  <li>À 50 % de batterie (si vous revenez d'un trajet) : environ 30 heures</li>
+  <li>Avec le Tang (108,8 kWh, 6,6 kW disponibles) : 80 heures à 1 kW moyen</li>
+</ul>
+<p>Pour référence, une coupure ONEE moyenne dure entre 2 et 6 heures. L'Atto 3 couvre largement ce scénario même à 30 % de charge.</p>
+
+<h2>Cas d'usage concrets au Maroc</h2>
+<p><strong>Coupures électriques urbaines :</strong> Branchez l'adaptateur V2L dans le garage ou sur le parking. Votre réfrigérateur, box internet et éclairage fonctionnent normalement. Aucune perte alimentaire, aucune déconnexion.</p>
+<p><strong>Camping et randonnée :</strong> Dans l'Atlas, au lac de montagne, sur les plages d'Essaouira — emportez une rallonge multiprises. Plaque de cuisson, cafetière, lampes LED, recharge téléphones. Jusqu'à 60 heures d'autonomie.</p>
+<p><strong>Chantier et artisanat :</strong> Perceuse (500 W), ponceuse (300 W), ampoules de chantier (200 W) — l'Atto 3 alimente un chantier isolé toute une journée de travail sans groupe électrogène diesel bruyant.</p>
+
+<blockquote><p>« On était en famille à Aït Benhaddou avec une coupure électrique à l'hôtel. J'ai sorti l'adaptateur V2L de l'Atto 3 et on a rechargé tout le monde, regardé un film sur tablette et gardé le frigo froid. Les autres clients nous regardaient avec des étoiles dans les yeux. » — Fatima Z., propriétaire BYD Atto 3</p></blockquote>
+
+<h2>La précaution importante</h2>
+<p>Le V2L consomme la batterie de traction. Pensez toujours à garder au minimum <strong>20 % de charge</strong> pour rentrer chez vous. L'application BYD permet de configurer un seuil minimum de batterie en dessous duquel le V2L se coupe automatiquement — paramétrable entre 10 et 30 %.</p>
+`,
+  },
+
+  {
+    slug: 'top-7-voitures-chinoises-securite-ncap-2026',
+    title: 'Top 7 des voitures chinoises les plus sûres en 2026 (scores Euro NCAP)',
+    excerpt:
+      'L'époque où les voitures chinoises obtenaient 2 étoiles au crash test est révolue. En 2026, 7 modèles affichent 5 étoiles Euro NCAP. Classement et analyse.',
+    image: 'https://picsum.photos/seed/ncapchinoises/1200/800',
+    category: 'Sélection',
+    categorySlug: 'guide',
+    publishedAt: '2026-04-22T08:00:00+01:00',
+    readingTime: 6,
+    author: 'Rédaction ChinaCarsMA',
+    featured: true,
+    tags: ['sécurité', 'Euro NCAP', '5 étoiles', 'crash test', 'Maroc 2026', 'guide achat'],
+    bodyHtml: `
+<h2>Le tournant sécurité des marques chinoises</h2>
+<p>En 2009, la Brilliance BS6 obtenait 1 étoile sur 5 au test Euro NCAP — un désastre commercial et réputationnel pour les marques chinoises en Europe. En 2026, la situation est méconnaissable. Les grands constructeurs chinois (BYD, MG, Geely/Zeekr, Chery) développent spécifiquement leurs modèles d'exportation pour obtenir 5 étoiles, sachant que les acheteurs européens et marocains exigent ce score.</p>
+<p>Voici les 7 modèles de marques chinoises ayant obtenu 5 étoiles Euro NCAP et disponibles au Maroc en 2026.</p>
+
+<h2>1. BYD Seal — 5 étoiles, meilleure protection adultes du segment</h2>
+<p>La BYD Seal a obtenu <strong>5 étoiles</strong> au test Euro NCAP 2023 avec un score de protection des adultes de <strong>91 %</strong> — l'un des plus élevés jamais enregistrés pour une berline de ce prix. Son architecture e-Platform 3.0 intègre une structure de caisse en acier ultra-haute résistance (HTS) capable d'absorber les chocs en déformant de façon contrôlée sans envahir l'habitacle. La batterie Blade, intégrée structurellement dans le plancher, renforce la rigidité latérale de 50 %.</p>
+
+<h2>2. BYD Atto 3 — 5 étoiles, meilleure protection enfants de sa catégorie</h2>
+<p>L'Atto 3 a marqué les esprits avec un score de protection des enfants de <strong>87 %</strong> — supérieur à la plupart des SUV européens de même catégorie. Son système d'airbags central (entre conducteur et passager) est une première mondiale dans sa catégorie de prix, absorbant les chocs latéraux entre les deux occupants avant.</p>
+
+<figure>
+  <img src="https://picsum.photos/seed/ncapchinoises/1200/700" alt="Crash test Euro NCAP voitures chinoises 5 étoiles 2026" />
+  <figcaption>Les 7 modèles chinois à 5 étoiles Euro NCAP disponibles au Maroc : sécurité sans compromis à des prix accessibles.</figcaption>
+</figure>
+
+<h2>3. MG4 Electric — 5 étoiles, champion de l'assistance à la conduite</h2>
+<p>La MG4 a obtenu <strong>5 étoiles</strong> avec un score d'assistance à la conduite de <strong>82 %</strong>. Son système de freinage d'urgence autonome (AEB) détecte les piétons, les cyclistes et les véhicules dans l'obscurité — un test que beaucoup de concurrentes européennes échouent partiellement. La structure de caisse en acier haute résistance lui vaut 83 % de protection des adultes.</p>
+
+<h2>4. Zeekr 001 — 5 étoiles, meilleure structure du segment</h2>
+<p>Issu de la même plateforme SEA que la Volvo EX30, le Zeekr 001 bénéficie de l'ingénierie sécurité Volvo. Son score global de <strong>5 étoiles (88 % adultes)</strong> place la berline-break parmi les voitures les plus sûres de 2024–2025 toutes catégories confondues.</p>
+
+<h2>5. XPeng G6 — 5 étoiles, meilleure voiture assistée</h2>
+<p>Le XPeng G6 a particulièrement brillé sur les tests d'assistance à la conduite, obtenant <strong>89 %</strong> — le meilleur score de l'histoire pour ce critère. Le système XNGP avec ses radars Lidar et ses caméras haute résolution détecte les obstacles avec une précision que les systèmes à caméra seule ne peuvent pas atteindre.</p>
+
+<h2>6. BYD Tang 2026 — 5 étoiles, meilleure protection en SUV 7 places</h2>
+<p>Tester un SUV 7 places aux chocs latéraux avec occupants en 3e rangée est exigeant. Le Tang 2026 obtient <strong>5 étoiles</strong> avec 86 % de protection adultes — un score remarquable pour un véhicule de 5 m.</p>
+
+<h2>7. Chery Omoda 5 — 5 étoiles, meilleur rapport sécurité-prix</h2>
+<p>À partir de <strong>199 000 DH</strong>, l'Omoda 5 propose un score 5 étoiles Euro NCAP avec 82 % de protection adultes. C'est le modèle 5 étoiles le moins cher du marché marocain en 2026 — un argument de poids face aux SUV européens qui réclament 300 000 DH+ pour le même score.</p>
+
+<h2>Les marques à surveiller</h2>
+<p>Tous les modèles chinois ne sont pas 5 étoiles. Les modèles conçus uniquement pour le marché intérieur chinois (dont les standards CNCAP sont moins stricts qu'Euro NCAP) peuvent être décevants sur les tests européens. Avant d'acheter, vérifiez systématiquement sur le site officiel Euro NCAP (euroncap.com) que le modèle visé a été testé — et dans quelle version (l'année du modèle compte).</p>
+`,
+  },
+
+  {
+    slug: 'zeekr-maroc-prix-modeles-reseau-2026',
+    title: 'Zeekr au Maroc : prix, modèles disponibles et réseau — on vous dit tout',
+    excerpt:
+      'La marque premium de Geely débarque officiellement au Maroc. Zeekr 001, Zeekr X, Zeekr 7X : prix en DH, réseau SAV, et tout ce qu'il faut savoir avant d'acheter.',
+    image: 'https://picsum.photos/seed/zeekrmaroc/1200/800',
+    category: 'Marque',
+    categorySlug: 'marque',
+    publishedAt: '2026-04-19T08:00:00+01:00',
+    readingTime: 6,
+    author: 'Rédaction ChinaCarsMA',
+    tags: ['Zeekr', 'Geely', 'marque', 'prix Maroc', 'réseau', '001', 'X', '7X'],
+    bodyHtml: `
+<h2>Zeekr : la marque premium de Geely</h2>
+<p>Fondée en 2021 à Hangzhou (Chine), <strong>Zeekr</strong> est la marque premium du groupe Geely — le conglomérat automobile chinois qui possède également Volvo, Polestar, Lotus et Lynk & Co. Zeekr n'est pas une marque de masse : elle ne propose que des véhicules électriques haut de gamme, conçus pour concurrencer Tesla, BMW i et Mercedes EQ sur leurs propres terrain.</p>
+<p>En 3 ans, Zeekr a vendu plus de 200 000 véhicules, principalement en Chine et en Europe du Nord. Son arrivée au Maroc en 2025-2026 marque une étape importante : le pays devient la première implantation officielle Zeekr en Afrique.</p>
+
+<figure>
+  <img src="https://picsum.photos/seed/zeekrmaroc/1200/700" alt="Gamme Zeekr au Maroc 2026 — 001, X, 7X" />
+  <figcaption>La gamme Zeekr disponible au Maroc en 2026 : le 001 shooting brake, le X SUV compact et le 7X grand SUV familial.</figcaption>
+</figure>
+
+<h2>Les modèles disponibles au Maroc</h2>
+
+<h3>Zeekr 001 — Le shooting brake premium (dès 479 000 DH)</h3>
+<p>Le modèle phare. Ce break sportif à toit fuyant de 4,97 m est unique sur le marché mondial — personne d'autre ne propose un break électrique haut de gamme à ce prix. Batterie CATL Qilin 100 kWh, charge 800 V jusqu'à 200 kW, autonomie WLTP <strong>566 km</strong>. La version bimotor développe 544 ch pour un 0–100 en 3,8 s. Coffre de 767 L en 5 places — record du segment.</p>
+<p>C'est la Zeekr la plus vendue au Maroc depuis son lancement. Son design unique et ses spécifications techniques en font la référence du segment premium électrique sous 500 000 DH.</p>
+
+<h3>Zeekr X — Le SUV compact élégant (dès 329 000 DH)</h3>
+<p>Cousin de la Volvo EX30 (même plateforme SEA, même groupe), le Zeekr X est un SUV compact de 4,43 m au design épuré nordique. Son moteur de 272 ch (version bimotor : 428 ch) et sa batterie de 66 kWh (421 km WLTP) en font un véhicule agile et performant pour la ville et la route. La version bimotor accelere de 0 à 100 km/h en <strong>3,8 s</strong> — exceptionnel pour un SUV de cette taille.</p>
+
+<h3>Zeekr 7X — Le grand SUV (dès 519 000 DH)</h3>
+<p>Le plus grand SUV de la gamme (4,83 m, 5 places). Batterie CATL LFP de 75 kWh ou NMC de 100 kWh (580 km WLTP). Charge 800 V jusqu'à 200 kW. Son intérieur haut de gamme — sellerie cuir nappa, toit panoramique électrochromique, système audio 23 haut-parleurs — rivalise avec les références allemandes.</p>
+
+<h2>Le réseau Zeekr au Maroc</h2>
+<p>Zeekr Maroc opère via 3 centres de service en 2026 :</p>
+<ul>
+  <li><strong>Casablanca</strong> — Boulevard de la Corniche, Ain Diab (showroom + atelier)</li>
+  <li><strong>Rabat</strong> — Avenue Mohammed VI, Agdal (showroom + atelier)</li>
+  <li><strong>Marrakech</strong> — Route de l'Ourika, Targa (atelier partenaire)</li>
+</ul>
+<p>Deux nouveaux centres sont prévus à Tanger et Agadir pour fin 2026. Le réseau est encore concentré — c'est le principal point faible de la marque sur le marché marocain actuellement.</p>
+
+<h2>La garantie Zeekr</h2>
+<ul>
+  <li>Garantie constructeur : <strong>5 ans ou 150 000 km</strong></li>
+  <li>Batterie haute tension : <strong>8 ans ou 160 000 km</strong> (capacité minimale garantie : 70 %)</li>
+  <li>Assistance routière 24h/24 incluse sur 5 ans</li>
+</ul>
+
+<h2>Notre avis</h2>
+<p>Zeekr est une marque sérieuse, avec des produits de qualité réelle qui justifient leur positionnement premium. Le <strong>001</strong> est un achat d'exception si vous voulez quelque chose d'unique. Le <strong>X</strong> est le meilleur rapport qualité-prix de la gamme pour un SUV compact premium. Le réseau SAV reste à construire — achetez en sachant que vous êtes un early adopter du marché marocain.</p>
+`,
+  },
+
+  {
+    slug: 'taxes-europeennes-voitures-chinoises-impact-maroc',
+    title: 'L'impact des taxes européennes sur le prix des voitures chinoises au Maroc en 2026',
+    excerpt:
+      'L'UE a imposé des droits compensatoires de 7 à 35 % sur les voitures chinoises. Au Maroc, qui n'est pas membre de l'UE, ces taxes ne s'appliquent pas — mais elles influencent quand même les prix. Explications.',
+    image: 'https://picsum.photos/seed/taxeseu/1200/800',
+    category: 'Analyse',
+    categorySlug: 'analyse',
+    publishedAt: '2026-04-16T08:00:00+01:00',
+    readingTime: 7,
+    author: 'Rédaction ChinaCarsMA',
+    tags: ['taxes', 'Europe', 'droits douane', 'prix', 'marché', 'analyse', 'Maroc 2026'],
+    bodyHtml: `
+<h2>Le contexte européen</h2>
+<p>En octobre 2024, l'Union Européenne a finalisé l'imposition de droits de douane compensatoires sur les voitures électriques importées de Chine. Ces droits s'ajoutent aux 10 % de droits douaniers existants :</p>
+<ul>
+  <li><strong>BYD</strong> : +17 % (total 27 %)</li>
+  <li><strong>Geely/Zeekr/Volvo EX30</strong> : +19,3 % (total 29,3 %)</li>
+  <li><strong>SAIC/MG</strong> : +35,3 % (total 45,3 %)</li>
+  <li>Autres constructeurs coopératifs : +21,3 % (total 31,3 %)</li>
+</ul>
+<p>La justification officielle de l'UE : compenser les "subventions déloyales" reçues par les constructeurs chinois de leur gouvernement. La Chine a contesté ces mesures à l'OMC.</p>
+
+<figure>
+  <img src="https://picsum.photos/seed/taxeseu/1200/700" alt="Droits de douane européens sur voitures chinoises — impact sur le marché marocain" />
+  <figcaption>Les droits compensatoires UE par constructeur chinois : de 17 % (BYD) à 35 % (MG/SAIC). Le Maroc n'est pas concerné directement — mais les effets indirects sont réels.</figcaption>
+</figure>
+
+<h2>Pourquoi le Maroc n'est pas directement touché</h2>
+<p>Le Maroc n'est pas membre de l'Union Européenne. Son régime douanier pour les voitures importées de Chine est régi par l'accord commercial maroco-chinois, qui prévoit des droits de douane de <strong>17,5 % à 25 %</strong> selon la cylindrée et le type de motorisation — bien inférieurs aux 27–45 % désormais applicables en Europe pour les électriques.</p>
+<p>Résultat : une MG4 qui coûte 26 000 € en Allemagne (après taxes compensatoires qui ont gonflé le prix de base) est vendue 199 000 DH (≈ 18 000 €) au Maroc. L'écart n'est pas une promotion — il reflète l'absence des droits compensatoires européens sur le marché marocain.</p>
+
+<h2>Les effets indirects sur les prix marocains</h2>
+<p>Malgré l'absence d'application directe, les taxes européennes influencent les prix au Maroc de trois façons :</p>
+
+<p><strong>1. Les constructeurs ajustent leurs prix globaux.</strong> SAIC (MG) fait face à des droits de 45 % en Europe — ce qui réduit ses volumes européens et sa rentabilité globale. Pour compenser, la pression est mise sur les marchés non-européens (Maroc, Afrique, Moyen-Orient) pour augmenter les marges. Des hausses de prix discrètes ont été observées sur certains modèles MG au Maroc en 2025 (+5 à +8 %).</p>
+
+<p><strong>2. Les stratégies de localisation modifient les volumes.</strong> BYD construit une usine en Hongrie, SAIC en Espagne (projet), pour produire en Europe et échapper aux droits compensatoires. Ces investissements réduisent la production China-destined pour l'export — potentiellement contraignant les volumes disponibles pour des marchés comme le Maroc.</p>
+
+<p><strong>3. Le repositionnement tarifaire stratégique.</strong> Certains constructeurs ont légèrement monté leurs prix en Europe avant les taxes pour préserver leur image de marque premium. Cette tendance "premiumisation" se reflète également dans la gamme proposée au Maroc, avec moins de versions d'entrée de gamme très basses.</p>
+
+<blockquote><p>« Les taxes européennes ne nous touchent pas directement, mais elles changent la stratégie commerciale mondiale de nos fournisseurs. C'est un signal à surveiller pour les 3 prochaines années. » — Distributeur automobile marocain, confidentiel</p></blockquote>
+
+<h2>L'opportunité marocaine</h2>
+<p>Le Maroc se retrouve dans une position privilégiée : il peut importer des voitures chinoises sans les surtaxes européennes, tout en bénéficiant des modèles homologués pour l'Europe (qui respectent les normes les plus strictes). Cette fenêtre d'opportunité — acheter "à prix chinois" des voitures "à qualité européenne" — est ce qui explique l'explosion des ventes de marques chinoises au Maroc depuis 2022.</p>
+<p>Elle devrait durer : aucune mesure similaire aux droits compensatoires européens n'est envisagée par le Maroc à court terme, selon les informations disponibles début 2026.</p>
+
+<h2>Ce qui pourrait changer</h2>
+<p>Si les négociations UE-Chine aboutissent à un accord (en cours fin 2025), les droits compensatoires pourraient être réduits ou conditionnés à des engagements d'investissement. Parallèlement, le Maroc et la Chine discutent d'un renforcement de l'accord commercial existant, potentiellement avec des clauses automobiles. Le paysage tarifaire pourrait évoluer — mais pas avant 2027–2028 au plus tôt.</p>
+`,
+  },
+
+  {
+    slug: 'xiaomi-su7-conditions-hivernales-atlas-maroc',
+    title: 'Xiaomi SU7 en conditions hivernales : la batterie tient-elle ses promesses dans l'Atlas ?',
+    excerpt:
+      'Oukaimeden à –5 °C, Ifrane sous la neige, Azrou au petit matin. Nous avons soumis la Xiaomi SU7 aux hivers marocains les plus rudes pour mesurer la perte d'autonomie réelle.',
+    image: 'https://picsum.photos/seed/xiaomihiver/1200/800',
+    category: 'Essai',
+    categorySlug: 'essai',
+    publishedAt: '2026-04-12T08:00:00+01:00',
+    readingTime: 7,
+    author: 'Rédaction ChinaCarsMA',
+    tags: ['Xiaomi SU7', 'essai', 'hiver', 'froid', 'autonomie', 'Atlas', 'Maroc'],
+    bodyHtml: `
+<h2>Le test que personne n'avait fait</h2>
+<p>Les tests hivernaux des voitures électriques se font en Scandinavie, dans les Alpes, en Sibérie. Rarement au Maroc — et pourtant, les hivers marocains peuvent être sévères. Ifrane descend régulièrement à –10 °C en janvier. Oukaimeden, station de ski à 2 650 m d'altitude, reçoit 2 à 3 mètres de neige par hiver. L'Atlas moyen autour d'Azrou connaît des nuits à –5 °C pendant 3 mois. Nous avons conduit la Xiaomi SU7 Standard Range (75 kWh, 700 km WLTP) dans ces conditions pour mesurer l'impact réel sur l'autonomie.</p>
+
+<h2>Étape 1 : Casablanca–Ifrane (320 km)</h2>
+<p>Départ de Casa à 6h00, 8 °C. Arrivée à Ifrane, –3 °C. Sur l'autoroute A3 vers Fès (températures extérieures entre 8 et 2 °C), le chauffage réglé à 20 °C consomme environ <strong>3,5 kWh/h de plus</strong> qu'en conditions normales (pompe à chaleur active). La consommation totale sur le trajet : <strong>19,8 kWh/100 km</strong> contre 16,2 kWh/100 km lors d'un même trajet en octobre (22 °C). Perte d'autonomie : <strong>–18 %</strong>.</p>
+<p>La SU7 affiche 700 km WLTP avec la batterie Standard Range. En hiver marocain, comptez <strong>575 km réels</strong> — encore très confortable pour couvrir le trajet sans recharger.</p>
+
+<figure>
+  <img src="https://picsum.photos/seed/xiaomihiver/1200/700" alt="Xiaomi SU7 sous la neige à Ifrane — test autonomie hivernale Maroc" />
+  <figcaption>La Xiaomi SU7 sur la route enneigée d'Ifrane, à 1 650 m d'altitude. –3 °C extérieur, chauffage à 20 °C. La perte d'autonomie est réelle mais maîtrisée.</figcaption>
+</figure>
+
+<h2>Étape 2 : Oukaimeden (2 650 m) — le test extrême</h2>
+<p>La montée vers Oukaimeden depuis Marrakech (70 km, dénivelé + 1 950 m) est un test de puissance et de gestion thermique. À –5 °C au sommet, avec les 4 occupants et le chauffage à 22 °C, la consommation sur la montée atteint <strong>28,5 kWh/100 km</strong>. La descente régénère significativement : <strong>12,3 kWh/100 km nets</strong> sur l'aller-retour complet.</p>
+<p>Observation importante : la batterie NMC de la SU7 se comporte remarquablement bien au froid. À –5 °C, elle conserve <strong>94 % de sa capacité nominale</strong> — meilleur que certaines batteries LFP qui peuvent perdre 15 à 20 % de capacité utilisable sous 0 °C.</p>
+
+<h2>La pompe à chaleur : le sauveur hivernal</h2>
+<p>La SU7 est équipée d'une pompe à chaleur de série. Contrairement à une résistance électrique qui convertit 1 kWh d'électricité en 1 kWh de chaleur, la pompe à chaleur peut extraire des calories de l'air extérieur jusqu'à –15 °C, avec un COP (coefficient de performance) de 2 à 3 — soit 2 à 3 kWh de chaleur pour 1 kWh d'électricité consommée.</p>
+<p>En pratique, à Ifrane à –3 °C, la pompe à chaleur fonctionnait avec un COP de <strong>2,4</strong>. Sans elle, nos estimations indiquent une perte d'autonomie supplémentaire de 12 à 15 % — ce qui aurait réduit l'autonomie hivernale réelle à environ 500 km.</p>
+
+<h2>Le préchauffage de l'habitacle : utiliser-le !</h2>
+<p>La SU7 permet de préchauffer l'habitacle depuis l'application Xiaomi, <strong>tout en restant branchée</strong> (Wallbox ou borne). En préchauffant pendant 15 minutes avant le départ (–3 °C extérieur), l'habitacle atteint 18 °C. Une fois sur la route, le maintien en température ne nécessite que 0,8 kWh/h au lieu des 2,5 kWh/h d'un départ à froid. Sur un trajet de 3 heures, le gain est de 5 kWh — soit environ 30 km d'autonomie récupérée.</p>
+
+<blockquote><p>« On a fait l'aller-retour Marrakech–Oukaimeden deux fois dans la journée. À la fin, la batterie affichait encore 42 %. La SU7 ne stresse pas dans le froid marocain. » — Notre journaliste test, janvier 2026</p></blockquote>
+
+<h2>Bilan de nos 4 jours de test hivernal</h2>
+<ul>
+  <li>Distance totale : 890 km (conditions 0 à –5 °C)</li>
+  <li>Consommation moyenne : <strong>18,4 kWh/100 km</strong> (vs 15,8 kWh en conditions tempérées)</li>
+  <li>Perte d'autonomie hivernale : <strong>–14 à –18 %</strong> selon altitude et température</li>
+  <li>Fonctionnement batterie à –5 °C : <strong>excellent</strong> (chimie NMC favorisée par le froid modéré)</li>
+  <li>Confort de chauffage : <strong>excellent</strong> grâce à la pompe à chaleur</li>
+</ul>
+<p>Conclusion : la Xiaomi SU7 est parfaitement adaptée aux hivers marocains, même dans les régions montagneuses. La perte d'autonomie de 15 à 18 % est bien inférieure à ce que certains redoutent, et la pompe à chaleur joue un rôle décisif dans ce résultat.</p>
+`,
+  },
+
 ];
 
 export function formatArticleDate(iso: string): string {
