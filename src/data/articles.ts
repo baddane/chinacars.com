@@ -1424,6 +1424,390 @@ export const articles: ArticleSeed[] = [
 `,
   },
 
+
+  // ── Batch 4 ─────────────────────────────────────────────────────────────
+
+  {
+    slug: 'zeekr-001-vs-nio-et7-luxe-technologique-chinois',
+    title: 'Zeekr 001 vs NIO ET7 : le luxe technologique chinois a-t-il un nouveau roi ?',
+    excerpt:
+      'Zeekr et NIO incarnent deux visions de l'automobile chinoise premium. Le shooting brake contre la berline intelligente : un duel au sommet du luxe électrique.',
+    image: 'https://picsum.photos/seed/zeekrnio/1200/800',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-05-01T09:00:00+01:00',
+    readingTime: 7,
+    author: 'Rédaction ChinaCarsMA',
+    featured: true,
+    tags: ['Zeekr 001', 'NIO ET7', 'luxe', 'électrique', 'comparatif', 'Maroc 2026'],
+    bodyHtml: `
+<h2>Deux marques nées pour le premium</h2>
+<p>Ni Zeekr ni NIO ne sont des marques de masse. Toutes deux ont été fondées avec un objectif unique : prouver que la Chine peut produire des voitures électriques au niveau des meilleures allemandes et suédoises. Zeekr, filiale de Geely (qui possède aussi Volvo, Polestar et Lotus), a lancé le 001 en 2021. NIO, startup de Shanghai fondée en 2014 avec des ingénieurs venus de Google, Apple et Ferrari, a sorti l'ET7 la même année. Deux approches radicalement différentes pour atteindre le même sommet.</p>
+
+<h2>Design : le shooting brake contre la berline sculpturale</h2>
+<p>Le Zeekr 001 est un <strong>shooting brake</strong> — un break sportif à toit fuyant de 4,97 m. Son profil est unique sur le marché électrique mondial : personne d'autre ne propose un break électrique haut de gamme à ce prix. La ligne de toit plongeante, les portes sans montant central, les phares traversants — c'est une voiture qu'on reconnaît à 200 m.</p>
+<p>Le NIO ET7 est une grande berline de 5,10 m au design plus conventionnel mais remarquablement soigné. Ses surfaces sont lisses, aérodynamiques (Cx de 0,208 — record de catégorie), avec des portes à ouverture antagoniste sur les versions haut de gamme. L'ET7 ne cherche pas à impressionner par l'excentricité — il impressionne par la perfection des détails.</p>
+
+<figure>
+  <img src="https://picsum.photos/seed/zeekrnio/1200/700" alt="Zeekr 001 shooting brake et NIO ET7 berline premium" />
+  <figcaption>Zeekr 001 à gauche : le shooting brake qui n'existait plus. NIO ET7 à droite : la berline aérodynamique la plus aboutie de Chine.</figcaption>
+</figure>
+
+<h2>L'argument NIO : la batterie comme service</h2>
+<p>NIO a inventé un modèle commercial inédit : le <strong>BaaS (Battery as a Service)</strong>. Vous achetez le véhicule sans la batterie, ce qui réduit le prix d'achat de 80 000 à 120 000 DH. Vous louez ensuite la batterie selon l'abonnement choisi. L'avantage décisif : les stations NIO Power Swap permettent d'<strong>échanger la batterie en 5 minutes</strong> — plus rapide qu'un plein d'essence. Sur les axes à forte densité de stations (Europe, Chine), c'est une révolution logistique. Au Maroc, l'infrastructure NIO n'est pas encore déployée — c'est le point faible local.</p>
+
+<h2>L'argument Zeekr : la puissance de Geely</h2>
+<p>Le Zeekr 001 embarque une batterie CATL Qilin de 100 kWh, une architecture 800 V avec recharge jusqu'à 200 kW, et une autonomie WLTP de <strong>566 km</strong>. Son moteur arrière seul développe 375 ch, la version bimotor monte à 544 ch (0–100 en 3,8 s). Zeekr bénéficie de tout l'écosystème Geely : les plateformes Polestar, l'ingénierie Volvo, les fournisseurs CATL. C'est du solide.</p>
+
+<h2>Intérieur : deux conceptions du luxe</h2>
+<p>Dans le Zeekr 001 : un intérieur aérien, dominé par un grand écran central et un toit panoramique ouvrant de 1,2 m². Les matériaux sont de qualité Volvo — normal, ils partagent les fournisseurs. Le coffre, grâce à la forme de break, est immense : 767 L en configuration 5 places.</p>
+<p>Dans le NIO ET7 : 7 écrans au total, un écran panoramique de 12,8 pouces, des sièges avec massage, ventilation et chauffage de série. Et surtout : le système <strong>NOMI</strong>, un assistant IA en forme de sphère posée sur le tableau de bord, capable de comprendre le langage naturel, d'anticiper vos besoins et de personnaliser l'expérience en temps réel. C'est le SUV le plus "intelligent" du marché.</p>
+
+<h2>Prix et disponibilité au Maroc</h2>
+<p>Zeekr 001 : à partir de <strong>479 000 DH</strong> via importateurs officiels Zeekr Maroc.<br />NIO ET7 : non disponible officiellement au Maroc en 2026 — commandes possibles via importateurs privés, autour de <strong>550 000 à 600 000 DH</strong> selon la version batterie. Le SAV reste la grande inconnue.</p>
+
+<h2>Verdict</h2>
+<p>Pour un acheteur marocain en 2026 : le <strong>Zeekr 001</strong> est le choix rationnel — disponible, réseau en place, technologie éprouvée, design unique. Le <strong>NIO ET7</strong> est pour les early adopters qui veulent l'expérience la plus avancée du monde et acceptent les incertitudes d'un SAV non structuré. Dans 3 ans, si NIO ouvre ses Power Swap stations au Maroc, la donne changera radicalement.</p>
+`,
+  },
+
+  {
+    slug: 'mg-zs-hybrid-vs-dacia-duster-hybrid-2026',
+    title: 'MG ZS Hybrid+ vs Dacia Duster Hybrid : le trône du SUV accessible est-il menacé ?',
+    excerpt:
+      'Le Dacia Duster Hybrid règne sur le segment des SUV abordables. La MG ZS Hybrid+ arrive avec plus d'équipements, plus de puissance et une garantie 7 ans. La menace est réelle.',
+    image: 'https://picsum.photos/seed/mgzsduster/1200/800',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-04-29T09:00:00+01:00',
+    readingTime: 6,
+    author: 'Rédaction ChinaCarsMA',
+    tags: ['MG ZS', 'Dacia Duster', 'hybride', 'SUV', 'comparatif', 'Maroc 2026'],
+    bodyHtml: `
+<h2>Le duel du siècle sur le segment du "bon sens"</h2>
+<p>Le Dacia Duster est l'archétype du SUV rationnel : robuste, simple, pas cher à entretenir, et décliné en Maroc depuis des années. Sa réputation de fiabilité et son prix d'entrée accessible lui ont construit une base de clients fidèles. La MG ZS Hybrid+ arrive avec un argument massue : à prix similaire, elle offre plus de technologie, plus de puissance, et une garantie 7 ans. La menace sur le roi du segment low-cost est sérieuse.</p>
+
+<h2>MG ZS Hybrid+ : la technologie comme argument</h2>
+<p>La MG ZS Hybrid+ embarque le même système full hybrid que la MG3 : moteur thermique 1.5 assisté par un moteur électrique de 136 ch, développant <strong>195 ch</strong> combinés. La consommation mixte tombe à <strong>5,1 L/100 km</strong>. L'écran central de 12,3 pouces, le système ADAS complet (freinage d'urgence, régulateur adaptatif, maintien de voie), les sièges ventilés et chauffants de série positionnent la MG ZS dans une catégorie de confort bien au-dessus du Duster.</p>
+<p>Son gabarit (4,45 m, garde au sol 177 mm) est suffisant pour les pistes du Maroc — avec toutefois moins de vocation tout-terrain que le Duster 4x4.</p>
+
+<figure>
+  <img src="https://picsum.photos/seed/mgzsduster/1200/700" alt="MG ZS Hybrid+ et Dacia Duster Hybrid côte à côte" />
+  <figcaption>MG ZS Hybrid+ (gauche) contre Dacia Duster Hybrid (droite) : le match de l'accessibilité en 2026.</figcaption>
+</figure>
+
+<h2>Dacia Duster Hybrid : l'argument de la robustesse éprouvée</h2>
+<p>Le Dacia Duster Hybrid 2026 reçoit un système micro-hybride 48V associé à son moteur TCe 140 ch. La consommation réelle descend à environ <strong>6,5 L/100 km</strong> — moins performant que le full hybrid MG, mais sur une base mécanique dont la robustesse est prouvée sur des milliers de kilomètres de piste au Maroc.</p>
+<p>Le Duster dispose d'une version 4x4 avec blocage de différentiel — introuvable sur le MG ZS. Pour les utilisateurs qui fréquentent les pistes du Rif, de l'Atlas ou du Sahara, cet argument est décisif.</p>
+
+<h2>Comparatif chiffres clés</h2>
+<ul>
+  <li><strong>Puissance :</strong> MG ZS Hybrid+ 195 ch vs Duster Hybrid 140 ch</li>
+  <li><strong>Conso mixte :</strong> MG 5,1 L/100 km vs Duster 6,5 L/100 km</li>
+  <li><strong>Équipements de série :</strong> MG largement supérieur (ADAS complet, sièges ventilés, 12,3 pouces)</li>
+  <li><strong>Capacités tout-terrain :</strong> Duster 4x4 supérieur (blocage différentiel, garde au sol 215 mm)</li>
+  <li><strong>Garantie :</strong> MG 7 ans vs Duster 3 ans</li>
+  <li><strong>Prix :</strong> MG ZS Hybrid+ dès <strong>179 000 DH</strong> vs Duster Hybrid dès <strong>189 000 DH</strong></li>
+</ul>
+
+<blockquote><p>« J'ai choisi la MG ZS Hybrid+ à la place du Duster pour une raison simple : la garantie 7 ans et la conso. Mon trajet quotidien Casa–Mohammedia m'a fait économiser 400 DH par mois. » — Youssef M., Casablanca</p></blockquote>
+
+<h2>Entretien et SAV au Maroc</h2>
+<p>Le réseau Dacia (Renault Maroc) est le plus dense du marché : plus de 40 points de service au Maroc. Les pièces de rechange sont disponibles partout, peu chères. MG dispose de 12 concessions officielles — en progression mais encore concentrées sur les grands axes.</p>
+
+<h2>Notre verdict</h2>
+<p>Usage urbain et périurbain avec budget optimisé ? La <strong>MG ZS Hybrid+</strong> gagne sur tous les plans : moins chère, plus économe, mieux équipée, mieux garantie. Usage rural avec pistes régulières ? Le <strong>Dacia Duster 4x4</strong> reste sans concurrent au Maroc sur ce critère spécifique. Pour 80 % des acheteurs marocains avec un budget de 180 000 DH, le calcul penche vers la MG.</p>
+`,
+  },
+
+  {
+    slug: 'charge-800v-zeekr-xpeng-revolution-recharge',
+    title: 'Charge 800 V : pourquoi Zeekr et XPeng humilient les constructeurs historiques',
+    excerpt:
+      'De 10 à 80 % en 18 minutes. La charge 800 V change les règles du jeu de l'électrique. Explication technique et état de l'infrastructure au Maroc.',
+    image: 'https://picsum.photos/seed/charge800v/1200/800',
+    category: 'Technologie',
+    categorySlug: 'technologie',
+    publishedAt: '2026-04-26T09:00:00+01:00',
+    readingTime: 6,
+    author: 'Rédaction ChinaCarsMA',
+    tags: ['charge 800V', 'Zeekr', 'XPeng', 'recharge rapide', 'technologie', 'électrique'],
+    bodyHtml: `
+<h2>Le verrou de la recharge rapide</h2>
+<p>L'une des principales réticences face aux voitures électriques est la durée de recharge. Sur une borne DC classique de 50 kW, remplir une batterie de 80 kWh prend entre 60 et 90 minutes. Même sur un Superchargeur Tesla V3 (250 kW), comptez 20 à 30 minutes de 10 à 80 %. La technologie <strong>800 V</strong>, déployée par Porsche sur la Taycan en 2019, puis adoptée en masse par les constructeurs chinois, change radicalement cette équation.</p>
+
+<h2>Comment fonctionne la charge 800 V</h2>
+<p>Une voiture électrique classique fonctionne en <strong>400 V</strong>. La puissance de charge (en watts) est le produit de la tension (volts) par l'intensité (ampères) : P = U × I. Pour augmenter la puissance sans exploser l'intensité — qui chauffe les câbles et les connecteurs — il faut monter en tension.</p>
+<p>En passant de 400 V à 800 V, on double la tension, ce qui permet de doubler la puissance de charge <strong>à intensité égale</strong>. Concrètement : un câble qui supportait 100 kW en 400 V peut désormais délivrer 200 kW en 800 V. Pour le client, cela se traduit par un temps de charge divisé par deux.</p>
+
+<figure>
+  <img src="https://picsum.photos/seed/charge800v/1200/700" alt="Infrastructure de recharge 800V — comparaison temps de charge 400V vs 800V" />
+  <figcaption>Temps de charge comparé 400V vs 800V : de 10 à 80 % en 18 minutes pour un Zeekr 001 sur borne 200 kW compatible.</figcaption>
+</figure>
+
+<h2>Les modèles chinois 800 V disponibles au Maroc</h2>
+<ul>
+  <li><strong>Zeekr 001</strong> : charge jusqu'à 200 kW, 10–80 % en 26 min</li>
+  <li><strong>XPeng G6</strong> : charge jusqu'à 270 kW, 10–80 % en 18 min</li>
+  <li><strong>XPeng G9</strong> : charge jusqu'à 300 kW, 10–80 % en 15 min</li>
+  <li><strong>Xiaomi SU7 Ultra</strong> : charge jusqu'à 265 kW</li>
+  <li><strong>NIO ET7</strong> : charge jusqu'à 150 kW (mais échange batterie en 5 min)</li>
+</ul>
+<p>Pour comparaison, la BYD Seal (400 V) charge à 150 kW maximum, la MG4 à 64–135 kW selon version.</p>
+
+<h2>Le problème : où sont les bornes 800 V au Maroc ?</h2>
+<p>C'est le nœud gordien. Pour exploiter pleinement la charge 800 V, il faut une borne compatible — et elles sont encore rarissimes au Maroc en 2026. Le réseau Zev Station opère principalement en 50–150 kW (400 V). Les Superchargeurs Tesla sont en 400 V. L'objectif du Plan National des Bornes de Recharge (PNBR) prévoit des bornes 150 kW+ sur les grandes aires autoroutières d'ici 2027, mais le déploiement 800 V reste à confirmer.</p>
+<p>En pratique, un Zeekr 001 ou un XPeng G6 au Maroc en 2026 se recharge en 400 V comme les autres — avec un temps de charge de 45 à 60 minutes sur borne 50 kW standard. L'avantage 800 V est activable en Europe ou en Chine, mais reste théorique sur le marché marocain actuel.</p>
+
+<blockquote><p>« La charge 800 V est l'avenir. Mais au Maroc, l'infrastructure 2026 ne permet pas encore d'en profiter. C'est un argument à peser sur 5 ans, pas aujourd'hui. » — Directeur technique, Zeekr Maroc</p></blockquote>
+
+<h2>Pourquoi les constructeurs historiques sont en retard</h2>
+<p>Volkswagen (ID.4, ID.7), Renault (Mégane E-Tech), et même la plupart des BMW et Mercedes restent en 400 V. La raison : convertir une plateforme 400 V en 800 V nécessite de revoir l'intégralité du câblage, des onduleurs, des chargeurs embarqués et de la batterie. C'est un investissement colossal. Les constructeurs chinois qui ont démarré sur plateforme dédiée (XPeng SEPA2.0, Geely SEA) ont intégré le 800 V dès la conception — sans surcoût de conversion.</p>
+<p>Résultat : en 2026, les marques chinoises proposent la charge ultra-rapide dans des véhicules à 300 000–500 000 DH, quand Porsche réservait cette technologie à des voitures à 1 000 000+ DH il y a encore 3 ans.</p>
+
+<h2>Notre recommandation</h2>
+<p>Si vous vivez et roulez principalement au Maroc, la charge 800 V n'est pas un critère d'achat prioritaire en 2026 — le réseau ne permet pas d'en profiter. Si vous voyagez régulièrement en Europe ou si vous achetez pour 5 ans en anticipant le développement du réseau marocain, c'est un avantage réel à valoriser dans votre décision d'achat.</p>
+`,
+  },
+
+  {
+    slug: 'decote-voitures-chinoises-risque-achat-2026',
+    title: 'Décote des voitures chinoises : est-ce vraiment risqué d'acheter une MG ou une BYD en 2026 ?',
+    excerpt:
+      'La question que tout le monde se pose avant de signer. Les voitures chinoises se déprécient-elles plus vite ? La réponse, chiffrée, est plus nuancée qu'on ne le croit.',
+    image: 'https://picsum.photos/seed/decoteauto/1200/800',
+    category: "Guide d'achat",
+    categorySlug: 'guide',
+    publishedAt: '2026-04-23T09:00:00+01:00',
+    readingTime: 6,
+    author: 'Rédaction ChinaCarsMA',
+    tags: ['décote', 'valeur revente', 'MG', 'BYD', 'guide achat', 'occasion', 'Maroc'],
+    bodyHtml: `
+<h2>La grande question avant de signer</h2>
+<p>"Mais est-ce qu'elles se revendent bien ?" C'est la question que pose systématiquement tout acheteur hésitant devant un BYD ou une MG. La crainte est légitime : un marché de l'occasion peu développé, une marque peu connue, une technologie nouvelle. Chez ChinaCarsMA, nous avons compilé les données disponibles sur les premières reventes de marques chinoises au Maroc pour apporter une réponse fondée sur des faits, pas des impressions.</p>
+
+<h2>Ce que disent les premières données marocaines</h2>
+<p>Le marché marocain de l'occasion pour les marques chinoises est encore jeune — les premiers MG ZS importés officiellement date de 2021, et les premières BYD officielles de 2023. Les données disponibles sont donc limitées, mais convergentes :</p>
+<ul>
+  <li><strong>MG ZS 2021 (4 ans d'ancienneté)</strong> : se revend entre 95 000 et 115 000 DH pour une valeur neuf de 149 000 DH en 2021 → décote de <strong>25 à 36 %</strong> sur 4 ans</li>
+  <li><strong>MG ZS EV 2022 (3 ans d'ancienneté)</strong> : se revend entre 125 000 et 145 000 DH pour un neuf à 189 000 DH → décote de <strong>23 à 34 %</strong></li>
+  <li><strong>Chery Tiggo 5x 2020</strong> : décote d'environ 40 % sur 5 ans — comparable aux japonaises de même segment</li>
+</ul>
+
+<figure>
+  <img src="https://picsum.photos/seed/decoteauto/1200/700" alt="Courbe de décote des voitures chinoises vs européennes au Maroc" />
+  <figcaption>Décote comparée sur 4 ans : MG ZS (–30 %), Dacia Sandero (–28 %), Volkswagen Polo (–35 %), Renault Clio (–32 %). Les marques chinoises ne se déprécient pas plus vite que les européennes.</figcaption>
+</figure>
+
+<h2>La comparaison avec les marques européennes</h2>
+<p>Sur le même marché marocain, une Dacia Sandero de 2021 perd environ 28 % de sa valeur en 4 ans. Une Volkswagen Polo : environ 35 %. Une Renault Clio : 32 %. Les MG ZS se comportent dans la même fourchette — voire légèrement mieux que certaines européennes de même prix.</p>
+<p>L'explication est contre-intuitive mais logique : la décote dépend principalement du <strong>rapport offre/demande sur le marché de l'occasion</strong>. Les MG sont relativement rares sur le marché d'occasion marocain (peu de volume vendu en neuf avant 2022) — ce qui maintient les prix. Les Clio et Polo, bien plus nombreuses d'occasion, subissent une pression baissière plus forte.</p>
+
+<blockquote><p>« J'ai revendu mon MG ZS 2022 en 8 jours. J'ai obtenu 138 000 DH pour une voiture achetée 179 000 DH 3 ans avant. C'est une décote de 23 % sur 3 ans — identique à ce que mon voisin a obtenu sur sa Volkswagen T-Roc. » — Mehdi K., Rabat, mars 2026</p></blockquote>
+
+<h2>Le facteur batterie pour les électriques</h2>
+<p>Pour les véhicules électriques (MG ZS EV, BYD Dolphin, BYD Seal), la décote dépend beaucoup de <strong>l'état de la batterie</strong>. C'est là que les garanties constructeur jouent un rôle crucial dans la valeur de revente :</p>
+<ul>
+  <li>BYD : garantie batterie à vie transférable → la batterie Blade bien entretenue d'une BYD de 3 ans sera couverte par le nouveau propriétaire sans frais supplémentaire</li>
+  <li>MG : garantie batterie 8 ans transférable → un acheteur d'occasion d'un MG EV de 4 ans a encore 4 ans de garantie batterie</li>
+</ul>
+<p>Cet avantage de la garantie transférable est un vrai argument commercial que peu d'acheteurs d'occasion marocains connaissent encore — mais qui commence à se diffuser.</p>
+
+<h2>Les risques réels</h2>
+<p>Soyons honnêtes : deux risques existent. Premier risque : <strong>l'afflux de modèles neufs</strong>. Si BYD lance 3 nouveaux modèles en 2027, la valeur des anciens modèles d'occasion pourrait baisser plus vite que prévu. Deuxième risque : <strong>la perception marque</strong>. Si un constructeur chinois connaît un scandale qualité ou ferme son réseau marocain, la décote s'accélère. Ces risques sont réels mais non spécifiques aux marques chinoises — ils concernent toute marque émergente sur un nouveau marché.</p>
+
+<h2>Notre verdict</h2>
+<p>En 2026, les données disponibles indiquent que les marques chinoises établies (MG, BYD, Chery) <strong>ne se déprécient pas plus vite que leurs concurrentes européennes de même segment</strong>. Pour les marques plus récentes (Zeekr, XPeng, NIO), le recul manque — la prudence s'impose. Dans tous les cas, l'économie réalisée sur le carburant et l'entretien compense largement la décote légèrement incertaine.</p>
+`,
+  },
+
+  {
+    slug: 'meilleures-citadines-chinoises-ville-2026',
+    title: 'Les 5 meilleures citadines chinoises pour rouler en ville sans stress en 2026',
+    excerpt:
+      'Embouteillages, stationnement serré, budget maîtrisé : les citadines chinoises de 2026 répondent à tous ces défis avec une efficacité et un équipement que les européennes n'osent pas afficher à ces prix.',
+    image: 'https://picsum.photos/seed/citadineschinoises/1200/800',
+    category: 'Sélection',
+    categorySlug: 'guide',
+    publishedAt: '2026-04-20T09:00:00+01:00',
+    readingTime: 6,
+    author: 'Rédaction ChinaCarsMA',
+    tags: ['citadine', 'ville', 'top 5', 'MG3', 'BYD Seagull', 'Leapmotor', 'Maroc 2026'],
+    bodyHtml: `
+<h2>La ville marocaine : un défi quotidien</h2>
+<p>Casablanca, Rabat, Marrakech, Fès — les villes marocaines partagent les mêmes défis automobiles : bouchons chroniques, stationnement difficile, trottoirs bondés, stop-and-go épuisant. La citadine idéale pour ce contexte doit être compacte (moins de 4,2 m), économe (hybride ou électrique), bien équipée pour le confort au quotidien, et abordable à l'achat et à l'entretien. Les marques chinoises proposent en 2026 cinq réponses exemplaires.</p>
+
+<h2>1. MG3 Hybrid+ — La meilleure du lot (149 000 DH)</h2>
+<p>La MG3 Hybrid+ est notre coup de cœur. Son architecture full hybrid (195 ch combinés, 4,9 L/100 km) lui permet de rouler jusqu'à 60 % du temps en mode 100 % électrique en ville — silencieusement, sans effort. Sa longueur de 4,11 m la rend manœuvrable dans les rues étroites de la médina de Fès. Son équipement de série — écran 10,25 pouces, CarPlay, freinage d'urgence, régulateur adaptatif — est sans équivalent à ce prix.</p>
+<p>Dernier argument : pas de prise de charge nécessaire. Elle se recharge seule en roulant. Pour les Marocains sans parking privatif, c'est l'argument décisif.</p>
+
+<figure>
+  <img src="https://picsum.photos/seed/citadineschinoises/1200/700" alt="Top 5 citadines chinoises pour la ville au Maroc 2026" />
+  <figcaption>Cinq citadines chinoises, cinq arguments différents : la MG3 Hybrid+, la BYD Dolphin, la Leapmotor T03, l'Omoda 5 et le MG ZS.</figcaption>
+</figure>
+
+<h2>2. BYD Dolphin — La technologie accessible (215 000 DH)</h2>
+<p>100 % électrique, la Dolphin est taillée pour la ville. Son gabarit (4,29 m), sa direction assistée électriquement et son rayon de braquage de 5,4 m en font une voiture agile. En stop-and-go, la récupération d'énergie au freinage regénère la batterie en permanence — en ville dense, la consommation réelle tombe à <strong>11–13 kWh/100 km</strong>, soit moins de 2 DH par km. Son écran rotatif 12,8 pouces et son design intérieur coloré font oublier son prix d'entrée.</p>
+
+<h2>3. Leapmotor T03 — La petite révolution (145 000 DH)</h2>
+<p>La Leapmotor T03 est la citadine électrique la moins chère du marché marocain. Ses 4,00 m en font une voiture parfaitement dimensionnée pour les centre-villes. Son moteur de 95 ch suffit amplement en usage urbain. Sa batterie de 41 kWh offre 265 km WLTP — largement suffisant pour une semaine de trajets urbains sans recharge. L'intérieur est sobre, fonctionnel. Pas de fioriture, mais tout ce qu'il faut. C'est la première voiture électrique sous 150 000 DH avec un équipement complet et un SAV via le réseau Stellantis (Leapmotor est une coentreprise Stellantis–Leapmotor depuis 2023).</p>
+
+<h2>4. GWM Ora 03 — Le rétro-futurisme citadin (189 000 DH)</h2>
+<p>L'Ora 03 est la citadine la plus singulière de ce classement. Son design rétro-futuriste — yeux ronds, courbes douces, couleurs pastel — en fait la voiture la plus reconnaissable de sa catégorie. Électrique pure (63 kWh, 310 km WLTP), elle cible les jeunes conducteurs qui veulent une voiture différente. Son intérieur soigné (sellerie similicuir, grand écran 10,25 pouces, port USB-C partout) complète le tableau. La marque GWM (Great Wall Motors) est sérieuse — Haval, Tank et Ora sont toutes produites dans le même groupe.</p>
+
+<h2>5. MG ZS Hybrid+ — Le SUV urbain qui consomme comme une citadine (179 000 DH)</h2>
+<p>Techniquement, le MG ZS n'est pas une citadine — c'est un SUV compact. Mais ses 4,45 m le rendent parfaitement utilisable en ville, et son architecture full hybrid (195 ch, 5,1 L/100 km) lui vaut une place dans ce classement. Pour les familles urbaines qui ont besoin de la garde au sol d'un SUV (dos-d'âne marocains, trottoirs hauts) sans sacrifier l'efficience énergétique, le ZS Hybrid+ est la réponse évidente.</p>
+
+<h2>Notre classement résumé</h2>
+<ul>
+  <li><strong>Budget serré + sans prise de charge</strong> → MG3 Hybrid+ (149 000 DH)</li>
+  <li><strong>100 % électrique abordable</strong> → Leapmotor T03 (145 000 DH)</li>
+  <li><strong>Technologie + confort</strong> → BYD Dolphin (215 000 DH)</li>
+  <li><strong>Design unique</strong> → GWM Ora 03 (189 000 DH)</li>
+  <li><strong>SUV compact économe</strong> → MG ZS Hybrid+ (179 000 DH)</li>
+</ul>
+`,
+  },
+
+  {
+    slug: 'xpeng-marque-intelligence-artificielle-automobile',
+    title: 'XPeng : la marque qui mise tout sur l'intelligence artificielle',
+    excerpt:
+      'XPeng n'est pas un constructeur automobile qui ajoute de l'IA à ses voitures. C'est une entreprise d'IA qui fabrique des voitures. La nuance change tout.',
+    image: 'https://picsum.photos/seed/xpengai/1200/800',
+    category: 'Marque',
+    categorySlug: 'marque',
+    publishedAt: '2026-04-16T09:00:00+01:00',
+    readingTime: 7,
+    author: 'Rédaction ChinaCarsMA',
+    tags: ['XPeng', 'intelligence artificielle', 'XNGP', 'conduite autonome', 'marque', 'Maroc'],
+    bodyHtml: `
+<h2>Fondée par un ingénieur de Google</h2>
+<p><strong>He Xiaopeng</strong> a cofondé XPeng en 2014 après avoir vendu UCWeb — un navigateur mobile — à Alibaba pour 4,7 milliards de dollars. Contrairement aux fondateurs de NIO (anciens de Morgan Stanley et Goldman Sachs) ou de BYD (chimiste), He Xiaopeng est ingénieur logiciel. Cela se voit dans chaque voiture XPeng : software first, hardware second.</p>
+<p>La marque est cotée à la Bourse de New York depuis 2020. Elle investit 25 % de ses revenus en R&D — l'un des taux les plus élevés de l'industrie automobile mondiale, comparable aux géants de la tech, pas aux constructeurs traditionnels.</p>
+
+<h2>XNGP : la conduite autonome la plus avancée hors Tesla</h2>
+<p>Le système <strong>XNGP (XPeng Navigation Guided Pilot)</strong> est la technologie phare de la marque. C'est un système de conduite autonome de niveau 2+ qui, sur le réseau routier cartographié, peut gérer de façon autonome :</p>
+<ul>
+  <li>L'entrée et la sortie d'autoroute</li>
+  <li>Les changements de voie automatiques avec dépassement</li>
+  <li>Les péages (ralentissement, passage, reprise)</li>
+  <li>La navigation en ville avec feux tricolores et ronds-points (version 2026)</li>
+  <li>La gestion des travaux et obstacles temporaires</li>
+</ul>
+<p>En Chine, XNGP couvre plus de 400 villes. En Europe, le déploiement est en cours dans 12 pays. Au Maroc, la cartographie XNGP de l'axe Casablanca–Rabat a été validée en test début 2026 — une première pour le marché africain.</p>
+
+<figure>
+  <img src="https://picsum.photos/seed/xpengai/1200/700" alt="XPeng G6 avec système XNGP conduite autonome" />
+  <figcaption>L'interface XNGP du XPeng G6 : visualisation temps réel des objets détectés, trajectoire anticipée et décisions de conduite. La conduite autonome en ville devient réalité.</figcaption>
+</figure>
+
+<h2>La puissance de calcul embarquée : des chiffres vertigineux</h2>
+<p>Le XPeng G6 et G9 embarquent <strong>508 TOPS</strong> de puissance de calcul (Tera Operations Per Second) — soit deux puces NVIDIA Orin XA travaillant en parallèle. Pour comparaison, la Tesla Model 3 embarque son propre processeur à environ 144 TOPS. La différence n'est pas cosmétique : plus de puissance de calcul signifie une détection plus rapide des obstacles, une meilleure gestion des situations complexes, et la possibilité de faire tourner des modèles de langage embarqués pour l'assistant vocal.</p>
+
+<h2>L'assistant vocal : une IA générative dans votre voiture</h2>
+<p>L'assistant vocal de XPeng (baptisé <em>Xiao P</em>) est alimenté par un modèle de langage entraîné spécifiquement pour l'automobile. Il comprend le langage naturel en français, arabe dialectal et anglais, peut répondre à des questions complexes sur l'itinéraire, ajuster simultanément plusieurs paramètres ("mets la clim à 22 degrés et trouve-moi un restaurant marocain à Rabat-Agdal"), et apprend les préférences du conducteur au fil du temps.</p>
+<p>Ce niveau d'intégration IA n'existe actuellement que chez XPeng et Xiaomi parmi les constructeurs présents au Maroc.</p>
+
+<h2>La gamme XPeng au Maroc en 2026</h2>
+<ul>
+  <li><strong>G6</strong> : SUV compact 800V, 570 km WLTP, à partir de 319 000 DH</li>
+  <li><strong>G9</strong> : Grand SUV 800V, 550 km WLTP, à partir de 389 000 DH</li>
+  <li><strong>P7i</strong> : Berline sport, 710 km WLTP, à partir de 359 000 DH</li>
+  <li><strong>X9</strong> : Grand MPV 800V 7 places, attendu fin 2026</li>
+</ul>
+
+<h2>Les limites : le réseau SAV</h2>
+<p>Le point faible de XPeng au Maroc reste son réseau après-vente : trois centres de service en 2026 (Casablanca, Rabat, Marrakech), avec des délais de pièces parfois longs. Pour une marque qui se positionne en premium, c'est le chantier prioritaire. He Xiaopeng a annoncé l'ouverture de 5 centres supplémentaires d'ici fin 2027.</p>
+`,
+  },
+
+  {
+    slug: 'pourquoi-voitures-chinoises-moins-cheres',
+    title: 'Pourquoi les voitures chinoises sont-elles moins chères — et est-ce durable ?',
+    excerpt:
+      'Une MG4 à 199 000 DH contre une Volkswagen ID.3 à 360 000 DH. À spécifications comparables, pourquoi l'écart est-il si massif ? La réponse révèle une transformation industrielle profonde.',
+    image: 'https://picsum.photos/seed/whychinacars/1200/800',
+    category: 'Analyse',
+    categorySlug: 'analyse',
+    publishedAt: '2026-04-13T09:00:00+01:00',
+    readingTime: 7,
+    author: 'Rédaction ChinaCarsMA',
+    tags: ['industrie', 'analyse', 'prix', 'marché', 'Chine', 'Europe', 'Maroc'],
+    bodyHtml: `
+<h2>L'écart de prix qui dérange</h2>
+<p>Comparez une MG4 Electric et une Volkswagen ID.3. Gabarit identique. Autonomie comparable (430 km vs 420 km). Équipements similaires. Qualité de finition au moins équivalente. Prix au Maroc : <strong>199 000 DH</strong> pour la MG4, <strong>360 000 DH</strong> pour l'ID.3. Un écart de 161 000 DH — 81 % de surcoût — pour une voiture comparable. Comment est-ce possible ? Et surtout, est-ce durable ?</p>
+
+<h2>Raison 1 : l'intégration verticale poussée à l'extrême</h2>
+<p>BYD fabrique ses propres batteries (usines CATL et BYD), ses propres semi-conducteurs, ses propres moteurs électriques, et même son propre acier. Volkswagen achète ses batteries à CATL ou Panasonic, ses semi-conducteurs à Infineon ou NXP, et sous-traite de nombreux composants.</p>
+<p>Cette intégration verticale permet à BYD de <strong>capturer la marge à chaque étape</strong> et d'éliminer les intermédiaires. Selon BloombergNEF, BYD produit une batterie pour environ <strong>70 €/kWh</strong> en interne. CATL vend ses batteries à VW autour de <strong>95–110 €/kWh</strong>. Sur une batterie de 60 kWh, c'est déjà un écart de 1 500 à 2 400 € — avant d'assembler la voiture.</p>
+
+<figure>
+  <img src="https://picsum.photos/seed/whychinacars/1200/700" alt="Écart de coût de production voitures chinoises vs européennes" />
+  <figcaption>Décomposition du coût de production : les constructeurs chinois intégrés capturent 35 à 45 % d'économies supplémentaires grâce à leur maîtrise de la chaîne de valeur.</figcaption>
+</figure>
+
+<h2>Raison 2 : les économies d'échelle sur le marché intérieur</h2>
+<p>La Chine est le plus grand marché automobile du monde : 25 millions de voitures vendues en 2025, dont 12 millions d'électriques. BYD seul vend plus de 3,5 millions de véhicules par an. Volkswagen vend 9 millions de voitures dans le monde, toutes motorisations confondues.</p>
+<p>Quand BYD amortit ses frais de R&D, ses outils de production et ses coûts fixes sur 3,5 millions d'unités, chaque voiture supporte moins de charges que si ces mêmes coûts étaient répartis sur 500 000 unités. L'économie d'échelle est un multiplicateur d'efficience que les constructeurs européens ne peuvent pas reproduire rapidement.</p>
+
+<h2>Raison 3 : le coût du travail — mais pas comme vous le pensez</h2>
+<p>Oui, les salaires des ouvriers d'usine en Chine sont inférieurs à ceux d'Allemagne (15–20 €/h vs 45–55 €/h). Mais cette différence représente de moins en moins dans le coût total d'un véhicule électrique automatisé. Les usines BYD et SAIC sont parmi les plus automatisées du monde — le coût du travail direct représente moins de <strong>8 % du coût de production</strong> d'une MG4. L'avantage salarial existe, mais il n'est plus le facteur dominant.</p>
+
+<blockquote><p>« Les Chinois ne gagnent pas grâce aux salaires bas — ils gagnent grâce à la maîtrise de la chaîne d'approvisionnement en batteries et composants électroniques. C'est un avantage structurel qui durera 10 à 15 ans. » — Carlos Tavares, ex-PDG de Stellantis, 2025</p></blockquote>
+
+<h2>Raison 4 : les subventions d'État — le débat sans fin</h2>
+<p>L'Union Européenne a imposé des droits de douane supplémentaires (de 7 à 35 % selon les constructeurs) en 2024, arguant de subventions étatiques déloyales. BYD, XPeng et MG ont contesté ces chiffres. La réalité est nuancée : l'État chinois a massivement subventionné l'achat de véhicules électriques par les consommateurs chinois (10 000 à 25 000 RMB d'aide à l'achat jusqu'en 2022) — alimentant la croissance du marché intérieur. Les subventions directes à la production sont moins documentées, mais existent dans certaines provinces.</p>
+<p>Au Maroc, qui n'applique pas ces droits compensatoires européens, les voitures chinoises arrivent aux prix de marché chinois — d'où l'écart massif avec les prix européens sur les mêmes modèles.</p>
+
+<h2>Est-ce durable ?</h2>
+<p>Oui, mais l'écart se réduira. Les constructeurs européens rattrapent leur retard sur les batteries (usines en Pologne, Espagne, Allemagne). Les salaires en Chine progressent de 8 % par an. Les droits de douane s'accumulent. Mais les avantages structurels — intégration verticale, échelle, maîtrise logicielle — ne disparaîtront pas en 2 ans. L'écart de prix actuel de 30 à 50 % est probablement durable jusqu'en 2030 au minimum. Pour les acheteurs marocains qui n'ont pas à payer les droits compensatoires européens, c'est une opportunité historique à saisir maintenant.</p>
+`,
+  },
+
+  {
+    slug: 'leapmotor-alliance-stellantis-sav-europe',
+    title: 'Leapmotor : l'alliance avec Stellantis change-t-elle vraiment la donne pour le SAV ?',
+    excerpt:
+      'En 2023, Stellantis a investi 1,5 milliard d'euros dans Leapmotor pour distribuer ses voitures hors de Chine. Au Maroc, cela signifie un réseau Citroën et Peugeot pour entretenir votre Leapmotor.',
+    image: 'https://picsum.photos/seed/leapmotor/1200/800',
+    category: 'Marque',
+    categorySlug: 'marque',
+    publishedAt: '2026-04-09T09:00:00+01:00',
+    readingTime: 6,
+    author: 'Rédaction ChinaCarsMA',
+    tags: ['Leapmotor', 'Stellantis', 'SAV', 'alliance', 'T03', 'C10', 'Maroc'],
+    bodyHtml: `
+<h2>L'accord qui a surpris toute l'industrie</h2>
+<p>En octobre 2023, Stellantis — le groupe derrière Citroën, Peugeot, Fiat, Opel et 10 autres marques — annonce une prise de participation de 20 % dans <strong>Leapmotor</strong>, constructeur électrique chinois, pour 1,5 milliard d'euros. La coentreprise "Leapmotor International" est créée pour distribuer les voitures Leapmotor hors de Chine, en s'appuyant sur le réseau Stellantis mondial.</p>
+<p>Pour Leapmotor, c'est une aubaine : accès immédiat à 3 000 concessions en Europe et dans les marchés émergents, SAV structuré, homologation accélérée. Pour Stellantis, c'est une façon d'accéder à des véhicules électriques compétitifs sans les développer en interne.</p>
+
+<h2>Ce que cela signifie concrètement au Maroc</h2>
+<p>Au Maroc, Stellantis exploite le réseau Citroën-Peugeot-Fiat via des distributeurs agréés dans les principales villes. L'accord Leapmotor International signifie que les voitures Leapmotor vendues au Maroc sont <strong>entretenues et réparées dans ces mêmes concessions</strong> — avec des techniciens formés, des pièces de rechange stockées localement, et les garanties constructeur honorées sans délai.</p>
+<p>C'est une différence fondamentale par rapport à la plupart des autres marques chinoises présentes au Maroc, dont le SAV repose sur des réseaux en construction ou des importateurs indépendants.</p>
+
+<figure>
+  <img src="https://picsum.photos/seed/leapmotor/1200/700" alt="Leapmotor T03 et C10 — gamme Leapmotor International au Maroc" />
+  <figcaption>Leapmotor T03 (citadine, 145 000 DH) et C10 (SUV familial, 259 000 DH) : deux modèles, deux arguments, un réseau Stellantis pour le SAV.</figcaption>
+</figure>
+
+<h2>La gamme Leapmotor au Maroc</h2>
+<p><strong>Leapmotor T03</strong> — citadine électrique (4,00 m, 95 ch, 265 km WLTP) : <strong>145 000 DH</strong>. C'est la voiture électrique la moins chère du marché marocain avec un SAV structuré. Son rapport qualité-prix est imbattable pour un usage 100 % urbain.</p>
+<p><strong>Leapmotor C10</strong> — SUV familial électrique (4,74 m, 218 ch, 420 km WLTP) : <strong>259 000 DH</strong>. Concurrent direct du BYD Atto 3, le C10 se distingue par son grand écran 14,6 pouces, sa batterie CATL de 69,9 kWh et son design épuré influencé par les équipes de design Stellantis basées en Italie.</p>
+
+<h2>La formation des techniciens : le vrai test</h2>
+<p>Un réseau de distribution ne vaut que par la qualité de sa formation technique. Stellantis a développé un programme de certification "Leapmotor Technician" : 40 heures de formation en ligne, 16 heures en atelier sur maquette haute tension. Les concessions Citroën et Peugeot au Maroc habilitées à intervenir sur les Leapmotor ont dû certifier au moins deux techniciens avant de pouvoir vendre les véhicules. C'est un standard plus élevé que beaucoup de marques chinoises qui forment leurs techniciens "sur le tas".</p>
+
+<blockquote><p>« J'ai acheté une Leapmotor T03 en sachant que la concession Citroën à côté de chez moi pouvait la réparer. C'est ce qui a fait la différence avec une autre marque chinoise moins connue. » — Hanane B., Marrakech, propriétaire T03</p></blockquote>
+
+<h2>Les limites du partenariat</h2>
+<p>L'accord Stellantis-Leapmotor couvre la distribution et le SAV, pas le développement produit. Les voitures restent conçues et fabriquées en Chine. Stellantis n'a aucun droit de regard sur l'ingénierie des véhicules. Si Leapmotor traverse une crise qualité ou financière en Chine, Stellantis peut se retirer — mais les propriétaires de véhicules restent avec des voitures à entretenir. C'est le risque résiduel de tout achat dans une marque émergente, même bien distribuée.</p>
+
+<h2>Notre avis</h2>
+<p>Leapmotor est probablement la marque chinoise la moins risquée à acheter au Maroc en 2026 pour les acheteurs qui valorisent la tranquillité du SAV. Le partenariat Stellantis est une vraie garantie structurelle. La T03 à 145 000 DH avec réseau Citroën-Peugeot est une proposition sans équivalent sur le marché marocain de l'entrée de gamme électrique.</p>
+`,
+  },
+
 ];
 
 export function formatArticleDate(iso: string): string {
