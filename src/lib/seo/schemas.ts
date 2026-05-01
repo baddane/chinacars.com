@@ -31,11 +31,6 @@ export function websiteSchema(): Thing {
     name: SITE.name,
     url: SITE.url,
     inLanguage: SITE.defaultLanguage,
-    potentialAction: {
-      '@type': 'SearchAction',
-      target: `${SITE.url}/recherche?q={search_term_string}`,
-      'query-input': 'required name=search_term_string',
-    },
   };
 }
 
@@ -140,6 +135,26 @@ export function carSchema(input: CarSchemaInput): Thing {
         ratingValue: input.rating.value,
         reviewCount: input.rating.count,
       },
+    }),
+  };
+}
+
+export interface BrandSchemaInput {
+  name: string;
+  url: string;
+  description: string;
+  foundingLocation?: string;
+}
+
+export function brandSchema(input: BrandSchemaInput): Thing {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'Brand',
+    name: input.name,
+    url: absoluteUrl(input.url),
+    description: input.description,
+    ...(input.foundingLocation && {
+      foundingLocation: { '@type': 'Place', name: input.foundingLocation },
     }),
   };
 }

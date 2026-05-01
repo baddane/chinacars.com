@@ -60,8 +60,10 @@ export default function ArticlePage({ params }: PageProps) {
           url: `/actualites/${a.slug}`,
           image: a.image,
           datePublished: a.publishedAt,
+          dateModified: a.updatedAt ?? a.publishedAt,
           authorName: a.author,
           section: a.category,
+          tags: a.tags,
         })}
         id="article"
       />

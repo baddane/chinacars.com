@@ -16,6 +16,8 @@ export interface ArticleSeed {
   author?: string;
   featured?: boolean;
   bodyHtml?: string;
+  updatedAt?: string; // ISO 8601 — omit if same as publishedAt
+  tags?: string[];
 }
 
 export const articles: ArticleSeed[] = [
