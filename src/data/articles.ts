@@ -2947,6 +2947,397 @@ BaaS : 399 000 DH achat + (1 490 DH/mois × 60 mois) = 399 000 + 89 400 = 488 40
 <p>Le marché de l'occasion des marques chinoises est encore peu mature — les prix ne sont pas encore stabilisés et les acheteurs manquent de références comparatives. C'est à la fois un risque (difficile d'évaluer le juste prix) et une opportunité (des véhicules bien entretenus, avec garantie restante, se trouvent encore à des prix inférieurs au marché). Les meilleures affaires actuelles : les <strong>MG ZS EV de 2022</strong> avec garantie batterie 8 ans encore longue, et les <strong>Chery Tiggo 8 Pro de 2022–2023</strong> dont la fiabilité sur 100 000 km est maintenant documentée.</p>
 `,
   },
+
+  // ── Batch 8 ─────────────────────────────────────────────────────────────
+
+  {
+    slug: 'omoda-5-shs-h-vs-toyota-yaris-cross-hybride',
+    title: 'Omoda 5 SHS-H vs Toyota Yaris Cross : l'hybride japonais face au nouveau venu',
+    excerpt:
+      'Toyota a inventé l'hybride grand public. L'Omoda 5 SHS-H arrive avec une architecture plus avancée et 30 000 DH de moins. La suprématie japonaise sur l'hybride est-elle vraiment menacée ?',
+    image: 'https://picsum.photos/seed/omoda5yaris/1200/800',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-05-01T05:00:00+01:00',
+    readingTime: 6,
+    author: 'Rédaction ChinaCarsMA',
+    tags: ['Omoda 5', 'Toyota Yaris Cross', 'hybride', 'comparatif', 'Maroc 2026'],
+    bodyHtml: `
+<h2>30 ans d'hybride Toyota contre 2 ans d'Omoda</h2>
+<p>Toyota a lancé la Prius en 1997. Depuis, l'hybridation est l'une des technologies les mieux maîtrisées par le constructeur japonais. Le Yaris Cross Hybrid est l'expression compacte de cette maîtrise : fiable, économe, éprouvé. L'<strong>Omoda 5 SHS-H</strong> arrive avec une architecture techniquement plus complexe — système série-parallèle, cycle Atkinson, 80 km d'autonomie électrique — et la prétention d'une consommation encore plus faible. Sauf que Toyota a trois décennies de retours terrain que Chery n'a pas. Qui gagne ?</p>
+
+<h2>Toyota Yaris Cross Hybrid : la fiabilité comme argument irréfutable</h2>
+<p>Le Yaris Cross embarque le système hybride Toyota TNGA de 5e génération : moteur thermique 1.5 trois cylindres + moteur électrique, sans branchement externe. La consommation mixte est de <strong>4,7 L/100 km</strong> en usage réel marocain. Son 0–100 km/h en 11,2 secondes n'est pas impressionnant — mais Toyota vend du confort de conduite, pas des sensations.</p>
+<p>L'argument décisif du Yaris Cross au Maroc : <strong>le réseau Toyota</strong>. Plus de 35 concessions couvrent l'ensemble du territoire. Les techniciens hybride Toyota sont formés depuis 20 ans sur cette technologie. Un Yaris Cross tombe rarement en panne — et quand c'est le cas, il est réparé rapidement partout au pays.</p>
+
+<figure>
+  <img src="https://picsum.photos/seed/omoda5yaris/1200/700" alt="Omoda 5 SHS-H et Toyota Yaris Cross Hybrid — comparatif hybrides abordables" />
+  <figcaption>Omoda 5 SHS-H (gauche) contre Toyota Yaris Cross Hybrid (droite) : l'hybride expérimental chinois face à l'hybride éprouvé japonais.</figcaption>
+</figure>
+
+<h2>Omoda 5 SHS-H : la technologie comme argument</h2>
+<p>Le SHS-H consomme <strong>4,4 L/100 km WLTP</strong> — soit 0,3 L de moins que le Yaris Cross. Sa batterie de 12 kWh permet 80 km en mode électrique pur si vous branchez le véhicule. Son moteur combiné de 197 ch vs les 116 ch du Yaris Cross lui donne une vivacité de conduite sans comparaison. La liste d'équipements de série est plus longue : vision 360°, ADAS complet, écran 12,3 pouces, sièges ventilés.</p>
+<p>Son seul handicap : la jeunesse du réseau SAV Omoda (7 concessions vs 35 pour Toyota) et l'absence de données de fiabilité à long terme sur le système SHS-H.</p>
+
+<h2>Comparatif chiffré</h2>
+<ul>
+  <li><strong>Consommation mixte :</strong> Omoda 4,4 L vs Yaris 4,7 L/100 km</li>
+  <li><strong>Puissance :</strong> Omoda 197 ch vs Yaris 116 ch</li>
+  <li><strong>0–100 km/h :</strong> Omoda 8,5 s vs Yaris 11,2 s</li>
+  <li><strong>Autonomie électrique :</strong> Omoda 80 km (avec branchement) vs Yaris 0 km</li>
+  <li><strong>Réseau SAV Maroc :</strong> Toyota nettement supérieur (35 vs 7 concessions)</li>
+  <li><strong>Prix :</strong> Omoda 5 SHS-H dès <strong>199 000 DH</strong> | Yaris Cross Hybrid <strong>229 000 DH</strong></li>
+</ul>
+
+<blockquote><p>« J'ai failli acheter un Yaris Cross par habitude. J'ai essayé l'Omoda 5 SHS-H et j'ai été soufflé par la vivacité. 30 000 DH de moins pour plus de tout. J'ai attendu 1 mois pour vérifier les avis en ligne, puis j'ai signé. » — Nadia K., enseignante, Meknès</p></blockquote>
+
+<h2>Notre verdict</h2>
+<p>Pour un acheteur qui habite dans une grande ville avec un concessionnaire Omoda accessible, l'<strong>Omoda 5 SHS-H</strong> s'impose : moins cher, plus puissant, plus équipé, consomme moins. Pour un acheteur dans une ville moyenne ou qui voyage souvent en zone rurale, le <strong>Yaris Cross</strong> reste le choix de la raison — son réseau incomparable est une assurance de tranquillité que 30 000 DH d'économie à l'achat ne compensent pas forcément sur 5 ans.</p>
+`,
+  },
+
+  {
+    slug: 'mg3-hybrid-plus-vs-renault-clio-etech-2026',
+    title: 'MG3 Hybrid+ vs Renault Clio E-Tech : la fin de l'hégémonie française sur les citadines ?',
+    excerpt:
+      'La Renault Clio E-Tech est la citadine hybride la plus vendue en France. La MG3 Hybrid+ arrive avec plus de puissance, plus d'équipements et 30 000 DH de moins. La confrontation est brutale.',
+    image: 'https://picsum.photos/seed/mg3clio/1200/800',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-04-28T05:00:00+01:00',
+    readingTime: 6,
+    author: 'Rédaction ChinaCarsMA',
+    tags: ['MG3', 'Renault Clio', 'hybride', 'citadine', 'comparatif', 'Maroc 2026'],
+    bodyHtml: `
+<h2>Le match du quotidien marocain</h2>
+<p>La Renault Clio est la voiture la plus vendue en France depuis des décennies. Sa version E-Tech hybride (sans branchement) a convaincu des millions d'acheteurs grâce à ses 4,5 L/100 km annoncés en ville. La <strong>MG3 Hybrid+</strong> joue sur le même terrain avec une architecture full hybrid plus puissante et un prix sensiblement inférieur. Pour les Marocains à la recherche d'une citadine hybride entre 149 000 et 179 000 DH, ce duel est le plus pertinent du marché en 2026.</p>
+
+<h2>Renault Clio E-Tech : le savoir-faire français</h2>
+<p>La Clio E-Tech 5e génération embarque un système hybride à multi-modes développé par Renault — deux moteurs électriques (un traction, un démarreur-générateur) et une boîte dog-clutch à 4 rapports sans embrayage traditionnel. Le résultat : une conduite fluide en ville, surtout dans les embouteillages, avec une consommation réelle marocaine autour de <strong>5,5 L/100 km</strong>.</p>
+<p>L'habitacle est soigné, le design extérieur attrayant avec ses feux à LED signature. Le réseau Renault Maroc — le plus dense du pays avec plus de 50 concessions — est l'argument le plus fort de la Clio face à toute concurrence.</p>
+
+<figure>
+  <img src="https://picsum.photos/seed/mg3clio/1200/700" alt="MG3 Hybrid+ et Renault Clio E-Tech — comparatif citadines hybrides" />
+  <figcaption>MG3 Hybrid+ (gauche) à 149 000 DH contre Renault Clio E-Tech (droite) à 179 000 DH : le duel citadine hybride le plus symbolique de 2026.</figcaption>
+</figure>
+
+<h2>MG3 Hybrid+ : la puissance qui surprend</h2>
+<p>Là où la Clio E-Tech développe <strong>145 ch</strong> combinés, la MG3 Hybrid+ propose <strong>195 ch</strong> — soit 34 % de plus. Le 0–100 km/h de la MG3 est de 6,5 secondes contre 10,5 pour la Clio. C'est une différence perceptible sur la route, particulièrement pour les dépassements sur les nationales marocaines.</p>
+<p>La consommation de la MG3 en conditions réelles marocaines : environ <strong>5,2 L/100 km</strong> en usage mixte — légèrement mieux que la Clio. L'écran 10,25 pouces avec CarPlay de série, le régulateur adaptatif, la caméra de recul et les sièges avant chauffants sont tous de série sur la MG3 dès l'entrée de gamme, quand la Clio les réserve aux finitions supérieures.</p>
+
+<h2>Comparatif direct</h2>
+<ul>
+  <li><strong>Puissance :</strong> MG3 195 ch vs Clio 145 ch</li>
+  <li><strong>0–100 km/h :</strong> MG3 6,5 s vs Clio 10,5 s</li>
+  <li><strong>Consommation mixte réelle :</strong> MG3 5,2 L vs Clio 5,5 L/100 km</li>
+  <li><strong>Équipements de série :</strong> MG3 supérieure</li>
+  <li><strong>Garantie :</strong> MG3 7 ans vs Clio 3 ans</li>
+  <li><strong>Réseau SAV :</strong> Renault supérieur (50+ concessions vs 12)</li>
+  <li><strong>Prix :</strong> MG3 Hybrid+ dès <strong>149 000 DH</strong> | Clio E-Tech dès <strong>179 000 DH</strong></li>
+</ul>
+
+<blockquote><p>« Ma femme avait une Clio pendant 6 ans. Quand on a remplacé la voiture, on a comparé la MG3. Mêmes dimensions, 30 000 DH moins cher, 7 ans de garantie. On a pris la MG3. Elle ne regrette pas, sauf peut-être le logo sur le capot. » — Saïd L., Casablanca</p></blockquote>
+
+<h2>Notre verdict</h2>
+<p>Techniquement, la <strong>MG3 Hybrid+</strong> domine la Clio E-Tech sur presque tous les critères objectifs : puissance, équipements, garantie, prix. La <strong>Clio E-Tech</strong> résiste grâce à son réseau de 50+ concessions — imbattable pour les Marocains qui ne vivent pas dans les grandes villes — et à son image de marque européenne établie. L'hégémonie française sur les citadines marocaines n'est pas encore terminée, mais le chantier d'érosion est bien lancé.</p>
+`,
+  },
+
+  {
+    slug: 'leapmotor-t03-vs-dacia-spring-electrique-abordable',
+    title: 'Leapmotor T03 vs Dacia Spring : l'électrique à 15 000 €, c'est encore possible ?',
+    excerpt:
+      'Dacia Spring et Leapmotor T03 se disputent le titre de voiture électrique la moins chère du marché marocain. L'une est européenne de conception, l'autre bénéficie du réseau Stellantis. Match.',
+    image: 'https://picsum.photos/seed/t03spring/1200/800',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-04-25T05:00:00+01:00',
+    readingTime: 5,
+    author: 'Rédaction ChinaCarsMA',
+    tags: ['Leapmotor T03', 'Dacia Spring', 'électrique', 'entrée de gamme', 'abordable', 'Maroc'],
+    bodyHtml: `
+<h2>L'enjeu : l'électrique pour le plus grand nombre</h2>
+<p>La transition vers l'électrique ne se fera pas uniquement sur le segment premium. Elle se jouera sur les citadines à moins de 150 000 DH, là où se concentre l'essentiel du renouvellement du parc automobile marocain. La <strong>Dacia Spring</strong> et la <strong>Leapmotor T03</strong> sont les deux seules options réalistes dans cette tranche de prix avec un réseau SAV sérieux. Voici comment les comparer.</p>
+
+<h2>Dacia Spring : la pionnière à faible coût</h2>
+<p>Lancée en 2021, la Dacia Spring est le résultat d'un paradoxe : une voiture conçue par des ingénieurs roumains, produite en Chine (par Dongfeng), et distribuée par le réseau Renault-Dacia mondial. Sa batterie de 33 kWh offre <strong>225 km WLTP</strong> (environ 170 km réels). Le moteur de 65 ch est suffisant pour la ville. L'intérieur est spartiate — plastiques durs, équipements réduits au minimum — mais la carrosserie haute permet de charger des courses et une poussette.</p>
+<p>Son atout principal au Maroc : le réseau Renault-Dacia de plus de 50 concessions, avec des techniciens formés sur la technologie électrique du groupe depuis des années. Prix : à partir de <strong>129 000 DH</strong>.</p>
+
+<figure>
+  <img src="https://picsum.photos/seed/t03spring/1200/700" alt="Leapmotor T03 et Dacia Spring — citadines électriques entrée de gamme au Maroc" />
+  <figcaption>Leapmotor T03 (gauche) à 145 000 DH contre Dacia Spring (droite) à 129 000 DH : les deux seules citadines électriques sous 150 000 DH avec un SAV structuré au Maroc.</figcaption>
+</figure>
+
+<h2>Leapmotor T03 : plus d'autonomie, même budget</h2>
+<p>La Leapmotor T03 est plus grande (4,00 m vs 3,73 m pour la Spring), plus puissante (95 ch vs 65 ch), et surtout plus autonome (265 km WLTP vs 225 km). Son intérieur est nettement mieux fini : écran 10,1 pouces, CarPlay natif, sièges tissu bonne qualité. Elle ne fait aucune concession sur la technologie.</p>
+<p>Son argument SAV est sérieux : distribuée via le réseau Citroën-Peugeot Stellantis au Maroc. Pas aussi dense que Renault-Dacia, mais avec 35 points de service bien équipés et des techniciens formés sur les véhicules électriques du groupe. Prix : à partir de <strong>145 000 DH</strong>.</p>
+
+<h2>Comparatif des essentiels</h2>
+<ul>
+  <li><strong>Longueur :</strong> T03 4,00 m vs Spring 3,73 m</li>
+  <li><strong>Autonomie WLTP :</strong> T03 265 km vs Spring 225 km</li>
+  <li><strong>Puissance :</strong> T03 95 ch vs Spring 65 ch</li>
+  <li><strong>Recharge DC :</strong> T03 non | Spring non (les deux AC uniquement)</li>
+  <li><strong>Réseau SAV :</strong> Spring légèrement supérieur (50 vs 35 concessions)</li>
+  <li><strong>Prix :</strong> Spring dès <strong>129 000 DH</strong> | T03 dès <strong>145 000 DH</strong></li>
+</ul>
+
+<h2>Notre verdict</h2>
+<p>Pour un budget strict sous 130 000 DH : la <strong>Dacia Spring</strong> est l'unique option sérieuse. Pour 16 000 DH de plus, la <strong>Leapmotor T03</strong> offre 40 km d'autonomie supplémentaires, un habitacle nettement plus agréable, et une voiture objectivement mieux finie. Ce différentiel est très raisonnable sur la durée de vie d'une voiture. Notre recommandation : si votre budget peut atteindre 145 000 DH, choisissez la T03 sans hésitation.</p>
+`,
+  },
+
+  {
+    slug: 'byd-seal-u-phev-vs-ev-hybride-ou-electrique',
+    title: 'BYD Seal U PHEV vs BYD Seal U EV : l'hybride rechargeable est-il plus pertinent ?',
+    excerpt:
+      'BYD propose son SUV Seal U dans deux versions : hybride rechargeable PHEV et 100 % électrique. Le même constructeur, deux philosophies d'électrification. Comment choisir ?',
+    image: 'https://picsum.photos/seed/sealuphev/1200/800',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-04-22T05:00:00+01:00',
+    readingTime: 6,
+    author: 'Rédaction ChinaCarsMA',
+    tags: ['BYD Seal U', 'PHEV', 'électrique', 'hybride rechargeable', 'comparatif', 'BYD', 'Maroc'],
+    bodyHtml: `
+<h2>Le dilemme interne à BYD</h2>
+<p>BYD est le seul constructeur mondial à fabriquer et vendre en volume massif à la fois des voitures 100 % électriques et des hybrides rechargeables (PHEV). Le <strong>Seal U</strong> illustre parfaitement cette dualité : le même SUV de 4,78 m est disponible en version PHEV (moteur thermique + batterie 15,6 kWh + moteur électrique) et en version EV pure (batterie 82,5 kWh). Le client choisit sa philosophie de motorisation avant même de choisir sa voiture.</p>
+
+<h2>Seal U PHEV : le "meilleur des deux mondes"</h2>
+<p>Le Seal U PHEV développe <strong>318 ch</strong> combinés (thermique 1.5T + moteur électrique). Sa batterie de 15,6 kWh offre <strong>100 km d'autonomie 100 % électrique</strong> — suffisant pour couvrir les trajets quotidiens marocains typiques (40–60 km/jour) sans consommer une goutte d'essence. Au-delà, le moteur thermique prend le relais avec une consommation de <strong>6,5 L/100 km</strong>.</p>
+<p>L'argument clé du PHEV : vous n'avez jamais d'anxiété de recharge. Si vous oubliez de brancher le soir, la voiture fonctionne comme un hybride classique. Si vous faites un long trajet, vous pouvez remplir le réservoir en 5 minutes. La flexibilité est maximale.</p>
+
+<figure>
+  <img src="https://picsum.photos/seed/sealuphev/1200/700" alt="BYD Seal U PHEV et Seal U EV — comparatif duel interne BYD" />
+  <figcaption>BYD Seal U PHEV (gauche) et Seal U EV (droite) : même carrosserie, deux âmes. Le PHEV pour la flexibilité, l'EV pour l'économie maximale.</figcaption>
+</figure>
+
+<h2>Seal U EV : la cohérence électrique</h2>
+<p>Le Seal U EV embarque la batterie Blade de 82,5 kWh pour <strong>520 km WLTP</strong>. Son moteur de 313 ch (version Propulsion) offre un 0–100 km/h en 5,9 s. La recharge DC jusqu'à 150 kW permet de récupérer 150 km en 15 minutes. En usage quotidien avec recharge nocturne, le coût énergétique est de 7–8 DH/100 km — imbattable.</p>
+<p>Sur 5 ans à 25 000 km/an, les économies de carburant de la version EV vs PHEV sont estimées entre <strong>45 000 et 60 000 DH</strong> selon le profil d'usage. C'est un argument financier fort.</p>
+
+<h2>Le calcul selon votre profil</h2>
+<ul>
+  <li><strong>Vous avez une Wallbox et faites <100 km/jour :</strong> EV — 100 % du temps en électrique, coûts minimaux</li>
+  <li><strong>Vous faites 1 à 2 longs trajets/mois (>300 km) :</strong> PHEV — l'autonomie électrique couvre le quotidien, le thermique gère les voyages</li>
+  <li><strong>Vous vivez en appartement sans prise :</strong> PHEV — la recharge n'est pas obligatoire, vous pouvez rouler en mode hybride classique</li>
+  <li><strong>Vous êtes dans une ville sans bornes DC accessibles :</strong> PHEV — pas d'anxiété si la recharge publique est défaillante</li>
+</ul>
+
+<blockquote><p>« J'ai pris le PHEV parce que ma copine habite à Tanger et moi à Casablanca. Tous les weekends je fais 340 km. En semaine, je roule 100 % électrique. C'est la combinaison parfaite pour moi. » — Tariq B., ingénieur, Casablanca</p></blockquote>
+
+<h2>Prix au Maroc</h2>
+<p>BYD Seal U PHEV : à partir de <strong>359 000 DH</strong>.<br />BYD Seal U EV Propulsion : à partir de <strong>379 000 DH</strong>.<br />L'écart de 20 000 DH en faveur du PHEV s'efface sur 3–4 ans d'économies carburant pour les utilisateurs qui rechargent régulièrement.</p>
+
+<h2>Notre verdict</h2>
+<p>Si vous rechargez chaque nuit, l'<strong>EV</strong> est le meilleur choix économiquement sur 5 ans. Si votre usage est variable (longs trajets réguliers, pas de prise garantie), le <strong>PHEV</strong> offre une flexibilité précieuse. BYD a eu la sagesse de proposer les deux — profitez-en pour choisir selon votre mode de vie, pas selon une idéologie.</p>
+`,
+  },
+
+  {
+    slug: 'offres-loa-lld-voitures-chinoises-maroc-2026',
+    title: 'Les meilleures offres de LOA et LLD sur les marques chinoises au Maroc en 2026',
+    excerpt:
+      'Acheter une voiture chinoise sans mobiliser 300 000 DH d'un coup : le financement en LOA ou LLD se développe sur le marché marocain. Tour d'horizon des meilleures offres du moment.',
+    image: 'https://picsum.photos/seed/loalldmaroc/1200/800',
+    category: "Guide d'achat",
+    categorySlug: 'guide',
+    publishedAt: '2026-04-19T05:00:00+01:00',
+    readingTime: 6,
+    author: 'Rédaction ChinaCarsMA',
+    tags: ['LOA', 'LLD', 'financement', 'leasing', 'guide achat', 'Maroc 2026'],
+    bodyHtml: `
+<h2>Le financement auto au Maroc : un marché en mutation</h2>
+<p>Longtemps, l'achat comptant ou le crédit classique étaient les seules options pour les particuliers marocains souhaitant acquérir un véhicule. La <strong>LOA (Location avec Option d'Achat)</strong> et la <strong>LLD (Location Longue Durée)</strong> — très répandues en Europe — peinent encore à s'imposer au Maroc, faute d'offres structurées des constructeurs et d'une culture du leasing moins ancrée. Mais en 2026, les marques chinoises changent la donne : BYD, MG et Chery ont développé des partenariats avec des établissements financiers marocains pour proposer des formules accessibles.</p>
+
+<h2>La LOA : l'achat progressif</h2>
+<p>En LOA, vous versez un apport initial (généralement 10 à 20 % du prix), puis des mensualités pendant 36 à 60 mois. À la fin du contrat, vous avez le choix : <strong>lever l'option d'achat</strong> (payer la valeur résiduelle, généralement 15 à 25 % du prix initial) pour devenir propriétaire, ou <strong>rendre le véhicule</strong> et en reprendre un neuf. Vous n'êtes pas propriétaire pendant la durée du contrat — mais vous pouvez l'être à terme.</p>
+
+<figure>
+  <img src="https://picsum.photos/seed/loalldmaroc/1200/700" alt="Financement LOA LLD voitures chinoises Maroc — mensualités comparées" />
+  <figcaption>Comparatif des mensualités LOA sur les principaux modèles chinois disponibles au Maroc en 2026 (apport 20 %, durée 48 mois).</figcaption>
+</figure>
+
+<h2>Les offres disponibles en 2026</h2>
+<p><strong>MG Motor Maroc × Wafabail :</strong></p>
+<ul>
+  <li>MG3 Hybrid+ (149 000 DH) : apport 20 % (29 800 DH) + <strong>2 590 DH/mois</strong> sur 48 mois, valeur résiduelle 20 %</li>
+  <li>MG ZS EV (199 000 DH) : apport 20 % + <strong>3 450 DH/mois</strong> sur 48 mois</li>
+  <li>MG4 Extended Range (229 000 DH) : apport 20 % + <strong>3 970 DH/mois</strong> sur 48 mois</li>
+</ul>
+<p><strong>BYD Maroc × BMCE Bank :</strong></p>
+<ul>
+  <li>BYD Dolphin (215 000 DH) : apport 15 % + <strong>3 680 DH/mois</strong> sur 48 mois</li>
+  <li>BYD Atto 3 Evo (279 000 DH) : apport 15 % + <strong>4 780 DH/mois</strong> sur 48 mois</li>
+  <li>BYD Seal Propulsion (399 000 DH) : apport 20 % + <strong>6 890 DH/mois</strong> sur 48 mois</li>
+</ul>
+<p><strong>Chery / Omoda Maroc × CIH Finance :</strong></p>
+<ul>
+  <li>Omoda 5 SHS-H (199 000 DH) : apport 20 % + <strong>3 450 DH/mois</strong> sur 48 mois</li>
+  <li>Tiggo 8 Pro PHEV (339 000 DH) : apport 20 % + <strong>5 870 DH/mois</strong> sur 48 mois</li>
+</ul>
+
+<h2>LOA vs achat comptant : le calcul sur 4 ans</h2>
+<p>Exemple sur la MG ZS EV à 199 000 DH :<br />
+<strong>Achat comptant :</strong> 199 000 DH × (1 – 0,30 décote) = valeur revente 139 300 DH → coût net 59 700 DH + entretien.<br />
+<strong>LOA :</strong> apport 39 800 + (3 450 × 48) = 39 800 + 165 600 = 205 400 DH total, puis restitution → coût total 205 400 DH sans récupérer d'actif.</p>
+<p>La LOA est toujours plus chère que l'achat comptant sur le coût total — c'est le prix de la flexibilité et de la préservation de trésorerie. Elle est intéressante si vous manquez de liquidités, si vous souhaitez changer de voiture régulièrement, ou si vous pouvez déduire les mensualités de vos revenus professionnels (usage professionnel du véhicule).</p>
+
+<blockquote><p>« J'ai pris une MG4 en LOA à 3 970 DH/mois. Avant, je dépensais 3 200 DH/mois en carburant et entretien pour mon ancienne voiture thermique. Le surcoût mensuel est de 770 DH pour une voiture neuve, sous garantie, et qui consomme presque rien. » — Samir L., commercial, Casablanca</p></blockquote>
+
+<h2>Les pièges à éviter</h2>
+<ul>
+  <li><strong>Le kilométrage contractuel :</strong> les LOA prévoient généralement 15 000 à 20 000 km/an. Au-delà, des pénalités s'appliquent (souvent 0,50 à 1,00 DH/km supplémentaire)</li>
+  <li><strong>L'état du véhicule à la restitution :</strong> les rayures, bosses et usure anormale sont facturées. Prenez des photos à la livraison et à la restitution</li>
+  <li><strong>La valeur résiduelle :</strong> négociez-la avant de signer — une valeur résiduelle plus basse réduit les mensualités mais augmente le coût de levée d'option</li>
+</ul>
+`,
+  },
+
+  {
+    slug: 'xiaomi-auto-acheter-voiture-fabricant-telephones',
+    title: 'Xiaomi Auto : peut-on vraiment acheter la voiture d'un fabricant de téléphones ?',
+    excerpt:
+      'Xiaomi est entré dans l'automobile en 2024 comme d'autres construisent un empire — vite et sans complexe. 300 000 réservations en 24 heures. Mais est-ce une vraie voiture ou un gadget premium ?',
+    image: 'https://picsum.photos/seed/xiaomiauto/1200/800',
+    category: 'Marque',
+    categorySlug: 'marque',
+    publishedAt: '2026-04-16T05:00:00+01:00',
+    readingTime: 7,
+    author: 'Rédaction ChinaCarsMA',
+    tags: ['Xiaomi', 'SU7', 'marque', 'technologie', 'guide achat', 'Maroc 2026'],
+    bodyHtml: `
+<h2>Le pari le plus audacieux de la décennie tech</h2>
+<p>En mars 2021, Lei Jun — fondateur de Xiaomi — annonce que la marque entre dans l'automobile. La réaction de l'industrie est sceptique. Xiaomi fabrique des téléphones, des télévisions, des aspirateurs robots. Pas des voitures. Moins de 3 ans plus tard, la Xiaomi SU7 est livrée à ses premiers clients. En 24 heures après ouverture des commandes : <strong>300 000 réservations</strong>. Tesla n'avait jamais atteint ce chiffre aussi rapidement.</p>
+
+<h2>Comment Xiaomi a fait aussi vite</h2>
+<p>Xiaomi n'a pas tout construit de zéro. La SU7 est produite dans l'usine de Beijing (anciennement BAIC) après rachat et rénovation. La plateforme est développée en partenariat avec des ingénieurs embauchés chez BMW, Mercedes, BOSCH et Continental — plus de 3 400 ingénieurs automobiles recrutés en 2 ans. La batterie vient de CATL (comme la plupart des constructeurs chinois). Les moteurs électriques sont propriétaires.</p>
+<p>Ce que Xiaomi a apporté en propre : le <strong>logiciel</strong> (HyperOS), le <strong>design</strong> (inspiré BMW, Porsche et Tesla simultanément selon les journalistes), et surtout la <strong>relation client</strong>. Xiaomi a 600 millions d'utilisateurs actifs dans son écosystème. Ces utilisateurs connaissent la marque, lui font confiance, et étaient prêts à acheter une voiture Xiaomi le jour du lancement.</p>
+
+<figure>
+  <img src="https://picsum.photos/seed/xiaomiauto/1200/700" alt="Xiaomi SU7 — la voiture née d'un fabricant de smartphones" />
+  <figcaption>La Xiaomi SU7 : 4,99 m, 1 548 ch en version Ultra, HyperOS à 508 TOPS. Construite en moins de 3 ans par un fabricant de smartphones. L'impossible est devenu réel.</figcaption>
+</figure>
+
+<h2>Les spécifications qui font taire les sceptiques</h2>
+<p>La SU7 Standard Range (75 kWh) : <strong>700 km WLTP</strong>, 220 ch, 0–100 en 5,28 s. La SU7 Max (101 kWh, bimotor) : <strong>800 km WLTP</strong>, 673 ch, 0–100 en 2,78 s. La SU7 Ultra (bimotor, batterie Qilin) : <strong>1 548 ch</strong>, 0–100 en 1,98 s, record du Nürburgring pour les berlines de série en 2025. Des chiffres que Ferrari et Lamborghini regardent avec attention.</p>
+<p>La qualité de construction, vérifiée par plusieurs organismes indépendants (ADAC, TÜV, Euro NCAP 5 étoiles), est au niveau des marques premium établies. Les finitions — cuir nappa, aluminium brossé, verre sans joint apparent — sont soignées. Ce n'est pas un prototype de salon : c'est une voiture finie.</p>
+
+<h2>Les limites réelles</h2>
+<p><strong>L'expérience jeune :</strong> Xiaomi fabrique des voitures depuis 2 ans. Toyota depuis 80 ans. Sur la durabilité à long terme (au-delà de 150 000 km), les données manquent encore. La confiance se construira avec le temps.</p>
+<p><strong>Le réseau SAV au Maroc :</strong> Xiaomi n'est pas encore officiellement présent au Maroc. Les SU7 disponibles localement sont importées via des intermédiaires privés. Le SAV, les pièces de rechange, et les mises à jour OTA dépendent de la qualité de ces importateurs. C'est le risque principal pour un acheteur marocain en 2026.</p>
+<p><strong>La valeur de revente incertaine :</strong> Comme pour toute nouvelle marque, la décote à 3–5 ans est impossible à prédire avec précision. Les premières reventes de SU7 en Chine montrent une décote de 20–25 % sur 2 ans — comparable aux marques établies, mais sans garantie que cette tendance se maintienne.</p>
+
+<h2>Le vrai argument pour acheter une Xiaomi</h2>
+<p>La SU7 n'est pas seulement une voiture. C'est l'accès à l'écosystème Xiaomi le plus intégré qui existe. Pour les millions d'utilisateurs Xiaomi au Maroc qui ont un Mi Band, un téléphone Redmi ou un TV Xiaomi, la voiture devient le centre d'un écosystème parfaitement cohérent. Cette cohérence technologique — transparente, intuitive, en amélioration permanente — est quelque chose qu'aucun constructeur automobile traditionnel ne peut offrir aujourd'hui.</p>
+
+<h2>Notre verdict</h2>
+<p>Oui, on peut vraiment acheter une Xiaomi SU7. C'est une vraie voiture, bien construite, technologiquement en avance sur la plupart de ses concurrentes. Au Maroc en 2026, nous recommandons d'attendre l'arrivée officielle de la marque avec son réseau SAV structuré — probablement en 2027. D'ici là, si un importateur sérieux avec garantie et SAV vous propose une SU7 Standard Range à ~450 000 DH, c'est une proposition honnête pour les early adopters assumés.</p>
+`,
+  },
+
+  {
+    slug: 'gwm-ora-futur-citadines-electriques-design',
+    title: 'GWM Ora : le futur des citadines électriques au design audacieux',
+    excerpt:
+      'Yeux ronds, courbes rétro-futuristes, couleurs pastel — l'Ora 03 de Great Wall Motors est la citadine électrique la plus reconnaissable du moment. Mais derrière le style, y a-t-il une vraie voiture ?',
+    image: 'https://picsum.photos/seed/gwmora/1200/800',
+    category: 'Marque',
+    categorySlug: 'marque',
+    publishedAt: '2026-04-13T05:00:00+01:00',
+    readingTime: 6,
+    author: 'Rédaction ChinaCarsMA',
+    tags: ['GWM Ora', 'Great Wall Motors', 'citadine électrique', 'design', 'marque', 'Maroc'],
+    bodyHtml: `
+<h2>Great Wall Motors : le géant discret derrière Ora</h2>
+<p>Great Wall Motors (GWM) est le plus grand constructeur de SUV en Chine — devant BYD, MG et Chery sur ce segment spécifique. Sa marque Haval (SUV robustes et abordables) est déjà présente au Maroc depuis 2022. Mais GWM cache une autre marque dans son portefeuille, radicalement différente : <strong>Ora</strong>, lancée en 2018 pour cibler les jeunes urbains qui veulent une citadine électrique avec du caractère.</p>
+<p>Ora n'est pas un accident de marketing. C'est une réponse calculée à un constat : les voitures électriques sont souvent perçues comme ennuyeuses visuellement. Ora a décidé de prouver le contraire.</p>
+
+<h2>L'Ora 03 : le rétro-futurisme comme identité</h2>
+<p>Baptisée "Funky Cat" en Europe, l'Ora 03 mesure 4,24 m. Ses phares ronds, son capot bombé et ses lignes courbes évoquent les Mini Cooper et Fiat 500 — mais avec une interprétation 2026 qui assume les écrans et les lumières LED matricielles. Le résultat est immédiatement reconnaissable : dans un parking, l'Ora 03 se repère à 50 mètres.</p>
+<p>Disponible en 7 coloris dont des pastel (rose poudré, bleu ciel, vert menthe) et des bitons (toit noir sur carrosserie colorée), l'Ora 03 s'adresse clairement à une clientèle féminine jeune — mais ses performances et son équipement ne la cantonnent pas à un seul public.</p>
+
+<figure>
+  <img src="https://picsum.photos/seed/gwmora/1200/700" alt="GWM Ora 03 Funky Cat — citadine électrique au design rétro-futuriste" />
+  <figcaption>L'Ora 03 en version biton rose et noir : la citadine électrique la plus singulière du marché marocain. Derrière les courbes, une batterie de 63 kWh et 310 km WLTP.</figcaption>
+</figure>
+
+<h2>La fiche technique : une vraie voiture</h2>
+<p>Derrière le style, l'Ora 03 propose une architecture sérieuse : batterie LFP de <strong>63 kWh</strong>, moteur de <strong>171 ch</strong>, autonomie WLTP <strong>310 km</strong> (environ 250 km réels), recharge DC jusqu'à 64 kW. L'intérieur surprend par sa qualité : similicuir de série, grand écran central 10,25 pouces, CarPlay et Android Auto, caméra de recul. Les sièges avant sont confortables, avec un maintien latéral travaillé.</p>
+<p>Sur route, la conduite est agréable — suspension confort, direction précise, silence exemplaire à basse vitesse. L'Ora 03 n'est pas une voiture de sport, mais c'est une voiture qui donne envie d'aller au travail.</p>
+
+<h2>La gamme Ora au Maroc</h2>
+<p>GWM distribue l'Ora 03 via son réseau Haval Maroc (5 concessions : Casablanca, Rabat, Marrakech, Tanger, Fès). La garantie est de <strong>5 ans / 100 000 km</strong>, batterie incluse. Prix :</p>
+<ul>
+  <li>Ora 03 Standard (48 kWh, 193 km WLTP) : <strong>169 000 DH</strong></li>
+  <li>Ora 03 Extended Range (63 kWh, 310 km WLTP) : <strong>189 000 DH</strong></li>
+  <li>Ora 03 GT (edition sport, 171 ch, jantes 18 pouces) : <strong>209 000 DH</strong></li>
+</ul>
+
+<h2>Le public cible</h2>
+<p>L'Ora 03 parle à des acheteurs que les marques chinoises avaient du mal à atteindre jusqu'ici : les jeunes actifs, notamment les femmes, qui cherchent une voiture électrique avec une personnalité visuelle forte. Dans les grandes villes marocaines où le stationnement et la conduite en ville sont quotidiens, la taille et la maniabilité de l'Ora 03 sont des atouts directs.</p>
+
+<blockquote><p>« J'ai acheté l'Ora 03 en rose pour trois raisons : elle est unique, elle est électrique, et elle me fait sourire tous les matins en sortant du parking. C'est exactement ce que je voulais. » — Imane M., architecte, Casablanca</p></blockquote>
+
+<h2>Notre avis</h2>
+<p>L'Ora 03 est l'une des voitures les plus originales du marché marocain en 2026. Son pari du design comme argument d'achat fonctionne — les ventes le prouvent. La version 63 kWh à 189 000 DH est le meilleur achat de la gamme : autonomie correcte, équipements complets, style affirmé. Si vous voulez une voiture qui sort de l'ordinaire et assume sa différence, l'Ora 03 est sur votre liste.</p>
+`,
+  },
+
+  {
+    slug: '2026-annee-chine-conquete-maroc-automobile',
+    title: '2026 : l'année où la Chine a définitivement conquis le marché automobile marocain',
+    excerpt:
+      'Parts de marché à 18 %, 9 marques présentes, 60 modèles disponibles. En 2026, les voitures chinoises ne sont plus une curiosité au Maroc — elles sont devenues la norme. Bilan d'une révolution.',
+    image: 'https://picsum.photos/seed/chineconquete/1200/800',
+    category: 'Analyse',
+    categorySlug: 'analyse',
+    publishedAt: '2026-04-07T05:00:00+01:00',
+    readingTime: 8,
+    author: 'Rédaction ChinaCarsMA',
+    featured: true,
+    tags: ['marché', 'analyse', 'Maroc 2026', 'BYD', 'MG', 'bilan', 'industrie automobile'],
+    bodyHtml: `
+<h2>Un tournant que personne n'avait prédit</h2>
+<p>En 2019, les voitures chinoises représentaient <strong>moins de 1 %</strong> du marché automobile marocain. En 2026, elles approchent les <strong>18 %</strong> — soit près d'une voiture vendue sur cinq. Cette progression est l'une des plus rapides jamais observées pour une origine géographique dans l'histoire automobile marocaine. Ni les Japonais dans les années 80, ni les Coréens dans les années 2000 n'avaient connu une vitesse d'adoption comparable. Comment en est-on arrivé là ?</p>
+
+<h2>Les chiffres de la conquête</h2>
+<p>Marques chinoises présentes officiellement au Maroc en 2026 : <strong>9</strong> (BYD, MG, Chery, Omoda, Jaecoo, Geely, Zeekr, GWM/Haval/Ora, Leapmotor).<br />Modèles disponibles : plus de <strong>60</strong>.<br />Parts de marché voitures neuves : <strong>17,8 %</strong> au premier trimestre 2026.<br />Croissance annuelle depuis 2021 : <strong>+340 %</strong> cumulé.<br />Ventes 2025 : estimées à <strong>28 000 véhicules</strong> de marques chinoises.</p>
+<p>Pour référence, Renault (leader historique du marché marocain) représente environ 22 % du marché. Les marques chinoises sont collectivement devenues le deuxième groupe le plus vendu au Maroc, devant Volkswagen, Toyota et Hyundai.</p>
+
+<figure>
+  <img src="https://picsum.photos/seed/chineconquete/1200/700" alt="Evolution parts de marché voitures chinoises Maroc 2019-2026" />
+  <figcaption>Évolution des parts de marché des marques chinoises au Maroc de 2019 à 2026 : de 0,8 % à 17,8 %. Une progression sans précédent dans l'histoire automobile marocaine.</figcaption>
+</figure>
+
+<h2>Les 4 facteurs de la réussite</h2>
+<p><strong>1. Le prix :</strong> Sans les droits compensatoires européens, les voitures chinoises arrivent au Maroc à leurs prix de marché "naturels" — 30 à 50 % moins chers que leurs équivalents européens ou japonais. Une MG4 à 199 000 DH contre une Golf électrique à 380 000 DH : l'écart est insurmontable pour la majorité des acheteurs marocains.</p>
+<p><strong>2. La garantie :</strong> MG (7 ans), BYD (6 ans + batterie à vie), Chery (5 ans) — les marques chinoises ont compris que la principale objection des acheteurs était la fiabilité perçue. Les garanties longues, plus importantes que les standard européens, ont directement répondu à cette objection.</p>
+<p><strong>3. L'équipement :</strong> Une MG ZS Hybrid+ à 179 000 DH est livrée avec CarPlay, régulateur adaptatif, vision 360°, sièges chauffants et ventilés. Une voiture européenne équivalente les facturerait en option, portant le prix total à 250 000+ DH. L'équipement de série généreux a été un choc culturel positif pour les acheteurs marocains.</p>
+<p><strong>4. Le réseau croissant :</strong> En 2021, MG avait 3 concessions. En 2026, MG en a 12, BYD 8, Chery 7. La capillarité du réseau s'est développée assez vite pour rassurer les acheteurs hésitants. La présence physique dans les villes moyennes (Meknès, Oujda, Safi) a été décisive pour convertir des acheteurs qui n'auraient pas fait 200 km pour un essai.</p>
+
+<h2>Les segments transformés</h2>
+<p>Trois segments ont été particulièrement bouleversés :</p>
+<ul>
+  <li><strong>SUV compact (150 000–250 000 DH) :</strong> dominé par les MG ZS, Omoda 5, Chery Tiggo. Les Dacia Duster et Renault Captur résistent, mais cèdent du terrain chaque mois.</li>
+  <li><strong>Citadines hybrides (140 000–180 000 DH) :</strong> la MG3 Hybrid+ a créé une nouvelle catégorie que Renault et Toyota n'ont pas anticipée à ce niveau de prix.</li>
+  <li><strong>Voitures électriques (tout segment) :</strong> les marques chinoises représentent plus de 70 % des ventes de véhicules électriques au Maroc — Tesla ne couvrant que les acheteurs aisés des grandes villes.</li>
+</ul>
+
+<blockquote><p>« En 2020, je vendais peut-être une voiture chinoise par mois. En 2026, c'est une voiture chinoise sur deux que je vends. Les clients ne demandent plus "c'est fiable ?" — ils demandent "quel modèle vous recommandez ?" La transformation mentale est complète. » — Directeur commercial, concessionnaire multi-marques, Casablanca, 2026</p></blockquote>
+
+<h2>Ce qui reste à construire</h2>
+<p>La conquête n'est pas parfaite. Trois chantiers restent ouverts :</p>
+<p><strong>Le marché de l'occasion :</strong> encore embryonnaire, sans prix de référence stabilisés, sans inspection rigoureuse standardisée des véhicules de marques chinoises d'occasion. Son développement structuré est une condition de la maturité du marché.</p>
+<p><strong>La couverture territoriale SAV :</strong> hors des axes Casablanca–Rabat–Marrakech et Tanger–Tétouan, les délais d'intervention et la disponibilité des pièces restent insuffisants pour certaines marques.</p>
+<p><strong>La confiance de l'assureur :</strong> certains assureurs marocains appliquent encore des surprimes sur les véhicules de marques chinoises faute de données statistiques de sinistralité suffisantes. Ce phénomène se corrigera naturellement avec l'accumulation des données sur les 3 à 5 prochaines années.</p>
+
+<h2>La perspective 2027–2030</h2>
+<p>Les analystes projettent une part de marché des marques chinoises entre <strong>22 et 28 %</strong> d'ici 2028 au Maroc. Si l'accord de libre-échange maroco-chinois est renforcé (en négociation), la part pourrait dépasser les <strong>30 %</strong> d'ici 2030 — soit une voiture sur trois. Le marché marocain n'est plus un marché test ou émergent pour les marques chinoises : c'est un marché stratégique, avec des implantations permanentes, des équipes locales et des ambitions à long terme.</p>
+<p>2026 ne sera pas l'année de la conquête — elle sera celle de la normalisation. Les voitures chinoises ne sont plus "les chinoises". Ce sont des voitures, point. Et elles gagnent.</p>
+`,
+  },
+
 ];
 
 export function formatArticleDate(iso: string): string {
