@@ -593,6 +593,428 @@ export const articles: ArticleSeed[] = [
 <p>Les analystes projettent une part de marché des marques chinoises entre <strong>18 et 22 %</strong> d'ici fin 2027. Le marché marocain s'impose comme la tête de pont de l'offensive commerciale chinoise en Afrique du Nord.</p>
 `,
   },
+
+  // ── Batch 2 : comparatifs, technologie, guides, essais ─────────────────
+
+  {
+    slug: 'byd-seal-vs-xiaomi-su7-ultra-berlines-2026',
+    title: 'BYD Seal vs Xiaomi SU7 Ultra : quelle berline électrique chinoise domine en 2026 ?',
+    excerpt:
+      "L'expérimenté contre le nouveau venu : BYD Seal et Xiaomi SU7 Ultra s'affrontent sur tous les terrains — design, performance, autonomie et technologie.",
+    image: 'https://picsum.photos/seed/sealvs7ultra/1200/800',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-04-28T09:00:00+01:00',
+    readingTime: 7,
+    author: 'Rédaction ChinaCarsMA',
+    featured: true,
+    tags: ['BYD Seal', 'Xiaomi SU7 Ultra', 'comparatif', 'berline électrique', 'Maroc'],
+    bodyHtml: `
+<h2>Deux géants qui ne se ressemblent pas</h2>
+<p>D'un côté, BYD — le constructeur automobile spécialisé dans l'électrique depuis 2003, aujourd'hui premier vendeur de voitures électriques au monde. De l'autre, Xiaomi — le géant de l'électronique grand public qui a décidé, en 2021, de se lancer dans l'automobile. Le choc est frontal : deux berlines chinoises haut de gamme, deux philosophies, deux visions de ce que doit être la voiture premium du XXIe siècle.</p>
+<p>La BYD Seal est disponible au Maroc depuis fin 2025. La Xiaomi SU7 Ultra est attendue dans le réseau officiel courant 2026. Voici comment elles se comparent sur le papier — et sur la route.</p>
+
+<h2>Design : Ocean Aesthetics face à l'obsession de la performance</h2>
+<p>La Seal joue la carte de l'élégance fluide. Ses lignes sont douces, organiques, inspirées des formes marines — un langage stylistique que BYD appelle <strong>Ocean Aesthetics</strong>. Elle plaira à ceux qui cherchent une berline statutaire sans agressivité visuelle.</p>
+<p>La SU7 Ultra est tout le contraire. Xiaomi a confié son design à une équipe venue de chez BMW et Mercedes avec une consigne claire : faire peur. La silhouette est tendue, angulaire, avec un aileron arrière actif et des prises d'air évoquant les supercars de circuit. Elle mesure 4,99 m, soit 19 cm de plus que la Seal.</p>
+
+<figure>
+  <img src="https://picsum.photos/seed/sealvs7ultra/1200/700" alt="BYD Seal et Xiaomi SU7 Ultra côte à côte" />
+  <figcaption>Design ocean pour la Seal, posture de supercar pour la SU7 Ultra : deux esthétiques radicalement opposées.</figcaption>
+</figure>
+
+<h2>Performances : la puissance comme terrain d'entente</h2>
+<p>Les deux berlines partagent un goût prononcé pour les chiffres impressionnants. La BYD Seal Performance développe <strong>530 ch</strong> avec ses deux moteurs et boucle le 0 à 100 km/h en <strong>3,8 secondes</strong>. Redoutable. Mais la Xiaomi SU7 Ultra répond avec <strong>1 548 ch</strong> sur sa version ultime, expédiant le sprint en <strong>1,98 seconde</strong>. C'est moins une voiture de route qu'une météorite homologuée.</p>
+<p>En usage quotidien marocain, cela se traduit différemment : la Seal est immédiatement exploitable, avec une progressivité adaptée aux embouteillages de Casa ou aux routes sinueuses vers Ifrane. La SU7 Ultra, avec ses modes "Track" et "Hyper", demande un apprentissage et une vigilance permanente.</p>
+
+<blockquote><p>« La Xiaomi SU7 Ultra sur circuit est une expérience hors du commun. Sur la route du quotidien, c'est la BYD Seal qui gagne en utilisabilité. » — Test comparatif, Auto Moto Maroc, janvier 2026</p></blockquote>
+
+<h2>Autonomie et recharge</h2>
+<p>La Seal Performance affiche <strong>520 km WLTP</strong> avec sa batterie Blade de 82,5 kWh. En conditions réelles marocaines — climatisation, autoroute à 120 km/h — comptez 420 à 450 km, suffisant pour un Casablanca–Marrakech sans recharge. La charge DC monte à 150 kW.</p>
+<p>La SU7 Ultra embarque une batterie CATL Qilin de 101 kWh et annonce <strong>630 km WLTP</strong>. Sa recharge 800 V accepte jusqu'à 265 kW — mais les bornes ultra-rapides au Maroc restent encore concentrées sur l'axe Casablanca–Tanger.</p>
+
+<h2>Technologie à bord</h2>
+<p>BYD mise sur un écran central rotatif de 15,6 pouces sous DiLink OS, intégration CarPlay et Android Auto, et un système ADAS complet. Fiable, fluide, facile à prendre en main dès le premier jour.</p>
+<p>Xiaomi embarque <strong>HyperOS Automotive</strong>, issu directement de son écosystème smartphone. L'intégration avec les appareils Xiaomi est totale : votre téléphone se connecte en une seconde, le logiciel reçoit des mises à jour OTA hebdomadaires. La SU7 Ultra dispose de six écrans au total et d'une puissance de calcul de 508 TOPS.</p>
+
+<h2>Prix au Maroc</h2>
+<p>La BYD Seal Performance est affichée à <strong>469 000 DH</strong> TTC chez le réseau BYD Maroc. La Xiaomi SU7 Ultra, attendue en distribution officielle, sera positionnée autour de <strong>650 000 à 700 000 DH</strong> selon les premières estimations — la catégorie des berlines premium importées.</p>
+
+<h2>Notre verdict</h2>
+<p>Pour un usage quotidien premium au Maroc — autoroutes, routes de montagne, conduite en famille — la <strong>BYD Seal Performance</strong> reste le choix le plus rationnel : puissante, bien équipée, disponible, garantie par un réseau en place. La <strong>Xiaomi SU7 Ultra</strong> est pour les passionnés qui veulent la technologie la plus avancée du moment et sont prêts à payer le prix fort pour une expérience unique.</p>
+`,
+  },
+
+  {
+    slug: 'mg4-vs-byd-dolphin-compactes-electriques-2026',
+    title: 'MG4 vs BYD Dolphin : le match des compactes électriques accessibles',
+    excerpt:
+      'Moins de 240 000 DH pour une voiture électrique moderne et bien finie : MG4 et BYD Dolphin se disputent le titre de meilleure compacte électrique du marché marocain.',
+    image: 'https://picsum.photos/seed/mg4dolphin/1200/800',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-04-25T09:00:00+01:00',
+    readingTime: 6,
+    author: 'Rédaction ChinaCarsMA',
+    tags: ['MG4', 'BYD Dolphin', 'comparatif', 'électrique', 'Maroc'],
+    bodyHtml: `
+<h2>Le segment compact électrique, nouveau terrain de jeu chinois</h2>
+<p>Si les berlines haut de gamme font les gros titres, c'est sur le segment des compactes électriques accessibles que se joue la vraie bataille du marché marocain. Deux modèles dominent : la <strong>MG4 Electric</strong>, déjà bien implantée avec trois niveaux de finition, et la <strong>BYD Dolphin</strong>, la petite citadine pétillante de Shenzhen qui vient bousculer les codes du segment.</p>
+<p>Budget limité à 240 000 DH ? Ce comparatif est fait pour vous.</p>
+
+<h2>Gabarit : MG plus basse, Dolphin plus haute</h2>
+<p>Les deux modèles affichent 4,29 m de longueur — un gabarit identique sur le papier. Mais la MG4, avec sa hauteur de 1,50 m, adopte une silhouette de berline compacte surbaissée, tandis que la Dolphin, à 1,57 m, présente un profil de citadine premium à hayon plus aéré. Résultat : l'habitacle de la Dolphin paraît plus généreux, notamment pour les passagers arrière en position assise haute.</p>
+
+<figure>
+  <img src="https://picsum.photos/seed/mg4dolphin/1200/700" alt="MG4 Electric et BYD Dolphin en comparatif" />
+  <figcaption>MG4 à gauche, BYD Dolphin à droite : deux lectures du compact électrique accessible.</figcaption>
+</figure>
+
+<h2>Performances et conduite</h2>
+<p>La MG4 Standard Range embarque un moteur de <strong>170 ch</strong> (125 kW) pour un 0 à 100 km/h en 7,9 secondes. Sa version Extended Range monte à <strong>203 ch</strong>. Le comportement routier est remarquable pour le prix : train avant précis, train arrière bien tenu, direction agréable. La MG4 est une voiture qui plaît aux conducteurs.</p>
+<p>La BYD Dolphin propose <strong>177 ch</strong> en version standard. Ses suspensions sont calibrées plus moelleuses, avec une priorité au confort plutôt qu'au dynamisme. Sur les routes cabossées des villes marocaines, c'est souvent un avantage réel.</p>
+
+<h2>Autonomie en usage réel</h2>
+<p>MG4 Extended Range (64 kWh) : <strong>435 km WLTP</strong>, environ 350–370 km en usage mixte marocain avec climatisation. MG4 Standard Range (51 kWh) : environ 280 km réels.</p>
+<p>BYD Dolphin (60,4 kWh) : <strong>427 km WLTP</strong>, environ 340–360 km réels. L'écart est minime. Avantage Dolphin sur la recharge : sa batterie Blade accepte la charge DC jusqu'à <strong>88 kW</strong> contre 64 kW pour la MG4 standard, ce qui réduit le temps d'arrêt sur borne rapide.</p>
+
+<h2>Technologie et équipements</h2>
+<p>La MG4 est sobre : un écran central de 10,25 pouces sous MGiSmart Connect, compatible CarPlay et Android Auto. Fonctionnel et intuitif. La qualité perçue intérieure est correcte, sans fioriture.</p>
+<p>La Dolphin surprend par la richesse de son tableau de bord : écran central rotatif de 12,8 pouces, instrumentation numérique, DiLink OS avec mise à jour OTA. L'habitacle est coloré, ludique, avec des options de personnalisation en couleurs. Elle est clairement plus "tech" pour le prix.</p>
+
+<ul>
+  <li><strong>MG4</strong> : meilleure dynamique de conduite, look sobre, réseau après-vente MG solide au Maroc</li>
+  <li><strong>BYD Dolphin</strong> : finitions plus premium, plus de technologie de série, batterie Blade réputée pour sa longévité</li>
+</ul>
+
+<h2>Prix au Maroc</h2>
+<p>MG4 Standard Range : à partir de <strong>199 000 DH</strong>. MG4 Extended Range : <strong>229 000 DH</strong>.<br />BYD Dolphin Standard : <strong>215 000 DH</strong>. BYD Dolphin Dynamic Plus : <strong>239 000 DH</strong>.</p>
+
+<h2>Verdict</h2>
+<p>Conducteur sensible aux sensations de conduite ? Choisissez la <strong>MG4</strong>. Vous privilégiez la technologie embarquée et le confort de suspension ? La <strong>BYD Dolphin</strong> vous conviendra mieux. Les deux offrent un rapport qualité-prix imbattable sur le marché marocain en 2026.</p>
+`,
+  },
+
+  {
+    slug: 'byd-seal-vs-tesla-model-3-highland-2026',
+    title: 'BYD Seal vs Tesla Model 3 Highland : la berline électrique ultime au Maroc',
+    excerpt:
+      "Depuis que BYD a dépassé Tesla en volumes, la question est sur toutes les lèvres. La Seal tient-elle vraiment la comparaison avec la Model 3 Highland sur le marché marocain ?",
+    image: 'https://picsum.photos/seed/sealvstesla/1200/800',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-04-22T09:00:00+01:00',
+    readingTime: 7,
+    author: 'Rédaction ChinaCarsMA',
+    featured: true,
+    tags: ['BYD Seal', 'Tesla Model 3', 'comparatif', 'berline électrique', 'Maroc 2026'],
+    bodyHtml: `
+<h2>Le choc était inévitable</h2>
+<p>Depuis que BYD a dépassé Tesla en volume de ventes mondiales fin 2024, la question est sur toutes les lèvres : la berline électrique de Shenzhen est-elle réellement meilleure que la Model 3 ? La mise à jour "Highland" de Tesla a redonné un coup de jeunesse à la berline américaine. La BYD Seal, elle, a été conçue dès le départ pour l'affronter directement. Voici le match, version Maroc.</p>
+
+<figure>
+  <img src="https://picsum.photos/seed/sealvstesla/1200/700" alt="BYD Seal et Tesla Model 3 Highland face à face" />
+  <figcaption>BYD Seal contre Tesla Model 3 Highland : la comparaison que tout le marché attendait.</figcaption>
+</figure>
+
+<h2>Design : deux modernités</h2>
+<p>Tesla a opté pour l'épure absolue avec la Highland : moins de chrome, des surfaces tendues au maximum. L'intérieur va dans le même sens — un grand écran de 15,4 pouces, un volant, et c'est à peu près tout. Certains adorent, d'autres trouvent ça froid.</p>
+<p>BYD a pris le contre-pied. La Seal arbore des feux en boomerang, une calandre expressive, et un habitacle qui assume ses ambitions luxueuses : boiseries, éclairage d'ambiance 64 couleurs, matériaux valorisants. Elle ressemble davantage à une berline premium allemande qu'à un appareil high-tech.</p>
+
+<h2>Performances comparées</h2>
+<ul>
+  <li><strong>Tesla Model 3 Highland Performance</strong> : 460 ch, 0–100 en 3,1 s</li>
+  <li><strong>BYD Seal Performance</strong> : 530 ch, 0–100 en 3,8 s</li>
+</ul>
+<p>Tesla reste plus rapide sur le sprint, mais BYD offre une puissance nominale supérieure. En conduite quotidienne entre Casablanca et Rabat, la différence est imperceptible. Sur autoroute, les deux offrent des reprises sécurisantes à toute vitesse.</p>
+
+<blockquote><p>« La BYD Seal est la première concurrente sérieuse à la Model 3 que j'aie conduite. Elle est meilleure sur presque tout, sauf le réseau de recharge. » — Bjørn Nyland, testeur automobile, 2025</p></blockquote>
+
+<h2>Autonomie et recharge : l'avantage Supercharger</h2>
+<p>BYD Seal Propulsion : <strong>570 km WLTP</strong>, recharge jusqu'à 150 kW.<br />Tesla Model 3 Highland Grande Autonomie : <strong>629 km WLTP</strong>, recharge jusqu'à 170 kW via Supercharger V3.</p>
+<p>Sur le papier, Tesla est devant. L'argument décisif au Maroc reste cependant le réseau. Tesla dispose de Superchargeurs à Casablanca, Rabat, Marrakech et Tanger — un réseau fiable et rapide. BYD dépend des bornes tierces (Zev Station, Afriquia Gaz Charge) dont la disponibilité et la puissance sont moins homogènes. Cet écart se comble progressivement, mais c'est encore une réalité de 2026.</p>
+
+<h2>Technologie et logiciel</h2>
+<p>Tesla Autopilot reste la référence mondiale pour la conduite semi-autonome sur autoroute. La navigation prédictive qui anticipe les sorties et gère la recharge est unique. Les mises à jour OTA transforment régulièrement l'expérience.</p>
+<p>BYD DiLink OS répond avec un écran rotatif 15,6 pouces, un son Dynaudio 12 haut-parleurs et l'intégration CarPlay. L'IA embarquée et les capacités de conduite autonome restent en retrait sur Tesla.</p>
+
+<h2>Prix au Maroc</h2>
+<p>Tesla Model 3 Highland Grande Autonomie : environ <strong>580 000 DH</strong> TTC.<br />BYD Seal Propulsion : <strong>399 000 DH</strong> TTC.<br />L'écart de 180 000 DH est massif. Pour ce différentiel, BYD propose de série : sièges massants, toit panoramique, audio Dynaudio et 6 ans de garantie.</p>
+
+<h2>Verdict final</h2>
+<p>Choisissez la <strong>Tesla Model 3 Highland</strong> si vous roulez souvent entre grandes villes et valorisez la tranquillité d'esprit sur la recharge longue distance. Choisissez la <strong>BYD Seal</strong> si vous voulez le meilleur rapport prestations-prix du marché et n'avez pas besoin de couvrir plus de 400 km par jour. Pour la majorité des conducteurs marocains, la Seal est objectivement la meilleure affaire.</p>
+`,
+  },
+
+  {
+    slug: 'top-10-voitures-chinoises-autonomie-2026',
+    title: 'Top 10 des voitures chinoises avec la meilleure autonomie au Maroc en 2026',
+    excerpt:
+      "De Casablanca à Agadir sans recharge ? C'est possible avec ces 10 modèles chinois qui repoussent les limites de l'autonomie électrique sur le marché marocain.",
+    image: 'https://picsum.photos/seed/top10auto/1200/800',
+    category: 'Sélection',
+    categorySlug: 'guide',
+    publishedAt: '2026-04-18T09:00:00+01:00',
+    readingTime: 8,
+    author: 'Rédaction ChinaCarsMA',
+    featured: true,
+    tags: ['autonomie', 'top 10', 'voitures chinoises', 'électrique', 'Maroc 2026'],
+    bodyHtml: `
+<h2>Pourquoi l'autonomie reste le critère n°1 au Maroc</h2>
+<p>Au Maroc, les distances entre villes peuvent être conséquentes : Casablanca–Agadir dépasse 460 km, Rabat–Fès frôle les 200 km, Casablanca–Tanger atteint 340 km sur autoroute. L'autonomie réelle d'un véhicule électrique n'est donc pas une statistique abstraite — c'est une question pratique et quotidienne. Nous avons compilé les 10 modèles de marques chinoises offrant la meilleure autonomie WLTP en 2026, disponibles ou attendus au Maroc avant fin d'année.</p>
+
+<figure>
+  <img src="https://picsum.photos/seed/top10auto/1200/700" alt="Top 10 autonomie voitures chinoises 2026 au Maroc" />
+  <figcaption>Les 10 modèles chinois avec la meilleure autonomie en 2026 : de la berline au SUV 7 places.</figcaption>
+</figure>
+
+<h2>1. Xiaomi SU7 Ultra — 630 km WLTP</h2>
+<p>La berline la plus technologique de Xiaomi embarque une batterie CATL Qilin de 101 kWh et une architecture 800 V permettant de recharger jusqu'à 265 kW. En conditions réelles marocaines, attendez-vous à 500–520 km sur route ouverte à vitesse légale. Prix estimé : <strong>650 000 DH+</strong>.</p>
+
+<h2>2. BYD Han EV 2026 — 605 km WLTP</h2>
+<p>La grande berline de luxe de BYD embarque une batterie Blade de 100 kWh. À 4,98 m, c'est le vaisseau amiral de la gamme. Ses 610 ch en version bimotor ne l'empêchent pas d'afficher l'une des meilleures autonomies du marché. Disponible au Maroc à partir de <strong>520 000 DH</strong>.</p>
+
+<h2>3. BYD Seal Propulsion — 570 km WLTP</h2>
+<p>La berline la plus vendue de BYD. Batterie Blade 82,5 kWh, recharge 150 kW DC. En usage autoroutier marocain à 120 km/h avec climatisation, comptez 430–460 km réels — suffisant pour un Casablanca–Marrakech sans escale. Disponible <strong>dès 399 000 DH</strong>.</p>
+
+<h2>4. Zeekr 001 — 566 km WLTP</h2>
+<p>Le shooting brake de Zeekr (filiale de Geely) est l'une des voitures chinoises les plus désirables du moment. Batterie CATL Qilin 100 kWh, charge 800 V jusqu'à 200 kW. Son style unique dans l'offre électrique mondiale attire une clientèle de connaisseurs. Prix attendu : environ <strong>480 000 DH</strong>.</p>
+
+<h2>5. XPeng G9 — 550 km WLTP</h2>
+<p>Le grand SUV d'XPeng est équipé de la charge 800 V la plus rapide du segment : jusqu'à 300 kW sur borne compatible. Sa batterie de 98 kWh et ses deux moteurs (511 ch) en font un SUV polyvalent taillé pour les longs voyages. Présent au Maroc via importateurs officiels depuis début 2026.</p>
+
+<h2>6. BYD Tang 2026 — 530 km WLTP</h2>
+<p>Le SUV 7 places de BYD impressionne par ses dimensions (4,97 m) et son autonomie. Batterie Blade de 108,8 kWh, recharge DC 110 kW. Idéal pour les familles nombreuses qui refusent de choisir entre espace et électrique. Prix : <strong>459 000 DH</strong>.</p>
+
+<h2>7. NIO ET7 — 510 km WLTP (pack 75 kWh) / 1000 km+ (pack 150 kWh)</h2>
+<p>NIO propose un concept unique : la location de batterie (BaaS — Battery as a Service). Vous achetez le véhicule sans la batterie, puis louez celle-ci selon vos besoins. L'ET7 accepte des packs de 75, 100 ou 150 kWh. NIO n'est pas encore officiellement présent au Maroc, mais les premières démarches d'homologation ont été initiées pour 2026.</p>
+
+<h2>8. BYD Atto 3 Evo 2026 — 510 km WLTP</h2>
+<p>La mise à jour du SUV compact de BYD apporte une nouvelle batterie de 60,48 kWh avec une chimie LFP améliorée. L'autonomie progresse de 20 % par rapport au modèle précédent. Sa polyvalence et son prix (<strong>279 000 DH</strong>) en font l'une des meilleures affaires du marché.</p>
+
+<h2>9. MG4 Extended Range — 435 km WLTP</h2>
+<p>Le meilleur rapport prix-autonomie du marché. Pour moins de 230 000 DH, la MG4 Extended Range offre 435 km WLTP et des performances dynamiques supérieures à sa catégorie de prix. Un incontournable.</p>
+
+<h2>10. Chery Omoda E5 — 430 km WLTP</h2>
+<p>L'outsider de ce classement. Batterie de 61,1 kWh, charge DC jusqu'à 80 kW. Son design futuriste signé par un ancien de Lamborghini et son prix agressif (<strong>259 000 DH</strong>) en font un choix crédible pour les budgets intermédiaires.</p>
+
+<h2>Notre recommandation</h2>
+<p>Pour un usage 100 % marocain sans anxiété de recharge, visez au minimum <strong>400 km WLTP</strong>, soit environ 320–350 km réels — suffisant pour couvrir Casablanca–Marrakech avec une marge confortable. La BYD Seal et le BYD Atto 3 Evo sont les meilleurs compromis autonomie-prix du marché en 2026.</p>
+`,
+  },
+
+  {
+    slug: 'batterie-byd-blade-vs-tesla-4680',
+    title: 'Batterie BYD Blade vs Tesla 4680 : laquelle dure vraiment le plus longtemps ?',
+    excerpt:
+      "Deux technologies de rupture s'affrontent au niveau cellulaire : la batterie Blade LFP de BYD contre la cellule cylindrique 4680 NMC de Tesla. Laquelle offre le meilleur bilan au Maroc ?",
+    image: 'https://picsum.photos/seed/batterieblade/1200/800',
+    category: 'Technologie',
+    categorySlug: 'technologie',
+    publishedAt: '2026-04-15T09:00:00+01:00',
+    readingTime: 6,
+    author: 'Rédaction ChinaCarsMA',
+    tags: ['batterie Blade', 'Tesla 4680', 'technologie', 'LFP', 'autonomie'],
+    bodyHtml: `
+<h2>Pourquoi les batteries sont devenues la vraie guerre</h2>
+<p>Dans l'industrie automobile électrique, la batterie représente entre 30 et 40 % du coût total du véhicule. Elle détermine l'autonomie, la sécurité, les performances de recharge et la longévité. Deux technologies se disputent aujourd'hui la suprématie mondiale : la <strong>batterie Blade de BYD</strong> et la cellule <strong>4680 de Tesla</strong>. Décryptage technique pour comprendre laquelle offre le meilleur bilan.</p>
+
+<h2>La batterie Blade de BYD : chimie LFP réinventée</h2>
+<p>La batterie Blade utilise une chimie <strong>LFP — Lithium Fer Phosphate</strong>. Moins dense en énergie que les batteries NMC, elle présente des avantages déterminants :</p>
+<ul>
+  <li><strong>Sécurité</strong> : le LFP ne s'enflamme pas en cas de court-circuit — son seuil d'emballement thermique est de 270 °C contre 150–200 °C pour le NMC</li>
+  <li><strong>Durée de vie</strong> : BYD garantit la Blade à <strong>1 200 000 km</strong> ou 30 ans — un record industrie</li>
+  <li><strong>Coût</strong> : l'absence de cobalt réduit le coût de fabrication de 15 à 25 %</li>
+  <li><strong>Charge quotidienne à 100 %</strong> : contrairement au NMC, la Blade supporte d'être chargée complètement chaque jour sans dégradation significative</li>
+</ul>
+
+<figure>
+  <img src="https://picsum.photos/seed/batterieblade/1200/700" alt="Batterie Blade BYD intégrée structurellement dans le plancher" />
+  <figcaption>La batterie Blade est intégrée structurellement dans le plancher, augmentant la rigidité de la caisse de 50 % par rapport à un pack conventionnel.</figcaption>
+</figure>
+
+<p>L'innovation clé réside dans la <strong>forme allongée et plate</strong> des cellules, assemblées directement en pack sans module intermédiaire (architecture CTP — Cell-to-Pack). Résultat : une densité volumétrique supérieure de 50 % à une batterie LFP classique, malgré une chimie identique.</p>
+
+<h2>La cellule 4680 de Tesla : une révolution de format</h2>
+<p>Présentée lors du "Battery Day" 2020, la cellule 4680 désigne son format physique : 46 mm de diamètre, 80 mm de hauteur. C'est une cellule cylindrique de grande taille à la chimie <strong>NMC avec anode en silicium</strong>.</p>
+<ul>
+  <li>Densité énergétique supérieure d'environ <strong>20 %</strong> à la Blade sur masse à volume équivalent</li>
+  <li>Architecture CTC (Cell-to-Car) encore plus intégrée que le CTP de BYD</li>
+  <li>Production en masse difficile — Tesla a maintenu ses cellules 2170 bien plus longtemps que prévu</li>
+</ul>
+
+<blockquote><p>« BYD a livré ce que Tesla avait promis. La Blade est déployée commercialement à grande échelle depuis 2023. La 4680 cherche encore sa maturité industrielle. » — Bloomberg NEF, analyse 2025</p></blockquote>
+
+<h2>Test de résistance : que se passe-t-il en cas d'accident ?</h2>
+<p>BYD a réalisé un test spectaculaire : une pénétration à l'aiguille d'acier à grande vitesse — le test le plus redouté, car il simule un court-circuit interne sévère. Résultat sur la Blade : ni flamme, ni fumée, ni élévation significative de température. Le même test sur une batterie NMC classique provoque un incendie en quelques secondes. Au Maroc, dans un contexte de températures estivales élevées (jusqu'à 45 °C dans certaines régions), cette stabilité thermique est un argument de sécurité réel.</p>
+
+<h2>Cycles de vie et recharge</h2>
+<p><strong>Cycles de charge :</strong> Blade LFP : 3 000 cycles à 80 % de capacité initiale. Tesla 4680 NMC-Si : environ 1 500–2 000 cycles. Sur 15 000 km/an, la Blade tient 40 ans théoriques — bien au-delà de la durée de vie du véhicule.</p>
+<p><strong>Vitesse de charge :</strong> La 4680 NMC supporte des puissances de charge plus élevées en relatif. Sur Superchargeur V3, la Model 3 atteint 250 kW de pointe. La BYD Seal plafonne à 150 kW — suffisant pour la majorité des bornes disponibles au Maroc en 2026.</p>
+
+<h2>Le verdict au Maroc</h2>
+<p>La <strong>batterie Blade</strong> gagne sur la sécurité, la longévité et la possibilité de charger à 100 % quotidiennement — idéale pour un usage domestique avec Wallbox. La <strong>cellule 4680</strong> offre une meilleure densité énergétique et supporte mieux les recharges ultra-rapides répétées — avantage pour les grands routiers. Dans le contexte marocain de 2026, où les voyages dépassent rarement 500 km et où les bornes ultra-rapides restent rares hors des grands axes, l'avantage pratique penche pour la technologie BYD.</p>
+`,
+  },
+
+  {
+    slug: 'guide-achat-byd-2026',
+    title: 'Guide d'achat BYD 2026 : quel modèle pour quel profil au Maroc ?',
+    excerpt:
+      'Du Dolphin urbain au Tang familial 7 places, BYD propose en 2026 une gamme qui couvre tous les besoins. Ce guide vous aide à trouver votre BYD selon votre profil, votre budget et vos habitudes.',
+    image: 'https://picsum.photos/seed/bydgamme2026/1200/800',
+    category: "Guide d'achat",
+    categorySlug: 'guide',
+    publishedAt: '2026-04-08T09:00:00+01:00',
+    readingTime: 9,
+    author: 'Rédaction ChinaCarsMA',
+    featured: true,
+    tags: ['BYD', 'guide achat', 'Dolphin', 'Atto 3', 'Seal', 'Han', 'Tang', 'Maroc 2026'],
+    bodyHtml: `
+<h2>BYD en 2026 : premier constructeur électrique mondial, bien implanté au Maroc</h2>
+<p>BYD — <em>Build Your Dreams</em> — est devenu en quelques années le constructeur automobile électrique le plus vendu au monde, devançant Tesla en volume. Au Maroc, la marque dispose d'un réseau officiel dans les principales villes et propose une gamme complète qui s'étend de 215 000 DH à plus de 600 000 DH. Mais avec autant de modèles, comment choisir ? Ce guide vous aide à identifier votre BYD selon votre profil et votre budget.</p>
+
+<figure>
+  <img src="https://picsum.photos/seed/bydgamme2026/1200/700" alt="Gamme BYD 2026 au Maroc — Dolphin, Atto 3, Seal, Han, Tang" />
+  <figcaption>La gamme BYD 2026 disponible au Maroc : cinq modèles pour cinq profils de conducteurs.</figcaption>
+</figure>
+
+<h2>BYD Dolphin — Pour la ville (dès 215 000 DH)</h2>
+<p><strong>Profil idéal :</strong> jeune actif, premier achat électrique, usage urbain quotidien à Casablanca, Rabat ou Marrakech.</p>
+<p>La Dolphin est la porte d'entrée de la gamme BYD. Compacte (4,29 m), elle navigue aisément en ville et se gare facilement. Son écran rotatif 12,8 pouces et sa finition soignée lui donnent un air premium incompatible avec son prix. La batterie Blade de 60,4 kWh offre 427 km WLTP — suffisant pour une semaine de trajets domicile-travail sans recharger.</p>
+
+<h2>BYD Atto 3 Evo — Pour la famille urbaine (dès 279 000 DH)</h2>
+<p><strong>Profil idéal :</strong> famille 4–5 personnes, usage mixte ville-route, premier SUV électrique.</p>
+<p>L'Atto 3 est le SUV compact électrique le plus équilibré de la gamme. Son habitacle bien pensé, sa batterie Blade de 60,48 kWh et sa recharge DC jusqu'à 100 kW en font un véhicule polyvalent. La version Evo 2026 apporte un écran amélioré (12,8 pouces), une meilleure connectivité et une autonomie WLTP portée à 510 km. Sa garantie 6 ans/150 000 km est l'une des meilleures du marché.</p>
+
+<h2>BYD Seal — Pour la berline performante (dès 399 000 DH)</h2>
+<p><strong>Profil idéal :</strong> cadre dynamique, conducteur exigeant, usage autoroutier fréquent.</p>
+<p>La Seal est le summum du rapport qualité-prix dans la gamme BYD. Sa version Propulsion (570 km WLTP, 313 ch) couvre tous les besoins d'un conducteur marocain actif. La version Performance (530 ch, 0–100 en 3,8 s) est pour ceux qui veulent aussi le plaisir de conduite. L'équipement de série — sièges ventilés, audio Dynaudio 12 HP, toit panoramique, ADAS complet — justifie chaque dirham.</p>
+
+<blockquote><p>« J'ai comparé la Seal avec la Model 3 Highland et l'Audi e-tron GT. La Seal est objectivement mieux équipée de série à prix équivalent. J'ai signé sans hésiter. » — Témoignage client, Casablanca, mars 2026</p></blockquote>
+
+<h2>BYD Han EV 2026 — Pour le prestige (dès 520 000 DH)</h2>
+<p><strong>Profil idéal :</strong> dirigeant d'entreprise, usage représentation, confort maximal.</p>
+<p>Le Han est la grande berline de luxe de BYD. Ses 4,98 m, son habitacle en cuir nappa, son audio Dynaudio et sa batterie 100 kWh (605 km WLTP) en font une alternative crédible aux BMW Série 7 et Mercedes Classe E électriques, à un tiers du prix. Sa plateforme e-Platform 3.0 garantit un comportement routier exemplaire.</p>
+
+<h2>BYD Tang 2026 — Pour la grande famille (dès 459 000 DH)</h2>
+<p><strong>Profil idéal :</strong> famille nombreuse, voyages fréquents, besoin de 7 places.</p>
+<p>Le Tang est le SUV 7 places de la gamme. À 4,97 m, il offre un espace généreux sur toutes les rangées. Sa batterie Blade de 108,8 kWh et ses 530 km WLTP permettent de rallier Casablanca à Agadir sans stress. En version bimotor 4 roues motrices, il développe 680 ch pour un 0–100 en 4,6 secondes.</p>
+
+<h2>Tableau récapitulatif</h2>
+<ul>
+  <li><strong>Dolphin</strong> — ville / budget : 215 000 DH | 427 km WLTP</li>
+  <li><strong>Atto 3 Evo</strong> — famille SUV compact : 279 000 DH | 510 km WLTP</li>
+  <li><strong>Seal</strong> — berline dynamique : 399 000 DH | 570 km WLTP</li>
+  <li><strong>Tang</strong> — 7 places SUV : 459 000 DH | 530 km WLTP</li>
+  <li><strong>Han EV</strong> — luxe berline : 520 000 DH | 605 km WLTP</li>
+</ul>
+
+<h2>Nos conseils avant d'acheter</h2>
+<p>Quel que soit le modèle choisi, vérifiez : (1) la disponibilité du service après-vente BYD dans votre ville — le réseau est en expansion en 2026 mais reste concentré sur l'axe Casablanca–Rabat–Marrakech ; (2) les offres de financement LOA/LLD qui permettent d'inclure l'assurance et l'entretien dans une mensualité fixe ; (3) l'installation d'une Wallbox à domicile — BYD propose des partenariats avec des installateurs agréés au Maroc. La batterie Blade étant garantie contre les défauts de fabrication sur toute la durée de vie du véhicule, la tranquillité d'esprit est totale.</p>
+`,
+  },
+
+  {
+    slug: 'mg3-hybrid-plus-vs-mg4-electric-2026',
+    title: 'MG3 Hybrid+ vs MG4 Electric : hybride ou 100 % électrique, quel est le meilleur choix ?',
+    excerpt:
+      "MG propose deux réponses à la même question : comment réduire ses coûts de carburant sans compromis. La Hybrid+ et la MG4 Electric s'adressent à deux profils bien distincts.",
+    image: 'https://picsum.photos/seed/mg3hybrid/1200/800',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-04-05T09:00:00+01:00',
+    readingTime: 6,
+    author: 'Rédaction ChinaCarsMA',
+    tags: ['MG3', 'MG4', 'hybride', 'électrique', 'comparatif', 'Maroc'],
+    bodyHtml: `
+<h2>La question que tout le monde se pose</h2>
+<p>Vous voulez passer à une motorisation plus propre et plus économique, mais vous n'êtes pas encore prêt à franchir le cap du 100 % électrique. La <strong>MG3 Hybrid+</strong> a été conçue pour vous. Mais avec la <strong>MG4 Electric</strong> disponible à moins de 230 000 DH, le calcul est moins évident qu'il n'y paraît. Voici le comparatif honnête.</p>
+
+<h2>MG3 Hybrid+ : l'électrique sans contrainte de recharge</h2>
+<p>La MG3 Hybrid+ n'est pas un simple hybride léger. Son architecture "Full Hybrid" associe un moteur thermique 1.5 à injection directe (102 ch) à un moteur électrique de <strong>136 ch</strong> — plus puissant que le thermique. Le groupe développe <strong>195 ch</strong> au démarrage, pour un 0–100 km/h en 6,5 secondes.</p>
+<p>La batterie de 1,83 kWh se recharge uniquement à la régénération et au thermique — pas de prise de charge externe. En usage urbain, MG annonce que la MG3 roulera en mode 100 % électrique jusqu'à <strong>60 % du temps</strong>. La consommation mixte tombe à 4,9 L/100 km.</p>
+
+<figure>
+  <img src="https://picsum.photos/seed/mg3hybrid/1200/700" alt="MG3 Hybrid+ et MG4 Electric comparatif" />
+  <figcaption>MG3 Hybrid+ à gauche : la voie douce vers l'électrique. MG4 Electric à droite : le grand bain direct.</figcaption>
+</figure>
+
+<h2>MG4 Electric : le plongeon dans le 100 % électrique</h2>
+<p>La MG4 ne fait aucun compromis : plateforme MSP dédiée électrique, moteur arrière 170 ch (Standard) ou 203 ch (Extended), transmission directe sans boîte de vitesses. Sa fluidité et sa vivacité sont impossibles à reproduire avec un groupe hybride.</p>
+<p>Le coût à la recharge est imbattable. À Casablanca, avec un tarif ONEE d'environ 1,30 DH/kWh en heures creuses, 100 km reviennent à <strong>7–8 DH</strong> contre 35–40 DH en thermique. Sur 30 000 km/an, l'économie dépasse <strong>80 000 DH sur 5 ans</strong>.</p>
+
+<h2>Les points qui font vraiment la différence</h2>
+<ul>
+  <li><strong>Recharge :</strong> MG3 Hybrid+ — plein en station-service en 5 minutes. MG4 — Wallbox 8h, borne rapide 40 min. Avantage MG3 pour les utilisateurs sans parking privatif</li>
+  <li><strong>Coût d'usage :</strong> MG4 gagne largement (–70 à 75 % vs thermique, –40 à 50 % vs hybride)</li>
+  <li><strong>Conduite :</strong> MG4 — plus vive, silence total, sensations modernes. MG3 — plus familière, gestion moteur plus intuitive</li>
+  <li><strong>Entretien :</strong> MG4 — pas d'huile moteur, pas de courroie de distribution. Frais annuels réduits de 60 %</li>
+  <li><strong>Prix :</strong> MG3 Hybrid+ dès <strong>149 000 DH</strong>. MG4 Standard Range dès <strong>199 000 DH</strong></li>
+</ul>
+
+<blockquote><p>« J'ai hésité 6 mois entre les deux. J'habite en appartement sans prise. La MG3 Hybrid+ a été le choix évident. Mais si j'avais un parking privatif, c'est la MG4 sans hésiter. » — Karim B., propriétaire MG3 Hybrid+, Casablanca</p></blockquote>
+
+<h2>Pour qui choisir quoi ?</h2>
+<p><strong>Choisissez la MG3 Hybrid+</strong> si vous habitez sans parking privatif, faites des longs trajets réguliers de plus de 400 km, ou n'êtes pas encore psychologiquement prêt pour le 100 % électrique.</p>
+<p><strong>Choisissez la MG4 Electric</strong> si vous avez une Wallbox ou accès à une recharge nocturne, faites moins de 250 km par jour, et voulez réduire drastiquement vos coûts d'usage.</p>
+<p>Le marché évolue vite : avec l'extension du réseau de bornes au Maroc (objectif 1 000 bornes publiques d'ici 2027), la MG4 deviendra chaque année un peu plus facile à vivre pour tout le monde.</p>
+`,
+  },
+
+  {
+    slug: '1000-km-mg4-autoroute-consommation-reelle',
+    title: '1 000 km en MG4 : verdict sur la consommation réelle Tanger–Agadir',
+    excerpt:
+      "Peut-on traverser le Maroc du nord au sud en MG4 Extended Range sans galère ? Quatre jours, 1 130 km, 6 recharges. Voici notre bilan complet, chiffres à l'appui.",
+    image: 'https://picsum.photos/seed/mg4road/1200/800',
+    category: 'Essai longue durée',
+    categorySlug: 'essai',
+    publishedAt: '2026-04-02T09:00:00+01:00',
+    readingTime: 7,
+    author: 'Rédaction ChinaCarsMA',
+    tags: ['MG4', 'essai', 'autonomie réelle', 'autoroute', 'Maroc', 'road trip'],
+    bodyHtml: `
+<h2>Le pari</h2>
+<p>Peut-on traverser le Maroc du nord au sud en MG4 Extended Range sans galère ? C'est la question que nous avons voulu tester. Itinéraire : <strong>Tanger → Casablanca → Marrakech → Agadir</strong>, soit environ 960 km au total. Quatre jours de conduite réelle, climatisation activée, avec deux passagers et 60 kg de bagages. Voici notre bilan complet.</p>
+
+<figure>
+  <img src="https://picsum.photos/seed/mg4road/1200/700" alt="MG4 Electric sur l'autoroute marocaine A7 Casablanca–Marrakech" />
+  <figcaption>Notre MG4 Extended Range sur l'A7 Casablanca–Marrakech : 240 km au programme, climatisation plein pot.</figcaption>
+</figure>
+
+<h2>Jour 1 : Tanger → Casablanca (340 km)</h2>
+<p>Départ à 8h00 avec batterie à 100 % (435 km WLTP affichés). L'autoroute A1 est notre terrain de jeu. Vitesse de croisière : 110–120 km/h, AC réglée à 22 °C, 4 occupants et 60 kg de bagages. Premier constat : à 120 km/h, la consommation s'établit à <strong>18,5 kWh/100 km</strong>. Avec 64 kWh nets disponibles, notre autonomie réelle est donc d'environ 345 km — juste suffisant pour rallier Casablanca d'une traite.</p>
+<p>Arrivée à Casa avec 8 % de batterie restants, soit environ 25 km de réserve. C'était calculé : une recharge à l'hôtel sur Wallbox 7,4 kW pendant la nuit. Le lendemain matin, jauge pleine.</p>
+
+<h2>Jour 2 : Casablanca → Marrakech (240 km)</h2>
+<p>L'A7 est la plus belle autoroute du Maroc. En partant avec 100 %, nous avons poussé la vitesse à 130 km/h pour tester les limites de consommation. Résultat : <strong>21,5 kWh/100 km</strong>. Arrivée à Marrakech avec 41 % de batterie restants. Parfait — aucune anxiété de recharge sur toute l'étape. Recharge rapide DC de 40 minutes sur la borne Zev Station à Marrakech Ménara (50 kW disponibles), de 41 % à 82 %.</p>
+
+<h2>Jour 3 : Marrakech → Agadir via le col du Tichka (250 km)</h2>
+<p>La section la plus exigeante du trajet. Le col du Tichka culmine à 2 260 m. Départ avec 82 % de batterie. La montée consomme massivement : jusqu'à 28 kWh/100 km sur les sections à forte pente. Mais la descente récupère : entre 5 et 8 kWh récupérés sur 40 km de descente active en mode B (régénération maximale).</p>
+<p>Bilan net de l'étape : <strong>22,3 kWh/100 km</strong>. Arrivée à Agadir avec 22 % de batterie. On respire.</p>
+
+<blockquote><p>« Sur le Tichka, la MG4 s'est comportée exactement comme prévu : montée gourmande, descente régénératrice. Le bilan énergétique total reste meilleur qu'un thermique sur ce trajet. » — Notre journaliste test</p></blockquote>
+
+<h2>Jour 4 : Agadir → Marrakech par la côte (300 km)</h2>
+<p>La route côtière non autoroutière (vitesse moyenne 90 km/h) s'avère la plus efficiente du voyage : <strong>15,8 kWh/100 km</strong>, soit 405 km d'autonomie théorique à ce rythme. Deux recharges de 20 minutes sur des bornes AC 22 kW (environ 70 km récupérés à chaque arrêt) suffisent à compléter l'étape sereinement.</p>
+
+<h2>Bilan des 4 jours</h2>
+<ul>
+  <li>Distance totale : <strong>1 130 km</strong></li>
+  <li>Consommation moyenne réelle : <strong>19,1 kWh/100 km</strong></li>
+  <li>Coût énergétique total (tarif moyen 1,80 DH/kWh en public) : <strong>~390 DH</strong></li>
+  <li>Même trajet en thermique (6 L/100 km, carburant à 14 DH/L) : <strong>~950 DH</strong></li>
+  <li>Économie réalisée : <strong>560 DH sur 4 jours</strong></li>
+  <li>Nombre de recharges : 6 (3 nocturnes à l'hôtel + 3 sur bornes rapides)</li>
+  <li>Temps de recharge total : environ 3h30</li>
+</ul>
+
+<h2>Notre verdict</h2>
+<p>La MG4 Extended Range est parfaitement capable d'un usage interurbain au Maroc, y compris les longs voyages avec col de montagne. Les seules contraintes : planifier ses recharges à l'avance (l'application MG Pilot le fait automatiquement), accepter des arrêts de 30–40 minutes toutes les 300 km, et préférer les hébergements avec recharge nocturne. Pour un usage quotidien avec Wallbox, il n'y a aucun compromis.</p>
+<p>Coût d'achat MG4 Extended Range : <strong>229 000 DH</strong>. Économies carburant estimées sur 5 ans à 30 000 km/an : environ <strong>85 000 DH</strong>. L'électrique au Maroc, c'est maintenant.</p>
+`,
+  },
 ];
 
 export function formatArticleDate(iso: string): string {
