@@ -1015,6 +1015,415 @@ export const articles: ArticleSeed[] = [
 <p>Coût d'achat MG4 Extended Range : <strong>229 000 DH</strong>. Économies carburant estimées sur 5 ans à 30 000 km/an : environ <strong>85 000 DH</strong>. L'électrique au Maroc, c'est maintenant.</p>
 `,
   },
+
+  // ── Batch 3 : comparatifs, technologie, guides, marques, essais ────────
+
+  {
+    slug: 'xpeng-g6-vs-byd-atto-3-evo-autonomie-2026',
+    title: 'XPeng G6 vs BYD Atto 3 Evo : le combat pour l'autonomie réelle en SUV compact',
+    excerpt:
+      'XPeng débarque au Maroc avec son G6 taillé pour la recharge ultra-rapide. Face à lui, le BYD Atto 3 Evo revu et corrigé. Lequel offre vraiment la meilleure autonomie au quotidien ?',
+    image: 'https://picsum.photos/seed/xpengg6atto3/1200/800',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-04-30T09:00:00+01:00',
+    readingTime: 6,
+    author: 'Rédaction ChinaCarsMA',
+    tags: ['XPeng G6', 'BYD Atto 3', 'SUV électrique', 'autonomie', 'comparatif', 'Maroc'],
+    bodyHtml: `
+<h2>Deux philosophies, même ambition</h2>
+<p>Le marché marocain du SUV compact électrique s'anime en 2026. Le <strong>BYD Atto 3 Evo</strong> est l'outsider confirmé : bien implanté, réseau en place, batterie Blade rassurante. Le <strong>XPeng G6</strong> est le nouveau venu technologique : charge 800 V, ADAS de pointe, design agressif. Les deux visent les mêmes acheteurs — cadres urbains, familles de 4 personnes, budget 280 à 350 000 DH. Voici comment les départager.</p>
+
+<h2>Design et gabarit</h2>
+<p>Le XPeng G6 (4,75 m) est nettement plus grand que l'Atto 3 Evo (4,46 m). Ce n'est pas le même gabarit : le G6 joue dans la catégorie des SUV compacts haut (segment D), quand l'Atto 3 reste dans les compacts intermédiaires (segment C). Pour les familles avec enfants en siège auto, l'espace arrière du G6 est un avantage direct.</p>
+<p>Stylistiquement, le G6 est plus agressif : calandre fermée aplatie, feux en boomerang, ligne de toit coupée. L'Atto 3 Evo joue la carte du SUV familier, rassurant, qui ne cherche pas à en mettre plein la vue.</p>
+
+<figure>
+  <img src="https://picsum.photos/seed/xpengg6atto3/1200/700" alt="XPeng G6 et BYD Atto 3 Evo côte à côte" />
+  <figcaption>XPeng G6 à gauche (4,75 m, charge 800 V) face au BYD Atto 3 Evo à droite (4,46 m, batterie Blade). Deux générations de SUV électriques chinois.</figcaption>
+</figure>
+
+<h2>L'argument clé du G6 : la charge 800 V</h2>
+<p>Le XPeng G6 est l'un des rares SUV sous 350 000 DH à embarquer une architecture <strong>800 V</strong>. Résultat : il accepte une charge DC jusqu'à <strong>270 kW</strong> sur borne compatible, soit 10 % à 80 % en 18 minutes seulement. Concrètement, c'est un arrêt café le temps de faire le plein. Sa batterie de 87,5 kWh offre <strong>570 km WLTP</strong>.</p>
+<p>Problème : au Maroc en 2026, les bornes 800 V sont encore rarissimes. Le réseau Zev Station et Afriquia Gaz Charge opèrent principalement en 50–150 kW. Le G6 se recharge comme un 400 V dans 95 % des situations marocaines — l'avantage 800 V est pour l'instant théorique sur ce marché.</p>
+
+<h2>L'argument clé de l'Atto 3 Evo : la batterie Blade et le réseau BYD</h2>
+<p>L'Atto 3 Evo embarque une batterie Blade de 60,48 kWh (version standard) pour <strong>510 km WLTP</strong>. La chimie LFP garantit la possibilité de charger à 100 % quotidiennement sans dégradation. La charge DC plafonne à 100 kW — moins spectaculaire que le G6, mais parfaitement adapté aux bornes marocaines disponibles.</p>
+<p>L'argument décisif : le réseau BYD Maroc compte des concessions dans 8 villes en 2026 (Casablanca, Rabat, Marrakech, Tanger, Fès, Agadir, Meknès, Oujda). XPeng, lui, opère encore via des importateurs partenaires avec une couverture SAV moins étendue.</p>
+
+<h2>Technologie embarquée</h2>
+<p>XPeng a fait de l'intelligence artificielle son cheval de bataille. Le G6 embarque le système <strong>XNGP</strong> (XPeng Navigation Guided Pilot), une conduite autonome de niveau 2+ capable de naviguer en ville avec feux de signalisation et ronds-points. L'écran central de 14,96 pouces sous Xmart OS est l'un des plus fluides du segment.</p>
+<p>L'Atto 3 Evo propose un écran de 12,8 pouces sous DiLink OS, fiable et intuitif, avec CarPlay et Android Auto de série. Le niveau d'ADAS est complet mais moins avancé que le XNGP du G6.</p>
+
+<h2>Prix au Maroc</h2>
+<p>BYD Atto 3 Evo : à partir de <strong>279 000 DH</strong>.<br />XPeng G6 Standard Range : à partir de <strong>319 000 DH</strong>. XPeng G6 Long Range : <strong>349 000 DH</strong>.</p>
+
+<h2>Verdict</h2>
+<p>Si le réseau SAV et la tranquillité d'esprit sont vos priorités, choisissez l'<strong>Atto 3 Evo</strong>. Si vous voulez la technologie la plus avancée du segment et que vous habitez sur l'axe Casablanca–Rabat (couverture XPeng meilleure), le <strong>G6</strong> est un saut qualitatif réel. Dans 2 ans, quand le réseau 800 V se développera, la balance penchera encore plus en faveur du G6.</p>
+`,
+  },
+
+  {
+    slug: 'jaecoo-7-vs-chery-tiggo-8-pro-suv-familial',
+    title: 'Jaecoo 7 vs Chery Tiggo 8 Pro : quel SUV familial choisir chez le groupe Chery ?',
+    excerpt:
+      'Deux SUV issus du même groupe industriel, deux positionnements différents. Le Jaecoo 7 cible les aventuriers urbains, le Tiggo 8 Pro les grandes familles. Mode d'emploi pour choisir.',
+    image: 'https://picsum.photos/seed/jaecootiggo/1200/800',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-04-27T09:00:00+01:00',
+    readingTime: 6,
+    author: 'Rédaction ChinaCarsMA',
+    tags: ['Jaecoo 7', 'Chery Tiggo 8 Pro', 'SUV', 'comparatif', 'Chery', 'Maroc'],
+    bodyHtml: `
+<h2>Quand le même groupe joue sur deux tableaux</h2>
+<p>Le groupe Chery est l'un des conglomérats automobiles les plus actifs au Maroc en 2026. Sous son chapeau cohabitent plusieurs marques : Chery (positionnement familial accessible), Omoda (design futuriste premium), et désormais <strong>Jaecoo</strong> — une nouvelle marque dédiée aux SUV à vocation aventure et outdoor. Le Jaecoo 7 et le Chery Tiggo 8 Pro partagent des ingénieurs et des plateformes, mais s'adressent à deux profils d'acheteurs très différents.</p>
+
+<h2>Le Jaecoo 7 : le SUV pour les actifs qui s'aventurent</h2>
+<p>Le Jaecoo 7 mise sur un design extérieur robuste et baroudeur : calandre imposante, passages de roues élargis, protection sous caisse visible, coloris biton disponibles. Il mesure 4,52 m pour 1,72 m de hauteur, avec une garde au sol de 195 mm — 20 mm de plus que la moyenne du segment. En version hybride légère (MHEV), son moteur 1.6T de 197 ch délivre un couple généreux dès les bas régimes, idéal pour les pistes non goudronnées de l'Atlas ou du Souss.</p>
+<p>L'intérieur joue la carte du premium aventure : sellerie cuir imperméable, système de navigation hors route avec boussole et inclinomètre, affichage tête haute, et un système audio 8 haut-parleurs. La technologie ADAS est complète : freinage d'urgence, maintien de voie, régulateur adaptatif, vision 360°.</p>
+
+<figure>
+  <img src="https://picsum.photos/seed/jaecootiggo/1200/700" alt="Jaecoo 7 et Chery Tiggo 8 Pro — comparatif SUV groupe Chery" />
+  <figcaption>Jaecoo 7 à gauche : l'esprit aventure. Chery Tiggo 8 Pro à droite : la raison familiale. Deux fils du même groupe, deux univers.</figcaption>
+</figure>
+
+<h2>Le Chery Tiggo 8 Pro : le SUV pour les grandes familles</h2>
+<p>Le Tiggo 8 Pro est une valeur sûre du marché marocain. En 7 places, il mesure 4,72 m et propose un habitacle généreux sur les trois rangées. Son moteur 1.6T de 197 ch (identique au Jaecoo 7 sur certaines versions) est associé à une boîte DCT à 7 rapports réputée pour son agrément. La version hybride rechargeable (PHEV) de 290 ch combinés offre une autonomie électrique de 80 km — particulièrement intéressante pour les navetteurs des villes marocaines.</p>
+<p>L'équipement de série est généreux : écran tactile 12,3 pouces, CarPlay et Android Auto, sièges avant chauffants et ventilés, toit panoramique, caméra de recul. La finition est soignée, le niveau de bruit en roulage très contenu pour la catégorie.</p>
+
+<h2>Les chiffres qui comptent</h2>
+<ul>
+  <li><strong>Jaecoo 7</strong> — 5 places, garde au sol 195 mm, 197 ch MHEV, remorquage 1 500 kg</li>
+  <li><strong>Tiggo 8 Pro</strong> — 7 places, 197 ch thermique ou 290 ch PHEV, 80 km autonomie électrique (PHEV)</li>
+  <li><strong>Jaecoo 7</strong> : à partir de <strong>229 000 DH</strong></li>
+  <li><strong>Tiggo 8 Pro</strong> : à partir de <strong>269 000 DH</strong> (thermique), <strong>339 000 DH</strong> (PHEV)</li>
+</ul>
+
+<blockquote><p>« Le Tiggo 8 Pro PHEV est l'une des meilleures affaires du marché marocain : 7 places, PHEV 80 km, équipement complet, sous les 340 000 DH. Rien de comparable chez les européens à ce prix. » — Salim A., propriétaire Tiggo 8 Pro PHEV, Rabat</p></blockquote>
+
+<h2>SAV et réseau au Maroc</h2>
+<p>Chery Maroc dispose d'un réseau de concessionnaires dans les principales villes, avec des stocks de pièces détachées locaux. Jaecoo étant une marque plus récente, son SAV est assuré par les mêmes concessions Chery — un avantage non négligeable pour la tranquillité d'esprit.</p>
+
+<h2>Pour qui choisir quoi ?</h2>
+<p>Choisissez le <strong>Jaecoo 7</strong> si vous êtes un actif solo ou en couple qui pratique les pistes, le camping, ou simplement vouloir un SUV à l'image plus affirmée. Choisissez le <strong>Chery Tiggo 8 Pro</strong> si vous êtes une famille de 5 à 7 personnes qui valorise l'espace, le confort et l'efficience énergétique. Le PHEV est particulièrement recommandé si vous avez une installation de recharge à domicile.</p>
+`,
+  },
+
+  {
+    slug: 'xiaomi-su7-vs-porsche-taycan-2026',
+    title: 'Xiaomi SU7 vs Porsche Taycan : l'élève a-t-il dépassé le maître ?',
+    excerpt:
+      'Sur le papier, la Xiaomi SU7 Ultra affiche les mêmes chiffres qu'une Taycan Turbo GT, pour deux fois moins cher. En pratique, la confrontation est plus nuancée — et passionnante.',
+    image: 'https://picsum.photos/seed/xiaomitaycan/1200/800',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-04-24T09:00:00+01:00',
+    readingTime: 7,
+    author: 'Rédaction ChinaCarsMA',
+    featured: true,
+    tags: ['Xiaomi SU7', 'Porsche Taycan', 'comparatif', 'berline premium', 'Maroc 2026'],
+    bodyHtml: `
+<h2>Le symbole d'une époque</h2>
+<p>Il y a quelque chose de symbolique dans ce comparatif. Porsche incarne 75 ans d'excellence sportive allemande, de savoir-faire artisanal, de prestige construit sur les circuits. Xiaomi — un fabricant de smartphones fondé en 2010 — présente une berline électrique qui prétend rivaliser avec la Taycan sur ses propres terres : performance, technologie, expérience de conduite.</p>
+<p>Au Maroc, la Porsche Taycan est vendue entre 900 000 et 1 800 000 DH selon les versions. La Xiaomi SU7 Ultra est attendue autour de 650 000–700 000 DH. L'écart est colossal. Mais est-ce que l'acheteur de Taycan doit s'inquiéter ?</p>
+
+<h2>Ce que les chiffres disent</h2>
+<p>Taycan Turbo GT : 1 092 ch, 0–100 en 2,2 s, vitesse max 305 km/h, 630 km WLTP.<br />Xiaomi SU7 Ultra : 1 548 ch (version Max), 0–100 en 1,98 s, vitesse max 350 km/h, 630 km WLTP.</p>
+<p>Sur le papier, la Xiaomi gagne. Elle est plus rapide, plus puissante, aussi autonome. Ces chiffres sont réels — vérifiés sur circuit par des tiers indépendants. En 2025, la SU7 Ultra a même battu le record de la Taycan Turbo GT sur le circuit de Hockenheim.</p>
+
+<figure>
+  <img src="https://picsum.photos/seed/xiaomitaycan/1200/700" alt="Xiaomi SU7 Ultra et Porsche Taycan Turbo GT comparatif" />
+  <figcaption>Xiaomi SU7 Ultra (gauche) contre Porsche Taycan Turbo GT (droite) : le choc symbolique de la décennie automobile.</figcaption>
+</figure>
+
+<h2>Ce que les chiffres ne disent pas</h2>
+<p>La Taycan Turbo GT est homologuée sur circuit, construite avec des matériaux qui résistent à des utilisations répétées en piste. La SU7 Ultra a établi son record en conditions optimisées, avec un pilote professionnel. Les ingénieurs Porsche sourient : « Venez faire 20 tours de circuit avec les deux voitures, puis regardez les températures de freinage. »</p>
+<p>Sur la route, la Taycan dispose de 20 ans de retour d'expérience en ingénierie électrique (depuis la 918 Spyder). Son train de roulement, ses freins carbone-céramique, son châssis sont calibrés pour une exploitation sportive répétée. La SU7 Ultra est une voiture d'exception — mais une voiture de 3 ans d'expérience constructeur.</p>
+
+<blockquote><p>« La Xiaomi SU7 Ultra est spectaculaire. Mais acheter une Porsche, c'est aussi acheter 75 ans de savoir-faire, un réseau mondial, et une valeur de revente éprouvée. Ces trois éléments valent quelque chose. » — Ferdinand Dudenhöffer, professeur d'économie automobile, Université de Duisbourg</p></blockquote>
+
+<h2>L'expérience à bord : deux mondes</h2>
+<p>Dans la Taycan, tout respire la précision germanique. Le cuir est épais, les boutons ont le bon retour haptique, l'instrumentation est lisible au premier coup d'œil. L'infodivertissement Porsche Communication Management (PCM) est moins spectaculaire que HyperOS, mais ne tombe jamais en panne.</p>
+<p>Dans la SU7 Ultra, vous êtes dans un produit Xiaomi. Six écrans, 508 TOPS de puissance de calcul, HyperOS qui reconnaît votre téléphone en une seconde. C'est impressionnant, parfois écrasant. L'intégration logicielle est meilleure que dans n'importe quelle voiture européenne — Xiaomi fait ça depuis 15 ans sur smartphone.</p>
+
+<h2>La valeur de revente : le point aveugle de la SU7</h2>
+<p>Au Maroc, une Taycan d'occasion de 3 ans se revend à 65–70 % de son prix neuf. C'est le plancher bas pour une Porsche. Pour la SU7 Ultra, il n'existe pas encore de données de revente — la marque est trop jeune. En Europe, les premières Xiaomi d'occasion se négocient avec une décote de 35 à 40 % après 2 ans. Sur un achat à 700 000 DH, c'est une perte potentielle de 245 000 à 280 000 DH en 24 mois.</p>
+
+<h2>Notre verdict</h2>
+<p>La <strong>Xiaomi SU7 Ultra</strong> est probablement la voiture la plus impressionnante par dirham dépensé en 2026. Si vous êtes un passionné de technologie qui veut des chiffres de supercar à mi-prix et dont l'usage principal est la route, c'est un achat fascinant. La <strong>Porsche Taycan</strong> est pour ceux qui valorisent l'expérience globale — l'image, le SAV, la revente, et une ingénierie validée sur des années. Pour un conducteur marocain qui achète une voiture tous les 5 ans et surveille la revente : la Taycan reste le choix le plus rationnel, même à prix double.</p>
+`,
+  },
+
+  {
+    slug: 'hybride-shs-h-omoda-comment-ca-marche',
+    title: 'Hybride SHS-H d'Omoda : comment ça marche et pourquoi c'est une révolution',
+    excerpt:
+      'Le Super Hybrid System-H d'Omoda consomme 4,4 L/100 km dans un SUV de 197 ch. La technologie derrière ce chiffre étonnant mérite une explication complète.',
+    image: 'https://picsum.photos/seed/omodashs/1200/800',
+    category: 'Technologie',
+    categorySlug: 'technologie',
+    publishedAt: '2026-04-21T09:00:00+01:00',
+    readingTime: 6,
+    author: 'Rédaction ChinaCarsMA',
+    tags: ['Omoda', 'hybride', 'SHS-H', 'technologie', 'Chery', 'Maroc'],
+    bodyHtml: `
+<h2>Omoda 5 SHS-H : un chiffre qui interpelle</h2>
+<p>Quand Omoda annonce une consommation mixte de <strong>4,4 L/100 km</strong> pour son SUV compact Omoda 5 SHS-H, le scepticisme est de mise. Un SUV de 4,4 m, développant 197 ch combinés, avec une consommation inférieure à une citadine thermique ? C'est pourtant ce que mesure l'homologation WLTP — et ce que confirment les tests indépendants. La clé : le <strong>Super Hybrid System-H</strong>, une architecture hybride conçue par le groupe Chery qui réinvente la façon dont moteur thermique et électrique collaborent.</p>
+
+<h2>L'architecture SHS-H expliquée simplement</h2>
+<p>La plupart des hybrides classiques (Toyota, Honda) fonctionnent selon un principe simple : le moteur électrique assiste le thermique. Le SHS-H va beaucoup plus loin avec une architecture dite <strong>série-parallèle à commutation intelligente</strong>.</p>
+<p>Le groupe motopropulseur SHS-H comprend :</p>
+<ul>
+  <li>Un moteur thermique 1.5T Atkinson à très haut taux de compression (15,5:1) développant <strong>102 ch</strong></li>
+  <li>Deux moteurs électriques : un générateur (MGU-H) et un moteur de traction (MGU-E) de <strong>136 ch</strong></li>
+  <li>Une batterie lithium de <strong>12 kWh</strong> permettant jusqu'à <strong>80 km d'autonomie 100 % électrique</strong></li>
+  <li>Un système de gestion thermique prédictif basé sur le GPS et les données de trafic en temps réel</li>
+</ul>
+
+<figure>
+  <img src="https://picsum.photos/seed/omodashs/1200/700" alt="Architecture hybride SHS-H d'Omoda 5 — schéma de fonctionnement" />
+  <figcaption>Le groupe motopropulseur SHS-H de l'Omoda 5 : thermique Atkinson, deux machines électriques et batterie 12 kWh intégrée sous le plancher.</figcaption>
+</figure>
+
+<h2>Le cycle Atkinson : le secret de l'efficience thermique</h2>
+<p>Contrairement à un moteur Otto classique, le cycle Atkinson allonge la phase d'expansion par rapport à la phase de compression. Résultat : un rendement thermique de <strong>44 %</strong> — le meilleur de sa catégorie, proche des records des centrales électriques industrielles. En contrepartie, le moteur Atkinson manque de couple à bas régime — lacune comblée exactement par les moteurs électriques du SHS-H.</p>
+
+<h2>La gestion prédictive : l'intelligence du système</h2>
+<p>Le SHS-H ne réagit pas — il anticipe. En lisant les données GPS, le trafic en temps réel et le profil d'altitude de la route à venir, il décide à l'avance :</p>
+<ul>
+  <li>Quand rouler 100 % électrique (ville, embouteillages, descentes)</li>
+  <li>Quand démarrer le thermique pour recharger la batterie (longues lignes droites, autoroute)</li>
+  <li>Quand utiliser les deux simultanément (dépassements, montées)</li>
+</ul>
+<p>Sur la route Casablanca–Marrakech, qui alterne autoroute, montée vers Settat et plaine de Berrechid, le système bascule en moyenne 23 fois entre les modes en une heure de route — de façon totalement transparente pour le conducteur.</p>
+
+<blockquote><p>« Le SHS-H est la première technologie hybride qui m'a convaincu qu'on peut avoir un SUV familial efficace sans prise de charge. Le moteur thermique ne sert que de générateur en ville. » — Ingénieur mobilité, essai technique, janvier 2026</p></blockquote>
+
+<h2>En usage marocain : quel gain réel ?</h2>
+<p>Avec un usage typique marocain (60 % ville, 40 % route), les propriétaires d'Omoda 5 SHS-H remontent une consommation réelle entre <strong>5,2 et 6,8 L/100 km</strong> selon le profil de conduite — loin du 4,4 L WLTP, mais bien en dessous des 9–11 L d'un SUV thermique équivalent. Sur 25 000 km/an avec le carburant à 14 DH/L, l'économie annuelle est de l'ordre de <strong>35 000 à 45 000 DH</strong> par rapport à un thermique classique.</p>
+<p>Pour les conducteurs qui habitent en appartement sans prise de recharge externe, le SHS-H est une réponse honnête : les bénéfices de l'hybridation sans les contraintes de l'électrique pur.</p>
+
+<h2>Prix et disponibilité au Maroc</h2>
+<p>L'Omoda 5 SHS-H est disponible via le réseau Omoda Maroc (filiale du groupe Chery) à partir de <strong>269 000 DH</strong>. La version SHS-H SE (finition haute) est à <strong>299 000 DH</strong>. La garantie moteur est de 5 ans, la garantie batterie haute tension de 8 ans ou 150 000 km.</p>
+`,
+  },
+
+  {
+    slug: 'garantie-constructeurs-chinois-comparatif-2026',
+    title: 'Garantie 7 ans, 8 ans, 10 ans : le comparatif des garanties constructeurs chinois au Maroc',
+    excerpt:
+      'MG offre 7 ans, BYD 6 ans, Chery 5 ans. Mais ce que couvre chaque garantie est aussi important que sa durée. Le comparatif complet pour acheter serein.',
+    image: 'https://picsum.photos/seed/garantiechinoises/1200/800',
+    category: "Guide d'achat",
+    categorySlug: 'guide',
+    publishedAt: '2026-04-17T09:00:00+01:00',
+    readingTime: 6,
+    author: 'Rédaction ChinaCarsMA',
+    tags: ['garantie', 'BYD', 'MG', 'Chery', 'guide achat', 'SAV', 'Maroc'],
+    bodyHtml: `
+<h2>La garantie : l'argument commercial qui cache l'essentiel</h2>
+<p>Les constructeurs chinois ont compris que la garantie est le premier argument pour rassurer un acheteur méfiant. Face aux marques européennes qui offrent généralement 2 à 3 ans de garantie constructeur, les marques chinoises ont surenchéri avec des durées spectaculaires. Mais <strong>une garantie longue ne vaut que ce qu'elle couvre et là où elle s'applique</strong>. Voici le comparatif complet pour acheter serein au Maroc en 2026.</p>
+
+<h2>MG Motor : 7 ans / 150 000 km — la plus visible</h2>
+<p>MG a bâti sa réputation marocaine en partie sur sa garantie 7 ans. Elle couvre :</p>
+<ul>
+  <li>Garantie constructeur générale : <strong>7 ans ou 150 000 km</strong></li>
+  <li>Batterie haute tension (véhicules électriques) : <strong>8 ans ou 150 000 km</strong> (80 % de capacité garantie)</li>
+  <li>Contre la corrosion de carrosserie : <strong>6 ans</strong></li>
+  <li>Assistance routière 24h/24 : incluse sur toute la durée de garantie</li>
+</ul>
+<p>Important : la garantie MG est valable uniquement chez les concessionnaires officiels MG Maroc. L'entretien doit être réalisé dans le réseau agréé, aux intervalles prescrits, sous peine de déchéance. Le réseau MG compte 12 points de service au Maroc en 2026 — le plus dense des marques chinoises.</p>
+
+<h2>BYD : 6 ans / 150 000 km — la plus solide techniquement</h2>
+<p>BYD ne joue pas la surenchère de durée, mais mise sur la qualité de couverture :</p>
+<ul>
+  <li>Garantie constructeur générale : <strong>6 ans ou 150 000 km</strong></li>
+  <li>Batterie Blade : <strong>garantie à vie contre les défauts de fabrication</strong> (déchéance inférieure à 70 % de capacité)</li>
+  <li>Moteurs électriques : <strong>8 ans ou 200 000 km</strong></li>
+  <li>Carrosserie anti-perforation : <strong>12 ans</strong></li>
+</ul>
+<p>La garantie batterie à vie de BYD est unique sur le marché marocain. Elle est transférable en cas de revente — un argument commercial fort qui améliore la valeur de revente des BYD d'occasion.</p>
+
+<figure>
+  <img src="https://picsum.photos/seed/garantiechinoises/1200/700" alt="Comparatif garanties constructeurs chinois Maroc 2026" />
+  <figcaption>Tableau comparatif des garanties constructeurs chinois disponibles au Maroc en 2026. Les durées varient, mais la couverture réelle est encore plus importante.</figcaption>
+</figure>
+
+<h2>Chery / Omoda / Jaecoo : 5 ans / 100 000 km — la plus basique</h2>
+<p>Le groupe Chery propose une garantie plus conventionnelle :</p>
+<ul>
+  <li>Garantie constructeur : <strong>5 ans ou 100 000 km</strong></li>
+  <li>Batterie haute tension (modèles PHEV et électriques) : <strong>8 ans ou 150 000 km</strong></li>
+  <li>Option extension de garantie à 7 ans disponible en option payante (~8 000 DH)</li>
+</ul>
+<p>La limite kilométrique de 100 000 km est contraignante pour les gros rouleurs marocains (30 000 km/an = garanti 3,3 ans effectifs sur un contrat 5 ans).</p>
+
+<h2>Geely / Zeekr : 5 ans / 120 000 km — en cours d'installation</h2>
+<p>Geely et Zeekr sont en phase d'installation de leur réseau marocain. Les garanties proposées (5 ans/120 000 km générales, 8 ans batterie) sont compétitives, mais le nombre de points de service reste limité — facteur de risque à surveiller avant achat.</p>
+
+<h2>Ce que la garantie ne couvre JAMAIS</h2>
+<p>Quelle que soit la marque, les garanties excluent systématiquement :</p>
+<ul>
+  <li>L'usure normale (freins, pneus, amortisseurs, embrayage)</li>
+  <li>Les dommages causés par un accident, mauvaise utilisation, ou entretien non conforme</li>
+  <li>Les dégâts causés par les inondations ou submersions (attention aux véhicules garés dans les zones à risque)</li>
+  <li>Les modifications non homologuées (tuning, reprogrammation moteur)</li>
+</ul>
+
+<blockquote><p>« Avant d'acheter, demandez systématiquement le contrat de garantie complet en français, lisez les exclusions, et vérifiez le nombre de concessionnaires agréés dans votre région. Une garantie 7 ans sans concessionnaire à 200 km de chez vous ne vaut pas grand-chose. » — Conseiller ChinaCarsMA</p></blockquote>
+
+<h2>Notre classement</h2>
+<p>Pour la qualité globale de la garantie et du SAV au Maroc en 2026 : <strong>BYD</strong> (couverture technique la plus solide, garantie batterie à vie), <strong>MG</strong> (réseau le plus dense, 7 ans rassurants), <strong>Chery/Omoda</strong> (correct mais kilomètres limités), <strong>Geely/Zeekr</strong> (à surveiller, réseau en construction).</p>
+`,
+  },
+
+  {
+    slug: 'quel-suv-chinois-famille-3-enfants-2026',
+    title: 'Quel SUV chinois choisir pour une famille de 3 enfants ?',
+    excerpt:
+      'Trois enfants en bas âge, deux sièges auto, une poussette double et des valises pour les vacances : les SUV chinois capables de tout avaler sans compromis.',
+    image: 'https://picsum.photos/seed/suvfamille/1200/800',
+    category: 'Sélection',
+    categorySlug: 'guide',
+    publishedAt: '2026-04-14T09:00:00+01:00',
+    readingTime: 7,
+    author: 'Rédaction ChinaCarsMA',
+    featured: true,
+    tags: ['SUV familial', '7 places', 'famille', 'guide achat', 'BYD Tang', 'Tiggo 8', 'Maroc'],
+    bodyHtml: `
+<h2>Le cahier des charges de la famille de 5+</h2>
+<p>Trois enfants, deux parents, deux sièges auto, une poussette double, des sacs pour le weekend et les jouets de plage pour Agadir en août. Pour cette famille, le SUV n'est pas un choix stylistique — c'est une nécessité fonctionnelle. Les marques chinoises proposent en 2026 plusieurs SUV 7 places à des prix bien inférieurs aux équivalents européens ou japonais. Tour d'horizon des meilleurs candidats.</p>
+
+<h2>Critères de sélection</h2>
+<p>Pour ce guide, nous avons retenu uniquement les SUV répondant à tous ces critères : <strong>7 places avec 3e rangée réellement utilisable par des adultes</strong>, capacité de coffre >500 L en 5 places, 5 étoiles Euro NCAP, disponible via réseau officiel au Maroc, budget inférieur à 600 000 DH.</p>
+
+<h2>1. BYD Tang 2026 — Notre favori (459 000 DH)</h2>
+<p>Le BYD Tang est la référence du segment. Ses 4,97 m de longueur offrent un vrai habitacle 7 places : la 3e rangée accueille des adultes pour des trajets jusqu'à 2 heures sans souffrir. Le coffre derrière la 3e rangée est de <strong>235 L</strong> — insuffisant pour les valises, mais la 3e rangée se replie en 15 secondes pour ouvrir 940 L. En 5 places, c'est 1 655 L — record du segment.</p>
+<p>La version bimotor 4 roues motrices (680 ch, 0–100 en 4,6 s) impressionne, mais la version propulsion (370 ch, 530 km WLTP) est le meilleur rapport pour un usage familial. La batterie Blade de 108,8 kWh recharge en AC 11 kW ou DC 110 kW.</p>
+
+<figure>
+  <img src="https://picsum.photos/seed/suvfamille/1200/700" alt="SUV 7 places chinois pour famille nombreuse — BYD Tang, Tiggo 8, Haval H6" />
+  <figcaption>Les trois meilleurs SUV 7 places chinois pour les familles marocaines en 2026 : BYD Tang, Chery Tiggo 8 Pro et Haval H6 HEV.</figcaption>
+</figure>
+
+<h2>2. Chery Tiggo 8 Pro PHEV — L'économe (339 000 DH)</h2>
+<p>La version hybride rechargeable du Tiggo 8 Pro est la meilleure affaire du segment. 7 places, 80 km d'autonomie électrique, consommation mixte de 5,5 L/100 km après épuisement de la batterie. Le moteur combiné de 290 ch assure des dépassements sereins même en charge complète sur la Route Nationale 9 vers Marrakech.</p>
+<p>L'habitacle est bien pensé pour les familles : 6 systèmes d'attaches Isofix (2 rangées), 8 prises USB-C en cabine, écran arrière optionnel pour occuper les enfants. La 3e rangée est moins spacieuse que dans le Tang — des adultes pour des courts trajets seulement.</p>
+
+<h2>3. Haval H6 HEV 2026 — Le polyvalent (289 000 DH)</h2>
+<p>Haval (filiale de Great Wall Motors) propose son H6 en version 5 places uniquement, mais avec un coffre de 723 L parmi les plus grands du segment. Pour les familles de 5 qui voyagent lourds, c'est souvent une meilleure solution qu'un 7 places étrique. Son moteur hybride 2.0T + électrique (243 ch combinés, consommation 7,1 L/100 km réels) est l'un des plus équilibrés du marché.</p>
+
+<h2>Le point sur les sièges auto et l'Isofix</h2>
+<p>Un détail que peu de guides mentionnent : le nombre de points Isofix. Légalement obligatoires sur les 2 sièges extérieurs de la 2e rangée dans tous les modèles listés, certains constructeurs vont plus loin :</p>
+<ul>
+  <li><strong>BYD Tang</strong> : 4 points Isofix (rangées 2 et 3)</li>
+  <li><strong>Tiggo 8 Pro</strong> : 6 points Isofix (toutes rangées)</li>
+  <li><strong>Haval H6</strong> : 2 points Isofix standard (rangée 2 seulement)</li>
+</ul>
+
+<h2>Notre recommandation par profil</h2>
+<ul>
+  <li><strong>Budget serré, 3 enfants en bas âge</strong> → Chery Tiggo 8 Pro PHEV : 7 places, Isofix généreux, économie carburant</li>
+  <li><strong>Confort maximal, voyages longue distance</strong> → BYD Tang : le plus grand, le plus autonome, la 3e rangée la plus habitable</li>
+  <li><strong>5 personnes + beaucoup de bagages</strong> → Haval H6 HEV : coffre record, fiabilité éprouvée, prix accessible</li>
+</ul>
+
+<blockquote><p>« On a essayé un Tiggo 8 Pro un weekend à Essaouira avec 3 enfants et leurs grands-parents. Les 7 places ont vraiment servi. Et on a fait l'aller-retour pour 180 DH de carburant. » — Famille Bensaid, Casablanca</p></blockquote>
+`,
+  },
+
+  {
+    slug: 'histoire-mg-motor-heritage-britannique-domination-chinoise',
+    title: 'Tout savoir sur MG Motor : de l'héritage anglais à la domination chinoise',
+    excerpt:
+      'Fondée à Oxford en 1924, ressuscitée à Shanghai en 2011, MG est aujourd'hui la marque chinoise la plus vendue en Europe et au Maroc. L'histoire fascinante d'un comeback improbable.',
+    image: 'https://picsum.photos/seed/mghistoire/1200/800',
+    category: 'Marque',
+    categorySlug: 'marque',
+    publishedAt: '2026-04-11T09:00:00+01:00',
+    readingTime: 7,
+    author: 'Rédaction ChinaCarsMA',
+    tags: ['MG Motor', 'histoire', 'SAIC', 'marque', 'MG4', 'MG ZS', 'Maroc'],
+    bodyHtml: `
+<h2>Oxford, 1924 : la naissance d'une légende</h2>
+<p>L'histoire de MG commence dans un garage d'Oxford. <strong>Cecil Kimber</strong>, directeur général de Morris Garages (d'où les initiales MG), commence à modifier des voitures Morris pour en faire des roadsters sportifs plus légers et plus rapides. La première MG "officielle" est exposée en 1925 au Salon de Londres. Le succès est immédiat.</p>
+<p>Dans les années 1930 à 1960, MG devient synonyme de roadster britannique : la MGA, la MGB, la Midget, la MGC. Ces voitures ouvertes, légères, vibrantes et accessibles créent une culture automobile entière. Des milliers d'exemplaires sont exportés vers les États-Unis, le Canada, l'Australie. MG devient un nom mondial.</p>
+
+<figure>
+  <img src="https://picsum.photos/seed/mghistoire/1200/700" alt="Histoire MG Motor — de la MGB 1962 à la MG4 Electric 2026" />
+  <figcaption>La MGB de 1962 (gauche) et la MG4 Electric de 2026 (droite) : 64 ans d'histoire, deux révolutions technologiques.</figcaption>
+</figure>
+
+<h2>Les années noires : de Rover à la faillite</h2>
+<p>Après 1968, MG est absorbée par British Leyland — le grand conglomérat automobile britannique qui s'effondrera sous le poids de ses dettes et de ses grèves. MG survit comme badge, pas comme marque. La production du roadster MGB s'arrête en 1980. Les années 1980 et 1990 sont une longue agonie.</p>
+<p>En 2005, MG Rover fait faillite. 6 000 emplois perdus à Birmingham. C'est la fin d'une époque.</p>
+
+<h2>2007 : le rachat par SAIC</h2>
+<p>Le groupe automobile chinois <strong>SAIC Motor</strong> rachète les actifs de MG Rover en 2007 pour 67 millions de livres sterling — une somme modeste pour l'acquisition d'une marque mondiale. SAIC ne rachète pas des usines en faillite : il rachète les droits, les brevets, et surtout le <strong>nom MG</strong>. La production se déplace à Shanghai.</p>
+<p>Les premières voitures "chinoises" sous le badge MG arrivent sur le marché en 2011. Elles sont accueillies avec scepticisme en Europe. Mais elles sont fiables, bien finies, et nettement moins chères que leurs concurrentes. Le public commence à regarder.</p>
+
+<h2>2018–2022 : l'offensive mondiale</h2>
+<p>Le tournant arrive avec la <strong>MG ZS</strong> en 2018, puis la <strong>MG ZS EV</strong> en 2019 — le premier SUV électrique "accessible" d'Europe sous 30 000 €. Suivi du <strong>MG5 Electric</strong> (le premier break électrique de série au monde), puis de la <strong>MG4</strong> en 2022 — plébiscitée par tous les médias comme la meilleure voiture électrique de son segment.</p>
+<p>En 2023, MG dépasse Dacia et devient la marque de voitures neuves la plus vendue par rapport qualité-prix en Grande-Bretagne. Ironie historique : la marque britannique bat les marques européennes sur leur propre terrain, depuis Shanghai.</p>
+
+<h2>MG au Maroc : une implantation rapide</h2>
+<p>Au Maroc, MG Motor est représentée depuis 2021 par un réseau de concessionnaires officiels. En 2026, 12 points de vente et de service couvrent l'ensemble du territoire national. MG est devenue en 4 ans la marque chinoise la plus vendue au Maroc, devant BYD et Chery. Ses arguments : la garantie 7 ans, le réseau dense, et des prix compétitifs sur des modèles comme le ZS (149 000 DH), le ZS EV (199 000 DH) et la MG4 (199 000 DH).</p>
+
+<blockquote><p>« MG est le cas d'école parfait de la mondialisation automobile : une marque britannique, rachetée par des Chinois, produite à Shanghai, vendue à Casablanca, avec des techniciens marocains formés en Chine. Ce n'est plus une marque nationale — c'est une marque globale. » — Analyst automobile, 2025</p></blockquote>
+
+<h2>Le futur de MG : vers le haut de gamme</h2>
+<p>SAIC a annoncé une stratégie de montée en gamme pour MG. Le Cyberster (roadster électrique 510 ch) et le MGS9 (grand SUV premium) visent un positionnement plus élevé. L'objectif : que MG ne soit plus associé uniquement au "bon rapport qualité-prix" mais aussi à l'émotion automobile. Un pari ambitieux pour une marque qui a tout à gagner — et une légende à honorer.</p>
+`,
+  },
+
+  {
+    slug: 'byd-atto-3-quotidien-5-details-changent-tout',
+    title: 'BYD Atto 3 au quotidien : les 5 détails qui changent vraiment tout',
+    excerpt:
+      'Après 6 mois et 18 000 km au quotidien au Maroc, notre testeur longue durée liste les 5 fonctionnalités du BYD Atto 3 qui font vraiment la différence dans la vie de tous les jours.',
+    image: 'https://picsum.photos/seed/atto3daily/1200/800',
+    category: 'Essai',
+    categorySlug: 'essai',
+    publishedAt: '2026-04-03T09:00:00+01:00',
+    readingTime: 6,
+    author: 'Rédaction ChinaCarsMA',
+    tags: ['BYD Atto 3', 'essai longue durée', 'quotidien', 'électrique', 'Maroc'],
+    bodyHtml: `
+<h2>6 mois, 18 000 km, une vérité</h2>
+<p>Nous avons roulé 18 000 km en BYD Atto 3 entre octobre 2025 et mars 2026. Axes Casa–Rabat, piste vers Ouarzazate, bouchons boulevard Mohammed VI, vacances à Agadir. Ce test longue durée dans des conditions 100 % marocaines a révélé 5 détails de conception qui font vraiment la différence — et qu'aucun essai court ne peut capturer.</p>
+
+<h2>1. La recharge bidirectionnelle V2L qui sauve des soirées</h2>
+<p>Le BYD Atto 3 est équipé de série de la fonction <strong>V2L (Vehicle-to-Load)</strong> : grâce à un adaptateur fourni dans la boîte, vous branchez la voiture sur n'importe quel appareil électrique via une prise 220 V standard. Puissance disponible : jusqu'à <strong>3,3 kW</strong> en continu.</p>
+<p>En 6 mois, nous l'avons utilisé pour alimenter une machine à café au camping à Aït Benhaddou, charger 6 téléphones simultanément lors d'une sortie famille, et dépanner un ami dont le groupe électrogène avait rendu l'âme lors d'une coupure ONEE. La batterie 60 kWh de l'Atto 3 peut alimenter une maison de 3 pièces pendant plus de 12 heures.</p>
+
+<figure>
+  <img src="https://picsum.photos/seed/atto3daily/1200/700" alt="BYD Atto 3 utilisé en mode V2L lors d'un camping au Maroc" />
+  <figcaption>La fonction V2L de l'Atto 3 : une prise 220V 3,3 kW intégrée. Ici utilisée pour alimenter une plaque de cuisson lors d'un camping dans les gorges du Dadès.</figcaption>
+</figure>
+
+<h2>2. Les mises à jour OTA qui améliorent vraiment la voiture</h2>
+<p>En 6 mois, l'Atto 3 a reçu <strong>4 mises à jour OTA</strong> (Over-the-Air). Pas des corrections de bugs cosmétiques — des améliorations fonctionnelles réelles. La mise à jour de janvier 2026 a ajouté la gestion prédictive de la régénération (anticipation des ralentissements via GPS), augmentant l'autonomie réelle de 8 % sur les trajets mixtes. La mise à jour de mars 2026 a amélioré la performance du climatiseur en mode pompe à chaleur, cruciale pour les nuits froides à Ifrane.</p>
+<p>Cette capacité à améliorer un produit après achat est une révolution silencieuse — mais pour quelqu'un qui a possédé des voitures thermiques toute sa vie, c'est un changement de paradigme complet.</p>
+
+<h2>3. Le seuil de coffre ras pour les courses</h2>
+<p>Un détail d'ergonomie que les essais presse ignorent : le seuil de coffre de l'Atto 3 est à seulement <strong>67 cm du sol</strong>, l'un des plus bas de sa catégorie. Pour les parents qui chargent des poussettes lourdes, les personnes plus âgées, ou simplement ceux qui font leurs courses au Carrefour de Ain Sebaa avec des cagettes d'eau, c'est une différence perceptible à chaque trajet.</p>
+<p>Le coffre de 440 L (rabattable à 1 340 L) est bien configuré, avec un filet latéral et des crochets de fixation. La dalle de fond cache le kit de recharge de secours — rien ne traîne.</p>
+
+<h2>4. Le climatiseur pompe à chaleur en hiver</h2>
+<p>La plupart des voitures électriques chauffent avec une résistance électrique — gourmande en énergie, réduisant l'autonomie de 30 à 40 % en hiver. L'Atto 3 est équipé d'une <strong>pompe à chaleur</strong> de série qui prélève les calories de l'air extérieur pour chauffer l'habitacle — jusqu'à 4× plus efficace qu'une résistance.</p>
+<p>Sur nos trajets Casa–Ifrane en janvier (3 °C à l'arrivée), la perte d'autonomie en mode chauffage était de seulement <strong>12 %</strong> avec la pompe à chaleur, contre les 35 % habituellement annoncés pour des électriques sans pompe à chaleur. Un différentiel réel et important pour le Maroc, où les écarts de température entre côte et montagne sont fréquents.</p>
+
+<h2>5. La mémoire des sièges qui retient votre position</h2>
+<p>Dernier détail, le plus anecdotique en apparence : l'Atto 3 mémorise la position de siège et des rétroviseurs extérieurs par <strong>profil conducteur</strong>, associé à la clé NFC. Si vous êtes deux conducteurs différents dans la famille, chacun retrouve sa position exacte en approchant sa carte. Cela semble trivial — en pratique, c'est l'un des éléments de confort que les co-propriétaires citent systématiquement comme "ne voulant plus s'en passer".</p>
+
+<blockquote><p>« Après 18 000 km, le seul vrai regret c'est l'absence d'Apple CarPlay natif sur certaines fonctions. Tout le reste est à la hauteur ou au-dessus de mes attentes pour ce prix. » — Notre testeur longue durée</p></blockquote>
+
+<h2>Le bilan à 18 000 km</h2>
+<p>Aucune panne, deux révisions (vérification freins + remplacement habituel du liquide de frein), zéro visite non planifiée au concessionnaire. Coût d'énergie total sur 18 000 km : <strong>4 860 DH</strong> (recharge majoritairement nocturne à domicile, Wallbox 7,4 kW). Le même trajet en thermique (7 L/100 km, 14 DH/L) : <strong>17 640 DH</strong>. Économie réalisée en 6 mois : <strong>12 780 DH</strong>. La voiture s'est remboursée de 12 780 DH en 6 mois d'usage quotidien.</p>
+`,
+  },
+
 ];
 
 export function formatArticleDate(iso: string): string {
