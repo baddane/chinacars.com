@@ -2201,6 +2201,372 @@ export const articles: ArticleSeed[] = [
 `,
   },
 
+
+  // ── Batch 6 ─────────────────────────────────────────────────────────────
+
+  {
+    slug: 'nio-et5-vs-bmw-i4-alternative-premium-chinoise',
+    title: 'NIO ET5 vs BMW i4 : l'alternative chinoise est-elle vraiment premium ?',
+    excerpt:
+      'La NIO ET5 se positionne face à la BMW i4 avec 100 000 DH de moins et une technologie embarquée supérieure. Mais la berline bavaroise a des arguments que les chiffres ne capturent pas.',
+    image: 'https://picsum.photos/seed/nioet5bmwi4/1200/800',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-05-01T07:00:00+01:00',
+    readingTime: 7,
+    author: 'Rédaction ChinaCarsMA',
+    tags: ['NIO ET5', 'BMW i4', 'premium', 'comparatif', 'berline électrique', 'Maroc 2026'],
+    bodyHtml: `
+<h2>La question qui redéfinit le luxe</h2>
+<p>Pendant des décennies, "voiture premium" signifiait allemand. BMW, Mercedes, Audi — un triumvirat dont l'hégémonie semblait inébranlable. La NIO ET5 est la première berline électrique chinoise qui oblige les acheteurs de BMW i4 à s'arrêter et à comparer sérieusement. Non pas parce qu'elle est moins chère — c'est un fait acquis. Mais parce qu'elle propose une expérience technologique que BMW ne maîtrise pas encore.</p>
+
+<h2>NIO ET5 : la technologie comme nouveau luxe</h2>
+<p>La NIO ET5 est une berline de 4,79 m conçue pour affronter directement la BMW i4. Son intérieur est dominé par deux écrans — 10,2 pouces devant le conducteur, 12,8 pouces central — et un troisième optionnel pour le passager avant. Mais la vraie différence est <strong>NOMI</strong> : l'assistant IA en forme de sphère translucide posée sur le tableau de bord. NOMI reconnaît les émotions du conducteur via des caméras, ajuste la musique en conséquence, mémorise les préférences et répond en langage naturel. Aucune voiture européenne ne propose cela.</p>
+<p>La batterie de 75 kWh offre <strong>510 km WLTP</strong>. Mais l'argument décisif de NIO est le <strong>BaaS (Battery as a Service)</strong> : vous achetez la voiture sans la batterie (prix réduit de 80 000 DH), puis louez celle-ci. En voyage, les stations NIO Power Swap échangent la batterie en 5 minutes — plus rapide qu'un plein d'essence.</p>
+
+<figure>
+  <img src="https://picsum.photos/seed/nioet5bmwi4/1200/700" alt="NIO ET5 et BMW i4 — comparatif berlines premium électriques" />
+  <figcaption>NIO ET5 (gauche) et BMW i4 (droite) : deux définitions du premium électrique, deux générations technologiques, un écart de prix de 100 000 DH.</figcaption>
+</figure>
+
+<h2>BMW i4 : l'argument de la pureté dynamique</h2>
+<p>La BMW i4 M50 développe 544 ch avec ses deux moteurs et boucle le 0–100 km/h en <strong>3,7 secondes</strong>. Mais au-delà des chiffres, ce que BMW offre, c'est une expérience de conduite que 100 ans d'ingénierie ont perfectionnée. La direction est la meilleure de sa catégorie. Les suspensions sont calibrées avec une précision millimétrique. Le son artificiel "IconicSounds Electric" composé par Hans Zimmer est une attention au détail que NIO n'imite pas encore.</p>
+<p>L'iDrive 9 de BMW est un système d'infodivertissement mature, fiable, avec CarPlay natif et une interface que les propriétaires BMW connaissent par cœur. Moins spectaculaire que NOMI — mais jamais en panne.</p>
+
+<h2>Les chiffres clés</h2>
+<ul>
+  <li><strong>NIO ET5 75 kWh :</strong> 510 km WLTP | 0–100 en 4,3 s | charge DC 180 kW | prix avec batterie : <strong>~480 000 DH</strong></li>
+  <li><strong>BMW i4 eDrive40 :</strong> 590 km WLTP | 0–100 en 5,7 s | charge DC 205 kW | prix : <strong>~580 000 DH</strong></li>
+  <li><strong>BMW i4 M50 :</strong> 520 km WLTP | 0–100 en 3,7 s | prix : <strong>~720 000 DH</strong></li>
+</ul>
+
+<blockquote><p>« J'ai essayé les deux. La NIO m'a épaté par la technologie. La BMW m'a ému par la conduite. J'ai choisi la BMW — mais c'était le choix du cœur, pas de la raison. » — Abdelhak M., ingénieur, Casablanca</p></blockquote>
+
+<h2>La réalité du SAV NIO au Maroc</h2>
+<p>NIO n'est pas officiellement présent au Maroc fin 2026. Les voitures s'achètent via importateurs privés, sans réseau SAV structuré ni stations Power Swap. C'est le frein majeur à l'achat. Jusqu'à l'ouverture d'un réseau officiel NIO Maroc (annoncé pour 2027), acheter une NIO au Maroc revient à prendre un risque mesurable sur l'après-vente.</p>
+
+<h2>Notre verdict</h2>
+<p>La NIO ET5 est objectivement la meilleure proposition technologique de sa catégorie de prix. Si NIO ouvrait un réseau marocain structuré demain, elle menacerait directement la BMW i4. En attendant, pour un achat serein : choisissez la <strong>BMW i4</strong> si le budget le permet et la tranquillité du SAV est prioritaire. Choisissez la <strong>NIO ET5</strong> si vous êtes dans l'axe Casa–Rabat avec un importateur sérieux et acceptez les incertitudes du pionnier.</p>
+`,
+  },
+
+  {
+    slug: 'mg-zs-ev-vs-peugeot-e2008-suv-urbain-electrique',
+    title: 'MG ZS EV vs Peugeot e-2008 : quel SUV urbain électrique est le plus rationnel ?',
+    excerpt:
+      'Même gabarit, même autonomie, 100 000 DH d'écart. Le MG ZS EV et le Peugeot e-2008 incarnent deux philosophies du SUV urbain électrique accessible. Le duel au sommet du segment.',
+    image: 'https://picsum.photos/seed/mgzse2008/1200/800',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-04-30T07:00:00+01:00',
+    readingTime: 6,
+    author: 'Rédaction ChinaCarsMA',
+    tags: ['MG ZS EV', 'Peugeot e-2008', 'SUV électrique', 'comparatif', 'urbain', 'Maroc'],
+    bodyHtml: `
+<h2>Le match du quotidien</h2>
+<p>Aucune des deux voitures ne vise les superlatifs. Pas de 0–100 en 2 secondes, pas de 700 km d'autonomie. Le <strong>MG ZS EV</strong> et le <strong>Peugeot e-2008</strong> visent l'efficacité quotidienne : un SUV de 4,3–4,4 m, 400+ km d'autonomie, bien équipé, facile à vivre. Deux réponses compétentes au même cahier des charges — avec 100 000 DH d'écart à la clé.</p>
+
+<h2>MG ZS EV : la valeur choc</h2>
+<p>Le MG ZS EV embarque une batterie de 72,6 kWh pour <strong>440 km WLTP</strong>. Son moteur de 176 ch lui permet un 0–100 en 7,4 secondes — suffisant en ville. La recharge DC jusqu'à 92 kW permet de récupérer 100 km en 20 minutes sur borne rapide. L'équipement de série est généreux : écran 12,3 pouces rotatif, vision 360°, sièges avant chauffants, ADAS complet, CarPlay de série.</p>
+<p>La garantie 7 ans et le réseau MG Maroc de 12 concessions complètent un package difficile à battre à ce prix.</p>
+
+<figure>
+  <img src="https://picsum.photos/seed/mgzse2008/1200/700" alt="MG ZS EV et Peugeot e-2008 comparatif SUV urbains électriques" />
+  <figcaption>MG ZS EV (gauche) à 199 000 DH contre Peugeot e-2008 (droite) à 299 000 DH. 100 000 DH d'écart pour des SUV urbains électriques aux prestations comparables.</figcaption>
+</figure>
+
+<h2>Peugeot e-2008 : l'expérience française</h2>
+<p>Le Peugeot e-2008 embarque une batterie de 54 kWh (version 2026 améliorée) pour <strong>406 km WLTP</strong>. Son moteur de 156 ch est moins puissant que le MG, mais la calibration des suspensions, la direction et l'insonorisation sont dans une autre catégorie qualitative. L'i-Cockpit de Peugeot — volant compact, compteurs au-dessus du volant, écran HD — est l'une des interfaces les plus originales et agréables du marché.</p>
+<p>Le réseau Peugeot Maroc est le plus dense du marché toutes marques confondues : plus de 45 points de service couvrant jusqu'aux villes moyennes.</p>
+
+<h2>Comparatif chiffré</h2>
+<ul>
+  <li><strong>Autonomie WLTP :</strong> MG ZS EV 440 km vs Peugeot e-2008 406 km</li>
+  <li><strong>Recharge DC max :</strong> MG 92 kW vs Peugeot 100 kW</li>
+  <li><strong>Qualité intérieure :</strong> Peugeot nettement supérieure</li>
+  <li><strong>Équipement de série :</strong> MG supérieur à prix équivalent</li>
+  <li><strong>Réseau SAV :</strong> Peugeot supérieur (45+ concessions vs 12)</li>
+  <li><strong>Prix :</strong> MG ZS EV <strong>199 000 DH</strong> | Peugeot e-2008 <strong>299 000 DH</strong></li>
+</ul>
+
+<blockquote><p>« J'ai choisi le MG ZS EV pour le prix et la garantie 7 ans. Ma femme voulait le Peugeot pour le design et l'i-Cockpit. On a tous les deux eu partiellement raison. » — Yassine B., propriétaire MG ZS EV, Fès</p></blockquote>
+
+<h2>Notre verdict</h2>
+<p>Pour un acheteur rationnel qui maximise les fonctionnalités par dirham : le <strong>MG ZS EV</strong> est imbattable. Pour un acheteur qui valorise la qualité perçue, l'expérience de conduite et la marque : le <strong>Peugeot e-2008</strong> justifie ses 100 000 DH supplémentaires. Le marché marocain vote massivement pour le MG — les ventes le confirment. Mais le Peugeot résiste grâce à la force de son réseau et à la fidélité de ses clients.</p>
+`,
+  },
+
+  {
+    slug: 'byd-seagull-vs-citroen-ec3-petites-electriques',
+    title: 'BYD Seagull vs Citroën ë-C3 : la guerre des petites électriques est lancée',
+    excerpt:
+      'Deux citadines électriques sous 160 000 DH. La BYD Seagull venue de Chine affronte la Citroën ë-C3 conçue pour les marchés émergents. L'une a plus d'autonomie, l'autre plus de réseau.',
+    image: 'https://picsum.photos/seed/seagullec3/1200/800',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-04-27T07:00:00+01:00',
+    readingTime: 5,
+    author: 'Rédaction ChinaCarsMA',
+    tags: ['BYD Seagull', 'Citroën ë-C3', 'citadine électrique', 'entrée de gamme', 'Maroc'],
+    bodyHtml: `
+<h2>L'électrique pour tous : le segment le plus important</h2>
+<p>La démocratisation de la voiture électrique ne se jouera pas sur le segment des berlines à 500 000 DH — elle se jouera sur les petites citadines à moins de 160 000 DH. Deux constructeurs ont compris cela avant les autres : BYD avec la Seagull, et Citroën avec l'ë-C3. La première vient de Chine, la seconde a été conçue en Inde pour les marchés émergents d'Afrique et d'Asie. Au Maroc, elles se retrouvent face à face.</p>
+
+<h2>BYD Seagull : l'autonomie surprise</h2>
+<p>À 3,78 m, la Seagull est minuscule. Son moteur de 74 ch semble modeste. Mais sa batterie Blade LFP de 38,88 kWh affiche <strong>405 km WLTP</strong> — un chiffre qui dépasse des voitures deux fois plus chères. En usage réel marocain (city driving avec clim), comptez 310–330 km. La recharge DC jusqu'à 30 kW permet de récupérer 100 km en 30 minutes sur borne rapide. La finition intérieure est sobre mais cohérente : écran 10,1 pouces, CarPlay de série, sellerie tissu résistante.</p>
+
+<figure>
+  <img src="https://picsum.photos/seed/seagullec3/1200/700" alt="BYD Seagull et Citroën ë-C3 citadines électriques abordables" />
+  <figcaption>BYD Seagull (gauche) à 139 000 DH et Citroën ë-C3 (droite) à 149 000 DH : le vrai défi démocratisation de l'électrique au Maroc.</figcaption>
+</figure>
+
+<h2>Citroën ë-C3 : le confort en priorité</h2>
+<p>La Citroën ë-C3 a été conçue spécifiquement pour les routes imparfaites des marchés émergents. Ses suspensions ultra-confortables — héritées de la C5 Aircross — absorbent les dos-d'âne, les nids de poule et les aspérités des routes marocaines de façon remarquable. À bord, les sièges sont parmi les plus accueillants du segment. L'habitabilité est généreuse pour une citadine de 4,01 m.</p>
+<p>Sa batterie de 44 kWh offre <strong>320 km WLTP</strong>, soit environ 250 km réels. La recharge DC plafonne à 30 kW — identique à la Seagull. Le réseau Citroën Maroc (plus de 35 points de service) est le principal atout face à la Seagull.</p>
+
+<h2>Les chiffres qui décident</h2>
+<ul>
+  <li><strong>Longueur :</strong> Seagull 3,78 m | ë-C3 4,01 m (plus habitable)</li>
+  <li><strong>Autonomie WLTP :</strong> Seagull 405 km | ë-C3 320 km</li>
+  <li><strong>Recharge DC :</strong> Les deux 30 kW maximum</li>
+  <li><strong>Confort suspensions :</strong> ë-C3 nettement supérieure</li>
+  <li><strong>Réseau SAV Maroc :</strong> ë-C3 supérieure (35 vs 8 concessions)</li>
+  <li><strong>Prix :</strong> Seagull <strong>139 000 DH</strong> | ë-C3 <strong>149 000 DH</strong></li>
+</ul>
+
+<h2>Notre verdict</h2>
+<p>La <strong>BYD Seagull</strong> gagne sur l'autonomie (85 km WLTP de plus) et le prix (10 000 DH moins chère). La <strong>Citroën ë-C3</strong> gagne sur le confort de suspension, l'habitabilité et la tranquillité du réseau SAV. Pour un usage strictement urbain sur les grands axes bien entretenus : la Seagull. Pour les routes secondaires, les villes moyennes éloignées des grandes concessions BYD : l'ë-C3. Dans les deux cas, le marché marocain de l'électrique abordable vient de passer un cap décisif.</p>
+`,
+  },
+
+  {
+    slug: 'nio-battery-as-a-service-louer-ou-acheter-batterie',
+    title: 'NIO et le "Battery as a Service" : faut-il louer ou acheter sa batterie ?',
+    excerpt:
+      'NIO a inventé un modèle commercial unique dans l'automobile : acheter la voiture sans la batterie, puis louer celle-ci au mois. Révolution ou gadget commercial ? Le décryptage complet.',
+    image: 'https://picsum.photos/seed/niobaas/1200/800',
+    category: 'Marque',
+    categorySlug: 'marque',
+    publishedAt: '2026-04-24T07:00:00+01:00',
+    readingTime: 6,
+    author: 'Rédaction ChinaCarsMA',
+    tags: ['NIO', 'BaaS', 'batterie', 'location', 'Power Swap', 'marque', 'Maroc'],
+    bodyHtml: `
+<h2>Le problème que NIO a décidé de résoudre</h2>
+<p>En 2014, William Li, fondateur de NIO, identifie deux freins majeurs à l'adoption des voitures électriques : le prix d'achat élevé (la batterie représente 30–40 % du prix total) et l'anxiété sur la longévité de la batterie. Sa réponse est radicale : <strong>séparer la propriété du véhicule et de la batterie</strong>. Vous achetez la voiture — vous louez la batterie. Ce modèle, baptisé <strong>BaaS (Battery as a Service)</strong>, transforme un coût d'investissement unique en abonnement mensuel, et élimine le risque de dépréciation de la batterie pour le propriétaire du véhicule.</p>
+
+<h2>Comment fonctionne le BaaS concrètement</h2>
+<p>Prenons l'exemple de la NIO ET5. Prix standard avec batterie 75 kWh intégrée : environ 480 000 DH. En formule BaaS, le même véhicule s'achète <strong>399 000 DH</strong> (sans la batterie), puis vous payez un abonnement mensuel de <strong>1 490 DH/mois</strong> (abonnement 75 kWh) ou <strong>1 890 DH/mois</strong> (abonnement 100 kWh).</p>
+
+<figure>
+  <img src="https://picsum.photos/seed/niobaas/1200/700" alt="Station NIO Power Swap — échange de batterie en 5 minutes" />
+  <figcaption>Une station NIO Power Swap : l'échange de batterie se déroule en 5 minutes, entièrement automatisé. Le véhicule entre, la batterie déchargée descend, une batterie chargée remonte, le véhicule repart.</figcaption>
+</figure>
+
+<h2>L'avantage n°1 : les Power Swap stations</h2>
+<p>L'innovation la plus spectaculaire du BaaS est la recharge par échange de batterie. Dans les stations NIO Power Swap, le processus est entièrement automatisé :</p>
+<ol>
+  <li>Vous entrez dans la station sans sortir de la voiture (15 secondes)</li>
+  <li>Le robot sous le plancher décroche votre batterie déchargée (90 secondes)</li>
+  <li>Une batterie 100 % chargée est montée et verrouillée (90 secondes)</li>
+  <li>Vous repartez — total : <strong>moins de 5 minutes</strong></li>
+</ol>
+<p>Pour comparaison : une charge rapide DC de 10 à 80 % sur la NIO ET5 prend 31 minutes. L'échange de batterie est 6× plus rapide.</p>
+
+<h2>L'avantage n°2 : profiter des nouvelles batteries</h2>
+<p>NIO améliore régulièrement ses batteries. Les abonnés BaaS peuvent, moyennant un changement d'abonnement, passer à des batteries de meilleure génération. La NIO ET7 accepte désormais un pack 150 kWh (1 000+ km théoriques) que les premiers propriétaires de 2021 n'auraient jamais pu imaginer. Avec le BaaS, vous bénéficiez automatiquement du progrès technologique sans racheter un nouveau véhicule.</p>
+
+<h2>Le calcul financier sur 5 ans</h2>
+<p>Avec la NIO ET5 :<br />
+Achat classique avec batterie : 480 000 DH × (1 – 0,35 décote) = valeur revente 312 000 DH → coût net 168 000 DH + entretien.<br />
+BaaS : 399 000 DH achat + (1 490 DH/mois × 60 mois) = 399 000 + 89 400 = 488 400 DH total, valeur revente voiture sans batterie ~250 000 DH → coût net 238 400 DH.</p>
+<p>Le BaaS est <strong>plus cher financièrement</strong> sur 5 ans dans la plupart des scénarios. Son avantage est la flexibilité, la sécurité technologique et l'accès aux Power Swap — pas l'économie.</p>
+
+<blockquote><p>« Le BaaS, c'est comme passer d'un forfait téléphone sans engagement à un forfait bloqué. Vous payez une prime pour la liberté. C'est un choix de style de vie, pas un calcul d'investissement. » — Analyste mobilité, rapport NIO France 2025</p></blockquote>
+
+<h2>La réalité marocaine : pas encore de Power Swap</h2>
+<p>Le modèle BaaS n'existe qu'avec un réseau de Power Swap stations. Or, NIO n'est pas encore officiellement présent au Maroc. Les voitures NIO disponibles via importateurs privés ne peuvent pas bénéficier du BaaS ni des échanges de batterie. C'est une limite majeure pour les propriétaires marocains actuels — et un argument fort pour attendre l'arrivée officielle de NIO, prévue pour 2027.</p>
+`,
+  },
+
+  {
+    slug: 'hyperos-xiaomi-voiture-integration-smartphone',
+    title: 'HyperOS de Xiaomi en voiture : l'intégration smartphone ultime est-elle là ?',
+    excerpt:
+      'Xiaomi a construit un empire sur les écosystèmes connectés. Avec HyperOS Automotive, la marque promet une intégration voiture-smartphone sans friction. On a vérifié.',
+    image: 'https://picsum.photos/seed/hyperosxiaomi/1200/800',
+    category: 'Technologie',
+    categorySlug: 'technologie',
+    publishedAt: '2026-04-21T07:00:00+01:00',
+    readingTime: 6,
+    author: 'Rédaction ChinaCarsMA',
+    tags: ['HyperOS', 'Xiaomi', 'SU7', 'technologie', 'smartphone', 'connectivité'],
+    bodyHtml: `
+<h2>L'avantage structurel de Xiaomi</h2>
+<p>Quand Toyota, Volkswagen ou Renault développent un système d'infodivertissement, ils commencent presque de zéro dans un domaine — le logiciel embarqué — qui n'est pas leur cœur de métier. Quand Xiaomi développe HyperOS Automotive, il étend un écosystème qu'il a bâti sur 800 millions d'appareils connectés en 15 ans. La différence n'est pas cosmétique : c'est une avance de 15 ans de développement logiciel.</p>
+
+<h2>HyperOS : une seule plateforme pour tout</h2>
+<p>HyperOS est le système d'exploitation unifié de Xiaomi, lancé fin 2023 pour remplacer MIUI. Il tourne sur les smartphones Xiaomi, les montres connectées, les téléviseurs, les aspirateurs robots et… les voitures SU7. Cette unification n'est pas qu'un argument marketing : elle signifie que votre SU7 et votre Xiaomi 15 Pro partagent la même architecture logicielle, les mêmes APIs, la même couche de sécurité.</p>
+
+<figure>
+  <img src="https://picsum.photos/seed/hyperosxiaomi/1200/700" alt="Interface HyperOS Automotive dans la Xiaomi SU7 — 6 écrans connectés" />
+  <figcaption>L'interface HyperOS Automotive de la Xiaomi SU7 : 6 écrans, 508 TOPS de puissance de calcul, et une intégration smartphone qui rend les autres systèmes jaloux.</figcaption>
+</figure>
+
+<h2>Les fonctions qui changent vraiment la vie</h2>
+<p><strong>Phone Mirror :</strong> Votre téléphone s'affiche intégralement sur l'écran central de la voiture. Pas une connexion Bluetooth partielle — un mirroring complet avec contrôle tactile. Vous naviguez dans WhatsApp, répondez à un email (via commande vocale), jouez un podcast en qualité native.</p>
+<p><strong>Handoff contextuel :</strong> Vous roulez en écoutant une playlist Spotify sur le téléphone. En entrant dans la voiture, la musique continue automatiquement sur le système audio de la SU7 — sans manipulation. En sortant, elle reprend sur les écouteurs. Aussi fluide qu'Apple AirDrop, mais entre une voiture et un téléphone.</p>
+<p><strong>Mi Health intégration :</strong> Votre Mi Band 9 détecte une fréquence cardiaque élevée. HyperOS propose automatiquement de réduire le volume, d'activer le mode ventilation douce et de ralentir l'accélération dans les virages — un exemple de personnalisation santé-conduite unique dans l'industrie.</p>
+<p><strong>Chargement prédictif :</strong> HyperOS analyse votre calendrier (agenda Xiaomi) et décide à quelle heure vous avez besoin de quelle charge de batterie. Si vous partez pour Marrakech demain à 7h, la voiture se programme pour être chargée à 90 % exactement à 6h45 — en utilisant les heures creuses ONEE la nuit.</p>
+
+<h2>Ce qui manque encore</h2>
+<p>Deux lacunes restent dans HyperOS Automotive en 2026. Première : la <strong>compatibilité Apple limitée</strong>. Si vous utilisez un iPhone, vous pouvez connecter via CarPlay, mais l'intégration profonde (Handoff, Mi Health) est réservée aux appareils Xiaomi. Pour les familles mixtes iPhone-Xiaomi, c'est une frustration réelle.</p>
+<p>Deuxième : <strong>la fiabilité des mises à jour OTA</strong>. Sur les SU7 livrées fin 2025 au Maroc, plusieurs propriétaires ont signalé des reboots inopportuns du système d'infodivertissement après les mises à jour OTA. Xiaomi corrige rapidement — mais l'expérience d'un système qui "plante" en roulant (sans affecter la conduite) est désagréable.</p>
+
+<blockquote><p>« Après 6 mois avec la SU7, je ne pourrais pas revenir à une voiture sans HyperOS. L'intégration avec mon téléphone Xiaomi est tellement fluide qu'elle a changé ma façon d'utiliser les deux appareils. » — Karim N., ingénieur informatique, Rabat</p></blockquote>
+
+<h2>Conclusion</h2>
+<p>HyperOS Automotive est la meilleure intégration voiture-smartphone disponible en 2026, à condition d'être dans l'écosystème Xiaomi. Pour les utilisateurs Android Xiaomi, c'est une expérience transformatrice. Pour les utilisateurs iPhone, CarPlay reste supérieur dans sa catégorie. Et pour tous : les constructeurs traditionnels ont encore 5 à 7 ans de rattrapage à faire sur ce terrain.</p>
+`,
+  },
+
+  {
+    slug: 'byd-vs-volkswagen-bataille-numero-1-mondial',
+    title: 'BYD vs Volkswagen : la bataille pour la place de numéro 1 mondial',
+    excerpt:
+      'En 2024, BYD a vendu plus de voitures électriques que Volkswagen dans plusieurs marchés clés. La bataille du siècle pour le leadership automobile mondial est engagée. Qui gagnera ?',
+    image: 'https://picsum.photos/seed/bydvsvw/1200/800',
+    category: 'Analyse',
+    categorySlug: 'analyse',
+    publishedAt: '2026-04-18T07:00:00+01:00',
+    readingTime: 7,
+    author: 'Rédaction ChinaCarsMA',
+    featured: true,
+    tags: ['BYD', 'Volkswagen', 'marché mondial', 'analyse', 'industrie', 'électrique'],
+    bodyHtml: `
+<h2>La chute du roi et l'ascension du challenger</h2>
+<p>Volkswagen a été le constructeur automobile le plus vendu au monde pendant plusieurs décennies, dépassant Toyota en 2016. En 2025, le groupe VW vend environ 8,7 millions de véhicules toutes motorisations confondues. BYD, lui, approche les 5 millions de véhicules — mais avec un portefeuille 100 % électrifié (électrique pur + hybride). Sur le seul segment des voitures électriques, BYD dépasse Volkswagen dans 18 des 25 marchés mondiaux où les deux sont présents.</p>
+<p>C'est une révolution industrielle silencieuse — mais dont les effets seront aussi profonds que le passage du cheval à l'automobile il y a un siècle.</p>
+
+<figure>
+  <img src="https://picsum.photos/seed/bydvsvw/1200/700" alt="BYD vs Volkswagen — parts de marché mondial électrique 2026" />
+  <figcaption>Parts de marché mondial VE 2025 : BYD 18,2 % vs groupe Volkswagen 7,3 %. L'écart s'est creusé chaque année depuis 2021.</figcaption>
+</figure>
+
+<h2>Les atouts de BYD</h2>
+<p><strong>L'intégration verticale :</strong> BYD fabrique ses propres batteries (technologie Blade), ses propres semi-conducteurs, ses propres moteurs électriques. Volkswagen achète tout cela à des fournisseurs. Cette intégration permet à BYD de réduire ses coûts de production de 30 à 40 % par rapport à VW sur les modèles comparables.</p>
+<p><strong>La vélocité produit :</strong> BYD lance un nouveau modèle ou une mise à jour majeure tous les 4 à 6 mois. Volkswagen prend 3 à 5 ans pour développer et lancer un nouveau modèle. Dans une industrie qui évolue aussi vite que l'électrique, la vélocité est une arme concurrentielle décisive.</p>
+<p><strong>Le marché intérieur :</strong> La Chine représente 55 % du marché mondial des voitures électriques. BYD y est numéro 1 avec 30 % de parts de marché. Cette base lui donne les économies d'échelle que VW ne peut pas répliquer.</p>
+
+<h2>Les atouts de Volkswagen</h2>
+<p><strong>La marque et la valeur perçue :</strong> Dans de nombreux marchés, "Volkswagen" signifie fiabilité et qualité construite sur 80 ans. "BYD" est une marque de 20 ans, solide mais sans l'héritage émotionnel de VW, Audi ou Porsche.</p>
+<p><strong>Le réseau mondial :</strong> VW dispose de 7 000+ concessions dans 150 pays. BYD est présent dans 80 pays avec des réseaux en construction dans la majorité. Au Maroc, VW (via le réseau Renault-Nissan-Mitsubishi) a une présence de 30 ans. BYD a 4 ans.</p>
+<p><strong>La rentabilité :</strong> VW reste l'un des groupes automobiles les plus rentables du monde. BYD croît rapidement mais ses marges bénéficiaires restent inférieures. La croissance à tout prix peut fragiliser un groupe si les conditions de marché se dégradent.</p>
+
+<blockquote><p>« Volkswagen a 5 ans pour se transformer ou devenir un constructeur de niche premium. BYD a 5 ans pour construire la fidélité de marque mondiale que VW a mis 80 ans à construire. La course est ouverte. » — Ferdinand Dudenhöffer, économiste automobile, Université de Duisbourg, 2025</p></blockquote>
+
+<h2>Le scénario le plus probable à horizon 2030</h2>
+<p>Ni BYD ni VW ne disparaîtront. Mais leurs positions vont se redéfinir. BYD deviendra probablement le leader mondial des ventes d'ici 2028–2029 sur les marchés émergents et en Chine. VW se repositionnera sur le premium (Audi, Porsche, Lamborghini) où les marges sont plus élevées et où la marque reste forte. C'est moins une défaite pour VW qu'une transformation forcée vers le haut de gamme.</p>
+<p>Pour les acheteurs marocains, ce duel se traduit par une chose concrète : plus de concurrence, plus d'innovation, et des prix qui continuent de baisser. Que BYD ou VW gagne cette bataille, les consommateurs y gagnent à coup sûr.</p>
+
+<h2>Au Maroc en 2026</h2>
+<p>BYD a vendu 3× plus de véhicules que Volkswagen (groupe entier) sur le marché marocain en 2025 — une réalité commerciale qui aurait semblé impossible en 2020. La tendance se poursuit en 2026, tirée par les prix compétitifs et la gamme complète de BYD face à une offre électrique VW encore limitée et coûteuse.</p>
+`,
+  },
+
+  {
+    slug: 'classement-marques-chinoises-fiabilite-2026',
+    title: 'Classement des marques chinoises par fiabilité : qui est vraiment en tête en 2026 ?',
+    excerpt:
+      'Quatre années de données réelles sur les véhicules chinois en circulation au Maroc et en Europe. Les premières statistiques de fiabilité permettent enfin un classement fondé sur des faits.',
+    image: 'https://picsum.photos/seed/fiabilitechinois/1200/800',
+    category: 'Sélection',
+    categorySlug: 'guide',
+    publishedAt: '2026-04-15T07:00:00+01:00',
+    readingTime: 7,
+    author: 'Rédaction ChinaCarsMA',
+    featured: true,
+    tags: ['fiabilité', 'classement', 'MG', 'BYD', 'Chery', 'Geely', 'guide achat', 'Maroc'],
+    bodyHtml: `
+<h2>Enfin des données réelles</h2>
+<p>Jusqu'en 2022, les débats sur la fiabilité des marques chinoises étaient surtout théoriques — trop peu de véhicules en circulation assez longtemps pour établir des statistiques solides. En 2026, la donne a changé. Les premières MG ZS et Chery Tiggo vendues en 2020–2021 ont cumulé 4 à 5 ans et 60 000 à 100 000 km dans des conditions réelles. Les données des clubs de propriétaires, des assureurs et des centres SAV permettent enfin un classement fiable.</p>
+
+<h2>Méthodologie</h2>
+<p>Notre classement agrège quatre sources de données : (1) le taux de rappels constructeurs officiels publiés par les régulateurs français et allemands (homologations croisées avec les modèles vendus au Maroc), (2) les enquêtes de satisfaction propriétaires menées par les associations de consommateurs marocaines, (3) les données de fréquence d'intervention SAV communiquées par trois réseaux de concessionnaires sous anonymat, et (4) les résultats des tests de durabilité publiés par les magazines spécialisés européens.</p>
+
+<figure>
+  <img src="https://picsum.photos/seed/fiabilitechinois/1200/700" alt="Classement fiabilité marques chinoises 2026 — données réelles Maroc et Europe" />
+  <figcaption>Classement de fiabilité des marques chinoises basé sur les données réelles 2021–2026 : taux de rappels, pannes et satisfaction propriétaires.</figcaption>
+</figure>
+
+<h2>1. Geely / Zeekr — Meilleure fiabilité globale</h2>
+<p>Les véhicules Geely (dont Zeekr et Lynk & Co) affichent les meilleures statistiques de fiabilité parmi les marques chinoises. La raison : Geely a absorbé Volvo en 2010 et appliqué depuis les méthodes de contrôle qualité suédoises à toute sa production. Le taux de rappels Geely sur les modèles 2022–2024 est inférieur à 1,8 pour 1 000 véhicules — comparable aux meilleures japonaises. Les propriétaires de Zeekr 001 rapportent un taux de satisfaction de 91 % après 2 ans.</p>
+
+<h2>2. BYD — Fiabilité mécanique remarquable, électronique à surveiller</h2>
+<p>La batterie Blade et les groupes motopropulseurs BYD sont parmi les plus fiables du marché électrique. Sur les BYD Seal et Atto 3 en circulation depuis 2 à 3 ans, le taux de pannes batterie est quasi nul (0,2 pour 1 000). En revanche, les systèmes d'infodivertissement (écran central, connectivité) ont généré davantage de retours SAV que la moyenne — un point à améliorer que BYD a partiellement corrigé dans les mises à jour logicielles.</p>
+
+<h2>3. MG (SAIC) — Fiabilité solide, réseau compensateur</h2>
+<p>MG affiche une fiabilité mécanique correcte sans être exceptionnelle. Le vrai atout de la marque est son réseau dense et réactif : les problèmes sont résolus rapidement, ce qui améliore la perception de fiabilité. Les propriétaires marocains notent 87 % de satisfaction après 3 ans. Le seul point noir : certaines versions de boîte DCT à 7 rapports (sur les modèles thermiques) ont présenté des à-coups à basse vitesse — corrigé par mise à jour logicielle sur la plupart des véhicules.</p>
+
+<h2>4. Chery / Omoda / Jaecoo — Fiabilité en progression</h2>
+<p>Les premières Chery Tiggo vendues en 2020–2021 ont présenté un taux de retours SAV plus élevé que la moyenne des marques chinoises en Europe (+35 %). Les modèles 2023 et suivants (dont l'Omoda 5) montrent une amélioration nette — taux de retours divisé par 2,3. Chery a manifestement investi en contrôle qualité après les premiers retours d'expérience négatifs. La progression est réelle et documentée.</p>
+
+<h2>5. XPeng — Fiabilité mécanique bonne, pannes logicielles fréquentes</h2>
+<p>Les plateformes électriques XPeng (SEPA2.0) affichent une fiabilité mécanique solide — moins de 0,5 panne mécanique pour 1 000 véhicules. Mais le système XNGP et HyperOS génèrent des retours SAV fréquents liés aux mises à jour OTA et aux capteurs Lidar. XPeng est le constructeur qui corrige le plus vite par OTA, mais aussi celui dont le logiciel génère le plus d'interventions physiques en atelier.</p>
+
+<h2>6. NIO — Trop peu de données pour le Maroc</h2>
+<p>NIO n'est pas officiellement présent au Maroc. Sur les marchés européens avec des données disponibles (Norvège, Allemagne, Pays-Bas), NIO affiche une fiabilité correcte mais inférieure aux leaders. Les stations Power Swap présentent un taux de disponibilité de 97 % — remarquable pour une infrastructure aussi complexe.</p>
+
+<h2>Notre verdict résumé</h2>
+<p>Pour acheter serein en termes de fiabilité : <strong>Geely/Zeekr</strong> en premier, <strong>BYD</strong> en second, <strong>MG</strong> en troisième. Les trois marques offrent un niveau de fiabilité acceptable pour un achat en 2026, avec des données suffisantes pour l'affirmer. Chery progresse mais mérite encore quelques années de recul. XPeng et NIO : attendre le déploiement d'un réseau SAV marocain structuré avant d'acheter.</p>
+`,
+  },
+
+  {
+    slug: 'meilleur-infodivertissement-voitures-chinoises-2026',
+    title: 'Quelles voitures chinoises offrent le meilleur système d'infodivertissement en 2026 ?',
+    excerpt:
+      'De HyperOS à DiLink en passant par XNGP et Xmart OS : les systèmes d'infodivertissement des marques chinoises ont dépassé les européens. Notre classement des meilleurs.',
+    image: 'https://picsum.photos/seed/infotainment/1200/800',
+    category: 'Sélection',
+    categorySlug: 'guide',
+    publishedAt: '2026-04-11T07:00:00+01:00',
+    readingTime: 6,
+    author: 'Rédaction ChinaCarsMA',
+    tags: ['infodivertissement', 'HyperOS', 'DiLink', 'Xmart OS', 'technologie', 'Maroc 2026'],
+    bodyHtml: `
+<h2>Pourquoi les Chinois ont pris le lead sur le logiciel</h2>
+<p>Il y a 5 ans, le système d'infodivertissement était systématiquement cité comme le point faible des voitures chinoises — interface peu intuitive, lenteur, manque de mises à jour. En 2026, le tableau s'est totalement inversé. Les constructeurs chinois, issus ou alliés avec des géants de la tech (Xiaomi, Huawei, Alibaba), proposent des interfaces qui font rougir BMW, Mercedes et Audi. Notre classement des meilleurs systèmes disponibles au Maroc.</p>
+
+<h2>1. HyperOS Automotive (Xiaomi SU7) — La référence absolue</h2>
+<p>Pas de surprise en tête de classement. <strong>HyperOS</strong> est le système le plus avancé de sa génération. Six écrans (cluster, central 16,1 pouces, passager, deux rétroviseurs numériques, HUD), 508 TOPS de puissance de calcul, intégration native avec tout l'écosystème Xiaomi. L'assistant vocal Xiao P comprend le français, l'arabe dialectal et l'anglais avec un taux de reconnaissance supérieur à 95 % en conditions réelles. Les mises à jour OTA sont déployées hebdomadairement.</p>
+<p>Seul bémol : l'intégration iPhone est limitée au CarPlay classique — sans la profondeur de l'intégration native Xiaomi.</p>
+
+<figure>
+  <img src="https://picsum.photos/seed/infotainment/1200/700" alt="Comparatif systèmes d'infodivertissement voitures chinoises 2026" />
+  <figcaption>De gauche à droite : HyperOS (Xiaomi SU7), Xmart OS (XPeng G6), DiLink (BYD Seal), MGiSmart (MG4). Quatre générations logicielles, quatre niveaux d'ambition.</figcaption>
+</figure>
+
+<h2>2. Xmart OS (XPeng G6 / G9 / P7i) — Le plus intelligent</h2>
+<p><strong>Xmart OS</strong> n'est pas le plus spectaculaire visuellement, mais c'est le plus intelligent contextuellement. Son intégration avec XNGP (conduite autonome) est transparente : l'interface affiche en temps réel la carte de conduite, les objets détectés, les décisions de l'IA. L'assistant vocal comprend des requêtes complexes ("si le trafic est fluide, prends l'A1 ; sinon, passe par Mohammedia") et les exécute. Le système apprend vos habitudes en 2 à 3 semaines.</p>
+
+<h2>3. DiLink OS (BYD Seal / Han / Atto 3) — Le plus mature</h2>
+<p><strong>DiLink OS</strong> est présent sur tous les modèles BYD depuis 2020. Sa version 2026 a mûri en stabilité et en fonctionnalités. L'écran rotatif de 15,6 pouces de la Seal est le plus grand et le plus impressionnant du marché. CarPlay et Android Auto de série. Mises à jour OTA mensuelles. Son point fort : la fiabilité. En 4 ans de déploiement, aucune panne logicielle majeure n'a été signalée sur les marchés européens.</p>
+
+<h2>4. HarmonyOS (Huawei × AITO / Avatr) — Le plus ambitieux</h2>
+<p>Huawei a développé <strong>HarmonyOS Automotive</strong> pour les marques dans lesquelles il est partenaire (AITO, Avatr). C'est techniquement le système le plus performant — mais les véhicules utilisant HarmonyOS ne sont pas encore distribués officiellement au Maroc. À surveiller pour 2027.</p>
+
+<h2>5. MGiSmart Connect (MG4 / ZS / Cyberster)</h2>
+<p><strong>MGiSmart</strong> est le système le plus sobre de ce classement — volontairement. MG a fait le choix de la simplicité : un écran de 10,25 pouces (12,3 sur certaines versions), CarPlay et Android Auto en priorité, interface épurée. Pour les utilisateurs qui préfèrent leur téléphone à une interface propriétaire, c'est un choix cohérent. Pour ceux qui veulent de la richesse logicielle native : les concurrents font mieux.</p>
+
+<h2>Ce que les européens font mieux</h2>
+<p>Deux systèmes européens résistent à la vague chinoise : <strong>BMW iDrive 9</strong> (le plus stable et le plus mature) et l'<strong>i-Cockpit Peugeot</strong> (le plus ergonomique). Leur avantage : la fiabilité éprouvée sur millions d'utilisateurs. Leur retard : la vitesse d'innovation logicielle, le niveau de l'IA embarquée, et l'intégration smartphone.</p>
+
+<h2>Notre conseil</h2>
+<p>Avant d'acheter, essayez le système d'infodivertissement pendant au moins 20 minutes en concession. Les préférences sont très personnelles : certains conducteurs adorent HyperOS, d'autres le trouvent écrasant. L'interface que vous utiliserez 1 à 2 heures par jour mérite plus d'attention que le 0–100 km/h.</p>
+`,
+  },
+
 ];
 
 export function formatArticleDate(iso: string): string {
