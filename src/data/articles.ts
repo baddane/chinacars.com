@@ -27,7 +27,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'nouveaute',
     publishedAt: '2024-04-12T09:00:00+01:00',
     readingTime: 6,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'mg-cyberster-roadster-electrique',
@@ -96,7 +96,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'comparatif',
     publishedAt: '2026-04-28T09:00:00+02:00',
     readingTime: 8,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'mg4-vs-byd-dolphin-compactes-electriques',
@@ -108,7 +108,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'comparatif',
     publishedAt: '2026-04-21T09:00:00+02:00',
     readingTime: 7,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'zeekr-001-vs-nio-et7-luxe-technologique-chinois',
@@ -120,7 +120,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'comparatif',
     publishedAt: '2026-04-14T09:00:00+02:00',
     readingTime: 9,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'omoda-5-vs-mg-zs-hybrid-suv-urbains-abordables',
@@ -132,7 +132,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'comparatif',
     publishedAt: '2026-04-07T09:00:00+02:00',
     readingTime: 7,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'leapmotor-t03-vs-byd-seagull-micro-citadines',
@@ -144,7 +144,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'comparatif',
     publishedAt: '2026-03-31T09:00:00+02:00',
     readingTime: 6,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'xpeng-g6-vs-byd-atto-3-evo-autonomie-reelle',
@@ -156,7 +156,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'comparatif',
     publishedAt: '2026-03-24T09:00:00+01:00',
     readingTime: 8,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'jaecoo-7-vs-chery-tiggo-8-pro-suv-familial-chery',
@@ -168,7 +168,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'comparatif',
     publishedAt: '2026-03-17T09:00:00+01:00',
     readingTime: 7,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'mg-cyberster-vs-byd-seal-06-gt-plaisir-conduite',
@@ -180,7 +180,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'comparatif',
     publishedAt: '2026-03-10T09:00:00+01:00',
     readingTime: 7,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'nio-el6-vs-xpeng-g9-grands-suv-electriques-premium',
@@ -192,7 +192,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'comparatif',
     publishedAt: '2026-03-03T09:00:00+01:00',
     readingTime: 8,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'gwm-ora-03-vs-mg3-hybrid-design-retro-efficacite',
@@ -204,7 +204,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'comparatif',
     publishedAt: '2026-02-24T09:00:00+01:00',
     readingTime: 6,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'zeekr-x-vs-volvo-ex30-cousins-chinois',
@@ -216,7 +216,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'comparatif',
     publishedAt: '2026-02-17T09:00:00+01:00',
     readingTime: 7,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'avatr-11-vs-hiphi-z-design-chinois-futuriste',
@@ -228,7 +228,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'comparatif',
     publishedAt: '2026-02-10T09:00:00+01:00',
     readingTime: 8,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'byd-shark-vs-maxus-t90-ev-pickup-chinois-pros',
@@ -240,7 +240,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'comparatif',
     publishedAt: '2026-02-03T09:00:00+01:00',
     readingTime: 7,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'lynk-co-01-vs-mg-ehs-hybride-rechargeable-partage',
@@ -252,7 +252,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'comparatif',
     publishedAt: '2026-01-27T09:00:00+01:00',
     readingTime: 7,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'hongqi-e-hs9-vs-nio-el7-luxe-presidentiel-technologie',
@@ -264,7 +264,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'comparatif',
     publishedAt: '2026-01-20T09:00:00+01:00',
     readingTime: 8,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'byd-tang-2026-vs-mg-s9-suv-7-places',
@@ -276,7 +276,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'comparatif',
     publishedAt: '2026-01-13T09:00:00+01:00',
     readingTime: 7,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'xiaomi-su7-vs-xpeng-p7i-interface-logicielle',
@@ -288,7 +288,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'technologie',
     publishedAt: '2026-01-06T09:00:00+01:00',
     readingTime: 8,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'leapmotor-c11-vs-byd-seal-u-suv-familial-prix',
@@ -300,7 +300,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'comparatif',
     publishedAt: '2025-12-22T09:00:00+01:00',
     readingTime: 7,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'seres-5-vs-voyah-free-outsiders-chinois',
@@ -312,7 +312,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'comparatif',
     publishedAt: '2025-12-15T09:00:00+01:00',
     readingTime: 7,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'mg5-vs-byd-han-break-vs-berline',
@@ -324,7 +324,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'comparatif',
     publishedAt: '2025-12-08T09:00:00+01:00',
     readingTime: 6,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
 
   // --- Défis aux Européennes (articles.md #21-40) ---
@@ -338,7 +338,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'comparatif',
     publishedAt: '2025-12-01T09:00:00+01:00',
     readingTime: 9,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'mg-zs-hybrid-vs-dacia-duster-hybrid-low-cost',
@@ -350,7 +350,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'comparatif',
     publishedAt: '2025-11-24T09:00:00+01:00',
     readingTime: 7,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'byd-atto-3-evo-vs-renault-scenic-e-tech-suv-annee',
@@ -362,7 +362,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'comparatif',
     publishedAt: '2025-11-17T09:00:00+01:00',
     readingTime: 8,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'zeekr-001-vs-tesla-model-s-silicon-valley-tremble-2026',
@@ -374,7 +374,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'comparatif',
     publishedAt: '2025-11-10T09:00:00+01:00',
     readingTime: 9,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'omoda-5-shs-h-vs-toyota-yaris-cross-hybride',
@@ -386,7 +386,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'comparatif',
     publishedAt: '2025-11-03T09:00:00+01:00',
     readingTime: 7,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'mg3-hybrid-vs-renault-clio-e-tech-hegemonie-francaise',
@@ -398,7 +398,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'comparatif',
     publishedAt: '2025-10-27T09:00:00+01:00',
     readingTime: 7,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'byd-seal-vs-tesla-model-3-highland-berline-ultime-2026',
@@ -410,7 +410,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'comparatif',
     publishedAt: '2025-10-20T09:00:00+02:00',
     readingTime: 9,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'jaecoo-5-vs-volkswagen-tiguan-menace-chinoise',
@@ -422,7 +422,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'comparatif',
     publishedAt: '2025-10-13T09:00:00+02:00',
     readingTime: 8,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'nio-et5-vs-bmw-i4-alternative-premium-chinoise',
@@ -434,7 +434,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'comparatif',
     publishedAt: '2025-10-06T09:00:00+02:00',
     readingTime: 8,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'xpeng-g6-vs-tesla-model-y-recharge-rapide',
@@ -446,7 +446,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'comparatif',
     publishedAt: '2025-09-29T09:00:00+02:00',
     readingTime: 8,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'mg4-xpower-vs-volkswagen-id3-gtx-compactes-sportives',
@@ -458,7 +458,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'comparatif',
     publishedAt: '2025-09-22T09:00:00+02:00',
     readingTime: 7,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'leapmotor-t03-vs-dacia-spring-electrique-15000',
@@ -470,7 +470,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'comparatif',
     publishedAt: '2025-09-15T09:00:00+02:00',
     readingTime: 6,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'byd-han-vs-mercedes-eqe-luxe-chinois-confort-allemand',
@@ -482,7 +482,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'comparatif',
     publishedAt: '2025-09-08T09:00:00+02:00',
     readingTime: 8,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'omoda-e5-vs-hyundai-kona-electric-design-futuriste',
@@ -494,7 +494,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'comparatif',
     publishedAt: '2025-09-01T09:00:00+02:00',
     readingTime: 7,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'gwm-wey-05-vs-volvo-xc60-recharge-phev-autonomie',
@@ -506,7 +506,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'comparatif',
     publishedAt: '2025-08-25T09:00:00+02:00',
     readingTime: 7,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'mg-zs-ev-vs-peugeot-e2008-suv-urbain-electrique',
@@ -518,7 +518,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'comparatif',
     publishedAt: '2025-08-18T09:00:00+02:00',
     readingTime: 7,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'byd-seagull-vs-citroen-ec3-guerre-petites-electriques',
@@ -530,7 +530,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'comparatif',
     publishedAt: '2025-08-11T09:00:00+02:00',
     readingTime: 6,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'zeekr-x-vs-audi-q4-etron-style-sobriete',
@@ -542,7 +542,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'comparatif',
     publishedAt: '2025-08-04T09:00:00+02:00',
     readingTime: 8,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'lynk-co-02-vs-renault-megane-e-tech-crossover-compacte',
@@ -554,7 +554,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'comparatif',
     publishedAt: '2025-07-28T09:00:00+02:00',
     readingTime: 7,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'hongqi-l5-vs-rolls-royce-ghost-ultra-luxe-chinois',
@@ -566,7 +566,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'comparatif',
     publishedAt: '2025-07-21T09:00:00+02:00',
     readingTime: 9,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
 
   // --- Focus Technologie (articles.md #41-43) ---
@@ -580,7 +580,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'technologie',
     publishedAt: '2025-07-14T09:00:00+02:00',
     readingTime: 8,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'nio-echange-batterie-vs-tesla-superchargeur-voyage',
@@ -592,7 +592,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'technologie',
     publishedAt: '2025-07-07T09:00:00+02:00',
     readingTime: 7,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'lidar-xpeng-vs-vision-tesla-conduite-autonome-france',
@@ -604,7 +604,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'technologie',
     publishedAt: '2025-06-30T09:00:00+02:00',
     readingTime: 9,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
 
   // --- Focus Technologie suite (articles.md #44-50) ---
@@ -618,7 +618,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'technologie',
     publishedAt: '2025-06-23T09:00:00+02:00',
     readingTime: 7,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'mg3-hybrid-moteur-electrique-plus-puissant-concurrents',
@@ -630,7 +630,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'technologie',
     publishedAt: '2025-06-16T09:00:00+02:00',
     readingTime: 6,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'hyperos-xiaomi-voiture-integration-smartphone',
@@ -642,7 +642,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'technologie',
     publishedAt: '2025-06-09T09:00:00+02:00',
     readingTime: 7,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'charge-800v-zeekr-xpeng-humilient-constructeurs-historiques',
@@ -654,7 +654,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'technologie',
     publishedAt: '2025-06-02T09:00:00+02:00',
     readingTime: 8,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'v2l-vehicle-to-load-byd-alimenter-maison',
@@ -666,7 +666,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'technologie',
     publishedAt: '2025-05-26T09:00:00+02:00',
     readingTime: 6,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'batteries-solid-state-nio-1000-km-2026',
@@ -678,7 +678,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'technologie',
     publishedAt: '2025-05-19T09:00:00+02:00',
     readingTime: 8,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'moteurs-roue-xiaomi-revolution-technologique',
@@ -690,7 +690,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'technologie',
     publishedAt: '2025-05-12T09:00:00+02:00',
     readingTime: 7,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
 
   // --- Budget, Achat & Revente (articles.md #51-60) ---
@@ -704,7 +704,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'guide',
     publishedAt: '2025-05-05T09:00:00+02:00',
     readingTime: 7,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'garantie-7-ans-10-ans-constructeurs-chinois-comparatif',
@@ -716,7 +716,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'guide',
     publishedAt: '2025-04-28T09:00:00+02:00',
     readingTime: 6,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'bonus-ecologique-2026-voitures-chinoises-eligibles',
@@ -728,7 +728,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'guide',
     publishedAt: '2025-04-21T09:00:00+02:00',
     readingTime: 7,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'location-vs-achat-lynk-co-nouvelle-consommation',
@@ -740,7 +740,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'guide',
     publishedAt: '2025-04-14T09:00:00+02:00',
     readingTime: 7,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'entretien-voiture-chinoise-france-reseaux-sav',
@@ -752,7 +752,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'guide',
     publishedAt: '2025-04-07T09:00:00+02:00',
     readingTime: 7,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'prix-pieces-detachees-mg-vs-renault-apres-vente',
@@ -764,7 +764,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'guide',
     publishedAt: '2025-03-31T09:00:00+02:00',
     readingTime: 6,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'leasing-loa-lld-meilleures-offres-marques-chinoises',
@@ -776,7 +776,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'guide',
     publishedAt: '2025-03-24T09:00:00+01:00',
     readingTime: 6,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'assurance-auto-marques-chinoises-assureurs-francais',
@@ -788,7 +788,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'guide',
     publishedAt: '2025-03-17T09:00:00+01:00',
     readingTime: 6,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'mandataires-vs-concessions-acheter-byd-meilleur-prix',
@@ -800,7 +800,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'guide',
     publishedAt: '2025-03-10T09:00:00+01:00',
     readingTime: 7,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'fiabilite-long-terme-mg4-2023-premiers-retours',
@@ -812,7 +812,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'guide',
     publishedAt: '2025-03-03T09:00:00+01:00',
     readingTime: 8,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
 
   // --- Top 10 & Sélections Thématiques (articles.md #61-70) ---
@@ -826,7 +826,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'selection',
     publishedAt: '2025-02-24T09:00:00+01:00',
     readingTime: 7,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'suv-chinois-famille-3-enfants-quel-choisir',
@@ -838,7 +838,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'selection',
     publishedAt: '2025-02-17T09:00:00+01:00',
     readingTime: 7,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: '5-meilleures-citadines-chinoises-ville',
@@ -850,7 +850,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'selection',
     publishedAt: '2025-02-10T09:00:00+01:00',
     readingTime: 6,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'top-7-voitures-chinoises-plus-sures-ncap-2026',
@@ -862,7 +862,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'selection',
     publishedAt: '2025-02-03T09:00:00+01:00',
     readingTime: 7,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'voitures-chinoises-meilleur-infodivertissement-2026',
@@ -874,7 +874,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'selection',
     publishedAt: '2025-01-27T09:00:00+01:00',
     readingTime: 7,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'top-5-electriques-chinoises-moins-30000-euros',
@@ -886,7 +886,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'selection',
     publishedAt: '2025-01-20T09:00:00+01:00',
     readingTime: 6,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'suv-chinois-confortables-longs-trajets-autoroute',
@@ -898,7 +898,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'selection',
     publishedAt: '2025-01-13T09:00:00+01:00',
     readingTime: 7,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: '3-voitures-chinoises-pour-oublier-tesla-2026',
@@ -910,7 +910,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'selection',
     publishedAt: '2025-01-06T09:00:00+01:00',
     readingTime: 6,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'voitures-chinoises-plus-attendues-fin-2026',
@@ -922,7 +922,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'selection',
     publishedAt: '2024-12-23T09:00:00+01:00',
     readingTime: 7,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'classement-marques-chinoises-fiabilite-2026',
@@ -934,7 +934,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'selection',
     publishedAt: '2024-12-16T09:00:00+01:00',
     readingTime: 8,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
 
   // --- Comparaison des Motorisations (articles.md #71-75) ---
@@ -948,7 +948,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'comparatif',
     publishedAt: '2024-12-09T09:00:00+01:00',
     readingTime: 7,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'byd-seal-u-phev-vs-byd-seal-u-ev-hybride-rechargeable',
@@ -960,7 +960,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'comparatif',
     publishedAt: '2024-12-02T09:00:00+01:00',
     readingTime: 7,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'omoda-5-thermique-vs-omoda-5-ev-duel-interne',
@@ -972,7 +972,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'comparatif',
     publishedAt: '2024-11-25T09:00:00+01:00',
     readingTime: 6,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'hybride-vs-phev-comparatif-mg-byd',
@@ -984,7 +984,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'comparatif',
     publishedAt: '2024-11-18T09:00:00+01:00',
     readingTime: 8,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'moteurs-thermiques-chinois-retour-en-force-europe',
@@ -996,7 +996,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'analyse',
     publishedAt: '2024-11-11T09:00:00+01:00',
     readingTime: 7,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
 
   // --- Marque par Marque : Guides d'Achat (articles.md #76-85) ---
@@ -1010,7 +1010,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'guide',
     publishedAt: '2024-11-04T09:00:00+01:00',
     readingTime: 8,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'mg-motor-heritage-anglais-domination-chinoise',
@@ -1022,7 +1022,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'guide',
     publishedAt: '2024-10-28T09:00:00+01:00',
     readingTime: 8,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'zeekr-france-prix-modeles-reseau-2026',
@@ -1034,7 +1034,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'guide',
     publishedAt: '2024-10-21T09:00:00+02:00',
     readingTime: 7,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'omoda-jaecoo-nouveau-geant-marche-automobile',
@@ -1046,7 +1046,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'guide',
     publishedAt: '2024-10-14T09:00:00+02:00',
     readingTime: 7,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'xiaomi-auto-peut-on-acheter-voiture-fabricant-telephones',
@@ -1058,7 +1058,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'guide',
     publishedAt: '2024-10-07T09:00:00+02:00',
     readingTime: 7,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'nio-battery-as-a-service-louer-ou-acheter-batterie',
@@ -1070,7 +1070,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'guide',
     publishedAt: '2024-09-30T09:00:00+02:00',
     readingTime: 8,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'xpeng-marque-intelligence-artificielle-automobile',
@@ -1082,7 +1082,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'guide',
     publishedAt: '2024-09-23T09:00:00+02:00',
     readingTime: 7,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'leapmotor-alliance-stellantis-sav-europe',
@@ -1094,7 +1094,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'guide',
     publishedAt: '2024-09-16T09:00:00+02:00',
     readingTime: 7,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'gwm-ora-citadines-electriques-design-audacieux',
@@ -1106,7 +1106,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'guide',
     publishedAt: '2024-09-09T09:00:00+02:00',
     readingTime: 6,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'lynk-co-abonnement-ne-pas-acheter-voiture',
@@ -1118,7 +1118,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'guide',
     publishedAt: '2024-09-02T09:00:00+02:00',
     readingTime: 7,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
 
   // --- Essais Longue Durée & Vie Quotidienne (articles.md #86-90) ---
@@ -1132,7 +1132,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'essai',
     publishedAt: '2024-08-26T09:00:00+02:00',
     readingTime: 9,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'byd-atto-3-quotidien-5-details-qui-changent-tout',
@@ -1144,7 +1144,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'essai',
     publishedAt: '2024-08-19T09:00:00+02:00',
     readingTime: 8,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'xiaomi-su7-conditions-hivernales-batterie-promesses',
@@ -1156,7 +1156,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'essai',
     publishedAt: '2024-08-12T09:00:00+02:00',
     readingTime: 8,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'chery-tiggo-8-voyage-famille-test-habitabilite',
@@ -1168,7 +1168,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'essai',
     publishedAt: '2024-08-05T09:00:00+02:00',
     readingTime: 8,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'navigation-byd-vs-google-maps-fiabilite',
@@ -1180,7 +1180,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'essai',
     publishedAt: '2024-07-29T09:00:00+02:00',
     readingTime: 6,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
 
   // --- Analyses & Tendances du Marché (articles.md #91-100) ---
@@ -1194,7 +1194,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'analyse',
     publishedAt: '2024-07-22T09:00:00+02:00',
     readingTime: 8,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'taxes-europeennes-impact-prix-voitures-chinoises-2026',
@@ -1206,7 +1206,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'analyse',
     publishedAt: '2024-07-15T09:00:00+02:00',
     readingTime: 8,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'design-chinois-identite-visuelle-marques-auto',
@@ -1218,7 +1218,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'analyse',
     publishedAt: '2024-07-08T09:00:00+02:00',
     readingTime: 7,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'marques-chinoises-production-europe-hongrie-espagne',
@@ -1230,7 +1230,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'analyse',
     publishedAt: '2024-07-01T09:00:00+02:00',
     readingTime: 8,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'securite-voitures-chinoises-niveau-europeen-2026',
@@ -1242,7 +1242,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'analyse',
     publishedAt: '2024-06-24T09:00:00+02:00',
     readingTime: 7,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'arrivee-xiaomi-tournant-historique-industrie-automobile',
@@ -1254,7 +1254,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'analyse',
     publishedAt: '2024-06-17T09:00:00+02:00',
     readingTime: 8,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'mg-motor-marque-preferee-jeunes-conducteurs',
@@ -1266,7 +1266,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'analyse',
     publishedAt: '2024-06-10T09:00:00+02:00',
     readingTime: 7,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'byd-vs-volkswagen-bataille-numero-1-mondial',
@@ -1278,7 +1278,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'analyse',
     publishedAt: '2024-06-03T09:00:00+02:00',
     readingTime: 9,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: 'voitures-chinoises-occasion-marche-en-expansion',
@@ -1290,7 +1290,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'analyse',
     publishedAt: '2024-05-27T09:00:00+02:00',
     readingTime: 7,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
   {
     slug: '2026-chine-conquete-coeur-europeens',
@@ -1302,7 +1302,7 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'analyse',
     publishedAt: '2024-05-20T09:00:00+02:00',
     readingTime: 8,
-    author: 'Rédaction ChinaCarsMA',
+    author: 'Rédaction Véhicules Chinois',
   },
 ];
 

@@ -21,10 +21,10 @@ export function organizationSchema(): Thing {
       height: 512,
     },
     sameAs: [
-      'https://facebook.com/chinacarsma',
-      'https://instagram.com/chinacarsma',
-      'https://twitter.com/chinacarsma',
-      'https://youtube.com/@chinacarsma',
+      'https://facebook.com/vehiculeschinois',
+      'https://instagram.com/vehiculeschinois',
+      'https://twitter.com/vehiculeschinois',
+      'https://youtube.com/@vehiculeschinois',
     ],
   };
 }

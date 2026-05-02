@@ -3,15 +3,15 @@
  */
 
 export const SITE = {
-  name: 'ChinaCarsMA',
-  shortName: 'ChinaCars',
-  url: process.env.NEXT_PUBLIC_SITE_URL || 'https://chinacarsma.com',
-  locale: 'fr_MA',
+  name: 'Véhicules Chinois',
+  shortName: 'VéhiculeschinoisCOM',
+  url: process.env.NEXT_PUBLIC_SITE_URL || 'https://vehiculeschinois.com',
+  locale: 'fr_FR',
   defaultLanguage: 'fr',
   supportedLanguages: ['fr', 'ar', 'en'] as const,
   description:
-    "Actualités, essais, comparatifs et guides d'achat sur les voitures chinoises (BYD, MG, Chery, Geely, GWM, Zeekr) au Maroc.",
-  twitterHandle: '@chinacarsma',
+    "Actualités, essais, comparatifs et guides d'achat sur les voitures chinoises (BYD, MG, Chery, Geely, GWM, Zeekr, NIO, XPeng) en France et en Europe.",
+  twitterHandle: '@vehiculeschinois',
   defaultOgImage: '/opengraph-image',
 } as const;
 

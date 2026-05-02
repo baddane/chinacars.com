@@ -35,7 +35,7 @@ export default function Footer() {
             <Link href="/" className="flex items-center gap-2">
               <Car className="h-8 w-8 text-red-500" aria-hidden="true" />
               <span className="text-xl font-bold tracking-tight text-white">
-                ChinaCars<span className="text-red-500">MA</span>
+                Véhicules<span className="text-red-500">Chinois</span>
               </span>
             </Link>
             <p className="text-sm leading-6 text-gray-300 max-w-xs">
@@ -128,7 +128,7 @@ export default function Footer() {
         </div>
         <div className="mt-16 border-t border-white/10 pt-8 sm:mt-20 lg:mt-24">
           <p className="text-xs leading-5 text-gray-400">
-            &copy; {new Date().getFullYear()} ChinaCarsMA. Tous droits réservés.
+            &copy; {new Date().getFullYear()} Véhicules Chinois. Tous droits réservés.
           </p>
         </div>
       </div>

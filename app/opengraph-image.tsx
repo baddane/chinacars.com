@@ -43,7 +43,7 @@ export default function OgImage() {
               borderRadius: 99,
             }}
           >
-            {SITE.name}
+            vehiculeschinois.com
           </div>
           <div
             style={{
@@ -53,7 +53,7 @@ export default function OgImage() {
               lineHeight: 1.1,
             }}
           >
-            L&apos;actualité des voitures chinoises
+            Véhicules Chinois
           </div>
           <div
             style={{

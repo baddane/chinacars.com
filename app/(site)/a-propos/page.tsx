@@ -25,7 +25,7 @@ const values = [
 export const metadata: Metadata = {
   title: 'À propos',
   description:
-    "ChinaCarsMA est le média indépendant de référence sur l'automobile chinoise au Maroc.",
+    "Véhicules Chinois est le média indépendant de référence sur l'automobile chinoise en France et en Europe.",
   alternates: { canonical: '/a-propos' },
 };
 
@@ -39,14 +39,14 @@ export default function AboutPage() {
           <Breadcrumb items={[{ name: 'À propos', url: '/a-propos' }]} className="mb-8" />
 
           <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl">
-            À propos de ChinaCarsMA
+            À propos de Véhicules Chinois
           </h1>
           <p className="mt-6 text-lg leading-8 text-gray-600">
-            ChinaCarsMA est le premier média francophone dédié à l&apos;automobile
-            chinoise au Maroc. Depuis notre lancement, nous décryptons un marché
+            Véhicules Chinois est le premier média francophone dédié à l&apos;automobile
+            chinoise en France et en Europe. Depuis notre lancement, nous décryptons un marché
             en pleine révolution : l&apos;arrivée massive des constructeurs chinois,
             l&apos;explosion du véhicule électrique et les nouvelles habitudes
-            d&apos;achat des automobilistes marocains.
+            d&apos;achat des automobilistes européens.
           </p>
 
           <h2 className="mt-16 text-2xl font-bold tracking-tight text-gray-900">
