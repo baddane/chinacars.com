@@ -12,7 +12,7 @@ export const SITE = {
   description:
     "Actualités, essais, comparatifs et guides d'achat sur les voitures chinoises (BYD, MG, Chery, Geely, GWM, Zeekr) au Maroc.",
   twitterHandle: '@chinacarsma',
-  defaultOgImage: '/images/og-default.jpg',
+  defaultOgImage: '/opengraph-image',
 } as const;
 
 export type SiteLanguage = (typeof SITE.supportedLanguages)[number];
@@ -38,6 +38,9 @@ export const CATEGORIES = [
   { name: 'Essai', slug: 'essai' },
   { name: 'Comparatif', slug: 'comparatif' },
   { name: 'Guide', slug: 'guide' },
+  { name: 'Technologie', slug: 'technologie' },
+  { name: 'Sélection', slug: 'selection' },
+  { name: 'Analyse', slug: 'analyse' },
   { name: 'Électrique', slug: 'electrique' },
   { name: 'Hybride', slug: 'hybride' },
   { name: 'Maroc', slug: 'maroc' },

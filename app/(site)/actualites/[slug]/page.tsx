@@ -4,7 +4,7 @@ import { notFound } from 'next/navigation';
 import Breadcrumb from '@/src/components/layout/Breadcrumb';
 import JsonLd from '@/src/components/seo/JsonLd';
 import { articles, formatArticleDate, type ArticleSeed } from '@/src/data/articles';
-import { newsArticleSchema } from '@/src/lib/seo/schemas';
+import { newsArticleSchema, breadcrumbSchema } from '@/src/lib/seo/schemas';
 import { truncateDescription } from '@/src/lib/seo/metadata';
 
 interface PageProps {
@@ -33,7 +33,7 @@ export function generateMetadata({ params }: PageProps): Metadata {
       description: article.excerpt,
       url: canonical,
       publishedTime: article.publishedAt,
-      images: [{ url: article.image }],
+      images: [{ url: article.image, width: 1200, height: 800, alt: article.title }],
       authors: article.author ? [article.author] : undefined,
     },
     twitter: {
@@ -52,15 +52,22 @@ export default function ArticlePage({ params }: PageProps) {
   return (
     <article className="bg-white pt-32 pb-24">
       <JsonLd
-        data={newsArticleSchema({
-          title: article.title,
-          description: article.excerpt,
-          url: `/actualites/${article.slug}`,
-          image: article.image,
-          datePublished: article.publishedAt,
-          authorName: article.author,
-          section: article.category,
-        })}
+        data={[
+          newsArticleSchema({
+            title: article.title,
+            description: article.excerpt,
+            url: `/actualites/${article.slug}`,
+            image: article.image,
+            datePublished: article.publishedAt,
+            authorName: article.author,
+            section: article.category,
+          }),
+          breadcrumbSchema([
+            { name: 'Accueil', url: '/' },
+            { name: 'Actualités', url: '/actualites' },
+            { name: article.title, url: `/actualites/${article.slug}` },
+          ]),
+        ]}
         id="article"
       />
 

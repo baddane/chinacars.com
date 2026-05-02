@@ -14,7 +14,12 @@ export function organizationSchema(): Thing {
     '@type': 'Organization',
     name: SITE.name,
     url: SITE.url,
-    logo: absoluteUrl('/icons/logo.svg'),
+    logo: {
+      '@type': 'ImageObject',
+      url: absoluteUrl('/favicon.svg'),
+      width: 512,
+      height: 512,
+    },
     sameAs: [
       'https://facebook.com/chinacarsma',
       'https://instagram.com/chinacarsma',
@@ -31,11 +36,6 @@ export function websiteSchema(): Thing {
     name: SITE.name,
     url: SITE.url,
     inLanguage: SITE.defaultLanguage,
-    potentialAction: {
-      '@type': 'SearchAction',
-      target: `${SITE.url}/recherche?q={search_term_string}`,
-      'query-input': 'required name=search_term_string',
-    },
   };
 }
 
@@ -86,7 +86,9 @@ export function newsArticleSchema(input: ArticleSchemaInput): Thing {
       name: SITE.name,
       logo: {
         '@type': 'ImageObject',
-        url: absoluteUrl('/icons/logo.svg'),
+        url: absoluteUrl('/favicon.svg'),
+        width: 512,
+        height: 512,
       },
     },
     mainEntityOfPage: {

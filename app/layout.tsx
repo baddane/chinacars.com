@@ -24,7 +24,7 @@ export const metadata: Metadata = {
   referrer: 'origin-when-cross-origin',
   icons: {
     icon: [{ url: '/favicon.svg', type: 'image/svg+xml' }],
-    apple: '/apple-touch-icon.png',
+    apple: '/favicon.svg',
   },
   manifest: '/manifest.webmanifest',
   alternates: {

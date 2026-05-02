@@ -14,6 +14,7 @@ export const metadata: Metadata = {
 };
 
 const featuredArticles = articles.slice(0, 3);
+const latestArticle = articles[0];
 const brandLogos = BRANDS.slice(0, 6).map((brand) => ({
   name: brand.name,
   slug: brand.slug,
@@ -37,9 +38,9 @@ export default function Home() {
           <div className="max-w-2xl">
             <div className="mb-8 flex">
               <div className="relative rounded-full px-3 py-1 text-sm leading-6 text-gray-400 ring-1 ring-white/10 hover:ring-white/20">
-                Le BYD Atto 3 est maintenant disponible au Maroc.{' '}
+                {latestArticle.title}{' '}
                 <Link
-                  href="/actualites/byd-seal-prix-maroc-2024"
+                  href={`/actualites/${latestArticle.slug}`}
                   className="font-semibold text-red-500"
                 >
                   <span className="absolute inset-0" aria-hidden="true" />
