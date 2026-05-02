@@ -6,6 +6,7 @@ import JsonLd from '@/src/components/seo/JsonLd';
 import { articles, formatArticleDate, type ArticleSeed } from '@/src/data/articles';
 import { newsArticleSchema, breadcrumbSchema } from '@/src/lib/seo/schemas';
 import { truncateDescription } from '@/src/lib/seo/metadata';
+import { resolveArticleImage } from '@/src/lib/images';
 
 interface PageProps {
   params: { slug: string };
@@ -33,7 +34,7 @@ export function generateMetadata({ params }: PageProps): Metadata {
       description: article.excerpt,
       url: canonical,
       publishedTime: article.publishedAt,
-      images: [{ url: article.image, width: 1200, height: 800, alt: article.title }],
+      images: [{ url: resolveArticleImage(article.image, article.slug, article.categorySlug), width: 1200, height: 800, alt: article.title }],
       authors: article.author ? [article.author] : undefined,
     },
     twitter: {
@@ -48,6 +49,7 @@ export function generateMetadata({ params }: PageProps): Metadata {
 export default function ArticlePage({ params }: PageProps) {
   const article = findArticle(params.slug);
   if (!article) notFound();
+  const imageSrc = resolveArticleImage(article.image, article.slug, article.categorySlug);
 
   return (
     <article className="bg-white pt-32 pb-24">
@@ -103,7 +105,7 @@ export default function ArticlePage({ params }: PageProps) {
 
         <div className="relative mt-12 aspect-[16/9] overflow-hidden rounded-2xl">
           <Image
-            src={article.image}
+            src={imageSrc}
             alt={article.title}
             fill
             sizes="(min-width: 768px) 768px, 100vw"

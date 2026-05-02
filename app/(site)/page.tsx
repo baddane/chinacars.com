@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 import Image from 'next/image';
 import { ArrowRight, Zap, Shield, TrendingUp, ChevronRight } from 'lucide-react';
+import { resolveArticleImage } from '@/src/lib/images';
 import ArticleCard from '@/src/components/articles/ArticleCard';
 import { articles } from '@/src/data/articles';
 import { BRANDS } from '@/src/lib/constants';
@@ -26,7 +27,7 @@ export default function Home() {
     <>
       <section className="relative isolate overflow-hidden bg-gray-900 pt-14">
         <Image
-          src="https://picsum.photos/seed/carhero/1920/1080?blur=2"
+          src="https://loremflickr.com/1920/1080/electric,car,highway,night?lock=42"
           alt=""
           aria-hidden="true"
           fill
@@ -182,8 +183,8 @@ export default function Home() {
             </div>
             <div className="relative">
               <Image
-                src="https://picsum.photos/seed/interior/800/600"
-                alt="Intérieur moderne d'une voiture chinoise"
+                src="https://loremflickr.com/800/600/electric,car,interior,dashboard?lock=17"
+                alt="Intérieur moderne d'une voiture chinoise électrique"
                 width={800}
                 height={600}
                 className="w-full rounded-xl shadow-xl ring-1 ring-gray-400/10"

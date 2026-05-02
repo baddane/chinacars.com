@@ -3,6 +3,7 @@ import Image from 'next/image';
 import { cn } from '@/src/lib/utils';
 import Badge from '@/src/components/ui/Badge';
 import { formatArticleDate } from '@/src/data/articles';
+import { resolveArticleImage } from '@/src/lib/images';
 
 export interface ArticleCardData {
   slug: string;
@@ -10,6 +11,7 @@ export interface ArticleCardData {
   excerpt: string;
   image: string;
   category: string;
+  categorySlug: string;
   publishedAt: string;
   readingTime?: number;
 }
@@ -22,6 +24,7 @@ interface ArticleCardProps {
 
 export default function ArticleCard({ article, className, priority = false }: ArticleCardProps) {
   const href = `/actualites/${article.slug}`;
+  const imageSrc = resolveArticleImage(article.image, article.slug, article.categorySlug);
   return (
     <article className={cn('flex flex-col items-start', className)}>
       <Link
@@ -31,7 +34,7 @@ export default function ArticleCard({ article, className, priority = false }: Ar
       >
         <div className="aspect-[16/9] relative">
           <Image
-            src={article.image}
+            src={imageSrc}
             alt={article.title}
             fill
             sizes="(min-width: 1024px) 400px, (min-width: 640px) 50vw, 100vw"
