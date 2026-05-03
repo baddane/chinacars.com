@@ -114,20 +114,27 @@ export default function ArticlePage({ params }: PageProps) {
           />
         </div>
 
-        <div className="prose prose-gray mt-12 max-w-none">
-          <p>
-            Le contenu éditorial complet sera chargé depuis Sanity CMS. Cette
-            page de démonstration montre la structure SEO : balises meta
-            dynamiques, Schema.org <code>NewsArticle</code>, image principale
-            optimisée via <code>next/image</code>, fil d&apos;Ariane accessible
-            et temps de lecture.
-          </p>
-          <p>
-            Quand le CMS sera peuplé, remplacez l&apos;appel à{' '}
-            <code>articles</code> par <code>sanityFetch(articleBySlugQuery)</code> et
-            utilisez <code>@portabletext/react</code> pour rendre le corps.
-          </p>
-        </div>
+        {article.body ? (
+          <div
+            className="prose prose-gray mt-12 max-w-none prose-headings:text-gray-900 prose-a:text-red-600 prose-strong:text-gray-900"
+            dangerouslySetInnerHTML={{ __html: article.body }}
+          />
+        ) : (
+          <div className="prose prose-gray mt-12 max-w-none">
+            <p>
+              Le contenu éditorial complet sera chargé depuis Sanity CMS. Cette
+              page de démonstration montre la structure SEO : balises meta
+              dynamiques, Schema.org <code>NewsArticle</code>, image principale
+              optimisée via <code>next/image</code>, fil d&apos;Ariane accessible
+              et temps de lecture.
+            </p>
+            <p>
+              Quand le CMS sera peuplé, remplacez l&apos;appel à{' '}
+              <code>articles</code> par <code>sanityFetch(articleBySlugQuery)</code> et
+              utilisez <code>@portabletext/react</code> pour rendre le corps.
+            </p>
+          </div>
+        )}
       </div>
     </article>
   );

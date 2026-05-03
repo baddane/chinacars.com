@@ -14,9 +14,98 @@ export interface ArticleSeed {
   publishedAt: string; // ISO 8601
   readingTime: number;
   author?: string;
+  body?: string; // HTML — rendered when CMS body is not yet available
 }
 
 export const articles: ArticleSeed[] = [
+  {
+    slug: 'mg-zs-hybrid-plus-perte-de-puissance-cause-solution',
+    title: 'MG ZS Hybrid+ : le problème de perte de puissance expliqué (197 ch → 55 ch)',
+    excerpt:
+      'Sur autoroute ou en côte, le MG ZS Hybrid+ peut perdre les trois quarts de sa puissance annoncée. On vous explique pourquoi ça arrive, comment le reconnaître, et ce que la mise à jour logicielle PD052 change vraiment.',
+    image: 'https://picsum.photos/seed/mgzshybridplus/1200/800',
+    category: 'Analyse',
+    categorySlug: 'analyse',
+    publishedAt: '2026-05-03T09:00:00+01:00',
+    readingTime: 10,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Un SUV hybride qui peut perdre 72 % de sa puissance</h2>
+<p>Le MG ZS Hybrid+ est affiché à 197 ch. C'est ce que dit la fiche technique, ce que répètent les concessionnaires, et ce que lisent les acheteurs avant de signer. Sauf que, dans certaines conditions de conduite parfaitement ordinaires — une montée d'autoroute, une côte soutenue à 110 km/h — cette puissance peut s'effondrer jusqu'à <strong>55 ch</strong>. Soit 142 ch qui disparaissent, un manque à gagner de 72 %.</p>
+<p>Ce n'est pas une rumeur de forum. C'est ce que <em>Automobile Propre</em> a mesuré lors de son essai longue durée et de son "Supertest" : "une simple pente sur l'autoroute suffit à observer le phénomène, le SUV pouvant perdre de la vitesse". Le phénomène est réel, documenté, et MG a fini par publier une mise à jour logicielle (PD052) pour tenter d'y remédier.</p>
+<p>Voici tout ce que vous devez savoir.</p>
+
+<h2>Architecture du groupe motopropulseur : comprendre le système</h2>
+<p>Pour saisir d'où vient le problème, il faut d'abord comprendre comment fonctionne le groupe motopropulseur du MG ZS Hybrid+.</p>
+<p>Le véhicule combine deux sources d'énergie :</p>
+<ul>
+  <li><strong>Moteur thermique 1,5 L cycle Atkinson</strong> : 102 ch (75 kW) et 128 Nm de couple. Un moteur économique à faible compression, optimisé pour l'efficacité plutôt que pour la performance pure.</li>
+  <li><strong>Moteur électrique synchrone</strong> : 136 ch (100 kW) et 250 Nm. C'est lui le vrai moteur de performance du duo.</li>
+  <li><strong>Batterie haute tension</strong> : 1,83 kWh seulement. MG la présente comme "la plus grande de sa catégorie" — ce qui était vrai lors du lancement, mais ne doit pas faire oublier son volume très limité.</li>
+  <li><strong>Boîte automatique à 3 rapports</strong> qui gère la répartition de puissance entre les deux blocs.</li>
+</ul>
+<p>La puissance combinée de <strong>197 ch</strong> n'est disponible que lorsque le moteur thermique ET le moteur électrique fonctionnent simultanément à leur régime optimal. La batterie doit être suffisamment chargée pour que le moteur électrique délivre sa pleine puissance (100 kW).</p>
+<p>C'est précisément là que le problème se cache.</p>
+
+<h2>Le scénario qui déclenche la perte de puissance</h2>
+<p>Imaginez la situation suivante : vous roulez sur l'autoroute à une vitesse stabilisée. La voiture est en mode hybride, la batterie se décharge progressivement pour soulager le moteur thermique. Jusque-là, tout va bien.</p>
+<p>Vous abordez alors une côte. La demande en puissance augmente. Le moteur électrique puise davantage dans la batterie, dont l'état de charge (SOC) chute rapidement — la capacité de 1,83 kWh laissant très peu de marge.</p>
+<p>À ce stade, le système de gestion de batterie du MG ZS Hybrid+ (dans sa calibration d'origine) fait face à un dilemme : il doit simultanément :</p>
+<ol>
+  <li>Propulser le véhicule sur la côte ;</li>
+  <li>Recharger la batterie via le moteur thermique pour éviter une décharge complète.</li>
+</ol>
+<p>Le moteur thermique de 102 ch se retrouve donc à assumer les deux tâches. Une partie de sa puissance part dans le générateur pour recharger la batterie, l'autre dans les roues pour avancer. Résultat : la puissance disponible aux roues peut tomber à <strong>55 ch (40 kW)</strong> — soit à peine plus que la puissance nominale du seul moteur thermique, une fois la récupération de charge soustraite.</p>
+<p>Sur autoroute, à 110 km/h, c'est insuffisant pour maintenir la vitesse en côte. Le véhicule ralentit visiblement, ce qui force le conducteur à enfoncer davantage l'accélérateur — ce qui empire le cycle en demandant encore plus d'énergie que le système ne peut fournir.</p>
+
+<h2>Pourquoi la batterie de 1,83 kWh est au cœur du problème</h2>
+<p>Cette capacité de 1,83 kWh est la racine structurelle du problème. Pour comparaison :</p>
+<ul>
+  <li>La Toyota Yaris Cross hybride embarque une batterie de 0,3 kWh — mais son architecture parallèle gère différemment la répartition de puissance.</li>
+  <li>Une Toyota RAV4 Hybrid monte à 1,3 kWh avec une gestion éprouvée depuis des décennies.</li>
+  <li>Les PHEV (hybrides rechargeables) comme le Chery Tiggo 7 Pro PHEV ou le BYD Seal U PHEV utilisent des batteries de 15 à 18 kWh — hors catégorie.</li>
+</ul>
+<p>Avec 1,83 kWh, la fenêtre de fonctionnement réelle du moteur électrique est très étroite. Le système doit constamment jongler entre décharge et recharge. Sur autoroute, où la récupération au freinage est quasi inexistante et la demande en puissance soutenue, la batterie se vide vite et le moteur électrique ne peut plus jouer son rôle de renfort.</p>
+<p>La calibration logicielle originale du MG ZS Hybrid+ n'anticipait pas suffisamment ce scénario. Elle permettait à la batterie de descendre trop bas avant de déclencher une phase de recharge active, créant ce "creux de puissance" aux moments les plus inopportuns.</p>
+
+<h2>La mise à jour PD052 : la solution officielle de MG</h2>
+<p>Face aux retours d'essayeurs et de propriétaires, MG a reconnu le problème et déployé une reprogrammation logicielle identifiée sous la référence <strong>PD052</strong>.</p>
+<p>L'objectif déclaré : "<em>accentuer les phases de recharge de la batterie en amont</em>". Concrètement, le système commence à recharger la batterie plus tôt et plus agressivement, avant que l'état de charge ne descende à un niveau critique. La batterie maintient ainsi un "matelas" d'énergie disponible lorsqu'une demande de puissance importante survient — une montée, un dépassement, une accélération soutenue.</p>
+<p>Une mise à jour <strong>P033</strong> a également été évoquée par des propriétaires en concession, probablement complémentaire à PD052, sans que MG ait officiellement détaillé son périmètre exact.</p>
+<h3>Le revers de la médaille</h3>
+<p>Cette stratégie de recharge anticipée a un coût mécanique direct : <strong>la consommation de carburant augmente</strong>. Recharger la batterie via le moteur thermique, c'est le faire tourner à plus haut régime et plus longtemps que nécessaire pour la seule propulsion. La consommation homologuée de 5,1 L/100 km sera donc plus difficile à respecter dans la pratique après la mise à jour.</p>
+<p>MG n'a pas communiqué de chiffre précis sur l'impact attendu, ni spécifié le nouveau seuil minimal d'état de charge que le système doit maintenir. Un manque de transparence qui laisse les propriétaires sans point de référence pour juger l'efficacité de la mise à jour.</p>
+
+<h2>Ce que disent les propriétaires</h2>
+<p>Sur les plateformes de reviews automobiles, les retours des propriétaires marocains confirment le phénomène sans pour autant le dramatiser. Un propriétaire sur Wandaloo note que "quand il y a des montées raides et que le moteur électrique est épuisé, elle peut râler un peu" — mais relativise immédiatement, soulignant le confort, la finition et la garantie 200 000 km comme points positifs.</p>
+<p>Cette réaction est révélatrice : le problème est réel et perceptible, mais les propriétaires qui conduisent majoritairement en ville ou sur des routes plates ne le rencontrent pratiquement jamais. C'est sur <strong>parcours autoroutier long avec reliefs</strong> que la limitation est la plus marquée.</p>
+<p>Du côté des propriétaires européens, des discussions sur des forums spécialisés révèlent que certains ont contacté leur concessionnaire pour demander la confirmation de l'application des mises à jour PD052 et P033, sans toujours obtenir de réponse claire — ce qui soulève une question sur la communication du réseau MG.</p>
+
+<h2>Contexte marocain : des routes qui amplifient le problème</h2>
+<p>Pour les conducteurs marocains, ce problème prend une dimension particulière. Le réseau routier marocain combine des axes autoroutiers rapides et des trajets en relief significatif :</p>
+<ul>
+  <li><strong>L'axe Casablanca–Marrakech</strong> (A7) : relativement plat jusqu'à Settat, mais les approches du piémont atlasique à l'approche de Marrakech présentent des successions de côtes à 110 km/h.</li>
+  <li><strong>L'axe Fès–Taza</strong> et les routes de l'Atlas moyen : des rampes prolongées typiques des zones de montagne où la gestion de la batterie sera mise à rude épreuve.</li>
+  <li><strong>La route nationale Marrakech–Agadir</strong> via Aït Benhaddou : des descentes et montées enchaînées dans le Haut Atlas qui sont exactement le type de conduite exposant ce défaut.</li>
+</ul>
+<p>Un conducteur qui fait la navette Casablanca–Rabat sur voie rapide et ne prend jamais la montagne ne verra probablement jamais ce problème. Mais celui qui traverse régulièrement le Rif ou l'Atlas doit absolument s'assurer que la mise à jour a été appliquée.</p>
+
+<h2>Que faire si vous êtes concerné ?</h2>
+<p>Si vous possédez un MG ZS Hybrid+ ou si vous envisagez d'en acheter un d'occasion, voici les étapes à suivre :</p>
+<ol>
+  <li><strong>Contactez votre concessionnaire MG</strong> et demandez explicitement si les mises à jour <strong>PD052</strong> (et P033) ont été appliquées à votre véhicule. Mentionnez ces références précises.</li>
+  <li><strong>Si votre véhicule n'a pas reçu la mise à jour</strong>, prenez rendez-vous pour une reprogrammation. La procédure est gratuite (campagne logicielle, non un rappel de sécurité) et se fait en quelques heures.</li>
+  <li><strong>Pour un achat d'occasion</strong>, vérifiez l'historique d'entretien et posez la question spécifiquement. Un vendeur sérieux pourra vous fournir la preuve de mise à jour via le VIN du véhicule.</li>
+  <li><strong>Testez le véhicule avant achat</strong> sur une côte autoroutière ou une rampe significative. Si la voiture maintient sa vitesse de croisière sans effort visible à 100–110 km/h en montée, la gestion est satisfaisante.</li>
+</ol>
+
+<h2>Verdict : un défaut sérieux, une solution disponible</h2>
+<p>Le MG ZS Hybrid+ reste un véhicule compétitif sur son segment : confort correct, finition honnête, consommation raisonnable en ville, garantie longue durée et tarif aggressif au Maroc (259 000 DH en version Drive). Ces atouts expliquent son succès commercial.</p>
+<p>Mais le problème de perte de puissance est indéniable et objectivement documenté. Une chute de 197 ch à 55 ch sur une pente d'autoroute n'est pas une variation anecdotique — c'est une limitation fonctionnelle sérieuse pour quiconque utilise le véhicule en dehors des zones urbaines plates.</p>
+<p>La bonne nouvelle : la mise à jour PD052 existe et est accessible. La moins bonne : MG n'a pas été proactif dans sa communication, laissant de nombreux propriétaires ignorer qu'elle est disponible — et que leur véhicule en a besoin.</p>
+<p>Si vous êtes propriétaire d'un MG ZS Hybrid+ et que vous n'avez jamais entendu parler de PD052, appelez votre concessionnaire dès aujourd'hui.</p>
+`,
+  },
   {
     slug: 'byd-seal-prix-maroc-2024',
     title: 'BYD Seal : la berline qui fait trembler Tesla arrive au Maroc',
