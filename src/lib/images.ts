@@ -1,43 +1,102 @@
-/**
- * Maps article slugs/categories to car-relevant image keywords.
- * Used to replace generic picsum placeholders with actual vehicle photos
- * until real images are loaded from Sanity CMS.
- */
+const WANDALOO_BASE = 'https://www.wandaloo.com/files/Voiture-Neuve/';
 
-const BRAND_KEYWORDS: Record<string, string> = {
-  byd: 'BYD,electric,car',
-  mg: 'MG,electric,hatchback',
-  zeekr: 'electric,car,luxury,sedan',
-  nio: 'electric,sedan,luxury',
-  xpeng: 'electric,car,autonomous',
-  chery: 'SUV,car,automotive',
-  omoda: 'SUV,electric,car',
-  jaecoo: 'SUV,offroad,car',
-  xiaomi: 'electric,sedan,sports,car',
-  leapmotor: 'electric,city,car',
-  gwm: 'SUV,haval,car',
-  geely: 'electric,car,geely',
-  hongqi: 'luxury,car,limousine',
-  avatr: 'electric,car,futuristic',
-  hiphi: 'electric,car,design',
-  voyah: 'electric,SUV,luxury',
-  seres: 'electric,car,SUV',
-  lynk: 'car,subscription,electric',
-  maxus: 'pickup,electric,truck',
-  tesla: 'Tesla,electric,car',
-  porsche: 'Porsche,sports,car',
-  volkswagen: 'Volkswagen,car,automotive',
-  renault: 'Renault,electric,car',
-  peugeot: 'Peugeot,electric,car',
-  citroen: 'Citroen,electric,city,car',
-  bmw: 'BMW,electric,premium,car',
-  mercedes: 'Mercedes,luxury,electric,car',
-  audi: 'Audi,electric,premium,car',
-  volvo: 'Volvo,electric,SUV',
-  toyota: 'Toyota,hybrid,car',
-  hyundai: 'Hyundai,electric,car',
-  dacia: 'Dacia,electric,budget,car',
-};
+// Ordered most-specific first so the first match wins
+const MODEL_IMAGE_MAP: [string, string][] = [
+  // BYD
+  ['byd-seal-u', 'byd-seal-u-phev.jpg'],
+  ['byd-seal-5', 'byd-seal-5-phev.jpg'],
+  ['byd-sealion', 'byd-sealion-7.jpg'],
+  ['byd-atto-2', 'byd-atto-2-phev.jpg'],
+  ['byd-atto-3', 'byd-atto-3.jpg'],
+  ['byd-seagull', 'byd-seagull.jpg'],
+  ['byd-tang', 'byd-tang.jpg'],
+  ['byd-han', 'byd-han.jpg'],
+  ['byd-seal', 'byd-seal.jpg'],
+  ['byd', 'byd-seal.jpg'],
+  // MG
+  ['mg-marvel', 'mg-marvel-r.jpg'],
+  ['mg-zs-ev', 'mg-zs-ev.jpg'],
+  ['mg-zs', 'mg-zs-hev.jpg'],
+  ['mg-hs-hev', 'mg-hs-hev.jpg'],
+  ['mg-hs', 'mg-hs.jpg'],
+  ['mg-mg5', 'mg-mg-5.jpg'],
+  ['mg-5', 'mg-mg-5.jpg'],
+  ['mg-mg3', 'mg-mg3.jpg'],
+  ['mg', 'mg-zs-ev.jpg'],
+  // Chery / Omoda / Jaecoo (shared group)
+  ['chery-arrizo', 'chery-arrizo-6.jpg'],
+  ['chery-tiggo-8', 'chery-tiggo-8-pro-phev.jpg'],
+  ['chery-tiggo-7', 'chery-tiggo-7-pro-phev.jpg'],
+  ['chery-tiggo-4-cross', 'chery-tiggo-4-cross-hev.jpg'],
+  ['chery-tiggo-4', 'chery-tiggo-4-pro.jpg'],
+  ['chery-tiggo-3', 'chery-tiggo-3-x.jpg'],
+  ['chery-tiggo-2', 'chery-tiggo-2-pro.jpg'],
+  ['chery', 'chery-tiggo-4-pro.jpg'],
+  ['omoda-e5', 'omoda-e5.jpg'],
+  ['omoda-c5', 'omoda-c5-.jpg'],
+  ['omoda-5', 'omoda-5-shs-h.jpg'],
+  ['omoda-3', 'omoda--3-.jpg'],
+  ['omoda', 'omoda-c5-.jpg'],
+  ['jaecoo-j7-phev', 'jaecoo-j7-phev.jpg'],
+  ['jaecoo-j7', 'jaecoo-j7.jpg'],
+  ['jaecoo', 'jaecoo-j7.jpg'],
+  // Geely
+  ['geely-riddara', 'geely-riddara-rd6-phev.jpg'],
+  ['geely-ex5', 'geely-ex5-phev.jpg'],
+  ['geely-geometry', 'geely-geometry-c.jpg'],
+  ['geely-cityray', 'geely-cityray.jpg'],
+  ['geely-coolray', 'geely-coolray.jpg'],
+  ['geely-emgrand', 'geely-emgrand.jpg'],
+  ['geely-gx3', 'geely-gx3-pro.jpg'],
+  ['geely', 'geely-coolray.jpg'],
+  // GWM / Haval
+  ['gwm-tank', 'gwm-tank-300.jpg'],
+  ['gwm-wey', 'gwm-wey-05.jpg'],
+  ['gwm-poer', 'gwm-poer-dc.jpg'],
+  ['gwm-ora', 'gwm-ora-03.jpg'],
+  ['ora-03', 'gwm-ora-03.jpg'],
+  ['haval-h6-phev', 'gwm-haval-h6-phev.jpg'],
+  ['haval-jolion-pro', 'gwm-haval-jolion-pro.jpg'],
+  ['haval-jolion', 'gwm-haval-jolion.jpg'],
+  ['haval-h7', 'gwm-haval-h7.jpg'],
+  ['haval-h6', 'gwm-haval-h6.jpg'],
+  ['haval', 'gwm-haval-jolion.jpg'],
+  ['tank-300', 'gwm-tank-300.jpg'],
+  ['gwm', 'gwm-haval-jolion.jpg'],
+  // XPeng
+  ['xpeng-g9', 'xpeng-g9.jpg'],
+  ['xpeng-g6', 'xpeng-g6.jpg'],
+  ['xpeng', 'xpeng-g6.jpg'],
+  // Zeekr
+  ['zeekr-7x', 'zeekr-7x.jpg'],
+  ['zeekr-001', 'zeekr-001.jpg'],
+  ['zeekr-x', 'zeekr-x.jpg'],
+  ['zeekr', 'zeekr-x.jpg'],
+  // Changan
+  ['changan-uni-k', 'changan-uni-k.jpg'],
+  ['changan-cs55', 'changan-cs55-.jpg'],
+  ['changan-cs35', 'changan-cs35-.jpg'],
+  ['changan-alsvin', 'changan-alsvin.jpg'],
+  ['changan', 'changan-cs55-.jpg'],
+  // Soueast
+  ['soueast-s09', 'soueast-s09.jpg'],
+  ['soueast-s07', 'soueast-s07.jpg'],
+  ['soueast-s06-dm', 'soueast-s06-dm.jpg'],
+  ['soueast-s06', 'soueast-s06-ice.jpg'],
+  ['soueast-s05', 'soueast-s05-ice.jpg'],
+  ['soueast', 'soueast-s07.jpg'],
+  // DFSK
+  ['dfsk-e5', 'dfsk-e5-.jpg'],
+  ['dfsk-glory', 'dfsk-glory-500.jpg'],
+  ['dfsk', 'dfsk-glory-500.jpg'],
+  // Dongfeng
+  ['dongfeng-shine-max', 'dongfeng-shine-max.jpg'],
+  ['dongfeng-shine', 'dongfeng-shine.jpg'],
+  ['dongfeng-mage', 'dongfeng-mage.jpg'],
+  ['dongfeng-huge', 'dongfeng-huge.jpg'],
+  ['dongfeng-box', 'dongfeng-box.jpg'],
+  ['dongfeng', 'dongfeng-box.jpg'],
+];
 
 const CATEGORY_KEYWORDS: Record<string, string> = {
   comparatif: 'electric,car,comparison,road',
@@ -53,27 +112,22 @@ const CATEGORY_KEYWORDS: Record<string, string> = {
   conseil: 'car,advice,dealership',
 };
 
-/**
- * Returns a hash-stable integer from a string for consistent image locking.
- */
 function slugToLock(slug: string): number {
   return Math.abs(slug.split('').reduce((acc, c) => (acc * 31 + c.charCodeAt(0)) | 0, 0)) % 10000;
 }
 
-/**
- * Picks relevant car keywords from an article slug.
- */
-function slugToKeywords(slug: string, categorySlug: string): string {
-  for (const [brand, keywords] of Object.entries(BRAND_KEYWORDS)) {
-    if (slug.includes(brand)) return keywords;
+function findWandaloo(slug: string): string | null {
+  for (const [keyword, filename] of MODEL_IMAGE_MAP) {
+    if (slug.includes(keyword)) return WANDALOO_BASE + filename;
   }
-  return CATEGORY_KEYWORDS[categorySlug] ?? 'electric,car,automotive,road';
+  return null;
 }
 
 /**
- * Converts a picsum.photos placeholder URL to a loremflickr.com URL
- * that returns an actual car photo matching the article context.
- * Real Sanity CMS images pass through unchanged.
+ * Resolves the best available image for an article:
+ * 1. Real Sanity CMS URL → pass through
+ * 2. Slug matches a known model → wandaloo.com vehicle photo
+ * 3. Category keyword match → loremflickr keyword search
  */
 export function resolveArticleImage(
   image: string,
@@ -83,7 +137,9 @@ export function resolveArticleImage(
   height = 800,
 ): string {
   if (!image.includes('picsum.photos')) return image;
-  const keywords = slugToKeywords(slug, categorySlug);
+  const wandaloo = findWandaloo(slug);
+  if (wandaloo) return wandaloo;
+  const keywords = CATEGORY_KEYWORDS[categorySlug] ?? 'electric,car,automotive,road';
   const lock = slugToLock(slug);
   return `https://loremflickr.com/${width}/${height}/${keywords}?lock=${lock}`;
 }
