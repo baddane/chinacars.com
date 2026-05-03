@@ -14,6 +14,9 @@ export interface ArticleSeed {
   publishedAt: string; // ISO 8601
   readingTime: number;
   author?: string;
+  brandSlug?: string;      // marque principale de l'article
+  relatedSlugs?: string[]; // slugs des articles liés
+  tags?: string[];         // mots-clés thématiques
 }
 
 export const articles: ArticleSeed[] = [
@@ -28,6 +31,13 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-04-12T09:00:00+01:00',
     readingTime: 6,
     author: 'Rédaction ChinaCarsMA',
+    brandSlug: 'byd',
+    relatedSlugs: [
+      'geely-geometry-c-autonomie-autoroute-casa-rabat',
+      'voiture-chinoise-occasion-fiabilite',
+      'mg-cyberster-roadster-electrique',
+    ],
+    tags: ['BYD', 'berline électrique', 'VE', 'Maroc', 'nouveauté 2024'],
   },
   {
     slug: 'mg-cyberster-roadster-electrique',
@@ -39,6 +49,14 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'essai',
     publishedAt: '2024-04-10T09:00:00+01:00',
     readingTime: 5,
+    author: 'Rédaction ChinaCarsMA',
+    brandSlug: 'mg',
+    relatedSlugs: [
+      'byd-seal-prix-maroc-2024',
+      'chery-tiggo-8-pro-suv-7-places',
+      'voiture-chinoise-occasion-fiabilite',
+    ],
+    tags: ['MG', 'roadster', 'électrique', 'sportive', 'cabriolet'],
   },
   {
     slug: 'importer-voiture-chinoise-maroc-2024',
@@ -50,6 +68,13 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'guide',
     publishedAt: '2024-04-08T09:00:00+01:00',
     readingTime: 8,
+    author: 'Rédaction ChinaCarsMA',
+    relatedSlugs: [
+      'voiture-chinoise-occasion-fiabilite',
+      'byd-seal-prix-maroc-2024',
+      'chery-tiggo-8-pro-suv-7-places',
+    ],
+    tags: ['importation', 'douane', 'homologation', 'Maroc', 'guide achat'],
   },
   {
     slug: 'chery-tiggo-8-pro-suv-7-places',
@@ -61,6 +86,14 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'essai',
     publishedAt: '2024-04-05T09:00:00+01:00',
     readingTime: 7,
+    author: 'Rédaction ChinaCarsMA',
+    brandSlug: 'chery',
+    relatedSlugs: [
+      'byd-seal-prix-maroc-2024',
+      'importer-voiture-chinoise-maroc-2024',
+      'voiture-chinoise-occasion-fiabilite',
+    ],
+    tags: ['Chery', 'SUV', '7 places', 'essai', 'famille'],
   },
   {
     slug: 'geely-geometry-c-autonomie-autoroute-casa-rabat',
@@ -72,6 +105,14 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'essai',
     publishedAt: '2024-04-01T09:00:00+01:00',
     readingTime: 9,
+    author: 'Rédaction ChinaCarsMA',
+    brandSlug: 'geely',
+    relatedSlugs: [
+      'byd-seal-prix-maroc-2024',
+      'mg-cyberster-roadster-electrique',
+      'importer-voiture-chinoise-maroc-2024',
+    ],
+    tags: ['Geely', 'autonomie', 'électrique', 'test réel', 'autoroute'],
   },
   {
     slug: 'voiture-chinoise-occasion-fiabilite',
@@ -83,6 +124,13 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'guide',
     publishedAt: '2024-03-28T09:00:00+01:00',
     readingTime: 6,
+    author: 'Rédaction ChinaCarsMA',
+    relatedSlugs: [
+      'importer-voiture-chinoise-maroc-2024',
+      'chery-tiggo-8-pro-suv-7-places',
+      'byd-seal-prix-maroc-2024',
+    ],
+    tags: ['occasion', 'fiabilité', 'décote', 'achat', 'conseil'],
   },
 ];
 
