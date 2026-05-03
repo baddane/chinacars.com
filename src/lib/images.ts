@@ -96,6 +96,27 @@ const MODEL_IMAGE_MAP: [string, string][] = [
   ['dongfeng-huge', 'dongfeng-huge.jpg'],
   ['dongfeng-box', 'dongfeng-box.jpg'],
   ['dongfeng', 'dongfeng-box.jpg'],
+  // Brands not on wandaloo → closest visual/segment equivalent
+  // Xiaomi (tech performance sedan) → Zeekr 7X (same segment, same tech-forward positioning)
+  ['xiaomi', 'zeekr-7x.jpg'],
+  // NIO (Chinese premium EV) → Zeekr 001 (same premium segment)
+  ['nio', 'zeekr-001.jpg'],
+  // Leapmotor (compact/affordable EV) → Omoda E5 (same compact EV segment)
+  ['leapmotor', 'omoda-e5.jpg'],
+  // Lynk & Co (Geely sub-brand) → Geely Coolray
+  ['lynk', 'geely-coolray.jpg'],
+  // Avatr (futuristic luxury EV by Chery+Huawei) → Zeekr 7X
+  ['avatr', 'zeekr-7x.jpg'],
+  // HiPhi (ultra-premium design EV) → Zeekr 7X
+  ['hiphi', 'zeekr-7x.jpg'],
+  // Hongqi (state luxury brand) → Zeekr 001 (premium sedan)
+  ['hongqi', 'zeekr-001.jpg'],
+  // Voyah (Dongfeng luxury SUV) → Dongfeng Mage (same group)
+  ['voyah', 'dongfeng-mage.jpg'],
+  // Seres (Huawei-partnered SUV brand) → GWM WEY 05 (same PHEV SUV segment)
+  ['seres', 'gwm-wey-05.jpg'],
+  // Maxus (pickup/LCV by SAIC) → GWM Poer (same pickup segment)
+  ['maxus', 'gwm-poer-dc.jpg'],
 ];
 
 const CATEGORY_KEYWORDS: Record<string, string> = {
