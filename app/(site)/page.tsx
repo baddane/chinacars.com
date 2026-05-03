@@ -16,11 +16,7 @@ export const metadata: Metadata = {
 
 const featuredArticles = articles.slice(0, 3);
 const latestArticle = articles[0];
-const brandLogos = BRANDS.slice(0, 6).map((brand) => ({
-  name: brand.name,
-  slug: brand.slug,
-  logo: `https://picsum.photos/seed/${brand.slug}logo/200/200`,
-}));
+const brandLogos = BRANDS.slice(0, 6);
 
 export default function Home() {
   return (
@@ -86,15 +82,17 @@ export default function Home() {
                 key={brand.slug}
                 href={`/marques/${brand.slug}`}
                 aria-label={`Voir la marque ${brand.name}`}
-                className="flex flex-col items-center gap-4 grayscale hover:grayscale-0 transition-all focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-red-600 rounded-full"
+                className="flex flex-col items-center gap-4 grayscale hover:grayscale-0 transition-all focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-red-600"
               >
-                <Image
-                  src={brand.logo}
-                  alt={`Logo ${brand.name}`}
-                  width={64}
-                  height={64}
-                  className="rounded-full object-cover shadow-lg"
-                />
+                <div className="flex h-20 w-20 items-center justify-center rounded-full bg-white shadow-md ring-1 ring-gray-100 p-3">
+                  <Image
+                    src={brand.logo}
+                    alt={`Logo ${brand.name}`}
+                    width={64}
+                    height={64}
+                    className="object-contain"
+                  />
+                </div>
                 <span className="text-sm font-bold text-gray-600">{brand.name}</span>
               </Link>
             ))}
