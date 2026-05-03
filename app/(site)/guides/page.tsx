@@ -1,21 +1,24 @@
 import type { Metadata } from 'next';
-import HubSection from '@/src/components/layout/HubSection';
+import CategoryArticlesPage from '@/src/components/layout/CategoryArticlesPage';
+import { articles } from '@/src/data/articles';
 
 export const metadata: Metadata = {
-  title: 'Guides pratiques',
+  title: 'Guides pratiques — Voitures chinoises',
   description:
-    "Importation, homologation, assurance, entretien : nos guides pour tout savoir sur l'achat d'une voiture chinoise au Maroc.",
+    "Importation, homologation, assurance, entretien, leasing : nos guides complets pour tout savoir sur l'achat d'une voiture chinoise.",
   alternates: { canonical: '/guides' },
 };
 
+const guides = articles.filter((a) => a.categorySlug === 'guide');
+
 export default function GuidesPage() {
   return (
-    <HubSection
+    <CategoryArticlesPage
       title="Guides pratiques"
-      description="Importation, homologation, assurance, entretien : nos guides pour tout savoir sur l'achat d'une voiture chinoise au Maroc."
+      description="Importation, homologation, assurance, entretien, leasing : nos guides complets pour tout savoir sur l'achat d'une voiture chinoise."
       canonical="/guides"
       breadcrumbLabel="Guides"
-      ctaPrimary={{ label: 'Voir les marques', href: '/marques' }}
+      articles={guides}
     />
   );
 }

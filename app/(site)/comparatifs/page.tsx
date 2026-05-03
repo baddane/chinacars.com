@@ -1,21 +1,24 @@
 import type { Metadata } from 'next';
-import HubSection from '@/src/components/layout/HubSection';
+import CategoryArticlesPage from '@/src/components/layout/CategoryArticlesPage';
+import { articles } from '@/src/data/articles';
 
 export const metadata: Metadata = {
-  title: 'Comparatifs',
+  title: 'Comparatifs voitures chinoises',
   description:
-    'Retrouvez tous nos comparatifs détaillés entre les voitures chinoises vendues au Maroc et leurs rivales.',
+    'Retrouvez tous nos comparatifs détaillés entre les voitures chinoises et leurs rivales : performances, autonomie, prix, équipements.',
   alternates: { canonical: '/comparatifs' },
 };
 
+const comparatifs = articles.filter((a) => a.categorySlug === 'comparatif');
+
 export default function ComparatifsPage() {
   return (
-    <HubSection
+    <CategoryArticlesPage
       title="Comparatifs"
-      description="Retrouvez tous nos comparatifs détaillés entre les voitures chinoises vendues au Maroc et leurs rivales."
+      description="Face-à-face détaillés entre les voitures chinoises et leurs rivales : performances, autonomie, prix, équipements."
       canonical="/comparatifs"
       breadcrumbLabel="Comparatifs"
-      ctaPrimary={{ label: "Voir l'actualité", href: '/actualites' }}
+      articles={comparatifs}
     />
   );
 }
