@@ -15,7 +15,6 @@ const brandsContent = BRANDS.slice(0, 6).map((brand, index) => ({
     "Great Wall Motor est le spécialiste des SUV (Haval) et des pick-ups.",
     'La marque de luxe électrique du groupe Geely, visant le très haut de gamme.',
   ][index] || '',
-  logo: `https://picsum.photos/seed/${brand.slug}logo/400/400`,
   modelsCount: [5, 4, 6, 3, 4, 2][index] || 0,
   origin: [
     'Shenzhen, Chine',
@@ -57,13 +56,13 @@ export default function BrandsPage() {
               key={brand.slug}
               className="flex flex-col sm:flex-row gap-6 p-8 rounded-3xl bg-gray-50 border border-gray-100 hover:shadow-xl transition-all group"
             >
-              <div className="shrink-0">
+              <div className="shrink-0 flex h-28 w-28 items-center justify-center rounded-2xl bg-white shadow-md ring-1 ring-gray-100 p-4 group-hover:rotate-3 transition-transform">
                 <Image
                   src={brand.logo}
                   alt={`Logo ${brand.name}`}
-                  width={128}
-                  height={128}
-                  className="rounded-2xl object-cover shadow-md group-hover:rotate-3 transition-transform"
+                  width={96}
+                  height={96}
+                  className="object-contain"
                 />
               </div>
               <div className="grow">

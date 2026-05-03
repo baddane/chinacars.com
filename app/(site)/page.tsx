@@ -23,7 +23,7 @@ export default function Home() {
     <>
       <section className="relative isolate overflow-hidden bg-gray-900 pt-14">
         <Image
-          src="https://loremflickr.com/1920/1080/electric,car,highway,night?lock=42"
+          src="https://loremflickr.com/1920/1080/electric,car,sedan,modern,road?lock=888"
           alt=""
           aria-hidden="true"
           fill
@@ -181,11 +181,11 @@ export default function Home() {
             </div>
             <div className="relative">
               <Image
-                src="https://loremflickr.com/800/600/electric,car,interior,dashboard?lock=17"
-                alt="Intérieur moderne d'une voiture chinoise électrique"
+                src="https://www.wandaloo.com/files/Voiture-Neuve/byd-han.jpg"
+                alt="BYD Han — berline électrique chinoise haut de gamme"
                 width={800}
                 height={600}
-                className="w-full rounded-xl shadow-xl ring-1 ring-gray-400/10"
+                className="w-full rounded-xl shadow-xl ring-1 ring-gray-400/10 object-cover"
               />
             </div>
           </div>

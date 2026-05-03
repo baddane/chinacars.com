@@ -41,7 +41,7 @@ export function generateMetadata({ params }: PageProps): Metadata {
       card: 'summary_large_image',
       title: article.title,
       description: article.excerpt,
-      images: [article.image],
+      images: [resolveArticleImage(article.image, article.slug, article.categorySlug)],
     },
   };
 }
