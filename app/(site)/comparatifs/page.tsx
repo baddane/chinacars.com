@@ -3,9 +3,9 @@ import CategoryArticlesPage from '@/src/components/layout/CategoryArticlesPage';
 import { articles } from '@/src/data/articles';
 
 export const metadata: Metadata = {
-  title: 'Comparatifs voitures chinoises',
+  title: 'Comparatifs voitures chinoises — Duels et face-à-face',
   description:
-    'Retrouvez tous nos comparatifs détaillés entre les voitures chinoises et leurs rivales : performances, autonomie, prix, équipements.',
+    'Tous nos comparatifs détaillés entre voitures chinoises et leurs rivales européennes, coréennes et japonaises : performances, autonomie, prix, équipements.',
   alternates: { canonical: '/comparatifs' },
 };
 

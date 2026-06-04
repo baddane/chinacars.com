@@ -12,12 +12,12 @@ interface PageProps {
 
 export function generateMetadata({ searchParams }: PageProps): Metadata {
   const page = Math.max(1, parseInt(searchParams.page || '1', 10));
-  const title = page > 1 ? `Actualités — Page ${page}` : 'Actualités';
+  const title = page > 1 ? `Actualités — Page ${page}` : 'Actualités voitures chinoises';
   const canonical = page > 1 ? `/actualites?page=${page}` : '/actualites';
   return {
     title,
     description:
-      "Toute l'actualité des voitures chinoises au Maroc : nouveautés, essais, prix et guides d'achat.",
+      "Toute l'actualité des voitures chinoises : nouveautés, lancements, prix, tendances du marché et analyses du secteur automobile chinois.",
     alternates: { canonical },
   };
 }
@@ -40,7 +40,7 @@ export default function NewsPage({ searchParams }: PageProps) {
           </h1>
           <p className="mt-6 text-lg leading-8 text-gray-600">
             Restez informé des derniers lancements, des essais détaillés et
-            des évolutions du marché automobile chinois au Maroc.
+            des évolutions du marché automobile chinois.
           </p>
         </div>
 

@@ -3,9 +3,9 @@ import CategoryArticlesPage from '@/src/components/layout/CategoryArticlesPage';
 import { articles } from '@/src/data/articles';
 
 export const metadata: Metadata = {
-  title: 'Guides pratiques — Voitures chinoises',
+  title: 'Guides pratiques — Achat, entretien et financement',
   description:
-    "Importation, homologation, assurance, entretien, leasing : nos guides complets pour tout savoir sur l'achat d'une voiture chinoise.",
+    "Achat, financement, assurance, entretien, importation : nos guides complets pour tout savoir avant d'acheter une voiture chinoise.",
   alternates: { canonical: '/guides' },
 };
 
@@ -15,7 +15,7 @@ export default function GuidesPage() {
   return (
     <CategoryArticlesPage
       title="Guides pratiques"
-      description="Importation, homologation, assurance, entretien, leasing : nos guides complets pour tout savoir sur l'achat d'une voiture chinoise."
+      description="Achat, financement, assurance, entretien, importation : nos guides complets pour tout savoir avant d'acheter une voiture chinoise."
       canonical="/guides"
       breadcrumbLabel="Guides"
       articles={guides}

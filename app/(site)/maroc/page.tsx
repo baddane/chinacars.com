@@ -3,9 +3,9 @@ import CategoryArticlesPage from '@/src/components/layout/CategoryArticlesPage';
 import { articles } from '@/src/data/articles';
 
 export const metadata: Metadata = {
-  title: 'Voitures chinoises au Maroc',
+  title: 'Voitures chinoises au Maroc — Prix, disponibilité et réseau',
   description:
-    "Actualité, prix, importation et SAV des voitures chinoises sur le marché marocain : tout ce qu'il faut savoir avant d'acheter.",
+    "Prix en dirhams, réseau de concessionnaires, garanties et homologation : tout savoir sur les voitures chinoises disponibles au Maroc.",
   alternates: { canonical: '/maroc' },
 };
 
@@ -25,7 +25,7 @@ const maroc = articles.filter(
 export default function MarocPage() {
   return (
     <CategoryArticlesPage
-      title="Voitures chinoises au Maroc"
+      title="Focus Maroc"
       description="Prix en dirhams, réseau de concessionnaires, garanties, SAV et homologation : tout ce qu'il faut savoir pour acheter une voiture chinoise au Maroc."
       canonical="/maroc"
       breadcrumbLabel="Maroc"

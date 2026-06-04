@@ -3,21 +3,37 @@
 import { useState, useEffect } from 'react';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
-import { Menu, X, Car, Search, Globe } from 'lucide-react';
+import { Menu, X, Car, Search, ChevronDown } from 'lucide-react';
 import { cn } from '@/src/lib/utils';
 
 const navigation = [
   { name: 'Actualités', href: '/actualites' },
-  { name: 'Marques', href: '/marques' },
+  { name: 'Essais', href: '/essais' },
+  {
+    name: 'Marques',
+    href: '/marques',
+    children: [
+      { name: 'BYD', href: '/marques/byd' },
+      { name: 'MG Motor', href: '/marques/mg' },
+      { name: 'Chery', href: '/marques/chery' },
+      { name: 'Geely', href: '/marques/geely' },
+      { name: 'GWM', href: '/marques/gwm' },
+      { name: 'Zeekr', href: '/marques/zeekr' },
+      { name: 'NIO', href: '/marques/nio' },
+      { name: 'XPeng', href: '/marques/xpeng' },
+      { name: 'Leapmotor', href: '/marques/leapmotor' },
+      { name: 'Toutes les marques', href: '/marques' },
+    ],
+  },
   { name: 'Comparatifs', href: '/comparatifs' },
-  { name: 'Guides', href: '/guides' },
   { name: 'Électrique', href: '/electrique' },
-  { name: 'Maroc', href: '/maroc' },
+  { name: 'Guides', href: '/guides' },
 ];
 
 export default function Header() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
+  const [openDropdown, setOpenDropdown] = useState<string | null>(null);
   const pathname = usePathname();
   const isHome = pathname === '/';
   const transparent = isHome && !scrolled;
@@ -31,6 +47,7 @@ export default function Header() {
 
   useEffect(() => {
     setMobileMenuOpen(false);
+    setOpenDropdown(null);
   }, [pathname]);
 
   return (
@@ -39,7 +56,7 @@ export default function Header() {
         'fixed inset-x-0 top-0 z-50 transition-all duration-300',
         transparent
           ? 'bg-transparent py-5'
-          : 'bg-white/90 backdrop-blur-md border-b border-gray-200 py-3',
+          : 'bg-white/95 backdrop-blur-md border-b border-gray-200 py-3',
       )}
     >
       <a
@@ -83,6 +100,48 @@ export default function Header() {
         <div className="hidden lg:flex lg:gap-x-8">
           {navigation.map((item) => {
             const active = pathname?.startsWith(item.href);
+            if (item.children) {
+              return (
+                <div
+                  key={item.name}
+                  className="relative"
+                  onMouseEnter={() => setOpenDropdown(item.name)}
+                  onMouseLeave={() => setOpenDropdown(null)}
+                >
+                  <Link
+                    href={item.href}
+                    aria-current={active ? 'page' : undefined}
+                    className={cn(
+                      'text-sm font-semibold leading-6 transition-colors inline-flex items-center gap-1',
+                      active
+                        ? transparent ? 'text-red-400' : 'text-red-600'
+                        : transparent ? 'text-white/90 hover:text-white' : 'text-gray-900 hover:text-red-600',
+                    )}
+                  >
+                    {item.name}
+                    <ChevronDown className="h-3.5 w-3.5" aria-hidden="true" />
+                  </Link>
+                  {openDropdown === item.name && (
+                    <div className="absolute left-1/2 -translate-x-1/2 top-full pt-2 z-50">
+                      <div className="w-56 rounded-xl bg-white shadow-xl ring-1 ring-gray-900/5 p-2">
+                        {item.children.map((child, idx) => (
+                          <Link
+                            key={child.href}
+                            href={child.href}
+                            className={cn(
+                              'block rounded-lg px-3 py-2 text-sm font-medium text-gray-700 hover:bg-red-50 hover:text-red-600 transition-colors',
+                              idx === item.children!.length - 1 && 'mt-1 border-t border-gray-100 pt-2 font-bold text-red-600',
+                            )}
+                          >
+                            {child.name}
+                          </Link>
+                        ))}
+                      </div>
+                    </div>
+                  )}
+                </div>
+              );
+            }
             return (
               <Link
                 key={item.name}
@@ -91,12 +150,8 @@ export default function Header() {
                 className={cn(
                   'text-sm font-semibold leading-6 transition-colors',
                   active
-                    ? transparent
-                      ? 'text-red-400'
-                      : 'text-red-600'
-                    : transparent
-                    ? 'text-white/90 hover:text-white'
-                    : 'text-gray-900 hover:text-red-600',
+                    ? transparent ? 'text-red-400' : 'text-red-600'
+                    : transparent ? 'text-white/90 hover:text-white' : 'text-gray-900 hover:text-red-600',
                 )}
               >
                 {item.name}
@@ -115,23 +170,12 @@ export default function Header() {
           >
             <Search className="h-5 w-5" aria-hidden="true" />
           </button>
-          <button
-            type="button"
-            aria-label="Changer de langue"
-            className={cn(
-              'flex items-center gap-1 p-2 transition-colors',
-              transparent ? 'text-white hover:text-red-400' : 'text-gray-700 hover:text-red-600',
-            )}
-          >
-            <Globe className="h-5 w-5" aria-hidden="true" />
-            <span className="text-xs font-bold">FR</span>
-          </button>
         </div>
       </nav>
 
       <div
         className={cn(
-          'lg:hidden fixed inset-0 z-50 bg-white px-6 py-6 transition-transform duration-300 ease-in-out',
+          'lg:hidden fixed inset-0 z-50 bg-white px-6 py-6 transition-transform duration-300 ease-in-out overflow-y-auto',
           mobileMenuOpen ? 'translate-x-0' : 'translate-x-full',
         )}
         aria-hidden={!mobileMenuOpen}
@@ -156,16 +200,31 @@ export default function Header() {
         </div>
         <div className="mt-6 flow-root">
           <div className="-my-6 divide-y divide-gray-500/10">
-            <div className="space-y-2 py-6">
+            <div className="space-y-1 py-6">
               {navigation.map((item) => (
-                <Link
-                  key={item.name}
-                  href={item.href}
-                  className="block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-50"
-                  onClick={() => setMobileMenuOpen(false)}
-                >
-                  {item.name}
-                </Link>
+                <div key={item.name}>
+                  <Link
+                    href={item.href}
+                    className="block rounded-lg px-3 py-2.5 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-50"
+                    onClick={() => setMobileMenuOpen(false)}
+                  >
+                    {item.name}
+                  </Link>
+                  {item.children && (
+                    <div className="ml-4 space-y-1 border-l-2 border-gray-100 pl-4">
+                      {item.children.slice(0, -1).map((child) => (
+                        <Link
+                          key={child.href}
+                          href={child.href}
+                          className="block rounded-lg px-3 py-1.5 text-sm text-gray-600 hover:bg-gray-50 hover:text-red-600"
+                          onClick={() => setMobileMenuOpen(false)}
+                        >
+                          {child.name}
+                        </Link>
+                      ))}
+                    </div>
+                  )}
+                </div>
               ))}
             </div>
           </div>

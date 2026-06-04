@@ -8,12 +8,12 @@ import { BRANDS } from '@/src/lib/constants';
 const brandsContent = BRANDS.slice(0, 6).map((brand, index) => ({
   ...brand,
   description: [
-    "Build Your Dreams est le leader mondial des véhicules électrifiés. Présent au Maroc avec une gamme complète.",
-    "Marque d'origine britannique sous pavillon chinois (SAIC), MG propose des véhicules au design dynamique.",
-    "L'un des plus grands exportateurs chinois, Chery se distingue par ses SUV technologiques.",
-    "Propriétaire de Volvo et Lotus, Geely insuffle une rigueur européenne à ses modèles.",
-    "Great Wall Motor est le spécialiste des SUV (Haval) et des pick-ups.",
-    'La marque de luxe électrique du groupe Geely, visant le très haut de gamme.',
+    "Build Your Dreams est le leader mondial des véhicules électrifiés, avec une gamme allant de la citadine au SUV premium.",
+    "Marque d'origine britannique sous pavillon chinois (SAIC), MG propose des véhicules au design dynamique et aux tarifs agressifs.",
+    "L'un des plus grands exportateurs chinois, Chery se distingue par ses SUV technologiques et sa montée en gamme rapide.",
+    "Propriétaire de Volvo et Lotus, Geely insuffle une rigueur européenne à ses modèles accessibles.",
+    "Great Wall Motor est le spécialiste des SUV (Haval) et des pick-ups robustes, en pleine expansion internationale.",
+    'La marque de luxe électrique du groupe Geely, positionnée face à Tesla et Porsche.',
   ][index] || '',
   modelsCount: [5, 4, 6, 3, 4, 2][index] || 0,
   origin: [
@@ -27,9 +27,9 @@ const brandsContent = BRANDS.slice(0, 6).map((brand, index) => ({
 }));
 
 export const metadata: Metadata = {
-  title: 'Marques de voitures chinoises au Maroc',
+  title: 'Marques de voitures chinoises — Tous les constructeurs',
   description:
-    'Découvrez toutes les marques de voitures chinoises disponibles au Maroc : BYD, MG, Chery, Geely, GWM, Zeekr.',
+    'Découvrez toutes les marques de voitures chinoises : BYD, MG, Chery, Geely, GWM, Zeekr, NIO, XPeng, Leapmotor. Fiches constructeurs et gammes complètes.',
   alternates: { canonical: '/marques' },
 };
 

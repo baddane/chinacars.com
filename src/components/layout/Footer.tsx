@@ -2,6 +2,13 @@ import Link from 'next/link';
 import { Car, Facebook, Twitter, Instagram, Youtube } from 'lucide-react';
 
 const footerNavigation = {
+  rubriques: [
+    { name: 'Actualités', href: '/actualites' },
+    { name: 'Essais', href: '/essais' },
+    { name: 'Comparatifs', href: '/comparatifs' },
+    { name: 'Guides pratiques', href: '/guides' },
+    { name: 'Électrique', href: '/electrique' },
+  ],
   marques: [
     { name: 'BYD', href: '/marques/byd' },
     { name: 'MG Motor', href: '/marques/mg' },
@@ -9,8 +16,9 @@ const footerNavigation = {
     { name: 'Geely', href: '/marques/geely' },
     { name: 'GWM', href: '/marques/gwm' },
     { name: 'Zeekr', href: '/marques/zeekr' },
+    { name: 'Toutes les marques', href: '/marques' },
   ],
-  support: [
+  pratique: [
     { name: 'À propos', href: '/a-propos' },
     { name: 'Contact', href: '/contact' },
     { name: 'Mentions légales', href: '/mentions-legales' },
@@ -30,7 +38,7 @@ export default function Footer() {
         Pied de page
       </h2>
       <div className="mx-auto max-w-7xl px-6 pb-8 pt-16 lg:px-8">
-        <div className="xl:grid xl:grid-cols-3 xl:gap-8">
+        <div className="xl:grid xl:grid-cols-4 xl:gap-8">
           <div className="space-y-8">
             <Link href="/" className="flex items-center gap-2">
               <Car className="h-8 w-8 text-red-500" aria-hidden="true" />
@@ -39,8 +47,8 @@ export default function Footer() {
               </span>
             </Link>
             <p className="text-sm leading-6 text-gray-300 max-w-xs">
-              Votre source n°1 d&apos;actualités, de tests et de prix sur les voitures
-              chinoises au Maroc et dans le monde.
+              Le média francophone de référence sur l&apos;automobile chinoise.
+              Actualités, essais, fiches techniques et guides d&apos;achat.
             </p>
             <div className="flex space-x-6">
               {footerNavigation.social.map((item) => (
@@ -55,52 +63,65 @@ export default function Footer() {
               ))}
             </div>
           </div>
-          <div className="mt-16 grid grid-cols-2 gap-8 xl:col-span-2 xl:mt-0">
-            <div className="md:grid md:grid-cols-2 md:gap-8">
-              <div>
-                <h3 className="text-sm font-semibold leading-6 text-white">
-                  Marques populaires
-                </h3>
-                <ul className="mt-6 space-y-4">
-                  {footerNavigation.marques.map((item) => (
-                    <li key={item.name}>
-                      <Link
-                        href={item.href}
-                        className="text-sm leading-6 text-gray-300 hover:text-white"
-                      >
-                        {item.name}
-                      </Link>
-                    </li>
-                  ))}
-                </ul>
-              </div>
-              <div className="mt-10 md:mt-0">
-                <h3 className="text-sm font-semibold leading-6 text-white">
-                  Informations
-                </h3>
-                <ul className="mt-6 space-y-4">
-                  {footerNavigation.support.map((item) => (
-                    <li key={item.name}>
-                      <Link
-                        href={item.href}
-                        className="text-sm leading-6 text-gray-300 hover:text-white"
-                      >
-                        {item.name}
-                      </Link>
-                    </li>
-                  ))}
-                </ul>
-              </div>
+          <div className="mt-16 grid grid-cols-3 gap-8 xl:col-span-3 xl:mt-0">
+            <div>
+              <h3 className="text-sm font-semibold leading-6 text-white">
+                Rubriques
+              </h3>
+              <ul className="mt-6 space-y-4">
+                {footerNavigation.rubriques.map((item) => (
+                  <li key={item.name}>
+                    <Link
+                      href={item.href}
+                      className="text-sm leading-6 text-gray-300 hover:text-white"
+                    >
+                      {item.name}
+                    </Link>
+                  </li>
+                ))}
+              </ul>
             </div>
-            <div className="md:grid md:grid-cols-1 md:gap-8">
-              <div className="bg-gray-800/50 p-6 rounded-2xl border border-gray-700">
+            <div>
+              <h3 className="text-sm font-semibold leading-6 text-white">
+                Marques
+              </h3>
+              <ul className="mt-6 space-y-4">
+                {footerNavigation.marques.map((item) => (
+                  <li key={item.name}>
+                    <Link
+                      href={item.href}
+                      className="text-sm leading-6 text-gray-300 hover:text-white"
+                    >
+                      {item.name}
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+            </div>
+            <div>
+              <h3 className="text-sm font-semibold leading-6 text-white">
+                Pratique
+              </h3>
+              <ul className="mt-6 space-y-4">
+                {footerNavigation.pratique.map((item) => (
+                  <li key={item.name}>
+                    <Link
+                      href={item.href}
+                      className="text-sm leading-6 text-gray-300 hover:text-white"
+                    >
+                      {item.name}
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+              <div className="mt-10 bg-gray-800/50 p-5 rounded-xl border border-gray-700">
                 <h3 className="text-sm font-semibold leading-6 text-white">
                   Newsletter
                 </h3>
-                <p className="mt-2 text-sm leading-6 text-gray-300">
-                  Recevez les dernières actus auto directement dans votre boîte mail.
+                <p className="mt-2 text-xs leading-5 text-gray-400">
+                  Recevez chaque semaine le meilleur de l&apos;actu auto chinoise.
                 </p>
-                <form className="mt-6 sm:flex sm:max-w-md" action="/api/newsletter" method="post">
+                <form className="mt-4" action="/api/newsletter" method="post">
                   <label htmlFor="email-address" className="sr-only">
                     Email
                   </label>
@@ -110,17 +131,15 @@ export default function Footer() {
                     id="email-address"
                     autoComplete="email"
                     required
-                    className="w-full min-w-0 appearance-none rounded-md border-0 bg-white/5 px-3 py-1.5 text-base text-white shadow-sm ring-1 ring-inset ring-white/10 placeholder:text-gray-500 focus:ring-2 focus:ring-inset focus:ring-red-500 sm:text-sm sm:leading-6"
+                    className="w-full min-w-0 appearance-none rounded-md border-0 bg-white/5 px-3 py-1.5 text-sm text-white shadow-sm ring-1 ring-inset ring-white/10 placeholder:text-gray-500 focus:ring-2 focus:ring-inset focus:ring-red-500"
                     placeholder="votre@email.com"
                   />
-                  <div className="mt-4 sm:ml-4 sm:mt-0 sm:shrink-0">
-                    <button
-                      type="submit"
-                      className="flex w-full items-center justify-center rounded-md bg-red-600 px-3 py-2 text-sm font-semibold text-white shadow-sm hover:bg-red-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-red-600"
-                    >
-                      S&apos;abonner
-                    </button>
-                  </div>
+                  <button
+                    type="submit"
+                    className="mt-3 flex w-full items-center justify-center rounded-md bg-red-600 px-3 py-1.5 text-sm font-semibold text-white shadow-sm hover:bg-red-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-red-600"
+                  >
+                    S&apos;abonner
+                  </button>
                 </form>
               </div>
             </div>
