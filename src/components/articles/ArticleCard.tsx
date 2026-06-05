@@ -24,7 +24,7 @@ interface ArticleCardProps {
 
 export default function ArticleCard({ article, className, priority = false }: ArticleCardProps) {
   const href = `/actualites/${article.slug}`;
-  const imageSrc = resolveArticleImage(article.image, article.slug, article.categorySlug);
+  const imageSrc = resolveArticleImage(article.image, article.slug);
   return (
     <article className={cn('flex flex-col items-start', className)}>
       <Link

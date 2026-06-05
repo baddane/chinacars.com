@@ -24,7 +24,7 @@ const guides = articles.filter((a) => a.categorySlug === 'guide').slice(0, 4);
 const brandLogos = BRANDS;
 
 export default function Home() {
-  const heroImage = resolveArticleImage(heroArticle.image, heroArticle.slug, heroArticle.categorySlug);
+  const heroImage = resolveArticleImage(heroArticle.image, heroArticle.slug);
 
   return (
     <>
@@ -63,7 +63,7 @@ export default function Home() {
             {/* Articles secondaires */}
             <div className="lg:col-span-2 grid grid-cols-1 gap-4">
               {secondaryHeroArticles.map((article) => {
-                const img = resolveArticleImage(article.image, article.slug, article.categorySlug);
+                const img = resolveArticleImage(article.image, article.slug);
                 return (
                   <Link
                     key={article.slug}
@@ -213,7 +213,7 @@ export default function Home() {
             </div>
             <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
               {comparatifs.map((article) => {
-                const img = resolveArticleImage(article.image, article.slug, article.categorySlug);
+                const img = resolveArticleImage(article.image, article.slug);
                 return (
                   <Link
                     key={article.slug}

@@ -34,14 +34,14 @@ export function generateMetadata({ params }: PageProps): Metadata {
       description: article.excerpt,
       url: canonical,
       publishedTime: article.publishedAt,
-      images: [{ url: resolveArticleImage(article.image, article.slug, article.categorySlug), width: 1200, height: 800, alt: article.title }],
+      images: [{ url: resolveArticleImage(article.image, article.slug), width: 1200, height: 800, alt: article.title }],
       authors: article.author ? [article.author] : undefined,
     },
     twitter: {
       card: 'summary_large_image',
       title: article.title,
       description: article.excerpt,
-      images: [resolveArticleImage(article.image, article.slug, article.categorySlug)],
+      images: [resolveArticleImage(article.image, article.slug)],
     },
   };
 }
@@ -49,7 +49,7 @@ export function generateMetadata({ params }: PageProps): Metadata {
 export default function ArticlePage({ params }: PageProps) {
   const article = findArticle(params.slug);
   if (!article) notFound();
-  const imageSrc = resolveArticleImage(article.image, article.slug, article.categorySlug);
+  const imageSrc = resolveArticleImage(article.image, article.slug);
 
   return (
     <article className="bg-white pt-32 pb-24">
@@ -114,27 +114,27 @@ export default function ArticlePage({ params }: PageProps) {
           />
         </div>
 
-        {article.body ? (
-          <div
-            className="prose prose-gray mt-12 max-w-none prose-headings:text-gray-900 prose-a:text-red-600 prose-strong:text-gray-900"
-            dangerouslySetInnerHTML={{ __html: article.body }}
-          />
-        ) : (
-          <div className="prose prose-gray mt-12 max-w-none">
-            <p>
-              Le contenu éditorial complet sera chargé depuis Sanity CMS. Cette
-              page de démonstration montre la structure SEO : balises meta
-              dynamiques, Schema.org <code>NewsArticle</code>, image principale
-              optimisée via <code>next/image</code>, fil d&apos;Ariane accessible
-              et temps de lecture.
-            </p>
-            <p>
-              Quand le CMS sera peuplé, remplacez l&apos;appel à{' '}
-              <code>articles</code> par <code>sanityFetch(articleBySlugQuery)</code> et
-              utilisez <code>@portabletext/react</code> pour rendre le corps.
-            </p>
-          </div>
-        )}
+        <div
+          className="prose prose-gray mt-12 max-w-none prose-headings:text-gray-900 prose-a:text-red-600 prose-strong:text-gray-900"
+        >
+          {article.body ? (
+            <div dangerouslySetInnerHTML={{ __html: article.body }} />
+          ) : (
+            <>
+              <p>{article.excerpt}</p>
+              <p>
+                Cet article est en cours de rédaction. Revenez bientôt pour
+                découvrir l&apos;analyse complète de notre rédaction.
+              </p>
+              <p>
+                En attendant, retrouvez nos derniers articles dans la rubrique{' '}
+                <a href="/actualites">Actualités</a>, nos{' '}
+                <a href="/essais">essais détaillés</a> et nos{' '}
+                <a href="/comparatifs">comparatifs</a>.
+              </p>
+            </>
+          )}
+        </div>
       </div>
     </article>
   );

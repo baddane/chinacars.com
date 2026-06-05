@@ -1,6 +1,5 @@
 const WANDALOO_BASE = 'https://www.wandaloo.com/files/Voiture-Neuve/';
 
-// Ordered most-specific first so the first match wins
 const MODEL_IMAGE_MAP: [string, string][] = [
   // BYD
   ['byd-seal-u', 'byd-seal-u-phev.jpg'],
@@ -23,7 +22,7 @@ const MODEL_IMAGE_MAP: [string, string][] = [
   ['mg-5', 'mg-mg-5.jpg'],
   ['mg-mg3', 'mg-mg3.jpg'],
   ['mg', 'mg-zs-ev.jpg'],
-  // Chery / Omoda / Jaecoo (shared group)
+  // Chery / Omoda / Jaecoo
   ['chery-arrizo', 'chery-arrizo-6.jpg'],
   ['chery-tiggo-8', 'chery-tiggo-8-pro-phev.jpg'],
   ['chery-tiggo-7', 'chery-tiggo-7-pro-phev.jpg'],
@@ -96,46 +95,18 @@ const MODEL_IMAGE_MAP: [string, string][] = [
   ['dongfeng-huge', 'dongfeng-huge.jpg'],
   ['dongfeng-box', 'dongfeng-box.jpg'],
   ['dongfeng', 'dongfeng-box.jpg'],
-  // Brands not on wandaloo → closest visual/segment equivalent
-  // Xiaomi (tech performance sedan) → Zeekr 7X (same segment, same tech-forward positioning)
+  // Brands not on wandaloo → closest visual equivalent
   ['xiaomi', 'zeekr-7x.jpg'],
-  // NIO (Chinese premium EV) → Zeekr 001 (same premium segment)
   ['nio', 'zeekr-001.jpg'],
-  // Leapmotor (compact/affordable EV) → Omoda E5 (same compact EV segment)
   ['leapmotor', 'omoda-e5.jpg'],
-  // Lynk & Co (Geely sub-brand) → Geely Coolray
   ['lynk', 'geely-coolray.jpg'],
-  // Avatr (futuristic luxury EV by Chery+Huawei) → Zeekr 7X
   ['avatr', 'zeekr-7x.jpg'],
-  // HiPhi (ultra-premium design EV) → Zeekr 7X
   ['hiphi', 'zeekr-7x.jpg'],
-  // Hongqi (state luxury brand) → Zeekr 001 (premium sedan)
   ['hongqi', 'zeekr-001.jpg'],
-  // Voyah (Dongfeng luxury SUV) → Dongfeng Mage (same group)
   ['voyah', 'dongfeng-mage.jpg'],
-  // Seres (Huawei-partnered SUV brand) → GWM WEY 05 (same PHEV SUV segment)
   ['seres', 'gwm-wey-05.jpg'],
-  // Maxus (pickup/LCV by SAIC) → GWM Poer (same pickup segment)
   ['maxus', 'gwm-poer-dc.jpg'],
 ];
-
-const CATEGORY_KEYWORDS: Record<string, string> = {
-  comparatif: 'electric,car,comparison,road',
-  technologie: 'electric,car,technology,battery',
-  guide: 'car,showroom,dealership,automotive',
-  selection: 'luxury,electric,car,lineup',
-  analyse: 'automotive,cars,road,industry',
-  essai: 'car,test,drive,road,speed',
-  nouveaute: 'new,electric,car,launch',
-  electrique: 'electric,car,charging,EV',
-  hybride: 'hybrid,car,eco,drive',
-  maroc: 'electric,car,road,sunny',
-  conseil: 'car,advice,dealership',
-};
-
-function slugToLock(slug: string): number {
-  return Math.abs(slug.split('').reduce((acc, c) => (acc * 31 + c.charCodeAt(0)) | 0, 0)) % 10000;
-}
 
 function findWandaloo(slug: string): string | null {
   for (const [keyword, filename] of MODEL_IMAGE_MAP) {
@@ -144,23 +115,12 @@ function findWandaloo(slug: string): string | null {
   return null;
 }
 
-/**
- * Resolves the best available image for an article:
- * 1. Real Sanity CMS URL → pass through
- * 2. Slug matches a known model → wandaloo.com vehicle photo
- * 3. Category keyword match → loremflickr keyword search
- */
 export function resolveArticleImage(
   image: string,
   slug: string,
-  categorySlug: string,
-  width = 1200,
-  height = 800,
 ): string {
-  if (!image.includes('picsum.photos')) return image;
+  if (!image.includes('picsum.photos') && !image.includes('loremflickr.com')) return image;
   const wandaloo = findWandaloo(slug);
   if (wandaloo) return wandaloo;
-  const keywords = CATEGORY_KEYWORDS[categorySlug] ?? 'electric,car,automotive,road';
-  const lock = slugToLock(slug);
-  return `https://loremflickr.com/${width}/${height}/${keywords}?lock=${lock}`;
+  return WANDALOO_BASE + 'byd-seal.jpg';
 }

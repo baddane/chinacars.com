@@ -52,9 +52,9 @@ export default function LegalNoticePage() {
 
           <h2 className="mt-10 text-xl font-bold text-gray-900">Données personnelles</h2>
           <p>
-            Conformément à la loi 09-08 relative à la protection des personnes
-            physiques à l&apos;égard du traitement des données à caractère
-            personnel, vous disposez d&apos;un droit d&apos;accès, de rectification et
+            Conformément au Règlement Général sur la Protection des Données
+            (RGPD) et aux législations nationales applicables, vous disposez
+            d&apos;un droit d&apos;accès, de rectification, de portabilité et
             de suppression des données vous concernant. Pour l&apos;exercer,
             contactez-nous à l&apos;adresse indiquée ci-dessus.
           </p>

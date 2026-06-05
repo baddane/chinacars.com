@@ -13,19 +13,19 @@ const values = [
   {
     icon: Newspaper,
     title: 'Expertise terrain',
-    text: "Essais, visites d'usines et rencontres avec les importateurs marocains.",
+    text: "Essais en conditions réelles, visites de salons internationaux et suivi des lancements sur tous les marchés francophones.",
   },
   {
     icon: Users,
-    title: 'Pensé pour le Maroc',
-    text: 'Prix, homologation, pièces, SAV : nos guides répondent aux réalités locales.',
+    title: 'Couverture francophone',
+    text: 'France, Belgique, Suisse, Maroc, Afrique : nos guides s\'adaptent aux réalités de chaque marché.',
   },
 ];
 
 export const metadata: Metadata = {
   title: 'À propos',
   description:
-    "Véhicules Chinois est le média indépendant de référence sur l'automobile chinoise en France et en Europe.",
+    "Véhicules Chinois est le média indépendant de référence sur l'automobile chinoise dans le monde francophone.",
   alternates: { canonical: '/a-propos' },
 };
 
@@ -43,7 +43,7 @@ export default function AboutPage() {
           </h1>
           <p className="mt-6 text-lg leading-8 text-gray-600">
             Véhicules Chinois est le premier média francophone dédié à l&apos;automobile
-            chinoise en France et en Europe. Depuis notre lancement, nous décryptons un marché
+            chinoise dans le monde francophone. Depuis notre lancement, nous décryptons un marché
             en pleine révolution : l&apos;arrivée massive des constructeurs chinois,
             l&apos;explosion du véhicule électrique et les nouvelles habitudes
             d&apos;achat des automobilistes européens.
@@ -53,10 +53,11 @@ export default function AboutPage() {
             Notre mission
           </h2>
           <p className="mt-4 text-base leading-7 text-gray-600">
-            Fournir aux automobilistes marocains et francophones une information
+            Fournir aux automobilistes francophones une information
             fiable, documentée et indépendante sur les marques, modèles et
             technologies venues de Chine. Nous testons, comparons et
-            contextualisons pour aider à faire les bons choix.
+            contextualisons pour vous aider à faire les bons choix, que vous
+            soyez en France, en Belgique, en Suisse, au Maroc ou ailleurs.
           </p>
 
           <div className="mt-16 grid grid-cols-1 gap-8 md:grid-cols-3">
