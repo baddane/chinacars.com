@@ -19,6 +19,262 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'mg4-vs-renault-megane-e-tech-compactes-electriques-2026',
+    title: 'MG4 vs Renault Mégane E-Tech : quelle compacte électrique choisir en 2026 ?',
+    excerpt:
+      "La MG4 a dominé les ventes de compactes électriques en France en 2023. La Mégane E-Tech contre-attaque. Prix, autonomie, agrément : le duel décisif.",
+    image: 'https://www.wandaloo.com/files/Voiture-Neuve/mg-zs-ev.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-06-02T09:00:00+02:00',
+    readingTime: 9,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le match des compactes électriques</h2>
+<p>En 2023, la MG4 a créé la surprise en devenant la voiture électrique la plus vendue en France devant la Tesla Model Y. La Renault Mégane E-Tech, lancée fin 2022, représente la réponse française au segment des compactes EV. Deux ans plus tard, les deux modèles ont évolué. Lequel mérite votre argent en 2026 ?</p>
+
+<h2>Fiche technique comparée</h2>
+<table>
+  <thead><tr><th></th><th>MG4 Standard</th><th>MG4 Extended</th><th>Mégane E-Tech 60 kWh</th></tr></thead>
+  <tbody>
+    <tr><td>Moteur</td><td>170 ch</td><td>204 ch</td><td>220 ch</td></tr>
+    <tr><td>Batterie</td><td>51 kWh (LFP)</td><td>64 kWh (NMC)</td><td>60 kWh (NMC)</td></tr>
+    <tr><td>Autonomie WLTP</td><td>350 km</td><td>450 km</td><td>450 km</td></tr>
+    <tr><td>Recharge DC max</td><td>117 kW</td><td>140 kW</td><td>130 kW</td></tr>
+    <tr><td>0-100 km/h</td><td>7,7 s</td><td>7,9 s</td><td>7,4 s</td></tr>
+    <tr><td>Coffre</td><td>363 L</td><td>363 L</td><td>440 L</td></tr>
+    <tr><td>Empattement</td><td>2 705 mm</td><td>2 705 mm</td><td>2 685 mm</td></tr>
+    <tr><td>Prix</td><td>26 990 €</td><td>31 990 €</td><td>35 200 €</td></tr>
+  </tbody>
+</table>
+
+<h2>Le prix : avantage MG4, sans discussion</h2>
+<p>À 26 990 € en version Standard (51 kWh), la MG4 est la compacte électrique la plus abordable du marché. La version Extended Range (64 kWh, 450 km) à 31 990 € se positionne 3 200 € sous la Mégane E-Tech 60 kWh à autonomie équivalente. Sur le coût total de possession (assurance, entretien, garantie 7 ans MG vs 2 ans Renault), l'écart se creuse encore en faveur de la chinoise.</p>
+
+<h2>Autonomie et recharge</h2>
+<p>En version longue autonomie, les deux affichent ~450 km WLTP. En conditions réelles, la Mégane tient mieux ses promesses grâce à un groupe motopropulseur plus efficient : comptez 380 km pour la Mégane contre 360 km pour la MG4. En hiver, l'écart se stabilise (les deux perdent environ 25-30 %).</p>
+<p>En recharge rapide, la MG4 Extended accepte 140 kW contre 130 kW pour la Mégane. Le temps de 10-80 % est quasi identique : 35 minutes pour la MG4, 37 minutes pour la Mégane. Match nul sur ce point.</p>
+
+<h2>Conduite : la surprise MG4</h2>
+<p>C'est ici que la MG4 crée la surprise. Son architecture propulsion (moteur arrière, roues arrière motrices) lui confère un comportement dynamique rare dans le segment. La direction est précise, le train arrière joueur, et le centre de gravité bas (batterie à plat sous le plancher) rend la voiture agile en virage. La version XPower (435 ch, 4 roues motrices) est même une authentique sportive.</p>
+<p>La Mégane E-Tech, en traction avant, offre un comportement plus conventionnel mais parfaitement maîtrisé. Le confort de suspension est meilleur, l'insonorisation supérieure. Pour la conduite quotidienne, elle est plus apaisante. Pour le plaisir pur, la MG4 l'emporte.</p>
+
+<h2>Habitacle et technologies</h2>
+<p>La Mégane domine en qualité perçue. Son intérieur avec l'écran OpenR Link en forme de L, Google intégré nativement (Maps, Assistant, Play Store) et des matériaux flatteurs fait oublier qu'on est dans une compacte. La MG4 propose un habitacle fonctionnel mais moins raffiné : écran 10,25 pouces correct, plastiques durs sur la moitié basse de la planche de bord, et une ergonomie parfois déroutante (commandes tactiles de climatisation).</p>
+<p>En revanche, le coffre de la Mégane (440 L) surpasse celui de la MG4 (363 L). Un écart significatif pour un usage familial.</p>
+
+<h2>Sécurité</h2>
+<p>Les deux décrochent 5 étoiles Euro NCAP. La Mégane obtient 87 % en protection des adultes et 85 % en systèmes d'aide à la conduite. La MG4 marque 82 % pour les adultes et 74 % pour les aides. L'avantage va à la française, notamment pour son système de freinage d'urgence automatique avec détection des piétons et cyclistes.</p>
+
+<h2>Verdict</h2>
+<p>La MG4 est le meilleur rapport qualité-prix du segment. Pour 5 000 à 8 000 € de moins qu'une Mégane, elle offre des performances dynamiques supérieures, une garantie plus longue et un agrément de conduite étonnant. La Mégane E-Tech justifie son tarif par un intérieur plus soigné, un coffre plus grand, un système multimédia best-in-class et un réseau SAV dense. Acheteurs rationnels, prenez la MG4. Amateurs de belle finition et de sérénité, la Mégane est faite pour vous.</p>
+`,
+  },
+  {
+    slug: 'mg-hs-vs-peugeot-3008-suv-familial-2026',
+    title: 'MG HS vs Peugeot 3008 : le SUV familial chinois peut-il battre la référence française ?',
+    excerpt:
+      "Le nouveau MG HS 2024 s'attaque au roi des SUV français, le Peugeot 3008. Espace, technologie et prix : le challenger fait-il le poids ?",
+    image: 'https://www.wandaloo.com/files/Voiture-Neuve/mg-hs.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-05-26T09:00:00+02:00',
+    readingTime: 8,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>David chinois contre Goliath français</h2>
+<p>Le Peugeot 3008 est le SUV le plus vendu en France, toutes marques confondues. Avec la troisième génération (E-3008), Peugeot hausse encore le niveau. Le MG HS, entièrement redessiné en 2024, veut jouer dans la même cour avec un argument simple : le même niveau d'équipement pour 10 000 € de moins.</p>
+
+<h2>Fiche technique comparée</h2>
+<table>
+  <thead><tr><th></th><th>MG HS 1.5T DCT</th><th>Peugeot 3008 Hybrid 136</th></tr></thead>
+  <tbody>
+    <tr><td>Motorisation</td><td>1.5 turbo essence</td><td>1.2 turbo + 48V mild-hybrid</td></tr>
+    <tr><td>Puissance</td><td>170 ch</td><td>136 ch</td></tr>
+    <tr><td>Couple</td><td>275 Nm</td><td>230 Nm</td></tr>
+    <tr><td>Boîte</td><td>DCT 7 rapports</td><td>DCT 6 rapports</td></tr>
+    <tr><td>Conso mixte WLTP</td><td>7,0 L/100 km</td><td>5,0 L/100 km</td></tr>
+    <tr><td>Coffre</td><td>507 L</td><td>520 L</td></tr>
+    <tr><td>Longueur</td><td>4 655 mm</td><td>4 542 mm</td></tr>
+    <tr><td>Prix de base</td><td>27 490 €</td><td>36 490 €</td></tr>
+  </tbody>
+</table>
+
+<h2>Design : deux écoles</h2>
+<p>Le nouveau Peugeot 3008 (2024) est un virage stylistique radical : allure de fastback, habitacle futuriste avec le Panoramic i-Cockpit et un écran incurvé 21 pouces. C'est l'un des intérieurs les plus spectaculaires du marché. Le MG HS 2024 adopte un style plus classique mais efficace : calandre imposante, silhouette musclée et un intérieur propre avec double écran 12,3 pouces.</p>
+<p>En qualité perçue, le 3008 est un cran au-dessus. Mais le MG HS a progressé : matériaux corrects, assemblages soignés, et un niveau de finition qui n'a plus rien à voir avec les productions MG d'il y a 3 ans.</p>
+
+<h2>Espace et praticité</h2>
+<p>Le MG HS est plus long de 11 cm, et ça se sent à l'arrière. Les passagers de la banquette bénéficient de plus d'espace aux genoux. Les deux coffres sont généreux (507 L vs 520 L), mais le seuil de chargement du MG est plus bas. Pour les familles, les deux font le travail.</p>
+
+<h2>Motorisations et consommation</h2>
+<p>Le MG HS thermique développe 170 ch, suffisant pour un usage familial. Le 3008 Hybrid 136, avec son mild-hybrid 48V, compense sa puissance inférieure par une consommation nettement plus basse : 5,0 L/100 km WLTP contre 7,0 L pour le MG. En réel, l'écart est de 1,5 à 2 L/100 km en faveur du Peugeot. Sur 20 000 km/an, c'est 300 à 500 € d'économie annuelle à la pompe.</p>
+<p>Le MG HS existe aussi en version PHEV (plug-in hybride) à 36 990 €, avec 100 km d'autonomie électrique. Le 3008 PHEV démarre à 42 490 €. L'écart reste constant.</p>
+
+<h2>Technologies embarquées</h2>
+<p>Le MG HS de série inclut : caméra 360°, régulateur adaptatif, alerte angle mort, sièges chauffants, toit panoramique et écran 12,3 pouces avec navigation. Sur le 3008, ces équipements nécessitent la finition GT (40 490 €). Le Peugeot compense par la qualité de son système multimédia ChatGPT intégré et une interface vocale plus aboutie.</p>
+
+<h2>Sécurité</h2>
+<p>Le Peugeot 3008 2024 obtient 5 étoiles Euro NCAP avec un score de 92 % en protection des adultes, l'un des meilleurs du marché. Le MG HS 2024 obtient également 5 étoiles mais avec un score légèrement inférieur de 85 %. Les deux véhicules sont excellents en sécurité passive.</p>
+
+<h2>Verdict</h2>
+<p>Le Peugeot 3008 est le meilleur SUV familial français : design spectaculaire, consommation maîtrisée, technologies de pointe et sécurité au sommet. Mais il coûte 9 000 € de plus que le MG HS à équipement comparable. Le MG HS est le choix rationnel pour les familles qui veulent un SUV spacieux, bien équipé et garanti 7 ans sans se ruiner. Si votre budget le permet, le 3008 est une vraie montée en gamme. Sinon, le MG HS n'a aucune raison de rougir.</p>
+`,
+  },
+  {
+    slug: 'byd-seal-vs-peugeot-e-3008-berline-vs-suv-electrique',
+    title: 'BYD Seal vs Peugeot E-3008 : berline ou SUV électrique pour 42 000 € ?',
+    excerpt:
+      "Pour un budget similaire, faut-il choisir la berline BYD Seal 570 km ou le SUV Peugeot E-3008 525 km ? Deux formats, un même dilemme.",
+    image: 'https://www.wandaloo.com/files/Voiture-Neuve/byd-seal.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-05-19T09:00:00+02:00',
+    readingTime: 9,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>42 000 € : berline chinoise ou SUV français ?</h2>
+<p>À budget équivalent (~42 000 €), deux philosophies s'affrontent. La BYD Seal est une berline électrique sportive et aérodynamique avec 570 km d'autonomie. Le Peugeot E-3008 est un SUV familial électrique avec un design fastback et 525 km. Deux formats, deux usages, un même budget : lequel choisir ?</p>
+
+<h2>Fiche technique comparée</h2>
+<table>
+  <thead><tr><th></th><th>BYD Seal Comfort</th><th>Peugeot E-3008 Long Range</th></tr></thead>
+  <tbody>
+    <tr><td>Moteur</td><td>313 ch (230 kW), propulsion</td><td>231 ch (170 kW), traction</td></tr>
+    <tr><td>Batterie</td><td>82,5 kWh (Blade LFP)</td><td>98 kWh (NMC)</td></tr>
+    <tr><td>Autonomie WLTP</td><td>570 km</td><td>525 km (Long Range)</td></tr>
+    <tr><td>Recharge DC max</td><td>150 kW</td><td>160 kW</td></tr>
+    <tr><td>10-80 % DC</td><td>26 min</td><td>30 min</td></tr>
+    <tr><td>0-100 km/h</td><td>5,9 s</td><td>8,8 s</td></tr>
+    <tr><td>Cx</td><td>0,219</td><td>0,28</td></tr>
+    <tr><td>Coffre</td><td>400 L + 53 L frunk</td><td>520 L</td></tr>
+    <tr><td>Prix</td><td>42 990 €</td><td>44 990 € (Long Range)</td></tr>
+  </tbody>
+</table>
+
+<h2>Autonomie : le duel est serré</h2>
+<p>La BYD Seal affiche 570 km WLTP grâce à son aérodynamisme exceptionnel (Cx 0,219, le meilleur de sa catégorie). En réel, comptez 450-480 km sur autoroute. Le E-3008 Long Range, avec sa grosse batterie 98 kWh, annonce 525 km WLTP et tient environ 420-440 km en conditions réelles. L'avantage va à la Seal, mais l'écart se réduit par rapport aux fiches techniques.</p>
+<p>En recharge, les deux véhicules sont proches : 26 minutes de 10 à 80 % pour la Seal (150 kW max) et 30 minutes pour le E-3008 (160 kW max). Pour les longs trajets, les deux sont parfaitement viables.</p>
+
+<h2>Performances et dynamisme</h2>
+<p>La BYD Seal est incontestablement la plus performante. Ses 313 ch et son architecture propulsion (moteur arrière) en font une berline vive et plaisante à conduire. Le 0-100 km/h en 5,9 s donne le sourire. Le E-3008, avec 231 ch en traction avant, est plus posé, plus orienté confort familial. Il n'est pas lent (8,8 s au 0-100), mais le caractère est radicalement différent.</p>
+
+<h2>Espace et praticité</h2>
+<p>C'est ici que le E-3008 prend l'avantage. Son format SUV offre une assise surélevée, un coffre de 520 L (vs 400 L pour la Seal) et une meilleure visibilité. La banquette arrière est plus accueillante pour trois passagers. La Seal compense avec son petit frunk de 53 L et une ligne de toit plus fluide, mais elle reste une berline : l'accès arrière est moins aisé et le coffre moins pratique.</p>
+
+<h2>Intérieur et technologies</h2>
+<p>Le E-3008 2024 révolutionne l'intérieur Peugeot avec son Panoramic i-Cockpit : un écran incurvé de 21 pouces barre la planche de bord, ChatGPT est intégré nativement, et la qualité de finition est au niveau premium. La BYD Seal propose un écran rotatif de 15,6 pouces, une instrumentation 10,25 pouces et une finition soignée mais moins spectaculaire. L'avantage va au Peugeot en termes d'effet "waouh".</p>
+
+<h2>Coût total de possession</h2>
+<p>Sur 5 ans et 75 000 km, la BYD Seal revient moins cher grâce à son prix d'achat inférieur de 2 000 €, sa garantie 8 ans sur la batterie, et sa consommation légèrement moindre (grâce à l'aérodynamisme). Le E-3008 coûte plus en entretien (réseau Peugeot vs MG) mais bénéficie d'une meilleure valeur résiduelle estimée.</p>
+
+<h2>Verdict</h2>
+<p>Si vous cherchez une voiture plaisir, performante et autonome, la BYD Seal est imbattable à ce prix. Si vous avez une famille et que l'espace, la praticité et le design intérieur comptent plus que le 0-100, le Peugeot E-3008 est le choix logique. Deux excellentes voitures électriques, deux usages différents.</p>
+`,
+  },
+  {
+    slug: 'byd-dolphin-vs-renault-5-e-tech-citadines-electriques',
+    title: 'BYD Dolphin vs Renault 5 E-Tech : le choc des citadines électriques',
+    excerpt:
+      "La BYD Dolphin et la Renault 5 E-Tech se disputent le cœur des automobilistes urbains. Design rétro contre modernité chinoise : le match.",
+    image: 'https://www.wandaloo.com/files/Voiture-Neuve/byd-seal.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-05-12T09:00:00+02:00',
+    readingTime: 8,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux stars des citadines électriques</h2>
+<p>La Renault 5 E-Tech est le phénomène automobile de 2025 : design néo-rétro craquant, "made in France" (usine de Douai) et prix agressif. La BYD Dolphin, présente en Europe depuis 2023, est la polyvalente électrique chinoise la plus vendue sur le continent. Deux visions de la citadine zéro émission, un seul gagnant possible ?</p>
+
+<h2>Fiche technique comparée</h2>
+<table>
+  <thead><tr><th></th><th>BYD Dolphin</th><th>Renault 5 E-Tech</th></tr></thead>
+  <tbody>
+    <tr><td>Moteur</td><td>95 ch (44 kWh) / 177 ch (60 kWh)</td><td>120 ch (40 kWh) / 150 ch (52 kWh)</td></tr>
+    <tr><td>Batterie</td><td>44,9 kWh / 60,4 kWh (Blade LFP)</td><td>40 kWh / 52 kWh (NMC)</td></tr>
+    <tr><td>Autonomie WLTP</td><td>340 km / 427 km</td><td>312 km / 410 km</td></tr>
+    <tr><td>Recharge DC max</td><td>60 kW / 88 kW</td><td>80 kW / 100 kW</td></tr>
+    <tr><td>0-100 km/h</td><td>12,3 s / 7,0 s</td><td>11,0 s / 8,0 s</td></tr>
+    <tr><td>Coffre</td><td>345 L</td><td>326 L</td></tr>
+    <tr><td>Longueur</td><td>4 290 mm</td><td>3 922 mm</td></tr>
+    <tr><td>Prix de base</td><td>29 990 €</td><td>25 000 €</td></tr>
+  </tbody>
+</table>
+
+<h2>Design : la Renault 5 fait craquer</h2>
+<p>Impossible de l'ignorer : la Renault 5 E-Tech est l'une des plus belles voitures de 2025. Son design néo-rétro reprend les lignes de la R5 originale avec une modernité séduisante. Les phares ronds, le capot plongeant et les feux en forme de "5" à l'arrière créent un objet de désir immédiat. La BYD Dolphin, avec ses lignes fluides inspirées de l'océan, est élégante mais plus anonyme. En charme pur, la R5 l'emporte haut la main.</p>
+
+<h2>Gabarit : deux catégories différentes</h2>
+<p>La BYD Dolphin mesure 4,29 m, soit 37 cm de plus que la Renault 5 (3,92 m). La Dolphin est en réalité une compacte déguisée en citadine, offrant plus d'espace intérieur et un coffre plus généreux (345 L vs 326 L). La R5, plus courte, est plus facile à garer en ville. Selon votre usage, l'un ou l'autre format sera préférable.</p>
+
+<h2>Autonomie et recharge</h2>
+<p>Les deux se tiennent en autonomie : 427 km vs 410 km WLTP en grande batterie. En conditions réelles, comptez 340-360 km pour les deux. La Renault 5 prend l'avantage en recharge rapide : 100 kW DC contre 88 kW pour la Dolphin. De 10 à 80 %, la R5 met 30 minutes contre 38 minutes pour la BYD.</p>
+
+<h2>Conduite et confort</h2>
+<p>La Renault 5 est construite sur la plateforme AmpR Small, dérivée de la CMF-BEV. Elle offre un comportement vif et agile typique d'une citadine française, avec une direction incisive et un châssis joueur. La BYD Dolphin est plus confortable, mieux amortie, et plus silencieuse. En ville, les deux excellent. Sur route, la Dolphin fatigue moins sur les longs trajets.</p>
+
+<h2>Prix : retournement de situation</h2>
+<p>Surprise : la Renault 5 est moins chère que la Dolphin. À 25 000 € en version de base (40 kWh), elle undercut la BYD de presque 5 000 €. Même en version haut de gamme Iconic (52 kWh), la R5 à 33 000 € reste sous la Dolphin Comfort (60 kWh) à 33 990 €. Le bonus écologique français avantage les deux modèles, mais la R5 "made in France" pourrait bénéficier de conditions plus favorables.</p>
+
+<h2>Le facteur patriotique</h2>
+<p>La Renault 5 est assemblée à Douai (Nord), avec une batterie fabriquée à Douai également par AESC. La BYD Dolphin est produite en Chine. Pour les automobilistes sensibles au "made in France" et à l'emploi local, c'est un argument non négligeable. La R5 est aussi éligible au bonus écologique maximum, ce qui n'est pas le cas de la Dolphin (fabriquée hors UE).</p>
+
+<h2>Verdict</h2>
+<p>La Renault 5 E-Tech est la citadine électrique à acheter en 2026 : design irrésistible, prix compétitif, fabrication française et réseau SAV dense. La BYD Dolphin reste un excellent choix pour ceux qui veulent plus d'espace, un meilleur confort routier et une batterie LFP plus durable. Mais le rapport séduction/prix de la R5 est difficile à battre.</p>
+`,
+  },
+  {
+    slug: 'byd-atto-3-vs-peugeot-e-2008-suv-electrique-abordable',
+    title: 'BYD Atto 3 vs Peugeot e-2008 : quel SUV compact électrique pour moins de 38 000 € ?',
+    excerpt:
+      "Le BYD Atto 3 et le Peugeot e-2008 visent les mêmes acheteurs. Autonomie, équipement et valeur : le comparatif complet.",
+    image: 'https://www.wandaloo.com/files/Voiture-Neuve/byd-atto-3.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-05-05T09:00:00+02:00',
+    readingTime: 8,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>SUV compacts électriques : Chine vs France</h2>
+<p>Le segment des SUV compacts électriques est l'un des plus dynamiques du marché. Le BYD Atto 3, lancé en Europe en 2023, est le premier SUV de BYD sur le Vieux Continent. Le Peugeot e-2008, rafraîchi en 2024, défend les couleurs françaises avec le style i-Cockpit et une autonomie revue à la hausse.</p>
+
+<h2>Fiche technique comparée</h2>
+<table>
+  <thead><tr><th></th><th>BYD Atto 3</th><th>Peugeot e-2008 (2024)</th></tr></thead>
+  <tbody>
+    <tr><td>Moteur</td><td>204 ch (150 kW)</td><td>156 ch (115 kW)</td></tr>
+    <tr><td>Batterie</td><td>60,5 kWh (Blade LFP)</td><td>54 kWh (NMC)</td></tr>
+    <tr><td>Autonomie WLTP</td><td>420 km</td><td>406 km</td></tr>
+    <tr><td>Recharge DC max</td><td>88 kW</td><td>100 kW</td></tr>
+    <tr><td>0-100 km/h</td><td>7,3 s</td><td>9,0 s</td></tr>
+    <tr><td>Coffre</td><td>440 L</td><td>434 L</td></tr>
+    <tr><td>Garantie véhicule</td><td>6 ans / 150 000 km</td><td>2 ans (extensible)</td></tr>
+    <tr><td>Garantie batterie</td><td>8 ans / 160 000 km</td><td>8 ans / 160 000 km</td></tr>
+    <tr><td>Prix de base</td><td>33 990 €</td><td>36 800 €</td></tr>
+  </tbody>
+</table>
+
+<h2>Performances : avantage BYD</h2>
+<p>Avec 204 ch contre 156 ch, l'Atto 3 est nettement plus vif. Le 0-100 km/h en 7,3 s place le SUV chinois dans une catégorie supérieure au e-2008 (9,0 s). En reprises (80-120 km/h), l'écart est encore plus flagrant. Le couple instantané du moteur BYD rend les dépassements sur nationale sans stress.</p>
+
+<h2>Autonomie et recharge</h2>
+<p>Les deux affichent une autonomie similaire (~400-420 km WLTP). En réel, l'Atto 3 tient 330-350 km, le e-2008 environ 320-340 km. La batterie Blade LFP de BYD supporte mieux la chaleur et les cycles de charge répétés, ce qui est un avantage pour la longévité. En recharge rapide, le Peugeot prend l'avantage avec 100 kW contre 88 kW pour le BYD.</p>
+
+<h2>Design et qualité perçue</h2>
+<p>Le Peugeot e-2008 2024 adopte le nouveau langage design de la marque au lion : face avant affûtée, feux à crocs, et l'incontournable i-Cockpit à l'intérieur. La qualité perçue est au rendez-vous avec des matériaux soignés et une ambiance premium. L'Atto 3 adopte un style plus original avec son habitacle "salle de sport" (inserts en forme de cordes de guitare sur les contre-portes) qui divise. La finition est correcte sans atteindre le niveau du Peugeot.</p>
+
+<h2>Équipement de série</h2>
+<p>L'Atto 3 à 33 990 € inclut : écran rotatif 12,8 pouces, pompe à chaleur, toit panoramique, sièges chauffants, caméra 360° et système audio 8 HP. Le e-2008 à 36 800 € (finition Allure) propose un écran 10 pouces, pas de toit panoramique ni de caméra 360°. Pour obtenir un équipement comparable, il faut passer en GT (39 900 €), soit 6 000 € de plus que l'Atto 3.</p>
+
+<h2>Réseau et valeur résiduelle</h2>
+<p>Le réseau Peugeot en France (1 100+ points de vente) est incomparablement plus dense que celui de BYD (~80 points). Pour l'entretien courant et les réparations, c'est un avantage concret. En valeur résiduelle, le Peugeot conserve mieux sa cote : comptez 55-60 % à 3 ans contre 45-50 % pour le BYD, marque encore nouvelle en Europe.</p>
+
+<h2>Verdict</h2>
+<p>Le BYD Atto 3 domine en puissance, équipement de série et prix. Le Peugeot e-2008 contre-attaque avec une meilleure finition, un réseau SAV rassurant et une meilleure valeur résiduelle. Pour un premier achat électrique sans compromis sur l'équipement, le BYD est le choix malin. Pour la tranquillité d'esprit d'une marque française établie, le Peugeot justifie le surcoût.</p>
+`,
+  },
+  {
     slug: 'mg-zs-hybrid-plus-perte-de-puissance-cause-solution',
     title: 'MG ZS Hybrid+ : le problème de perte de puissance expliqué (197 ch → 55 ch)',
     excerpt:
@@ -537,6 +793,40 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-11-24T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le match du rapport qualité-prix</h2>
+<p>D'un côté, le MG ZS Hybrid+ et ses 197 ch combinés pour 23 490 €. De l'autre, le Dacia Duster Hybrid 140 à partir de 26 400 €. Sur le papier, le chinois est moins cher et plus puissant. Mais le Duster n'a pas dit son dernier mot.</p>
+
+<h2>Fiche technique comparée</h2>
+<table>
+  <thead><tr><th></th><th>MG ZS Hybrid+</th><th>Dacia Duster Hybrid 140</th></tr></thead>
+  <tbody>
+    <tr><td>Motorisation</td><td>1.5 Atkinson + électrique</td><td>1.6 + 2 moteurs électriques</td></tr>
+    <tr><td>Puissance combinée</td><td>197 ch</td><td>140 ch</td></tr>
+    <tr><td>Couple max</td><td>250 Nm (élec.)</td><td>205 Nm</td></tr>
+    <tr><td>Boîte</td><td>Automatique 3 rapports</td><td>Automatique multimode</td></tr>
+    <tr><td>Batterie HV</td><td>1,83 kWh</td><td>1,2 kWh</td></tr>
+    <tr><td>Conso mixte WLTP</td><td>5,1 L/100 km</td><td>4,6 L/100 km</td></tr>
+    <tr><td>Coffre</td><td>443 L</td><td>472 L</td></tr>
+    <tr><td>Prix de base</td><td>23 490 €</td><td>26 400 €</td></tr>
+  </tbody>
+</table>
+
+<h2>Design et habitacle</h2>
+<p>Le Duster III a fait un bond en qualité. Son design est plus moderne, son habitacle mieux fini qu'avant, et l'ergonomie est claire et intuitive. Le MG ZS Hybrid+ offre un intérieur plus généreusement équipé de série (écran 10,1 pouces, caméra 360°, sièges chauffants), mais les assemblages restent en retrait face au Duster nouvelle génération.</p>
+<p>En volume habitable, les deux se valent. Le Duster prend l'avantage au coffre (472 L vs 443 L) et surtout en garde au sol (217 mm vs 175 mm), un atout pour les chemins non goudronnés.</p>
+
+<h2>Conduite et performances</h2>
+<p>Le MG ZS Hybrid+ est clairement plus puissant sur le papier. Les 197 ch se font sentir en ville et en relance. Mais attention au piège : sur autoroute en côte, la puissance peut chuter drastiquement à cause de la gestion batterie (voir notre article dédié). Le Duster Hybrid 140, plus modeste en puissance, offre une livraison de couple plus linéaire et prévisible grâce à la technologie full-hybrid éprouvée de Renault.</p>
+<p>En consommation réelle, le Duster tient mieux ses promesses : comptez 5,0-5,5 L/100 km en usage mixte contre 5,5-6,5 L pour le MG. L'avantage théorique de puissance du chinois se paie à la pompe.</p>
+
+<h2>Équipements et garantie</h2>
+<p>C'est ici que le MG frappe fort. Pour 23 490 €, la version Luxury inclut : écran tactile 10,1", Apple CarPlay/Android Auto sans fil, caméra 360°, régulateur adaptatif, sièges chauffants et cuir synthétique. Sur le Duster, il faut monter en finition Journey (28 200 €) pour approcher ce niveau d'équipement.</p>
+<p>Côté garantie, MG propose 7 ans / 150 000 km contre 3 ans / 100 000 km chez Dacia (extensible à 7 ans en option payante). Un argument de poids pour l'acheteur rationnel.</p>
+
+<h2>Verdict</h2>
+<p>Le MG ZS Hybrid+ est imbattable sur le rapport équipement/prix et offre une garantie exemplaire. Mais le Dacia Duster Hybrid 140 est plus sobre, mieux fini qu'avant, et dispose d'un réseau Renault omniprésent en France. Pour un usage essentiellement urbain et périurbain, le MG est le choix malin. Pour les longs trajets mixtes et les chemins de traverse, le Duster reste plus polyvalent.</p>
+`,
   },
   {
     slug: 'byd-atto-3-evo-vs-renault-scenic-e-tech-suv-annee',
@@ -549,6 +839,41 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-11-17T09:00:00+01:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux visions du SUV électrique familial</h2>
+<p>Le Renault Scenic E-Tech a été élu Car of the Year 2024. Le BYD Atto 3 Evo, mis à jour fin 2024, veut prouver que le titre ne fait pas tout. Deux SUV compacts 100 % électriques, deux philosophies opposées : le savoir-faire européen contre l'offensive technologique chinoise.</p>
+
+<h2>Fiche technique comparée</h2>
+<table>
+  <thead><tr><th></th><th>BYD Atto 3 Evo</th><th>Renault Scenic E-Tech</th></tr></thead>
+  <tbody>
+    <tr><td>Moteur</td><td>204 ch (150 kW)</td><td>220 ch (160 kW) / 170 ch Esprit Alpine</td></tr>
+    <tr><td>Batterie</td><td>60,5 kWh (Blade LFP)</td><td>87 kWh (NMC) / 60 kWh</td></tr>
+    <tr><td>Autonomie WLTP</td><td>420 km</td><td>625 km (87 kWh) / 430 km</td></tr>
+    <tr><td>Recharge DC max</td><td>88 kW</td><td>150 kW</td></tr>
+    <tr><td>10-80 % DC</td><td>~45 min</td><td>~37 min (87 kWh)</td></tr>
+    <tr><td>Coffre</td><td>440 L</td><td>545 L</td></tr>
+    <tr><td>Poids</td><td>1 750 kg</td><td>1 854 kg (87 kWh)</td></tr>
+    <tr><td>Prix de base</td><td>33 990 €</td><td>39 990 € (Techno 87 kWh)</td></tr>
+  </tbody>
+</table>
+
+<h2>Design et qualité perçue</h2>
+<p>Le Scenic E-Tech joue la carte de l'élégance discrète. Ses lignes épurées, son intérieur signé avec le système OpenR Link (Google intégré) et ses matériaux recyclés lui donnent un cachet premium indéniable. Le BYD Atto 3 Evo adopte un style plus exubérant, avec des inserts colorés dans l'habitacle et un écran rotatif de 12,8 pouces. La finition du Scenic est un cran au-dessus, mais l'Atto 3 compense par un équipement de série plus généreux.</p>
+
+<h2>Autonomie et recharge : le point faible chinois</h2>
+<p>C'est ici que le Scenic creuse l'écart. Avec 625 km WLTP (version 87 kWh), il domine largement les 420 km de l'Atto 3 Evo. En conditions réelles hivernales, comptez 480 km pour le Scenic et 320 km pour le BYD. La recharge rapide accentue le fossé : le Scenic accepte 150 kW DC contre seulement 88 kW pour le chinois. Sur un trajet Paris-Lyon, le Scenic passe sans s'arrêter ; l'Atto 3 impose une pause de 30-40 minutes.</p>
+<p>Cependant, la batterie Blade LFP de BYD offre un avantage sur la durée : elle supporte plus de 3 000 cycles complets sans dégradation significative, contre environ 1 500 pour la chimie NMC du Scenic. Sur 10 ans, la batterie BYD conservera mieux sa capacité.</p>
+
+<h2>Conduite et confort</h2>
+<p>Le Scenic brille par son confort de suspension et son insonorisation soignée. Le châssis CMF-EV, partagé avec la Megane E-Tech, offre un comportement routier sain et prévisible. L'Atto 3 Evo est plus ferme, plus direct dans ses réactions, mais aussi plus bruyant sur autoroute. Son rayon de braquage serré (10,2 m) est en revanche un atout en ville.</p>
+
+<h2>Sécurité</h2>
+<p>Les deux véhicules décrochent 5 étoiles Euro NCAP. Le Scenic obtient 90 % en protection des occupants adultes, l'Atto 3 Evo 89 %. En aide à la conduite, le Scenic prend l'avantage avec son système de conduite semi-autonome sur autoroute.</p>
+
+<h2>Verdict</h2>
+<p>Le Renault Scenic E-Tech mérite son titre de Car of the Year : autonomie supérieure, recharge plus rapide, finition soignée et réseau après-vente français dense. Mais le BYD Atto 3 Evo, à 6 000 € de moins, offre un équipement de série plus complet, une batterie plus durable et une garantie de 8 ans. Pour un usage essentiellement urbain et périurbain, le BYD est le choix rationnel. Pour les grands rouleurs, le Scenic s'impose.</p>
+`,
   },
   {
     slug: 'zeekr-001-vs-tesla-model-s-silicon-valley-tremble-2026',
@@ -579,12 +904,52 @@ export const articles: ArticleSeed[] = [
     title: 'MG3 Hybrid+ vs Renault Clio E-Tech : la fin de l\'hégémonie française ?',
     excerpt:
       "La MG3 Hybrid+ débarque sur le terrain de la Clio E-Tech avec des arguments redoutables. Le roi de la citadine française est-il en danger ?",
-    image: 'https://www.wandaloo.com/files/Voiture-Neuve/mg-zs-ev.jpg',
+    image: 'https://www.wandaloo.com/files/Voiture-Neuve/mg-mg3.jpg',
     category: 'Comparatif',
     categorySlug: 'comparatif',
     publishedAt: '2025-10-27T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le duel le plus attendu de 2025</h2>
+<p>La Renault Clio domine le marché français des citadines depuis plus de 30 ans. Avec la MG3 Hybrid+, le constructeur chinois (propriété de SAIC) lance une offensive frontale : même segment, même motorisation hybride, mais un prix de départ inférieur de plus de 4 000 €. La Clio a-t-elle du souci à se faire ?</p>
+
+<h2>Fiche technique comparée</h2>
+<table>
+  <thead><tr><th></th><th>MG3 Hybrid+</th><th>Renault Clio E-Tech</th></tr></thead>
+  <tbody>
+    <tr><td>Motorisation</td><td>1.5 Atkinson + électrique</td><td>1.6 + 2 moteurs électriques</td></tr>
+    <tr><td>Puissance combinée</td><td>195 ch</td><td>145 ch</td></tr>
+    <tr><td>Couple max</td><td>250 Nm (élec.)</td><td>205 Nm</td></tr>
+    <tr><td>Boîte</td><td>Automatique 3 rapports</td><td>Automatique multimode</td></tr>
+    <tr><td>Conso mixte WLTP</td><td>4,4 L/100 km</td><td>4,2 L/100 km</td></tr>
+    <tr><td>CO₂</td><td>100 g/km</td><td>94 g/km</td></tr>
+    <tr><td>Coffre</td><td>293 L</td><td>301 L</td></tr>
+    <tr><td>Longueur</td><td>4 113 mm</td><td>4 050 mm</td></tr>
+    <tr><td>Prix de base</td><td>19 990 €</td><td>24 300 €</td></tr>
+  </tbody>
+</table>
+
+<h2>Performances : avantage MG sur le papier</h2>
+<p>Avec 195 ch, la MG3 Hybrid+ affiche 50 ch de plus que la Clio E-Tech. En pratique, ces chevaux se ressentent surtout en accélération franche et sur les insertions autoroutières. Le 0 à 100 km/h s'effectue en 8,0 s contre 9,3 s pour la Clio. Toutefois, la gestion de la boîte 3 rapports de la MG peut se montrer hésitante dans les transitions entre modes électrique et thermique.</p>
+<p>La Clio E-Tech, moins puissante, compense par une hybridation plus raffinée héritée de la F1. Son système multimode offre des transitions imperceptibles et une capacité à rouler en électrique plus fréquente en ville (jusqu'à 80 % du temps urbain).</p>
+
+<h2>Consommation réelle</h2>
+<p>En usage mixte réel, les deux citadines se tiennent dans un mouchoir : 5,0-5,5 L/100 km pour la MG3, 4,5-5,0 L/100 km pour la Clio. L'avantage va à la Clio, dont le système hybride est optimisé pour la sobriété plutôt que pour la puissance. Sur autoroute, l'écart se réduit : les deux consomment autour de 6,5 L/100 km.</p>
+
+<h2>Habitacle et technologie</h2>
+<p>La MG3 surprend par son niveau d'équipement de série : écran tactile 10,25 pouces, instrumentation digitale 7 pouces, Apple CarPlay/Android Auto, caméra de recul, régulateur de vitesse adaptatif et climatisation automatique. Tout cela pour 19 990 €.</p>
+<p>Sur la Clio E-Tech, il faut opter pour la finition Techno (26 500 €) pour obtenir un équipement comparable. L'écran multimédia OpenR Link 9,3 pouces avec Google intégré est toutefois plus réactif et mieux intégré que celui de la MG.</p>
+
+<h2>Qualité et finition</h2>
+<p>C'est le point fort historique de la Clio. La cinquième génération offre un habitacle soigné avec des matériaux flatteurs, une sellerie confortable et une insonorisation correcte pour le segment. La MG3, malgré des progrès, reste en retrait : plastiques plus durs sur la partie basse du tableau de bord, assemblages moins précis, et une impression générale moins premium.</p>
+
+<h2>Garantie et réseau</h2>
+<p>MG frappe fort : 7 ans / 150 000 km, le double de la garantie Renault standard (3 ans / 100 000 km). En revanche, le réseau MG en France compte environ 120 points de vente contre plus de 1 200 pour Renault. Pour l'entretien courant et les réparations, la densité du réseau Renault est un avantage concret, surtout en zone rurale.</p>
+
+<h2>Verdict</h2>
+<p>La MG3 Hybrid+ est une proposition imbattable sur le papier : plus puissante, mieux équipée de série et 4 300 € moins chère que la Clio E-Tech d'entrée de gamme. Mais la Clio conserve des atouts de poids : hybridation plus sophistiquée, consommation réelle inférieure, finition supérieure et réseau après-vente incomparablement plus dense. La MG3 est le choix de la raison budgétaire. La Clio, celui de la maturité produit.</p>
+`,
   },
   {
     slug: 'byd-seal-vs-tesla-model-3-highland-berline-ultime-2026',
@@ -737,6 +1102,40 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-08-18T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux SUV compacts électriques, deux stratégies</h2>
+<p>Le MG ZS EV a été l'un des premiers SUV électriques abordables en Europe. Le Peugeot e-2008, avec sa refonte 2024, veut reconquérir le terrain perdu face aux marques chinoises. Deux approches différentes du SUV urbain électrique : le prix cassé contre le savoir-faire français.</p>
+
+<h2>Fiche technique comparée</h2>
+<table>
+  <thead><tr><th></th><th>MG ZS EV</th><th>Peugeot e-2008</th></tr></thead>
+  <tbody>
+    <tr><td>Moteur</td><td>177 ch (130 kW)</td><td>156 ch (115 kW)</td></tr>
+    <tr><td>Batterie</td><td>51 kWh (LFP)</td><td>54 kWh (NMC)</td></tr>
+    <tr><td>Autonomie WLTP</td><td>320 km</td><td>406 km</td></tr>
+    <tr><td>Recharge DC max</td><td>76 kW</td><td>100 kW</td></tr>
+    <tr><td>0-100 km/h</td><td>8,6 s</td><td>9,0 s</td></tr>
+    <tr><td>Coffre</td><td>470 L</td><td>434 L</td></tr>
+    <tr><td>Prix de base</td><td>29 990 €</td><td>36 800 €</td></tr>
+  </tbody>
+</table>
+
+<h2>Autonomie : l'e-2008 reprend la main</h2>
+<p>Le Peugeot e-2008 millésime 2024 gagne 15 % d'autonomie grâce à un nouveau moteur électrique plus efficient et une batterie 54 kWh mieux gérée. Avec 406 km WLTP (environ 320 km réels), il devance le MG ZS EV qui plafonne à 320 km WLTP (250 km réels). En hiver, l'écart se creuse encore : la batterie LFP du MG souffre davantage du froid que la NMC du Peugeot.</p>
+<p>En recharge rapide, le Peugeot accepte 100 kW contre 76 kW pour le MG. De 10 à 80 %, comptez 30 minutes pour le e-2008 et 40 minutes pour le ZS EV.</p>
+
+<h2>Habitacle et i-Cockpit</h2>
+<p>Le Peugeot e-2008 bénéficie du fameux i-Cockpit avec son petit volant, son combiné d'instrumentation surélevé et son écran central 10 pouces. L'ergonomie divise mais l'ambiance est indéniablement premium pour le segment. Le MG ZS EV offre un habitacle plus conventionnel, avec un écran 10,1 pouces et une planche de bord fonctionnelle mais sans éclat. En revanche, le coffre du MG (470 L) domine celui du Peugeot (434 L).</p>
+
+<h2>Conduite</h2>
+<p>Le e-2008 est plus agile en ville grâce à sa direction précise et son gabarit compact. Le MG ZS EV est plus confortable sur route, avec des suspensions plus souples qui absorbent mieux les irrégularités. Les deux sont de bons compagnons urbains, mais le Peugeot offre un agrément de conduite supérieur sur routes sinueuses.</p>
+
+<h2>Le prix : l'argument massue du MG</h2>
+<p>Avec 6 800 € d'écart à l'entrée de gamme, le MG ZS EV est nettement plus accessible. Même en comparant les versions les mieux équipées, le MG reste 5 000 € moins cher. Ajoutez-y la garantie 7 ans contre 2 ans pour Peugeot (extensible), et le calcul sur le coût total de possession penche en faveur du chinois.</p>
+
+<h2>Verdict</h2>
+<p>Le Peugeot e-2008 millésime 2024 est le meilleur SUV compact électrique français : autonomie correcte, i-Cockpit séduisant, comportement routier soigné. Mais le MG ZS EV reste le roi du rapport prix/équipement avec un coffre plus grand et une garantie rassurante. Pour les trajets courts et le budget serré, le MG est rationnel. Pour un usage plus polyvalent, le Peugeot justifie son supplément.</p>
+`,
   },
   {
     slug: 'byd-seagull-vs-citroen-ec3-guerre-petites-electriques',
@@ -749,6 +1148,40 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-08-11T09:00:00+02:00',
     readingTime: 6,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>La bataille des citadines électriques à petit prix</h2>
+<p>Sous les 25 000 €, la citadine électrique est le nouveau champ de bataille. D'un côté, le BYD Seagull (rebaptisé Dolphin Mini en Europe), micro-citadine taillée pour la ville à un tarif imbattable. De l'autre, la Citroën ë-C3, la première électrique vraiment abordable du constructeur français. Un duel qui incarne la confrontation Chine-France dans sa forme la plus directe.</p>
+
+<h2>Fiche technique comparée</h2>
+<table>
+  <thead><tr><th></th><th>BYD Seagull</th><th>Citroën ë-C3</th></tr></thead>
+  <tbody>
+    <tr><td>Moteur</td><td>75 ch (55 kW)</td><td>113 ch (83 kW)</td></tr>
+    <tr><td>Batterie</td><td>30,1 kWh (Blade LFP)</td><td>44 kWh (LFP)</td></tr>
+    <tr><td>Autonomie WLTP</td><td>305 km</td><td>320 km</td></tr>
+    <tr><td>Recharge DC max</td><td>40 kW</td><td>100 kW</td></tr>
+    <tr><td>Vitesse max</td><td>130 km/h</td><td>135 km/h</td></tr>
+    <tr><td>Longueur</td><td>3 780 mm</td><td>4 015 mm</td></tr>
+    <tr><td>Coffre</td><td>265 L</td><td>310 L</td></tr>
+    <tr><td>Prix estimé Europe</td><td>~19 990 €</td><td>23 300 €</td></tr>
+  </tbody>
+</table>
+
+<h2>Gabarit et habitabilité</h2>
+<p>La ë-C3 est plus grande de 23 cm que le Seagull. Ça se ressent à bord : l'espace aux jambes arrière est correct pour deux adultes, là où le Seagull impose des compromis aux passagers de plus d'1m75. Le coffre de la ë-C3 (310 L) est plus pratique que celui du Seagull (265 L). Pour une famille avec enfants, la Citroën est plus polyvalente.</p>
+
+<h2>Technologie et connectivité</h2>
+<p>Le BYD Seagull intègre un écran central de 10,1 pouces avec navigation intégrée, caméra de recul et connectivité smartphone sans fil. La ë-C3 propose un écran de 10,25 pouces avec le système Citroën infotainment, mais la navigation intégrée n'est disponible qu'en option. Les deux véhicules offrent Apple CarPlay et Android Auto.</p>
+
+<h2>Recharge : avantage Citroën</h2>
+<p>C'est le point faible du Seagull. Sa recharge rapide plafonne à 40 kW DC, soit 50 minutes pour passer de 10 à 80 %. La ë-C3 accepte 100 kW, réduisant cette même opération à 26 minutes. Pour un usage strictement urbain avec recharge nocturne à domicile, ce n'est pas un problème. Mais pour un trajet occasionnel sur autoroute, la Citroën est bien mieux armée.</p>
+
+<h2>Confort Citroën vs prix BYD</h2>
+<p>La ë-C3 bénéficie du confort de suspension typique de Citroën : les suspensions Advanced Comfort avec butées hydrauliques progressives gomment efficacement les imperfections de la route. Le Seagull, plus petit et plus léger, est plus nerveux et moins filtrant. En revanche, le BYD affiche un prix plancher qui le rend accessible au plus grand nombre.</p>
+
+<h2>Verdict</h2>
+<p>Le BYD Seagull est la citadine électrique la moins chère du marché, idéale pour un usage 100 % urbain. La Citroën ë-C3 est plus polyvalente : plus grande, plus rapide en recharge, plus confortable. Pour 3 300 € de plus, elle offre une vraie voiture du quotidien plutôt qu'une stricte citadine. Notre recommandation : la ë-C3 pour les familles, le Seagull pour les trajets solo en ville.</p>
+`,
   },
   {
     slug: 'zeekr-x-vs-audi-q4-etron-style-sobriete',
@@ -773,6 +1206,40 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-07-28T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Crossover chinois vs compacte française</h2>
+<p>Le Lynk & Co 02 (filiale de Geely, maison-mère de Volvo) est un crossover compact 100 % électrique qui cible directement le segment de la Renault Megane E-Tech. Deux philosophies s'affrontent : le modèle par abonnement flexible de Lynk & Co contre l'achat classique chez Renault.</p>
+
+<h2>Fiche technique comparée</h2>
+<table>
+  <thead><tr><th></th><th>Lynk & Co 02</th><th>Renault Megane E-Tech</th></tr></thead>
+  <tbody>
+    <tr><td>Moteur</td><td>272 ch (200 kW)</td><td>220 ch (160 kW) / 130 ch</td></tr>
+    <tr><td>Batterie</td><td>66 kWh</td><td>60 kWh / 40 kWh</td></tr>
+    <tr><td>Autonomie WLTP</td><td>445 km</td><td>450 km (60 kWh)</td></tr>
+    <tr><td>Recharge DC max</td><td>150 kW</td><td>130 kW</td></tr>
+    <tr><td>Plateforme</td><td>SEA (Geely)</td><td>CMF-EV (Renault-Nissan)</td></tr>
+    <tr><td>Coffre</td><td>375 L</td><td>440 L</td></tr>
+    <tr><td>Prix / Abonnement</td><td>À partir de 500 €/mois ou 35 995 €</td><td>À partir de 33 200 € (40 kWh)</td></tr>
+  </tbody>
+</table>
+
+<h2>Design et identité</h2>
+<p>Le Lynk & Co 02 joue la carte du lifestyle : design expressif, coloris audacieux, et une image de marque construite autour du partage et de la communauté. L'intérieur est épuré, très Scandinavie, avec des matériaux recyclés et un écran central de 15 pouces. La Megane E-Tech mise sur l'élégance discrète avec son OpenR Link (Google intégré nativement) et une planche de bord en forme de L caractéristique.</p>
+
+<h2>Performances et autonomie</h2>
+<p>Le Lynk & Co 02 dispose de 272 ch, soit 52 ch de plus que la Megane E-Tech 220 ch. L'accélération est vive (0-100 km/h en 5,5 s vs 7,4 s), mais la consommation s'en ressent. En autonomie WLTP, les deux affichent environ 445-450 km. En conditions réelles, comptez 350-380 km pour les deux, avec un léger avantage à la Megane en conduite calme grâce à son moteur plus efficient.</p>
+<p>En recharge rapide, le Lynk & Co 02 accepte 150 kW contre 130 kW pour la Megane. Un avantage pour les longs trajets.</p>
+
+<h2>Le modèle par abonnement</h2>
+<p>La particularité de Lynk & Co est son offre d'abonnement tout inclus : à partir de 500 €/mois, assurance, entretien et assistance inclus, sans engagement longue durée. C'est séduisant pour ceux qui ne veulent pas s'engager sur un crédit auto de 5 ans. Mais sur 36 mois, l'abonnement coûte 18 000 €, soit le prix d'une LOA Megane. L'intérêt est surtout dans la flexibilité.</p>
+
+<h2>Réseau et SAV</h2>
+<p>Lynk & Co ne dispose pas de concessions classiques mais de "clubs" en centre-ville (Paris, Lyon, Amsterdam, Barcelone). L'entretien est géré via le réseau Volvo. La Megane bénéficie des 1 200+ points de vente Renault en France. Pour les automobilistes ruraux, la Megane est plus rassurante.</p>
+
+<h2>Verdict</h2>
+<p>Le Lynk & Co 02 séduit par sa puissance, sa recharge rapide et son modèle flexible. La Megane E-Tech reste plus sobre, plus spacieuse au coffre et bénéficie d'un réseau SAV incomparable. Pour les urbains ouverts à l'abonnement, le Lynk & Co est une découverte. Pour un achat classique et un usage familial, la Megane reste la référence.</p>
+`,
   },
   {
     slug: 'hongqi-l5-vs-rolls-royce-ghost-ultra-luxe-chinois',
