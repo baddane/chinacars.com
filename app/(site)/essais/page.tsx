@@ -7,6 +7,16 @@ export const metadata: Metadata = {
   description:
     'Retrouvez tous nos essais et tests détaillés de voitures chinoises : BYD, MG, Chery, Geely, Zeekr, NIO. Performances, autonomie réelle, confort et verdict.',
   alternates: { canonical: '/essais' },
+  openGraph: {
+    title: 'Essais voitures chinoises — Tests et prises en main',
+    description: 'Retrouvez tous nos essais et tests détaillés de voitures chinoises : BYD, MG, Chery, Geely, Zeekr, NIO. Performances, autonomie réelle, confort et verdict.',
+    url: '/essais',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Essais voitures chinoises — Tests et prises en main',
+    description: 'Retrouvez tous nos essais et tests détaillés de voitures chinoises.',
+  },
 };
 
 const ESSAI_KEYWORDS = [

@@ -7,6 +7,16 @@ export const metadata: Metadata = {
   description:
     'Tous nos comparatifs détaillés entre voitures chinoises et leurs rivales européennes, coréennes et japonaises : performances, autonomie, prix, équipements.',
   alternates: { canonical: '/comparatifs' },
+  openGraph: {
+    title: 'Comparatifs voitures chinoises — Duels et face-à-face',
+    description: 'Tous nos comparatifs détaillés entre voitures chinoises et leurs rivales européennes, coréennes et japonaises.',
+    url: '/comparatifs',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Comparatifs voitures chinoises — Duels et face-à-face',
+    description: 'Tous nos comparatifs détaillés entre voitures chinoises et leurs rivales.',
+  },
 };
 
 const comparatifs = articles.filter((a) => a.categorySlug === 'comparatif');

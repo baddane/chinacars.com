@@ -12,7 +12,7 @@ const staticRoutes: Array<{
   { path: '/actualites', changeFrequency: 'daily', priority: 0.9 },
   { path: '/marques', changeFrequency: 'weekly', priority: 0.9 },
   { path: '/essais', changeFrequency: 'weekly', priority: 0.8 },
-  { path: '/comparatifs', changeFrequency: 'weekly', priority: 0.7 },
+  { path: '/comparatifs', changeFrequency: 'weekly', priority: 0.8 },
   { path: '/guides', changeFrequency: 'weekly', priority: 0.7 },
   { path: '/electrique', changeFrequency: 'weekly', priority: 0.7 },
   { path: '/maroc', changeFrequency: 'weekly', priority: 0.5 },
@@ -43,7 +43,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     url: `${base}/actualites/${article.slug}`,
     lastModified: new Date(article.publishedAt),
     changeFrequency: 'monthly',
-    priority: 0.6,
+    priority: article.categorySlug === 'comparatif' ? 0.7 : 0.6,
   }));
 
   return [...staticEntries, ...brandEntries, ...articleEntries];

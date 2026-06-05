@@ -51,9 +51,9 @@ export default function Home() {
                 </div>
                 <div className="absolute bottom-0 left-0 right-0 p-6 lg:p-8">
                   <Badge tone="red">{heroArticle.category}</Badge>
-                  <h2 className="mt-3 text-2xl lg:text-3xl font-bold text-white leading-tight">
+                  <h1 className="mt-3 text-2xl lg:text-3xl font-bold text-white leading-tight">
                     {heroArticle.title}
-                  </h2>
+                  </h1>
                   <p className="mt-2 text-sm text-gray-300 line-clamp-2 max-w-2xl">
                     {heroArticle.excerpt}
                   </p>

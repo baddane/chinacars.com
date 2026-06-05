@@ -1,6 +1,8 @@
 import Link from 'next/link';
 import Breadcrumb from '@/src/components/layout/Breadcrumb';
 import ArticleCard from '@/src/components/articles/ArticleCard';
+import JsonLd from '@/src/components/seo/JsonLd';
+import { breadcrumbSchema } from '@/src/lib/seo/schemas';
 import type { ArticleSeed } from '@/src/data/articles';
 
 interface Props {
@@ -21,6 +23,15 @@ export default function CategoryArticlesPage({
 }: Props) {
   return (
     <div className="bg-white pt-32 pb-24">
+      <JsonLd
+        data={[
+          breadcrumbSchema([
+            { name: 'Accueil', url: '/' },
+            { name: breadcrumbLabel, url: canonical },
+          ]),
+        ]}
+        id={`category-${canonical}`}
+      />
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <Breadcrumb items={[{ name: breadcrumbLabel, url: canonical }]} className="mb-8" />
 

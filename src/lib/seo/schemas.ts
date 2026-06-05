@@ -36,6 +36,14 @@ export function websiteSchema(): Thing {
     name: SITE.name,
     url: SITE.url,
     inLanguage: SITE.defaultLanguage,
+    potentialAction: {
+      '@type': 'SearchAction',
+      target: {
+        '@type': 'EntryPoint',
+        urlTemplate: `${SITE.url}/actualites?q={search_term_string}`,
+      },
+      'query-input': 'required name=search_term_string',
+    },
   };
 }
 
@@ -118,7 +126,7 @@ export function carSchema(input: CarSchemaInput): Thing {
   const offer = input.price
     ? {
         '@type': 'Offer',
-        priceCurrency: input.priceCurrency || 'MAD',
+        priceCurrency: input.priceCurrency || 'EUR',
         price: input.price,
         availability: 'https://schema.org/InStock',
         url: absoluteUrl(input.url),

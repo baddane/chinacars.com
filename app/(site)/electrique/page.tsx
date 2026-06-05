@@ -7,6 +7,16 @@ export const metadata: Metadata = {
   description:
     "L'essentiel sur les voitures électriques chinoises : autonomie réelle, recharge rapide, prix et disponibilité.",
   alternates: { canonical: '/electrique' },
+  openGraph: {
+    title: 'Voitures électriques chinoises — Autonomie, recharge, prix',
+    description: "L'essentiel sur les voitures électriques chinoises : autonomie réelle, recharge rapide, prix et disponibilité.",
+    url: '/electrique',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Voitures électriques chinoises',
+    description: "L'essentiel sur les voitures électriques chinoises : autonomie, recharge, prix.",
+  },
 };
 
 const EV_KEYWORDS = [

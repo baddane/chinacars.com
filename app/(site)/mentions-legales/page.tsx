@@ -4,7 +4,7 @@ import Breadcrumb from '@/src/components/layout/Breadcrumb';
 export const metadata: Metadata = {
   title: 'Mentions légales',
   description:
-    'Mentions légales, éditeur, hébergeur et politique de confidentialité du site Véhicules Chinois.',
+    'Mentions légales, informations sur l\'éditeur, l\'hébergeur et la politique de confidentialité et de protection des données personnelles du site Véhicules Chinois.',
   alternates: { canonical: '/mentions-legales' },
 };
 

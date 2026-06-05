@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import Image from 'next/image';
 import { notFound } from 'next/navigation';
+import ArticleCard from '@/src/components/articles/ArticleCard';
 import Breadcrumb from '@/src/components/layout/Breadcrumb';
 import JsonLd from '@/src/components/seo/JsonLd';
 import { articles, formatArticleDate, type ArticleSeed } from '@/src/data/articles';
@@ -50,6 +51,10 @@ export default function ArticlePage({ params }: PageProps) {
   const article = findArticle(params.slug);
   if (!article) notFound();
   const imageSrc = resolveArticleImage(article.image, article.slug);
+
+  const related = articles
+    .filter((a) => a.categorySlug === article.categorySlug && a.slug !== article.slug)
+    .slice(0, 3);
 
   return (
     <article className="bg-white pt-32 pb-24">
@@ -136,6 +141,17 @@ export default function ArticlePage({ params }: PageProps) {
           )}
         </div>
       </div>
+
+      {related.length > 0 && (
+        <section className="mx-auto max-w-7xl px-6 lg:px-8 mt-16 pt-12 border-t border-gray-200">
+          <h2 className="text-2xl font-bold text-gray-900 mb-8">Articles similaires</h2>
+          <div className="grid grid-cols-1 gap-8 sm:grid-cols-3">
+            {related.map((a) => (
+              <ArticleCard key={a.slug} article={a} />
+            ))}
+          </div>
+        </section>
+      )}
     </article>
   );
 }
