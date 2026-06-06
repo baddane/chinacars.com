@@ -7,6 +7,7 @@ const footerNavigation = {
     { name: 'Essais', href: '/essais' },
     { name: 'Comparatifs', href: '/comparatifs' },
     { name: 'Guides pratiques', href: '/guides' },
+    { name: 'Comparateur', href: '/comparateur' },
     { name: 'Électrique', href: '/electrique' },
   ],
   marques: [

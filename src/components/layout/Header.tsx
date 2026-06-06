@@ -26,6 +26,7 @@ const navigation = [
     ],
   },
   { name: 'Comparatifs', href: '/comparatifs' },
+  { name: 'Comparateur', href: '/comparateur' },
   { name: 'Électrique', href: '/electrique' },
   { name: 'Guides', href: '/guides' },
 ];

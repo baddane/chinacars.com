@@ -13,6 +13,7 @@ const staticRoutes: Array<{
   { path: '/marques', changeFrequency: 'weekly', priority: 0.9 },
   { path: '/essais', changeFrequency: 'weekly', priority: 0.8 },
   { path: '/comparatifs', changeFrequency: 'weekly', priority: 0.8 },
+  { path: '/comparateur', changeFrequency: 'monthly', priority: 0.9 },
   { path: '/guides', changeFrequency: 'weekly', priority: 0.7 },
   { path: '/electrique', changeFrequency: 'weekly', priority: 0.7 },
   { path: '/maroc', changeFrequency: 'weekly', priority: 0.5 },
