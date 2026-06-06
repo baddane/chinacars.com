@@ -440,6 +440,31 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-04-08T09:00:00+01:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Pourquoi importer directement de Chine ?</h2>
+<p>Certains modèles vendus en Chine ne sont pas encore disponibles en Europe. L'importation directe est tentante quand le prix en Chine est 30 à 50 % inférieur. Mais les obstacles sont nombreux.</p>
+
+<h2>Les étapes obligatoires</h2>
+<ol>
+  <li><strong>L'homologation</strong> : le véhicule doit respecter les normes européennes. Coût : 2 000 à 8 000 €.</li>
+  <li><strong>Le dédouanement</strong> : droits de douane de 10 % + taxe anti-subvention (17,4 à 38,1 %) + TVA 20 %.</li>
+  <li><strong>Le transport maritime</strong> : 1 500 à 3 000 € (Shanghai-Le Havre, 5-6 semaines).</li>
+  <li><strong>L'immatriculation</strong> : certificat de conformité, contrôle technique, carte grise (500-1 000 €).</li>
+</ol>
+
+<h2>Le calcul réel</h2>
+<p>Exemple avec la BYD Seagull (9 000 € en Chine) : transport 2 000 € + droits 1 100 € + taxe anti-subvention 1 914 € + TVA 2 803 € + homologation 5 000 € = environ 21 800 €. Souvent plus cher que d'attendre la commercialisation officielle.</p>
+
+<h2>Notre recommandation</h2>
+<p>Sauf cas très spécifique, l'importation directe n'est pas rentable. Les constructeurs arrivent en Europe à un rythme soutenu — mieux vaut attendre et bénéficier de la garantie et du SAV.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/taxes-europeennes-impact-prix-voitures-chinoises-2026">L'impact des taxes européennes sur les prix</a></li>
+  <li><a href="/actualites/mandataires-vs-concessions-acheter-byd-meilleur-prix">Mandataires vs concessions : acheter au meilleur prix</a></li>
+  <li><a href="/actualites/bonus-ecologique-2026-voitures-chinoises-eligibles">Bonus écologique 2026 : quelles chinoises éligibles ?</a></li>
+</ul>
+`,
   },
   {
     slug: 'chery-tiggo-8-pro-suv-7-places',
@@ -487,6 +512,30 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-04-01T09:00:00+01:00',
     readingTime: 9,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le protocole du test</h2>
+<p>La Geely Geometry C affiche 550 km d'autonomie WLTP avec sa batterie de 70 kWh. Nous avons mesuré l'autonomie réelle sur autoroute : Paris-Lyon par l'A6, 465 km, à 120 km/h de moyenne. Température : 14 °C, climatisation à 21 °C.</p>
+
+<h2>Les chiffres relevés</h2>
+<ul>
+  <li><strong>Autonomie réelle</strong> : 365 km à 120 km/h → 66 % de l'autonomie WLTP</li>
+  <li><strong>Consommation moyenne</strong> : 19,2 kWh/100 km (vs 15,4 kWh annoncé)</li>
+  <li><strong>Recharge</strong> : 35 minutes de 12 à 80 % sur borne Ionity (87 kW max)</li>
+</ul>
+
+<h2>Le comportement routier</h2>
+<p>Sur autoroute, la Geometry C est confortable et stable. L'insonorisation est correcte jusqu'à 110 km/h, un peu juste au-delà. Le régulateur adaptatif fonctionne bien mais manque de progressivité en décélération.</p>
+
+<h2>Notre verdict</h2>
+<p>La Geometry C est honnête pour un usage mixte. Sur autoroute pure, comptez 350-370 km réels — un arrêt recharge s'impose sur les longs trajets. Les MG4 Long Range et BYD Atto 3 font légèrement mieux.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/charge-800v-zeekr-xpeng-humilient-constructeurs-historiques">Charge 800V : Zeekr et XPeng au sommet</a></li>
+  <li><a href="/actualites/top-5-electriques-chinoises-moins-30000-euros">Top 5 des électriques chinoises à moins de 30 000 €</a></li>
+  <li><a href="/actualites/suv-chinois-confortables-longs-trajets-autoroute">SUV chinois les plus confortables sur autoroute</a></li>
+</ul>
+`,
   },
   {
     slug: 'voiture-chinoise-occasion-fiabilite',
@@ -499,6 +548,30 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-03-28T09:00:00+01:00',
     readingTime: 6,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le marché de l'occasion chinoise est né</h2>
+<p>Les premières MG4 et BYD Atto 3 livrées en 2022-2023 arrivent sur le marché de l'occasion. Bonne ou mauvaise idée d'acheter chinois en seconde main ?</p>
+
+<h2>La décote : un avantage pour l'acheteur</h2>
+<p>Les voitures chinoises décotent environ 30-38 % en 2 ans contre 25-30 % pour une Tesla ou Renault. Pour l'acheteur d'occasion, c'est une opportunité : des véhicules quasi neufs à prix réduit.</p>
+
+<h2>La fiabilité : premiers retours positifs</h2>
+<ul>
+  <li><strong>MG4</strong> : peu de pannes, quelques bugs logiciels mineurs</li>
+  <li><strong>BYD Atto 3</strong> : batterie Blade en excellent état après 50 000 km</li>
+  <li><strong>MG ZS EV</strong> : usure des plaquettes un peu rapide, rien de critique</li>
+</ul>
+
+<h2>L'atout garantie</h2>
+<p>La garantie MG de 7 ans est transférable au second propriétaire — un argument de poids. BYD offre 6 ans transférables. Vérifiez le carnet d'entretien en concession agréée.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/decote-voitures-chinoises-risque-mg-byd-2026">Décote des voitures chinoises : est-ce risqué ?</a></li>
+  <li><a href="/actualites/voitures-chinoises-occasion-marche-en-expansion">Le marché de l'occasion chinoise explose</a></li>
+  <li><a href="/actualites/fiabilite-long-terme-mg4-2023-premiers-retours">MG4 : les premiers retours de fiabilité</a></li>
+</ul>
+`,
   },
 
   // --- Comparatifs Chinoises entre elles (articles.md #1-20) ---
@@ -554,6 +627,32 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2026-04-21T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux compactes, un même combat</h2>
+<p>La MG4 et la BYD Dolphin sont les deux compactes électriques chinoises les plus vendues en Europe. Même segment de prix, même ambition : démocratiser l'électrique. Laquelle choisir ?</p>
+
+<h2>Les chiffres clés</h2>
+<ul>
+  <li><strong>MG4 Standard</strong> : 51 kWh, 350 km WLTP, 170 ch, à partir de 28 990 €</li>
+  <li><strong>BYD Dolphin Active</strong> : 44 kWh, 340 km WLTP, 95 ch, à partir de 26 990 €</li>
+</ul>
+
+<h2>Conduite et comportement</h2>
+<p>La MG4 est plus dynamique grâce à son moteur arrière et son châssis bien équilibré. La Dolphin privilégie le confort avec une suspension plus souple et une direction légère — idéale en ville.</p>
+
+<h2>Équipement et technologie</h2>
+<p>La BYD Dolphin offre un meilleur équipement de série : pompe à chaleur, V2L, écran rotatif 12,8 pouces. La MG4 compense par un coffre plus grand (363 L vs 345 L) et un comportement routier supérieur.</p>
+
+<h2>Verdict</h2>
+<p>Urbain et confort → BYD Dolphin. Polyvalence et plaisir → MG4. Les deux sont d'excellents choix sous 30 000 €.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/top-5-electriques-chinoises-moins-30000-euros">Top 5 des électriques chinoises à moins de 30 000 €</a></li>
+  <li><a href="/actualites/mg4-xpower-vs-volkswagen-id3-gtx-compactes-sportives">MG4 XPower vs VW ID.3 GTX</a></li>
+  <li><a href="/actualites/5-meilleures-citadines-chinoises-ville">Les 5 meilleures citadines chinoises</a></li>
+</ul>
+`,
   },
   {
     slug: 'zeekr-001-vs-nio-et7-luxe-technologique-chinois',
@@ -566,6 +665,32 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2026-04-14T09:00:00+02:00',
     readingTime: 9,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le duel du luxe chinois</h2>
+<p>Zeekr 001 et NIO ET7 incarnent deux visions du premium électrique chinois. Le shooting brake sportif face à la berline high-tech. Lequel mérite votre investissement ?</p>
+
+<h2>Les chiffres clés</h2>
+<ul>
+  <li><strong>Zeekr 001</strong> : 100 kWh, 620 km WLTP, 800V, 544 ch, ~50 000 €</li>
+  <li><strong>NIO ET7</strong> : 100 kWh, 580 km WLTP, 400V, 653 ch, ~55 000 € (sans batterie en BaaS)</li>
+</ul>
+
+<h2>Technologie et recharge</h2>
+<p>Le Zeekr 001 domine sur la recharge grâce à son architecture 800V (10-80 % en 15 min). Le NIO ET7 compense avec le Battery Swap : 3 minutes pour une batterie pleine. En Europe, le réseau Zeekr est plus accessible via les bornes Ionity.</p>
+
+<h2>Confort et habitabilité</h2>
+<p>Le NIO ET7 séduit par NOMI (assistant IA), ses sièges massants et un silence de cathédrale. Le Zeekr 001 offre un coffre shooting brake immense (587 L) et un comportement routier plus sportif.</p>
+
+<h2>Verdict</h2>
+<p>Sportivité et polyvalence → Zeekr 001. Technologie et confort → NIO ET7. Les deux sont au niveau des meilleures berlines allemandes.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/zeekr-001-vs-tesla-model-s-silicon-valley-tremble-2026">Zeekr 001 vs Tesla Model S</a></li>
+  <li><a href="/actualites/nio-echange-batterie-vs-tesla-superchargeur-voyage">NIO vs Tesla : échange de batterie vs Superchargeur</a></li>
+  <li><a href="/actualites/3-voitures-chinoises-pour-oublier-tesla-2026">3 chinoises pour oublier Tesla</a></li>
+</ul>
+`,
   },
   {
     slug: 'omoda-5-vs-mg-zs-hybrid-suv-urbains-abordables',
@@ -578,6 +703,29 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2026-04-07T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le match des SUV hybrides abordables</h2>
+<p>L'Omoda 5 et le MG ZS Hybrid+ sont deux SUV compacts hybrides à prix cassé. L'outsider Chery défie le best-seller MG sur son propre terrain.</p>
+
+<h2>Les chiffres</h2>
+<ul>
+  <li><strong>Omoda 5 Hybrid</strong> : 1.5 turbo + moteur électrique, 194 ch, conso 4,9 L/100 km, à partir de 26 990 €</li>
+  <li><strong>MG ZS Hybrid+</strong> : 1.5 atmo + moteur électrique, 197 ch, conso 5,0 L/100 km, à partir de 24 990 €</li>
+</ul>
+
+<h2>Design et équipement</h2>
+<p>L'Omoda 5 mise sur un design plus affirmé et un intérieur mieux fini. Écran 10,25 pouces, sellerie cuir synthétique, caméra 360°. Le MG ZS est plus sobre mais propose CarPlay/Android Auto sans fil de série.</p>
+
+<h2>Verdict</h2>
+<p>Budget serré → MG ZS Hybrid+ (2 000 € moins cher). Design et finition → Omoda 5. Les deux sont d'excellentes portes d'entrée dans l'univers des SUV chinois.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/omoda-jaecoo-nouveau-geant-marche-automobile">Omoda & Jaecoo : le nouveau géant</a></li>
+  <li><a href="/actualites/mg-motor-marque-preferee-jeunes-conducteurs">MG : la marque préférée des jeunes</a></li>
+  <li><a href="/actualites/hybride-vs-phev-comparatif-mg-byd">Hybride vs PHEV : le comparatif MG et BYD</a></li>
+</ul>
+`,
   },
   {
     slug: 'leapmotor-t03-vs-byd-seagull-micro-citadines',
@@ -590,6 +738,29 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2026-03-31T09:00:00+02:00',
     readingTime: 6,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>La guerre des micro-citadines électriques</h2>
+<p>La Leapmotor T03 et la BYD Seagull visent le même marché : la citadine électrique ultra-abordable. Deux approches, deux prix, un même objectif — rendre l'électrique accessible à tous.</p>
+
+<h2>Les chiffres</h2>
+<ul>
+  <li><strong>Leapmotor T03</strong> : 37 kWh, 280 km WLTP, 95 ch, 18 900 € (bonus déduit)</li>
+  <li><strong>BYD Seagull</strong> : 38 kWh, 405 km WLTP, 75 ch, ~15 000 € (prix attendu Europe)</li>
+</ul>
+
+<h2>Disponibilité et SAV</h2>
+<p>La T03 a l'avantage d'être déjà disponible en France via Stellantis, avec un réseau SAV établi. La Seagull n'est pas encore commercialisée en Europe — sa date d'arrivée reste incertaine en raison des droits de douane.</p>
+
+<h2>Verdict</h2>
+<p>Aujourd'hui, la T03 est le seul choix disponible — et c'est un bon choix. Si la Seagull arrive en Europe à un prix compétitif, elle pourrait devenir la référence du segment grâce à son autonomie supérieure.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/leapmotor-t03-vs-dacia-spring-electrique-15000">Leapmotor T03 vs Dacia Spring</a></li>
+  <li><a href="/actualites/5-meilleures-citadines-chinoises-ville">Les 5 meilleures citadines chinoises</a></li>
+  <li><a href="/actualites/leapmotor-alliance-stellantis-sav-europe">Leapmotor et Stellantis : l'alliance SAV</a></li>
+</ul>
+`,
   },
   {
     slug: 'xpeng-g6-vs-byd-atto-3-evo-autonomie-reelle',
@@ -602,6 +773,30 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2026-03-24T09:00:00+01:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Autonomie annoncée vs autonomie réelle</h2>
+<p>Le XPeng G6 et le BYD Atto 3 sont deux SUV compacts électriques populaires. Le G6 mise sur l'architecture 800V, l'Atto 3 sur la batterie Blade LFP. Qui tient le mieux ses promesses d'autonomie ?</p>
+
+<h2>Les chiffres WLTP vs réel</h2>
+<ul>
+  <li><strong>XPeng G6 (66 kWh)</strong> : 570 km WLTP → 430 km réels en mixte → 75 % de rétention</li>
+  <li><strong>BYD Atto 3 (60 kWh)</strong> : 420 km WLTP → 340 km réels en mixte → 81 % de rétention</li>
+</ul>
+<p>La BYD retient un meilleur pourcentage grâce à la chimie LFP, mais le G6 offre plus de kilomètres réels grâce à sa batterie plus grande.</p>
+
+<h2>La recharge fait la différence</h2>
+<p>Le G6 en 800V récupère 300 km en 15 minutes. L'Atto 3 en 400V met 35 minutes pour le même résultat. Sur les longs trajets, l'écart est considérable.</p>
+
+<h2>Verdict</h2>
+<p>Longs trajets → XPeng G6, sans hésiter. Usage urbain → BYD Atto 3, moins cher et très fiable.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/xpeng-g6-vs-tesla-model-y-recharge-rapide">XPeng G6 vs Tesla Model Y</a></li>
+  <li><a href="/actualites/charge-800v-zeekr-xpeng-humilient-constructeurs-historiques">Charge 800V : Zeekr et XPeng au sommet</a></li>
+  <li><a href="/actualites/xpeng-marque-intelligence-artificielle-automobile">XPeng : la marque IA</a></li>
+</ul>
+`,
   },
   {
     slug: 'jaecoo-7-vs-chery-tiggo-8-pro-suv-familial-chery',
@@ -614,6 +809,29 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2026-03-17T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux SUV Chery, deux philosophies</h2>
+<p>Le groupe Chery propose deux SUV familiaux : le Jaecoo 7 (5 places, premium) et le Tiggo 8 Pro (7 places, spacieux). Même groupe, choix très différent.</p>
+
+<h2>Espace et praticité</h2>
+<p>Le Tiggo 8 Pro offre 7 places et un coffre de 192-530 L. Le Jaecoo 7 se limite à 5 places mais avec un coffre plus généreux en configuration standard (480 L) et un espace arrière très confortable.</p>
+
+<h2>Motorisation et prix</h2>
+<ul>
+  <li><strong>Jaecoo 7</strong> : 1.6 turbo 186 ch, à partir de 33 990 €</li>
+  <li><strong>Tiggo 8 Pro</strong> : 1.6 turbo 197 ch, à partir de 34 990 €</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Grande famille (3+ enfants) → Tiggo 8 Pro pour les 7 places. Couple ou famille avec 1-2 enfants → Jaecoo 7 pour la finition premium et le design plus affirmé.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/suv-chinois-famille-3-enfants-quel-choisir">Quel SUV chinois pour une famille de 3 enfants ?</a></li>
+  <li><a href="/actualites/chery-tiggo-8-voyage-famille-test-habitabilite">Chery Tiggo 8 : test d'habitabilité en famille</a></li>
+  <li><a href="/actualites/omoda-jaecoo-nouveau-geant-marche-automobile">Omoda-Jaecoo : le nouveau géant</a></li>
+</ul>
+`,
   },
   {
     slug: 'mg-cyberster-vs-byd-seal-06-gt-plaisir-conduite',
@@ -626,6 +844,29 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2026-03-10T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Plaisir de conduire : la Chine entre dans la danse</h2>
+<p>Le MG Cyberster est un roadster 2 places. La BYD Seal 06 GT est une berline sportive 4 portes. Deux façons chinoises de prouver que l'électrique peut aussi être fun.</p>
+
+<h2>Performances</h2>
+<ul>
+  <li><strong>MG Cyberster AWD</strong> : 544 ch, 0-100 en 3,2 s, 443 km WLTP, 45 990 €</li>
+  <li><strong>BYD Seal 06 GT</strong> : 313 ch, 0-100 en 5,9 s, 450 km WLTP, 36 990 €</li>
+</ul>
+
+<h2>L'expérience de conduite</h2>
+<p>Le Cyberster offre des sensations de roadster pur : toit ouvert, position basse, direction directe. La Seal 06 GT est plus polyvalente : 4 places, coffre de 400 L, confort quotidien. Le compromis entre émotion et raison.</p>
+
+<h2>Verdict</h2>
+<p>Émotion pure → MG Cyberster. Quotidien sportif → BYD Seal 06 GT. Les deux prouvent que la Chine sait construire des voitures plaisir.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/mg-motor-heritage-anglais-domination-chinoise">MG Motor : de l'héritage anglais à la domination chinoise</a></li>
+  <li><a href="/actualites/mg4-xpower-vs-volkswagen-id3-gtx-compactes-sportives">MG4 XPower vs VW ID.3 GTX</a></li>
+  <li><a href="/actualites/design-chinois-identite-visuelle-marques-auto">Design chinois : l'identité visuelle</a></li>
+</ul>
+`,
   },
   {
     slug: 'nio-el6-vs-xpeng-g9-grands-suv-electriques-premium',
@@ -638,6 +879,29 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2026-03-03T09:00:00+01:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le duel des grands SUV premium chinois</h2>
+<p>NIO EL6 et XPeng G9 visent le segment des BMW iX et Mercedes EQE SUV — mais à prix chinois. Technologies embarquées, recharge et habitabilité au crible.</p>
+
+<h2>Les chiffres</h2>
+<ul>
+  <li><strong>NIO EL6</strong> : 100 kWh, 510 km WLTP, 489 ch, suspension pneumatique, ~52 000 € (BaaS)</li>
+  <li><strong>XPeng G9</strong> : 98 kWh, 570 km WLTP, 551 ch, architecture 800V, ~55 000 €</li>
+</ul>
+
+<h2>Recharge et voyage</h2>
+<p>Le G9 en 800V recharge de 10-80 % en 20 minutes sur borne 350 kW. Le EL6 propose le Battery Swap (3 min) là où les stations existent. Sur autoroute française, le G9 a l'avantage du réseau de bornes rapides.</p>
+
+<h2>Verdict</h2>
+<p>Technologie de recharge → XPeng G9. Confort et services premium → NIO EL6. Les deux sont au-dessus de la concurrence européenne sur le rapport prestations/prix.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/nio-echange-batterie-vs-tesla-superchargeur-voyage">NIO vs Tesla : échange de batterie vs Superchargeur</a></li>
+  <li><a href="/actualites/suv-chinois-confortables-longs-trajets-autoroute">SUV chinois les plus confortables</a></li>
+  <li><a href="/actualites/lidar-xpeng-vs-vision-tesla-conduite-autonome-france">Lidar XPeng vs Vision Tesla</a></li>
+</ul>
+`,
   },
   {
     slug: 'gwm-ora-03-vs-mg3-hybrid-design-retro-efficacite',
@@ -650,6 +914,29 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2026-02-24T09:00:00+01:00',
     readingTime: 6,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Design ou efficacité ?</h2>
+<p>L'Ora 03 séduit par son look rétro-futuriste. La MG3 Hybrid+ convainc par sa consommation record. Deux philosophies pour la ville, un seul choix à faire.</p>
+
+<h2>Les chiffres</h2>
+<ul>
+  <li><strong>GWM Ora 03</strong> : 100 % électrique, 48 kWh, 310 km WLTP, ~28 990 €</li>
+  <li><strong>MG3 Hybrid+</strong> : hybride, 4,4 L/100 km, 700 km d'autonomie totale, 19 990 €</li>
+</ul>
+
+<h2>Usage quotidien</h2>
+<p>L'Ora 03 est idéale si vous avez une borne à domicile : zéro émission, recharge nocturne, coût au km imbattable. La MG3 Hybrid+ est le choix pragmatique : pas besoin de borne, un plein en 3 minutes, et une conso de citadine.</p>
+
+<h2>Verdict</h2>
+<p>Borne à domicile + style → Ora 03. Pas de borne + budget serré → MG3 Hybrid+. L'écart de 9 000 € pèse lourd dans la balance.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/gwm-ora-citadines-electriques-design-audacieux">GWM Ora : citadines au design audacieux</a></li>
+  <li><a href="/actualites/5-meilleures-citadines-chinoises-ville">Les 5 meilleures citadines chinoises</a></li>
+  <li><a href="/actualites/mg3-hybrid-vs-mg4-electric-hybride-ou-electrique">MG3 Hybrid vs MG4 Electric</a></li>
+</ul>
+`,
   },
   {
     slug: 'zeekr-x-vs-volvo-ex30-cousins-chinois',
@@ -662,6 +949,29 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2026-02-17T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Même plateforme, deux identités</h2>
+<p>Le Zeekr X et le Volvo EX30 partagent la plateforme SEA de Geely. Mais les deux marques les habillent très différemment. Lequel choisir ?</p>
+
+<h2>Les chiffres</h2>
+<ul>
+  <li><strong>Zeekr X</strong> : 66 kWh, 440 km WLTP, 272 ch, ~38 000 €</li>
+  <li><strong>Volvo EX30</strong> : 69 kWh, 476 km WLTP, 272 ch, ~36 000 €</li>
+</ul>
+
+<h2>Design et intérieur</h2>
+<p>Le Zeekr X est plus expressif, avec un intérieur haut en couleur et un double écran. Le Volvo EX30 joue la sobriété scandinave avec un écran central unique et des matériaux recyclés. Question de goût.</p>
+
+<h2>Verdict</h2>
+<p>Image de marque et sobriété → Volvo EX30. Technologie et audace → Zeekr X. Mécaniquement, ils sont quasi identiques. Le choix est émotionnel.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/zeekr-france-prix-modeles-reseau-2026">Zeekr en France : prix et modèles</a></li>
+  <li><a href="/actualites/zeekr-x-vs-audi-q4-etron-style-sobriete">Zeekr X vs Audi Q4 e-tron</a></li>
+  <li><a href="/actualites/charge-800v-zeekr-xpeng-humilient-constructeurs-historiques">Charge 800V : Zeekr et XPeng au sommet</a></li>
+</ul>
+`,
   },
   {
     slug: 'avatr-11-vs-hiphi-z-design-chinois-futuriste',
@@ -674,6 +984,29 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2026-02-10T09:00:00+01:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Quand la Chine dessine le futur</h2>
+<p>Avatr (joint-venture Changan-Huawei-CATL) et HiPhi repoussent les limites du design automobile. Deux concept-cars de série qui incarnent l'avenir chinois.</p>
+
+<h2>Les chiffres</h2>
+<ul>
+  <li><strong>Avatr 11</strong> : 116 kWh, 600 km WLTP, 578 ch, système Huawei HarmonyOS, ~55 000 €</li>
+  <li><strong>HiPhi Z</strong> : 120 kWh, 555 km WLTP, 494 ch, éclairage ISD programmable, ~70 000 €</li>
+</ul>
+
+<h2>Technologie embarquée</h2>
+<p>L'Avatr 11 embarque la suite Huawei : écran 15,6 pouces, conduite semi-autonome ADS 2.0, et un écosystème connecté HarmonyOS. Le HiPhi Z impressionne avec ses portes à ouverture programmable et son éclairage extérieur customisable.</p>
+
+<h2>Verdict</h2>
+<p>Technologie utile → Avatr 11. Effet "wow" maximal → HiPhi Z. Aucun des deux n'est encore disponible en France, mais ils montrent ce dont la Chine est capable.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/design-chinois-identite-visuelle-marques-auto">Design chinois : l'identité visuelle des marques</a></li>
+  <li><a href="/actualites/voitures-chinoises-plus-attendues-fin-2026">Les voitures chinoises les plus attendues</a></li>
+  <li><a href="/actualites/voitures-chinoises-meilleur-infodivertissement-2026">Le meilleur infodivertissement chinois</a></li>
+</ul>
+`,
   },
   {
     slug: 'byd-shark-vs-maxus-t90-ev-pickup-chinois-pros',
@@ -686,6 +1019,29 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2026-02-03T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le pickup chinois arrive en Europe</h2>
+<p>BYD Shark et Maxus T90 EV sont les premiers pick-ups chinois à viser le marché européen. Le Shark est hybride rechargeable, le T90 est 100 % électrique. Deux approches pour les professionnels.</p>
+
+<h2>Les chiffres</h2>
+<ul>
+  <li><strong>BYD Shark</strong> : PHEV, 1.5T + moteurs électriques, 437 ch, 100 km électrique, 4x4, ~45 000 €</li>
+  <li><strong>Maxus T90 EV</strong> : 100 % électrique, 88 kWh, 330 km WLTP, 245 ch, ~50 000 €</li>
+</ul>
+
+<h2>Usage pro</h2>
+<p>Le Shark a l'avantage de l'autonomie totale (800+ km en hybride) et de la puissance de remorquage. Le T90 EV convient aux trajets courts et prédictibles (chantiers, livraisons urbaines) avec un coût au km imbattable.</p>
+
+<h2>Verdict</h2>
+<p>Polyvalence pro → BYD Shark. Usage urbain/péri-urbain → Maxus T90 EV. Les deux sont nettement moins chers qu'un Ford Ranger ou Toyota Hilux.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/v2l-vehicle-to-load-byd-alimenter-maison">V2L BYD : alimenter votre chantier</a></li>
+  <li><a href="/actualites/hybride-vs-phev-comparatif-mg-byd">Hybride vs PHEV : le comparatif</a></li>
+  <li><a href="/actualites/byd-vs-volkswagen-bataille-numero-1-mondial">BYD vs Volkswagen : la bataille mondiale</a></li>
+</ul>
+`,
   },
   {
     slug: 'lynk-co-01-vs-mg-ehs-hybride-rechargeable-partage',
@@ -698,6 +1054,29 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2026-01-27T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>PHEV chinois : abonnement ou achat ?</h2>
+<p>La Lynk & Co 01 se loue en abonnement (500 €/mois tout inclus). Le MG EHS s'achète classiquement. Deux SUV hybrides rechargeables, deux modèles économiques.</p>
+
+<h2>Les chiffres</h2>
+<ul>
+  <li><strong>Lynk & Co 01</strong> : 261 ch, 69 km autonomie EV, 500 €/mois tout inclus</li>
+  <li><strong>MG EHS</strong> : 258 ch, 52 km autonomie EV, à partir de 33 990 €</li>
+</ul>
+
+<h2>Le calcul sur 3 ans</h2>
+<p>Abonnement Lynk & Co : 18 000 €. Achat MG EHS + assurance + entretien : ~20 500 €. L'abonnement est légèrement moins cher avec zéro contrainte. Mais sur 5 ans, l'achat redevient avantageux.</p>
+
+<h2>Verdict</h2>
+<p>Flexibilité (2-3 ans) → Lynk & Co 01. Long terme (5+ ans) → MG EHS. La qualité de conduite est similaire, les deux partageant des bases Geely/SAIC solides.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/lynk-co-abonnement-ne-pas-acheter-voiture">Lynk & Co : l'abonnement voiture</a></li>
+  <li><a href="/actualites/location-vs-achat-lynk-co-nouvelle-consommation">Location vs Achat</a></li>
+  <li><a href="/actualites/leasing-loa-lld-meilleures-offres-marques-chinoises">Meilleures offres de leasing chinoises</a></li>
+</ul>
+`,
   },
   {
     slug: 'hongqi-e-hs9-vs-nio-el7-luxe-presidentiel-technologie',
@@ -710,6 +1089,29 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2026-01-20T09:00:00+01:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Luxe présidentiel vs luxe technologique</h2>
+<p>Hongqi est la marque officielle du gouvernement chinois. NIO est le champion de la tech. Le E-HS9 et l'EL7 incarnent deux visions opposées du grand SUV premium.</p>
+
+<h2>Les chiffres</h2>
+<ul>
+  <li><strong>Hongqi E-HS9</strong> : 120 kWh, 465 km WLTP, 551 ch, 7 places, ~80 000 €</li>
+  <li><strong>NIO EL7</strong> : 100 kWh, 509 km WLTP, 653 ch, Battery Swap, ~60 000 € (BaaS)</li>
+</ul>
+
+<h2>L'expérience à bord</h2>
+<p>Le Hongqi mise sur le luxe traditionnel : cuir Nappa, boiseries, climatisation 4 zones, sièges massants. Le NIO mise sur la technologie : NOMI, système audio 7.1.4, mises à jour OTA bimensuelles.</p>
+
+<h2>Verdict</h2>
+<p>Luxe classique et 7 places → Hongqi E-HS9. Innovation et services premium → NIO EL7. Le Hongqi est un secret bien gardé, le NIO un phénomène technologique.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/nio-battery-as-a-service-louer-ou-acheter-batterie">NIO Battery as a Service</a></li>
+  <li><a href="/actualites/nio-el6-vs-xpeng-g9-grands-suv-electriques-premium">NIO EL6 vs XPeng G9</a></li>
+  <li><a href="/actualites/design-chinois-identite-visuelle-marques-auto">Design chinois : l'identité visuelle</a></li>
+</ul>
+`,
   },
   {
     slug: 'byd-tang-2026-vs-mg-s9-suv-7-places',
@@ -722,6 +1124,29 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2026-01-13T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le duel des SUV 7 places chinois</h2>
+<p>Le BYD Tang et le futur MG S9 visent les familles nombreuses. Deux grands SUV à l'espace généreux et aux ambitions européennes.</p>
+
+<h2>Les chiffres</h2>
+<ul>
+  <li><strong>BYD Tang 2026</strong> : 108 kWh, 530 km WLTP, 517 ch, 7 places, ~52 000 €</li>
+  <li><strong>MG S9</strong> : 90 kWh estimé, 450 km WLTP, 7 places, prix attendu ~42 000 €</li>
+</ul>
+
+<h2>Espace et praticité</h2>
+<p>Le Tang est plus grand (4,97 m) avec une troisième rangée plus utilisable. Le MG S9, positionné 10 000 € en dessous, joue sur le rapport taille/prix. Les deux offrent un coffre correct en configuration 5 places.</p>
+
+<h2>Verdict</h2>
+<p>Espace maximal et technologie → BYD Tang. Budget familial → MG S9. Pour les grandes familles, le Tang reste la référence du segment.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/suv-chinois-famille-3-enfants-quel-choisir">Quel SUV chinois pour 3 enfants ?</a></li>
+  <li><a href="/actualites/chery-tiggo-8-voyage-famille-test-habitabilite">Chery Tiggo 8 : test habitabilité</a></li>
+  <li><a href="/actualites/suv-chinois-confortables-longs-trajets-autoroute">SUV chinois confortables sur autoroute</a></li>
+</ul>
+`,
   },
   {
     slug: 'xiaomi-su7-vs-xpeng-p7i-interface-logicielle',
@@ -734,6 +1159,44 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2026-01-06T09:00:00+01:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux philosophies logicielles, un même objectif</h2>
+<p>La Xiaomi SU7 embarque HyperOS, le système d'exploitation unifié de Xiaomi qui connecte smartphone, montre, domotique et voiture dans un écosystème cohérent. Face à elle, la XPeng P7i tourne sous Xmart OS 4.0, un système développé en interne par XPeng et optimisé pour la conduite intelligente. Deux approches radicalement différentes du cockpit numérique.</p>
+
+<h2>HyperOS (Xiaomi SU7) : l'écosystème comme arme</h2>
+<p>HyperOS repose sur un noyau Android modifié, enrichi par le framework propriétaire Vela. L'interface s'affiche sur un écran central de 16,1 pouces et un combiné d'instrumentation de 7,1 pouces. La fluidité est impressionnante : les animations tournent à 60 fps constants, les applications se lancent en moins d'une seconde.</p>
+<p>Le véritable atout de HyperOS est l'intégration avec les appareils Xiaomi. Depuis le volant, on peut contrôler les caméras de surveillance du domicile, ajuster le thermostat connecté, ou transférer un itinéraire du téléphone à la voiture d'un simple geste. La commande vocale « Xiao AI » comprend le contexte automobile et gère climatisation, navigation et multimédia avec précision.</p>
+<ul>
+  <li><strong>Points forts</strong> : fluidité exemplaire, écosystème IoT complet, mises à jour OTA mensuelles</li>
+  <li><strong>Points faibles</strong> : interface dense qui peut dérouter les néophytes, dépendance à l'écosystème Xiaomi</li>
+</ul>
+
+<h2>Xmart OS 4.0 (XPeng P7i) : l'IA au service de la conduite</h2>
+<p>Xmart OS adopte une approche différente : l'interface est épurée, centrée sur un écran de 15,6 pouces. Le système mise tout sur l'intelligence artificielle. L'assistant vocal de XPeng est capable de conversations naturelles multi-tours : on peut enchaîner « trouve un restaurant italien », « réserve pour deux » et « envoie l'adresse à ma femme » sans répéter le contexte.</p>
+<p>La carte de navigation est fusionnée avec le système ADAS XNGP. L'écran affiche en temps réel la reconstruction 3D de l'environnement détecté par les capteurs, avec les véhicules, piétons et marquages au sol. Cette transparence rassure le conducteur lors de l'utilisation de la conduite semi-autonome.</p>
+<ul>
+  <li><strong>Points forts</strong> : IA vocale avancée, intégration ADAS remarquable, interface épurée et lisible</li>
+  <li><strong>Points faibles</strong> : écosystème connecté limité, moins d'applications tierces disponibles</li>
+</ul>
+
+<h2>Comparaison fonctionnelle</h2>
+<table>
+  <thead><tr><th>Critère</th><th>Xiaomi SU7 (HyperOS)</th><th>XPeng P7i (Xmart OS)</th></tr></thead>
+  <tbody>
+    <tr><td>Taille écran central</td><td>16,1 pouces</td><td>15,6 pouces</td></tr>
+    <tr><td>Processeur</td><td>Qualcomm 8295</td><td>Qualcomm 8295</td></tr>
+    <tr><td>Temps de démarrage</td><td>1,5 s</td><td>2,0 s</td></tr>
+    <tr><td>Commande vocale</td><td>Xiao AI (bonne)</td><td>XPeng AI (excellente)</td></tr>
+    <tr><td>Écosystème IoT</td><td>Complet (Xiaomi)</td><td>Limité</td></tr>
+    <tr><td>Intégration ADAS</td><td>Basique</td><td>Avancée (XNGP)</td></tr>
+    <tr><td>App Store</td><td>Riche</td><td>Modéré</td></tr>
+    <tr><td>Mises à jour OTA</td><td>Mensuelles</td><td>Trimestrielles</td></tr>
+  </tbody>
+</table>
+
+<h2>Verdict : à chacun son usage</h2>
+<p>Si vous êtes déjà équipé en produits Xiaomi et recherchez un cockpit ultra-connecté, HyperOS sur la SU7 offre une expérience sans équivalent. Si la conduite semi-autonome et l'intelligence artificielle vocale sont vos priorités, Xmart OS sur la P7i est plus abouti. Les deux systèmes partagent le même processeur Qualcomm 8295 et surpassent largement les interfaces des constructeurs européens en termes de réactivité et de fonctionnalités. Le logiciel automobile chinois a pris une longueur d'avance considérable.</p>
+`,
   },
   {
     slug: 'leapmotor-c11-vs-byd-seal-u-suv-familial-prix',
@@ -746,6 +1209,29 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-12-22T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>SUV familial électrique : le match du prix</h2>
+<p>Le Leapmotor C11 et le BYD Seal U sont deux SUV familiaux électriques positionnés sous 40 000 €. Lequel offre le meilleur rapport prestations/prix ?</p>
+
+<h2>Les chiffres</h2>
+<ul>
+  <li><strong>Leapmotor C11</strong> : 77 kWh, 410 km WLTP, 272 ch, à partir de 36 400 €</li>
+  <li><strong>BYD Seal U</strong> : 71 kWh, 420 km WLTP, 204 ch, à partir de 37 990 €</li>
+</ul>
+
+<h2>Avantages respectifs</h2>
+<p>Le C11 est plus puissant et bénéficie du réseau SAV Stellantis. Le Seal U offre la batterie Blade (plus durable), le V2L de série et une meilleure finition intérieure. Les deux sont 5 places avec un coffre généreux (420-500 L).</p>
+
+<h2>Verdict</h2>
+<p>SAV et puissance → Leapmotor C11. Batterie et finition → BYD Seal U. Les deux sont d'excellents choix face aux Renault Scenic E-Tech et Peugeot e-3008.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/leapmotor-alliance-stellantis-sav-europe">Leapmotor et Stellantis : l'alliance SAV</a></li>
+  <li><a href="/actualites/byd-seal-u-phev-vs-byd-seal-u-ev-hybride-rechargeable">BYD Seal U : PHEV ou EV ?</a></li>
+  <li><a href="/actualites/top-5-electriques-chinoises-moins-30000-euros">Top 5 électriques chinoises à moins de 30 000 €</a></li>
+</ul>
+`,
   },
   {
     slug: 'seres-5-vs-voyah-free-outsiders-chinois',
@@ -758,6 +1244,29 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-12-15T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Les outsiders qu'il faut surveiller</h2>
+<p>Seres et Voyah sont peu connus en Europe, mais ces deux marques arrivent avec des SUV ambitieux. Le Seres 5 (EREV) et le Voyah Free (EV/EREV) représentent des alternatives intéressantes.</p>
+
+<h2>Les chiffres</h2>
+<ul>
+  <li><strong>Seres 5</strong> : EREV (prolongateur d'autonomie), 39 kWh + moteur thermique, 1000+ km autonomie totale, ~35 000 €</li>
+  <li><strong>Voyah Free</strong> : 88 kWh EV ou EREV, 505 km WLTP (EV), 860 km (EREV), ~55 000 €</li>
+</ul>
+
+<h2>La technologie EREV</h2>
+<p>Les deux utilisent la technologie Extended Range EV : un moteur thermique sert uniquement de générateur pour recharger la batterie. Vous roulez toujours en électrique, mais sans angoisse d'autonomie. C'est le meilleur des deux mondes.</p>
+
+<h2>Verdict</h2>
+<p>Budget → Seres 5. Premium → Voyah Free. Ces deux marques pourraient surprendre si elles développent leur réseau SAV en Europe.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/hybride-vs-phev-comparatif-mg-byd">Hybride vs PHEV : le comparatif</a></li>
+  <li><a href="/actualites/voitures-chinoises-plus-attendues-fin-2026">Les voitures chinoises les plus attendues</a></li>
+  <li><a href="/actualites/2026-chine-conquete-coeur-europeens">2026 : la Chine conquiert l'Europe</a></li>
+</ul>
+`,
   },
   {
     slug: 'mg5-vs-byd-han-break-vs-berline',
@@ -770,6 +1279,29 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-12-08T09:00:00+01:00',
     readingTime: 6,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Break électrique vs berline électrique</h2>
+<p>Le MG5 est le seul break 100 % électrique du marché. La BYD Han est une grande berline aux performances de sportive. Deux formats opposés, deux usages différents.</p>
+
+<h2>Les chiffres</h2>
+<ul>
+  <li><strong>MG5 Long Range</strong> : 61 kWh, 400 km WLTP, 177 ch, coffre 479-1367 L, 30 990 €</li>
+  <li><strong>BYD Han</strong> : 85 kWh, 521 km WLTP, 517 ch bi-moteur, coffre 410 L, 46 990 €</li>
+</ul>
+
+<h2>Praticité vs performance</h2>
+<p>Le MG5 est le roi de la praticité : coffre immense, prix abordable, format break unique en électrique. La BYD Han mise sur le prestige : accélération en 3,9 s, intérieur premium, autonomie supérieure.</p>
+
+<h2>Verdict</h2>
+<p>Famille et chargement → MG5. Prestige et performance → BYD Han. Deux voitures complémentaires plutôt que rivales.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/byd-han-vs-mercedes-eqe-luxe-chinois-confort-allemand">BYD Han vs Mercedes EQE</a></li>
+  <li><a href="/actualites/mg-motor-heritage-anglais-domination-chinoise">MG Motor : l'héritage anglais</a></li>
+  <li><a href="/actualites/suv-chinois-famille-3-enfants-quel-choisir">Quel SUV chinois pour la famille ?</a></li>
+</ul>
+`,
   },
 
   // --- Défis aux Européennes (articles.md #21-40) ---
@@ -784,6 +1316,29 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-12-01T09:00:00+01:00',
     readingTime: 9,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>L'élève a-t-il dépassé le maître ?</h2>
+<p>La Xiaomi SU7 Ultra affiche des performances de supercar pour une fraction du prix d'un Porsche Taycan. Mais la comparaison tient-elle au-delà des chiffres ?</p>
+
+<h2>Les chiffres</h2>
+<ul>
+  <li><strong>Xiaomi SU7 Ultra</strong> : 1 548 ch, 0-100 en 1,98 s, 800 km WLTP, ~65 000 €</li>
+  <li><strong>Porsche Taycan Turbo GT</strong> : 1 034 ch, 0-100 en 2,2 s, 435 km WLTP, ~200 000 €</li>
+</ul>
+
+<h2>L'expérience de conduite</h2>
+<p>Le Taycan offre un châssis développé par Porsche, avec 75 ans d'expertise sportive. La SU7 Ultra compense par ses moteurs de roue et un contrôle vectoriel IA ultra-précis. Sur le Nürburgring, la SU7 Ultra a signé un temps record — devant le Taycan.</p>
+
+<h2>Verdict</h2>
+<p>Performances pures et prix → Xiaomi SU7 Ultra. Prestige et réseau SAV → Porsche Taycan. À 65 000 € vs 200 000 €, la SU7 est l'affaire du siècle pour les amateurs de sensations.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/moteurs-roue-xiaomi-revolution-technologique">Moteurs de roue Xiaomi</a></li>
+  <li><a href="/actualites/hyperos-xiaomi-voiture-integration-smartphone">HyperOS : l'intégration smartphone</a></li>
+  <li><a href="/actualites/arrivee-xiaomi-tournant-historique-industrie-automobile">Xiaomi : un tournant historique</a></li>
+</ul>
+`,
   },
   {
     slug: 'mg-zs-hybrid-vs-dacia-duster-hybrid-low-cost',
@@ -889,6 +1444,32 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-11-10T09:00:00+01:00',
     readingTime: 9,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>La Silicon Valley doit-elle trembler ?</h2>
+<p>Le Zeekr 001 offre des prestations comparables à la Tesla Model S pour moitié prix. Autonomie, recharge, technologie : le match est plus serré qu'on ne le croit.</p>
+
+<h2>Les chiffres</h2>
+<ul>
+  <li><strong>Zeekr 001 FR</strong> : 100 kWh, 620 km WLTP, 800V, 1 265 ch (version FR), ~55 000 €</li>
+  <li><strong>Tesla Model S Plaid</strong> : 100 kWh, 600 km WLTP, 400V, 1 020 ch, ~95 000 €</li>
+</ul>
+
+<h2>Les avantages Zeekr</h2>
+<p>Architecture 800V (recharge 10-80 % en 15 min vs 25 min pour Tesla), format shooting brake (coffre 587 L vs 793 L), et un prix de 40 000 € inférieur. Le Zeekr 001 FR dépasse même la Model S Plaid en puissance.</p>
+
+<h2>Les avantages Tesla</h2>
+<p>Le réseau Superchargeur (60 000+ bornes), l'Autopilot (le plus mature du marché), et 10 ans d'image de marque. Tesla reste la référence en revente.</p>
+
+<h2>Verdict</h2>
+<p>Rapport prestations/prix → Zeekr 001, sans discussion. Écosystème et réseau → Tesla Model S. La Silicon Valley a des raisons de s'inquiéter.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/zeekr-france-prix-modeles-reseau-2026">Zeekr en France : prix et modèles</a></li>
+  <li><a href="/actualites/charge-800v-zeekr-xpeng-humilient-constructeurs-historiques">Charge 800V : Zeekr au sommet</a></li>
+  <li><a href="/actualites/3-voitures-chinoises-pour-oublier-tesla-2026">3 chinoises pour oublier Tesla</a></li>
+</ul>
+`,
   },
   {
     slug: 'omoda-5-shs-h-vs-toyota-yaris-cross-hybride',
@@ -901,6 +1482,29 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-11-03T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>L'hybride chinois défie Toyota</h2>
+<p>L'Omoda 5 SHS-H attaque le roi de l'hybride : Toyota. Le système SHS-H de Chery peut-il rivaliser avec le HSD légendaire du Yaris Cross ?</p>
+
+<h2>Les chiffres</h2>
+<ul>
+  <li><strong>Omoda 5 SHS-H</strong> : 1.5 turbo + électrique, 194 ch, 4,9 L/100 km, ~27 900 €</li>
+  <li><strong>Toyota Yaris Cross Hybride</strong> : 1.5 atmo + électrique, 130 ch, 4,4 L/100 km, ~29 950 €</li>
+</ul>
+
+<h2>La comparaison</h2>
+<p>L'Omoda est plus puissante (194 vs 130 ch) et mieux équipée (écran 10,25", caméra 360°, sellerie cuir). Le Yaris Cross consomme légèrement moins et bénéficie de la fiabilité légendaire Toyota. Le réseau SAV Toyota est incomparable.</p>
+
+<h2>Verdict</h2>
+<p>Puissance et équipement → Omoda 5 SHS-H. Fiabilité et réseau → Toyota Yaris Cross. L'Omoda est 2 000 € moins cher — un argument de poids.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/omoda-shs-h-hybride-comment-ca-marche">Hybride SHS-H d'Omoda : comment ça marche</a></li>
+  <li><a href="/actualites/omoda-jaecoo-nouveau-geant-marche-automobile">Omoda-Jaecoo : le nouveau géant</a></li>
+  <li><a href="/actualites/hybride-vs-phev-comparatif-mg-byd">Hybride vs PHEV : le comparatif</a></li>
+</ul>
+`,
   },
   {
     slug: 'mg3-hybrid-vs-renault-clio-e-tech-hegemonie-francaise',
@@ -1009,6 +1613,29 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-10-13T09:00:00+02:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>La menace chinoise sur le best-seller allemand</h2>
+<p>Le Volkswagen Tiguan domine le segment des SUV compacts en Europe depuis 15 ans. Le Jaecoo 5 arrive avec l'ambition de le détrôner — à prix cassé.</p>
+
+<h2>Les chiffres</h2>
+<ul>
+  <li><strong>Jaecoo 5</strong> : 1.6 turbo 186 ch, conso 7,2 L/100 km, ~28 000 € (estimé)</li>
+  <li><strong>VW Tiguan 2.0 TDI</strong> : 150 ch, conso 5,8 L/100 km, à partir de 38 000 €</li>
+</ul>
+
+<h2>10 000 € d'écart</h2>
+<p>Le Jaecoo 5 est 10 000 € moins cher avec un équipement de série supérieur : écran 14,8 pouces, sièges chauffants, caméra 360°. Le Tiguan compense par sa finition irréprochable, son réseau SAV et sa valeur de revente supérieure.</p>
+
+<h2>Verdict</h2>
+<p>Budget et équipement → Jaecoo 5. Revente et réseau → VW Tiguan. Si Jaecoo structure son réseau SAV, le Tiguan a du souci à se faire.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/omoda-jaecoo-nouveau-geant-marche-automobile">Omoda-Jaecoo : le nouveau géant</a></li>
+  <li><a href="/actualites/jaecoo-7-vs-chery-tiggo-8-pro-suv-familial-chery">Jaecoo 7 vs Tiggo 8 Pro</a></li>
+  <li><a href="/actualites/moteurs-thermiques-chinois-retour-en-force-europe">Moteurs thermiques chinois en Europe</a></li>
+</ul>
+`,
   },
   {
     slug: 'nio-et5-vs-bmw-i4-alternative-premium-chinoise',
@@ -1021,6 +1648,29 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-10-06T09:00:00+02:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>La berline premium chinoise face à l'icône allemande</h2>
+<p>La NIO ET5 cible directement la BMW i4. Même segment, même ambition premium, mais une approche radicalement différente.</p>
+
+<h2>Les chiffres</h2>
+<ul>
+  <li><strong>NIO ET5</strong> : 100 kWh, 560 km WLTP, 490 ch, Battery Swap, ~45 000 € (BaaS)</li>
+  <li><strong>BMW i4 eDrive40</strong> : 84 kWh, 590 km WLTP, 340 ch, ~58 000 €</li>
+</ul>
+
+<h2>Technologie vs tradition</h2>
+<p>La NIO mise sur l'innovation : NOMI (assistant IA), Battery Swap, mises à jour OTA fréquentes. La BMW mise sur l'expérience de conduite raffinée, iDrive et 100 ans d'ingénierie automobile. Le choix entre tech et tradition.</p>
+
+<h2>Verdict</h2>
+<p>Innovation et prix → NIO ET5. Conduite et prestige → BMW i4. La NIO est 13 000 € moins chère en BaaS — un écart considérable sur le premium.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/nio-battery-as-a-service-louer-ou-acheter-batterie">NIO Battery as a Service</a></li>
+  <li><a href="/actualites/nio-echange-batterie-vs-tesla-superchargeur-voyage">NIO vs Tesla : recharge</a></li>
+  <li><a href="/actualites/classement-marques-chinoises-fiabilite-2026">Classement fiabilité des marques chinoises</a></li>
+</ul>
+`,
   },
   {
     slug: 'xpeng-g6-vs-tesla-model-y-recharge-rapide',
@@ -1033,6 +1683,29 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-09-29T09:00:00+02:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le match de la recharge rapide</h2>
+<p>Le XPeng G6 en 800V face au Tesla Model Y en 400V. Sur les longs trajets, la vitesse de recharge est aussi importante que l'autonomie. Qui gagne ?</p>
+
+<h2>Les chiffres de recharge</h2>
+<ul>
+  <li><strong>XPeng G6</strong> : 10-80 % en 20 min (borne 350 kW), puissance max 280 kW</li>
+  <li><strong>Tesla Model Y</strong> : 10-80 % en 27 min (Superchargeur V3), puissance max 250 kW</li>
+</ul>
+
+<h2>Sur un Paris-Marseille</h2>
+<p>Avec le G6 : 2 arrêts de 20 min = 40 min de recharge totale. Avec le Model Y : 2 arrêts de 27 min = 54 min. L'écart est réel — 14 minutes sur un trajet, ça compte.</p>
+
+<h2>Verdict</h2>
+<p>Recharge et ADAS → XPeng G6. Réseau Superchargeur et Autopilot → Tesla Model Y. Le G6 est objectivement supérieur sur la recharge, le Model Y sur l'écosystème.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/charge-800v-zeekr-xpeng-humilient-constructeurs-historiques">Charge 800V : Zeekr et XPeng au sommet</a></li>
+  <li><a href="/actualites/lidar-xpeng-vs-vision-tesla-conduite-autonome-france">Lidar XPeng vs Vision Tesla</a></li>
+  <li><a href="/actualites/xpeng-marque-intelligence-artificielle-automobile">XPeng : la marque IA</a></li>
+</ul>
+`,
   },
   {
     slug: 'mg4-xpower-vs-volkswagen-id3-gtx-compactes-sportives',
@@ -1045,6 +1718,29 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-09-22T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Compactes sportives électriques</h2>
+<p>La MG4 XPower et la VW ID.3 GTX sont les versions sportives de deux compactes best-sellers. Même philosophie "hot hatch électrique", prix très différents.</p>
+
+<h2>Les chiffres</h2>
+<ul>
+  <li><strong>MG4 XPower</strong> : 64 kWh, 435 km WLTP, 435 ch AWD, 0-100 en 3,8 s, 36 990 €</li>
+  <li><strong>VW ID.3 GTX</strong> : 79 kWh, 510 km WLTP, 326 ch AWD, 0-100 en 5,7 s, 47 500 €</li>
+</ul>
+
+<h2>Performances vs autonomie</h2>
+<p>La MG4 XPower est nettement plus rapide et 10 000 € moins chère. L'ID.3 GTX offre une meilleure autonomie et un intérieur plus soigné. En conduite sportive, la MG4 XPower est la plus amusante grâce à son moteur arrière dominant.</p>
+
+<h2>Verdict</h2>
+<p>Sensations et prix → MG4 XPower. Finition et autonomie → ID.3 GTX. Le rapport prix/performances de la MG4 XPower est imbattable.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/mg4-vs-byd-dolphin-compactes-electriques">MG4 vs BYD Dolphin</a></li>
+  <li><a href="/actualites/mg-motor-marque-preferee-jeunes-conducteurs">MG : la marque des jeunes</a></li>
+  <li><a href="/actualites/mg-cyberster-vs-byd-seal-06-gt-plaisir-conduite">MG Cyberster vs BYD Seal 06 GT</a></li>
+</ul>
+`,
   },
   {
     slug: 'leapmotor-t03-vs-dacia-spring-electrique-15000',
@@ -1057,6 +1753,29 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-09-15T09:00:00+02:00',
     readingTime: 6,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>L'électrique à moins de 20 000 €</h2>
+<p>La Leapmotor T03 et la Dacia Spring sont les deux électriques les moins chères du marché français. Laquelle en donne le plus pour votre argent ?</p>
+
+<h2>Les chiffres</h2>
+<ul>
+  <li><strong>Leapmotor T03</strong> : 37 kWh, 280 km WLTP, 95 ch, 18 900 € (bonus déduit)</li>
+  <li><strong>Dacia Spring</strong> : 27 kWh, 230 km WLTP, 65 ch, 16 900 € (bonus déduit)</li>
+</ul>
+
+<h2>La comparaison</h2>
+<p>La T03 est supérieure sur tous les critères mesurables : plus d'autonomie, plus de puissance, meilleur écran (10,1" vs 7"), reconnaissance faciale. La Spring est 2 000 € moins chère et disponible chez Dacia — un réseau vaste et familier.</p>
+
+<h2>Verdict</h2>
+<p>Pour 2 000 € de plus, la T03 offre nettement plus. C'est le meilleur rapport qualité-prix du marché électrique en 2026. La Spring reste le choix du budget le plus serré possible.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/leapmotor-alliance-stellantis-sav-europe">Leapmotor et Stellantis : l'alliance SAV</a></li>
+  <li><a href="/actualites/leapmotor-t03-vs-byd-seagull-micro-citadines">Leapmotor T03 vs BYD Seagull</a></li>
+  <li><a href="/actualites/top-5-electriques-chinoises-moins-30000-euros">Top 5 électriques chinoises à moins de 30 000 €</a></li>
+</ul>
+`,
   },
   {
     slug: 'byd-han-vs-mercedes-eqe-luxe-chinois-confort-allemand',
@@ -1069,6 +1788,29 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-09-08T09:00:00+02:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Luxe chinois contre confort allemand</h2>
+<p>La BYD Han vise directement la Mercedes EQE. Berline premium, technologie de pointe, mais des prix très différents. Le luxe chinois est-il au niveau ?</p>
+
+<h2>Les chiffres</h2>
+<ul>
+  <li><strong>BYD Han</strong> : 85 kWh, 521 km WLTP, 517 ch AWD, 46 990 €</li>
+  <li><strong>Mercedes EQE 350+</strong> : 91 kWh, 639 km WLTP, 292 ch, 67 000 €</li>
+</ul>
+
+<h2>L'écart de 20 000 €</h2>
+<p>La Han est 20 000 € moins chère et plus puissante. La Mercedes offre une meilleure autonomie, l'écran Hyperscreen (en option) et un siècle de prestige automobile. La Han compense par la batterie Blade ultra-sûre et un équipement complet de série.</p>
+
+<h2>Verdict</h2>
+<p>Rapport prestations/prix → BYD Han. Prestige et réseau → Mercedes EQE. La Han prouve que le luxe chinois est crédible face à Stuttgart.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/byd-vs-volkswagen-bataille-numero-1-mondial">BYD vs Volkswagen</a></li>
+  <li><a href="/actualites/design-chinois-identite-visuelle-marques-auto">Design chinois : identité visuelle</a></li>
+  <li><a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">Sécurité des voitures chinoises</a></li>
+</ul>
+`,
   },
   {
     slug: 'omoda-e5-vs-hyundai-kona-electric-design-futuriste',
@@ -1081,6 +1823,29 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-09-01T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Design futuriste : Chery ou Hyundai ?</h2>
+<p>L'Omoda E5 et le Hyundai Kona Electric misent tous deux sur un design futuriste pour séduire les acheteurs de SUV compacts électriques.</p>
+
+<h2>Les chiffres</h2>
+<ul>
+  <li><strong>Omoda E5</strong> : 61 kWh, 430 km WLTP, 204 ch, à partir de 33 990 €</li>
+  <li><strong>Hyundai Kona Electric</strong> : 65 kWh, 454 km WLTP, 218 ch, à partir de 36 500 €</li>
+</ul>
+
+<h2>La comparaison</h2>
+<p>Le Kona offre une meilleure autonomie et le réseau SAV Hyundai (5 ans de garantie, réseau étendu). L'Omoda E5 est 2 500 € moins cher avec un équipement de série plus riche : caméra 360°, sièges chauffants, toit panoramique.</p>
+
+<h2>Verdict</h2>
+<p>Équipement et prix → Omoda E5. Réseau SAV et autonomie → Hyundai Kona. L'Omoda E5 est le meilleur rapport équipement/prix du segment.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/omoda-jaecoo-nouveau-geant-marche-automobile">Omoda-Jaecoo : le nouveau géant</a></li>
+  <li><a href="/actualites/omoda-5-thermique-vs-omoda-5-ev-duel-interne">Omoda 5 Thermique vs Omoda 5 EV</a></li>
+  <li><a href="/actualites/top-5-electriques-chinoises-moins-30000-euros">Top 5 électriques à moins de 30 000 €</a></li>
+</ul>
+`,
   },
   {
     slug: 'gwm-wey-05-vs-volvo-xc60-recharge-phev-autonomie',
@@ -1093,6 +1858,29 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-08-25T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>PHEV premium : la Chine défie la Suède</h2>
+<p>Le GWM Wey 05 est un SUV hybride rechargeable premium qui vise le Volvo XC60 Recharge. Même segment, 20 000 € d'écart.</p>
+
+<h2>Les chiffres</h2>
+<ul>
+  <li><strong>GWM Wey 05</strong> : 2.0 turbo + électrique, 381 ch, 145 km autonomie EV, ~42 000 €</li>
+  <li><strong>Volvo XC60 Recharge</strong> : 2.0 turbo + électrique, 455 ch, 82 km autonomie EV, ~62 000 €</li>
+</ul>
+
+<h2>L'autonomie électrique fait la différence</h2>
+<p>Le Wey 05 offre presque le double d'autonomie électrique (145 vs 82 km). En usage quotidien urbain, vous roulez quasiment toujours en électrique. Le XC60 offre une finition supérieure et le prestige Volvo.</p>
+
+<h2>Verdict</h2>
+<p>Autonomie EV et prix → GWM Wey 05. Prestige et finition → Volvo XC60. Le Wey 05 est une affaire remarquable pour ceux qui regardent au-delà du logo.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/hybride-vs-phev-comparatif-mg-byd">Hybride vs PHEV : le comparatif</a></li>
+  <li><a href="/actualites/zeekr-x-vs-volvo-ex30-cousins-chinois">Zeekr X vs Volvo EX30</a></li>
+  <li><a href="/actualites/suv-chinois-confortables-longs-trajets-autoroute">SUV chinois confortables</a></li>
+</ul>
+`,
   },
   {
     slug: 'mg-zs-ev-vs-peugeot-e2008-suv-urbain-electrique',
@@ -1197,6 +1985,29 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-08-04T09:00:00+02:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Style chinois vs sobriété allemande</h2>
+<p>Le Zeekr X et l'Audi Q4 e-tron sont deux SUV compacts premium électriques. L'un ose, l'autre rassure. Lequel choisir ?</p>
+
+<h2>Les chiffres</h2>
+<ul>
+  <li><strong>Zeekr X</strong> : 66 kWh, 440 km WLTP, 272 ch, recharge 800V, ~38 000 €</li>
+  <li><strong>Audi Q4 e-tron</strong> : 77 kWh, 528 km WLTP, 286 ch, recharge 400V, ~48 000 €</li>
+</ul>
+
+<h2>La comparaison</h2>
+<p>Le Zeekr X est 10 000 € moins cher avec la recharge 800V (15 min de 10-80 % vs 28 min pour l'Audi). L'Audi Q4 offre une meilleure autonomie, une finition exemplaire et le réseau Audi. Le Zeekr compense par un intérieur plus technologique et un design plus audacieux.</p>
+
+<h2>Verdict</h2>
+<p>Recharge et prix → Zeekr X. Image et autonomie → Audi Q4 e-tron. Le Zeekr X est le choix rationnel, l'Audi le choix émotionnel.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/zeekr-x-vs-volvo-ex30-cousins-chinois">Zeekr X vs Volvo EX30</a></li>
+  <li><a href="/actualites/zeekr-france-prix-modeles-reseau-2026">Zeekr en France</a></li>
+  <li><a href="/actualites/charge-800v-zeekr-xpeng-humilient-constructeurs-historiques">Charge 800V : Zeekr au sommet</a></li>
+</ul>
+`,
   },
   {
     slug: 'lynk-co-02-vs-renault-megane-e-tech-crossover-compacte',
@@ -1255,6 +2066,29 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-07-21T09:00:00+02:00',
     readingTime: 9,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le défi ultime : la Chine contre Rolls-Royce</h2>
+<p>Hongqi L5 est la limousine présidentielle chinoise. Peut-elle rivaliser avec la Rolls-Royce Ghost, symbole du luxe absolu ?</p>
+
+<h2>Les chiffres</h2>
+<ul>
+  <li><strong>Hongqi L5</strong> : V6 hybride, 545 ch, 5,55 m de long, sur commande uniquement, ~500 000 € (estimé)</li>
+  <li><strong>Rolls-Royce Ghost</strong> : V12 bi-turbo, 571 ch, 5,55 m de long, à partir de 330 000 €</li>
+</ul>
+
+<h2>Le luxe chinois à l'extrême</h2>
+<p>La Hongqi L5 est produite artisanalement à moins de 100 exemplaires par an. Intérieur en bois de santal, cuir Nappa cousu main, système audio 26 haut-parleurs. C'est un objet d'exception destiné aux dignitaires chinois et aux collectionneurs.</p>
+
+<h2>Verdict</h2>
+<p>La comparaison est symbolique : la Ghost est un produit de luxe accessible (relativement). La L5 est une pièce de collection politique et culturelle. Mais elle prouve que la Chine peut produire de l'ultra-luxe.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/hongqi-e-hs9-vs-nio-el7-luxe-presidentiel-technologie">Hongqi E-HS9 vs NIO EL7</a></li>
+  <li><a href="/actualites/design-chinois-identite-visuelle-marques-auto">Design chinois : identité visuelle</a></li>
+  <li><a href="/actualites/2026-chine-conquete-coeur-europeens">2026 : la Chine conquiert l'Europe</a></li>
+</ul>
+`,
   },
 
   // --- Focus Technologie (articles.md #41-43) ---
@@ -1315,6 +2149,26 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-07-07T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux philosophies de recharge</h2>
+<p>NIO propose le Battery Swap en 3 minutes. Tesla les Superchargeurs en 20 minutes. Deux solutions pour les longs trajets, deux visions de l'électrique.</p>
+
+<h2>Le swap NIO</h2>
+<p>Vous entrez dans une station automatisée, un robot échange votre batterie vide contre une pleine en 3 minutes. Plus de 2 500 stations en Chine, déploiement en cours en Europe (Norvège, Allemagne, Pays-Bas). Avantage : rapidité imbattable et batterie toujours en parfait état.</p>
+
+<h2>Les Superchargeurs Tesla</h2>
+<p>Plus de 60 000 bornes dans le monde, 1 200+ en France. 10-80 % en 20-25 minutes sur V4. Avantage : couverture réseau incomparable et compatibilité ouverte à toutes les marques (CCS).</p>
+
+<h2>Verdict</h2>
+<p>En théorie → NIO gagne (3 min vs 20 min). En pratique → Tesla gagne en France (réseau bien plus dense). Si NIO déploie ses stations sur les autoroutes françaises, l'échange de batterie deviendra la référence.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/batteries-solid-state-nio-1000-km-2026">Batteries Solid State NIO : 1000 km</a></li>
+  <li><a href="/actualites/nio-battery-as-a-service-louer-ou-acheter-batterie">NIO Battery as a Service</a></li>
+  <li><a href="/actualites/charge-800v-zeekr-xpeng-humilient-constructeurs-historiques">Charge 800V : Zeekr et XPeng</a></li>
+</ul>
+`,
   },
   {
     slug: 'lidar-xpeng-vs-vision-tesla-conduite-autonome-france',
@@ -1327,6 +2181,29 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-06-30T09:00:00+02:00',
     readingTime: 9,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Lidar vs caméras : qui a raison ?</h2>
+<p>XPeng utilise 2 Lidar + 12 caméras + 5 radars. Tesla n'utilise que 8 caméras. En France, quel système offre la meilleure assistance à la conduite ?</p>
+
+<h2>Le Lidar XPeng</h2>
+<p>Le Lidar cartographie l'environnement en 3D avec une précision centimétrique, jusqu'à 250 m, même dans l'obscurité ou le brouillard. Le système XNGP de XPeng propose une conduite semi-autonome de niveau 2+ sur autoroute et en ville.</p>
+
+<h2>La Vision Tesla</h2>
+<p>Tesla utilise un réseau de neurones entraîné sur des milliards de km de données. L'Autopilot fonctionne bien sur autoroute mais reste limité sur routes secondaires françaises.</p>
+
+<h2>En conditions réelles</h2>
+<p>Le Lidar XPeng détecte mieux les piétons en contre-jour et les obstacles imprévus. Tesla gère mieux les ronds-points grâce à son entraînement massif. Sur autoroute, les deux se valent.</p>
+
+<h2>Verdict</h2>
+<p>Sécurité pure → XPeng (Lidar). Fluidité quotidienne → Tesla (mises à jour fréquentes). Si XPeng lance XNGP en Europe, la donne changera.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/xpeng-g6-vs-tesla-model-y-recharge-rapide">XPeng G6 vs Tesla Model Y</a></li>
+  <li><a href="/actualites/xpeng-marque-intelligence-artificielle-automobile">XPeng : la marque IA</a></li>
+  <li><a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">Sécurité des voitures chinoises</a></li>
+</ul>
+`,
   },
 
   // --- Focus Technologie suite (articles.md #44-50) ---
@@ -1341,6 +2218,38 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-06-23T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Qu'est-ce que le système hybride SHS-H d'Omoda ?</h2>
+<p>Le SHS-H (Super Hybrid System – Hightech) est l'architecture hybride développée par Chery, la maison mère d'Omoda. Ce système combine un moteur thermique 1.5 turbo à cycle mixte (Atkinson/Miller) avec un moteur électrique de 130 kW intégré à une boîte à double embrayage DHT (Dedicated Hybrid Transmission). La batterie lithium-ion de 18,3 kWh autorise environ 80 km d'autonomie en mode 100 % électrique.</p>
+
+<h2>Comment fonctionne le SHS-H au quotidien ?</h2>
+<p>Le système SHS-H fonctionne selon trois modes principaux :</p>
+<ul>
+  <li><strong>Mode EV pur</strong> : en ville, le moteur électrique seul entraîne les roues. Le moteur thermique reste éteint. La consommation est de 0 L/100 km sur les 80 premiers kilomètres.</li>
+  <li><strong>Mode hybride série</strong> : lorsque la batterie se décharge, le moteur thermique tourne à régime constant et optimal pour recharger la batterie. Le moteur électrique reste le seul à entraîner les roues. C'est le mode le plus efficient en ville et en périurbain.</li>
+  <li><strong>Mode hybride parallèle</strong> : sur autoroute, les deux moteurs entraînent les roues simultanément via la boîte DHT. Le moteur thermique travaille dans sa plage de rendement maximal (environ 40 % d'efficacité thermique).</li>
+</ul>
+<p>La transition entre ces modes est gérée automatiquement par le calculateur, de manière transparente pour le conducteur. Le système choisit toujours la configuration la plus économe en fonction de la vitesse, de la charge batterie et du profil de conduite.</p>
+
+<h2>Les différences avec Toyota et Honda</h2>
+<p>Contrairement au système THS de Toyota (utilisé dans la Yaris et la Corolla), le SHS-H dispose d'une vraie boîte de vitesses à rapports fixes plutôt qu'un train épicycloïdal. Résultat : les accélérations sont plus linéaires et l'effet « mobylette » (régime moteur élevé sans gain de vitesse) disparaît.</p>
+<p>Face au système e:HEV de Honda, le SHS-H offre une batterie nettement plus grande (18,3 kWh contre 1,05 kWh). Cela permet un vrai mode EV utilisable au quotidien, là où Honda ne propose que de brèves phases électriques.</p>
+<table>
+  <thead><tr><th>Caractéristique</th><th>Omoda SHS-H</th><th>Toyota THS</th><th>Honda e:HEV</th></tr></thead>
+  <tbody>
+    <tr><td>Type</td><td>PHEV / série-parallèle</td><td>Full hybrid parallèle</td><td>Full hybrid série</td></tr>
+    <tr><td>Batterie</td><td>18,3 kWh</td><td>1,1 kWh</td><td>1,05 kWh</td></tr>
+    <tr><td>Autonomie EV</td><td>~80 km</td><td>~2 km</td><td>~3 km</td></tr>
+    <tr><td>Transmission</td><td>DHT double embrayage</td><td>Train épicycloïdal</td><td>Prise directe</td></tr>
+    <tr><td>Rendement thermique</td><td>~40 %</td><td>~41 %</td><td>~40 %</td></tr>
+    <tr><td>Conso mixte WLTP</td><td>1,2 L/100 km</td><td>4,3 L/100 km</td><td>4,5 L/100 km</td></tr>
+  </tbody>
+</table>
+
+<h2>Les avantages concrets pour l'automobiliste</h2>
+<p>Le principal atout du SHS-H est la polyvalence. En semaine, les trajets domicile-travail se font en mode électrique pur (80 km suffisent pour la majorité des Français). Le week-end ou sur autoroute, le moteur thermique prend le relais sans angoisse d'autonomie. La consommation mixte WLTP annoncée de 1,2 L/100 km est réaliste si l'on recharge régulièrement la batterie.</p>
+<p>Avec un prix attendu sous les 33 000 € pour l'Omoda 5 SHS-H en France, cette technologie hybride rechargeable chinoise se positionne comme une alternative crédible et économique aux systèmes japonais et européens. Une preuve supplémentaire que la Chine ne se contente plus de copier : elle innove.</p>
+`,
   },
   {
     slug: 'mg3-hybrid-moteur-electrique-plus-puissant-concurrents',
@@ -1353,6 +2262,38 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-06-16T09:00:00+02:00',
     readingTime: 6,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Un moteur électrique hors norme sur le segment B</h2>
+<p>La MG3 Hybrid+ fait figure d'exception dans le monde des citadines hybrides. Son moteur électrique développe 136 ch (100 kW), soit presque le double de ce que proposent ses concurrentes directes. Associé à un moteur thermique 1.5 atmosphérique de 102 ch, le système hybride délivre une puissance combinée de 195 ch. Pour une citadine à moins de 20 000 €, c'est tout simplement inédit.</p>
+
+<h2>Comparaison avec les concurrentes hybrides</h2>
+<table>
+  <thead><tr><th>Modèle</th><th>Moteur électrique</th><th>Moteur thermique</th><th>Puissance combinée</th><th>Prix</th></tr></thead>
+  <tbody>
+    <tr><td>MG3 Hybrid+</td><td>100 kW (136 ch)</td><td>1.5 atmo 102 ch</td><td>195 ch</td><td>19 490 €</td></tr>
+    <tr><td>Renault Clio E-Tech</td><td>36 kW (49 ch)</td><td>1.6 atmo 91 ch</td><td>145 ch</td><td>23 400 €</td></tr>
+    <tr><td>Toyota Yaris Hybrid</td><td>59 kW (80 ch)</td><td>1.5 atmo 92 ch</td><td>116 ch</td><td>24 250 €</td></tr>
+    <tr><td>Honda Jazz e:HEV</td><td>80 kW (109 ch)</td><td>1.5 atmo 98 ch</td><td>109 ch</td><td>27 620 €</td></tr>
+  </tbody>
+</table>
+<p>Le constat est clair : la MG3 Hybrid+ embarque un moteur électrique deux fois plus puissant que la Clio E-Tech et 70 % plus puissant que la Yaris. Même la Honda Jazz, pourtant réputée pour son architecture hybride avancée, reste en retrait.</p>
+
+<h2>Pourquoi un moteur électrique si puissant ?</h2>
+<p>L'architecture de la MG3 Hybrid+ repose sur un principe simple : le moteur électrique est le moteur principal. En conduite urbaine, c'est lui qui entraîne les roues la majorité du temps. Le moteur thermique intervient comme générateur pour recharger la batterie ou en appoint à haute vitesse.</p>
+<p>Cette philosophie est héritée du groupe SAIC, propriétaire de MG, qui a développé cette architecture pour le marché chinois où les trajets urbains dominent. Un moteur électrique puissant permet des démarrages vifs et silencieux, un agrément de conduite supérieur et une consommation réduite en ville.</p>
+<p>La batterie lithium-ion de 1,83 kWh est compacte mais optimisée pour des cycles de charge/décharge rapides. Elle se recharge intégralement en décélération et freinage régénératif, sans jamais nécessiter de branchement.</p>
+
+<h2>Les bénéfices au quotidien</h2>
+<ul>
+  <li><strong>Performances</strong> : le 0 à 100 km/h est abattu en 8,0 secondes, soit 2 secondes de moins que la Yaris Hybrid. Les dépassements sont sécurisants grâce au couple instantané du moteur électrique (250 Nm).</li>
+  <li><strong>Consommation</strong> : 4,4 L/100 km en cycle mixte WLTP. En ville, la consommation descend sous les 4 L/100 km grâce aux phases électriques prolongées.</li>
+  <li><strong>Silence</strong> : jusqu'à 60 km/h, la MG3 roule fréquemment en mode électrique pur. Le confort acoustique est nettement supérieur à celui d'une Clio E-Tech qui sollicite davantage son moteur thermique.</li>
+  <li><strong>Agrément</strong> : la boîte automatique à 3 rapports (thermique) combinée au moteur électrique offre des transitions douces et sans à-coups, contrairement à la boîte robotisée parfois hésitante de la Clio.</li>
+</ul>
+
+<h2>Un rapport puissance-prix imbattable</h2>
+<p>À 19 490 €, la MG3 Hybrid+ offre 195 ch hybrides pour le prix d'une Clio TCe 90 ch en finition de base. C'est le rapport puissance-prix le plus agressif du segment des citadines en Europe. MG prouve qu'il est possible de proposer une hybride performante et bien équipée sans compromettre l'accessibilité tarifaire. Les constructeurs européens sont prévenus.</p>
+`,
   },
   {
     slug: 'hyperos-xiaomi-voiture-integration-smartphone',
@@ -1365,6 +2306,31 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-06-09T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>L'écosystème ultime</h2>
+<p>HyperOS connecte la SU7 à tout l'univers Xiaomi : smartphone, montre, domotique, tablette. Aucun constructeur auto ne peut reproduire cette intégration.</p>
+
+<h2>Ce que HyperOS change en voiture</h2>
+<ul>
+  <li><strong>Continuité</strong> : votre navigation passe automatiquement du téléphone à la voiture</li>
+  <li><strong>Domotique</strong> : allumez le chauffage de la maison depuis le tableau de bord</li>
+  <li><strong>IA contextuelle</strong> : "J'ai froid" ajuste la clim, "Je suis fatigué" propose une pause café</li>
+  <li><strong>Partage d'écran</strong> : diffusez votre tablette sur l'écran arrière</li>
+</ul>
+
+<h2>L'avance sur la concurrence</h2>
+<p>Apple CarPlay et Android Auto sont des surcouches limitées. HyperOS contrôle tout nativement : clim, sièges, suspensions. Tesla a un bon OS, mais pas 800 millions d'appareils connectés dans le monde.</p>
+
+<h2>Verdict</h2>
+<p>HyperOS redéfinit le cockpit connecté. Si Xiaomi adapte l'écosystème pour l'Europe (Spotify, Google Maps), la SU7 deviendra la référence de l'intégration numérique.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/xiaomi-auto-peut-on-acheter-voiture-fabricant-telephones">Xiaomi Auto : peut-on acheter sa voiture ?</a></li>
+  <li><a href="/actualites/moteurs-roue-xiaomi-revolution-technologique">Moteurs de roue Xiaomi</a></li>
+  <li><a href="/actualites/arrivee-xiaomi-tournant-historique-industrie-automobile">Xiaomi : un tournant historique</a></li>
+</ul>
+`,
   },
   {
     slug: 'charge-800v-zeekr-xpeng-humilient-constructeurs-historiques',
@@ -1419,6 +2385,31 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-05-26T09:00:00+02:00',
     readingTime: 6,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Votre BYD, une centrale électrique mobile</h2>
+<p>Le V2L transforme votre voiture électrique en générateur. Via une prise domestique, branchez cafetière, réfrigérateur ou outils de chantier.</p>
+
+<h2>Les modèles BYD avec V2L</h2>
+<ul>
+  <li><strong>BYD Atto 3</strong> : V2L extérieur, 3,3 kW</li>
+  <li><strong>BYD Seal</strong> : V2L intérieur et extérieur, 3,3 kW</li>
+  <li><strong>BYD Seal U</strong> : double prise V2L</li>
+  <li><strong>BYD Tang</strong> : V2L avec 108 kWh — le plus endurant</li>
+</ul>
+
+<h2>Cas d'usage</h2>
+<p><strong>Camping :</strong> réfrigérateur + plaque de cuisson + éclairage → un week-end complet avec une batterie de 71 kWh. <strong>Coupure de courant :</strong> alimentez réfrigérateur, box internet et lumières pendant 2-3 jours. <strong>Chantier :</strong> outils électriques sans groupe électrogène.</p>
+
+<h2>Verdict</h2>
+<p>Le V2L est un argument sous-estimé des voitures chinoises. BYD l'intègre de série là où les européens le facturent en option.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/batteries-solid-state-nio-1000-km-2026">Batteries Solid State NIO</a></li>
+  <li><a href="/actualites/charge-800v-zeekr-xpeng-humilient-constructeurs-historiques">Charge 800V : Zeekr et XPeng</a></li>
+  <li><a href="/actualites/byd-vs-volkswagen-bataille-numero-1-mondial">BYD vs Volkswagen</a></li>
+</ul>
+`,
   },
   {
     slug: 'batteries-solid-state-nio-1000-km-2026',
@@ -1431,6 +2422,31 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-05-19T09:00:00+02:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>La promesse : 1000 km sans recharger</h2>
+<p>NIO développe une batterie semi-solide de 150 kWh capable de propulser l'ET7 sur plus de 900 km WLTP. La technologie solid state remplace l'électrolyte liquide par un matériau solide : densité supérieure, sécurité accrue, recharge potentiellement plus rapide.</p>
+
+<h2>Les chiffres</h2>
+<ul>
+  <li><strong>Densité énergétique</strong> : 360 Wh/kg (vs 200 Wh/kg pour le LFP de BYD)</li>
+  <li><strong>Poids</strong> : 575 kg pour 150 kWh</li>
+  <li><strong>Durée de vie</strong> : plus de 1 500 cycles de charge</li>
+  <li><strong>Coût</strong> : ~30 000 € le pack — encore prohibitif</li>
+</ul>
+
+<h2>Solid state vs LFP vs NMC</h2>
+<p>LFP (BYD) : pas cher, durable, densité moyenne. NMC (Tesla, VW) : bonne densité, coûteux. Semi-solide (NIO) : densité record, excellent en sécurité, mais encore très cher.</p>
+
+<h2>Verdict</h2>
+<p>Les batteries solid state sont la prochaine rupture technologique. NIO est en avance, mais le coût freine l'adoption. D'ici 2028, les prix devraient baisser suffisamment pour démocratiser les 1 000 km d'autonomie.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/nio-echange-batterie-vs-tesla-superchargeur-voyage">NIO vs Tesla : recharge</a></li>
+  <li><a href="/actualites/nio-battery-as-a-service-louer-ou-acheter-batterie">NIO Battery as a Service</a></li>
+  <li><a href="/actualites/charge-800v-zeekr-xpeng-humilient-constructeurs-historiques">Charge 800V</a></li>
+</ul>
+`,
   },
   {
     slug: 'moteurs-roue-xiaomi-revolution-technologique',
@@ -1443,6 +2459,31 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-05-12T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Des moteurs dans les roues</h2>
+<p>Xiaomi intègre un moteur électrique compact dans chaque roue de la SU7 Ultra. Quatre moteurs indépendants, contrôlés par IA, sans transmission mécanique.</p>
+
+<h2>Les avantages</h2>
+<ul>
+  <li><strong>Puissance</strong> : 1 500+ ch cumulés avec les quatre moteurs</li>
+  <li><strong>Contrôle vectoriel</strong> : chaque roue reçoit le couple exact, virage par virage</li>
+  <li><strong>Gain de place</strong> : plancher plat, coffre +30 % de volume</li>
+  <li><strong>Freinage régénératif</strong> : chaque roue récupère indépendamment</li>
+</ul>
+
+<h2>Les défis résolus par Xiaomi</h2>
+<p>Masses non suspendues (moteurs de 8 kg seulement), chaleur (refroidissement liquide par roue), étanchéité (IP68). La SU7 Ultra a signé un record au Nürburgring grâce à ces moteurs.</p>
+
+<h2>Verdict</h2>
+<p>Les moteurs de roue sont l'avenir de la propulsion électrique. Xiaomi est le premier à les industrialiser à grande échelle. Si la fiabilité se confirme, cette architecture deviendra la norme d'ici 2030.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/hyperos-xiaomi-voiture-integration-smartphone">HyperOS de Xiaomi</a></li>
+  <li><a href="/actualites/xiaomi-auto-peut-on-acheter-voiture-fabricant-telephones">Xiaomi Auto en Europe</a></li>
+  <li><a href="/actualites/xiaomi-su7-vs-porsche-taycan-eleve-depasse-maitre">Xiaomi SU7 vs Porsche Taycan</a></li>
+</ul>
+`,
   },
 
   // --- Budget, Achat & Revente (articles.md #51-60) ---
@@ -1493,6 +2534,30 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-04-28T09:00:00+02:00',
     readingTime: 6,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le panorama des garanties</h2>
+<ul>
+  <li><strong>MG</strong> : 7 ans / 150 000 km + 7 ans batterie</li>
+  <li><strong>BYD</strong> : 6 ans / 150 000 km + 8 ans / 200 000 km batterie</li>
+  <li><strong>Zeekr</strong> : 5 ans / 120 000 km + 8 ans batterie</li>
+  <li><strong>NIO</strong> : 5 ans / 150 000 km + garantie à vie batterie (BaaS)</li>
+  <li><strong>XPeng</strong> : 5 ans / 120 000 km + 8 ans batterie</li>
+  <li><strong>Omoda/Jaecoo</strong> : 5 ans / 100 000 km + 8 ans batterie</li>
+</ul>
+
+<h2>Ce que ça couvre</h2>
+<p>La garantie véhicule couvre les défauts de fabrication. La garantie batterie couvre la dégradation en dessous de 70-80 % de capacité. Les garanties MG et BYD sont transférables au second propriétaire.</p>
+
+<h2>Verdict</h2>
+<p>MG offre la meilleure garantie véhicule (7 ans), NIO la meilleure garantie batterie (à vie en BaaS). Ces garanties éliminent le risque financier des marques nouvelles.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/classement-marques-chinoises-fiabilite-2026">Classement fiabilité des marques chinoises</a></li>
+  <li><a href="/actualites/entretien-voiture-chinoise-france-reseaux-sav">Réseaux SAV en France</a></li>
+  <li><a href="/actualites/decote-voitures-chinoises-risque-mg-byd-2026">Décote : est-ce risqué ?</a></li>
+</ul>
+`,
   },
   {
     slug: 'bonus-ecologique-2026-voitures-chinoises-eligibles',
@@ -1505,6 +2570,29 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-04-21T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Les nouvelles règles du bonus</h2>
+<p>Le bonus écologique intègre un "score environnemental" qui pénalise les voitures produites en Chine. La plupart des modèles chinois importés ne sont plus éligibles.</p>
+
+<h2>Modèles encore éligibles</h2>
+<ul>
+  <li><strong>Leapmotor T03</strong> : assemblée en Pologne → éligible (bonus 4 000 €)</li>
+  <li><strong>MG4</strong> : certaines versions → éligibilité partielle</li>
+</ul>
+
+<h2>Modèles exclus</h2>
+<p>BYD Atto 3, BYD Seal, BYD Dolphin, MG ZS EV, XPeng G6, NIO EL6 : tous importés de Chine, tous exclus. Impact : 4 000 à 7 000 € de différence.</p>
+
+<h2>Stratégies de contournement</h2>
+<p>BYD compense par des remises directes. La production locale (BYD en Hongrie, Leapmotor en Pologne) rétablira progressivement l'éligibilité.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/taxes-europeennes-impact-prix-voitures-chinoises-2026">L'impact des taxes européennes</a></li>
+  <li><a href="/actualites/leapmotor-alliance-stellantis-sav-europe">Leapmotor et Stellantis</a></li>
+  <li><a href="/actualites/top-5-electriques-chinoises-moins-30000-euros">Top 5 électriques à moins de 30 000 €</a></li>
+</ul>
+`,
   },
   {
     slug: 'location-vs-achat-lynk-co-nouvelle-consommation',
@@ -1517,6 +2605,23 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-04-14T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Acheter ou louer sa voiture ?</h2>
+<p>Lynk & Co propose un abonnement tout compris à 500 €/mois : voiture, assurance, entretien, résiliation à tout moment. Le Netflix de l'automobile.</p>
+
+<h2>Le calcul sur 3 ans</h2>
+<p>Abonnement : 18 000 €. Achat équivalent (Lynk & Co 01 à 45 000 € + assurance + entretien - revente) : ~20 850 €. L'abonnement est légèrement moins cher. Sur 5 ans, l'achat redevient avantageux.</p>
+
+<h2>Pour qui ?</h2>
+<p>L'abonnement convient à ceux qui changent souvent de voiture, ne veulent pas s'engager, ou apprécient la flexibilité. L'achat reste optimal pour ceux qui gardent longtemps.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/lynk-co-abonnement-ne-pas-acheter-voiture">Lynk & Co : l'abonnement voiture</a></li>
+  <li><a href="/actualites/leasing-loa-lld-meilleures-offres-marques-chinoises">Meilleures offres de leasing</a></li>
+  <li><a href="/actualites/decote-voitures-chinoises-risque-mg-byd-2026">Décote des voitures chinoises</a></li>
+</ul>
+`,
   },
   {
     slug: 'entretien-voiture-chinoise-france-reseaux-sav',
@@ -1529,6 +2634,24 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-04-07T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Les réseaux SAV en France</h2>
+<p><strong>MG</strong> : 200+ points de service, le plus dense (Faurie, Jean Rouyer, Emil Frey). Délais : 3-7 jours.</p>
+<p><strong>BYD</strong> : 80+ points, objectif 150 fin 2026. Délais : 5-10 jours.</p>
+<p><strong>Omoda/Jaecoo</strong> : 50+ points via le réseau Ebro.</p>
+<p><strong>Leapmotor</strong> : réseau Stellantis (3 000+ points en Europe) — le plus vaste.</p>
+<p><strong>NIO, XPeng, Zeekr</strong> : 10-30 points chacun, service de collecte/livraison.</p>
+
+<h2>Notre conseil</h2>
+<p>Vérifiez qu'un point de service agréé existe à moins de 50 km de chez vous avant d'acheter.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">Garantie constructeurs chinois</a></li>
+  <li><a href="/actualites/prix-pieces-detachees-mg-vs-renault-apres-vente">Pièces détachées : MG vs Renault</a></li>
+  <li><a href="/actualites/leapmotor-alliance-stellantis-sav-europe">Leapmotor et Stellantis</a></li>
+</ul>
+`,
   },
   {
     slug: 'prix-pieces-detachees-mg-vs-renault-apres-vente',
@@ -1541,6 +2664,28 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-03-31T09:00:00+02:00',
     readingTime: 6,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le comparatif pièce par pièce</h2>
+<ul>
+  <li><strong>Plaquettes avant</strong> : MG 45 € / Renault 52 €</li>
+  <li><strong>Disques avant</strong> : MG 85 € / Renault 78 €</li>
+  <li><strong>Filtre habitacle</strong> : MG 18 € / Renault 15 €</li>
+  <li><strong>Batterie 12V</strong> : MG 95 € / Renault 90 €</li>
+</ul>
+
+<h2>Le coût d'entretien annuel</h2>
+<p>Révision + vidange : 250-350 € chez MG vs 200-300 € chez Renault. Pour les électriques (MG4), l'entretien tombe à 100-150 €/an.</p>
+
+<h2>Le vrai coût caché</h2>
+<p>Les pièces de carrosserie MG coûtent 20-30 % de plus avec des délais de 3-4 semaines (importation). C'est le poste qui fait grimper les primes d'assurance.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/entretien-voiture-chinoise-france-reseaux-sav">Réseaux SAV en France</a></li>
+  <li><a href="/actualites/assurance-auto-marques-chinoises-assureurs-francais">Assurance et marques chinoises</a></li>
+  <li><a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">Garantie constructeurs</a></li>
+</ul>
+`,
   },
   {
     slug: 'leasing-loa-lld-meilleures-offres-marques-chinoises',
@@ -1553,6 +2698,25 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-03-24T09:00:00+01:00',
     readingTime: 6,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Les offres LOA phares</h2>
+<ul>
+  <li><strong>MG4 Standard</strong> : 199 €/mois, apport 3 000 €, 36 mois / 30 000 km</li>
+  <li><strong>BYD Atto 3</strong> : 299 €/mois, apport 4 500 €, 48 mois / 40 000 km</li>
+  <li><strong>MG ZS EV</strong> : 229 €/mois, apport 2 500 €, 36 mois</li>
+  <li><strong>BYD Seal</strong> : 399 €/mois, apport 5 000 €, 48 mois</li>
+</ul>
+
+<h2>LOA vs LLD</h2>
+<p>LOA : option de rachat en fin de contrat. LLD : pas de rachat, mensualités 10-15 % inférieures. Le leasing est le meilleur moyen de rouler en chinoise sans risque de décote.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/decote-voitures-chinoises-risque-mg-byd-2026">Décote : est-ce risqué ?</a></li>
+  <li><a href="/actualites/location-vs-achat-lynk-co-nouvelle-consommation">Location vs Achat</a></li>
+  <li><a href="/actualites/mandataires-vs-concessions-acheter-byd-meilleur-prix">Mandataires vs concessions</a></li>
+</ul>
+`,
   },
   {
     slug: 'assurance-auto-marques-chinoises-assureurs-francais',
@@ -1565,6 +2729,27 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-03-17T09:00:00+01:00',
     readingTime: 6,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Surprimes limitées</h2>
+<p>Certains assureurs appliquent 5 à 15 % de surprime sur les chinoises (coût des pièces carrosserie, manque de données de sinistralité).</p>
+
+<h2>Les assureurs compétitifs</h2>
+<ul>
+  <li><strong>MAIF</strong> : pas de surprime</li>
+  <li><strong>Pacifica</strong> : partenariat MG, tarifs compétitifs</li>
+  <li><strong>Direct Assurance</strong> : pas de discrimination par marque</li>
+</ul>
+
+<h2>Comment réduire votre prime</h2>
+<p>Franchise élevée sur carrosserie, traceur GPS, comparer 5+ devis. La surprime de 50-100 €/an est largement compensée par le prix d'achat inférieur.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/prix-pieces-detachees-mg-vs-renault-apres-vente">Pièces détachées : MG vs Renault</a></li>
+  <li><a href="/actualites/leasing-loa-lld-meilleures-offres-marques-chinoises">Offres de leasing chinoises</a></li>
+  <li><a href="/actualites/entretien-voiture-chinoise-france-reseaux-sav">Réseaux SAV en France</a></li>
+</ul>
+`,
   },
   {
     slug: 'mandataires-vs-concessions-acheter-byd-meilleur-prix',
@@ -1577,6 +2762,27 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-03-10T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Mandataire ou concession ?</h2>
+<p>Les mandataires proposent 10-15 % de remise sur les chinoises neuves. Les concessions offrent le SAV direct et le suivi personnalisé.</p>
+
+<h2>Prix constatés</h2>
+<ul>
+  <li><strong>BYD Atto 3</strong> : 34 900 € mandataire vs 37 490 € concession → -2 590 €</li>
+  <li><strong>BYD Seal</strong> : 39 800 € vs 42 990 € → -3 190 €</li>
+  <li><strong>MG4 Luxury</strong> : 27 500 € vs 30 990 € → -3 490 €</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Stock MG/BYD disponible → mandataire (2 000-3 500 € d'économie). Premium/sur mesure (NIO, Zeekr) → concession. Vérifiez la transférabilité de garantie.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/leasing-loa-lld-meilleures-offres-marques-chinoises">Offres de leasing chinoises</a></li>
+  <li><a href="/actualites/bonus-ecologique-2026-voitures-chinoises-eligibles">Bonus écologique 2026</a></li>
+  <li><a href="/actualites/decote-voitures-chinoises-risque-mg-byd-2026">Décote des voitures chinoises</a></li>
+</ul>
+`,
   },
   {
     slug: 'fiabilite-long-terme-mg4-2023-premiers-retours',
@@ -1589,6 +2795,34 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-03-03T09:00:00+01:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>3 ans de recul sur la MG4</h2>
+<p>Les premières MG4 ont 3+ ans et 50 000+ km. Bilan compilé de 200+ propriétaires.</p>
+
+<h2>Points positifs</h2>
+<ul>
+  <li><strong>Batterie</strong> : 95-97 % de capacité après 3 ans/40 000 km</li>
+  <li><strong>Moteur</strong> : zéro panne mécanique majeure</li>
+  <li><strong>Freinage</strong> : plaquettes quasi neuves grâce au régénératif</li>
+</ul>
+
+<h2>Points de vigilance</h2>
+<ul>
+  <li>Bugs logiciels après certaines mises à jour OTA</li>
+  <li>Quelques remplacements précoces de pompe à chaleur (2022, corrigé depuis)</li>
+  <li>Craquements des plastiques intérieurs par temps froid</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>La MG4 est fiable sur l'essentiel. Les soucis sont mineurs et logiciels. Pour ce prix, c'est un excellent bilan.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/classement-marques-chinoises-fiabilite-2026">Classement fiabilité</a></li>
+  <li><a href="/actualites/voiture-chinoise-occasion-fiabilite">Occasion chinoise : fiabilité</a></li>
+  <li><a href="/actualites/mg-motor-marque-preferee-jeunes-conducteurs">MG : la marque des jeunes</a></li>
+</ul>
+`,
   },
 
   // --- Top 10 & Sélections Thématiques (articles.md #61-70) ---
@@ -1636,6 +2870,27 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-02-17T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le besoin : 5+ places, Isofix, grand coffre</h2>
+<p>Avec 3 enfants, il faut des fixations Isofix, un coffre de 500 L minimum et idéalement une 3e rangée.</p>
+
+<h2>Notre sélection</h2>
+<h3>1. BYD Tang — Le plus spacieux</h3>
+<p>7 places, 108 kWh, 530 km WLTP, ~52 000 €. Le choix premium électrique pour les grandes familles.</p>
+
+<h3>2. Chery Tiggo 8 Pro — Le meilleur rapport taille/prix</h3>
+<p>7 places, 1.6 turbo 197 ch, coffre 192-530 L, moins de 35 000 €.</p>
+
+<h3>3. BYD Seal U — Le compromis</h3>
+<p>5 places mais espace arrière généreux, coffre 425 L, à partir de 37 990 €.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/chery-tiggo-8-voyage-famille-test-habitabilite">Chery Tiggo 8 : test famille</a></li>
+  <li><a href="/actualites/suv-chinois-confortables-longs-trajets-autoroute">SUV chinois confortables</a></li>
+  <li><a href="/actualites/byd-tang-2026-vs-mg-s9-suv-7-places">BYD Tang vs MG S9</a></li>
+</ul>
+`,
   },
   {
     slug: '5-meilleures-citadines-chinoises-ville',
@@ -1648,6 +2903,31 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-02-10T09:00:00+01:00',
     readingTime: 6,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Top 5 des citadines chinoises pour la ville</h2>
+
+<h3>1. BYD Seagull — 3,78 m, 300-400 km, ~15 000 €</h3>
+<p>Rayon de braquage 5,1 m, la plus abordable du marché.</p>
+
+<h3>2. Leapmotor T03 — 3,62 m, 280 km, 18 900 €</h3>
+<p>Écran 10,1", reconnaissance faciale, assemblée en Europe.</p>
+
+<h3>3. GWM Ora 03 — 4,24 m, 310 km, ~28 990 €</h3>
+<p>Design rétro-futuriste unique.</p>
+
+<h3>4. MG3 Hybrid+ — Hybride, 4,4 L/100 km, 19 990 €</h3>
+<p>Pas de borne nécessaire, 700 km d'autonomie totale.</p>
+
+<h3>5. BYD Dolphin — 4,29 m, 427 km, 29 990 €</h3>
+<p>Une semaine de trajets urbains sans recharger.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/leapmotor-t03-vs-byd-seagull-micro-citadines">T03 vs Seagull</a></li>
+  <li><a href="/actualites/leapmotor-t03-vs-dacia-spring-electrique-15000">T03 vs Dacia Spring</a></li>
+  <li><a href="/actualites/gwm-ora-citadines-electriques-design-audacieux">GWM Ora : design audacieux</a></li>
+</ul>
+`,
   },
   {
     slug: 'top-7-voitures-chinoises-plus-sures-ncap-2026',
@@ -1660,6 +2940,26 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-02-03T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>5 étoiles Euro NCAP : la norme chinoise</h2>
+<ol>
+  <li><strong>XPeng G9</strong> : 92 % adultes — le meilleur score 2023</li>
+  <li><strong>Zeekr 001</strong> : 92 % adultes</li>
+  <li><strong>NIO EL6</strong> : 91 % adultes, 90 % enfants (meilleur)</li>
+  <li><strong>BYD Seal</strong> : 91 % adultes, batterie Blade ultra-sûre</li>
+  <li><strong>BYD Atto 3</strong> : 91 % adultes, 89 % enfants</li>
+  <li><strong>MG4</strong> : 83 % adultes — excellent pour le prix</li>
+  <li><strong>Omoda 5</strong> : 82 % adultes, ADAS complets de série</li>
+</ol>
+<p>Le XPeng G9 et le Zeekr 001 figurent parmi les voitures les plus sûres jamais testées, devant Volvo EX30 et Mercedes EQS.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">Sécurité des voitures chinoises</a></li>
+  <li><a href="/actualites/classement-marques-chinoises-fiabilite-2026">Classement fiabilité</a></li>
+  <li><a href="/actualites/xpeng-marque-intelligence-artificielle-automobile">XPeng : la marque IA</a></li>
+</ul>
+`,
   },
   {
     slug: 'voitures-chinoises-meilleur-infodivertissement-2026',
@@ -1672,6 +2972,23 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-01-27T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le classement infodivertissement</h2>
+<ol>
+  <li><strong>Xiaomi SU7 (HyperOS)</strong> : écosystème complet, IA contextuelle, 16" OLED</li>
+  <li><strong>NIO ET7 (NOMI)</strong> : assistant robot attachant, écran AMOLED 12,8", app store</li>
+  <li><strong>Zeekr 001</strong> : Snapdragon 8295, double écran, navigation AR</li>
+  <li><strong>XPeng G6 (XmartOS)</strong> : IA vocale avancée, 14,96"</li>
+  <li><strong>BYD Seal (DiLink)</strong> : écran rotatif 15,6", fonctionnel mais moins raffiné</li>
+</ol>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/hyperos-xiaomi-voiture-integration-smartphone">HyperOS de Xiaomi</a></li>
+  <li><a href="/actualites/navigation-byd-vs-google-maps-fiabilite">Navigation BYD vs Google Maps</a></li>
+  <li><a href="/actualites/lidar-xpeng-vs-vision-tesla-conduite-autonome-france">Lidar XPeng vs Vision Tesla</a></li>
+</ul>
+`,
   },
   {
     slug: 'top-5-electriques-chinoises-moins-30000-euros',
@@ -1684,6 +3001,23 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-01-20T09:00:00+01:00',
     readingTime: 6,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Sous 30 000 € bonus déduit</h2>
+<ol>
+  <li><strong>Leapmotor T03</strong> : 18 900 € — 280 km, assemblée en Europe</li>
+  <li><strong>MG4 Standard</strong> : 24 990 € — 350 km, la référence</li>
+  <li><strong>BYD Dolphin Active</strong> : 26 990 € — 340 km, batterie Blade</li>
+  <li><strong>MG ZS EV</strong> : 27 490 € — 320 km, format SUV</li>
+  <li><strong>GWM Ora 03</strong> : 28 990 € — 310 km, design unique</li>
+</ol>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/bonus-ecologique-2026-voitures-chinoises-eligibles">Bonus écologique 2026</a></li>
+  <li><a href="/actualites/leapmotor-t03-vs-dacia-spring-electrique-15000">T03 vs Dacia Spring</a></li>
+  <li><a href="/actualites/mg4-vs-byd-dolphin-compactes-electriques">MG4 vs BYD Dolphin</a></li>
+</ul>
+`,
   },
   {
     slug: 'suv-chinois-confortables-longs-trajets-autoroute',
@@ -1696,6 +3030,23 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-01-13T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le top du confort autoroutier</h2>
+<ol>
+  <li><strong>NIO EL6</strong> : suspension pneumatique, double vitrage, sièges massants, 510 km WLTP</li>
+  <li><strong>XPeng G9</strong> : suspension adaptative, ADAS niveau 2+, recharge 800V</li>
+  <li><strong>BYD Tang</strong> : 7 places, 108 kWh, sièges inclinables rang 2</li>
+  <li><strong>Zeekr 001</strong> : shooting brake, suspension double triangulation, coffre 587 L</li>
+</ol>
+<p>Pour le confort pur → NIO EL6. Pour les familles → BYD Tang. Pour les conducteurs exigeants → Zeekr 001.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/nio-el6-vs-xpeng-g9-grands-suv-electriques-premium">NIO EL6 vs XPeng G9</a></li>
+  <li><a href="/actualites/suv-chinois-famille-3-enfants-quel-choisir">Quel SUV pour 3 enfants ?</a></li>
+  <li><a href="/actualites/charge-800v-zeekr-xpeng-humilient-constructeurs-historiques">Charge 800V</a></li>
+</ul>
+`,
   },
   {
     slug: '3-voitures-chinoises-pour-oublier-tesla-2026',
@@ -1708,6 +3059,24 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-01-06T09:00:00+01:00',
     readingTime: 6,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Tesla n'est plus seule</h2>
+<h3>1. Zeekr 001 — L'anti-Model S</h3>
+<p>620 km, 800V, intérieur premium, ~50 000 € (vs 90 000+ € Model S). 90 % de l'expérience pour moitié prix.</p>
+
+<h3>2. XPeng G6 — L'anti-Model Y</h3>
+<p>Même format SUV coupé, 43 000 €. Ajoute le Lidar et la recharge 800V que Tesla n'a pas.</p>
+
+<h3>3. BYD Seal — L'anti-Model 3</h3>
+<p>530 km, batterie Blade ultra-sûre, 42 990 € (5 000 € de moins que la Model 3 LR). Finition supérieure.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/zeekr-001-vs-tesla-model-s-silicon-valley-tremble-2026">Zeekr 001 vs Tesla Model S</a></li>
+  <li><a href="/actualites/xpeng-g6-vs-tesla-model-y-recharge-rapide">XPeng G6 vs Tesla Model Y</a></li>
+  <li><a href="/actualites/byd-vs-volkswagen-bataille-numero-1-mondial">BYD vs Volkswagen</a></li>
+</ul>
+`,
   },
   {
     slug: 'voitures-chinoises-plus-attendues-fin-2026',
@@ -1720,6 +3089,26 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-12-23T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Les lancements de fin 2026</h2>
+<h3>BYD Ocean-M</h3>
+<p>Citadine électrique sous 25 000 €, rivale de la Renault 5. Batterie Blade 45 kWh, 400 km WLTP.</p>
+<h3>Xiaomi SU8</h3>
+<p>SUV familial HyperOS. Format haut, plateforme SU7. Buzz mondial.</p>
+<h3>NIO ET9</h3>
+<p>Berline ultra-premium, première batterie 150 kWh solid state. 80 000+ €.</p>
+<h3>Zeekr MIX</h3>
+<p>Monospace électrique à portes coulissantes. Format oublié, remis au goût du jour.</p>
+<h3>Leapmotor B10</h3>
+<p>SUV compact Stellantis sous 25 000 €. Rapport taille/prix imbattable.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/arrivee-xiaomi-tournant-historique-industrie-automobile">Xiaomi : un tournant historique</a></li>
+  <li><a href="/actualites/batteries-solid-state-nio-1000-km-2026">Batteries Solid State NIO</a></li>
+  <li><a href="/actualites/leapmotor-alliance-stellantis-sav-europe">Leapmotor et Stellantis</a></li>
+</ul>
+`,
   },
   {
     slug: 'classement-marques-chinoises-fiabilite-2026',
@@ -1732,6 +3121,24 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-12-16T09:00:00+01:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le classement fiabilité 2026</h2>
+<ol>
+  <li><strong>BYD — 8,5/10</strong> : batterie Blade fiable, peu de rappels, quelques bugs logiciels</li>
+  <li><strong>NIO — 8/10</strong> : Battery Swap = batteries inspectées régulièrement, réseau SAV limité</li>
+  <li><strong>MG — 7,5/10</strong> : fiabilité correcte, garantie 7 ans rassurante, usure freins parfois prématurée</li>
+  <li><strong>XPeng — 7,5/10</strong> : solide mécaniquement, complexité ADAS = risques électroniques</li>
+  <li><strong>Chery — 7/10</strong> : bonne fiabilité thermique, hybrides trop récents</li>
+  <li><strong>Zeekr — 7/10</strong> : plateforme Geely/Volvo rassurante, manque de recul</li>
+</ol>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/fiabilite-long-terme-mg4-2023-premiers-retours">MG4 : premiers retours fiabilité</a></li>
+  <li><a href="/actualites/entretien-voiture-chinoise-france-reseaux-sav">Réseaux SAV en France</a></li>
+  <li><a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">Garantie constructeurs</a></li>
+</ul>
+`,
   },
 
   // --- Comparaison des Motorisations (articles.md #71-75) ---
@@ -1746,6 +3153,23 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-12-09T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Hybride ou électrique chez MG ?</h2>
+<ul>
+  <li><strong>MG3 Hybrid+</strong> : 4,4 L/100 km, 700 km autonomie, 19 990 €, pas de borne nécessaire</li>
+  <li><strong>MG4 Standard</strong> : 0 émission, 350 km WLTP, 28 990 €, borne recommandée</li>
+</ul>
+
+<h2>Le bon choix selon votre usage</h2>
+<p>Pas de borne à domicile + budget serré → MG3 Hybrid+. Borne à domicile + trajets courts → MG4. Longs trajets fréquents → MG3 (pas d'arrêts recharge).</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/hybride-vs-phev-comparatif-mg-byd">Hybride vs PHEV</a></li>
+  <li><a href="/actualites/mg-motor-marque-preferee-jeunes-conducteurs">MG : la marque des jeunes</a></li>
+  <li><a href="/actualites/fiabilite-long-terme-mg4-2023-premiers-retours">MG4 : retours fiabilité</a></li>
+</ul>
+`,
   },
   {
     slug: 'byd-seal-u-phev-vs-byd-seal-u-ev-hybride-rechargeable',
@@ -1758,6 +3182,23 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-12-02T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le duel interne BYD</h2>
+<ul>
+  <li><strong>Seal U EV</strong> : 71 kWh, 420 km WLTP, 204 ch, 37 990 €</li>
+  <li><strong>Seal U PHEV</strong> : 1.5T + batterie 18 kWh, 80 km électrique, 1000+ km total, 35 990 €</li>
+</ul>
+
+<h2>Le bon choix</h2>
+<p>Borne à domicile + trajets <400 km → EV. Pas de borne + longs trajets fréquents → PHEV. Le PHEV est 2 000 € moins cher et élimine l'angoisse d'autonomie.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/hybride-vs-phev-comparatif-mg-byd">Hybride vs PHEV</a></li>
+  <li><a href="/actualites/leapmotor-c11-vs-byd-seal-u-suv-familial-prix">Leapmotor C11 vs BYD Seal U</a></li>
+  <li><a href="/actualites/v2l-vehicle-to-load-byd-alimenter-maison">V2L BYD</a></li>
+</ul>
+`,
   },
   {
     slug: 'omoda-5-thermique-vs-omoda-5-ev-duel-interne',
@@ -1770,6 +3211,24 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-11-25T09:00:00+01:00',
     readingTime: 6,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Thermique, hybride ou électrique ?</h2>
+<ul>
+  <li><strong>Omoda 5 1.6T</strong> : 187 ch, 7,2 L/100 km, 26 990 €</li>
+  <li><strong>Omoda 5 SHS-H</strong> : 194 ch hybride, 4,9 L/100 km, 28 990 €</li>
+  <li><strong>Omoda E5</strong> : 204 ch électrique, 430 km WLTP, 33 990 €</li>
+</ul>
+
+<h2>Le bon choix</h2>
+<p>Budget serré → 1.6T. Meilleur compromis → SHS-H hybride. Borne à domicile + convictions écolos → E5 électrique.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/omoda-shs-h-hybride-comment-ca-marche">Hybride SHS-H d'Omoda</a></li>
+  <li><a href="/actualites/omoda-5-vs-mg-zs-hybrid-suv-urbains-abordables">Omoda 5 vs MG ZS Hybrid+</a></li>
+  <li><a href="/actualites/omoda-e5-vs-hyundai-kona-electric-design-futuriste">Omoda E5 vs Hyundai Kona</a></li>
+</ul>
+`,
   },
   {
     slug: 'hybride-vs-phev-comparatif-mg-byd',
@@ -1782,6 +3241,21 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-11-18T09:00:00+01:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Hybride non-rechargeable vs hybride rechargeable</h2>
+<p><strong>Hybride (HEV)</strong> : batterie petite (~1-2 kWh), rechargée automatiquement. Jamais besoin de borne. Exemples : MG3 Hybrid+, MG ZS Hybrid+.</p>
+<p><strong>PHEV</strong> : batterie plus grosse (10-20+ kWh), rechargeable sur secteur. 50-80 km en électrique pur. Exemples : BYD Seal U PHEV, MG EHS.</p>
+
+<h2>Le bon choix</h2>
+<p>Pas de borne → HEV. Borne + trajets courts quotidiens → PHEV (roulez en électrique au quotidien, thermique pour les longs trajets). Le PHEV est plus cher mais plus polyvalent.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/mg3-hybrid-vs-mg4-electric-hybride-ou-electrique">MG3 Hybrid vs MG4 Electric</a></li>
+  <li><a href="/actualites/byd-seal-u-phev-vs-byd-seal-u-ev-hybride-rechargeable">BYD Seal U : PHEV ou EV ?</a></li>
+  <li><a href="/actualites/omoda-5-thermique-vs-omoda-5-ev-duel-interne">Omoda 5 : thermique, hybride ou EV ?</a></li>
+</ul>
+`,
   },
   {
     slug: 'moteurs-thermiques-chinois-retour-en-force-europe',
@@ -1794,6 +3268,23 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-11-11T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Un retour stratégique</h2>
+<p>En 2026, Chery lance l'Omoda 5 avec un 1.6 turbo, MG propose la MG3 Hybrid+. Ce retour du thermique n'est pas un recul — c'est un calcul : 60 % des acheteurs européens ne sont pas prêts pour le tout-électrique.</p>
+
+<h2>Des moteurs modernes</h2>
+<p>Le 1.6 TGDI Chery : 187 ch, 6,8 L/100 km. Le système MG3 Hybrid+ : 4,4 L/100 km — mieux qu'une Toyota Yaris. Ces moteurs n'ont rien de rétrograde.</p>
+
+<h2>La stratégie du cheval de Troie</h2>
+<p>Attirer les réticents à l'électrique via le thermique, construire la notoriété et le réseau, puis convertir progressivement vers l'électrique. D'ici 2030, la gamme sera majoritairement électrique.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/omoda-shs-h-hybride-comment-ca-marche">Hybride SHS-H d'Omoda</a></li>
+  <li><a href="/actualites/mg-motor-marque-preferee-jeunes-conducteurs">MG : la marque des jeunes</a></li>
+  <li><a href="/actualites/omoda-jaecoo-nouveau-geant-marche-automobile">Omoda-Jaecoo</a></li>
+</ul>
+`,
   },
 
   // --- Marque par Marque : Guides d'Achat (articles.md #76-85) ---
@@ -1856,6 +3347,26 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-10-28T09:00:00+01:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>De Morris Garages à SAIC Motor</h2>
+<p>MG née en 1924 à Oxford. Roadsters légendaires (MGB, MGA), faillite, rachat par SAIC en 2007. En 2026, MG est la marque chinoise la plus vendue en Europe.</p>
+
+<h2>La gamme 2026</h2>
+<ul>
+  <li><strong>MG3 Hybrid+</strong> : 19 990 € — citadine hybride best-seller</li>
+  <li><strong>MG4</strong> : 28 990 € — compacte électrique référence</li>
+  <li><strong>MG ZS Hybrid+</strong> : 24 990 € — SUV compact hybride</li>
+  <li><strong>MG Cyberster</strong> : 38 990 € — roadster électrique</li>
+</ul>
+<p>Prix les plus bas, garantie 7 ans, 200+ points de service en France.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/mg-motor-marque-preferee-jeunes-conducteurs">MG : la marque des jeunes</a></li>
+  <li><a href="/actualites/fiabilite-long-terme-mg4-2023-premiers-retours">MG4 : retours fiabilité</a></li>
+  <li><a href="/actualites/mg3-hybrid-vs-mg4-electric-hybride-ou-electrique">MG3 Hybrid vs MG4 Electric</a></li>
+</ul>
+`,
   },
   {
     slug: 'zeekr-france-prix-modeles-reseau-2026',
@@ -1868,6 +3379,26 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-10-21T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Zeekr s'installe en France</h2>
+<p>Filiale premium de Geely (Volvo, Polestar, Lotus), Zeekr arrive avec trois modèles 100 % électriques.</p>
+
+<h3>Zeekr 001</h3>
+<p>Shooting brake, 620 km WLTP, 800V, ~50 000 €. Le modèle emblématique.</p>
+<h3>Zeekr X</h3>
+<p>SUV compact, 440 km, ~38 000 €. Cible le Volvo EX30.</p>
+<h3>Zeekr 7X</h3>
+<p>SUV familial, 600 km, ~48 000 €. Concurrent du Tesla Model Y.</p>
+
+<p>Vente principalement en ligne, showrooms dans les grandes agglomérations. Recharge 800V : 10-80 % en 15 minutes.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/zeekr-001-vs-tesla-model-s-silicon-valley-tremble-2026">Zeekr 001 vs Tesla Model S</a></li>
+  <li><a href="/actualites/zeekr-x-vs-volvo-ex30-cousins-chinois">Zeekr X vs Volvo EX30</a></li>
+  <li><a href="/actualites/charge-800v-zeekr-xpeng-humilient-constructeurs-historiques">Charge 800V</a></li>
+</ul>
+`,
   },
   {
     slug: 'omoda-jaecoo-nouveau-geant-marche-automobile',
@@ -1880,6 +3411,25 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-10-14T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Les nouvelles marques de Chery</h2>
+<p>Omoda cible les jeunes urbains, Jaecoo les familles outdoor. Chery, 4e constructeur chinois, est le plus expérimenté à l'export (80+ pays).</p>
+
+<h3>Omoda 5</h3>
+<p>SUV compact, thermique/hybride/électrique, à partir de 26 990 €. Design affirmé, assemblage à Barcelone.</p>
+<h3>Jaecoo 7</h3>
+<p>SUV familial, look baroudeur, 480 L de coffre, à partir de 33 990 €.</p>
+
+<h2>L'atout production européenne</h2>
+<p>Assemblage à Barcelone via Ebro → éligibilité aux aides, délais courts, emplois locaux.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/omoda-shs-h-hybride-comment-ca-marche">Hybride SHS-H d'Omoda</a></li>
+  <li><a href="/actualites/omoda-5-vs-mg-zs-hybrid-suv-urbains-abordables">Omoda 5 vs MG ZS Hybrid+</a></li>
+  <li><a href="/actualites/jaecoo-5-vs-volkswagen-tiguan-menace-chinoise">Jaecoo 5 vs VW Tiguan</a></li>
+</ul>
+`,
   },
   {
     slug: 'xiaomi-auto-peut-on-acheter-voiture-fabricant-telephones',
@@ -1892,6 +3442,23 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-10-07T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Xiaomi fait des voitures, vraiment ?</h2>
+<p>La SU7 a battu des records en Chine (120 000+ ventes en un an). Mais peut-on faire confiance à un fabricant de téléphones ?</p>
+
+<h2>Les atouts</h2>
+<p>Intégration HyperOS unique, rapidité de développement record, rapport qualité-prix de Porsche pour le prix d'une Tesla.</p>
+
+<h2>Les limites en Europe</h2>
+<p>Pas de réseau SAV structuré en France, pièces détachées avec délais de 2-4 semaines, garantie à confirmer. Réservé aux early adopters en 2026.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/arrivee-xiaomi-tournant-historique-industrie-automobile">Xiaomi : un tournant historique</a></li>
+  <li><a href="/actualites/hyperos-xiaomi-voiture-integration-smartphone">HyperOS de Xiaomi</a></li>
+  <li><a href="/actualites/moteurs-roue-xiaomi-revolution-technologique">Moteurs de roue Xiaomi</a></li>
+</ul>
+`,
   },
   {
     slug: 'nio-battery-as-a-service-louer-ou-acheter-batterie',
@@ -1904,6 +3471,23 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-09-30T09:00:00+02:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le concept BaaS</h2>
+<p>Achetez la voiture sans batterie, louez-la à 128-289 €/mois. Le prix baisse de 12 000-20 000 €.</p>
+
+<h2>Le calcul</h2>
+<p>Batterie 75 kWh : location 128 €/mois × 60 mois = 7 680 € vs achat 12 000 €. Rentable si vous gardez moins de 8 ans. Plus : upgrade possible (75→100 kWh), garantie à vie, batterie toujours neuve.</p>
+
+<h2>Verdict</h2>
+<p>Pour 3-7 ans → BaaS est le meilleur choix. Pour 10+ ans → achat batterie. Le BaaS élimine l'angoisse de dégradation.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/nio-echange-batterie-vs-tesla-superchargeur-voyage">NIO vs Tesla : recharge</a></li>
+  <li><a href="/actualites/batteries-solid-state-nio-1000-km-2026">Batteries Solid State NIO</a></li>
+  <li><a href="/actualites/nio-el6-vs-xpeng-g9-grands-suv-electriques-premium">NIO EL6 vs XPeng G9</a></li>
+</ul>
+`,
   },
   {
     slug: 'xpeng-marque-intelligence-artificielle-automobile',
@@ -1916,6 +3500,27 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-09-23T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le Tesla chinois ?</h2>
+<p>XPeng investit 40 % de son CA en R&D, principalement en IA. Le système XNGP combine 2 Lidar, 12 caméras, 5 radars et un processeur NVIDIA Orin X.</p>
+
+<h2>Les modèles européens</h2>
+<ul>
+  <li><strong>G6</strong> : SUV coupé 800V, 570 km, 42 990 €</li>
+  <li><strong>G9</strong> : grand SUV, meilleur score NCAP 2023</li>
+  <li><strong>P7</strong> : berline sportive, 702 km WLTP (record)</li>
+</ul>
+
+<h2>La vision IA</h2>
+<p>XPeng développe sa propre puce IA, un robot humanoïde et un véhicule volant. La voiture n'est qu'un élément de l'écosystème.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/lidar-xpeng-vs-vision-tesla-conduite-autonome-france">Lidar XPeng vs Vision Tesla</a></li>
+  <li><a href="/actualites/xpeng-g6-vs-tesla-model-y-recharge-rapide">XPeng G6 vs Tesla Model Y</a></li>
+  <li><a href="/actualites/charge-800v-zeekr-xpeng-humilient-constructeurs-historiques">Charge 800V</a></li>
+</ul>
+`,
   },
   {
     slug: 'leapmotor-alliance-stellantis-sav-europe',
@@ -1928,6 +3533,27 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-09-16T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Stellantis distribue, Leapmotor produit</h2>
+<p>Stellantis a pris 21 % de Leapmotor pour 1,5 Md€. En échange : distribution et assemblage en Europe via 3 000+ points Stellantis.</p>
+
+<h2>Ce que ça change</h2>
+<ul>
+  <li>SAV dans les concessions Peugeot, Citroën, Fiat, Opel</li>
+  <li>T03 assemblée à Tychy (Pologne) → éligible aux aides</li>
+  <li>Pièces en 24-48h via la logistique Stellantis</li>
+</ul>
+
+<h2>Les modèles</h2>
+<p>T03 (18 900 €), C10 (32 000 €), B10 (sous 25 000 €, fin 2026). Le modèle le plus malin d'entrée sur le marché européen.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/leapmotor-t03-vs-dacia-spring-electrique-15000">T03 vs Dacia Spring</a></li>
+  <li><a href="/actualites/entretien-voiture-chinoise-france-reseaux-sav">Réseaux SAV en France</a></li>
+  <li><a href="/actualites/top-5-electriques-chinoises-moins-30000-euros">Top 5 électriques à moins de 30 000 €</a></li>
+</ul>
+`,
   },
   {
     slug: 'gwm-ora-citadines-electriques-design-audacieux',
@@ -1940,6 +3566,25 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-09-09T09:00:00+02:00',
     readingTime: 6,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>GWM Ora : le design avant tout</h2>
+<p>Great Wall Motors attaque les citadines avec un design rétro-futuriste inspiré de la Porsche 356.</p>
+
+<h3>Ora 03</h3>
+<p>4,24 m, 48 kWh, 310 km, 171 ch, ~28 990 €. La citadine la plus distinctive du marché.</p>
+
+<h3>Ora 07</h3>
+<p>Berline coupé 4,87 m, 500 km, 0-100 en 4,3 s, ~38 000 €. Alternative stylée à la Tesla Model 3.</p>
+
+<p>Réseau limité (~20 points en France). Si GWM structure son SAV, l'Ora 03 pourrait devenir une citadine culte.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/gwm-ora-03-vs-mg3-hybrid-design-retro-efficacite">Ora 03 vs MG3 Hybrid</a></li>
+  <li><a href="/actualites/5-meilleures-citadines-chinoises-ville">5 meilleures citadines chinoises</a></li>
+  <li><a href="/actualites/design-chinois-identite-visuelle-marques-auto">Design chinois</a></li>
+</ul>
+`,
   },
   {
     slug: 'lynk-co-abonnement-ne-pas-acheter-voiture',
@@ -1952,6 +3597,23 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-09-02T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>La voiture par abonnement</h2>
+<p>500 €/mois tout inclus (Lynk & Co 01 PHEV 261 ch, assurance, entretien, assistance), sans engagement. Possibilité de partager la voiture et réduire la mensualité à 300-350 €.</p>
+
+<h2>La Lynk & Co 01</h2>
+<p>Plateforme Volvo CMA, 4,54 m, 261 ch PHEV, 69 km électrique. Qualité proche de Volvo, bon comportement routier.</p>
+
+<h2>Pour qui ?</h2>
+<p>Urbains qui veulent du premium sans contraintes. Moins adapté aux gros rouleurs ou familles ayant besoin de la voiture en permanence.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/location-vs-achat-lynk-co-nouvelle-consommation">Location vs Achat</a></li>
+  <li><a href="/actualites/lynk-co-01-vs-mg-ehs-hybride-rechargeable-partage">Lynk & Co 01 vs MG EHS</a></li>
+  <li><a href="/actualites/leasing-loa-lld-meilleures-offres-marques-chinoises">Offres de leasing</a></li>
+</ul>
+`,
   },
 
   // --- Essais Longue Durée & Vie Quotidienne (articles.md #86-90) ---
@@ -2040,6 +3702,23 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-08-12T09:00:00+02:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>La SU7 par -10 °C</h2>
+<p>Autonomie annoncée : 668 km WLTP. En hiver à -10 °C : 390 km en ville (-42 %), 310 km sur autoroute (-54 %). Cohérent avec la concurrence (Tesla perd 35-40 %).</p>
+
+<h2>La pompe à chaleur de série</h2>
+<p>Xiaomi l'inclut de série. Habitacle à 20 °C en 4 minutes. Sièges et volant chauffants permettent d'économiser l'autonomie. Le préconditionnement via l'app réduit la perte de 10-15 %.</p>
+
+<h2>Verdict</h2>
+<p>La SU7 encaisse l'hiver mieux que la moyenne. 390 km restants en ville suffisent largement pour le quotidien.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/hyperos-xiaomi-voiture-integration-smartphone">HyperOS de Xiaomi</a></li>
+  <li><a href="/actualites/moteurs-roue-xiaomi-revolution-technologique">Moteurs de roue Xiaomi</a></li>
+  <li><a href="/actualites/xiaomi-auto-peut-on-acheter-voiture-fabricant-telephones">Xiaomi Auto en Europe</a></li>
+</ul>
+`,
   },
   {
     slug: 'chery-tiggo-8-voyage-famille-test-habitabilite',
@@ -2052,6 +3731,26 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-08-05T09:00:00+02:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le test : 5 personnes, 1 semaine</h2>
+<p>Paris-Côte d'Azur en Tiggo 8 Pro : 2 adultes, 3 enfants (3, 7, 11 ans), bagages pour une semaine.</p>
+
+<h2>L'espace</h2>
+<p>Rangée 2 : 3 sièges enfants OK, Isofix latéraux. Rangée 3 : enfants <12 ans uniquement. Coffre en 7 places : 193 L (insuffisant). En 5 places : 530 L (juste assez).</p>
+
+<h2>Sur la route</h2>
+<p>1.6 turbo 197 ch suffisant malgré la charge. Confort correct sur autoroute. Conso : 8,7 L/100 km à 120 km/h chargé — raisonnable.</p>
+
+<h2>Verdict</h2>
+<p>Excellent en 5 places + grand coffre. Limité en vraie 7 places sur longs trajets. Rapport taille/prix imbattable sous 35 000 €.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/suv-chinois-famille-3-enfants-quel-choisir">Quel SUV pour 3 enfants ?</a></li>
+  <li><a href="/actualites/jaecoo-7-vs-chery-tiggo-8-pro-suv-familial-chery">Jaecoo 7 vs Tiggo 8 Pro</a></li>
+  <li><a href="/actualites/suv-chinois-confortables-longs-trajets-autoroute">SUV chinois confortables</a></li>
+</ul>
+`,
   },
   {
     slug: 'navigation-byd-vs-google-maps-fiabilite',
@@ -2064,6 +3763,23 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-07-29T09:00:00+02:00',
     readingTime: 6,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>10 trajets, 2 systèmes</h2>
+<p>GPS natif BYD (HERE Maps) vs Google Maps sur une BYD Seal. Google gagne 8/10 sur le meilleur itinéraire et le trafic temps réel.</p>
+
+<h2>L'atout BYD : la recharge</h2>
+<p>Le GPS natif calcule l'état de charge aux bornes, propose des arrêts optimaux et préconditionne la batterie automatiquement. Google Maps ne fait rien de tout ça sans appli tierce.</p>
+
+<h2>Verdict</h2>
+<p>Longs trajets EV → GPS natif BYD. Navigation quotidienne → Google Maps via Android Auto. Les deux sont complémentaires.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/voitures-chinoises-meilleur-infodivertissement-2026">Meilleur infodivertissement chinois</a></li>
+  <li><a href="/actualites/hyperos-xiaomi-voiture-integration-smartphone">HyperOS de Xiaomi</a></li>
+  <li><a href="/actualites/byd-vs-volkswagen-bataille-numero-1-mondial">BYD vs Volkswagen</a></li>
+</ul>
+`,
   },
 
   // --- Analyses & Tendances du Marché (articles.md #91-100) ---
@@ -2120,6 +3836,28 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-07-15T09:00:00+02:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Droits de douane inédits</h2>
+<p>Surtaxes de 17,4 % (BYD) à 38,1 % (SAIC/MG) sur les VE importés de Chine, en plus des 10 % standards.</p>
+
+<h2>Impact modèle par modèle</h2>
+<ul>
+  <li><strong>MG4</strong> : +4 510 € (+15,5 %)</li>
+  <li><strong>BYD Atto 3</strong> : +3 410 € (+9,1 %)</li>
+  <li><strong>XPeng G6</strong> : +5 510 € (+12,8 %)</li>
+</ul>
+<p>BYD absorbe une partie. MG (taux le plus élevé) subit la plus forte hausse.</p>
+
+<h2>Contournement</h2>
+<p>Production locale (BYD Hongrie, Leapmotor Pologne), assemblage CKD, modèles hybrides non concernés. D'ici 2027, l'impact sera marginal.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/marques-chinoises-production-europe-hongrie-espagne">Production chinoise en Europe</a></li>
+  <li><a href="/actualites/pourquoi-voitures-chinoises-moins-cheres-durable">Pourquoi les chinoises sont moins chères</a></li>
+  <li><a href="/actualites/2026-chine-conquete-coeur-europeens">2026 : la Chine conquiert l'Europe</a></li>
+</ul>
+`,
   },
   {
     slug: 'design-chinois-identite-visuelle-marques-auto',
@@ -2132,6 +3870,22 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-07-08T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Du "made in China" au "designed in China"</h2>
+<p><strong>BYD</strong> (Wolfgang Egger, ex-Audi) : "Ocean Aesthetics", lignes fluides. La Seal est parmi les plus belles berlines du marché.</p>
+<p><strong>NIO</strong> : minimalisme scandinave, surfaces lisses, design intemporel.</p>
+<p><strong>Zeekr</strong> : audace géométrique, shooting brake 001 immédiatement reconnaissable.</p>
+<p><strong>HiPhi</strong> : avant-garde extrême, éclairage programmable, portes articulées.</p>
+
+<p>Studios de design à Munich (BYD), Stockholm (NIO), Barcelone (Chery). Le design est devenu l'arme commerciale numéro 1.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/zeekr-france-prix-modeles-reseau-2026">Zeekr en France</a></li>
+  <li><a href="/actualites/arrivee-xiaomi-tournant-historique-industrie-automobile">Xiaomi : un tournant historique</a></li>
+  <li><a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">Sécurité des voitures chinoises</a></li>
+</ul>
+`,
   },
   {
     slug: 'marques-chinoises-production-europe-hongrie-espagne',
@@ -2144,6 +3898,22 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-07-01T09:00:00+02:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Produire là où l'on vend</h2>
+<p><strong>BYD en Hongrie</strong> : usine à Szeged, 150 000 véhicules/an dès 2026 (Atto 3, Seal U).</p>
+<p><strong>Chery en Espagne</strong> : partenariat Ebro, ex-usine Nissan Barcelone (Omoda 5, Jaecoo 7).</p>
+<p><strong>Leapmotor en Pologne</strong> : assemblage T03 à Tychy via Stellantis.</p>
+<p><strong>CATL en Allemagne</strong> : usine de batteries à Erfurt.</p>
+
+<p>D'ici 2028, la majorité des chinoises vendues en Europe seront produites en Europe — rendant les droits de douane obsolètes.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/taxes-europeennes-impact-prix-voitures-chinoises-2026">L'impact des taxes européennes</a></li>
+  <li><a href="/actualites/leapmotor-alliance-stellantis-sav-europe">Leapmotor et Stellantis</a></li>
+  <li><a href="/actualites/2026-chine-conquete-coeur-europeens">2026 : la Chine conquiert l'Europe</a></li>
+</ul>
+`,
   },
   {
     slug: 'securite-voitures-chinoises-niveau-europeen-2026',
@@ -2156,6 +3926,23 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-06-24T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>5 étoiles pour tous</h2>
+<p>BYD Atto 3 (91 %), BYD Seal (91 %), MG4 (83 %), NIO EL6 (91 %), XPeng G9 (92 % — meilleur score 2023), Zeekr 001 (92 %). Les chinoises obtiennent les meilleures notes Euro NCAP.</p>
+
+<h2>Les technologies de série</h2>
+<p>Freinage d'urgence auto (piétons + cyclistes), alerte franchissement de ligne, surveillance conducteur, régulateur adaptatif — de série chez BYD, NIO, XPeng. Souvent en option chez les européens.</p>
+
+<h2>La batterie Blade de BYD</h2>
+<p>Passe le "nail penetration test" sans prendre feu. Élimine le risque d'emballement thermique.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/top-7-voitures-chinoises-plus-sures-ncap-2026">Top 7 NCAP chinoises</a></li>
+  <li><a href="/actualites/design-chinois-identite-visuelle-marques-auto">Design chinois</a></li>
+  <li><a href="/actualites/pourquoi-voitures-chinoises-moins-cheres-durable">Pourquoi les chinoises sont moins chères</a></li>
+</ul>
+`,
   },
   {
     slug: 'arrivee-xiaomi-tournant-historique-industrie-automobile',
@@ -2168,6 +3955,23 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-06-17T09:00:00+02:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Un outsider qui fait trembler l'industrie</h2>
+<p>Xiaomi, 3e fabricant mondial de smartphones, a vendu 120 000+ SU7 en un an — plus que Porsche ne vend de Taycan. Les règles ont changé.</p>
+
+<h2>Pourquoi Xiaomi réussit</h2>
+<p>800 millions d'appareils connectés (écosystème), des millions de "Mi Fans" (communauté), et un modèle économique à marge quasi nulle (prix d'appel agressif).</p>
+
+<h2>L'impact</h2>
+<p>Ce n'est plus constructeur vs constructeur, c'est écosystème vs produit isolé. VW, Renault et Stellantis ne peuvent pas reproduire cette intégration.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/hyperos-xiaomi-voiture-integration-smartphone">HyperOS de Xiaomi</a></li>
+  <li><a href="/actualites/moteurs-roue-xiaomi-revolution-technologique">Moteurs de roue Xiaomi</a></li>
+  <li><a href="/actualites/xiaomi-auto-peut-on-acheter-voiture-fabricant-telephones">Xiaomi Auto en Europe</a></li>
+</ul>
+`,
   },
   {
     slug: 'mg-motor-marque-preferee-jeunes-conducteurs',
@@ -2180,6 +3984,24 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-06-10T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>42 % des acheteurs MG ont moins de 35 ans</h2>
+<p>Chez Renault : 18 %. Chez Peugeot : 15 %. MG a compris quelque chose que les constructeurs historiques n'arrivent pas à reproduire.</p>
+
+<h2>Les raisons</h2>
+<p><strong>Le prix</strong> : MG3 à 19 990 €, MG4 à 28 990 €. Mensualité LOA de 199 €/mois accessible pour les 25-34 ans.</p>
+<p><strong>Le design</strong> : la MG4 ressemble à un objet tech, pas juste une voiture.</p>
+<p><strong>La garantie 7 ans</strong> : supprime l'angoisse du premier achat.</p>
+
+<p>MG a fait ce que Dacia avait fait, mais avec des équipements premium à prix budget.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/mg-motor-heritage-anglais-domination-chinoise">MG Motor : l'héritage anglais</a></li>
+  <li><a href="/actualites/mg3-hybrid-vs-mg4-electric-hybride-ou-electrique">MG3 Hybrid vs MG4</a></li>
+  <li><a href="/actualites/fiabilite-long-terme-mg4-2023-premiers-retours">MG4 : retours fiabilité</a></li>
+</ul>
+`,
   },
   {
     slug: 'byd-vs-volkswagen-bataille-numero-1-mondial',
@@ -2192,6 +4014,26 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-06-03T09:00:00+02:00',
     readingTime: 9,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le basculement historique</h2>
+<p>Au Q4 2024, BYD a vendu plus de véhicules que VW pour la première fois. L'aboutissement d'une stratégie de 20 ans.</p>
+
+<h2>Forces BYD</h2>
+<p>Intégration verticale totale (batteries, puces, moteurs), prix imbattables (Seagull à 9 500 € en Chine), 4-5 nouveaux modèles/an, profitable sur chaque VE.</p>
+
+<h2>Forces VW</h2>
+<p>80 ans d'image, 10 000 concessionnaires européens, expertise multi-motorisations.</p>
+
+<h2>Pronostic</h2>
+<p>BYD dépassera VW en volume mondial d'ici 2027. En Europe, VW gardera l'avantage au moins jusqu'en 2030.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/taxes-europeennes-impact-prix-voitures-chinoises-2026">Taxes européennes</a></li>
+  <li><a href="/actualites/marques-chinoises-production-europe-hongrie-espagne">Production chinoise en Europe</a></li>
+  <li><a href="/actualites/guide-achat-byd-2026-quel-modele-quel-profil">Guide d'achat BYD 2026</a></li>
+</ul>
+`,
   },
   {
     slug: 'voitures-chinoises-occasion-marche-en-expansion',
@@ -2204,6 +4046,27 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-05-27T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Les prix constatés</h2>
+<ul>
+  <li><strong>MG4 (2023, 30 000 km)</strong> : 18 000-20 000 € (-30-35 %)</li>
+  <li><strong>MG ZS EV (2023)</strong> : 16 000-18 500 € (-35-40 %)</li>
+  <li><strong>BYD Atto 3 (2023)</strong> : 26 000-29 000 € (-25-30 %)</li>
+</ul>
+
+<h2>Les avantages</h2>
+<p>Garantie transférable (MG 7 ans, BYD 6 ans). Batterie LFP BYD : <5 % dégradation après 3 ans. Mises à jour OTA gratuites et suivent le véhicule.</p>
+
+<h2>Verdict</h2>
+<p>Excellent rapport qualité-prix. Garantie longue + batterie durable = achat rationnel.</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/decote-voitures-chinoises-risque-mg-byd-2026">Décote : est-ce risqué ?</a></li>
+  <li><a href="/actualites/voiture-chinoise-occasion-fiabilite">Occasion chinoise : fiabilité</a></li>
+  <li><a href="/actualites/fiabilite-long-terme-mg4-2023-premiers-retours">MG4 : retours fiabilité</a></li>
+</ul>
+`,
   },
   {
     slug: '2026-chine-conquete-coeur-europeens',
@@ -2216,6 +4079,29 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-05-20T09:00:00+02:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Les indicateurs</h2>
+<p>10 % des ventes en Europe occidentale. MG dans le top 10 français. BYD dépasse Fiat et Honda. Zeekr et NIO s'installent dans le premium.</p>
+
+<h2>5 signes du point de non-retour</h2>
+<ol>
+  <li>Sécurité : 5 étoiles NCAP pour tous les modèles majeurs</li>
+  <li>SAV : MG 200+ points, BYD 80+ en France</li>
+  <li>Flottes : Arval et ALD proposent MG et BYD</li>
+  <li>Occasion : reventes à prix raisonnables</li>
+  <li>Production locale : Hongrie, Espagne, Pologne</li>
+</ol>
+
+<h2>Verdict</h2>
+<p>Oui, 2026 marque le point de non-retour. La question n'est plus "faut-il acheter chinois ?" mais "quel modèle chinois choisir ?".</p>
+
+<h3>À lire aussi</h3>
+<ul>
+  <li><a href="/actualites/byd-vs-volkswagen-bataille-numero-1-mondial">BYD vs Volkswagen</a></li>
+  <li><a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">Sécurité des voitures chinoises</a></li>
+  <li><a href="/actualites/taxes-europeennes-impact-prix-voitures-chinoises-2026">Taxes européennes</a></li>
+</ul>
+`,
   },
 ];
 
