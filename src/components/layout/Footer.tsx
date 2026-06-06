@@ -22,6 +22,8 @@ const footerNavigation = {
     { name: 'À propos', href: '/a-propos' },
     { name: 'Contact', href: '/contact' },
     { name: 'Mentions légales', href: '/mentions-legales' },
+    { name: 'Politique de confidentialité', href: '/politique-de-confidentialite' },
+    { name: 'CGU', href: '/conditions-generales' },
   ],
   social: [
     { name: 'Facebook', href: '#', icon: Facebook },

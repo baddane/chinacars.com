@@ -58,6 +58,16 @@ export default function LegalNoticePage() {
             de suppression des données vous concernant. Pour l&apos;exercer,
             contactez-nous à l&apos;adresse indiquée ci-dessus.
           </p>
+          <p>
+            Pour plus de détails, consultez notre{' '}
+            <a href="/politique-de-confidentialite" className="text-red-600 hover:underline">
+              Politique de confidentialité
+            </a>{' '}
+            et nos{' '}
+            <a href="/conditions-generales" className="text-red-600 hover:underline">
+              Conditions générales d&apos;utilisation
+            </a>.
+          </p>
 
           <h2 className="mt-10 text-xl font-bold text-gray-900">Cookies</h2>
           <p>

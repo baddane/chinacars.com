@@ -19,6 +19,8 @@ const staticRoutes: Array<{
   { path: '/a-propos', changeFrequency: 'monthly', priority: 0.3, lastModified: new Date('2025-05-01') },
   { path: '/contact', changeFrequency: 'yearly', priority: 0.3, lastModified: new Date('2025-05-01') },
   { path: '/mentions-legales', changeFrequency: 'yearly', priority: 0.1, lastModified: new Date('2025-05-01') },
+  { path: '/politique-de-confidentialite', changeFrequency: 'yearly', priority: 0.2, lastModified: new Date('2025-06-01') },
+  { path: '/conditions-generales', changeFrequency: 'yearly', priority: 0.2, lastModified: new Date('2025-06-01') },
 ];
 
 export default function sitemap(): MetadataRoute.Sitemap {
