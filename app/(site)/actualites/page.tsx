@@ -19,6 +19,16 @@ export function generateMetadata({ searchParams }: PageProps): Metadata {
     description:
       "Toute l'actualité des voitures chinoises : nouveautés, lancements, prix, tendances du marché et analyses du secteur automobile chinois.",
     alternates: { canonical },
+    openGraph: {
+      title,
+      description: "Toute l'actualité des voitures chinoises : nouveautés, lancements, prix et analyses du marché.",
+      type: 'website',
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title,
+      description: "Toute l'actualité des voitures chinoises.",
+    },
   };
 }
 

@@ -31,6 +31,16 @@ export const metadata: Metadata = {
   description:
     'Découvrez toutes les marques de voitures chinoises : BYD, MG, Chery, Geely, GWM, Zeekr, NIO, XPeng, Leapmotor. Fiches constructeurs et gammes complètes.',
   alternates: { canonical: '/marques' },
+  openGraph: {
+    title: 'Marques de voitures chinoises — Tous les constructeurs',
+    description: 'BYD, MG, Chery, Geely, GWM, Zeekr, NIO, XPeng, Leapmotor : fiches constructeurs et gammes complètes.',
+    type: 'website',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Marques de voitures chinoises',
+    description: 'Tous les constructeurs automobiles chinois : fiches et gammes.',
+  },
 };
 
 export default function BrandsPage() {

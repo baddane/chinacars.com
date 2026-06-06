@@ -6,6 +6,16 @@ export const metadata: Metadata = {
   description:
     'Mentions légales, informations sur l\'éditeur, l\'hébergeur et la politique de confidentialité et de protection des données personnelles du site Véhicules Chinois.',
   alternates: { canonical: '/mentions-legales' },
+  openGraph: {
+    title: 'Mentions légales — Véhicules Chinois',
+    description: 'Informations légales sur l\'éditeur et l\'hébergeur du site Véhicules Chinois.',
+    type: 'website',
+  },
+  twitter: {
+    card: 'summary',
+    title: 'Mentions légales — Véhicules Chinois',
+    description: 'Informations légales du site Véhicules Chinois.',
+  },
 };
 
 export default function LegalNoticePage() {

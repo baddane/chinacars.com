@@ -24,6 +24,16 @@ export function generateMetadata({ params }: PageProps): Metadata {
     title: `${brand.name} — Modèles, prix et actualités au Maroc`,
     description: `Découvrez tous les modèles ${brand.name} disponibles au Maroc, leurs prix, leurs caractéristiques et les dernières actualités.`,
     alternates: { canonical: `/marques/${brand.slug}` },
+    openGraph: {
+      title: `${brand.name} — Modèles, prix et actualités`,
+      description: `Tous les modèles ${brand.name} : prix, caractéristiques et actualités.`,
+      type: 'website',
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: `${brand.name} — Véhicules Chinois`,
+      description: `Modèles ${brand.name} disponibles au Maroc.`,
+    },
   };
 }
 

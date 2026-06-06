@@ -6,6 +6,16 @@ export const metadata: Metadata = {
   description:
     'Politique de confidentialité et de protection des données personnelles du site Véhicules Chinois. Informations sur la collecte, le traitement et la conservation de vos données.',
   alternates: { canonical: '/politique-de-confidentialite' },
+  openGraph: {
+    title: 'Politique de confidentialité — Véhicules Chinois',
+    description: 'Collecte, traitement et conservation de vos données personnelles sur Véhicules Chinois.',
+    type: 'website',
+  },
+  twitter: {
+    card: 'summary',
+    title: 'Politique de confidentialité — Véhicules Chinois',
+    description: 'Politique de protection des données personnelles.',
+  },
 };
 
 export default function PrivacyPolicyPage() {

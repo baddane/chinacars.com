@@ -8,6 +8,16 @@ export const metadata: Metadata = {
   description:
     'Contactez la rédaction Véhicules Chinois pour toute question, suggestion ou demande de partenariat.',
   alternates: { canonical: '/contact' },
+  openGraph: {
+    title: 'Contact — Véhicules Chinois',
+    description: 'Contactez la rédaction Véhicules Chinois pour toute question ou demande de partenariat.',
+    type: 'website',
+  },
+  twitter: {
+    card: 'summary',
+    title: 'Contact — Véhicules Chinois',
+    description: 'Contactez la rédaction Véhicules Chinois.',
+  },
 };
 
 export default function ContactPage() {

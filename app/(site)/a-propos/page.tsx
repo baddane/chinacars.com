@@ -27,6 +27,16 @@ export const metadata: Metadata = {
   description:
     "Véhicules Chinois est le média indépendant de référence sur l'automobile chinoise dans le monde francophone.",
   alternates: { canonical: '/a-propos' },
+  openGraph: {
+    title: 'À propos — Véhicules Chinois',
+    description: "Le média indépendant de référence sur l'automobile chinoise dans le monde francophone.",
+    type: 'website',
+  },
+  twitter: {
+    card: 'summary',
+    title: 'À propos — Véhicules Chinois',
+    description: "Le média indépendant de référence sur l'automobile chinoise.",
+  },
 };
 
 export default function AboutPage() {

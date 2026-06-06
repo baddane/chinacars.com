@@ -6,6 +6,16 @@ export const metadata: Metadata = {
   description:
     "Conditions générales d'utilisation du site Véhicules Chinois. Règles d'accès, responsabilités et droits de propriété intellectuelle.",
   alternates: { canonical: '/conditions-generales' },
+  openGraph: {
+    title: "CGU — Véhicules Chinois",
+    description: "Conditions générales d'utilisation du site Véhicules Chinois.",
+    type: 'website',
+  },
+  twitter: {
+    card: 'summary',
+    title: "CGU — Véhicules Chinois",
+    description: "Conditions générales d'utilisation.",
+  },
 };
 
 export default function TermsPage() {

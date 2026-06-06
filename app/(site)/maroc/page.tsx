@@ -7,6 +7,16 @@ export const metadata: Metadata = {
   description:
     "Prix en dirhams, réseau de concessionnaires, garanties et homologation : tout savoir sur les voitures chinoises disponibles au Maroc.",
   alternates: { canonical: '/maroc' },
+  openGraph: {
+    title: 'Voitures chinoises au Maroc — Prix, disponibilité et réseau',
+    description: "Prix en dirhams, réseau de concessionnaires, garanties et homologation : tout savoir sur les voitures chinoises disponibles au Maroc.",
+    type: 'website',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Voitures chinoises au Maroc',
+    description: "Tout savoir sur les voitures chinoises disponibles au Maroc.",
+  },
 };
 
 const MAROC_KEYWORDS = [
