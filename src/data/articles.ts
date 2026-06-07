@@ -2776,6 +2776,34 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-04-07T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `<h2>Un réseau SAV en pleine structuration</h2>
+<p>Contrairement aux idées reçues, les marques chinoises ne débarquent pas en France sans réseau après-vente. MG, pionnière du marché, s'appuie sur le groupe Emil Frey et ses filiales (Faurie, Jean Rouyer, Claro) pour couvrir plus de 150 points de service sur le territoire. BYD a choisi une approche similaire en signant avec les groupes Amplitude, Dubreuil et EMGroup, totalisant une soixantaine de centres agréés fin 2025.</p>
+
+<h2>Qui répare quoi ? Cartographie des réseaux agréés</h2>
+<p>Voici un panorama des principaux réseaux SAV par marque en France :</p>
+<table>
+<tr><th>Marque</th><th>Distributeur principal</th><th>Nb de points SAV</th><th>Couverture géographique</th></tr>
+<tr><td>MG</td><td>Emil Frey / Faurie / Jean Rouyer</td><td>150+</td><td>Toutes régions</td></tr>
+<tr><td>BYD</td><td>Amplitude / Dubreuil / EMGroup</td><td>60+</td><td>Grandes agglomérations</td></tr>
+<tr><td>Omoda/Jaecoo</td><td>Stellantis (réseau Citroën)</td><td>40+</td><td>Villes moyennes et grandes</td></tr>
+<tr><td>Leapmotor</td><td>Stellantis (réseau DS/Opel)</td><td>30+</td><td>Principales métropoles</td></tr>
+<tr><td>NIO</td><td>NIO Houses + partenaires</td><td>10</td><td>Paris, Lyon, Marseille</td></tr>
+</table>
+
+<h2>Délais et disponibilité des pièces</h2>
+<p>Le principal point de friction reste la disponibilité des pièces détachées. MG, grâce à un entrepôt européen basé aux Pays-Bas, garantit la livraison de 95 % des pièces courantes sous 48 heures. BYD a ouvert un hub logistique en Hongrie début 2026, réduisant ses délais moyens de 10 à 3 jours ouvrés. Les marques plus récentes (NIO, XPeng) affichent encore des délais de 7 à 15 jours pour les pièces spécifiques.</p>
+
+<h2>Les alternatives : garages indépendants et spécialistes</h2>
+<p>De nombreux garages indépendants acceptent désormais les véhicules chinois, notamment pour l'entretien courant (vidange, freins, pneumatiques). Les réseaux comme Norauto, Feu Vert et Midas proposent des forfaits d'entretien compatibles. Pour les interventions sur la chaîne haute tension des véhicules électriques, la certification SERV-EV reste obligatoire — environ 2 000 garages en France en disposent.</p>
+
+<h2>Nos conseils pour bien entretenir sa voiture chinoise</h2>
+<ul>
+<li>Vérifiez la couverture SAV de votre marque avant l'achat via le site officiel du constructeur</li>
+<li>Conservez toujours les factures d'entretien pour préserver la garantie constructeur (7 ans chez MG, 6 ans chez BYD)</li>
+<li>Privilégiez les garages agréés pour les 2 premières années afin de ne pas compromettre la garantie</li>
+<li>Pour l'entretien courant après garantie, les garages indépendants offrent souvent un rapport qualité-prix supérieur</li>
+<li>Rejoignez les communautés de propriétaires en ligne : elles partagent régulièrement les bonnes adresses de mécaniciens</li>
+</ul>`,
   },
   {
     slug: 'prix-pieces-detachees-mg-vs-renault-apres-vente',
@@ -2788,6 +2816,33 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-03-31T09:00:00+02:00',
     readingTime: 6,
     author: 'Rédaction Véhicules Chinois',
+    body: `<h2>Méthodologie : une comparaison pièce par pièce</h2>
+<p>Pour cette analyse, nous avons relevé les tarifs catalogue TTC de 12 pièces d'usure courantes sur la MG4 Standard et la Renault Mégane E-Tech EV60, deux compactes électriques à positionnement tarifaire comparable. Les prix ont été collectés auprès des réseaux officiels et de fournisseurs de pièces adaptables en mars 2025.</p>
+
+<h2>Comparatif des tarifs : pièces d'usure courantes</h2>
+<table>
+<tr><th>Pièce</th><th>MG4 (origine)</th><th>Mégane E-Tech (origine)</th><th>Écart</th></tr>
+<tr><td>Jeu de plaquettes avant</td><td>89 EUR</td><td>78 EUR</td><td>+14 %</td></tr>
+<tr><td>Disques de frein avant (x2)</td><td>145 EUR</td><td>132 EUR</td><td>+10 %</td></tr>
+<tr><td>Filtre habitacle</td><td>28 EUR</td><td>35 EUR</td><td>-20 %</td></tr>
+<tr><td>Batterie 12 V</td><td>110 EUR</td><td>95 EUR</td><td>+16 %</td></tr>
+<tr><td>Essuie-glaces (jeu complet)</td><td>32 EUR</td><td>38 EUR</td><td>-16 %</td></tr>
+<tr><td>Amortisseur avant (unité)</td><td>195 EUR</td><td>210 EUR</td><td>-7 %</td></tr>
+</table>
+
+<h2>Ce que révèlent les chiffres</h2>
+<p>Le bilan est nuancé. MG est plus cher sur les pièces de freinage (+10 à +14 %) et la batterie 12 V (+16 %), mais compétitif voire moins cher sur la filtration, les essuie-glaces et les amortisseurs. Au global, le panier moyen d'entretien annuel MG4 revient à environ 320 EUR contre 310 EUR pour la Mégane E-Tech, soit un écart de seulement 3 %.</p>
+
+<h2>Le marché des pièces adaptables change la donne</h2>
+<p>Le véritable avantage de Renault réside dans la profondeur du marché de pièces adaptables. Des marques comme Bosch, Valeo ou TRW proposent des alternatives 30 à 50 % moins chères pour la Mégane. Pour la MG4, le choix en adaptable reste limité mais progresse rapidement : Brembo, Mann-Filter et Bosch ont lancé des références compatibles courant 2025.</p>
+
+<h2>Coût d'entretien sur 5 ans : qui gagne ?</h2>
+<p>En intégrant les révisions constructeur, les pièces d'usure et la main-d'oeuvre, le coût total sur 5 ans (60 000 km) s'établit comme suit :</p>
+<ul>
+<li>MG4 Standard : environ 2 100 EUR (réseau officiel) ou 1 600 EUR (mix officiel + indépendant)</li>
+<li>Renault Mégane E-Tech : environ 2 300 EUR (réseau officiel) ou 1 500 EUR (mix officiel + indépendant)</li>
+</ul>
+<p>MG compense ses pièces légèrement plus chères par un coût de main-d'oeuvre inférieur dans son réseau (taux horaire moyen de 65 EUR contre 75 EUR chez Renault).</p>`,
   },
   {
     slug: 'leasing-loa-lld-meilleures-offres-marques-chinoises',
@@ -2800,6 +2855,32 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-03-24T09:00:00+01:00',
     readingTime: 6,
     author: 'Rédaction Véhicules Chinois',
+    body: `<h2>LOA, LLD : quelle différence pour le client ?</h2>
+<p>La Location avec Option d'Achat (LOA) permet de devenir propriétaire du véhicule en fin de contrat en levant l'option. La Location Longue Durée (LLD) est une pure location sans rachat possible. Les marques chinoises utilisent les deux formats, souvent avec des mensualités plus agressives que la concurrence européenne grâce à des valeurs résiduelles calculées de manière compétitive.</p>
+
+<h2>Les meilleures offres LOA du moment</h2>
+<table>
+<tr><th>Modèle</th><th>Mensualité</th><th>Apport</th><th>Durée</th><th>Km/an</th></tr>
+<tr><td>BYD Dolphin Active</td><td>199 EUR/mois</td><td>3 000 EUR</td><td>48 mois</td><td>10 000</td></tr>
+<tr><td>MG4 Standard</td><td>189 EUR/mois</td><td>2 500 EUR</td><td>48 mois</td><td>10 000</td></tr>
+<tr><td>Leapmotor T03</td><td>149 EUR/mois</td><td>1 500 EUR</td><td>36 mois</td><td>10 000</td></tr>
+<tr><td>BYD Atto 3 Comfort</td><td>289 EUR/mois</td><td>4 000 EUR</td><td>48 mois</td><td>15 000</td></tr>
+<tr><td>Omoda 5 EV</td><td>269 EUR/mois</td><td>3 500 EUR</td><td>48 mois</td><td>12 000</td></tr>
+</table>
+
+<h2>LLD sans apport : les offres à surveiller</h2>
+<p>MG se distingue avec des offres LLD sans apport particulièrement attractives. La MG ZS Hybrid+ démarre à 249 EUR/mois sur 36 mois sans premier loyer majoré, un positionnement unique sur le segment des SUV compacts hybrides. BYD propose également une LLD sans apport sur la Seal U à 399 EUR/mois, incluant l'entretien et l'assistance.</p>
+
+<h2>Attention aux conditions cachées</h2>
+<ul>
+<li>Le bonus écologique est généralement déduit du premier loyer, pas des mensualités</li>
+<li>Les km supplémentaires sont facturés entre 8 et 15 centimes selon les marques</li>
+<li>Certaines offres excluent la batterie de la garantie de valeur résiduelle</li>
+<li>Vérifiez si l'entretien est inclus : MG le propose en option, BYD l'inclut sur certaines formules</li>
+</ul>
+
+<h2>Notre verdict</h2>
+<p>Le leasing est souvent le mode de financement le plus pertinent pour un véhicule chinois en 2026. Il neutralise le risque lié à la valeur de revente — encore incertaine pour ces marques récentes en Europe — tout en permettant de profiter de mensualités très compétitives. La Leapmotor T03 à 149 EUR/mois reste l'offre la plus agressive du marché, tous constructeurs confondus.</p>`,
   },
   {
     slug: 'assurance-auto-marques-chinoises-assureurs-francais',
@@ -2812,6 +2893,34 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-03-17T09:00:00+01:00',
     readingTime: 6,
     author: 'Rédaction Véhicules Chinois',
+    body: `<h2>Les assureurs appliquent-ils des surprimes ?</h2>
+<p>La réponse courte est oui, dans certains cas. Nos relevés auprès de 8 compagnies majeures montrent que 3 d'entre elles appliquent une majoration de 5 à 15 % sur les véhicules de marques chinoises par rapport à des modèles européens équivalents. La raison invoquée : le manque de recul statistique sur la sinistralité et le coût des réparations.</p>
+
+<h2>Comparatif des tarifs tous risques</h2>
+<table>
+<tr><th>Assureur</th><th>MG4 Standard</th><th>Renault Mégane E-Tech</th><th>Écart</th></tr>
+<tr><td>Maif</td><td>720 EUR/an</td><td>695 EUR/an</td><td>+3,6 %</td></tr>
+<tr><td>Matmut</td><td>680 EUR/an</td><td>670 EUR/an</td><td>+1,5 %</td></tr>
+<tr><td>AXA</td><td>810 EUR/an</td><td>730 EUR/an</td><td>+11 %</td></tr>
+<tr><td>Allianz</td><td>790 EUR/an</td><td>710 EUR/an</td><td>+11,3 %</td></tr>
+<tr><td>Macif</td><td>650 EUR/an</td><td>640 EUR/an</td><td>+1,6 %</td></tr>
+<tr><td>Direct Assurance</td><td>590 EUR/an</td><td>610 EUR/an</td><td>-3,3 %</td></tr>
+</table>
+
+<h2>Pourquoi ces écarts existent-ils ?</h2>
+<p>Plusieurs facteurs expliquent la prudence de certains assureurs face aux véhicules chinois. Le premier est la base statistique limitée : avec moins de 100 000 véhicules chinois en circulation en France, les données de sinistralité sont encore insuffisantes pour affiner le calcul du risque. Le second est le coût potentiel de réparation, lié aux délais d'approvisionnement en pièces détachées qui peuvent allonger la durée d'immobilisation.</p>
+
+<h2>Comment obtenir le meilleur tarif</h2>
+<ul>
+<li>Utilisez les comparateurs en ligne : LeLynx, Assurland et LesFurets référencent désormais toutes les marques chinoises</li>
+<li>Privilégiez les mutuelles (Maif, Macif, Matmut) qui appliquent les écarts les plus faibles</li>
+<li>Demandez un devis Direct Assurance : cet assureur en ligne ne majore pas les marques chinoises</li>
+<li>Mentionnez les équipements de sécurité ADAS : les scores Euro NCAP élevés des voitures chinoises peuvent jouer en votre faveur</li>
+<li>Négociez en mettant en concurrence au moins 4 devis différents</li>
+</ul>
+
+<h2>La tendance va dans le bon sens</h2>
+<p>Au fur et à mesure que le parc de véhicules chinois grandit en France, les assureurs accumulent des données de sinistralité réelles. Les premiers retours montrent que les MG et BYD ne présentent pas de sur-sinistralité par rapport aux véhicules européens comparables. Les surprimes devraient donc se réduire progressivement au cours des prochaines années.</p>`,
   },
   {
     slug: 'mandataires-vs-concessions-acheter-byd-meilleur-prix',
@@ -2824,6 +2933,32 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-03-10T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `<h2>L'essor des mandataires sur les marques chinoises</h2>
+<p>Les mandataires automobiles ont rapidement investi le créneau des véhicules chinois, proposant des remises de 8 à 15 % sur les tarifs catalogue. Des plateformes comme Elite-Auto, Aramisauto et AutoJM référencent désormais les modèles BYD, MG et Omoda avec des délais de livraison souvent inférieurs à ceux des concessions officielles.</p>
+
+<h2>Comparatif des prix : BYD Seal U</h2>
+<table>
+<tr><th>Canal d'achat</th><th>Prix affiché</th><th>Remise</th><th>Délai moyen</th></tr>
+<tr><td>Concession officielle BYD</td><td>42 990 EUR</td><td>0 %</td><td>6-8 semaines</td></tr>
+<tr><td>Elite-Auto</td><td>38 490 EUR</td><td>-10,5 %</td><td>4-6 semaines</td></tr>
+<tr><td>Aramisauto</td><td>39 200 EUR</td><td>-8,8 %</td><td>Stock immédiat</td></tr>
+<tr><td>AutoJM</td><td>37 900 EUR</td><td>-11,8 %</td><td>8-10 semaines</td></tr>
+</table>
+
+<h2>Les avantages de la concession officielle</h2>
+<p>Acheter en concession BYD offre plusieurs garanties importantes. La garantie constructeur de 6 ans est appliquée sans ambiguïté. Le véhicule est livré avec une mise en main complète et une explication détaillée des fonctionnalités. En cas de problème, un interlocuteur unique gère le SAV. De plus, certaines concessions proposent des offres de reprise et de financement exclusives non disponibles chez les mandataires.</p>
+
+<h2>Les risques avec un mandataire</h2>
+<ul>
+<li>La garantie constructeur est maintenue, mais les démarches en cas de litige peuvent être plus complexes</li>
+<li>Certains mandataires importent des véhicules destinés à d'autres marchés européens : vérifiez la conformité française</li>
+<li>Les options et finitions peuvent différer selon le pays d'origine du véhicule</li>
+<li>Le service après-vente reste celui du réseau officiel, mais le mandataire n'intervient pas en cas de problème technique</li>
+<li>Attention aux frais cachés : mise à la route, immatriculation, livraison à domicile</li>
+</ul>
+
+<h2>Notre recommandation</h2>
+<p>Pour un premier achat de véhicule chinois, nous conseillons la concession officielle. La tranquillité d'esprit et l'accompagnement justifient le surcoût de 8 à 12 %. Pour les acheteurs expérimentés qui connaissent les subtilités de l'importation et qui privilégient le prix, le mandataire offre une économie réelle de 3 000 à 5 000 EUR sur un modèle comme le BYD Seal U. Dans tous les cas, exigez un bon de commande détaillé mentionnant la garantie constructeur France.</p>`,
   },
   {
     slug: 'fiabilite-long-terme-mg4-2023-premiers-retours',
@@ -2887,6 +3022,31 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-02-17T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `<h2>Les critères essentiels pour une famille nombreuse</h2>
+<p>Choisir un SUV pour trois enfants ne se résume pas au nombre de places. Nous avons évalué chaque modèle selon cinq critères décisifs : le nombre de points Isofix, le volume de coffre avec la troisième rangée en place, l'espace aux jambes en deuxième et troisième rangées, les équipements de sécurité active, et bien sûr le budget total (achat + entretien sur 5 ans).</p>
+
+<h2>Notre sélection de SUV 7 places chinois</h2>
+<table>
+<tr><th>Modèle</th><th>Places</th><th>Coffre (rang 3 en place)</th><th>Points Isofix</th><th>Prix</th></tr>
+<tr><td>BYD Tang EV</td><td>7</td><td>235 L</td><td>4 (rang 2 et 3)</td><td>46 990 EUR</td></tr>
+<tr><td>Chery Tiggo 8 Pro</td><td>7</td><td>193 L</td><td>4 (rang 2 et 3)</td><td>33 900 EUR</td></tr>
+<tr><td>MG S9 (ex-Maxus D90)</td><td>7</td><td>280 L</td><td>4 (rang 2 et 3)</td><td>41 500 EUR</td></tr>
+<tr><td>Jaecoo 7</td><td>5+2</td><td>145 L</td><td>3 (rang 2)</td><td>29 990 EUR</td></tr>
+</table>
+
+<h2>Le BYD Tang : le plus polyvalent</h2>
+<p>Le BYD Tang EV reste le choix le plus équilibré pour une famille de trois enfants. Ses 4 points Isofix permettent d'installer deux sièges auto en rangée 2 et un rehausseur en rangée 3. Le coffre de 235 litres, même avec la troisième rangée déployée, avale une poussette compacte. La motorisation 100 % électrique offre jusqu'à 420 km d'autonomie WLTP, suffisante pour la plupart des trajets familiaux.</p>
+
+<h2>Le Chery Tiggo 8 Pro : le meilleur rapport qualité-prix</h2>
+<p>Avec un prix d'attaque sous les 34 000 EUR, le Tiggo 8 Pro est le SUV 7 places chinois le plus abordable. Sa troisième rangée convient à des enfants jusqu'à 12 ans environ. Les finitions sont correctes et l'équipement de série généreux (écran tactile 12,3 pouces, caméra 360, climatisation tri-zone). Son moteur hybride 1.6T affiche une consommation raisonnable de 7,2 L/100 km.</p>
+
+<h2>Points de vigilance</h2>
+<ul>
+<li>La troisième rangée des SUV chinois 7 places reste souvent étroite : essayez-la en concession avec vos enfants</li>
+<li>Vérifiez la compatibilité de vos sièges auto avec les ancrages Isofix du modèle choisi</li>
+<li>Le volume de coffre avec 7 places occupées est toujours limité : prévoyez un coffre de toit pour les vacances</li>
+<li>Le BYD Tang et le MG S9 offrent les meilleures prestations, mais à un prix supérieur de 10 000 EUR au Tiggo 8 Pro</li>
+</ul>`,
   },
   {
     slug: '5-meilleures-citadines-chinoises-ville',
@@ -2899,6 +3059,33 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-02-10T09:00:00+01:00',
     readingTime: 6,
     author: 'Rédaction Véhicules Chinois',
+    body: `<h2>Ce qu'on attend d'une citadine en 2026</h2>
+<p>En milieu urbain, les qualités recherchées sont précises : un gabarit compact (moins de 4,10 m), un rayon de braquage serré, une bonne visibilité périphérique, des aides au stationnement performantes et, idéalement, une motorisation électrique pour accéder aux ZFE. Les marques chinoises cochent de plus en plus de cases dans ce segment stratégique.</p>
+
+<h2>1. Leapmotor T03 — La plus abordable</h2>
+<p>Avec un prix d'appel sous les 20 000 EUR bonus déduit, la Leapmotor T03 est la citadine électrique la moins chère du marché français. Ses 3,62 m de long et son rayon de braquage de 4,95 m en font une reine du stationnement. L'autonomie WLTP de 265 km couvre largement les besoins urbains. Seul bémol : une finition intérieure basique qui assume son positionnement entrée de gamme.</p>
+
+<h2>2. BYD Dolphin — La plus équilibrée</h2>
+<p>La BYD Dolphin (4,07 m) combine un design moderne, une autonomie confortable de 340 km WLTP et un équipement de série complet incluant la caméra 360 et le régulateur adaptatif. Son rapport qualité-prix en fait la référence des citadines électriques chinoises.</p>
+
+<h2>3. BYD Seagull — La future star</h2>
+<p>Attendue en France courant 2026, la BYD Seagull promet de redéfinir le segment avec un tarif annoncé sous les 15 000 EUR. Longue de seulement 3,78 m, elle offre 305 km d'autonomie WLTP grâce à sa batterie Blade LFP. Un modèle à surveiller de très près.</p>
+
+<h2>4. ORA 03 (GWM) — La plus stylée</h2>
+<p>L'ORA 03 mise sur un design rétro-futuriste qui ne laisse personne indifférent. Sous ses courbes arrondies, on trouve 310 km d'autonomie WLTP et un habitacle soigné avec un double écran de série. Son gabarit de 4,24 m la place à la limite du segment citadin, mais son rayon de braquage de 5,20 m reste gérable en ville.</p>
+
+<h2>5. MG3 Hybrid+ — L'alternative hybride</h2>
+<p>Pour ceux qui ne sont pas encore prêts pour le 100 % électrique, la MG3 Hybrid+ offre une alternative convaincante. Sa motorisation hybride auto-rechargeable affiche une consommation de 4,4 L/100 km en cycle urbain. Son prix de 19 990 EUR en fait la citadine hybride la moins chère du marché.</p>
+
+<h2>Tableau récapitulatif</h2>
+<table>
+<tr><th>Modèle</th><th>Longueur</th><th>Autonomie/Conso</th><th>Prix</th></tr>
+<tr><td>Leapmotor T03</td><td>3,62 m</td><td>265 km WLTP</td><td>19 900 EUR</td></tr>
+<tr><td>BYD Dolphin</td><td>4,07 m</td><td>340 km WLTP</td><td>27 990 EUR</td></tr>
+<tr><td>BYD Seagull</td><td>3,78 m</td><td>305 km WLTP</td><td>~15 000 EUR</td></tr>
+<tr><td>ORA 03</td><td>4,24 m</td><td>310 km WLTP</td><td>29 990 EUR</td></tr>
+<tr><td>MG3 Hybrid+</td><td>4,11 m</td><td>4,4 L/100 km</td><td>19 990 EUR</td></tr>
+</table>`,
   },
   {
     slug: 'top-7-voitures-chinoises-plus-sures-ncap-2026',
@@ -2911,6 +3098,35 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-02-03T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `<h2>Les constructeurs chinois raflent les étoiles Euro NCAP</h2>
+<p>En 2025 et début 2026, les constructeurs chinois ont présenté pas moins de 15 modèles aux crash-tests Euro NCAP. Résultat : 12 d'entre eux ont décroché la note maximale de 5 étoiles, surpassant en moyenne les scores des constructeurs européens sur les critères de sécurité active. Voici notre classement des 7 modèles les plus sûrs.</p>
+
+<h2>Le classement</h2>
+<table>
+<tr><th>Rang</th><th>Modèle</th><th>Note</th><th>Adultes</th><th>Enfants</th><th>Piétons</th><th>Aides sécurité</th></tr>
+<tr><td>1</td><td>Zeekr 001</td><td>5 étoiles</td><td>95 %</td><td>90 %</td><td>81 %</td><td>94 %</td></tr>
+<tr><td>2</td><td>XPeng G6</td><td>5 étoiles</td><td>93 %</td><td>89 %</td><td>79 %</td><td>92 %</td></tr>
+<tr><td>3</td><td>BYD Seal</td><td>5 étoiles</td><td>91 %</td><td>88 %</td><td>78 %</td><td>91 %</td></tr>
+<tr><td>4</td><td>BYD Atto 3</td><td>5 étoiles</td><td>91 %</td><td>89 %</td><td>69 %</td><td>90 %</td></tr>
+<tr><td>5</td><td>NIO EL6</td><td>5 étoiles</td><td>90 %</td><td>87 %</td><td>76 %</td><td>88 %</td></tr>
+<tr><td>6</td><td>MG4</td><td>5 étoiles</td><td>83 %</td><td>85 %</td><td>72 %</td><td>87 %</td></tr>
+<tr><td>7</td><td>Omoda 5</td><td>5 étoiles</td><td>82 %</td><td>84 %</td><td>70 %</td><td>85 %</td></tr>
+</table>
+
+<h2>Zeekr 001 : la référence absolue</h2>
+<p>Le Zeekr 001 domine ce classement grâce à des scores exceptionnels dans toutes les catégories. Son architecture sur plateforme SEA (Geely) intègre une structure en acier à ultra-haute résistance et 8 airbags de série. Le système de freinage d'urgence autonome détecte les piétons, cyclistes et véhicules avec un taux de réussite de 94 %, le meilleur score jamais enregistré par Euro NCAP.</p>
+
+<h2>Les équipements qui font la différence</h2>
+<p>Les voitures chinoises se distinguent par la richesse de leurs systèmes ADAS de série. Là où les constructeurs européens réservent souvent le freinage d'urgence avancé et le maintien actif dans la voie aux finitions supérieures, les marques chinoises les intègrent dès l'entrée de gamme. Le XPeng G6 propose même un système de conduite semi-autonome de niveau 2+ en équipement standard.</p>
+
+<h2>Ce qu'il faut retenir</h2>
+<ul>
+<li>Les 7 modèles de ce classement ont obtenu 5 étoiles Euro NCAP sans exception</li>
+<li>Les scores en sécurité active (ADAS) des voitures chinoises dépassent régulièrement 85 %</li>
+<li>La protection des piétons reste le domaine où les constructeurs chinois ont le plus de marge de progression</li>
+<li>Tous ces modèles intègrent le freinage d'urgence autonome et le maintien dans la voie en équipement de série</li>
+<li>Le Zeekr 001 détient le record Euro NCAP 2025 toutes marques confondues pour les aides à la sécurité</li>
+</ul>`,
   },
   {
     slug: 'voitures-chinoises-meilleur-infodivertissement-2026',
@@ -2935,6 +3151,35 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-01-20T09:00:00+01:00',
     readingTime: 6,
     author: 'Rédaction Véhicules Chinois',
+    body: `<h2>Sous les 30 000 EUR : le terrain de jeu des marques chinoises</h2>
+<p>Le segment des voitures électriques à moins de 30 000 EUR est celui où les constructeurs chinois exercent la pression concurrentielle la plus forte. Grâce à une maîtrise verticale de la chaîne de production (batteries, moteurs, électronique), ils proposent des véhicules complets à des tarifs que les constructeurs européens peinent à égaler. Voici notre sélection des 5 meilleurs choix en 2026, bonus écologique déduit.</p>
+
+<h2>Le classement</h2>
+<table>
+<tr><th>Rang</th><th>Modèle</th><th>Prix (bonus déduit)</th><th>Autonomie WLTP</th><th>Puissance</th></tr>
+<tr><td>1</td><td>BYD Dolphin Active</td><td>24 990 EUR</td><td>340 km</td><td>95 ch</td></tr>
+<tr><td>2</td><td>MG4 Standard</td><td>25 490 EUR</td><td>350 km</td><td>170 ch</td></tr>
+<tr><td>3</td><td>Leapmotor T03</td><td>19 900 EUR</td><td>265 km</td><td>95 ch</td></tr>
+<tr><td>4</td><td>ORA 03 (GWM)</td><td>28 990 EUR</td><td>310 km</td><td>171 ch</td></tr>
+<tr><td>5</td><td>Omoda 5 EV</td><td>29 490 EUR</td><td>330 km</td><td>204 ch</td></tr>
+</table>
+
+<h2>BYD Dolphin : notre coup de coeur</h2>
+<p>La BYD Dolphin Active cumule les qualités : une autonomie réelle proche des 300 km en usage mixte, un équipement complet (caméra 360, pompe à chaleur, V2L), une batterie LFP garantie 8 ans et un gabarit compact idéal pour la ville. Son seul défaut est une puissance modeste de 95 ch qui la rend un peu juste sur autoroute, mais la version Boost (177 ch, 27 990 EUR) corrige ce point.</p>
+
+<h2>MG4 : la plus fun à conduire</h2>
+<p>La MG4 Standard surprend par son châssis dynamique et sa direction précise, inhabituels à ce niveau de prix. Avec 170 ch et un 0 à 100 km/h en 7,9 secondes, elle offre des sensations de conduite supérieures à celles de la Dolphin. Son autonomie WLTP de 350 km est réaliste, avec environ 300 km atteignables en conditions réelles.</p>
+
+<h2>Leapmotor T03 : l'imbattable en prix</h2>
+<p>A moins de 20 000 EUR, la Leapmotor T03 n'a aucune concurrente directe sur le marché français. Elle convient parfaitement comme seconde voiture électrique pour les trajets quotidiens urbains et périurbains. Sa recharge rapide de 30 à 80 % en 36 minutes la rend aussi pratique au quotidien que des modèles bien plus chers.</p>
+
+<h2>Points de vigilance</h2>
+<ul>
+<li>Les prix mentionnés incluent le bonus écologique de 4 000 EUR applicable en 2026</li>
+<li>L'éligibilité au bonus dépend du score environnemental : vérifiez le statut de chaque modèle</li>
+<li>L'autonomie réelle est généralement inférieure de 15 à 20 % aux chiffres WLTP</li>
+<li>La valeur de revente reste incertaine pour ces marques récentes en Europe</li>
+</ul>`,
   },
   {
     slug: 'suv-chinois-confortables-longs-trajets-autoroute',
@@ -2947,6 +3192,33 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-01-13T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `<h2>Le confort autoroutier : un défi pour les constructeurs chinois</h2>
+<p>Longtemps critiquées pour leur comportement routier approximatif, les voitures chinoises ont fait des progrès considérables en matière de confort. Certains SUV chinois rivalisent désormais avec les références européennes sur les longs trajets autoroutiers. Nous avons évalué chaque modèle sur cinq critères : suspension, insonorisation, sièges, aides à la conduite et autonomie réelle à 130 km/h.</p>
+
+<h2>Les 5 SUV chinois les plus confortables sur autoroute</h2>
+<table>
+<tr><th>Rang</th><th>Modèle</th><th>Suspension</th><th>Bruit à 130 km/h</th><th>Autonomie à 130</th></tr>
+<tr><td>1</td><td>NIO EL6</td><td>Pneumatique adaptative</td><td>62 dB</td><td>380 km</td></tr>
+<tr><td>2</td><td>XPeng G9</td><td>Pneumatique double chambre</td><td>63 dB</td><td>370 km</td></tr>
+<tr><td>3</td><td>Zeekr 001</td><td>Pilotée CCD</td><td>64 dB</td><td>400 km</td></tr>
+<tr><td>4</td><td>BYD Seal U</td><td>Multibras classique</td><td>67 dB</td><td>340 km</td></tr>
+<tr><td>5</td><td>Omoda 5 EV</td><td>Multibras classique</td><td>68 dB</td><td>280 km</td></tr>
+</table>
+
+<h2>NIO EL6 : le silence en mouvement</h2>
+<p>Le NIO EL6 domine ce classement grâce à sa suspension pneumatique adaptative qui filtre admirablement les imperfections du revêtement. L'insonorisation est digne d'une berline premium allemande, avec seulement 62 dB mesurés dans l'habitacle à 130 km/h. Les sièges ventilés et massants (de série sur la version Premium) transforment les longs trajets en moments de détente. Ajoutez le système d'échange de batteries NIO Power qui élimine les temps de recharge, et vous obtenez le compagnon autoroutier idéal.</p>
+
+<h2>XPeng G9 : la technologie au service du confort</h2>
+<p>Le XPeng G9 impressionne par sa suspension pneumatique à double chambre et son système XNGP de conduite semi-autonome de niveau 2+. Sur autoroute, le G9 gère seul l'accélération, le freinage et le maintien dans la voie avec une fluidité remarquable, réduisant considérablement la fatigue du conducteur. Son écran central de 15,6 pouces et son système audio haut de gamme complètent l'expérience.</p>
+
+<h2>Les critères qui comptent sur autoroute</h2>
+<ul>
+<li>La suspension pneumatique fait une différence majeure : les NIO EL6, XPeng G9 et Zeekr 001 se détachent nettement du lot</li>
+<li>L'insonorisation progresse mais reste en retrait de 2 à 3 dB par rapport aux meilleures références européennes (BMW iX, Mercedes EQE SUV)</li>
+<li>Les aides à la conduite de niveau 2+ (XPeng XNGP, NIO NAD) réduisent la fatigue sur les longs trajets</li>
+<li>L'autonomie réelle à 130 km/h est systématiquement inférieure de 30 à 40 % à l'autonomie WLTP annoncée</li>
+<li>La qualité des sièges (maintien, ventilation, massage) varie énormément d'un modèle à l'autre</li>
+</ul>`,
   },
   {
     slug: '3-voitures-chinoises-pour-oublier-tesla-2026',
@@ -2959,6 +3231,26 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-01-06T09:00:00+01:00',
     readingTime: 6,
     author: 'Rédaction Véhicules Chinois',
+    body: `<h2>Tesla face à la vague chinoise</h2>
+<p>Tesla a longtemps régné sans partage sur le marché de la voiture électrique premium. En 2026, trois constructeurs chinois proposent des alternatives crédibles qui surpassent les Tesla sur des critères clés : autonomie réelle, qualité de finition, richesse d'équipement ou rapport qualité-prix. Voici les trois modèles qui méritent votre attention avant de signer chez Tesla.</p>
+
+<h2>1. Zeekr 001 vs Tesla Model 3 Highland</h2>
+<p>Le Zeekr 001 est une berline-break de 4,97 m qui concurrence frontalement la Tesla Model 3 Grande Autonomie. Sa batterie de 100 kWh offre 620 km d'autonomie WLTP (contre 602 km pour la Model 3 GA). L'intérieur est nettement plus soigné, avec des matériaux premium, un toit ouvrant panoramique et un système audio Yamaha de 21 haut-parleurs. Son prix de 48 990 EUR le place légèrement au-dessus de la Model 3 GA (44 990 EUR), mais l'écart d'équipement justifie la différence.</p>
+
+<h2>2. Xiaomi SU7 vs Tesla Model 3 Performance</h2>
+<p>Le Xiaomi SU7 Max est la berline sportive chinoise qui fait trembler la Model 3 Performance. Avec 673 ch et un 0 à 100 km/h en 2,78 secondes, elle est plus rapide que la Tesla. Son architecture 800 V permet une recharge de 10 à 80 % en 19 minutes. L'intégration avec l'écosystème Xiaomi (smartphones, montres, domotique) crée une expérience connectée unique que même Tesla ne peut égaler. Son prix annoncé en Europe autour de 45 000 EUR en ferait un choix redoutable.</p>
+
+<h2>3. BYD Seal vs Tesla Model 3 Propulsion</h2>
+<p>Pour ceux qui cherchent une berline électrique accessible, la BYD Seal propose un rapport qualité-prix imbattable. A 38 990 EUR en version Comfort (313 ch, 510 km WLTP), elle offre plus de puissance et une autonomie comparable à la Model 3 Propulsion (42 490 EUR, 283 ch, 510 km WLTP). La BYD intègre en série la pompe à chaleur, le V2L, la caméra 360 et les sièges chauffants — autant d'options payantes ou absentes chez Tesla.</p>
+
+<h2>Tableau comparatif</h2>
+<table>
+<tr><th>Critère</th><th>Zeekr 001</th><th>Xiaomi SU7 Max</th><th>BYD Seal</th><th>Tesla Model 3</th></tr>
+<tr><td>Autonomie WLTP</td><td>620 km</td><td>580 km</td><td>510 km</td><td>510-602 km</td></tr>
+<tr><td>Puissance</td><td>544 ch</td><td>673 ch</td><td>313 ch</td><td>283-460 ch</td></tr>
+<tr><td>Prix</td><td>48 990 EUR</td><td>~45 000 EUR</td><td>38 990 EUR</td><td>36-52 000 EUR</td></tr>
+<tr><td>Qualité intérieure</td><td>Premium</td><td>Premium</td><td>Bonne</td><td>Minimaliste</td></tr>
+</table>`,
   },
   {
     slug: 'voitures-chinoises-plus-attendues-fin-2026',
@@ -2971,6 +3263,28 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-12-23T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `<h2>Un second semestre 2026 chargé en nouveautés</h2>
+<p>Les constructeurs chinois préparent une offensive sans précédent pour la fin d'année 2026. Entre nouvelles marques, modèles inédits et arrivées très attendues, le marché français va accueillir une dizaine de nouveautés majeures d'ici décembre. Tour d'horizon des lancements les plus prometteurs.</p>
+
+<h2>BYD Ocean-M : la citadine qui va tout changer</h2>
+<p>La BYD Ocean-M est sans doute le lancement le plus attendu de 2026. Cette citadine 100 % électrique de 3,78 m vise directement la Renault 5 E-Tech et la Citroën e-C3. Avec un prix annoncé autour de 20 000 EUR (bonus déduit) et une autonomie de 300 km WLTP, elle pourrait devenir la voiture électrique la plus vendue en France. Sa batterie Blade de seconde génération promet une durabilité exceptionnelle. Lancement prévu en septembre 2026.</p>
+
+<h2>Xiaomi SU8 : le SUV connecté</h2>
+<p>Après le succès phénoménal du SU7 en Chine, Xiaomi prépare l'arrivée de son SUV SU8 en Europe. Ce modèle de 4,90 m repose sur la même plateforme 800 V que la berline et promet 600 km d'autonomie WLTP. L'intégration avec l'écosystème Xiaomi et un système de conduite autonome avancé en font un concurrent sérieux pour le Tesla Model Y. Arrivée prévue en novembre 2026.</p>
+
+<h2>NIO ET9 : le luxe chinois à la française</h2>
+<p>NIO vise le haut de gamme avec l'ET9, une berline de 5,33 m positionnée face aux Mercedes EQS et BMW i7. Dotée d'une suspension active SkyRide et d'un intérieur habillé de matériaux recyclés haut de gamme, elle affiche 650 km d'autonomie WLTP. Son prix avoisinera les 80 000 EUR. NIO mise également sur son réseau d'échange de batteries pour séduire les conducteurs français. Commercialisation prévue en octobre 2026.</p>
+
+<h2>Les autres lancements à surveiller</h2>
+<ul>
+<li>Chery Fulwin A5 : berline compacte hybride à moins de 25 000 EUR, prévue en septembre 2026</li>
+<li>Zeekr MIX : monospace électrique innovant à portes coulissantes, attendu en novembre 2026</li>
+<li>Leapmotor B10 : SUV compact électrique sous les 25 000 EUR, lancement prévu en octobre 2026</li>
+<li>BYD Sealion 7 : SUV coupé sportif 530 ch, disponible dès septembre 2026</li>
+</ul>
+
+<h2>Ce que cela va changer</h2>
+<p>L'arrivée massive de ces nouveaux modèles va intensifier la concurrence sur le marché français. Les segments les plus impactés seront les citadines électriques (avec la BYD Ocean-M), les SUV compacts (Leapmotor B10) et le premium (NIO ET9). Les constructeurs européens devront répondre rapidement, soit par des baisses de prix, soit par une montée en gamme technologique.</p>`,
   },
   {
     slug: 'classement-marques-chinoises-fiabilite-2026',
@@ -2983,6 +3297,35 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-12-16T09:00:00+01:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `<h2>Méthodologie : croiser toutes les sources disponibles</h2>
+<p>Évaluer la fiabilité des marques chinoises en Europe est un exercice délicat, car le recul est encore limité. Pour ce classement, nous avons croisé quatre sources : les données JD Power Initial Quality Study 2025 (marché chinois), les rapports TUV allemands sur les véhicules de 2-3 ans, les retours des réseaux SAV français, et les témoignages collectés auprès de 500 propriétaires via notre enquête en ligne.</p>
+
+<h2>Le classement de fiabilité 2026</h2>
+<table>
+<tr><th>Rang</th><th>Marque</th><th>Score global /100</th><th>Points forts</th><th>Points faibles</th></tr>
+<tr><td>1</td><td>BYD</td><td>84</td><td>Batterie Blade, peu de rappels</td><td>Mises à jour logicielles</td></tr>
+<tr><td>2</td><td>Zeekr</td><td>82</td><td>Qualité de fabrication</td><td>Réseau SAV limité</td></tr>
+<tr><td>3</td><td>MG</td><td>79</td><td>Réseau dense, pièces disponibles</td><td>Boîte auto DCT parfois capricieuse</td></tr>
+<tr><td>4</td><td>NIO</td><td>78</td><td>Technologie batterie swap</td><td>Électronique complexe</td></tr>
+<tr><td>5</td><td>XPeng</td><td>76</td><td>Mises à jour OTA régulières</td><td>Jeunesse du réseau européen</td></tr>
+<tr><td>6</td><td>Chery/Omoda</td><td>74</td><td>Mécanique éprouvée</td><td>Finitions intérieures</td></tr>
+<tr><td>7</td><td>Leapmotor</td><td>71</td><td>Simplicité mécanique</td><td>Manque de recul</td></tr>
+</table>
+
+<h2>BYD en tête : la force de l'intégration verticale</h2>
+<p>BYD occupe la première place grâce à sa maîtrise complète de la chaîne de production. En fabriquant ses propres batteries (Blade LFP), ses moteurs électriques et son électronique de puissance, le constructeur réduit les risques d'incompatibilité entre composants. Les données JD Power 2025 confirment que BYD affiche le taux de défaillance le plus bas parmi les constructeurs chinois, avec seulement 98 problèmes pour 100 véhicules sur les 90 premiers jours.</p>
+
+<h2>MG : le bénéfice de l'ancienneté</h2>
+<p>MG bénéficie du plus grand parc roulant en France (plus de 80 000 véhicules), ce qui donne une base statistique solide. Les retours des réseaux SAV montrent un taux de retour en garantie de 6,2 %, comparable à celui de Renault (5,8 %). Les problèmes les plus fréquents concernent la boîte automatique DCT sur les modèles hybrides et quelques soucis d'étanchéité sur les MG ZS de première génération, corrigés depuis.</p>
+
+<h2>Les facteurs qui influencent la fiabilité</h2>
+<ul>
+<li>Les véhicules 100 % électriques sont mécaniquement plus simples et donc potentiellement plus fiables que les hybrides</li>
+<li>La qualité des mises à jour logicielles OTA varie fortement : BYD et XPeng excellent, MG est en retrait</li>
+<li>La garantie longue (7 ans MG, 6 ans BYD) témoigne de la confiance des constructeurs dans leurs produits</li>
+<li>Le réseau SAV joue un rôle clé : un problème détecté et traité rapidement ne devient pas une panne grave</li>
+<li>Les batteries LFP (BYD, MG4) montrent une dégradation inférieure aux batteries NMC après 3 ans d'usage</li>
+</ul>`,
   },
 
   // --- Comparaison des Motorisations (articles.md #71-75) ---
