@@ -1912,6 +1912,31 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-10-13T09:00:00+02:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `<h2>Jaecoo 5 : le SUV chinois qui cible le Tiguan</h2>
+<p>Le <strong>Jaecoo 5</strong>, derniere creation du groupe Chery, arrive en Europe avec une ambition claire : concurrencer le <strong>Volkswagen Tiguan</strong>, reference incontestee du segment des SUV compacts. Avec un prix d&apos;appel agressif et un equipement genereux, le Jaecoo 5 a-t-il les moyens de ses ambitions ?</p>
+
+<h2>Design exterieur et interieur</h2>
+<p>Le Jaecoo 5 affiche un design anguleux et robuste, inspire des codes du tout-terrain premium. Sa calandre imposante et ses protections de bas de caisse lui conferent un look aventurier. Le Tiguan, fidele a la sobriete allemande, mise sur des lignes epurees et une ergonomie interieure exemplaire.</p>
+<p>A l&apos;interieur, le Jaecoo 5 surprend par la qualite de ses materiaux et la taille de son ecran central de 14,8 pouces. Le Tiguan reste une reference en matiere de finition et de solidite percue.</p>
+
+<h2>Comparatif technique</h2>
+<table>
+<thead><tr><th>Critere</th><th>Jaecoo 5</th><th>VW Tiguan</th></tr></thead>
+<tbody>
+<tr><td>Motorisation</td><td>1.6T hybride (PHEV)</td><td>1.5 TSI / eHybrid</td></tr>
+<tr><td>Puissance</td><td>197 ch</td><td>150 a 272 ch</td></tr>
+<tr><td>Coffre</td><td>480 litres</td><td>520 litres</td></tr>
+<tr><td>Ecran central</td><td>14,8 pouces</td><td>12,9 pouces</td></tr>
+<tr><td>ADAS</td><td>Niveau 2</td><td>Niveau 2 (IQ.DRIVE)</td></tr>
+<tr><td>Prix d&apos;appel</td><td>27 900 EUR</td><td>38 800 EUR</td></tr>
+</tbody>
+</table>
+
+<h2>Reseau et garantie</h2>
+<p>Le Tiguan beneficie du vaste reseau Volkswagen en France avec plus de 500 points de vente et service. Le Jaecoo 5 mise sur une garantie de 7 ans et un deploiement progressif via des partenaires selectionnes. L&apos;apres-vente reste le point d&apos;interrogation majeur pour la marque chinoise.</p>
+
+<h2>Notre analyse</h2>
+<p>Le Jaecoo 5 propose un rapport equipement-prix remarquable avec une difference de pres de 11 000 EUR face au Tiguan. Cependant, la solidite du reseau Volkswagen et la valeur de revente restent des atouts majeurs pour l&apos;allemand. Le choix dependra de la priorite : budget ou serenite a long terme.</p>`,
   },
   {
     slug: 'nio-et5-vs-bmw-i4-alternative-premium-chinoise',
@@ -1936,6 +1961,30 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-09-29T09:00:00+02:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `<h2>XPeng G6 vs Tesla Model Y : la bataille de la recharge rapide</h2>
+<p>La <strong>XPeng G6</strong> et la <strong>Tesla Model Y</strong> sont deux SUV compacts electriques qui rivalisent sur un terrain crucial : la vitesse de recharge. Avec son architecture 800V, la G6 promet des temps de charge records. La Model Y, forte de son reseau Supercharger, repond par l&apos;infrastructure. Analyse detaillee.</p>
+
+<h2>Architecture electrique : 800V contre 400V</h2>
+<p>La XPeng G6 repose sur une <strong>plateforme 800V</strong> qui autorise une puissance de charge maximale de 280 kW en courant continu. En conditions optimales, elle recupere 200 km d&apos;autonomie en seulement 10 minutes. La Tesla Model Y, sur architecture 400V, accepte jusqu&apos;a 250 kW sur les Superchargers V3 et V4.</p>
+
+<h2>Comparatif des performances de charge</h2>
+<table>
+<thead><tr><th>Critere</th><th>XPeng G6</th><th>Tesla Model Y</th></tr></thead>
+<tbody>
+<tr><td>Architecture</td><td>800V (SiC)</td><td>400V</td></tr>
+<tr><td>Charge DC max</td><td>280 kW</td><td>250 kW</td></tr>
+<tr><td>10-80 % temps</td><td>20 min</td><td>27 min</td></tr>
+<tr><td>Autonomie WLTP</td><td>570 km</td><td>533 km</td></tr>
+<tr><td>Batterie</td><td>87,5 kWh</td><td>75 kWh</td></tr>
+<tr><td>Reseau dedie</td><td>Non</td><td>Supercharger</td></tr>
+</tbody>
+</table>
+
+<h2>L&apos;ecosysteme de recharge en France</h2>
+<p>Tesla dispose d&apos;un avantage strategique avec plus de 160 stations Supercharger en France, desormais ouvertes aux autres marques. La XPeng G6 doit compter sur le reseau tiers (Ionity, Fastned, TotalEnergies) qui deploie rapidement des bornes compatibles 800V. En 2026, plus de 2 000 bornes rapides de 150 kW et plus sont accessibles sur le territoire.</p>
+
+<h2>Verdict : vitesse brute ou ecosysteme ?</h2>
+<p>La <strong>XPeng G6</strong> domine techniquement avec une charge plus rapide et une autonomie superieure. La <strong>Tesla Model Y</strong> compense par la fiabilite de son ecosysteme Supercharger et une experience utilisateur eprouvee. Pour les longs trajets frequents, l&apos;infrastructure Tesla reste un atout. Pour la technologie pure, la G6 prend l&apos;avantage.</p>`,
   },
   {
     slug: 'mg4-xpower-vs-volkswagen-id3-gtx-compactes-sportives',
@@ -1948,6 +1997,33 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-09-22T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `<h2>MG4 XPower vs ID.3 GTX : compactes electriques a caractere sportif</h2>
+<p>Les compactes electriques ne se contentent plus d&apos;etre raisonnables. La <strong>MG4 XPower</strong> et la <strong>Volkswagen ID.3 GTX</strong> injectent une dose de sportivite dans le segment, avec des puissances depassant les 300 ch. Deux philosophies, deux prix, un meme objectif : le plaisir de conduite electrique.</p>
+
+<h2>Motorisation et performances</h2>
+<p>La MG4 XPower deploie 435 ch grace a ses deux moteurs electriques (un par essieu), avec une transmission integrale de serie. L&apos;ID.3 GTX propose 326 ch en propulsion arriere, privilegiant l&apos;agilite a la puissance brute.</p>
+
+<h2>Fiche technique comparee</h2>
+<table>
+<thead><tr><th>Critere</th><th>MG4 XPower</th><th>VW ID.3 GTX</th></tr></thead>
+<tbody>
+<tr><td>Puissance</td><td>435 ch</td><td>326 ch</td></tr>
+<tr><td>Transmission</td><td>Integrale (AWD)</td><td>Propulsion (RWD)</td></tr>
+<tr><td>0 a 100 km/h</td><td>3,8 s</td><td>5,7 s</td></tr>
+<tr><td>Autonomie WLTP</td><td>385 km</td><td>601 km</td></tr>
+<tr><td>Batterie</td><td>64 kWh</td><td>82 kWh</td></tr>
+<tr><td>Prix</td><td>36 990 EUR</td><td>46 335 EUR</td></tr>
+</tbody>
+</table>
+
+<h2>Comportement routier</h2>
+<p>La MG4 XPower brille par son acceleration foudroyante et sa motricite integrale qui colle au bitume. Son centre de gravite bas et sa repartition des masses equilibree en font une compacte redoutable en virage. L&apos;ID.3 GTX repond avec un chassis affute, une direction precise et un confort de suspension superieur sur long trajet.</p>
+
+<h2>Equipement et finition</h2>
+<p>L&apos;ID.3 GTX beneficie de l&apos;environnement Volkswagen avec un interieur soigne, un affichage tete haute en realite augmentee et le systeme IQ.DRIVE. La MG4 XPower offre un equipement complet pour son prix : toit panoramique, sieges sport, ecran 10,25 pouces et compatibilite smartphone.</p>
+
+<h2>Notre verdict</h2>
+<p>La <strong>MG4 XPower</strong> est la reine des sensations fortes avec un rapport puissance-prix imbattable. L&apos;<strong>ID.3 GTX</strong> seduit par son autonomie superieure et sa polyvalence au quotidien. Deux excellentes compactes sportives electriques, a des prix tres differents.</p>`,
   },
   {
     slug: 'leapmotor-t03-vs-dacia-spring-electrique-15000',
@@ -1972,6 +2048,30 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-09-08T09:00:00+02:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `<h2>BYD Han vs Mercedes EQE : le luxe electrique en question</h2>
+<p>Peut-on comparer une berline chinoise a une Mercedes ? La <strong>BYD Han</strong> ose le defi face a la <strong>Mercedes EQE</strong>, reference du luxe electrique allemand. Avec la technologie Blade Battery et un prix deux fois inferieur, la BYD Han redistribue les cartes du segment premium.</p>
+
+<h2>Design et prestige</h2>
+<p>La Mercedes EQE impose son statut avec ses lignes aerodynamiques (Cx de 0,22), son interieur Hyperscreen en option et des materiaux nobles. La BYD Han adopte un design nomme Dragon Face 3.0, elegant et distinctif, avec un habitacle domine par un ecran rotatif de 15,6 pouces et des finitions soignees en cuir synthetique ou Nappa selon la version.</p>
+
+<h2>Comparatif technique</h2>
+<table>
+<thead><tr><th>Critere</th><th>BYD Han EV</th><th>Mercedes EQE 350+</th></tr></thead>
+<tbody>
+<tr><td>Puissance</td><td>517 ch</td><td>292 ch</td></tr>
+<tr><td>Autonomie WLTP</td><td>521 km</td><td>639 km</td></tr>
+<tr><td>Batterie</td><td>85,4 kWh (Blade)</td><td>96,12 kWh</td></tr>
+<tr><td>0 a 100 km/h</td><td>3,9 s</td><td>6,0 s</td></tr>
+<tr><td>Charge rapide</td><td>120 kW</td><td>170 kW</td></tr>
+<tr><td>Prix</td><td>46 990 EUR</td><td>69 900 EUR</td></tr>
+</tbody>
+</table>
+
+<h2>Confort et acoustique</h2>
+<p>La Mercedes EQE excelle dans l&apos;insonorisation et le confort de suspension, heritages de la tradition allemande. La BYD Han offre un niveau de confort surprenant pour son prix, avec une suspension bien calibree et un systeme audio Dynaudio de qualite. L&apos;ecart se ressent surtout sur autoroute a haute vitesse, ou l&apos;EQE reste plus feutree.</p>
+
+<h2>Conclusion</h2>
+<p>La <strong>BYD Han</strong> offre plus de puissance et un prix nettement inferieur, tandis que la <strong>Mercedes EQE</strong> conserve l&apos;avantage en matiere de prestige, d&apos;autonomie et de raffinement. Pour le conducteur pragmatique, la Han est un choix remarquable. Pour celui qui privilege l&apos;image de marque et le confort ultime, l&apos;EQE reste la reference.</p>`,
   },
   {
     slug: 'omoda-e5-vs-hyundai-kona-electric-design-futuriste',
@@ -1984,6 +2084,33 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-09-01T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `<h2>Omoda E5 vs Hyundai Kona Electric : design futuriste en duel</h2>
+<p>L&apos;<strong>Omoda E5</strong>, nouveau SUV compact du groupe Chery, debarque en Europe avec un design audacieux et des ambitions fortes face au <strong>Hyundai Kona Electric</strong>, reference du segment. Les deux vehicules misent sur un style futuriste et une technologie embarquee avancee. Lequel tient ses promesses ?</p>
+
+<h2>Lignes exterieures</h2>
+<p>L&apos;Omoda E5 frappe par son design Art in Motion avec une face avant sans calandre, des optiques effilees et des lignes sculpturales. Le Hyundai Kona Electric nouvelle generation adopte egalement un langage visuel audacieux avec des pixels lumineux signatures et une silhouette de crossover dynamique.</p>
+
+<h2>Fiche technique comparee</h2>
+<table>
+<thead><tr><th>Critere</th><th>Omoda E5</th><th>Hyundai Kona EV</th></tr></thead>
+<tbody>
+<tr><td>Puissance</td><td>204 ch</td><td>218 ch</td></tr>
+<tr><td>Autonomie WLTP</td><td>430 km</td><td>454 km</td></tr>
+<tr><td>Batterie</td><td>61 kWh</td><td>65,4 kWh</td></tr>
+<tr><td>Ecran central</td><td>15,6 pouces</td><td>12,3 pouces</td></tr>
+<tr><td>Coffre</td><td>440 litres</td><td>466 litres</td></tr>
+<tr><td>Prix</td><td>33 900 EUR</td><td>36 400 EUR</td></tr>
+</tbody>
+</table>
+
+<h2>Technologie et connectivite</h2>
+<p>L&apos;Omoda E5 mise sur son ecran geant de 15,6 pouces, l&apos;assistant vocal intelligent et une suite ADAS complete comprenant le freinage automatique d&apos;urgence, le maintien de voie et le regul adaptatif. Le Kona Electric repond avec son double ecran 12,3 pouces, la navigation connectee avec planification d&apos;itineraire electrique et la compatibilite Vehicle-to-Load (V2L).</p>
+
+<h2>Garantie et fiabilite</h2>
+<p>Hyundai propose sa garantie de 5 ans kilometrage illimite, un standard eleve sur le marche. L&apos;Omoda E5 contre-attaque avec une garantie de 7 ans, signe de la confiance du groupe Chery dans la fiabilite de ses produits.</p>
+
+<h2>Verdict</h2>
+<p>L&apos;<strong>Omoda E5</strong> seduira les amateurs de design distinctif et d&apos;equipement surabondant a prix contenu. Le <strong>Hyundai Kona Electric</strong> reste le choix sur pour son reseau de distribution, sa fonctionnalite V2L et sa fiabilite eprouvee. Un duel serre qui tourne a l&apos;avantage du Kona pour la polyvalence, et de l&apos;Omoda pour l&apos;audace.</p>`,
   },
   {
     slug: 'gwm-wey-05-vs-volvo-xc60-recharge-phev-autonomie',
@@ -2230,6 +2357,30 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-06-30T09:00:00+02:00',
     readingTime: 9,
     author: 'Rédaction Véhicules Chinois',
+    body: `<h2>LiDAR vs Vision pure : deux ecoles de la conduite autonome</h2>
+<p>La conduite autonome est l&apos;un des enjeux majeurs de l&apos;industrie automobile. Deux approches s&apos;affrontent : le <strong>LiDAR</strong>, adopte par XPeng, et la <strong>vision pure par cameras</strong>, defendue par Tesla. En France, ou la reglementation evolue rapidement, quelle technologie a le plus d&apos;avenir ?</p>
+
+<h2>Qu&apos;est-ce que le LiDAR ?</h2>
+<p>Le LiDAR (Light Detection And Ranging) est un capteur laser qui cree une carte 3D de l&apos;environnement en temps reel. XPeng equipe ses modeles G6 et G9 de LiDAR de derniere generation, capable de detecter des obstacles a plus de 200 metres avec une precision centimetrique. Cette technologie fonctionne de jour comme de nuit et n&apos;est pas affectee par les conditions d&apos;eclairage.</p>
+
+<h2>L&apos;approche Vision de Tesla</h2>
+<p>Tesla a fait le choix radical de supprimer les capteurs radar et ultrasoniques pour ne conserver que des cameras. Le systeme Tesla Vision repose sur 8 cameras et un reseau de neurones entraine sur des milliards de kilometres de donnees reelles. L&apos;avantage : un cout materiel reduit et une scalabilite superieure grace au machine learning.</p>
+
+<h2>Comparatif des approches</h2>
+<ul>
+<li><strong>Precision 3D</strong> : avantage LiDAR, avec une cartographie volumetrique superieure</li>
+<li><strong>Conditions nocturnes</strong> : avantage LiDAR, independant de la lumiere ambiante</li>
+<li><strong>Cout de production</strong> : avantage Vision, sans capteur couteux supplementaire</li>
+<li><strong>Scalabilite logicielle</strong> : avantage Vision, amelioration continue par OTA</li>
+<li><strong>Detection longue portee</strong> : avantage LiDAR, fiable au-dela de 200 m</li>
+<li><strong>Reconnaissance de panneaux</strong> : avantage Vision, lecture optique native</li>
+</ul>
+
+<h2>La reglementation francaise en 2026</h2>
+<p>La France autorise depuis 2024 la conduite autonome de niveau 3 sur autoroute a vitesse reduite (60 km/h max). Les constructeurs doivent obtenir une homologation specifique aupres de l&apos;UTAC. XPeng a entame les demarches pour son systeme XNGP en Europe, tandis que Tesla poursuit le deploiement progressif de son Full Self-Driving en version supervisee.</p>
+
+<h2>Conclusion</h2>
+<p>Le LiDAR offre une securite accrue a court terme, mais son cout reste un frein. La vision pure de Tesla parie sur l&apos;intelligence artificielle pour atteindre un niveau de fiabilite equivalent a moindre cout. En France, la reglementation prudente favorise les systemes redondants comme le LiDAR, mais l&apos;avenir pourrait donner raison a l&apos;approche logicielle de Tesla.</p>`,
   },
 
   // --- Focus Technologie suite (articles.md #44-50) ---
@@ -2386,6 +2537,35 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-05-26T09:00:00+02:00',
     readingTime: 6,
     author: 'Rédaction Véhicules Chinois',
+    body: `<h2>V2L : quand votre BYD alimente votre maison</h2>
+<p>La technologie <strong>Vehicle-to-Load (V2L)</strong> transforme votre voiture electrique en veritable centrale electrique mobile. BYD, pionnier de cette technologie, equipe plusieurs de ses modeles d&apos;une prise V2L capable de fournir jusqu&apos;a 3,3 kW de puissance. De quoi alimenter vos appareils en camping, sur un chantier ou meme chez vous en cas de coupure de courant.</p>
+
+<h2>Comment fonctionne le V2L ?</h2>
+<p>Le V2L permet de convertir le courant continu (DC) stocke dans la batterie du vehicule en courant alternatif (AC) utilisable par les appareils domestiques. Un adaptateur branche sur la prise de charge du vehicule fournit une sortie 230V standard. Certains modeles BYD integrent egalement une prise 230V directement dans le coffre ou l&apos;habitacle.</p>
+
+<h2>Modeles BYD compatibles V2L</h2>
+<ul>
+<li><strong>BYD Atto 3</strong> : prise V2L dans le coffre, 3,3 kW</li>
+<li><strong>BYD Seal</strong> : adaptateur externe inclus, 3,3 kW</li>
+<li><strong>BYD Tang</strong> : double prise V2L (coffre + exterieur), 3,3 kW</li>
+<li><strong>BYD Han</strong> : adaptateur V2L en option, 3,3 kW</li>
+<li><strong>BYD Dolphin</strong> : prise V2L integree, 2,2 kW</li>
+</ul>
+
+<h2>Applications pratiques</h2>
+<p>Le V2L ouvre de nombreuses possibilites au quotidien :</p>
+<ul>
+<li><strong>Camping et loisirs</strong> : alimenter un refrigerateur, des lumieres, un ordinateur portable ou une plaque de cuisson electrique</li>
+<li><strong>Chantier</strong> : brancher des outils electriques (perceuse, scie, compresseur)</li>
+<li><strong>Secours domestique</strong> : maintenir le refrigerateur, la box internet et l&apos;eclairage pendant une coupure de courant</li>
+<li><strong>Evenements exterieurs</strong> : sonorisation, eclairage, projection video</li>
+</ul>
+
+<h2>V2L vs V2H : quelle difference ?</h2>
+<p>Le <strong>V2L</strong> fournit du courant via une prise standard, appareil par appareil. Le <strong>V2H</strong> (Vehicle-to-Home) va plus loin en connectant le vehicule au tableau electrique de la maison via un boitier bidirectionnel dedie. Le V2H permet d&apos;alimenter l&apos;ensemble du foyer et d&apos;optimiser l&apos;autoconsommation solaire. BYD travaille activement sur le deploiement du V2H en Europe pour 2026.</p>
+
+<h2>Points de vigilance</h2>
+<p>Utiliser le V2L consomme l&apos;autonomie du vehicule. Avec une batterie de 60 kWh et une consommation moyenne de 1 kW, vous disposez theoriquement de 60 heures d&apos;alimentation. Prevoyez une marge suffisante pour vos trajets. En hiver, la capacite effective de la batterie diminue de 15 a 25 %, ce qui reduit proportionnellement la duree d&apos;utilisation V2L.</p>`,
   },
   {
     slug: 'batteries-solid-state-nio-1000-km-2026',
@@ -2456,6 +2636,36 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-04-28T09:00:00+02:00',
     readingTime: 6,
     author: 'Rédaction Véhicules Chinois',
+    body: `<h2>Garantie 7 ans, 10 ans : les constructeurs chinois changent la donne</h2>
+<p>L&apos;un des arguments les plus percutants des constructeurs chinois en Europe est la duree de leur garantie. Alors que la plupart des marques europeennes se limitent a 2 ou 3 ans, les marques chinoises proposent des garanties allant de <strong>5 a 10 ans</strong>. Un avantage decisif pour rassurer les acheteurs et compenser le manque de notoriete.</p>
+
+<h2>Panorama des garanties par constructeur</h2>
+<ul>
+<li><strong>MG (SAIC)</strong> : 7 ans ou 150 000 km sur le vehicule</li>
+<li><strong>BYD</strong> : 6 ans ou 150 000 km, batterie 8 ans ou 200 000 km</li>
+<li><strong>Chery / Omoda / Jaecoo</strong> : 7 ans ou 150 000 km</li>
+<li><strong>GWM / ORA</strong> : 5 ans ou 100 000 km, batterie 8 ans</li>
+<li><strong>NIO</strong> : 5 ans vehicule, batterie a vie (avec abonnement BaaS)</li>
+<li><strong>XPeng</strong> : 5 ans ou 120 000 km, batterie 8 ans ou 160 000 km</li>
+<li><strong>Zeekr</strong> : 5 ans ou 120 000 km, batterie 8 ans extensible</li>
+<li><strong>Leapmotor</strong> : 5 ans ou 150 000 km, batterie 8 ans</li>
+<li><strong>Maxus</strong> : 5 ans ou 100 000 km</li>
+</ul>
+
+<h2>Que couvre reellement la garantie ?</h2>
+<p>La garantie constructeur couvre generalement les defauts de fabrication, les composants mecaniques et electriques, ainsi que la batterie de traction. Attention cependant aux exclusions frequentes :</p>
+<ul>
+<li>Les pieces d&apos;usure (pneus, plaquettes de frein, essuie-glaces) ne sont pas couvertes</li>
+<li>Le non-respect du plan d&apos;entretien peut annuler la garantie</li>
+<li>Les dommages causes par une mauvaise utilisation ou un accident sont exclus</li>
+<li>La garantie batterie exige souvent un maintien entre 20 et 80 % de charge regulier</li>
+</ul>
+
+<h2>Comparaison avec les constructeurs europeens</h2>
+<p>A titre de comparaison, Volkswagen propose 2 ans de garantie (extensible en option payante), Renault 2 ans plus 3 ans sur le groupe motopropulseur, et Peugeot 2 ans extensibles a 8 ans via un pack payant. Seul Hyundai avec ses 5 ans et Kia avec 7 ans rivalisent avec les marques chinoises.</p>
+
+<h2>Conclusion</h2>
+<p>La garantie longue duree des constructeurs chinois est un veritable atout commercial. Elle temoigne de la confiance des fabricants dans la fiabilite de leurs produits et offre une tranquillite d&apos;esprit appreciable pour les premiers acheteurs. Un argument de poids dans la decision d&apos;achat, surtout pour une marque encore peu connue du grand public francais.</p>`,
   },
   {
     slug: 'bonus-ecologique-2026-voitures-chinoises-eligibles',
@@ -2468,6 +2678,43 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-04-21T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `<h2>Bonus ecologique 2026 : quelles voitures chinoises sont eligibles ?</h2>
+<p>Le <strong>bonus ecologique</strong> reste un levier essentiel pour l&apos;achat d&apos;un vehicule electrique en France. En 2026, les regles ont evolue avec l&apos;introduction du <strong>score environnemental</strong> qui prend en compte l&apos;empreinte carbone de la fabrication. Quelles voitures chinoises peuvent encore en beneficier ? Decryptage complet.</p>
+
+<h2>Les regles du bonus ecologique en 2026</h2>
+<p>Le bonus ecologique 2026 prevoit une aide pouvant atteindre <strong>4 000 EUR</strong> pour les vehicules electriques neufs dont le prix est inferieur a 47 000 EUR. Les conditions principales sont :</p>
+<ul>
+<li>Vehicule 100 % electrique ou hydrogene</li>
+<li>Prix d&apos;achat inferieur a 47 000 EUR TTC</li>
+<li>Score environnemental conforme (empreinte carbone de fabrication)</li>
+<li>Poids inferieur a 2 400 kg</li>
+<li>Le vehicule doit etre conserve au moins 12 mois</li>
+</ul>
+
+<h2>Modeles chinois eligibles confirmes</h2>
+<p>Plusieurs modeles chinois ont obtenu le score environnemental requis grace a une production en Europe ou un bilan carbone maitrise :</p>
+<ul>
+<li><strong>MG4</strong> : eligible, bonus de 4 000 EUR</li>
+<li><strong>BYD Dolphin</strong> : eligible, bonus de 4 000 EUR</li>
+<li><strong>BYD Atto 3</strong> : eligible, bonus de 4 000 EUR</li>
+<li><strong>Leapmotor T03</strong> : eligible (assemblee en Europe via Stellantis)</li>
+<li><strong>Smart numero 1</strong> : eligible (production Geely, marque Mercedes)</li>
+</ul>
+
+<h2>Modeles chinois exclus ou en attente</h2>
+<p>Certains modeles n&apos;ont pas obtenu le score environnemental en raison de leur fabrication integralement en Chine ou de leur bilan carbone trop eleve :</p>
+<ul>
+<li><strong>BYD Seal</strong> : en attente de confirmation pour 2026</li>
+<li><strong>XPeng G6</strong> : non eligible (fabrication Chine)</li>
+<li><strong>NIO EL6</strong> : non eligible (fabrication Chine)</li>
+<li><strong>Zeekr 001</strong> : non eligible (en attente usine europeenne)</li>
+</ul>
+
+<h2>Comment verifier l&apos;eligibilite ?</h2>
+<p>Le gouvernement publie la liste officielle des vehicules eligibles sur le site de l&apos;ASP (Agence de Services et de Paiement). Avant tout achat, verifiez le score environnemental du modele convoite sur <strong>ecologie.gouv.fr</strong>. Le concessionnaire doit egalement vous fournir une attestation d&apos;eligibilite au bonus.</p>
+
+<h2>Notre conseil</h2>
+<p>Le bonus ecologique evolue chaque annee. Les constructeurs chinois qui investissent dans des usines europeennes (BYD en Hongrie, Chery en Espagne, Leapmotor en Pologne) verront progressivement leurs modeles devenir eligibles. Anticipez votre achat en surveillant les mises a jour trimestrielles de la liste officielle.</p>`,
   },
   {
     slug: 'location-vs-achat-lynk-co-nouvelle-consommation',
@@ -2480,6 +2727,43 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-04-14T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `<h2>Lynk and Co : la voiture en abonnement, revolution ou gadget ?</h2>
+<p>Le constructeur sino-suedois <strong>Lynk and Co</strong> (groupe Geely / Volvo) a bouleverse les codes de la possession automobile avec son modele d&apos;abonnement mensuel. Plus besoin d&apos;acheter, de financer ou meme de s&apos;engager sur la duree : un abonnement tout compris a partir de 500 EUR par mois. Mais est-ce vraiment avantageux par rapport a un achat classique ?</p>
+
+<h2>Le modele Lynk and Co en detail</h2>
+<p>L&apos;abonnement Lynk and Co inclut :</p>
+<ul>
+<li>La mise a disposition du vehicule (Lynk and Co 01 hybride rechargeable)</li>
+<li>L&apos;assurance tous risques</li>
+<li>L&apos;entretien et la maintenance</li>
+<li>L&apos;assistance routiere 24h/24</li>
+<li>La possibilite de partager le vehicule via l&apos;application</li>
+<li>Aucun engagement de duree : resiliable chaque mois</li>
+</ul>
+
+<h2>Comparatif financier sur 3 ans</h2>
+<p>Prenons l&apos;exemple du Lynk and Co 01 PHEV sur une duree de 3 ans et 45 000 km :</p>
+<ul>
+<li><strong>Abonnement</strong> : 500 EUR x 36 mois = 18 000 EUR tout compris</li>
+<li><strong>Achat (LOA)</strong> : loyer moyen de 450 EUR/mois + assurance (100 EUR/mois) + entretien (50 EUR/mois) = 21 600 EUR</li>
+<li><strong>Achat comptant</strong> : 42 000 EUR - valeur residuelle estimee 22 000 EUR + assurance et entretien = 25 400 EUR de cout reel</li>
+</ul>
+
+<h2>Les avantages de l&apos;abonnement</h2>
+<p>L&apos;abonnement Lynk and Co seduit par sa simplicite : pas de negociation, pas de frais caches, pas de depreciation a supporter. La flexibilite est totale avec la possibilite de rendre le vehicule a tout moment. Le partage via l&apos;application permet meme de reduire le cout mensuel en pretant le vehicule a d&apos;autres membres de la communaute.</p>
+
+<h2>Les limites du modele</h2>
+<p>L&apos;abonnement presente neanmoins certaines contraintes :</p>
+<ul>
+<li>Un seul modele disponible (le Lynk and Co 01 PHEV)</li>
+<li>Le kilometrage est limite (1 250 km/mois inclus, surplus facture)</li>
+<li>Aucune personnalisation du vehicule possible</li>
+<li>Le vehicule ne vous appartient jamais : pas de capital constitue</li>
+<li>Les frais de restitution peuvent s&apos;appliquer en cas de dommages</li>
+</ul>
+
+<h2>Pour qui est-ce pertinent ?</h2>
+<p>L&apos;abonnement Lynk and Co convient particulierement aux urbains qui roulent peu, aux conducteurs qui aiment changer regulierement de vehicule, et a ceux qui privilegient la simplicite a la propriete. Pour les gros rouleurs ou les familles attachees a la possession, l&apos;achat classique reste plus avantageux a long terme. Le modele Lynk and Co prefigure neanmoins une nouvelle facon de consommer l&apos;automobile, inspiree du monde du numerique.</p>`,
   },
   {
     slug: 'entretien-voiture-chinoise-france-reseaux-sav',
