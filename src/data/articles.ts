@@ -3340,6 +3340,42 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-12-09T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Hybride ou electrique : deux philosophies MG</h2>
+<p>MG propose aujourd'hui deux approches radicalement differentes pour seduire les automobilistes francais : la MG3 Hybrid+, citadine hybride non rechargeable a moins de 20 000 euros, et la MG4 Electric, compacte 100 % electrique. Ces deux modeles partagent le logo MG mais tout les separe en termes de technologie, d'usage et de budget. Alors, faut-il opter pour la simplicite de l'hybride ou le zero emission de l'electrique ?</p>
+
+<h2>Fiche technique comparee</h2>
+<table>
+  <thead><tr><th></th><th>MG3 Hybrid+</th><th>MG4 Electric Standard</th><th>MG4 Electric Extended</th></tr></thead>
+  <tbody>
+    <tr><td>Motorisation</td><td>1.5 atmo + electrique</td><td>Electrique 170 ch</td><td>Electrique 204 ch</td></tr>
+    <tr><td>Puissance combinee</td><td>195 ch</td><td>170 ch</td><td>204 ch</td></tr>
+    <tr><td>Batterie</td><td>1,83 kWh</td><td>51 kWh (LFP)</td><td>64 kWh (NMC)</td></tr>
+    <tr><td>Autonomie</td><td>800+ km (thermique)</td><td>350 km WLTP</td><td>450 km WLTP</td></tr>
+    <tr><td>Conso mixte</td><td>4,4 L/100 km</td><td>16 kWh/100 km</td><td>16,5 kWh/100 km</td></tr>
+    <tr><td>Coffre</td><td>293 L</td><td>363 L</td><td>363 L</td></tr>
+    <tr><td>Prix</td><td>19 490 euros</td><td>26 990 euros</td><td>31 990 euros</td></tr>
+  </tbody>
+</table>
+
+<h2>Le cout d'usage au quotidien</h2>
+<p>La MG3 Hybrid+ consomme en moyenne 4,4 L/100 km en cycle mixte. Pour un conducteur parcourant 15 000 km par an, cela represente environ 1 100 euros de carburant. La MG4 Electric, rechargee a domicile en heures creuses (0,15 euro/kWh), coute environ 360 euros par an en electricite. L'ecart de 740 euros annuels compense progressivement le surcout a l'achat de la MG4 Standard (7 500 euros de plus).</p>
+<p>Cependant, sans borne de recharge a domicile, la MG4 perd son avantage economique. La recharge sur bornes publiques rapides (0,50 a 0,70 euro/kWh) fait grimper la facture a plus de 1 200 euros annuels. Dans ce cas, la MG3 Hybrid+ est plus avantageuse.</p>
+
+<h2>Conduite et agrements</h2>
+<p>La MG3 Hybrid+ surprend par sa vivacite en ville. Le moteur electrique assiste le thermique dans les phases de demarrage et de faible vitesse, offrant des accelerations franches et une conduite silencieuse sur de courtes distances. Sur autoroute, le moteur thermique prend le relais et la voiture se comporte comme une citadine classique bien motorisee.</p>
+<p>La MG4 Electric joue dans une autre categorie. Son architecture propulsion (moteur arriere) procure un plaisir de conduite superieur avec un comportement dynamique digne d'une sportive. Le couple instantane de 250 Nm rend les depassements faciles et la conduite en ville fluide et apaisante, sans aucune vibration.</p>
+
+<h2>Pour quel profil chaque modele ?</h2>
+<ul>
+  <li><strong>MG3 Hybrid+</strong> : conducteurs urbains et periurbains, petits budgets, ceux qui n'ont pas de borne a domicile, gros rouleurs sur autoroute</li>
+  <li><strong>MG4 Electric Standard</strong> : conducteurs avec borne a domicile, trajets quotidiens de moins de 100 km, sensibles a l'ecologie</li>
+  <li><strong>MG4 Electric Extended</strong> : familles avec un seul vehicule, trajets reguliers de 200+ km, amateurs de conduite dynamique</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>La MG3 Hybrid+ est le choix rationnel pour qui veut une voiture abordable, polyvalente et sans contrainte de recharge. La MG4 Electric est le choix d'avenir pour ceux qui peuvent recharger a domicile et veulent profiter d'un agrement de conduite superieur. Dans les deux cas, MG offre un rapport qualite-prix imbattable sur le marche francais.</p>
+`,
   },
   {
     slug: 'byd-seal-u-phev-vs-byd-seal-u-ev-hybride-rechargeable',
@@ -3364,6 +3400,45 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-11-25T09:00:00+01:00',
     readingTime: 6,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Un seul design, deux motorisations</h2>
+<p>L'Omoda 5 est la premiere offensive du groupe Chery en Europe sous sa nouvelle marque Omoda. Disponible en version thermique (1.6 turbo essence) et en version 100 % electrique (EV), ce SUV compact propose le meme design exterieur et interieur quelle que soit la motorisation. Un choix rare sur le marche qui permet une comparaison directe entre les deux technologies sans biais esthetique.</p>
+
+<h2>Fiche technique face a face</h2>
+<table>
+  <thead><tr><th></th><th>Omoda 5 1.6T</th><th>Omoda 5 EV</th></tr></thead>
+  <tbody>
+    <tr><td>Moteur</td><td>1.6 turbo essence</td><td>Electrique synchrone</td></tr>
+    <tr><td>Puissance</td><td>147 ch</td><td>204 ch</td></tr>
+    <tr><td>Couple</td><td>275 Nm</td><td>340 Nm</td></tr>
+    <tr><td>Boite</td><td>DCT 7 rapports</td><td>Reducteur</td></tr>
+    <tr><td>Autonomie</td><td>700+ km</td><td>430 km WLTP</td></tr>
+    <tr><td>Conso/recharge</td><td>7,2 L/100 km</td><td>16,8 kWh/100 km</td></tr>
+    <tr><td>Coffre</td><td>360 L</td><td>340 L</td></tr>
+    <tr><td>Prix de base</td><td>24 990 euros</td><td>33 990 euros</td></tr>
+  </tbody>
+</table>
+
+<h2>Le prix et le cout total de possession</h2>
+<p>L'ecart de 9 000 euros a l'achat entre les deux versions est significatif. Cependant, sur 5 ans et 75 000 km, le calcul se resserre. L'Omoda 5 EV consomme environ 540 euros d'electricite par an (recharge a domicile), contre 1 500 euros de carburant pour la version thermique. L'entretien est egalement plus faible sur l'EV : pas de vidange, pas de courroie, pas d'embrayage. Sur 5 ans, l'ecart de cout total se reduit a environ 3 000 euros en faveur du thermique.</p>
+
+<h2>Comportement routier compare</h2>
+<p>La version thermique offre un comportement equilibre avec une direction precise et un moteur turbo coupleux des les bas regimes. La boite DCT est rapide et bien etagee, meme si elle peut hesiter a basse vitesse en manoeuvre. Sur autoroute, la consommation reste contenue autour de 7,5 L/100 km, un bon score pour un SUV compact.</p>
+<p>L'Omoda 5 EV transforme l'experience. Le couple instantane de 340 Nm propulse le vehicule de 0 a 100 km/h en 7,6 secondes. Le silence de fonctionnement est total et la recuperation d'energie au freinage est parametrable sur trois niveaux. Le centre de gravite plus bas (batteries sous le plancher) ameliore la tenue de route en virage.</p>
+
+<h2>Equipements et technologies</h2>
+<ul>
+  <li>Ecran tactile 12,3 pouces avec navigation connectee (identique sur les deux versions)</li>
+  <li>Instrumentation numerique 7 pouces de serie</li>
+  <li>Camera 360 degres et radar de recul</li>
+  <li>Climatisation automatique bizone</li>
+  <li>Charge sans fil pour smartphone (EV uniquement de serie)</li>
+  <li>Pompe a chaleur pour optimiser l'autonomie en hiver (EV)</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>L'Omoda 5 thermique est le choix pragmatique : moins cher, plus autonome, sans contrainte de recharge. L'Omoda 5 EV est le choix premium pour ceux qui veulent le meilleur agrement de conduite, un silence absolu et une empreinte carbone reduite. Dans les deux cas, Chery propose un produit bien fini a un tarif competitif face aux equivalents europeens.</p>
+`,
   },
   {
     slug: 'hybride-vs-phev-comparatif-mg-byd',
@@ -3376,6 +3451,38 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-11-18T09:00:00+01:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>HEV et PHEV : deux hybrides, deux logiques</h2>
+<p>Le marche automobile distingue deux types d'hybrides souvent confondus par les acheteurs. L'hybride classique (HEV, ou full hybrid) combine un moteur thermique et un petit moteur electrique alimente par une batterie de faible capacite (1 a 2 kWh) qui se recharge automatiquement. L'hybride rechargeable (PHEV) embarque une batterie bien plus grande (10 a 30 kWh) rechargeable sur une prise, offrant une autonomie electrique significative de 50 a 100 km.</p>
+
+<h2>Les modeles HEV et PHEV chez MG et BYD</h2>
+<table>
+  <thead><tr><th>Modele</th><th>Type</th><th>Batterie</th><th>Autonomie EV</th><th>Conso mixte</th><th>Prix</th></tr></thead>
+  <tbody>
+    <tr><td>MG3 Hybrid+</td><td>HEV</td><td>1,83 kWh</td><td>~3 km</td><td>4,4 L/100 km</td><td>19 490 euros</td></tr>
+    <tr><td>MG HS Plug-in</td><td>PHEV</td><td>24,7 kWh</td><td>100 km</td><td>1,4 L/100 km</td><td>35 990 euros</td></tr>
+    <tr><td>BYD Seal U DM-i</td><td>PHEV</td><td>18,3 kWh</td><td>80 km</td><td>1,0 L/100 km</td><td>33 990 euros</td></tr>
+  </tbody>
+</table>
+
+<h2>Avantages du HEV : simplicite et prix</h2>
+<p>Le HEV ne se recharge jamais sur une prise. La batterie se recharge automatiquement grace au freinage regeneratif et au moteur thermique. C'est un avantage considerable pour les conducteurs vivant en appartement sans borne, ou pour ceux qui ne veulent pas changer leurs habitudes. Le prix d'achat est aussi nettement inferieur : la MG3 Hybrid+ demarre a 19 490 euros, soit 16 500 euros de moins qu'un PHEV MG HS.</p>
+<p>En revanche, le HEV consomme toujours du carburant. Sa consommation est reduite (4 a 5 L/100 km) mais jamais nulle. Sur autoroute, l'assistance electrique est minimale et la consommation remonte a 6-7 L/100 km.</p>
+
+<h2>Avantages du PHEV : le meilleur des deux mondes ?</h2>
+<p>Le PHEV permet de rouler 50 a 100 km en 100 % electrique. Pour un conducteur qui fait 40 km de trajet quotidien et recharge chaque soir, la consommation de carburant peut tomber a zero au quotidien. Le moteur thermique n'intervient que pour les longs trajets, offrant alors une autonomie totale de plus de 800 km.</p>
+<p>Cependant, le PHEV est beaucoup plus lourd (batteries volumineuses) et bien plus cher a l'achat. Si le conducteur ne recharge pas regulierement, le PHEV devient un vehicule thermique alourdi par 200 kg de batteries inutilisees, consommant davantage qu'un HEV classique.</p>
+
+<h2>Comparaison des couts sur 5 ans</h2>
+<ul>
+  <li><strong>MG3 Hybrid+ (HEV)</strong> : prix d'achat 19 490 euros + carburant 5 500 euros + entretien 2 000 euros = 26 990 euros</li>
+  <li><strong>MG HS Plug-in (PHEV)</strong> : prix d'achat 35 990 euros + electricite 1 500 euros + carburant 800 euros + entretien 1 800 euros = 40 090 euros</li>
+  <li><strong>BYD Seal U DM-i (PHEV)</strong> : prix d'achat 33 990 euros + electricite 1 200 euros + carburant 600 euros + entretien 1 600 euros = 37 390 euros</li>
+</ul>
+
+<h2>Verdict : quel hybride pour quel profil ?</h2>
+<p>Le HEV est fait pour les petits budgets, les conducteurs urbains sans borne et ceux qui veulent une solution simple. Le PHEV convient aux conducteurs avec borne a domicile, effectuant des trajets quotidiens courts mais ayant besoin d'autonomie pour les vacances. La technologie DM-i de BYD se distingue par son efficience superieure, tandis que MG reste imbattable sur le rapport equipement-prix en HEV.</p>
+`,
   },
   {
     slug: 'moteurs-thermiques-chinois-retour-en-force-europe',
@@ -3462,6 +3569,39 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-10-21T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Zeekr debarque officiellement en France</h2>
+<p>Filiale premium du groupe Geely (proprietaire de Volvo et Polestar), Zeekr a officiellement lance ses operations en France debut 2026. La marque arrive avec trois modeles : le 001, berline-shooting brake haute performance, le X, SUV urbain compact, et le 7, grande berline electrique. Zeekr vise directement le segment premium occupe par Tesla, BMW et Mercedes.</p>
+
+<h2>Les modeles et leurs prix</h2>
+<table>
+  <thead><tr><th>Modele</th><th>Segment</th><th>Batterie</th><th>Autonomie WLTP</th><th>Puissance</th><th>Prix France</th></tr></thead>
+  <tbody>
+    <tr><td>Zeekr X</td><td>SUV compact</td><td>64 kWh</td><td>440 km</td><td>272 ch</td><td>42 990 euros</td></tr>
+    <tr><td>Zeekr 001</td><td>Shooting brake</td><td>100 kWh</td><td>620 km</td><td>544 ch (bi-moteur)</td><td>59 990 euros</td></tr>
+    <tr><td>Zeekr 7</td><td>Berline</td><td>75 kWh</td><td>530 km</td><td>310 ch</td><td>47 990 euros</td></tr>
+  </tbody>
+</table>
+
+<h2>Le reseau de distribution</h2>
+<p>Zeekr a choisi un modele hybride pour sa distribution en France. La marque dispose de showrooms propres dans les grandes villes (Paris, Lyon, Marseille, Bordeaux, Lille) et de partenariats avec des concessionnaires multimarques dans les villes moyennes. A fin 2026, Zeekr prevoit 25 points de vente physiques et un configurateur en ligne avec livraison a domicile.</p>
+<p>Le service apres-vente est assure via un reseau de garages agrees, dont plusieurs ateliers partages avec Volvo et Polestar. La garantie constructeur est de 5 ans ou 120 000 km, avec une extension possible a 8 ans sur la batterie.</p>
+
+<h2>La technologie Zeekr en detail</h2>
+<ul>
+  <li><strong>Architecture 800V</strong> : recharge ultra-rapide de 10 a 80 % en 15 minutes sur bornes compatibles</li>
+  <li><strong>Batteries CATL Qilin</strong> : densite energetique superieure de 255 Wh/kg, excellente tenue en hiver</li>
+  <li><strong>Chassis CMA Evo / SEA</strong> : plateformes partagees avec Volvo, garantissant un comportement routier europeen</li>
+  <li><strong>Systeme ADAS Mobileye</strong> : conduite semi-autonome niveau 2+ avec 12 cameras et 5 radars</li>
+  <li><strong>OTA updates</strong> : mises a jour a distance pour le systeme d'infodivertissement et les fonctions du vehicule</li>
+</ul>
+
+<h2>Positionnement face a la concurrence</h2>
+<p>Le Zeekr X a 42 990 euros se positionne face au Volvo EX30 (36 990 euros) et au BMW iX1 (52 900 euros). Il offre plus d'espace que le Volvo et un equipement equivalent au BMW pour 10 000 euros de moins. Le Zeekr 001 a 59 990 euros vise la Tesla Model S et la BMW i4 M50, avec un design unique de shooting brake et une autonomie de 620 km difficile a egaler.</p>
+
+<h2>Faut-il craquer pour Zeekr ?</h2>
+<p>Zeekr arrive en France avec des arguments solides : technologie de pointe, autonomie genereuse, recharge ultra-rapide et prix competitifs dans le segment premium. Le principal frein reste la jeunesse du reseau et l'absence de recul sur la fiabilite a long terme. Pour les early adopters et les amateurs de technologie, Zeekr merite une place en haut de la liste d'essai.</p>
+`,
   },
   {
     slug: 'omoda-jaecoo-nouveau-geant-marche-automobile',
@@ -3474,6 +3614,47 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-10-14T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Chery lance ses marques d'export</h2>
+<p>Le groupe Chery, quatrieme constructeur automobile chinois, a cree deux nouvelles marques specifiquement destinees aux marches internationaux : Omoda et Jaecoo. Omoda cible les acheteurs jeunes et urbains avec des SUV compacts au design expressif. Jaecoo s'adresse aux familles et aventuriers avec des SUV plus robustes et spacieux. Ensemble, ces deux marques forment la pointe avancee de l'offensive Chery en Europe.</p>
+
+<h2>La gamme Omoda en France</h2>
+<table>
+  <thead><tr><th>Modele</th><th>Segment</th><th>Motorisation</th><th>Puissance</th><th>Prix</th></tr></thead>
+  <tbody>
+    <tr><td>Omoda 5</td><td>SUV compact</td><td>1.6T essence</td><td>147 ch</td><td>24 990 euros</td></tr>
+    <tr><td>Omoda 5 EV</td><td>SUV compact</td><td>Electrique</td><td>204 ch</td><td>33 990 euros</td></tr>
+    <tr><td>Omoda 7</td><td>SUV familial</td><td>1.5T PHEV</td><td>340 ch</td><td>34 990 euros</td></tr>
+  </tbody>
+</table>
+
+<h2>La gamme Jaecoo en France</h2>
+<table>
+  <thead><tr><th>Modele</th><th>Segment</th><th>Motorisation</th><th>Puissance</th><th>Prix</th></tr></thead>
+  <tbody>
+    <tr><td>Jaecoo J7</td><td>SUV compact</td><td>1.6T / PHEV</td><td>147-340 ch</td><td>29 990 euros</td></tr>
+    <tr><td>Jaecoo J8</td><td>SUV familial</td><td>2.0T 4x4</td><td>254 ch</td><td>39 990 euros</td></tr>
+  </tbody>
+</table>
+
+<h2>Le groupe Chery : un geant meconnu</h2>
+<p>Fonde en 1997, Chery est le premier exportateur automobile chinois. Le groupe a vendu plus de 1,8 million de vehicules a l'international en 2024, dans plus de 80 pays. En Europe, Chery dispose d'un centre de R&D en Allemagne et d'une usine en projet en Espagne (Barcelone). Le groupe maitrise la totalite de sa chaine de production : moteurs, boites de vitesses, plateformes et batteries.</p>
+
+<h2>Qualite et garantie</h2>
+<ul>
+  <li>Garantie constructeur de 7 ans ou 150 000 km (meilleure du marche)</li>
+  <li>Tests Euro NCAP 5 etoiles pour l'Omoda 5</li>
+  <li>Materiaux interieurs de qualite superieure : cuir synthetique, aluminium brosse, eclairage ambiant</li>
+  <li>Systeme multimedia avec ecran 12,3 pouces, Apple CarPlay et Android Auto sans fil</li>
+  <li>Suite ADAS complete : freinage d'urgence, maintien de voie, regulateur adaptatif, camera 360</li>
+</ul>
+
+<h2>Le reseau de distribution</h2>
+<p>Omoda et Jaecoo ont choisi un modele de distribution via des concessionnaires independants, avec deja plus de 50 points de vente en France fin 2025. Le service apres-vente est assure par les memes reseaux, avec des pieces detachees stockees dans un entrepot central europeen aux Pays-Bas. Les delais de livraison annonces sont de 4 a 8 semaines selon les modeles.</p>
+
+<h2>Verdict</h2>
+<p>Omoda et Jaecoo representent la nouvelle vague de constructeurs chinois en Europe. Avec des prix 20 a 30 % inferieurs aux concurrents europeens, une qualite de fabrication en net progres et une garantie genereuse, ces marques ont les moyens de bousculer le marche. Le principal defi reste la construction d'une image de marque et la confiance des consommateurs.</p>
+`,
   },
   {
     slug: 'xiaomi-auto-peut-on-acheter-voiture-fabricant-telephones',
@@ -3486,6 +3667,40 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-10-07T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Xiaomi dans l'automobile : du telephone a la berline electrique</h2>
+<p>Xiaomi, geant chinois de l'electronique grand public, a officiellement lance sa premiere voiture, la SU7, en mars 2024. En moins d'un an, Xiaomi a vendu plus de 130 000 exemplaires en Chine, depassant toutes les previsions. Debut 2026, la marque a annonce une distribution europeenne progressive. Mais peut-on reellement acheter et entretenir une voiture Xiaomi en France ?</p>
+
+<h2>La Xiaomi SU7 en bref</h2>
+<table>
+  <thead><tr><th></th><th>SU7 Standard</th><th>SU7 Pro</th><th>SU7 Max</th></tr></thead>
+  <tbody>
+    <tr><td>Moteur</td><td>Arriere, 299 ch</td><td>Arriere, 299 ch</td><td>Bi-moteur, 673 ch</td></tr>
+    <tr><td>Batterie</td><td>73,6 kWh (BYD)</td><td>94,3 kWh (CATL)</td><td>101 kWh (CATL)</td></tr>
+    <tr><td>Autonomie WLTP</td><td>515 km</td><td>668 km</td><td>590 km</td></tr>
+    <tr><td>0-100 km/h</td><td>5,3 s</td><td>5,3 s</td><td>2,8 s</td></tr>
+    <tr><td>Recharge 10-80 %</td><td>30 min</td><td>25 min</td><td>19 min</td></tr>
+    <tr><td>Prix estime Europe</td><td>39 990 euros</td><td>46 990 euros</td><td>56 990 euros</td></tr>
+  </tbody>
+</table>
+
+<h2>Comment acheter une Xiaomi SU7 en France</h2>
+<p>Xiaomi a ouvert des showrooms dans plusieurs capitales europeennes et prevoit un lancement officiel en France courant 2026. La commande se fait en ligne sur le site Xiaomi Auto, avec un acompte de 1 000 euros. La livraison est assuree a domicile ou dans un point de retrait partenaire. Pour les impatients, certains importateurs independants proposent deja la SU7 avec une homologation individuelle, mais a des tarifs majores de 15 a 20 %.</p>
+
+<h2>Le SAV et les pieces detachees</h2>
+<p>C'est la question centrale. Xiaomi a noue des partenariats avec des reseaux de garages agrees en Europe pour assurer l'entretien et les reparations. Les pieces detachees sont stockees dans un hub logistique en Pologne, avec un delai de livraison annonce de 48 a 72 heures. La garantie constructeur est de 5 ans ou 100 000 km, avec 8 ans sur la batterie.</p>
+<ul>
+  <li>Entretien annuel estime : 300 a 500 euros (electrique, donc minimal)</li>
+  <li>Assurance : tarifs comparables a une Tesla Model 3 (700 a 1 200 euros/an selon profil)</li>
+  <li>Valeur residuelle : encore inconnue, risque de decote importante les premieres annees</li>
+</ul>
+
+<h2>Les forces et faiblesses de Xiaomi Auto</h2>
+<p>Xiaomi apporte son expertise en electronique et en logiciel. Le systeme d'infodivertissement HyperOS est fluide, intuitif et mis a jour regulierement a distance. L'integration avec l'ecosysteme Xiaomi (montre, smartphone, domotique) est un vrai plus pour les utilisateurs de la marque. En revanche, le manque de recul sur la fiabilite mecanique et la valeur de revente constitue un frein pour les acheteurs prudents.</p>
+
+<h2>Verdict</h2>
+<p>Acheter une Xiaomi SU7 en France est possible mais demande un certain gout du risque. Le produit est technologiquement impressionnant, le prix competitif et les performances au niveau des meilleures berlines electriques. Le reseau SAV se construit progressivement. Pour les technophiles et les early adopters, la SU7 est une proposition seduisante. Pour les acheteurs classiques, il est prudent d'attendre un an de recul supplementaire.</p>
+`,
   },
   {
     slug: 'nio-battery-as-a-service-louer-ou-acheter-batterie',
@@ -3498,6 +3713,44 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-09-30T09:00:00+02:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le concept Battery as a Service de NIO</h2>
+<p>NIO est le seul constructeur automobile au monde a proposer un systeme de location de batterie a grande echelle. Le principe est simple : vous achetez la voiture sans la batterie (a un prix reduit de 12 000 a 20 000 euros) et vous louez la batterie via un abonnement mensuel. Vous pouvez aussi echanger votre batterie en moins de 5 minutes dans une station de swap automatisee. Ce modele, appele BaaS (Battery as a Service), bouleverse la logique de possession automobile.</p>
+
+<h2>Les formules de location de batterie</h2>
+<table>
+  <thead><tr><th>Formule</th><th>Capacite</th><th>Autonomie</th><th>Loyer mensuel</th><th>Economie a l'achat</th></tr></thead>
+  <tbody>
+    <tr><td>Standard</td><td>75 kWh</td><td>400 km WLTP</td><td>128 euros/mois</td><td>-12 000 euros</td></tr>
+    <tr><td>Long Range</td><td>100 kWh</td><td>550 km WLTP</td><td>178 euros/mois</td><td>-20 000 euros</td></tr>
+    <tr><td>Ultra Long Range</td><td>150 kWh</td><td>900+ km WLTP</td><td>258 euros/mois</td><td>-30 000 euros</td></tr>
+  </tbody>
+</table>
+
+<h2>Le swap de batterie : comment ca marche</h2>
+<p>NIO a deploye plus de 2 500 stations de swap dans le monde, dont une cinquantaine en Europe. Le processus est entierement automatise : vous entrez dans la station, un robot retire votre batterie dechargee et installe une batterie pleine en moins de 5 minutes. C'est plus rapide qu'un plein d'essence et elimine completement l'anxiete de la recharge.</p>
+<ul>
+  <li>Temps d'echange : 3 a 5 minutes</li>
+  <li>Disponibilite : 24h/24, 7j/7</li>
+  <li>Cout par swap : inclus dans l'abonnement (4 a 6 swaps gratuits par mois selon formule)</li>
+  <li>Swaps supplementaires : 10 euros par echange</li>
+</ul>
+
+<h2>Location vs achat : la simulation financiere</h2>
+<p>Prenons l'exemple d'un NIO EL6 avec batterie 75 kWh. En version achat complet, le vehicule coute 52 900 euros. En version BaaS, il coute 40 900 euros + 128 euros/mois de location. Sur 5 ans, le BaaS revient a 40 900 + 7 680 = 48 580 euros, soit 4 320 euros de moins que l'achat. Sur 8 ans, le BaaS coute 53 188 euros, depassant legerement l'achat.</p>
+<p>Le BaaS est donc financierement avantageux pour une detention de moins de 7 ans. Au-dela, l'achat devient plus rentable. Mais le BaaS offre un avantage supplementaire : la possibilite de changer de capacite de batterie selon les besoins (75 kWh au quotidien, 150 kWh pour les vacances).</p>
+
+<h2>Les avantages caches du BaaS</h2>
+<ul>
+  <li>Aucune degradation de batterie : vous roulez toujours avec une batterie en bon etat</li>
+  <li>Flexibilite de capacite : changez de batterie selon la saison ou le trajet</li>
+  <li>Valeur de revente preservee : la voiture se revend sans batterie, simplifiant la transaction</li>
+  <li>Garantie permanente : la batterie louee est toujours sous garantie NIO</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Le BaaS de NIO est une innovation majeure qui resout deux problemes cles de l'electrique : le cout d'achat eleve et l'anxiete liee a la degradation de la batterie. Pour les conducteurs qui changent de voiture tous les 4 a 6 ans, le BaaS est financierement et pratiquement superieur a l'achat. Le principal frein reste le maillage encore limite des stations de swap en France.</p>
+`,
   },
   {
     slug: 'xpeng-marque-intelligence-artificielle-automobile',
@@ -3534,6 +3787,40 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-09-09T09:00:00+02:00',
     readingTime: 6,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>GWM Ora : le retro-futurisme au service de l'electrique</h2>
+<p>Great Wall Motors (GWM), l'un des plus grands constructeurs chinois, a lance sa marque Ora dediee aux citadines electriques. Le parti pris esthetique est radical : des lignes rondes et retro inspirees des annees 60-70, un look mignon et decale qui tranche avec le design technologique habituel des voitures electriques. Ora veut seduire les urbains qui cherchent une voiture a personnalite forte, loin des SUV generiques.</p>
+
+<h2>La gamme Ora en Europe</h2>
+<table>
+  <thead><tr><th>Modele</th><th>Batterie</th><th>Autonomie WLTP</th><th>Puissance</th><th>Coffre</th><th>Prix</th></tr></thead>
+  <tbody>
+    <tr><td>Ora 03</td><td>48 kWh</td><td>310 km</td><td>171 ch</td><td>228 L</td><td>29 990 euros</td></tr>
+    <tr><td>Ora 03 GT</td><td>63 kWh</td><td>420 km</td><td>171 ch</td><td>228 L</td><td>34 990 euros</td></tr>
+    <tr><td>Ora 07</td><td>83,5 kWh</td><td>500 km</td><td>204 ch</td><td>380 L</td><td>41 990 euros</td></tr>
+  </tbody>
+</table>
+
+<h2>Un design qui divise mais qui marque</h2>
+<p>L'Ora 03 (anciennement Funky Cat, puis Ballet Cat) ne laisse personne indifferent. Ses phares ronds, sa calandre fermee et ses flancs rebondis evoquent une Fiat 500 electrique ou une Mini Cooper revisitee par un designer shanghaien. L'interieur prolonge cette ambiance retro avec un volant biplan, des materiaux moelleux et des couleurs pastel (rose, menthe, creme). L'Ora 07, quant a elle, adopte un profil de berline coupe plus classique mais tout aussi elegant.</p>
+
+<h2>Technologie embarquee</h2>
+<ul>
+  <li>Double ecran 10,25 pouces (instrumentation + multimedia)</li>
+  <li>Reconnaissance faciale pour demarrer le vehicule</li>
+  <li>Assistant vocal intelligent avec commandes naturelles</li>
+  <li>Systeme ADAS Coffee Intelligence avec 24 capteurs</li>
+  <li>Recharge rapide DC jusqu'a 80 kW (Ora 03) et 120 kW (Ora 07)</li>
+  <li>Vehicle-to-Load (V2L) pour alimenter des appareils electriques depuis la voiture</li>
+</ul>
+
+<h2>Conduite et comportement</h2>
+<p>L'Ora 03 est une citadine dans l'ame. Compacte (4,24 m), elle se faufile en ville avec aisance. La direction est legere, la visibilite correcte malgre la ligne de toit plongeante, et le rayon de braquage de 5,2 m facilite le stationnement. Sur route, le moteur de 171 ch offre des reprises suffisantes pour les depassements, sans pretention sportive. Le confort de suspension est bon, filtrant efficacement les irregularites de la chaussee.</p>
+<p>L'Ora 07, plus longue (4,87 m) et plus puissante (204 ch), adopte un registre plus routier. Son empattement genereux de 2 870 mm procure une excellente stabilite a haute vitesse et un espace arriere royal. C'est une alternative credible a la Tesla Model 3 et a la BYD Seal, avec un positionnement prix agressif.</p>
+
+<h2>Verdict</h2>
+<p>GWM Ora apporte une bouffee d'air frais dans le segment des citadines electriques. Le design original, l'equipement genereux et les prix contenus en font une proposition seduisante pour les urbains a la recherche d'une voiture electrique differente. Le reseau de distribution et le SAV restent les points a surveiller, mais GWM investit massivement pour etoffer sa presence en Europe.</p>
+`,
   },
   {
     slug: 'lynk-co-abonnement-ne-pas-acheter-voiture',
@@ -3632,6 +3919,41 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-08-12T09:00:00+02:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le test hivernal : protocole et conditions</h2>
+<p>Nous avons teste la Xiaomi SU7 Pro (batterie CATL de 94,3 kWh) pendant deux semaines en conditions hivernales reelles, avec des temperatures comprises entre -5 et -12 degres Celsius. Le parcours de test combinait trajets urbains (40 %), routes departementales (35 %) et autoroute (25 %). L'objectif : mesurer la perte d'autonomie reelle par rapport aux 668 km WLTP annonces et evaluer l'efficacite du systeme de chauffage.</p>
+
+<h2>Resultats d'autonomie</h2>
+<table>
+  <thead><tr><th>Condition</th><th>Autonomie WLTP</th><th>Autonomie mesuree</th><th>Perte</th></tr></thead>
+  <tbody>
+    <tr><td>Ville (-5 degres C)</td><td>668 km</td><td>480 km</td><td>-28 %</td></tr>
+    <tr><td>Route (-8 degres C)</td><td>668 km</td><td>435 km</td><td>-35 %</td></tr>
+    <tr><td>Autoroute 130 km/h (-10 degres C)</td><td>668 km</td><td>365 km</td><td>-45 %</td></tr>
+    <tr><td>Mixte (-7 degres C moyen)</td><td>668 km</td><td>430 km</td><td>-36 %</td></tr>
+  </tbody>
+</table>
+
+<h2>Analyse de la consommation</h2>
+<p>En conditions hivernales, la consommation moyenne de la SU7 Pro grimpe a 22 kWh/100 km (contre 15,8 kWh/100 km en conditions temperies). Cette hausse de 39 % s'explique par plusieurs facteurs : le chauffage de l'habitacle (pompe a chaleur + resistance electrique), le prechauffage de la batterie pour maintenir ses performances, et la viscosite accrue des fluides mecaniques par grand froid.</p>
+
+<h2>Le chauffage : efficace mais gourmand</h2>
+<p>La SU7 dispose d'une pompe a chaleur de serie, completee par une resistance PTC pour les temperatures extremes. Le chauffage de l'habitacle est rapide : 3 minutes pour atteindre 20 degres C en partant de -10 degres C. Cependant, le systeme consomme entre 2 et 4 kW en continu selon la temperature exterieure, ce qui represente 15 a 25 % de la consommation totale en hiver.</p>
+<ul>
+  <li>Pompe a chaleur active jusqu'a -15 degres C</li>
+  <li>Sieges chauffants de serie (consommation negligeable : 60 W par siege)</li>
+  <li>Volant chauffant de serie</li>
+  <li>Pre-conditionnement a distance via l'application Xiaomi</li>
+  <li>Mode eco-chauffage reduisant la consommation de 20 % (temperature limitee a 18 degres C)</li>
+</ul>
+
+<h2>Comportement de la batterie par grand froid</h2>
+<p>La batterie CATL NMC de la SU7 Pro dispose d'un systeme de gestion thermique sophistique. Par -10 degres C, la batterie est automatiquement prechauffee avant la recharge rapide, ce qui ajoute 5 a 10 minutes au temps total mais preserve les cellules. La puissance de recharge maximale est reduite a 120 kW (contre 150 kW en conditions normales) jusqu'a ce que la batterie atteigne 10 degres C.</p>
+<p>En roulant, la batterie atteint sa temperature optimale apres 15 a 20 minutes de conduite. Les performances de recuperation d'energie sont reduites de 30 % dans les premieres minutes, puis reviennent a la normale. Aucune alerte ou comportement anormal n'a ete observe durant nos deux semaines de test.</p>
+
+<h2>Verdict</h2>
+<p>La Xiaomi SU7 Pro perd environ 36 % d'autonomie en hiver, un chiffre dans la moyenne des berlines electriques concurrentes (Tesla Model 3 : -32 %, BMW i4 : -34 %, BYD Seal : -38 %). La pompe a chaleur et le pre-conditionnement fonctionnent efficacement. Avec 430 km reels en hiver, la SU7 reste utilisable au quotidien sans recharger chaque jour, meme pour les gros rouleurs.</p>
+`,
   },
   {
     slug: 'chery-tiggo-8-voyage-famille-test-habitabilite',
