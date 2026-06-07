@@ -2578,6 +2578,38 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-05-19T09:00:00+02:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `<h2>Qu'est-ce qu'une batterie Solid State ?</h2>
+<p>Les batteries à état solide (solid-state) représentent la prochaine grande révolution dans le domaine du stockage d'énergie pour véhicules électriques. Contrairement aux batteries lithium-ion traditionnelles qui utilisent un électrolyte liquide, les batteries solid-state emploient un électrolyte solide, offrant des avantages considérables en termes de densité énergétique, de sécurité et de durabilité.</p>
+<p>NIO, le constructeur chinois premium, a misé très tôt sur cette technologie en nouant des partenariats stratégiques avec des spécialistes comme WeLion New Energy. Le résultat : une batterie semi-solide de 150 kWh qui promet de repousser les limites de l'autonomie.</p>
+
+<h2>Les promesses de NIO pour 2026</h2>
+<p>La feuille de route de NIO est ambitieuse. Le constructeur prévoit d'intégrer sa batterie semi-solide dans plusieurs modèles dès 2026, avec des caractéristiques impressionnantes :</p>
+<ul>
+<li><strong>Autonomie annoncée :</strong> plus de 1 000 km en cycle CLTC, soit environ 850 km en cycle WLTP européen</li>
+<li><strong>Densité énergétique :</strong> 360 Wh/kg au niveau cellule, contre 200-250 Wh/kg pour les meilleures batteries actuelles</li>
+<li><strong>Temps de charge :</strong> compatible avec la charge rapide jusqu'à 240 kW</li>
+<li><strong>Durée de vie :</strong> plus de 1 500 cycles de charge sans dégradation significative</li>
+<li><strong>Sécurité :</strong> risque d'emballement thermique quasi nul grâce à l'électrolyte solide</li>
+</ul>
+
+<h2>Un atout majeur : la compatibilité avec le swap NIO</h2>
+<p>L'un des avantages clés de NIO réside dans son système d'échange de batteries (Battery Swap). Les nouvelles batteries semi-solides seront compatibles avec les stations de swap existantes, permettant aux propriétaires de NIO de passer d'une batterie standard à une batterie haute capacité en fonction de leurs besoins.</p>
+<p>Ce système unique offre une flexibilité inégalée : louer une batterie de 150 kWh pour un long trajet, puis revenir à une batterie de 75 kWh pour un usage quotidien, le tout en moins de cinq minutes.</p>
+
+<h2>Les défis à surmonter</h2>
+<p>Malgré les promesses, plusieurs obstacles subsistent avant une commercialisation à grande échelle :</p>
+<table>
+<thead><tr><th>Défi</th><th>Situation actuelle</th><th>Objectif 2026</th></tr></thead>
+<tbody>
+<tr><td>Coût de production</td><td>3 à 5 fois plus cher</td><td>Réduction de 40 %</td></tr>
+<tr><td>Cadence de fabrication</td><td>Production pilote</td><td>Série limitée</td></tr>
+<tr><td>Température de fonctionnement</td><td>Sensible au froid</td><td>-20 °C à +60 °C</td></tr>
+<tr><td>Durabilité long terme</td><td>Tests en cours</td><td>Garantie 8 ans</td></tr>
+</tbody>
+</table>
+
+<h2>Quel impact pour le marché européen ?</h2>
+<p>Si NIO tient ses promesses, les batteries solid-state pourraient transformer le marché européen du véhicule électrique. Une autonomie de 850 km en conditions réelles suffirait à lever le principal frein à l'adoption de l'électrique : l'angoisse de la panne. Combinée au réseau de swap stations que NIO déploie progressivement en Europe, cette technologie pourrait placer le constructeur chinois en position de force face aux marques européennes traditionnelles.</p>`,
   },
   {
     slug: 'moteurs-roue-xiaomi-revolution-technologique',
@@ -3388,6 +3420,47 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-12-02T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `<h2>Un SUV, deux motorisations : comment choisir ?</h2>
+<p>Le BYD Seal U est l'un des SUV familiaux les plus compétitifs du marché européen, proposé en deux variantes distinctes : une version 100 % électrique (EV) et une version hybride rechargeable (PHEV). Les deux partagent la même plateforme BYD e-Platform 3.0, le même design extérieur et un équipement quasi identique, mais leur expérience de conduite et leur coût d'utilisation diffèrent sensiblement.</p>
+
+<h2>Fiche technique comparative</h2>
+<table>
+<thead><tr><th>Spécification</th><th>Seal U EV</th><th>Seal U PHEV (DM-i)</th></tr></thead>
+<tbody>
+<tr><td>Puissance combinée</td><td>204 ch</td><td>218 ch</td></tr>
+<tr><td>Batterie</td><td>71,8 kWh (Blade)</td><td>18,3 kWh (Blade)</td></tr>
+<tr><td>Autonomie électrique</td><td>420 km WLTP</td><td>80 km WLTP</td></tr>
+<tr><td>Autonomie totale</td><td>420 km</td><td>950 km (combinée)</td></tr>
+<tr><td>Charge rapide DC</td><td>Oui (150 kW)</td><td>Non</td></tr>
+<tr><td>Charge AC</td><td>11 kW</td><td>7,4 kW</td></tr>
+<tr><td>Coffre</td><td>425 L</td><td>440 L</td></tr>
+<tr><td>Prix de départ</td><td>Environ 42 990 euros</td><td>Environ 38 990 euros</td></tr>
+</tbody>
+</table>
+
+<h2>Consommation réelle : le PHEV en mode hybride</h2>
+<p>Le Seal U PHEV embarque le système DM-i (Dual Mode intelligent) de BYD, qui privilégie systématiquement le moteur électrique et n'utilise le moteur thermique 1.5L que comme générateur d'appoint. En pratique, cela se traduit par :</p>
+<ul>
+<li><strong>En ville (batterie chargée) :</strong> consommation quasi nulle de carburant, roulage 100 % électrique</li>
+<li><strong>Sur route (batterie vide) :</strong> environ 5,5 L/100 km, grâce au fonctionnement en mode série</li>
+<li><strong>Sur autoroute :</strong> environ 6,8 L/100 km, le moteur thermique étant davantage sollicité</li>
+</ul>
+
+<h2>Avantages exclusifs de la version EV</h2>
+<p>La version 100 % électrique offre plusieurs atouts que le PHEV ne peut égaler :</p>
+<ul>
+<li>Recharge rapide DC jusqu'à 150 kW (10 à 80 % en 33 minutes)</li>
+<li>Silence total de fonctionnement en permanence</li>
+<li>Aucune visite chez le pompiste, jamais</li>
+<li>Frunk (coffre avant) de 50 litres supplémentaires</li>
+<li>Fonction V2L (Vehicle-to-Load) pour alimenter des appareils électriques</li>
+</ul>
+
+<h2>Pour quel profil d'acheteur ?</h2>
+<p>Le choix entre EV et PHEV dépend essentiellement de votre infrastructure de recharge et de votre kilométrage. Si vous disposez d'une borne à domicile et parcourez moins de 300 km par jour, la version EV est plus économique et plus agréable. Si vous effectuez régulièrement de longs trajets (plus de 400 km) ou n'avez pas de solution de recharge fiable, le PHEV offre une tranquillité d'esprit incomparable avec ses 950 km d'autonomie combinée.</p>
+
+<h2>Notre recommandation</h2>
+<p>Pour un usage mixte typique en France (80 % urbain, 20 % autoroute), la version EV reste le choix le plus pertinent. Son coût d'utilisation inférieur compense rapidement le surcoût à l'achat, et le réseau de recharge rapide français permet désormais de voyager sereinement. Le PHEV garde toutefois un argument de poids pour les gros rouleurs et les familles sans garage.</p>`,
   },
   {
     slug: 'omoda-5-thermique-vs-omoda-5-ev-duel-interne',
@@ -3557,6 +3630,35 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-10-28T09:00:00+01:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `<h2>De Morris Garages à SAIC Motor : un siècle d'histoire</h2>
+<p>MG, acronyme de Morris Garages, est née en 1924 à Oxford, en Angleterre. Pendant des décennies, la marque a incarné le roadster britannique par excellence, avec des modèles emblématiques comme la MGB ou la MG Midget. Mais l'histoire de MG est aussi celle d'une longue série de rachats et de restructurations qui l'ont finalement conduite dans le giron du géant chinois SAIC Motor en 2007.</p>
+<p>Aujourd'hui, MG Motor est le fer de lance de la stratégie européenne de SAIC. La marque a su capitaliser sur son héritage britannique pour s'imposer comme la marque chinoise la plus vendue en Europe, avec plus de 230 000 véhicules écoulés sur le continent en 2024.</p>
+
+<h2>La stratégie de conquête européenne</h2>
+<p>Le succès de MG en Europe repose sur plusieurs piliers stratégiques habilement orchestrés par SAIC Motor :</p>
+<ul>
+<li><strong>Un nom connu :</strong> contrairement à BYD ou NIO, MG bénéficie d'une notoriété préexistante en Europe, notamment au Royaume-Uni</li>
+<li><strong>Des prix agressifs :</strong> la MG4 a été lancée à moins de 30 000 euros, la MG3 Hybrid à moins de 20 000 euros</li>
+<li><strong>Un réseau de distribution rapide :</strong> plus de 500 points de vente en Europe en 2025</li>
+<li><strong>Une gamme complète :</strong> du petit SUV (ZS) à la berline sportive (MG7), en passant par le roadster (Cyberster)</li>
+</ul>
+
+<h2>Les chiffres clés de MG en France</h2>
+<table>
+<thead><tr><th>Année</th><th>Ventes France</th><th>Part de marché</th><th>Modèle phare</th></tr></thead>
+<tbody>
+<tr><td>2022</td><td>8 500</td><td>0,5 %</td><td>MG ZS EV</td></tr>
+<tr><td>2023</td><td>18 200</td><td>1,1 %</td><td>MG4 Electric</td></tr>
+<tr><td>2024</td><td>32 400</td><td>1,9 %</td><td>MG3 Hybrid+</td></tr>
+<tr><td>2025 (est.)</td><td>45 000</td><td>2,5 %</td><td>MG3 / MG HS</td></tr>
+</tbody>
+</table>
+
+<h2>Un ADN britannique encore présent ?</h2>
+<p>MG maintient son centre de design européen à Londres et revendique un héritage sportif dans sa communication. Le Cyberster, roadster électrique au design spectaculaire, est un clin d'oeil direct à la MGB. Cependant, la réalité industrielle est claire : la conception, l'ingénierie et la production sont désormais entièrement chinoises. Les modèles vendus en Europe sont fabriqués dans les usines SAIC en Chine, bien qu'une production en Inde soit envisagée pour contourner les droits de douane européens.</p>
+
+<h2>MG, un modèle pour les autres marques chinoises ?</h2>
+<p>Le parcours de MG en Europe est étudié de près par les autres constructeurs chinois. BYD, Chery et NIO tentent de reproduire ce succès, mais sans l'avantage d'un nom déjà connu des consommateurs européens. La leçon de MG est limpide : pour conquérir l'Europe, il faut combiner prix compétitifs, réseau de distribution solide et une image de marque qui rassure. Un défi que peu de marques chinoises ont encore réussi à relever aussi efficacement.</p>`,
   },
   {
     slug: 'zeekr-france-prix-modeles-reseau-2026',
@@ -3763,6 +3865,40 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-09-23T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `<h2>XPeng : quand l'IA devient le coeur de l'automobile</h2>
+<p>XPeng Motors se distingue parmi les constructeurs chinois par son positionnement radical : l'intelligence artificielle n'est pas un accessoire, c'est le fondement même de la marque. Fondée en 2014 par He Xiaopeng, ancien vice-président d'Alibaba, XPeng investit plus de 25 % de son chiffre d'affaires en recherche et développement, un ratio supérieur à celui de Tesla et largement au-dessus de la moyenne du secteur.</p>
+
+<h2>XNGP : le système de conduite autonome de XPeng</h2>
+<p>Le système XNGP (XPeng Navigation Guided Pilot) représente l'une des technologies de conduite assistée les plus avancées au monde. Voici ses principales caractéristiques :</p>
+<ul>
+<li><strong>Capteurs :</strong> 2 LiDAR, 12 caméras, 12 capteurs ultrasoniques et 5 radars millimétriques</li>
+<li><strong>Processeur :</strong> double puce NVIDIA Orin X, offrant 508 TOPS de puissance de calcul</li>
+<li><strong>Capacités :</strong> conduite autonome sur autoroute et en ville, changement de voie automatique, gestion des ronds-points, stationnement télécommandé</li>
+<li><strong>Apprentissage :</strong> le système s'améliore en continu grâce aux données collectées par l'ensemble de la flotte XPeng</li>
+</ul>
+
+<h2>La gamme XPeng en Europe</h2>
+<table>
+<thead><tr><th>Modèle</th><th>Type</th><th>Autonomie WLTP</th><th>Prix estimé</th><th>Point fort IA</th></tr></thead>
+<tbody>
+<tr><td>XPeng G6</td><td>SUV coupé</td><td>570 km</td><td>42 000 euros</td><td>XNGP complet</td></tr>
+<tr><td>XPeng G9</td><td>Grand SUV</td><td>570 km</td><td>52 000 euros</td><td>XNGP + charge 800V</td></tr>
+<tr><td>XPeng P7+</td><td>Berline</td><td>610 km</td><td>38 000 euros</td><td>XNGP + AI Copilot</td></tr>
+<tr><td>XPeng X9</td><td>Monospace</td><td>610 km</td><td>48 000 euros</td><td>Conduite autonome L3</td></tr>
+</tbody>
+</table>
+
+<h2>L'écosystème IA de XPeng</h2>
+<p>L'intelligence artificielle chez XPeng va bien au-delà de la conduite autonome. Le constructeur a développé un écosystème complet :</p>
+<ul>
+<li><strong>AI Copilot :</strong> assistant vocal intelligent capable de comprendre le langage naturel et de contrôler toutes les fonctions du véhicule</li>
+<li><strong>AI Learning :</strong> le véhicule apprend vos habitudes de conduite et adapte automatiquement les réglages (suspension, climatisation, itinéraires)</li>
+<li><strong>AI Diagnostics :</strong> surveillance prédictive de l'état du véhicule, avec alertes de maintenance avant que les problèmes ne surviennent</li>
+<li><strong>XNGP Valet :</strong> la voiture se gare et vient vous chercher de manière autonome dans les parkings compatibles</li>
+</ul>
+
+<h2>XPeng face à Tesla en Europe</h2>
+<p>La bataille entre XPeng et Tesla en Europe se joue principalement sur le terrain technologique. Si Tesla reste en avance sur son réseau de Superchargeurs et sa notoriété, XPeng propose un hardware de conduite autonome objectivement supérieur (LiDAR vs vision pure) et des prix inférieurs de 10 à 15 %. Le défi principal de XPeng reste la construction de sa notoriété et de son réseau de service en Europe, deux domaines où le constructeur chinois accuse encore un retard significatif.</p>`,
   },
   {
     slug: 'leapmotor-alliance-stellantis-sav-europe',
@@ -3775,6 +3911,41 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-09-16T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `<h2>Leapmotor et Stellantis : une alliance stratégique unique</h2>
+<p>En octobre 2023, Stellantis a pris une participation de 21 % dans Leapmotor pour 1,5 milliard d'euros, créant la coentreprise Leapmotor International. Cette alliance est unique dans l'industrie automobile : elle permet à un constructeur chinois de bénéficier immédiatement du réseau de distribution et de service après-vente du plus grand groupe automobile européen, présent dans plus de 130 pays.</p>
+
+<h2>Pourquoi cette alliance change la donne</h2>
+<p>Contrairement aux autres constructeurs chinois qui doivent construire leur réseau européen de zéro, Leapmotor accède directement à l'infrastructure Stellantis :</p>
+<ul>
+<li><strong>Distribution :</strong> les véhicules Leapmotor sont vendus dans les concessions Stellantis (Peugeot, Citroën, Fiat, Opel) à travers toute l'Europe</li>
+<li><strong>Service après-vente :</strong> les ateliers Stellantis assurent l'entretien et les réparations des véhicules Leapmotor</li>
+<li><strong>Pièces détachées :</strong> le réseau logistique Stellantis garantit une disponibilité rapide des pièces</li>
+<li><strong>Financement :</strong> les solutions de crédit et de leasing Stellantis sont disponibles pour les modèles Leapmotor</li>
+</ul>
+
+<h2>Les modèles Leapmotor en Europe</h2>
+<table>
+<thead><tr><th>Modèle</th><th>Segment</th><th>Batterie</th><th>Autonomie</th><th>Prix</th></tr></thead>
+<tbody>
+<tr><td>T03</td><td>Citadine</td><td>37,3 kWh</td><td>265 km WLTP</td><td>18 900 euros</td></tr>
+<tr><td>C10</td><td>SUV familial</td><td>69,9 kWh</td><td>420 km WLTP</td><td>36 400 euros</td></tr>
+<tr><td>C16 (2026)</td><td>SUV 7 places</td><td>86 kWh</td><td>500 km WLTP</td><td>Environ 42 000 euros</td></tr>
+<tr><td>B10 (2026)</td><td>SUV compact</td><td>60 kWh</td><td>400 km WLTP</td><td>Environ 28 000 euros</td></tr>
+</tbody>
+</table>
+
+<h2>Le SAV : le vrai avantage compétitif</h2>
+<p>Le service après-vente est historiquement le talon d'Achille des constructeurs chinois en Europe. Les premiers acheteurs de MG et BYD ont parfois dû attendre des semaines pour une pièce détachée ou un rendez-vous en atelier. Leapmotor, grâce à Stellantis, évite entièrement ce problème :</p>
+<ul>
+<li>Plus de 3 000 points de service en Europe dès le lancement</li>
+<li>Des techniciens formés par Stellantis, avec accès aux outils de diagnostic Leapmotor</li>
+<li>Un stock de pièces détachées prépositionné dans les centres logistiques Stellantis</li>
+<li>Une garantie de 5 ans ou 150 000 km, gérée par le réseau Stellantis</li>
+</ul>
+
+<h2>Les questions qui subsistent</h2>
+<p>Malgré ses atouts, l'alliance Leapmotor-Stellantis soulève quelques interrogations. Les vendeurs Stellantis, habitués à proposer des Peugeot ou des Citroën, seront-ils aussi motivés pour vendre des Leapmotor ? La cohabitation de marques concurrentes dans les mêmes showrooms ne risque-t-elle pas de créer de la confusion ? Et surtout, Stellantis ne risque-t-il pas de cannibaliser ses propres ventes en proposant des véhicules chinois moins chers ?</p>
+<p>Ces questions trouveront leur réponse dans les prochains mois, mais une chose est certaine : Leapmotor bénéficie d'un avantage structurel que aucun autre constructeur chinois ne possède en Europe.</p>`,
   },
   {
     slug: 'gwm-ora-citadines-electriques-design-audacieux',
@@ -3966,6 +4137,43 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-08-05T09:00:00+02:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `<h2>Le Chery Tiggo 8 Pro : un SUV familial à l'épreuve du voyage</h2>
+<p>Le Chery Tiggo 8 Pro est l'un des rares SUV chinois à proposer une configuration 7 places à un prix inférieur à 35 000 euros. Pour tester ses capacités familiales, nous avons embarqué une famille de cinq personnes (deux adultes, trois enfants de 4, 8 et 12 ans) pour un voyage de 1 200 km à travers la France, de Paris à la côte basque. Voici notre retour d'expérience complet.</p>
+
+<h2>Habitabilité : le test des 3 rangées</h2>
+<p>L'habitabilité est le critère numéro un pour un SUV familial. Le Tiggo 8 Pro mesure 4,75 m de long et offre trois rangées de sièges avec les caractéristiques suivantes :</p>
+<ul>
+<li><strong>Première rangée :</strong> espace généreux, sièges confortables avec réglage électrique et ventilation. Rien à redire, même pour un conducteur de 1,90 m</li>
+<li><strong>Deuxième rangée :</strong> excellent espace aux jambes (980 mm), assise large permettant d'installer trois sièges enfant. Inclinaison et coulissement sur rails</li>
+<li><strong>Troisième rangée :</strong> utilisable pour des enfants jusqu'à 12 ans ou des adultes sur de courts trajets. Espace aux jambes limité (680 mm) mais correct pour le segment</li>
+</ul>
+
+<h2>Le coffre : volumes et modularité</h2>
+<table>
+<thead><tr><th>Configuration</th><th>Volume coffre</th><th>Usage type</th></tr></thead>
+<tbody>
+<tr><td>7 places déployées</td><td>192 L</td><td>Courses quotidiennes</td></tr>
+<tr><td>5 places (3e rangée rabattue)</td><td>892 L</td><td>Voyage en famille</td></tr>
+<tr><td>2 places (2e et 3e rangées rabattues)</td><td>1 930 L</td><td>Déménagement</td></tr>
+</tbody>
+</table>
+<p>Pour notre voyage à cinq, nous avons utilisé la configuration 5 places avec la troisième rangée rabattue. Le coffre de 892 litres a accueilli sans difficulté trois valises cabine, un sac de voyage, une poussette pliante et un sac de plage.</p>
+
+<h2>Confort de route sur long trajet</h2>
+<p>Sur les 1 200 km parcourus, le Tiggo 8 Pro s'est montré globalement confortable, avec quelques nuances :</p>
+<ul>
+<li><strong>Suspension :</strong> filtrage correct des imperfections, un peu ferme sur les raccords d'autoroute mais jamais désagréable</li>
+<li><strong>Insonorisation :</strong> bonne jusqu'à 120 km/h, les bruits aérodynamiques deviennent perceptibles au-delà</li>
+<li><strong>Sièges :</strong> maintien satisfaisant, aucune douleur après 4 heures de conduite continue</li>
+<li><strong>Climatisation :</strong> la tri-zone permet de régler indépendamment les trois rangées, un vrai plus familial</li>
+<li><strong>Système multimédia :</strong> écran réactif de 12,3 pouces, Apple CarPlay sans fil fonctionnel</li>
+</ul>
+
+<h2>Consommation et budget carburant</h2>
+<p>Équipé du moteur 1.6 turbo de 186 ch couplé à une boîte DCT 7 rapports, le Tiggo 8 Pro a affiché une consommation moyenne de 8,2 L/100 km sur l'ensemble du trajet (7,4 L sur route, 9,1 L sur autoroute). Pour 1 200 km, le budget carburant s'est élevé à environ 177 euros, un chiffre raisonnable pour un SUV de cette taille chargé à cinq passagers.</p>
+
+<h2>Notre verdict familial</h2>
+<p>Le Chery Tiggo 8 Pro remplit brillamment sa mission de SUV familial pour les voyages. Son habitabilité généreuse, sa modularité et son équipement complet en font une alternative crédible aux Peugeot 5008 et Skoda Kodiaq, pour un prix inférieur de 5 000 à 8 000 euros. Les principaux axes d'amélioration concernent l'insonorisation à haute vitesse et la consommation autoroutière, légèrement au-dessus de la moyenne du segment.</p>`,
   },
   {
     slug: 'navigation-byd-vs-google-maps-fiabilite',
