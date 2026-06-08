@@ -4547,6 +4547,721 @@ export const articles: ArticleSeed[] = [
 <li><a href="/actualites/classement-marques-chinoises-fiabilite-2026">Classement fiabilité des marques chinoises 2026</a></li>
 </ul>`,
   },
+  {
+    slug: 'byd-atto-2-vs-renault-5-e-tech-citadines-electriques-2026',
+    title: "BYD Atto 2 vs Renault 5 E-Tech : le choc des citadines électriques en 2026",
+    excerpt:
+      "Le BYD Atto 2 débarque en Europe à prix agressif face à la star tricolore Renault 5 E-Tech. Autonomie, équipements, prix : qui l'emporte ?",
+    image: 'https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=800',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-06-05T09:00:00+02:00',
+    readingTime: 10,
+    author: 'Rédaction Véhicules Chinois',
+    body: `<h2>Deux philosophies pour la citadine électrique</h2>
+<p>L'arrivée du BYD Atto 2 en Europe début 2026 bouleverse le segment des citadines électriques. Face à lui, la Renault 5 E-Tech, icône rétro-moderne plébiscitée par les acheteurs français. Ce duel incarne parfaitement la confrontation entre l'offensive chinoise et la riposte européenne.</p>
+
+<h2>Design et habitabilité</h2>
+<p>La Renault 5 E-Tech joue la carte de la nostalgie avec ses lignes rétro modernisées, ses phares ronds caractéristiques et un intérieur coloré inspiré de l'originale. Le BYD Atto 2 adopte un style plus conventionnel mais contemporain, avec une face avant épurée et un habitacle orienté technologie. Côté espace, l'Atto 2 surprend avec un empattement généreux offrant plus de place aux jambes à l'arrière.</p>
+
+<h2>Motorisation et autonomie</h2>
+<table><thead><tr><th>Critère</th><th>BYD Atto 2</th><th>Renault 5 E-Tech</th></tr></thead><tbody>
+<tr><td>Puissance</td><td>130 ch</td><td>150 ch (Iconic)</td></tr>
+<tr><td>Batterie</td><td>45,1 kWh (Blade)</td><td>52 kWh</td></tr>
+<tr><td>Autonomie WLTP</td><td>312 km</td><td>410 km</td></tr>
+<tr><td>Charge rapide DC</td><td>75 kW</td><td>100 kW</td></tr>
+<tr><td>0-100 km/h</td><td>9,5 s</td><td>8,0 s</td></tr>
+<tr><td>Prix d'entrée</td><td>~22 000 €</td><td>~25 000 €</td></tr>
+</tbody></table>
+
+<h2>Technologie embarquée</h2>
+<p>Le BYD Atto 2 intègre un écran rotatif de 12,8 pouces avec le système DiLink, compatible Apple CarPlay et Android Auto sans fil. La Renault 5 propose l'écosystème OpenR Link développé avec Google, avec Google Maps intégré et l'assistant vocal Google. Les deux offrent des mises à jour OTA.</p>
+
+<h2>Sécurité</h2>
+<p>La Renault 5 a obtenu 5 étoiles Euro NCAP. Le BYD Atto 2, bénéficiant de la plateforme e-Platform 3.0 et de la batterie Blade ultra-sécurisée, devrait viser le même résultat. Les deux proposent le freinage automatique d'urgence, l'alerte de franchissement de ligne et la surveillance des angles morts.</p>
+
+<h2>Prix et rapport qualité-prix</h2>
+<p>C'est sur le prix que le BYD Atto 2 frappe fort : à partir de 22 000 € environ (bonus déduit), il se positionne 3 000 € sous la Renault 5 d'entrée de gamme. L'équipement de série est plus généreux chez BYD, incluant la caméra 360°, les sièges chauffants et la pompe à chaleur dès la finition de base.</p>
+
+<h2>Verdict</h2>
+<p>La Renault 5 E-Tech séduit par son design iconique, son autonomie supérieure et l'excellence de son réseau SAV français. Le BYD Atto 2 contre-attaque avec un prix imbattable et un équipement pléthorique. Pour les trajets urbains quotidiens, l'Atto 2 est le choix rationnel. Pour le plaisir et l'attachement à une marque française, la R5 reste indétrônable.</p>`,
+  },
+  {
+    slug: 'dacia-bigster-hybrid-vs-byd-atto-3-suv-abordables-2026',
+    title: "Dacia Bigster Hybrid vs BYD Atto 3 : le match des SUV abordables",
+    excerpt:
+      "Le Dacia Bigster hybride arrive pour démocratiser le SUV familial. Face au BYD Atto 3 100% électrique, quel est le meilleur rapport qualité-prix ?",
+    image: 'https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=800',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-06-06T09:00:00+02:00',
+    readingTime: 11,
+    author: 'Rédaction Véhicules Chinois',
+    body: `<h2>SUV familial : thermique abordable ou électrique chinois ?</h2>
+<p>Le Dacia Bigster est l'événement automobile de 2025-2026 : un SUV C-segment à partir de 24 990 € en hybride 140 ch. En face, le BYD Atto 3 propose le 100 % électrique à partir de 33 990 € (avant bonus). Deux visions du SUV abordable s'affrontent.</p>
+
+<h2>Dimensions et habitabilité</h2>
+<p>Le Bigster mesure 4,57 m de long — plus grand que le Duster — et offre un coffre de 667 litres, record du segment. L'Atto 3, à 4,46 m, propose 440 litres de coffre mais un plancher plat grâce à la plateforme électrique. L'espace aux jambes arrière est comparable, avec un léger avantage au Bigster grâce à son empattement de 2,70 m.</p>
+
+<h2>Motorisation et consommation</h2>
+<table><thead><tr><th>Critère</th><th>Dacia Bigster Hybrid 140</th><th>BYD Atto 3</th></tr></thead><tbody>
+<tr><td>Type</td><td>Hybride (essence + 2 moteurs élec.)</td><td>100 % électrique</td></tr>
+<tr><td>Puissance</td><td>140 ch</td><td>204 ch</td></tr>
+<tr><td>Batterie</td><td>1,2 kWh (hybride)</td><td>60,5 kWh (Blade)</td></tr>
+<tr><td>Autonomie / conso</td><td>4,6 L/100 km (WLTP)</td><td>420 km WLTP</td></tr>
+<tr><td>Coffre</td><td>667 L</td><td>440 L</td></tr>
+<tr><td>Poids</td><td>1 410 kg</td><td>1 750 kg</td></tr>
+<tr><td>Prix</td><td>À partir de 24 990 €</td><td>À partir de 33 990 €</td></tr>
+</tbody></table>
+
+<h2>Équipement et technologie</h2>
+<p>Dacia a rehaussé le niveau d'équipement du Bigster : écran 10,1 pouces avec Android Auto/Apple CarPlay sans fil, climatisation automatique et aides à la conduite de niveau 2 dès la finition Expression. Le BYD Atto 3 reste plus généreux de série avec son écran rotatif 12,8 pouces, la caméra 360°, les sièges chauffants, la pompe à chaleur et le V2L (Vehicle-to-Load) pour alimenter des appareils externes.</p>
+
+<h2>Coût total de possession</h2>
+<p>Sur 5 ans et 75 000 km, le Bigster Hybrid revient environ à 38 000 € tout compris (achat + carburant + entretien). L'Atto 3, malgré un achat plus cher, descend à environ 40 000 € grâce au coût réduit de l'électricité et à l'entretien minimal. L'écart se resserre considérablement, surtout pour les conducteurs urbains qui rechargent à domicile.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+<li><strong>Dacia Bigster Hybrid</strong> : familles cherchant un maximum d'espace et de praticité au prix le plus bas, sans contrainte de recharge, idéal pour les longs trajets ruraux.</li>
+<li><strong>BYD Atto 3</strong> : conducteurs urbains/périurbains disposant d'une solution de recharge, sensibles à la technologie embarquée et souhaitant rouler en zéro émission.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Le Dacia Bigster Hybrid est imbattable sur le rapport espace/prix. Le BYD Atto 3 offre une expérience technologique supérieure et un agrément de conduite électrique silencieux. Le choix dépend de votre usage et de votre accès à la recharge.</p>`,
+  },
+  {
+    slug: 'byd-atto-2-vs-citroen-e-c3-electriques-moins-25000',
+    title: "BYD Atto 2 vs Citroën ë-C3 : l'électrique à moins de 25 000 € est-elle crédible ?",
+    excerpt:
+      "Deux citadines électriques sous les 25 000 € : le BYD Atto 2 chinois face au Citroën ë-C3 français. Autonomie, confort, fiabilité : le comparatif complet.",
+    image: 'https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=800',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-06-04T09:00:00+02:00',
+    readingTime: 9,
+    author: 'Rédaction Véhicules Chinois',
+    body: `<h2>La guerre des prix de l'électrique accessible</h2>
+<p>Le segment de l'électrique à moins de 25 000 € explose en 2026. D'un côté, le BYD Atto 2 avec sa batterie Blade et son équipement généreux. De l'autre, le Citroën ë-C3, produit en Europe sur la plateforme Smart Car, qui mise sur le confort et l'identité Citroën.</p>
+
+<h2>Fiche technique comparative</h2>
+<table><thead><tr><th>Critère</th><th>BYD Atto 2</th><th>Citroën ë-C3</th></tr></thead><tbody>
+<tr><td>Puissance</td><td>130 ch</td><td>113 ch</td></tr>
+<tr><td>Batterie</td><td>45,1 kWh Blade LFP</td><td>44 kWh LFP</td></tr>
+<tr><td>Autonomie WLTP</td><td>312 km</td><td>320 km</td></tr>
+<tr><td>Charge rapide</td><td>75 kW DC</td><td>100 kW DC</td></tr>
+<tr><td>Coffre</td><td>340 L</td><td>310 L</td></tr>
+<tr><td>Longueur</td><td>4,31 m</td><td>4,01 m</td></tr>
+<tr><td>Prix</td><td>~22 000 €</td><td>~23 300 €</td></tr>
+</tbody></table>
+
+<h2>Confort et conduite</h2>
+<p>Le Citroën ë-C3 hérite de la philosophie confort de Citroën avec ses suspensions Advanced Comfort et ses sièges moelleux. La conduite est douce et filtrée, idéale en ville. Le BYD Atto 2, plus lourd et plus long, offre une tenue de route plus assurée et un couple instantané plus généreux grâce à ses 130 ch.</p>
+
+<h2>Technologie</h2>
+<p>L'Atto 2 domine sur la technologie embarquée : écran central rotatif 12,8 pouces, instrumentation numérique, caméra 360°, sièges chauffants de série. Le ë-C3 reste plus basique avec un écran 10,25 pouces et un combiné d'instruments simplifié, mais propose une intégration smartphone fluide.</p>
+
+<h2>Réseau et SAV</h2>
+<p>Citroën bénéficie de son réseau historique français avec des milliers de points de service. BYD développe rapidement son réseau en France mais reste en retrait avec environ 80 points de vente fin 2026. Un critère important pour les acheteurs en province.</p>
+
+<h2>Verdict</h2>
+<p>Le BYD Atto 2 est le choix rationnel : plus d'espace, plus de technologie, prix similaire. Le Citroën ë-C3 séduit par son confort typiquement français et la tranquillité d'un réseau SAV éprouvé. Pour un premier achat électrique sans risque, le ë-C3 rassure. Pour maximiser le rapport prestations/prix, l'Atto 2 est redoutable.</p>`,
+  },
+  {
+    slug: 'byd-sealion-7-vs-tesla-model-y-suv-electriques-2026',
+    title: "BYD Sealion 7 vs Tesla Model Y : le SUV électrique qui fait trembler Tesla",
+    excerpt:
+      "Le BYD Sealion 7 attaque frontalement le Tesla Model Y, best-seller mondial. Performance, autonomie, prix : le duel de 2026.",
+    image: 'https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=800',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-06-03T09:00:00+02:00',
+    readingTime: 11,
+    author: 'Rédaction Véhicules Chinois',
+    body: `<h2>Le duel qui définit 2026</h2>
+<p>Le Tesla Model Y domine les ventes de SUV électriques depuis 2022. Le BYD Sealion 7, lancé fin 2024 en Europe, est conçu pour le détrôner. Même segment, même taille, mais deux approches radicalement différentes.</p>
+
+<h2>Fiche technique</h2>
+<table><thead><tr><th>Critère</th><th>BYD Sealion 7</th><th>Tesla Model Y (2024+)</th></tr></thead><tbody>
+<tr><td>Puissance</td><td>313 ch (Comfort) / 530 ch (AWD)</td><td>299 ch (Propulsion) / 514 ch (Performance)</td></tr>
+<tr><td>Batterie</td><td>82,5 kWh / 91,3 kWh</td><td>60 kWh / 82 kWh</td></tr>
+<tr><td>Autonomie WLTP</td><td>482 km / 440 km</td><td>455 km / 533 km</td></tr>
+<tr><td>Charge rapide</td><td>150 kW DC</td><td>250 kW DC</td></tr>
+<tr><td>0-100 km/h</td><td>6,7 s / 4,5 s</td><td>6,9 s / 3,7 s</td></tr>
+<tr><td>Coffre</td><td>520 L</td><td>854 L (sous tablette)</td></tr>
+<tr><td>Prix</td><td>À partir de 42 990 €</td><td>À partir de 44 990 €</td></tr>
+</tbody></table>
+
+<h2>Design et qualité perçue</h2>
+<p>Le Sealion 7 mise sur un design plus expressif avec des lignes sculptées et un intérieur aux matériaux premium. La qualité d'assemblage et les matériaux tactiles sont en net progrès chez BYD. Le Model Y Juniper (2024) a modernisé son intérieur avec une barre lumineuse avant et un écran arrière, mais le style Tesla reste minimaliste — ce qui divise.</p>
+
+<h2>Technologie et conduite autonome</h2>
+<p>Tesla conserve un avantage majeur avec le FSD (Full Self-Driving) en évolution constante, bien que limité en Europe. Le Sealion 7 propose un système ADAS complet avec caméras et radars, suffisant pour le niveau 2 d'autonomie. L'écosystème Tesla (Superchargeurs, app, mises à jour OTA) reste un argument fort.</p>
+
+<h2>Recharge</h2>
+<p>Tesla domine avec son réseau Superchargeurs et une puissance de charge de 250 kW. Le Sealion 7 plafonne à 150 kW en DC, ce qui allonge les pauses sur autoroute. Un point faible notable pour les grands rouleurs.</p>
+
+<h2>Verdict</h2>
+<p>Le BYD Sealion 7 offre un meilleur rapport qualité/prix et un intérieur plus soigné. Le Tesla Model Y conserve ses atouts sur la recharge rapide, l'écosystème logiciel et la valeur de revente. Le Sealion 7 est le choix de la raison ; le Model Y, celui de l'écosystème.</p>`,
+  },
+  {
+    slug: 'byd-seal-vs-tesla-model-3-berlines-electriques-2026',
+    title: "BYD Seal vs Tesla Model 3 Highland : la berline électrique la plus recherchée de 2026",
+    excerpt:
+      "BYD Seal et Tesla Model 3 Highland s'affrontent sur tous les terrains : prix, autonomie, confort, technologie. Le comparatif que tout le monde attend.",
+    image: 'https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=800',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-06-01T09:00:00+02:00',
+    readingTime: 12,
+    author: 'Rédaction Véhicules Chinois',
+    body: `<h2>Le duel le plus googlé de l'automobile électrique</h2>
+<p>« BYD Seal ou Tesla Model 3 ? » est la question la plus recherchée par les acheteurs d'électriques en 2026. Ces deux berlines incarnent l'affrontement entre la Chine et la Silicon Valley sur le segment le plus compétitif du marché.</p>
+
+<h2>Fiche technique</h2>
+<table><thead><tr><th>Critère</th><th>BYD Seal</th><th>Tesla Model 3 Highland</th></tr></thead><tbody>
+<tr><td>Puissance</td><td>313 ch (Dynamic) / 530 ch (AWD)</td><td>283 ch (Propulsion) / 460 ch (LR AWD)</td></tr>
+<tr><td>Batterie</td><td>82,5 kWh Blade</td><td>60 kWh / 79 kWh</td></tr>
+<tr><td>Autonomie WLTP</td><td>570 km</td><td>513 km / 678 km</td></tr>
+<tr><td>Charge rapide</td><td>150 kW DC</td><td>250 kW DC</td></tr>
+<tr><td>0-100 km/h</td><td>5,9 s / 3,8 s</td><td>6,1 s / 4,4 s</td></tr>
+<tr><td>Coffre</td><td>400 L + 53 L frunk</td><td>561 L + 88 L frunk</td></tr>
+<tr><td>Prix</td><td>À partir de 42 990 €</td><td>À partir de 40 990 €</td></tr>
+</tbody></table>
+
+<h2>Agrément de conduite</h2>
+<p>La BYD Seal se distingue par sa batterie Cell-to-Body intégrée au châssis, abaissant le centre de gravité. Le résultat : un comportement routier quasi sportif avec une direction précise. La Model 3 Highland offre une conduite plus légère et un confort de suspension supérieur grâce aux amortisseurs adaptatifs.</p>
+
+<h2>Qualité intérieure</h2>
+<p>L'intérieur de la Seal impressionne : cuir Nappa, écran rotatif 15,6 pouces, ambiance premium. La Model 3 Highland mise sur la sobriété avec son écran 15,4 pouces et un éclairage d'ambiance. Les matériaux ont progressé chez Tesla mais la Seal reste au-dessus en qualité perçue.</p>
+
+<h2>Réseau de recharge et écosystème</h2>
+<p>Tesla domine grâce aux Superchargeurs (250 kW, paiement automatique). BYD dépend du réseau tiers (Ionity, Fastned, TotalEnergies) avec une puissance plafonnée à 150 kW. C'est le talon d'Achille de la Seal sur les longs trajets.</p>
+
+<h2>Verdict</h2>
+<p>La BYD Seal séduit par son dynamisme, sa qualité premium et son autonomie record. La Tesla Model 3 Highland conserve son avantage écosystème et recharge rapide. Pour les trajets quotidiens et le plaisir de conduite, la Seal l'emporte. Pour les grands rouleurs et les technophiles Tesla, la Model 3 reste pertinente.</p>`,
+  },
+  {
+    slug: 'dacia-bigster-vs-jaecoo-7-suv-compacts-familiaux',
+    title: "Dacia Bigster vs Jaecoo 7 : le SUV compact familial à moins de 30 000 €",
+    excerpt:
+      "Deux SUV compacts qui cassent les prix : le Dacia Bigster franco-roumain face au Jaecoo 7 chinois. Lequel offre le meilleur pour les familles ?",
+    image: 'https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=800',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-06-07T09:00:00+02:00',
+    readingTime: 10,
+    author: 'Rédaction Véhicules Chinois',
+    body: `<h2>Le SUV familial accessible : deux nouvelles stars</h2>
+<p>Le Dacia Bigster et le Jaecoo 7 partagent une ambition commune : proposer un vrai SUV compact familial à moins de 30 000 €. L'un vient du groupe Renault avec la recette low-cost éprouvée de Dacia, l'autre du groupe Chery qui mise sur l'équipement et la garantie pour séduire l'Europe.</p>
+
+<h2>Comparatif technique</h2>
+<table><thead><tr><th>Critère</th><th>Dacia Bigster Hybrid 140</th><th>Jaecoo 7</th></tr></thead><tbody>
+<tr><td>Motorisation</td><td>Hybride 140 ch</td><td>1.6 turbo 147 ch</td></tr>
+<tr><td>Transmission</td><td>BVA (e-clutch)</td><td>DCT 7 rapports</td></tr>
+<tr><td>Longueur</td><td>4,57 m</td><td>4,50 m</td></tr>
+<tr><td>Coffre</td><td>667 L</td><td>509 L</td></tr>
+<tr><td>Consommation</td><td>4,6 L/100 km</td><td>7,1 L/100 km</td></tr>
+<tr><td>Garantie</td><td>3 ans / 100 000 km</td><td>7 ans / 150 000 km</td></tr>
+<tr><td>Prix</td><td>À partir de 24 990 €</td><td>À partir de 27 490 €</td></tr>
+</tbody></table>
+
+<h2>Espace et praticité</h2>
+<p>Le Bigster domine avec son coffre de 667 litres — un record absolu sur le segment. La banquette arrière coulissante permet d'ajuster l'espace entre passagers et bagages. Le Jaecoo 7 offre un coffre respectable de 509 litres et une modularité correcte, mais ne peut rivaliser sur la capacité brute.</p>
+
+<h2>Équipement de série</h2>
+<p>Le Jaecoo 7 compense par un équipement pléthorique : écran 14,8 pouces, sièges chauffants/ventilés, toit ouvrant panoramique, caméra 360°, régulateur adaptatif — tout cela de série sur la finition Exclusive. Le Bigster adopte l'approche Dacia : l'essentiel bien fait, avec des options payantes pour monter en gamme.</p>
+
+<h2>Fiabilité et SAV</h2>
+<p>Dacia bénéficie du réseau Renault, dense et éprouvé. Jaecoo, nouveau venu, propose une garantie de 7 ans (150 000 km) pour rassurer les acheteurs, mais son réseau de concessionnaires est encore en construction avec une cinquantaine de points de vente en France.</p>
+
+<h2>Verdict</h2>
+<p>Le Dacia Bigster Hybrid est le roi de la praticité et du coût d'usage grâce à sa motorisation hybride frugale. Le Jaecoo 7 séduit les amateurs d'équipement et de garantie longue. Pour les familles nombreuses, le Bigster est imbattable. Pour ceux qui veulent le maximum de technologie à petit prix, le Jaecoo 7 est une alternative crédible.</p>`,
+  },
+  {
+    slug: 'byd-dolphin-vs-peugeot-e-208-citadines-electriques',
+    title: "BYD Dolphin vs Peugeot e-208 : quelle citadine électrique choisir ?",
+    excerpt:
+      "BYD Dolphin et Peugeot e-208 se disputent le titre de meilleure citadine électrique polyvalente. Prix, autonomie, plaisir de conduite : notre verdict.",
+    image: 'https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=800',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-05-28T09:00:00+02:00',
+    readingTime: 10,
+    author: 'Rédaction Véhicules Chinois',
+    body: `<h2>La citadine électrique idéale existe-t-elle ?</h2>
+<p>La BYD Dolphin s'est imposée comme la citadine électrique au meilleur rapport qualité-prix en 2025. La Peugeot e-208, restylée et dotée d'un nouveau moteur, riposte en 2026. Deux écoles s'affrontent pour séduire les conducteurs urbains.</p>
+
+<h2>Fiche technique</h2>
+<table><thead><tr><th>Critère</th><th>BYD Dolphin</th><th>Peugeot e-208 (2025+)</th></tr></thead><tbody>
+<tr><td>Puissance</td><td>95 ch / 177 ch</td><td>156 ch</td></tr>
+<tr><td>Batterie</td><td>44,9 kWh / 60,4 kWh</td><td>51 kWh</td></tr>
+<tr><td>Autonomie WLTP</td><td>340 km / 427 km</td><td>400 km</td></tr>
+<tr><td>Charge rapide</td><td>60 kW / 85 kW</td><td>100 kW</td></tr>
+<tr><td>Coffre</td><td>345 L</td><td>265 L</td></tr>
+<tr><td>Prix</td><td>À partir de 27 490 €</td><td>À partir de 30 400 €</td></tr>
+</tbody></table>
+
+<h2>Design et personnalité</h2>
+<p>La e-208 incarne l'élégance à la française avec son i-Cockpit, ses crocs lumineux et sa silhouette dynamique. La Dolphin joue la carte de la rondeur sympathique et de la modernité avec un intérieur lumineux et un écran rotatif de série. Deux styles distincts, deux clientèles différentes.</p>
+
+<h2>Conduite au quotidien</h2>
+<p>La Peugeot e-208 offre un agrément de conduite supérieur avec un châssis plus dynamique et une direction plus précise. La Dolphin, plus confortable et silencieuse, privilégie la douceur. Les deux sont parfaitement adaptées à la ville, mais la e-208 se montre plus joueuse sur routes sinueuses.</p>
+
+<h2>Coût total</h2>
+<p>La BYD Dolphin est moins chère à l'achat et mieux équipée de série. La e-208 bénéficie du réseau Peugeot et d'une meilleure valeur de revente à 3 ans. Sur 5 ans, l'écart de TCO se réduit à environ 2 000 € en faveur de la Dolphin.</p>
+
+<h2>Verdict</h2>
+<p>La BYD Dolphin est le choix rationnel avec son prix, son espace et son équipement. La Peugeot e-208 séduit les amateurs de conduite et ceux attachés au réseau français. Un match nul qui se joue sur les préférences personnelles.</p>`,
+  },
+  {
+    slug: 'xpeng-p7-plus-vs-tesla-model-3-berlines-technologiques',
+    title: "XPeng P7+ vs Tesla Model 3 : la berline chinoise qui surpasse Tesla en technologie",
+    excerpt:
+      "La XPeng P7+ embarque le LiDAR, l'ADAS le plus avancé et un intérieur futuriste. Est-ce suffisant pour détrôner la Tesla Model 3 ?",
+    image: 'https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=800',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-05-30T09:00:00+02:00',
+    readingTime: 11,
+    author: 'Rédaction Véhicules Chinois',
+    body: `<h2>La technologie chinoise attaque la Silicon Valley</h2>
+<p>XPeng est la marque chinoise qui mise le plus sur l'intelligence artificielle et la conduite autonome. Sa P7+, dernière itération de la berline à succès, embarque un arsenal technologique qui fait pâlir la concurrence — y compris Tesla.</p>
+
+<h2>Comparatif</h2>
+<table><thead><tr><th>Critère</th><th>XPeng P7+</th><th>Tesla Model 3 Highland</th></tr></thead><tbody>
+<tr><td>Puissance</td><td>292 ch</td><td>283 ch</td></tr>
+<tr><td>Batterie</td><td>76,3 kWh</td><td>60 kWh / 79 kWh</td></tr>
+<tr><td>Autonomie WLTP</td><td>~602 km</td><td>513 km / 678 km</td></tr>
+<tr><td>LiDAR</td><td>Oui (2x LiDAR)</td><td>Non (vision pure)</td></tr>
+<tr><td>Conduite autonome</td><td>XNGP (niveau 2+)</td><td>Autopilot / FSD</td></tr>
+<tr><td>Charge rapide</td><td>175 kW</td><td>250 kW</td></tr>
+<tr><td>Prix estimé Europe</td><td>~45 000 €</td><td>À partir de 40 990 €</td></tr>
+</tbody></table>
+
+<h2>La révolution LiDAR</h2>
+<p>La P7+ intègre deux capteurs LiDAR, 12 caméras, 5 radars millimétriques et 12 capteurs ultrasoniques. Son système XNGP permet une conduite semi-autonome en ville et sur autoroute avec changements de voie automatiques. Tesla continue de miser sur la vision pure avec caméras uniquement — un pari technologique différent dont les résultats en Europe restent limités.</p>
+
+<h2>Intérieur et expérience utilisateur</h2>
+<p>L'habitacle de la P7+ impressionne avec son écran 15,6 pouces, son système vocal intelligent Xmart OS 5.0, et son intégration domotique (contrôle des appareils connectés depuis la voiture). L'espace arrière est généreux grâce à un empattement de 2,92 m. Tesla reste fidèle au minimalisme avec un seul écran central.</p>
+
+<h2>Disponibilité en France</h2>
+<p>XPeng développe son réseau européen mais reste en retrait face à Tesla. La P7+ est disponible dans les principales métropoles françaises, avec un réseau SAV en cours de densification. Un frein pour certains acheteurs, compensé par la garantie de 7 ans.</p>
+
+<h2>Verdict</h2>
+<p>La XPeng P7+ est plus avancée technologiquement avec son LiDAR et son autonomie impressionnante. La Tesla Model 3 conserve l'avantage du réseau de recharge et de l'écosystème établi. Pour les technophiles, la P7+ est un choix fascinant. Pour la praticité au quotidien, Tesla reste une valeur sûre.</p>`,
+  },
+  {
+    slug: 'byd-atto-2-vs-mg4-petites-electriques-rapport-prix',
+    title: "BYD Atto 2 vs MG4 : les petites électriques chinoises au meilleur prix",
+    excerpt:
+      "BYD Atto 2 et MG4, deux chinoises en compétition directe pour le titre de meilleure électrique abordable. Le match 100 % chinois.",
+    image: 'https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=800',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-06-02T14:00:00+02:00',
+    readingTime: 9,
+    author: 'Rédaction Véhicules Chinois',
+    body: `<h2>Le derby chinois de l'électrique abordable</h2>
+<p>BYD Atto 2 et MG4 sont toutes deux chinoises, toutes deux électriques, toutes deux agressives sur les prix. Mais elles ne jouent pas exactement dans la même cour : l'Atto 2 est un petit crossover urbain, la MG4 une compacte dynamique. Qui mérite votre argent ?</p>
+
+<h2>Fiche technique</h2>
+<table><thead><tr><th>Critère</th><th>BYD Atto 2</th><th>MG4 Standard</th></tr></thead><tbody>
+<tr><td>Type</td><td>Crossover citadin</td><td>Compacte</td></tr>
+<tr><td>Puissance</td><td>130 ch</td><td>170 ch</td></tr>
+<tr><td>Batterie</td><td>45,1 kWh Blade</td><td>51 kWh</td></tr>
+<tr><td>Autonomie WLTP</td><td>312 km</td><td>350 km</td></tr>
+<tr><td>Charge rapide</td><td>75 kW</td><td>117 kW</td></tr>
+<tr><td>Coffre</td><td>340 L</td><td>363 L</td></tr>
+<tr><td>Prix</td><td>~22 000 €</td><td>~26 990 €</td></tr>
+</tbody></table>
+
+<h2>Design et positionnement</h2>
+<p>L'Atto 2 adopte un look de petit SUV surélevé, parfait pour la ville avec une position de conduite haute. La MG4 est une vraie compacte basse, plus dynamique visuellement. L'intérieur de l'Atto 2 est plus moderne avec son écran rotatif ; la MG4 offre un cockpit fonctionnel et bien agencé.</p>
+
+<h2>Conduite</h2>
+<p>La MG4 est nettement plus plaisante à conduire grâce à sa plateforme arrière-moteur qui offre un comportement joueur et une excellente tenue de route. L'Atto 2 privilégie le confort et la douceur, parfait pour les trajets urbains quotidiens. Si le plaisir de conduite compte, la MG4 l'emporte clairement.</p>
+
+<h2>Équipement et technologie</h2>
+<p>L'Atto 2 est mieux équipé de série : caméra 360°, sièges chauffants, pompe à chaleur, écran 12,8 pouces rotatif. La MG4 nécessite de monter en finition pour des équipements équivalents, ce qui fait grimper le prix vers 30 000 €.</p>
+
+<h2>Verdict</h2>
+<p>L'Atto 2 est le roi du rapport équipement/prix pour les urbains. La MG4 est le choix des conducteurs qui veulent de l'autonomie et du plaisir. À budget serré, l'Atto 2 est imbattable. Avec 5 000 € de plus, la MG4 Comfort offre une polyvalence supérieure.</p>`,
+  },
+  {
+    slug: 'byd-seal-06-gt-vs-cupra-born-sportives-electriques',
+    title: "BYD Seal 06 GT vs Cupra Born VZ : les sportives électriques accessibles",
+    excerpt:
+      "Deux compactes électriques au tempérament sportif. La BYD Seal 06 GT chinoise face à la Cupra Born VZ espagnole : performances et sensations.",
+    image: 'https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=800',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-05-25T09:00:00+02:00',
+    readingTime: 10,
+    author: 'Rédaction Véhicules Chinois',
+    body: `<h2>L'électrique peut-elle être sportive ET abordable ?</h2>
+<p>La Cupra Born VZ a prouvé qu'une électrique peut procurer des sensations. La BYD Seal 06 GT, déclinaison sportive de la compacte chinoise, arrive avec des arguments solides. Deux philosophies du plaisir électrique s'affrontent.</p>
+
+<h2>Données techniques</h2>
+<table><thead><tr><th>Critère</th><th>BYD Seal 06 GT</th><th>Cupra Born VZ</th></tr></thead><tbody>
+<tr><td>Puissance</td><td>313 ch</td><td>326 ch</td></tr>
+<tr><td>Couple</td><td>380 Nm</td><td>545 Nm</td></tr>
+<tr><td>0-100 km/h</td><td>6,0 s</td><td>5,6 s</td></tr>
+<tr><td>Batterie</td><td>72,6 kWh</td><td>79 kWh</td></tr>
+<tr><td>Autonomie WLTP</td><td>455 km</td><td>445 km</td></tr>
+<tr><td>Charge rapide</td><td>150 kW</td><td>185 kW</td></tr>
+<tr><td>Prix</td><td>~38 000 €</td><td>~44 990 €</td></tr>
+</tbody></table>
+
+<h2>Sensations de conduite</h2>
+<p>La Cupra Born VZ est la plus radicale : châssis abaissé, direction incisive, différentiel à glissement limité simulé. Elle attaque les virages avec gourmandise. La BYD Seal 06 GT est plus polyvalente, combinant dynamisme et confort au quotidien. Sa batterie Blade placée bas aide la stabilité.</p>
+
+<h2>Design et ambiance</h2>
+<p>Cupra assume son ADN sportif avec des accents cuivrés, des sièges baquets et une ambiance cockpit. La Seal 06 GT adopte un design plus consensuel mais élégant, avec un intérieur premium soigné. Deux personnalités distinctes qui parlent à des profils différents.</p>
+
+<h2>Le facteur prix</h2>
+<p>L'écart de prix est significatif : environ 7 000 € en faveur de la BYD. Pour des performances et une autonomie quasi identiques, la Seal 06 GT offre un rapport prestations/prix remarquable. La Cupra justifie son surcoût par un châssis plus affûté et le réseau SEAT/VW.</p>
+
+<h2>Verdict</h2>
+<p>La Cupra Born VZ est la plus sportive des deux, le choix des puristes. La BYD Seal 06 GT est la plus rationnelle, offrant 90 % des sensations pour 85 % du prix. Un excellent compromis pour qui veut du dynamisme sans se ruiner.</p>`,
+  },
+  {
+    slug: 'byd-atto-3-vs-kia-niro-ev-suv-electriques-polyvalents',
+    title: "BYD Atto 3 vs Kia Niro EV : quel SUV électrique polyvalent choisir ?",
+    excerpt:
+      "Deux SUV électriques compacts très populaires en France. Le BYD Atto 3 challenger chinois face au Kia Niro EV best-seller coréen : le verdict.",
+    image: 'https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=800',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-05-22T09:00:00+02:00',
+    readingTime: 10,
+    author: 'Rédaction Véhicules Chinois',
+    body: `<h2>Chine vs Corée : la bataille du SUV compact électrique</h2>
+<p>Le Kia Niro EV est l'un des SUV électriques les plus vendus en Europe depuis 2022. Le BYD Atto 3, arrivé en 2023, l'attaque sur son propre terrain avec un prix inférieur et un équipement généreux. Un duel très recherché par les acheteurs.</p>
+
+<h2>Comparatif technique</h2>
+<table><thead><tr><th>Critère</th><th>BYD Atto 3</th><th>Kia Niro EV</th></tr></thead><tbody>
+<tr><td>Puissance</td><td>204 ch</td><td>204 ch</td></tr>
+<tr><td>Batterie</td><td>60,5 kWh Blade</td><td>64,8 kWh</td></tr>
+<tr><td>Autonomie WLTP</td><td>420 km</td><td>463 km</td></tr>
+<tr><td>Charge rapide</td><td>88 kW DC</td><td>80 kW DC</td></tr>
+<tr><td>Coffre</td><td>440 L</td><td>475 L</td></tr>
+<tr><td>V2L</td><td>Oui</td><td>Oui</td></tr>
+<tr><td>Garantie</td><td>6 ans</td><td>7 ans</td></tr>
+<tr><td>Prix</td><td>À partir de 33 990 €</td><td>À partir de 39 490 €</td></tr>
+</tbody></table>
+
+<h2>Qualité et finition</h2>
+<p>Le Kia Niro EV affiche une qualité d'assemblage irréprochable et des matériaux haut de gamme, fruit de l'expérience coréenne. L'Atto 3 surprend par son design intérieur original (cordes de guitare sur les portières, formes organiques) mais les plastiques sont un cran en dessous. Le Niro est plus classique mais plus solide au toucher.</p>
+
+<h2>Conduite et confort</h2>
+<p>Les deux partagent la même puissance de 204 ch. Le Niro EV offre une conduite plus raffinée avec une meilleure insonorisation et des suspensions plus travaillées. L'Atto 3 est plus ferme mais proposant un comportement routier sain. Sur autoroute, le Niro prend l'avantage sur le confort.</p>
+
+<h2>Coût d'usage</h2>
+<p>L'Atto 3 affiche un prix d'achat inférieur de près de 5 500 €, ce qui compense largement l'écart d'autonomie. Les deux proposent le V2L et des coûts d'entretien similaires. La garantie de 7 ans de Kia reste un argument puissant face aux 6 ans de BYD.</p>
+
+<h2>Verdict</h2>
+<p>Le BYD Atto 3 est le meilleur rapport qualité-prix du segment. Le Kia Niro EV offre une expérience plus aboutie et une meilleure autonomie. Budget serré ? Atto 3. Exigence de finition ? Niro EV.</p>`,
+  },
+  {
+    slug: 'dacia-bigster-vs-omoda-5-suv-compacts-moins-30000',
+    title: "Dacia Bigster vs Omoda 5 : quel SUV compact neuf à moins de 30 000 € ?",
+    excerpt:
+      "Deux SUV compacts qui cassent les codes du rapport qualité-prix. Dacia Bigster ou Omoda 5 ? Le comparatif des malins.",
+    image: 'https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=800',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-06-08T09:00:00+02:00',
+    readingTime: 10,
+    author: 'Rédaction Véhicules Chinois',
+    body: `<h2>Le SUV compact abordable a deux nouveaux champions</h2>
+<p>Le marché des SUV compacts à moins de 30 000 € n'a jamais été aussi compétitif. Le Dacia Bigster, star européenne du rapport espace/prix, affronte l'Omoda 5, nouveau venu chinois de Chery qui mise sur le design et la technologie. Deux stratégies pour conquérir le même client.</p>
+
+<h2>Fiche technique</h2>
+<table><thead><tr><th>Critère</th><th>Dacia Bigster TCe 140 Hybrid</th><th>Omoda 5 1.6T</th></tr></thead><tbody>
+<tr><td>Motorisation</td><td>Hybride 140 ch</td><td>1.6 turbo 147 ch</td></tr>
+<tr><td>Consommation</td><td>4,6 L/100 km</td><td>6,8 L/100 km</td></tr>
+<tr><td>Longueur</td><td>4,57 m</td><td>4,40 m</td></tr>
+<tr><td>Coffre</td><td>667 L</td><td>360 L</td></tr>
+<tr><td>Écran central</td><td>10,1"</td><td>12,3"</td></tr>
+<tr><td>Garantie</td><td>3 ans / 100 000 km</td><td>7 ans / 150 000 km</td></tr>
+<tr><td>Prix</td><td>À partir de 24 990 €</td><td>À partir de 26 990 €</td></tr>
+</tbody></table>
+
+<h2>Design : sage vs audacieux</h2>
+<p>L'Omoda 5 surprend par son design futuriste : face avant sculptée, lignes de coupé, jantes travaillées. Il fait plus cher que son prix. Le Bigster reste fidèle à l'ADN Dacia : robuste, fonctionnel, sans fioritures. L'intérieur de l'Omoda 5 est plus premium avec ses matériaux bi-ton et son écran 12,3 pouces. Le Bigster mise sur l'espace et la praticité.</p>
+
+<h2>Vie à bord</h2>
+<p>Le Bigster est incontestablement plus spacieux : 667 L de coffre contre 360 L pour l'Omoda 5, c'est presque le double. L'espace aux jambes arrière est aussi supérieur chez Dacia. L'Omoda 5 compense par une ambiance plus cossu et un équipement technologique plus riche (caméra 360°, toit panoramique, sono Sony).</p>
+
+<h2>Motorisation et coût d'usage</h2>
+<p>Le Bigster Hybrid consomme 4,6 L/100 km grâce à sa technologie hybride, contre 6,8 L pour l'Omoda 5 turbo. Sur 5 ans, l'écart de carburant atteint environ 3 000 €. L'Omoda 5 contrebalance avec sa garantie de 7 ans, la plus longue du comparatif.</p>
+
+<h2>Verdict</h2>
+<p>Le Dacia Bigster est le choix ultime pour les familles qui privilégient l'espace et l'économie. L'Omoda 5 est fait pour ceux qui veulent un SUV au look premium avec un équipement haut de gamme sans casser la tirelire. Deux excellents choix, deux profils d'acheteurs différents.</p>`,
+  },
+  {
+    slug: 'byd-dolphin-mini-vs-citroen-ami-vs-dacia-spring-micro-mobilite',
+    title: "BYD Seagull vs Citroën Ami vs Dacia Spring : la micro-mobilité électrique comparée",
+    excerpt:
+      "Trois solutions de micro-mobilité électrique à petit budget. Voiturette, mini-citadine ou vraie voiture : laquelle choisir ?",
+    image: 'https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=800',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-05-20T09:00:00+02:00',
+    readingTime: 9,
+    author: 'Rédaction Véhicules Chinois',
+    body: `<h2>Micro-mobilité : trois visions, trois budgets</h2>
+<p>La mobilité urbaine électrique à petit prix se décline en 2026 en trois formats très différents : la Citroën Ami, quadricycle sans permis ; la Dacia Spring, mini-voiture électrique la moins chère d'Europe ; et le BYD Seagull (attendu sous le nom Dolphin Mini en Europe), véritable citadine compacte à prix cassé.</p>
+
+<h2>Fiche comparative</h2>
+<table><thead><tr><th>Critère</th><th>BYD Seagull</th><th>Citroën Ami</th><th>Dacia Spring</th></tr></thead><tbody>
+<tr><td>Catégorie</td><td>Citadine</td><td>Quadricycle (sans permis dès 14 ans)</td><td>Mini-citadine</td></tr>
+<tr><td>Puissance</td><td>75 ch</td><td>8 ch</td><td>65 ch</td></tr>
+<tr><td>Batterie</td><td>30,1 kWh</td><td>5,5 kWh</td><td>26,8 kWh</td></tr>
+<tr><td>Autonomie WLTP</td><td>305 km</td><td>75 km</td><td>230 km</td></tr>
+<tr><td>Vitesse max</td><td>130 km/h</td><td>45 km/h</td><td>125 km/h</td></tr>
+<tr><td>Places</td><td>4</td><td>2</td><td>4</td></tr>
+<tr><td>Prix estimé</td><td>~15 000 €</td><td>~7 990 €</td><td>~16 800 €</td></tr>
+</tbody></table>
+
+<h2>Pour qui est la Citroën Ami ?</h2>
+<p>La Ami est un objet de mobilité unique : pas besoin du permis B, parfaite pour les courts trajets urbains (moins de 10 km). Ses 75 km d'autonomie et sa vitesse limitée à 45 km/h la cantonnent à un usage très spécifique. Idéale pour les adolescents, les seniors ou comme second véhicule urbain.</p>
+
+<h2>Dacia Spring : le minimum vital</h2>
+<p>La Spring est une vraie voiture avec 4 places et une autonomie acceptable de 230 km. Elle peut prendre l'autoroute (125 km/h max) et servir de voiture principale pour les petits rouleurs. Sa finition est basique mais l'essentiel est là. Le réseau Dacia/Renault rassure.</p>
+
+<h2>BYD Seagull : le game-changer</h2>
+<p>Le Seagull promet de tout changer : 305 km d'autonomie, batterie Blade, 4 vraies places, et un prix autour de 15 000 € si BYD absorbe les taxes européennes. C'est presque une Dolphin en miniature. Son arrivée en Europe dépend des droits de douane, mais elle pourrait rendre la Spring obsolète.</p>
+
+<h2>Verdict</h2>
+<p>La Citroën Ami est un objet à part pour la micro-mobilité sans permis. La Dacia Spring reste le choix sûr pour l'électrique premier prix. Le BYD Seagull, s'il arrive aux prix annoncés, sera le nouveau roi de la catégorie. En attendant, la Spring reste la valeur refuge.</p>`,
+  },
+  {
+    slug: 'zeekr-7x-vs-bmw-ix3-suv-premium-electrique',
+    title: "Zeekr 7X vs BMW iX3 : le SUV premium électrique chinois vaut-il un allemand ?",
+    excerpt:
+      "Le Zeekr 7X arrive en Europe pour défier les SUV premium allemands. Face au BMW iX3, la qualité chinoise est-elle au rendez-vous ?",
+    image: 'https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=800',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-05-26T09:00:00+02:00',
+    readingTime: 11,
+    author: 'Rédaction Véhicules Chinois',
+    body: `<h2>Le premium chinois ose défier Munich</h2>
+<p>Zeekr, la marque premium du groupe Geely, lance le 7X en Europe : un SUV électrique familial au positionnement premium. En face, le BMW iX3, référence du segment depuis 2020, joue la carte de l'expérience et du badge. Peut-on vraiment préférer un chinois à un allemand dans ce segment ?</p>
+
+<h2>Fiche technique</h2>
+<table><thead><tr><th>Critère</th><th>Zeekr 7X</th><th>BMW iX3</th></tr></thead><tbody>
+<tr><td>Puissance</td><td>421 ch (bi-moteur)</td><td>286 ch</td></tr>
+<tr><td>Batterie</td><td>100 kWh</td><td>80 kWh</td></tr>
+<tr><td>Autonomie WLTP</td><td>615 km</td><td>461 km</td></tr>
+<tr><td>Charge rapide</td><td>200 kW (800V)</td><td>150 kW</td></tr>
+<tr><td>0-100 km/h</td><td>4,5 s</td><td>6,8 s</td></tr>
+<tr><td>Coffre</td><td>616 L</td><td>510 L</td></tr>
+<tr><td>Prix</td><td>~52 000 €</td><td>~56 500 €</td></tr>
+</tbody></table>
+
+<h2>Technologie : avantage Zeekr</h2>
+<p>Le Zeekr 7X impressionne avec son architecture 800V permettant une recharge ultra-rapide (10-80 % en 20 minutes), un écran OLED 16 pouces, et un système d'infodivertissement basé sur Snapdragon 8295. Le BMW iX3 propose l'iDrive 8, excellent mais technologiquement un cran en dessous sur le hardware.</p>
+
+<h2>Qualité et finition</h2>
+<p>BMW conserve son avance sur l'assemblage et le choix des matériaux. Le cuir Vernasca, les ajustements millimétriques et l'ergonomie typiquement bavaroise restent une référence. Le Zeekr 7X monte en gamme avec du cuir Nappa et des détails soignés, mais ne rattrape pas encore totalement l'artisanat allemand.</p>
+
+<h2>Conduite et dynamisme</h2>
+<p>Avec 421 ch contre 286 ch et un 0-100 km/h en 4,5 s, le Zeekr 7X est sensiblement plus rapide. Le BMW iX3 offre un châssis plus rigoureux et un toucher de route plus communicatif, héritage BMW oblige. Le Zeekr compense par un confort de suspension pneumatique optionnel et un silence de roulement impressionnant.</p>
+
+<h2>Verdict</h2>
+<p>Le Zeekr 7X offre plus de tout : plus de puissance, plus d'autonomie, plus de technologie, pour moins cher. Le BMW iX3 conserve l'avantage de la marque, du réseau, et d'un châssis plus aiguisé. En 2026, le choix rationnel penche vers le Zeekr. Le choix émotionnel reste BMW — mais pour combien de temps ?</p>`,
+  },
+  {
+    slug: 'mg-hs-phev-vs-peugeot-3008-hybrid-suv-hybrides-rechargeables',
+    title: "MG HS PHEV vs Peugeot 3008 Hybrid : le match des SUV hybrides rechargeables",
+    excerpt:
+      "Le MG HS hybride rechargeable à 33 990 € face au nouveau Peugeot 3008 Hybrid à 44 000 €. L'écart de prix justifie-t-il la différence ?",
+    image: 'https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=800',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-05-24T09:00:00+02:00',
+    readingTime: 10,
+    author: 'Rédaction Véhicules Chinois',
+    body: `<h2>PHEV : la Chine casse les prix</h2>
+<p>Le segment des SUV hybrides rechargeables est en pleine mutation. Le MG HS PHEV propose la technologie plug-in à un prix jamais vu : 33 990 €. Le nouveau Peugeot 3008 Hybrid, star française du segment, démarre à 44 000 €. Un écart de 10 000 € qui interpelle.</p>
+
+<h2>Comparatif technique</h2>
+<table><thead><tr><th>Critère</th><th>MG HS PHEV</th><th>Peugeot 3008 Hybrid 225</th></tr></thead><tbody>
+<tr><td>Puissance combinée</td><td>258 ch</td><td>225 ch</td></tr>
+<tr><td>Batterie</td><td>24,7 kWh</td><td>21 kWh</td></tr>
+<tr><td>Autonomie électrique WLTP</td><td>120 km</td><td>87 km</td></tr>
+<tr><td>Consommation (mixte)</td><td>0,8 L/100 km</td><td>1,1 L/100 km</td></tr>
+<tr><td>Coffre</td><td>448 L</td><td>520 L</td></tr>
+<tr><td>Charge</td><td>7,4 kW AC</td><td>7,4 kW AC</td></tr>
+<tr><td>Prix</td><td>À partir de 33 990 €</td><td>À partir de 44 000 €</td></tr>
+</tbody></table>
+
+<h2>L'autonomie électrique fait la différence</h2>
+<p>Le MG HS PHEV offre 120 km d'autonomie en mode 100 % électrique — de quoi couvrir la quasi-totalité des trajets quotidiens sans consommer une goutte d'essence. Le Peugeot 3008 Hybrid, avec 87 km, impose de basculer en thermique plus souvent. Pour les trajets domicile-travail, le MG est plus économique.</p>
+
+<h2>Qualité et expérience</h2>
+<p>Le nouveau Peugeot 3008 2024 a franchi un cap en qualité : intérieur spectaculaire avec l'i-Cockpit panoramique, matériaux premium, et un design intérieur de coupé. Le MG HS est correct mais un cran en dessous en finition. L'écart de prix de 10 000 € se voit dans les détails.</p>
+
+<h2>Conduite</h2>
+<p>Le MG HS est puissant (258 ch) et agréable à conduire avec une bonne insonorisation. Le 3008 Hybrid offre un agrément supérieur avec un châssis plus travaillé et une direction plus précise. Sur route, le Peugeot est plus convaincant.</p>
+
+<h2>Verdict</h2>
+<p>Le MG HS PHEV est une affaire exceptionnelle : 120 km d'autonomie électrique et 258 ch pour 34 000 €, c'est imbattable. Le Peugeot 3008 Hybrid justifie son surcoût par une qualité supérieure et un design intérieur révolutionnaire. Choix de raison vs choix de cœur français.</p>`,
+  },
+  {
+    slug: 'byd-tang-vs-dacia-bigster-7-places-familiales',
+    title: "BYD Tang vs Dacia Bigster : 7 places électrique ou 5 places hybride pour la famille ?",
+    excerpt:
+      "Deux SUV familiaux très différents : le BYD Tang électrique 7 places face au Dacia Bigster hybride 5 places. Quel choix pour une grande famille ?",
+    image: 'https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=800',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-06-04T14:00:00+02:00',
+    readingTime: 10,
+    author: 'Rédaction Véhicules Chinois',
+    body: `<h2>Grande famille : quel SUV à budget maîtrisé ?</h2>
+<p>Les familles nombreuses ont un dilemme en 2026 : opter pour le BYD Tang, SUV 7 places 100 % électrique (ou hybride rechargeable), ou le Dacia Bigster, 5 places mais champion de l'espace et du prix. Deux philosophies radicalement différentes pour répondre au même besoin.</p>
+
+<h2>Comparatif</h2>
+<table><thead><tr><th>Critère</th><th>BYD Tang EV</th><th>Dacia Bigster Hybrid 140</th></tr></thead><tbody>
+<tr><td>Places</td><td>7</td><td>5</td></tr>
+<tr><td>Motorisation</td><td>100 % électrique 517 ch</td><td>Hybride 140 ch</td></tr>
+<tr><td>Autonomie/conso</td><td>400 km WLTP</td><td>4,6 L/100 km</td></tr>
+<tr><td>Longueur</td><td>4,87 m</td><td>4,57 m</td></tr>
+<tr><td>Coffre (5 places)</td><td>940 L</td><td>667 L</td></tr>
+<tr><td>Coffre (7 places)</td><td>235 L</td><td>N/A</td></tr>
+<tr><td>Prix</td><td>À partir de ~70 000 €</td><td>À partir de 24 990 €</td></tr>
+</tbody></table>
+
+<h2>L'argument des 7 places</h2>
+<p>Le BYD Tang est l'un des rares SUV 100 % électriques à proposer 7 vraies places. La troisième rangée est utilisable pour des enfants ou des adolescents, mais les adultes y seront à l'étroit sur longs trajets. Le Bigster, à 5 places uniquement, offre en revanche un espace généreux pour tous les occupants.</p>
+
+<h2>Budget : un monde d'écart</h2>
+<p>Le prix sépare ces deux véhicules de façon radicale : le Tang EV coûte presque trois fois le prix du Bigster. Pour une famille, cet écart représente des années de carburant et d'entretien. Le Bigster est clairement le choix économique, tandis que le Tang est un investissement dans le zéro émission et les 7 places.</p>
+
+<h2>Usage au quotidien</h2>
+<p>Le Bigster hybride ne nécessite aucune infrastructure de recharge et avale les kilomètres sans stress. Le Tang EV demande un point de recharge à domicile et une planification pour les longs trajets. En ville, le Tang brille par son silence et son couple instantané.</p>
+
+<h2>Verdict</h2>
+<p>Si vous avez absolument besoin de 7 places en électrique et que le budget le permet, le BYD Tang est unique sur le marché. Pour la majorité des familles, le Dacia Bigster offre un rapport espace/prix imbattable avec la tranquillité d'un hybride sans contrainte de recharge.</p>`,
+  },
+  {
+    slug: 'smart-1-vs-volvo-ex30-vs-zeekr-x-trio-geely-premium',
+    title: "Smart #1 vs Volvo EX30 vs Zeekr X : trois cousins Geely, lequel choisir ?",
+    excerpt:
+      "Trois SUV compacts électriques premium issus du même groupe Geely. Smart #1, Volvo EX30 ou Zeekr X : même plateforme, trois personnalités.",
+    image: 'https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=800',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-05-18T09:00:00+02:00',
+    readingTime: 11,
+    author: 'Rédaction Véhicules Chinois',
+    body: `<h2>La famille Geely au complet</h2>
+<p>Smart #1, Volvo EX30 et Zeekr X partagent un même père — le groupe Geely — et sont construits sur des plateformes liées (SEA). Pourtant, chacun vise une clientèle différente. Ce triple comparatif inédit permet de comprendre les nuances de l'empire Geely.</p>
+
+<h2>Fiche technique</h2>
+<table><thead><tr><th>Critère</th><th>Smart #1</th><th>Volvo EX30</th><th>Zeekr X</th></tr></thead><tbody>
+<tr><td>Puissance</td><td>272 ch</td><td>272 ch</td><td>272 ch / 428 ch</td></tr>
+<tr><td>Batterie</td><td>66 kWh</td><td>69 kWh</td><td>66 kWh</td></tr>
+<tr><td>Autonomie WLTP</td><td>440 km</td><td>476 km</td><td>440 km</td></tr>
+<tr><td>Charge rapide</td><td>150 kW</td><td>153 kW</td><td>150 kW</td></tr>
+<tr><td>Longueur</td><td>4,27 m</td><td>4,23 m</td><td>4,43 m</td></tr>
+<tr><td>Coffre</td><td>313 L</td><td>318 L</td><td>362 L</td></tr>
+<tr><td>Prix</td><td>À partir de ~37 000 €</td><td>À partir de ~34 000 €</td><td>À partir de ~38 000 €</td></tr>
+</tbody></table>
+
+<h2>Trois personnalités distinctes</h2>
+<ul>
+<li><strong>Smart #1</strong> : la plus urbaine et branchée, design mignon et intérieur coloré, parfaite pour les jeunes citadins qui veulent se démarquer.</li>
+<li><strong>Volvo EX30</strong> : la plus scandinave, intérieur minimaliste en matériaux recyclés, sécurité Volvo de série. Le choix sobre et responsable.</li>
+<li><strong>Zeekr X</strong> : la plus technologique et spacieuse, avec le plus grand coffre et la version bi-moteur la plus puissante (428 ch). Le choix performance.</li>
+</ul>
+
+<h2>Qualité et finition</h2>
+<p>Le Volvo EX30 offre la meilleure cohérence design avec son approche scandinave épurée en matériaux écoresponsables. Le Smart #1 est le plus fantaisiste avec ses ambiances lumineuses personnalisables. Le Zeekr X est le plus premium avec ses matériaux nobles et son écran flottant 14,5 pouces.</p>
+
+<h2>Réseau et confiance</h2>
+<p>Volvo bénéficie du réseau le plus dense et de la meilleure image de marque en Europe. Smart profite du réseau Mercedes-Benz pour le SAV. Zeekr, plus récent, est en construction rapide mais reste en retrait. Un critère important pour la tranquillité d'esprit.</p>
+
+<h2>Verdict</h2>
+<p>Le Volvo EX30 est le meilleur compromis prix/autonomie/image de marque. Le Zeekr X offre le plus d'espace et de puissance pour les conducteurs exigeants. Le Smart #1 est le choix lifestyle pour les urbains. Trois excellentes voitures du même groupe — le choix est affaire de personnalité.</p>`,
+  },
+  {
+    slug: 'leapmotor-b10-vs-byd-atto-3-vs-mg-zs-ev-suv-electriques-abordables',
+    title: "Leapmotor B10 vs BYD Atto 3 vs MG ZS EV : le match des SUV électriques à petit prix",
+    excerpt:
+      "Trois SUV électriques chinois à moins de 35 000 €. Leapmotor B10, BYD Atto 3 ou MG ZS EV : lequel offre le meilleur rapport qualité-prix ?",
+    image: 'https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=800',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-06-01T14:00:00+02:00',
+    readingTime: 10,
+    author: 'Rédaction Véhicules Chinois',
+    body: `<h2>SUV électrique chinois : l'embarras du choix</h2>
+<p>Le segment des SUV électriques abordables est dominé par les marques chinoises en 2026. Le Leapmotor B10, nouveau venu distribué par Stellantis, rejoint le BYD Atto 3 et le MG ZS EV dans la bataille des moins de 35 000 €. Un triple comparatif 100 % chinois.</p>
+
+<h2>Fiche technique</h2>
+<table><thead><tr><th>Critère</th><th>Leapmotor B10</th><th>BYD Atto 3</th><th>MG ZS EV</th></tr></thead><tbody>
+<tr><td>Puissance</td><td>231 ch</td><td>204 ch</td><td>177 ch</td></tr>
+<tr><td>Batterie</td><td>69,9 kWh</td><td>60,5 kWh</td><td>72,6 kWh</td></tr>
+<tr><td>Autonomie WLTP</td><td>420 km</td><td>420 km</td><td>440 km</td></tr>
+<tr><td>Charge rapide</td><td>150 kW</td><td>88 kW</td><td>92 kW</td></tr>
+<tr><td>Coffre</td><td>380 L</td><td>440 L</td><td>470 L</td></tr>
+<tr><td>Garantie</td><td>5 ans (Stellantis)</td><td>6 ans</td><td>7 ans</td></tr>
+<tr><td>Prix</td><td>~30 000 €</td><td>~33 990 €</td><td>~29 990 €</td></tr>
+</tbody></table>
+
+<h2>L'atout Leapmotor B10</h2>
+<p>Le B10 est le plus puissant du trio (231 ch) et propose la recharge la plus rapide à 150 kW. Son architecture LEAP 3.5 intègre un cockpit intelligent avec écran 14,6 pouces. Distribué par Stellantis, il bénéficie du réseau SAV Citroën/Peugeot/Fiat — un avantage majeur pour un constructeur chinois méconnu.</p>
+
+<h2>BYD Atto 3 : la valeur sûre</h2>
+<p>L'Atto 3 est le plus établi des trois, avec plus de 2 ans de commercialisation en Europe. Sa batterie Blade est réputée pour sa sécurité et sa durabilité. L'intérieur est original et bien fini, le V2L est de série. C'est le choix de la maturité.</p>
+
+<h2>MG ZS EV : le rapport autonomie/prix</h2>
+<p>Le MG ZS EV offre la plus grande batterie (72,6 kWh) et la meilleure autonomie (440 km) pour le prix le plus bas du trio. Sa garantie de 7 ans est aussi la plus longue. En revanche, son design et sa technologie intérieure commencent à dater face à la concurrence.</p>
+
+<h2>Verdict</h2>
+<p>Le Leapmotor B10 est le choix technologique avec sa recharge rapide et son réseau Stellantis. Le BYD Atto 3 est le plus polyvalent et le mieux fini. Le MG ZS EV est le plus abordable avec la meilleure autonomie. Trois excellentes options — le choix dépend de vos priorités entre prix, technologie et réseau SAV.</p>`,
+  },
+  {
+    slug: 'byd-atto-2-vs-leapmotor-t03-vs-dacia-spring-electrique-20000',
+    title: "BYD Atto 2 vs Leapmotor T03 vs Dacia Spring : l'électrique à 20 000 € en 2026",
+    excerpt:
+      "Trois citadines électriques sous les 23 000 €. BYD Atto 2, Leapmotor T03 ou Dacia Spring : la guerre des prix fait rage.",
+    image: 'https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=800',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-05-15T09:00:00+02:00',
+    readingTime: 9,
+    author: 'Rédaction Véhicules Chinois',
+    body: `<h2>L'électrique accessible : la bataille des 20 000 €</h2>
+<p>Le prix reste le premier frein à l'achat d'une voiture électrique en France. En 2026, trois modèles prouvent que l'électrique à environ 20 000 € est une réalité. Ce triple comparatif aide les acheteurs à budget serré à faire le bon choix.</p>
+
+<h2>Données comparatives</h2>
+<table><thead><tr><th>Critère</th><th>BYD Atto 2</th><th>Leapmotor T03</th><th>Dacia Spring</th></tr></thead><tbody>
+<tr><td>Puissance</td><td>130 ch</td><td>95 ch</td><td>65 ch</td></tr>
+<tr><td>Batterie</td><td>45,1 kWh</td><td>37,3 kWh</td><td>26,8 kWh</td></tr>
+<tr><td>Autonomie WLTP</td><td>312 km</td><td>265 km</td><td>230 km</td></tr>
+<tr><td>Charge rapide</td><td>75 kW</td><td>48 kW</td><td>30 kW</td></tr>
+<tr><td>Longueur</td><td>4,31 m</td><td>3,62 m</td><td>3,73 m</td></tr>
+<tr><td>Coffre</td><td>340 L</td><td>210 L</td><td>290 L</td></tr>
+<tr><td>Prix</td><td>~22 000 €</td><td>~18 900 €</td><td>~16 800 €</td></tr>
+</tbody></table>
+
+<h2>Trois tailles, trois usages</h2>
+<p>Le BYD Atto 2 est le plus grand et le plus polyvalent : c'est un vrai crossover pouvant servir de voiture principale. Le Leapmotor T03 est une mini-citadine 4 places idéale pour la ville stricte. La Dacia Spring est la moins chère mais aussi la moins performante, cantonnée aux trajets courts.</p>
+
+<h2>Équipement de série</h2>
+<p>L'Atto 2 domine largement : écran rotatif 12,8 pouces, caméra 360°, pompe à chaleur, sièges chauffants. Le T03 propose un écran 10,1 pouces, la climatisation et l'aide au stationnement. La Spring est spartiate avec l'essentiel uniquement.</p>
+
+<h2>Recharge : un critère clé</h2>
+<p>La Spring, avec seulement 30 kW en charge rapide, nécessite près d'une heure pour recharger de 20 à 80 %. L'Atto 2, avec 75 kW, fait le même exercice en 30 minutes. Le T03 se situe entre les deux à 48 kW. Pour les utilisateurs qui dépendent des bornes publiques, la différence est significative.</p>
+
+<h2>Verdict</h2>
+<p>Le BYD Atto 2 est le meilleur rapport prestations/prix global. Le Leapmotor T03 est idéal pour un budget minimal avec un usage strictement urbain. La Dacia Spring reste pertinente pour les tout petits budgets et les trajets courts. L'Atto 2 est notre choix recommandé si le budget le permet.</p>`,
+  },
 ];
 
 export function formatArticleDate(iso: string): string {
