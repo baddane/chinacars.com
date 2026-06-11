@@ -117,6 +117,50 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-04-12T09:00:00+01:00',
     readingTime: 6,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>La BYD Seal débarque au Maroc : un tournant pour le marché des VE</h2>
+<p>BYD, le plus grand constructeur de véhicules électriques au monde, accélère son offensive au Maroc avec l'arrivée de la <strong>Seal</strong>, sa berline électrique haut de gamme. Positionnée comme rivale directe de la Tesla Model 3, la Seal arrive avec des arguments massifs : un design spectaculaire, la technologie de batterie Blade, et un rapport prestations-prix qui devrait secouer le marché marocain des véhicules électriques.</p>
+
+<h2>Un design qui marque les esprits</h2>
+<p>La BYD Seal adopte le langage stylistique "Ocean Aesthetics" de BYD, inspiré des courbes marines. Le résultat est une berline aux lignes fluides, avec un coefficient aérodynamique de <strong>Cx 0,219</strong> — l'un des meilleurs de sa catégorie. La face avant, dépourvue de calandre traditionnelle, arbore des phares effilés reliés par un bandeau chromé. Le profil de coupé quatre portes et la poupe sculptée lui donnent une allure premium qui tranche avec le conservatisme habituel du segment.</p>
+<p>Avec ses <strong>4 800 mm de longueur</strong>, 1 875 mm de largeur et un empattement de 2 920 mm, la Seal se positionne comme une berline de taille moyenne, comparable à la Tesla Model 3 mais légèrement plus longue et plus large.</p>
+
+<h2>Deux motorisations au choix</h2>
+<p>La BYD Seal sera proposée au Maroc en deux configurations :</p>
+<ul>
+  <li><strong>Version propulsion (RWD)</strong> : un moteur arrière de <strong>313 ch</strong> (230 kW) et 360 Nm. Le 0-100 km/h est bouclé en 5,9 secondes. C'est la version la plus efficiente, idéale pour l'usage quotidien.</li>
+  <li><strong>Version intégrale (AWD)</strong> : deux moteurs pour une puissance combinée de <strong>530 ch</strong> (390 kW) et 670 Nm. Le 0-100 km/h tombe à <strong>3,8 secondes</strong>. Des performances de sportive dans un emballage familial.</li>
+</ul>
+<p>Les deux versions partagent la même batterie <strong>BYD Blade de 82,5 kWh</strong> en chimie LFP (Lithium Fer Phosphate). L'autonomie WLTP atteint <strong>570 km en propulsion</strong> et environ 520 km en intégrale.</p>
+
+<h2>La batterie Blade : l'arme secrète de BYD</h2>
+<p>La technologie Blade est le principal différenciateur de BYD sur le marché mondial. Contrairement aux batteries NMC utilisées par Tesla et la plupart des concurrents, la chimie <strong>LFP</strong> de BYD offre plusieurs avantages déterminants :</p>
+<ul>
+  <li><strong>Sécurité extrême</strong> : la batterie Blade a réussi le "nail penetration test" — une aiguille enfoncée dans la cellule ne provoque aucune inflammation ni explosion. Les batteries NMC échouent systématiquement à ce test.</li>
+  <li><strong>Durée de vie supérieure</strong> : 3 000 à 5 000 cycles de charge complets, soit environ 15 à 20 ans d'utilisation normale. BYD garantit la batterie <strong>8 ans ou 200 000 km</strong>.</li>
+  <li><strong>Résistance à la chaleur</strong> : un avantage particulièrement pertinent pour le climat marocain, où les températures estivales peuvent dépasser 45 °C dans certaines régions.</li>
+</ul>
+<p>Le format "lame" des cellules, empilées verticalement dans le pack, permet une intégration Cell-to-Body (CTB) qui fait de la batterie un élément structurel du châssis. Résultat : un centre de gravité très bas et une rigidité torsionnelle exceptionnelle.</p>
+
+<h2>Technologie embarquée</h2>
+<p>L'intérieur de la Seal est dominé par un <strong>écran tactile rotatif de 15,6 pouces</strong> qui bascule entre les modes portrait et paysage selon l'application utilisée. Le combiné d'instrumentation numérique de 10,25 pouces et l'affichage tête haute complètent l'ensemble.</p>
+<p>Le système d'infodivertissement <strong>DiLink</strong> intègre la navigation, la téléphonie Bluetooth, Apple CarPlay et Android Auto. Le système audio embarque <strong>8 haut-parleurs</strong> Dynaudio pour une sonorité convaincante.</p>
+<p>Côté aides à la conduite, la Seal dispose du <strong>DiPilot</strong> de niveau 2 : régulateur adaptatif, maintien de voie, freinage d'urgence autonome, surveillance d'angles morts et caméra 360°.</p>
+
+<h2>Recharge : compatible avec l'infrastructure marocaine</h2>
+<p>La BYD Seal accepte une charge rapide en courant continu jusqu'à <strong>150 kW</strong>, permettant de passer de 30 à 80 % en environ <strong>26 minutes</strong>. En charge AC (wallbox domestique), elle supporte jusqu'à <strong>11 kW en triphasé</strong> et 7 kW en monophasé.</p>
+<p>Au Maroc, l'infrastructure de recharge se développe rapidement. Le réseau <strong>IRESEN</strong> et les bornes installées par Shell Recharge, TotalEnergies et les stations autoroutières couvrent les principaux axes. L'axe Casablanca-Rabat-Tanger et Casablanca-Marrakech sont désormais praticables en VE sans anxiété d'autonomie majeure.</p>
+<p>Avec ses 570 km d'autonomie WLTP, la Seal peut couvrir un Casablanca-Marrakech aller-retour sans recharge — une tranquillité d'esprit que peu de VE peuvent offrir au Maroc.</p>
+
+<h2>Prix et positionnement au Maroc</h2>
+<p>BYD positionne la Seal comme une berline premium accessible. Au Maroc, les prix estimés tournent autour de <strong>450 000 à 550 000 DH</strong> selon la version et le niveau de finition. C'est nettement moins cher qu'une Tesla Model 3 importée (souvent au-delà de 600 000 DH), tout en offrant plus d'équipement de série.</p>
+<p>Par rapport aux berlines thermiques premium (BMW Série 3, Mercedes Classe C, Audi A4), la Seal se positionne au même niveau de prix mais avec un coût d'utilisation drastiquement inférieur : pas de carburant, entretien réduit (pas de vidange, pas d'embrayage, freins moins sollicités grâce au freinage régénératif).</p>
+
+<h2>Verdict : la meilleure berline électrique accessible au Maroc</h2>
+<p>La BYD Seal coche toutes les cases pour séduire l'acheteur marocain exigeant : design premium, performances solides, autonomie rassurante, batterie adaptée au climat chaud, et un prix compétitif face à la concurrence thermique et électrique.</p>
+<p>Son principal défi au Maroc reste le réseau après-vente BYD, encore en construction, et la perception de la marque auprès d'un public habitué aux badges européens. Mais avec la qualité de produit démontrée par la Seal, ces barrières devraient tomber rapidement.</p>
+<p>Si vous cherchez une berline électrique au Maroc en 2024, la BYD Seal est le nouveau benchmark à battre.</p>
+`,
   },
   {
     slug: 'mg-cyberster-roadster-electrique',
@@ -128,6 +172,189 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'essai',
     publishedAt: '2024-04-10T09:00:00+01:00',
     readingTime: 5,
+    body: `
+      <h2>Le retour d'une légende : MG ressuscite le roadster</h2>
+      <p>
+        Dans le paysage automobile actuel, dominé par les SUV et les crossovers, le lancement d'un roadster
+        100 % électrique relève presque de la provocation. Et pourtant, <strong>MG</strong> — marque britannique
+        historique aujourd'hui propriété du géant chinois <strong>SAIC Motor</strong> — ose le pari avec le
+        <strong>Cyberster</strong>, un cabriolet deux places qui entend marier l'héritage sportif de la marque
+        à la modernité de la propulsion électrique. Pour les puristes, le nom MG évoque immédiatement les
+        sinueuses routes anglaises parcourues au volant d'une <em>MGA</em> ou d'une <em>MGB</em>, ces petits
+        roadsters légers et joueurs qui ont fait la gloire de la marque dans les années 1950 à 1970. Avec le
+        Cyberster, MG affirme que cet esprit n'est pas mort : il s'est simplement électrifié.
+      </p>
+      <p>
+        Le projet Cyberster a été dévoilé pour la première fois sous forme de concept au Salon de Shanghai en 2021,
+        suscitant un engouement immédiat. La version de série, présentée en 2023 et commercialisée en Europe
+        à partir de 2024, reste remarquablement fidèle au concept original. C'est un signal fort : SAIC Motor
+        prend la marque MG au sérieux et entend lui redonner une identité sportive crédible sur la scène mondiale.
+      </p>
+
+      <h2>Un design qui ne laisse personne indifférent</h2>
+      <p>
+        Le Cyberster frappe d'abord par son <strong>design audacieux</strong>. Long de 4,54 mètres, large de
+        1,91 mètre et haut de seulement 1,33 mètre, il affiche des proportions classiques de grand tourisme
+        sportif. Le capot plongeant, les ailes musclées et la poupe effilée dessinent une silhouette à la fois
+        rétro et résolument moderne — un exercice de style que MG qualifie de <em>« rétro-futurisme »</em>.
+      </p>
+      <p>
+        L'élément le plus spectaculaire reste sans doute les <strong>portes en élytre</strong> (scissor doors),
+        qui s'ouvrent vers le haut dans un geste théâtral. Un choix rare sur une voiture de série à ce niveau
+        de prix, et qui confère au Cyberster une présence visuelle digne de supercars bien plus onéreuses.
+        À l'avant, une <strong>barre lumineuse LED</strong> traverse toute la largeur de la face, encadrant
+        une calandre fermée caractéristique des véhicules électriques. Les feux arrière adoptent un motif
+        similaire, créant une signature lumineuse reconnaissable entre mille, de jour comme de nuit.
+      </p>
+      <p>
+        La capote souple, à commande électrique, se replie en une vingtaine de secondes et peut être actionnée
+        jusqu'à 50 km/h. Une fois ouverte, elle libère une expérience de conduite à ciel ouvert que seul un
+        roadster peut offrir — et que l'absence de bruit moteur rend encore plus immersive.
+      </p>
+
+      <h2>Deux motorisations, deux tempéraments</h2>
+      <p>
+        MG propose le Cyberster en <strong>deux configurations mécaniques</strong> distinctes, permettant de
+        couvrir un spectre large de clientèle :
+      </p>
+      <ul>
+        <li>
+          <strong>Version Standard (propulsion) :</strong> un unique moteur électrique sur l'essieu arrière
+          développant <strong>340 ch (250 kW)</strong>. Cette version privilégie l'agilité et la légèreté,
+          avec un 0 à 100 km/h abattu en environ <strong>5,0 secondes</strong>. C'est la version la plus
+          proche de l'esprit originel des MG d'antan : légère, joueuse, axée sur le plaisir de conduite
+          plutôt que sur la performance brute.
+        </li>
+        <li>
+          <strong>Version Trophy (transmission intégrale) :</strong> deux moteurs électriques — un sur chaque
+          essieu — pour une puissance combinée de <strong>544 ch (400 kW)</strong>. Le 0 à 100 km/h est
+          expédié en seulement <strong>3,2 secondes</strong>, une valeur digne des sportives les plus
+          performantes du marché. Le couple instantané propre à l'électrique rend l'accélération
+          particulièrement saisissante.
+        </li>
+      </ul>
+      <p>
+        Les deux versions partagent une <strong>batterie de 77 kWh</strong> fournie par CATL, offrant une
+        autonomie annoncée d'environ <strong>400 kilomètres</strong> selon le cycle WLTP. La recharge rapide
+        en courant continu (jusqu'à 140 kW) permet de récupérer 10 à 80 % de la capacité en une trentaine
+        de minutes. Des chiffres qui rendent le Cyberster tout à fait envisageable pour un usage quotidien,
+        au-delà des simples virées dominicales.
+      </p>
+
+      <h2>Dynamique de conduite : l'électrique au service du plaisir</h2>
+      <p>
+        Sur la route, le Cyberster démontre que MG n'a pas conçu un simple objet de style. La plateforme
+        dédiée aux véhicules électriques place la batterie en position basse et centrale, abaissant
+        considérablement le centre de gravité. La répartition des masses est quasi parfaite (50/50),
+        un atout majeur pour l'agilité en courbe.
+      </p>
+      <p>
+        La <strong>suspension est réglable</strong> et propose plusieurs modes de conduite — Comfort, Sport
+        et Super Sport — qui modifient la fermeté des amortisseurs, la réponse de l'accélérateur et le poids
+        de la direction. En mode Comfort, le Cyberster se montre étonnamment docile et confortable pour un
+        roadster. En mode Super Sport, la voiture se raidit, la direction se précise et les réactions deviennent
+        plus vives, invitant le conducteur à explorer les limites d'adhérence.
+      </p>
+      <p>
+        Même en version intégrale Trophy, le Cyberster conserve un <strong>biais vers l'essieu arrière</strong>
+        dans la répartition du couple, préservant un comportement de propulsion typique des roadsters classiques.
+        Le survirage léger en sortie de courbe, maîtrisé par l'électronique mais perceptible, ravira les
+        conducteurs enthousiastes. La direction, bien calibrée, offre un retour d'information satisfaisant
+        même si elle n'atteint pas tout à fait la pureté mécanique d'une Mazda MX-5.
+      </p>
+
+      <h2>Un habitacle technologique et raffiné</h2>
+      <p>
+        L'intérieur du Cyberster tranche avec l'image parfois austère des roadsters traditionnels. MG a opté
+        pour un environnement résolument moderne, dominé par <strong>trois écrans OLED incurvés</strong> qui
+        forment un cockpit numérique enveloppant. L'écran central de 13,1 pouces gère l'infodivertissement,
+        tandis que l'instrumentation numérique de 7 pouces se double d'un affichage tête haute projeté sur
+        le pare-brise.
+      </p>
+      <p>
+        La sellerie mêle <strong>cuir Nappa et Alcantara</strong>, avec des surpiqûres contrastantes qui
+        ajoutent une touche d'élégance sportive. Les sièges baquets, chauffants et ventilés sur la version
+        Trophy, offrent un excellent maintien latéral sans sacrifier le confort sur les longs trajets.
+      </p>
+      <p>
+        Côté audio, un système <strong>Bose à huit haut-parleurs</strong> assure une restitution sonore de
+        qualité, particulièrement appréciable capote ouverte grâce à des haut-parleurs intégrés aux appuie-tête.
+        La connectivité est complète : Apple CarPlay et Android Auto sans fil, chargeur à induction pour
+        smartphone, et une application mobile permettant de surveiller l'état de charge et de préconditionner
+        l'habitacle à distance.
+      </p>
+      <p>
+        Le volume de coffre, inévitablement limité sur un roadster, atteint tout de même <strong>249 litres</strong>,
+        suffisant pour un week-end à deux. Un petit compartiment sous le capot avant (frunk) ajoute un espace
+        de rangement supplémentaire pour les câbles de recharge.
+      </p>
+
+      <h2>Positionnement tarifaire : l'argument choc</h2>
+      <p>
+        C'est peut-être sur le terrain du prix que le Cyberster marque le plus de points. En Europe, MG
+        positionne son roadster dans une fourchette de <strong>60 000 à 65 000 euros</strong> selon la version
+        et les options. Un tarif qui peut sembler élevé au regard de l'offre MG habituelle (la MG4 électrique
+        débute sous les 30 000 €), mais qui reste très compétitif dans le segment des voitures de sport.
+      </p>
+      <p>
+        À titre de comparaison, une <strong>Porsche Boxster</strong> thermique dépasse allègrement les 65 000 €
+        en version de base, tandis qu'une <strong>BMW Z4</strong> M40i s'affiche au-delà de 70 000 €. Le
+        Cyberster offre donc des performances supérieures à ces références pour un prix inférieur — et avec
+        l'avantage fiscal lié à la motorisation électrique dans de nombreux pays européens.
+      </p>
+
+      <h2>Face à la concurrence : un terrain encore vierge</h2>
+      <p>
+        Le Cyberster évolue dans un segment encore très peu occupé par l'électrique. Les concurrents directs
+        sont rares, mais plusieurs constructeurs préparent leur riposte :
+      </p>
+      <ul>
+        <li>
+          <strong>Mazda MX-5 (prochaine génération) :</strong> le roi incontesté du roadster accessible prépare
+          une version électrifiée, mais les détails techniques restent flous. La philosophie Mazda, axée sur la
+          légèreté et la pureté, pourrait offrir un contrepoint intéressant au Cyberster plus technologique.
+        </li>
+        <li>
+          <strong>BMW Z4 :</strong> la prochaine génération devrait adopter une motorisation hybride rechargeable,
+          voire 100 % électrique. Le prestige de la marque bavaroise reste un atout, mais le prix sera
+          vraisemblablement supérieur.
+        </li>
+        <li>
+          <strong>Porsche Boxster EV :</strong> Porsche a confirmé travailler sur une version électrique de son
+          célèbre roadster, attendue vers 2025-2026. Elle sera sans doute la référence dynamique du segment, mais
+          à un prix nettement plus élevé.
+        </li>
+      </ul>
+      <p>
+        En attendant l'arrivée de ces rivaux, le Cyberster occupe une position quasi unique sur le marché :
+        celle du <strong>seul roadster électrique de série accessible</strong>. Un avantage de premier entrant
+        que MG entend exploiter pleinement.
+      </p>
+
+      <h2>Verdict : un tournant pour l'automobile chinoise en Europe</h2>
+      <p>
+        Le MG Cyberster est bien plus qu'un simple roadster. C'est un <strong>manifeste</strong> : celui d'une
+        industrie automobile chinoise capable de produire des véhicules désirables, performants et
+        émotionnellement engageants — et non plus seulement des voitures électriques « rationnelles » et
+        économiques. En s'attaquant au segment des voitures de sport, SAIC Motor via MG envoie un message
+        clair aux constructeurs européens : la concurrence chinoise ne se limitera pas aux citadines et aux
+        SUV familiaux.
+      </p>
+      <p>
+        Certes, le Cyberster n'est pas parfait. Son poids de près de <strong>1 900 kg</strong> se fait sentir
+        dans les enchaînements serrés, et la sensation de conduite, aussi bonne soit-elle, n'atteint pas encore
+        la pureté d'une Mazda MX-5 ou le raffinement dynamique d'une Porsche Boxster. L'autonomie réelle,
+        capote ouverte sur autoroute, descend sensiblement sous les 350 km.
+      </p>
+      <p>
+        Mais à ce prix, avec ces performances, ce design spectaculaire et cette technologie embarquée, le
+        MG Cyberster représente une proposition de valeur <strong>exceptionnelle</strong>. Il prouve que la
+        transition électrique ne signifie pas la mort du plaisir automobile — bien au contraire. Pour quiconque
+        rêve de sensations décapotables sans émissions, le Cyberster mérite très sérieusement d'être considéré.
+        Et pour l'industrie automobile européenne, il constitue un avertissement de plus : les constructeurs
+        chinois montent en gamme, et ils le font avec audace.
+      </p>
+    `,
   },
   {
     slug: 'importer-voiture-chinoise-maroc-2024',
@@ -139,6 +366,102 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'guide',
     publishedAt: '2024-04-08T09:00:00+01:00',
     readingTime: 8,
+    body: `
+<h2>Introduction : pourquoi importer une voiture chinoise au Maroc ?</h2>
+<p>Le marché automobile marocain connaît une transformation profonde. Les constructeurs chinois, autrefois méconnus, proposent désormais des véhicules à la qualité remarquable, dotés de technologies avancées et affichés à des prix très compétitifs. Que ce soit un SUV familial, une berline élégante ou un véhicule 100 % électrique, l'offre chinoise séduit de plus en plus d'acheteurs marocains. Mais comment procéder concrètement pour importer un véhicule depuis la Chine ? Quelles sont les taxes à prévoir, les démarches administratives, et les pièges à éviter ? Ce guide complet vous accompagne étape par étape.</p>
+
+<h2>Les marques chinoises officiellement présentes au Maroc</h2>
+<p>Avant d'envisager une importation parallèle, il est essentiel de savoir quelles marques disposent déjà d'un réseau officiel au Maroc. <strong>MG</strong>, distribuée par <strong>CAC Motors</strong>, est sans doute la marque chinoise la plus visible dans le Royaume, avec un réseau de concessionnaires couvrant les grandes villes (Casablanca, Rabat, Marrakech, Tanger). <strong>BYD</strong>, le géant mondial de l'électrique, a également fait son entrée sur le marché marocain avec une gamme de véhicules hybrides et électriques. <strong>Chery</strong>, via sa sous-marque <strong>Omoda</strong>, est distribuée par des partenaires locaux et propose des modèles comme l'Omoda 5 et le Tiggo 8 Pro.</p>
+<p>D'autres marques comme <strong>Geely</strong>, <strong>Haval (Great Wall Motors)</strong> et <strong>JAC</strong> sont également présentes, bien que leur réseau soit plus limité. Si le modèle qui vous intéresse est disponible via un concessionnaire officiel, c'est généralement la voie la plus simple et la plus sécurisée. L'importation parallèle reste pertinente pour les modèles non distribués localement ou pour obtenir un meilleur prix.</p>
+
+<h2>Concessionnaire officiel vs importation parallèle : avantages et inconvénients</h2>
+<p><strong>Passer par un concessionnaire officiel</strong> offre plusieurs avantages considérables : garantie constructeur valable au Maroc (généralement 5 ans ou 150 000 km chez les marques chinoises), service après-vente structuré, véhicule déjà homologué pour le marché marocain, et financement facilité via les partenaires bancaires du concessionnaire. En revanche, le choix de modèles peut être limité et les prix parfois majorés par rapport au marché international.</p>
+<p><strong>L'importation parallèle</strong>, quant à elle, permet d'accéder à une gamme beaucoup plus large, incluant des modèles non commercialisés au Maroc, et potentiellement à des prix plus avantageux. Cependant, elle implique des démarches administratives complexes, des coûts de dédouanement significatifs, l'absence de garantie locale, et la nécessité de gérer soi-même l'homologation. Le processus peut prendre entre 2 et 4 mois du début à la fin.</p>
+
+<h2>Les droits de douane et taxes à l'importation</h2>
+<p>L'importation d'un véhicule au Maroc est soumise à une fiscalité conséquente qu'il faut impérativement intégrer dans votre budget. Voici le détail des principales taxes :</p>
+<ul>
+  <li><strong>Droits de douane :</strong> environ <strong>25 %</strong> de la valeur CIF (coût + assurance + fret) du véhicule. C'est la taxe principale qui s'applique à l'entrée du territoire.</li>
+  <li><strong>Taxe sur la Valeur Ajoutée (TVA) :</strong> <strong>20 %</strong>, calculée sur la valeur CIF majorée des droits de douane. Attention, la TVA se calcule donc sur un montant déjà taxé.</li>
+  <li><strong>Taxe de luxe :</strong> applicable aux véhicules dont la valeur dépasse un certain seuil ou dont la cylindrée est élevée. Cette taxe peut varier de <strong>5 % à 20 %</strong> selon les caractéristiques du véhicule.</li>
+  <li><strong>Taxe parafiscale à l'importation :</strong> <strong>0,25 %</strong> de la valeur CIF.</li>
+</ul>
+<p><strong>Exemple concret :</strong> pour un véhicule d'une valeur CIF de 200 000 MAD, les droits de douane s'élèveront à environ 50 000 MAD, la TVA à environ 50 000 MAD (20 % de 250 000 MAD), soit un total de taxes d'environ 100 000 MAD, portant le coût global à environ 300 000 MAD — sans compter les frais de transport, d'homologation et de mise en circulation. Il faut donc prévoir un surcoût de <strong>50 à 70 %</strong> par rapport au prix d'achat initial.</p>
+
+<h2>Le processus d'homologation : CNEH et conformité technique</h2>
+<p>Tout véhicule importé doit obligatoirement être homologué par le <strong>Centre National d'Essais et d'Homologation (CNEH)</strong> avant de pouvoir circuler sur les routes marocaines. Ce processus vise à vérifier que le véhicule répond aux normes techniques et de sécurité en vigueur au Maroc.</p>
+<p>L'homologation comprend plusieurs étapes :</p>
+<ol>
+  <li><strong>Dépôt du dossier technique</strong> auprès du CNEH, incluant les fiches techniques du constructeur, le procès-verbal de réception européen ou international (si disponible), et les certificats d'émission.</li>
+  <li><strong>Inspection physique du véhicule</strong> dans un centre agréé : vérification des éclairages, des dispositifs de sécurité, des émissions polluantes, du système de freinage, etc.</li>
+  <li><strong>Tests d'émissions</strong> pour vérifier la conformité aux normes environnementales marocaines (normes Euro 4 minimum exigées).</li>
+  <li><strong>Délivrance du certificat de conformité</strong> si le véhicule passe tous les contrôles.</li>
+</ol>
+<p>Le processus d'homologation peut prendre de <strong>2 à 6 semaines</strong> et coûte entre <strong>3 000 et 8 000 MAD</strong> selon le type de véhicule. Pour les véhicules déjà homologués en Europe (disposant d'une réception CE), la procédure est simplifiée.</p>
+
+<h2>Les documents indispensables pour l'importation</h2>
+<p>Préparez soigneusement les documents suivants avant d'entamer votre démarche d'importation :</p>
+<ul>
+  <li><strong>Certificat de conformité</strong> (COC) délivré par le constructeur, attestant que le véhicule respecte les normes techniques applicables.</li>
+  <li><strong>Facture d'achat originale</strong> détaillant le prix du véhicule, les options, et les coordonnées du vendeur. La douane marocaine vérifiera la cohérence du prix déclaré avec les prix de référence.</li>
+  <li><strong>Certificat d'origine</strong> délivré par la chambre de commerce du pays exportateur, confirmant le pays de fabrication du véhicule.</li>
+  <li><strong>Connaissement (Bill of Lading)</strong> pour le transport maritime, ou lettre de transport aérien (LTA) pour le fret aérien.</li>
+  <li><strong>Attestation d'assurance</strong> couvrant le transport du véhicule.</li>
+  <li><strong>Fiche technique détaillée</strong> du véhicule (poids, dimensions, motorisation, émissions).</li>
+  <li><strong>Carte d'identité nationale</strong> ou passeport du propriétaire.</li>
+  <li><strong>Justificatif de domicile</strong> au Maroc.</li>
+  <li><strong>Engagement d'immatriculation</strong> à souscrire auprès de la douane.</li>
+</ul>
+<p>Conseil important : faites traduire et légaliser tous les documents rédigés en chinois par un traducteur assermenté reconnu par les autorités marocaines. Les documents en anglais sont généralement acceptés, mais une traduction en français ou en arabe peut être exigée.</p>
+
+<h2>Chronologie et budget détaillé : étape par étape</h2>
+<p>Voici un calendrier type pour une importation depuis la Chine :</p>
+<ol>
+  <li><strong>Semaine 1-2 : Choix du véhicule et négociation</strong> — Sélectionnez votre modèle, négociez le prix avec le vendeur ou l'agent d'export chinois, et confirmez les spécifications. Budget : prix du véhicule (variable).</li>
+  <li><strong>Semaine 3-4 : Préparation à l'export</strong> — Le vendeur prépare les documents d'exportation, le certificat d'origine et organise le transport jusqu'au port (Shanghai, Tianjin, ou Guangzhou). Budget : frais d'agent export (2 000 à 5 000 MAD).</li>
+  <li><strong>Semaine 5-8 : Transport maritime</strong> — Le trajet en cargo depuis la Chine jusqu'au port de Casablanca (Tanger Med est aussi possible) prend environ 25 à 35 jours. Budget : fret maritime (8 000 à 15 000 MAD selon le type de transport — conteneur ou RoRo).</li>
+  <li><strong>Semaine 9-10 : Dédouanement</strong> — Dépôt de la déclaration en douane, paiement des droits et taxes, inspection physique. Budget : droits de douane + TVA + taxes (50 à 70 % de la valeur CIF) + frais de transitaire (2 000 à 4 000 MAD).</li>
+  <li><strong>Semaine 10-14 : Homologation CNEH</strong> — Présentation du véhicule au centre d'homologation, tests, obtention du certificat. Budget : 3 000 à 8 000 MAD.</li>
+  <li><strong>Semaine 14-16 : Immatriculation</strong> — Enregistrement du véhicule auprès du NARSA (anciennement CNSS des transports), obtention de la carte grise marocaine. Budget : environ 1 500 à 3 000 MAD.</li>
+</ol>
+<p><strong>Budget total estimé</strong> (hors prix du véhicule) : entre <strong>65 000 et 130 000 MAD</strong> pour un véhicule d'une valeur de 150 000 à 250 000 MAD. Ce montant peut varier considérablement selon la valeur du véhicule et les taxes applicables.</p>
+
+<h2>Spécificités pour les véhicules électriques</h2>
+<p>L'importation d'un véhicule électrique chinois présente des particularités importantes. Bonne nouvelle : le Maroc encourage la mobilité électrique et offre des <strong>avantages fiscaux</strong> pour les véhicules zéro émission. Les droits de douane sur les véhicules électriques peuvent être réduits, et la taxe de luxe ne s'applique généralement pas.</p>
+<p>Cependant, plusieurs défis subsistent :</p>
+<ul>
+  <li><strong>Infrastructure de recharge :</strong> le réseau de bornes de recharge au Maroc se développe rapidement, notamment grâce aux initiatives de l'ONEE et d'opérateurs privés comme Electra. Les grandes villes et les axes autoroutiers (Casablanca-Rabat, Casablanca-Marrakech) sont de mieux en mieux équipés, mais les zones rurales restent mal desservies.</li>
+  <li><strong>Compatibilité des prises :</strong> vérifiez que votre véhicule chinois est équipé d'un connecteur compatible avec les bornes marocaines (Type 2 ou CCS Combo 2 pour la recharge rapide). Certains véhicules chinois utilisent le standard GB/T, incompatible avec les infrastructures locales sans adaptateur.</li>
+  <li><strong>Garantie batterie :</strong> en l'absence de concessionnaire officiel, la garantie sur la batterie (composant le plus coûteux du véhicule) peut être difficile à faire valoir. Renseignez-vous sur les conditions de garantie internationale du constructeur.</li>
+  <li><strong>Homologation spécifique :</strong> les véhicules électriques sont soumis à des contrôles supplémentaires au CNEH, notamment sur le système de gestion de la batterie (BMS) et les dispositifs de sécurité haute tension.</li>
+</ul>
+
+<h2>Restrictions sur l'importation de véhicules d'occasion</h2>
+<p>Le Maroc applique des règles strictes concernant l'importation de véhicules d'occasion. Depuis la réforme de 2019, <strong>l'importation de véhicules d'occasion de plus de 5 ans est interdite</strong> pour les particuliers. Pour les véhicules de moins de 5 ans, des conditions s'appliquent :</p>
+<ul>
+  <li>Le véhicule doit avoir été immatriculé au nom de l'importateur dans le pays d'origine pendant au moins <strong>12 mois</strong>.</li>
+  <li>Le kilométrage doit être cohérent avec l'âge du véhicule.</li>
+  <li>Un contrôle technique récent (moins de 6 mois) du pays d'origine est exigé.</li>
+  <li>Les droits de douane sur les véhicules d'occasion sont calculés sur la <strong>valeur Argus</strong> ou la valeur transactionnelle, selon le montant le plus élevé.</li>
+</ul>
+<p>Dans la pratique, l'importation d'un véhicule d'occasion depuis la Chine est complexe et rarement avantageuse. Il est presque toujours préférable d'importer un véhicule neuf, d'autant que les prix des véhicules chinois neufs sont déjà très compétitifs.</p>
+
+<h2>Conseils pour éviter les pièges courants</h2>
+<p>L'importation d'un véhicule depuis la Chine comporte des risques qu'il convient d'anticiper :</p>
+<ul>
+  <li><strong>Vérifiez la fiabilité du vendeur :</strong> privilégiez les constructeurs ou concessionnaires officiels plutôt que les intermédiaires non vérifiés. Consultez les avis en ligne, demandez des références, et si possible, visitez le showroom ou l'usine.</li>
+  <li><strong>Attention aux spécifications régionales :</strong> les véhicules destinés au marché chinois peuvent avoir des spécifications différentes (volant à gauche heureusement, mais fréquences radio, système de navigation, langue du tableau de bord). Demandez un véhicule en spécification export ou GCC/Europe.</li>
+  <li><strong>Méfiez-vous des prix trop bas :</strong> un prix anormalement bas peut cacher un véhicule accidenté, un modèle obsolète, ou des frais cachés. Comparez toujours avec les prix officiels du constructeur.</li>
+  <li><strong>Faites appel à un transitaire expérimenté :</strong> le dédouanement au Maroc est une procédure complexe. Un bon transitaire (commissionnaire en douane) vous fera gagner du temps et évitera les erreurs coûteuses.</li>
+  <li><strong>Anticipez la revente :</strong> un véhicule chinois importé en parallèle peut être plus difficile à revendre qu'un modèle acheté via un concessionnaire officiel. La disponibilité des pièces détachées est un facteur crucial.</li>
+  <li><strong>Prévoyez un budget de contingence :</strong> ajoutez 10 à 15 % de marge à votre budget pour couvrir les imprévus (frais de surestaries au port, modifications techniques pour la conformité, etc.).</li>
+</ul>
+
+<h2>Verdict et recommandations</h2>
+<p>Importer une voiture chinoise au Maroc est un projet tout à fait réalisable, mais qui demande une préparation rigoureuse et un budget bien calibré. Pour la majorité des acheteurs, <strong>passer par un concessionnaire officiel reste la solution la plus sûre et la plus simple</strong>, surtout pour les marques déjà bien implantées comme MG, BYD ou Chery/Omoda. La garantie, le service après-vente et la facilité de revente compensent largement le léger surcoût éventuel.</p>
+<p>L'importation parallèle se justifie principalement dans deux cas : lorsque le modèle souhaité n'est pas disponible au Maroc, ou lorsque l'écart de prix est suffisamment important pour absorber les frais de dédouanement et d'homologation. Dans ce cas, entourez-vous de professionnels (agent d'export en Chine, transitaire au Maroc, conseiller en homologation) et ne lésinez pas sur la vérification des documents.</p>
+<p>Enfin, pour les véhicules électriques, le Maroc offre un cadre de plus en plus favorable, mais l'infrastructure de recharge reste un facteur limitant en dehors des grandes agglomérations. Avant de vous lancer, évaluez vos trajets quotidiens et assurez-vous que le réseau de bornes correspond à vos besoins. Le marché des voitures chinoises au Maroc ne fait que commencer — et les opportunités ne manquent pas pour les acheteurs avisés.</p>
+`,
   },
   {
     slug: 'chery-tiggo-8-pro-suv-7-places',
@@ -150,6 +473,48 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'essai',
     publishedAt: '2024-04-05T09:00:00+01:00',
     readingTime: 7,
+    body: `
+<h2>Introduction : Chery vise le haut du tableau</h2>
+<p>Avec le Tiggo 8 Pro, Chery ne se contente plus de proposer des véhicules d'entrée de gamme. Le constructeur chinois, fondé en 1997 et devenu l'un des plus grands exportateurs automobiles de Chine, frappe un grand coup en lançant sur le marché marocain un SUV 7 places qui ambitionne de rivaliser directement avec les références européennes et coréennes du segment. Le Tiggo 8 Pro incarne la nouvelle stratégie de montée en gamme de Chery, avec un design soigné, une dotation technologique généreuse et un rapport prix/prestations particulièrement agressif. Nous avons passé plusieurs jours au volant de ce grand SUV pour évaluer ses qualités et ses limites dans les conditions de conduite marocaines.</p>
+
+<h2>Design extérieur : une présence affirmée sur la route</h2>
+<p>Le Chery Tiggo 8 Pro ne passe pas inaperçu. Avec ses <strong>4750 mm de longueur</strong>, 1860 mm de largeur et 1745 mm de hauteur, il impose une silhouette massive et rassurante. La face avant est dominée par une <strong>imposante calandre chromée</strong> en forme de diamant, encadrée par des projecteurs full LED à la signature lumineuse distinctive. Les feux de jour en forme de « L » allongé confèrent au véhicule un regard moderne et reconnaissable, même de loin.</p>
+<p>Le profil révèle des lignes fluides et bien proportionnées, avec un empattement généreux de 2710 mm qui promet un espace intérieur conséquent. Les jantes en alliage de 18 pouces habillent correctement les passages de roue, tandis que les barres de toit intégrées ajoutent une touche d'aventure. À l'arrière, le bandeau <strong>LED traversant</strong> relie les deux feux et élargit visuellement la poupe du véhicule. L'ensemble dégage une impression de robustesse et de qualité qui tranche avec l'image que l'on pouvait avoir des constructeurs chinois il y a encore quelques années.</p>
+
+<h2>Habitacle : qualité perçue en net progrès</h2>
+<p>C'est en ouvrant la portière du Tiggo 8 Pro que l'on mesure le chemin parcouru par Chery en matière de qualité intérieure. La planche de bord adopte un dessin horizontal épuré, habillé de matériaux souples au toucher sur toute la partie supérieure. Les assemblages sont soignés, les ajustements précis, et l'ambiance générale respire une certaine élégance. Le volant gainé de cuir est agréable en main, et les commandes tombent naturellement sous les doigts.</p>
+<p>La configuration <strong>2+3+2</strong> offre un agencement classique pour un SUV 7 places. Aux places avant, l'espace est royal : les sièges, réglables électriquement côté conducteur, offrent un bon maintien et un confort appréciable sur les longs trajets. La deuxième rangée est tout aussi accueillante, avec un espace aux genoux généreux grâce à l'empattement de 2710 mm. La banquette coulisse et s'incline, permettant d'optimiser soit l'espace pour les passagers, soit le volume de coffre.</p>
+<p>La <strong>troisième rangée</strong>, accessible en rabattant la banquette médiane grâce à un mécanisme simple, reste réservée à des trajets courts ou à des enfants. L'espace aux genoux y est compté pour des adultes, et la garde au toit limitée. C'est un compromis courant dans le segment, et le Tiggo 8 Pro ne fait ni mieux ni moins bien que ses concurrents directs sur ce point. Les matériaux utilisés dans l'habitacle mélangent cuir synthétique de bonne facture et plastiques texturés, avec quelques inserts en aluminium brossé qui rehaussent l'ensemble.</p>
+
+<h2>Motorisation : le 1.6 turbo comme argument principal</h2>
+<p>Sous le capot, le Chery Tiggo 8 Pro embarque un moteur <strong>1.6 litre TGDI</strong> (Turbo Gasoline Direct Injection) développant <strong>197 chevaux</strong> et un couple maximal de <strong>290 Nm</strong> disponible dès 2000 tr/min. Ce bloc est associé à une <strong>boîte de vitesses à double embrayage humide à 7 rapports (DCT)</strong>, qui transmet la puissance aux roues avant. Ce groupe motopropulseur est le fruit de plusieurs années de développement chez Chery, et il se montre à la hauteur des attentes.</p>
+<p>Au quotidien, le moteur offre des reprises franches et un couple suffisant pour mouvoir sans peine les quelque 1700 kg du véhicule. La boîte DCT à embrayage humide — un choix judicieux pour la fiabilité par rapport aux embrayages secs — enchaîne les rapports avec fluidité dans la plupart des situations. On note toutefois un léger temps de réponse au démarrage, typique de ce type de transmission, mais qui s'efface dès que l'on roule. La consommation mixte annoncée se situe autour de 7,5 L/100 km, un chiffre réaliste que nous avons approché lors de notre essai en conditions mixtes.</p>
+
+<h2>Version PHEV : l'hybride rechargeable en ligne de mire</h2>
+<p>Chery travaille également sur une <strong>version hybride rechargeable (PHEV)</strong>, équivalente à la technologie DM-i que l'on retrouve chez BYD. Cette déclinaison, attendue ultérieurement sur le marché marocain, devrait embarquer une <strong>batterie d'environ 18 à 20 kWh</strong> permettant une autonomie électrique de l'ordre de 80 à 100 km en cycle WLTP. Cette version promet une consommation drastiquement réduite et pourrait séduire les conducteurs urbains soucieux de leur empreinte écologique tout en conservant la polyvalence d'un moteur thermique pour les longs trajets. Le système hybride combine un moteur thermique optimisé pour le rendement et un moteur électrique intégré à la transmission, offrant des transitions douces entre les modes de propulsion.</p>
+
+<h2>Comportement routier : le confort avant tout</h2>
+<p>Le Chery Tiggo 8 Pro a été clairement calibré pour <strong>privilégier le confort</strong>. La suspension, de type McPherson à l'avant et multibras à l'arrière, filtre efficacement les irrégularités de la route, y compris sur les chaussées dégradées que l'on rencontre fréquemment au Maroc. Les ralentisseurs, nids-de-poule et routes secondaires sont avalés avec une sérénité appréciable pour les occupants.</p>
+<p>L'insonorisation constitue l'une des bonnes surprises de cet essai. Le travail sur le <strong>NVH</strong> (Noise, Vibration, Harshness) est remarquable pour un véhicule de ce positionnement tarifaire. Les bruits de roulement restent contenus jusqu'à 120 km/h sur autoroute, et les remontées de bruits du moteur sont bien maîtrisées. Le double vitrage sur les vitres avant contribue à cette quiétude. En revanche, la direction manque un peu de ressenti et de précision, ce qui est cohérent avec la philosophie confort du véhicule mais peut dérouter les conducteurs habitués à des SUV plus dynamiques. Le roulis en courbe reste contenu pour un véhicule de cette taille, mais on ne cherchera pas la conduite sportive avec le Tiggo 8 Pro.</p>
+
+<h2>Technologie embarquée : une dotation impressionnante</h2>
+<p>C'est sur le plan technologique que le Tiggo 8 Pro marque des points décisifs face à la concurrence. L'instrumentation se compose d'un <strong>combiné numérique de 10,25 pouces</strong> entièrement configurable, complété par un <strong>écran central tactile de 13 pouces</strong> orienté vers le conducteur. Ce dernier est réactif, fluide dans sa navigation et compatible avec Apple CarPlay et Android Auto sans fil. L'interface est intuitive et l'on s'y retrouve rapidement.</p>
+<p>La <strong>caméra 360°</strong> à haute résolution offre une vue panoramique du véhicule, indispensable pour manœuvrer un SUV de cette taille dans les ruelles étroites des villes marocaines. Le système d'aide à la conduite de <strong>niveau 2 (ADAS)</strong> comprend le régulateur de vitesse adaptatif, le maintien dans la voie, la détection d'angle mort, l'alerte de trafic transversal arrière et le freinage automatique d'urgence (AEB). L'ensemble fonctionne de manière convaincante sur autoroute et réduit significativement la fatigue sur les longs trajets. On trouve également la recharge sans fil pour smartphone, un toit ouvrant panoramique, la climatisation tri-zone et un système audio Sony à 8 haut-parleurs.</p>
+
+<h2>Coffre et modularité : la polyvalence au rendez-vous</h2>
+<p>Le volume de coffre varie considérablement selon la configuration retenue. Avec la troisième rangée en place, le coffre offre <strong>193 litres</strong>, ce qui suffit à peine pour quelques sacs de courses. En rabattant la troisième rangée à plat, on récupère un volume de <strong>892 litres</strong>, largement suffisant pour les bagages d'une famille lors d'un départ en vacances. En configuration deux places, avec les deuxième et troisième rangées rabattues, le volume grimpe à un impressionnant <strong>1930 litres</strong>, transformant le Tiggo 8 Pro en véritable utilitaire. Le seuil de chargement est raisonnable et le plancher de coffre plat facilite le chargement d'objets encombrants.</p>
+
+<h2>Sécurité : un niveau rassurant</h2>
+<p>Le Chery Tiggo 8 Pro embarque une dotation sécuritaire complète avec <strong>6 airbags</strong> (frontaux, latéraux et rideaux), l'<strong>ESP</strong> (contrôle électronique de stabilité), l'ABS avec répartiteur électronique de freinage (EBD), l'assistance au <strong>freinage d'urgence (AEB)</strong>, l'assistance au démarrage en côte (HSA) et le contrôle de descente (HDC). Les résultats aux crash-tests internationaux sont encourageants, avec une note de 5 étoiles aux tests C-NCAP chinois. Le châssis renforcé utilise des aciers à haute résistance sur les zones stratégiques, offrant une cellule de survie solide en cas de collision.</p>
+
+<h2>Positionnement prix et concurrence au Maroc</h2>
+<p>C'est sur le terrain du prix que le Chery Tiggo 8 Pro abat sa carte maîtresse. Proposé à un tarif nettement inférieur à celui de ses concurrents directs, il offre un rapport équipement/prix difficilement égalable. Face au <strong>Hyundai Tucson</strong>, proposé à partir de 370 000 MAD environ en version bien équipée, ou au <strong>Kia Sportage</strong> dans une fourchette similaire, le Tiggo 8 Pro offre davantage d'espace (7 places contre 5), une motorisation comparable et une dotation technologique au moins équivalente, le tout pour un budget sensiblement inférieur.</p>
+<p>La comparaison est encore plus flatteuse face aux SUV 7 places du marché, comme le Hyundai Santa Fe ou le Kia Sorento, qui se positionnent dans des tranches tarifaires nettement supérieures. Chery mise également sur une garantie constructeur généreuse et un réseau de concessionnaires en pleine expansion au Maroc pour rassurer les acheteurs potentiels sur le service après-vente et la disponibilité des pièces de rechange.</p>
+
+<h2>Verdict : un rapport qualité-prix redoutable</h2>
+<p>Le Chery Tiggo 8 Pro est une proposition séduisante qui bouscule véritablement les codes du segment des SUV 7 places au Maroc. Sa qualité de fabrication, sa dotation technologique généreuse, son confort de roulement et surtout son positionnement tarifaire agressif en font un choix rationnel pour les familles à la recherche d'espace et de prestations modernes sans se ruiner. Les quelques réserves que l'on peut formuler — direction un peu légère, troisième rangée étroite, réseau de SAV encore jeune — ne suffisent pas à entamer l'attrait global du véhicule.</p>
+<p>Chery prouve avec le Tiggo 8 Pro que les constructeurs chinois sont désormais capables de proposer des véhicules aboutis, bien finis et technologiquement avancés. Si la marque parvient à consolider son réseau et à maintenir une qualité de service à la hauteur du produit, le Tiggo 8 Pro a tous les atouts pour devenir une référence incontournable sur le marché automobile marocain. Un essai qui nous laisse une impression résolument positive.</p>
+`,
   },
   {
     slug: 'geely-geometry-c-autonomie-autoroute-casa-rabat',
@@ -172,6 +537,74 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'guide',
     publishedAt: '2024-03-28T09:00:00+01:00',
     readingTime: 6,
+    body: `
+<h2>Le marché de l'occasion chinoise : état des lieux en 2026</h2>
+<p>Depuis l'arrivée massive des constructeurs chinois en Europe à partir de 2022-2023, les premiers modèles commencent à alimenter le marché de la seconde main. MG, BYD, et dans une moindre mesure Aiways, sont les marques dont on retrouve le plus de véhicules d'occasion chez les concessionnaires et sur les plateformes en ligne. La question que se posent de nombreux acheteurs est légitime : faut-il franchir le pas et acheter une voiture chinoise d'occasion ? La fiabilité est-elle au rendez-vous ? La décote est-elle un avantage ou un signal d'alarme ? Nous avons mené l'enquête pour vous apporter des réponses concrètes.</p>
+
+<h2>La décote : un atout ou un piège ?</h2>
+<p>L'un des premiers éléments à analyser lorsqu'on envisage l'achat d'une voiture chinoise d'occasion, c'est la décote. Et force est de constater qu'elle est significative. Le <strong>MG ZS EV</strong>, l'un des premiers modèles chinois à avoir conquis le marché européen, perd environ <strong>35 % de sa valeur après deux ans</strong>. Le <strong>BYD Atto 3</strong>, arrivé un peu plus tard, affiche une décote d'environ <strong>30 %</strong> sur la même période.</p>
+<p>À titre de comparaison, une <strong>Volkswagen ID.3</strong> perd environ <strong>25 %</strong> de sa valeur en deux ans, et une <strong>Renault Mégane E-Tech</strong> autour de <strong>28 %</strong>. La différence s'explique par plusieurs facteurs : une image de marque encore fragile, une incertitude sur la pérennité du réseau de distribution, et une offre de modèles neufs très compétitive qui tire les prix de l'occasion vers le bas.</p>
+<p>Pour l'acheteur malin, cette décote représente une véritable opportunité. Un MG ZS EV acheté neuf autour de 30 000 € se retrouve à moins de 20 000 € après deux ans, avec souvent moins de 30 000 km au compteur. C'est un rapport prestations/prix difficile à battre sur le marché de l'occasion électrique.</p>
+
+<h2>Quels modèles trouve-t-on sur le marché de l'occasion ?</h2>
+<p>En 2026, le marché de l'occasion chinoise se structure principalement autour de trois modèles :</p>
+<ul>
+  <li><strong>MG ZS EV (première génération)</strong> : C'est le modèle le plus répandu. Les exemplaires de 2022-2023 se trouvent entre <strong>14 000 € et 19 000 €</strong> selon le kilométrage et la finition. La batterie de 51 kWh offre une autonomie réelle d'environ 250 km, suffisante pour un usage quotidien.</li>
+  <li><strong>MG4</strong> : Plus récent et plus abouti, le MG4 commence à apparaître en occasion à partir de <strong>18 000 € à 24 000 €</strong>. C'est probablement le meilleur rapport qualité/prix du segment en occasion, avec une plateforme moderne et une tenue de route saluée par la presse.</li>
+  <li><strong>BYD Atto 3</strong> : Les premiers exemplaires (lots de 2023) se négocient entre <strong>20 000 € et 26 000 €</strong>. Le SUV compact de BYD séduit par son équipement pléthorique et sa batterie Blade réputée pour sa longévité.</li>
+</ul>
+<p>On trouve également quelques <strong>Aiways U5</strong> sur le marché, mais la disparition quasi complète de la marque en Europe rend l'achat très risqué en termes de pièces détachées et de suivi.</p>
+
+<h2>Les problèmes les plus fréquemment signalés par les propriétaires</h2>
+<p>Après avoir compilé les retours de plusieurs centaines de propriétaires sur les forums spécialisés et les groupes communautaires, voici les problèmes les plus souvent mentionnés :</p>
+<ul>
+  <li><strong>Bugs logiciels</strong> : C'est le point noir numéro un. Système d'infodivertissement qui se fige, mises à jour OTA qui échouent, navigation GPS parfois capricieuse. Ces problèmes sont généralement résolus par des mises à jour, mais ils restent agaçants au quotidien.</li>
+  <li><strong>Petits soucis électriques</strong> : Capteurs de stationnement erratiques, caméra de recul qui met du temps à s'afficher, alertes fantômes des systèmes d'aide à la conduite. Rien de grave en termes de sécurité, mais ces détails trahissent une maturité logicielle encore perfectible.</li>
+  <li><strong>Ajustement des panneaux de carrosserie</strong> : Certains propriétaires signalent des écarts de jointure irréguliers, notamment au niveau du hayon et des portières. Un défaut esthétique plus que fonctionnel, mais qui peut gêner les acheteurs exigeants.</li>
+  <li><strong>Bruits de caisse</strong> : Quelques craquements dans l'habitacle, particulièrement par temps froid, sont rapportés sur les MG ZS EV de première génération.</li>
+</ul>
+<p>Il est important de souligner qu'aucun problème majeur de fiabilité mécanique ou de batterie n'a été massivement rapporté. Les soucis restent principalement d'ordre logiciel et cosmétique.</p>
+
+<h2>Santé de la batterie après 2 à 3 ans : LFP vs NMC</h2>
+<p>La question de la dégradation de la batterie est centrale pour tout achat de véhicule électrique d'occasion. Bonne nouvelle : les batteries des voitures chinoises résistent plutôt bien au temps.</p>
+<p>Les batteries <strong>LFP (Lithium Fer Phosphate)</strong>, utilisées notamment par BYD dans sa technologie Blade et dans certaines versions du MG4, montrent une dégradation très faible : en moyenne <strong>3 à 5 % de perte de capacité après 3 ans</strong> et 50 000 km. La chimie LFP est reconnue pour sa stabilité thermique et sa durée de vie supérieure.</p>
+<p>Les batteries <strong>NMC (Nickel Manganèse Cobalt)</strong>, présentes dans le MG ZS EV première génération, affichent une dégradation légèrement plus marquée : <strong>6 à 9 % après 3 ans</strong> dans des conditions normales d'utilisation. La charge rapide fréquente et les conditions climatiques extrêmes peuvent accélérer ce phénomène.</p>
+<p>Dans tous les cas, ces chiffres restent dans les normes du marché et ne constituent pas un frein à l'achat, à condition de vérifier l'état de santé (SOH) de la batterie avant la transaction.</p>
+
+<h2>Garantie : que se passe-t-il en cas de revente ?</h2>
+<p>C'est un point crucial et souvent méconnu. Les conditions de transfert de garantie varient selon les constructeurs :</p>
+<ul>
+  <li><strong>MG</strong> : La garantie constructeur de <strong>7 ans ou 150 000 km</strong> est intégralement transférable au second propriétaire. C'est l'un des meilleurs arguments de vente du marché de l'occasion MG. Le véhicule conserve sa couverture complète, y compris la batterie haute tension.</li>
+  <li><strong>BYD</strong> : La garantie batterie de <strong>8 ans ou 160 000 km</strong> est également transférable. La garantie véhicule standard de 6 ans suit le véhicule et non le propriétaire. Un avantage considérable pour les acheteurs de seconde main.</li>
+  <li><strong>Aiways</strong> : Situation incertaine en raison du retrait de la marque du marché européen. Les garanties existantes sont théoriquement maintenues, mais trouver un centre de service agréé devient problématique.</li>
+</ul>
+
+<h2>Les vérifications indispensables avant l'achat</h2>
+<p>Si vous êtes convaincu par l'opportunité que représente une voiture chinoise d'occasion, voici la checklist des points à vérifier impérativement :</p>
+<ul>
+  <li><strong>Rapport de santé de la batterie (SOH)</strong> : Exigez un diagnostic complet de la batterie. Le SOH (State of Health) doit idéalement être supérieur à 90 % pour un véhicule de 2-3 ans. Certains concessionnaires fournissent ce rapport gratuitement, sinon des outils comme l'OBD peuvent le mesurer.</li>
+  <li><strong>Historique d'entretien complet</strong> : Vérifiez que toutes les révisions ont été effectuées dans le réseau agréé. Un suivi hors réseau peut compromettre la garantie constructeur.</li>
+  <li><strong>Version logicielle à jour</strong> : Assurez-vous que le véhicule dispose de la dernière version du logiciel embarqué. Les mises à jour corrigent de nombreux bugs et améliorent parfois les performances de charge ou l'autonomie.</li>
+  <li><strong>État des pneus et des freins</strong> : Comme pour tout véhicule, mais les voitures électriques sollicitent moins les freins grâce au freinage régénératif. Des freins très usés peuvent indiquer un style de conduite agressif.</li>
+  <li><strong>Vérification de l'historique de charge</strong> : Un véhicule qui a été très souvent chargé en charge rapide DC pourra montrer une dégradation de batterie plus importante. Certains systèmes embarqués conservent un historique des sessions de charge.</li>
+  <li><strong>Nombre de cycles de charge</strong> : Sur les modèles BYD notamment, il est possible de consulter le nombre de cycles complets effectués par la batterie via le système de diagnostic.</li>
+</ul>
+
+<h2>Assurance : des spécificités à connaître</h2>
+<p>L'assurance d'une voiture chinoise d'occasion mérite une attention particulière. Plusieurs éléments peuvent influencer le coût de votre prime :</p>
+<ul>
+  <li><strong>Valeur de remplacement</strong> : La décote rapide des véhicules chinois peut jouer en votre faveur sur la prime d'assurance, la valeur assurée étant plus basse.</li>
+  <li><strong>Coût des pièces détachées</strong> : Certains assureurs appliquent une majoration en raison de délais d'approvisionnement potentiellement plus longs pour les pièces de carrosserie. Ce facteur tend à diminuer à mesure que le réseau de distribution se structure.</li>
+  <li><strong>Réparabilité</strong> : Les véhicules chinois récents obtiennent des scores de réparabilité corrects, mais l'accès aux pièces et la formation des carrossiers restent des points de vigilance.</li>
+</ul>
+<p>En pratique, la différence de prime entre une voiture chinoise et un modèle européen équivalent est de l'ordre de <strong>5 à 10 %</strong>, un écart qui tend à se réduire d'année en année.</p>
+
+<h2>Verdict : faut-il acheter une voiture chinoise d'occasion ?</h2>
+<p>Après analyse approfondie, notre verdict est nuancé mais globalement positif. <strong>Oui, acheter une voiture chinoise d'occasion peut être une excellente affaire</strong>, à condition de respecter certaines règles :</p>
+<p>Les <strong>arguments en faveur</strong> sont solides : une décote avantageuse qui permet d'accéder à des véhicules électriques bien équipés à prix réduit, des garanties longues et transférables, une fiabilité mécanique satisfaisante après les premiers retours d'expérience, et des batteries dont la dégradation reste contenue.</p>
+<p>Les <strong>points de vigilance</strong> existent néanmoins : la valeur de revente future reste incertaine, le réseau de service après-vente est encore en développement dans certaines régions, et les petits bugs logiciels peuvent agacer les conducteurs habitués à la maturité des marques européennes.</p>
+<p>Notre recommandation : <strong>privilégiez les modèles MG et BYD</strong> dont le réseau est le plus établi, vérifiez systématiquement l'état de la batterie et l'historique d'entretien, et profitez de la décote importante pour accéder à un véhicule électrique moderne à un prix imbattable. Le marché de l'occasion chinoise est une opportunité réelle pour les acheteurs informés qui savent où regarder.</p>
+`,
   },
 
   // --- Comparatifs Chinoises entre elles (articles.md #1-20) ---
@@ -186,6 +619,49 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2026-04-28T09:00:00+02:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux philosophies, un même objectif : dominer la berline électrique</h2>
+<p>D'un côté, BYD, le géant mondial de l'électrique qui a dépassé Tesla en volumes. De l'autre, Xiaomi, le fabricant de smartphones qui a stupéfié le monde automobile avec sa SU7. Ces deux berlines chinoises incarnent deux visions radicalement différentes de la performance électrique — et elles sont toutes les deux redoutables.</p>
+<p>La BYD Seal joue la carte de l'équilibre : performances solides, autonomie généreuse, prix maîtrisé. La Xiaomi SU7 Ultra, elle, vise le sommet absolu : record du Nürburgring, puissance délirante, technologie de pointe. Mais laquelle mérite vraiment votre argent ?</p>
+
+<h2>Performances : la SU7 Ultra dans une autre galaxie</h2>
+<p>C'est ici que le fossé est le plus spectaculaire. La <strong>Xiaomi SU7 Ultra</strong> embarque une architecture tri-moteur développant <strong>1 548 ch</strong> (1 139 kW). Le 0 à 100 km/h est expédié en <strong>1,98 seconde</strong> — un chiffre qui la place au niveau des hypercars thermiques. Sur le Nürburgring Nordschleife, elle a signé un temps de <strong>6 min 46 s</strong>, battant la Porsche Taycan Turbo GT.</p>
+<p>La <strong>BYD Seal AWD</strong> propose 530 ch (390 kW) avec son double moteur. Le 0 à 100 s'effectue en <strong>3,8 secondes</strong> — rapide, certes, mais dans un registre totalement différent. La Seal ne prétend pas jouer dans la cour des supercars ; elle vise l'excellence polyvalente.</p>
+<p>En conduite quotidienne, la différence est moins perceptible qu'on ne le croit. Les deux voitures sont instantanément réactives grâce au couple immédiat des moteurs électriques. C'est sur circuit ou en accélération pure que la SU7 Ultra creuse un écart abyssal.</p>
+
+<h2>Autonomie et batterie : deux chimies, deux stratégies</h2>
+<p>La BYD Seal embarque une batterie <strong>BYD Blade de 82,5 kWh en chimie LFP</strong> (Lithium Fer Phosphate). Cette technologie est le fer de lance de BYD : elle offre une sécurité exceptionnelle (le fameux test de pénétration au clou sans inflammation), une durée de vie de 3 000 à 5 000 cycles, et un coût de production réduit. L'autonomie WLTP atteint <strong>570 km</strong>, soit environ 480-500 km en conditions réelles mixtes.</p>
+<p>La Xiaomi SU7 Ultra utilise une batterie <strong>CATL Qilin de 101 kWh en chimie NMC</strong> (Nickel Manganèse Cobalt). Plus dense en énergie, elle permet d'afficher <strong>630 km CLTC</strong> (environ 520-550 km réels en cycle mixte). La contrepartie : la chimie NMC se dégrade légèrement plus vite dans le temps et présente un risque thermique marginalement supérieur.</p>
+<p>En pratique, les deux berlines offrent une autonomie suffisante pour la quasi-totalité des usages quotidiens. L'avantage de la SU7 Ultra en capacité brute est partiellement annulé par sa consommation supérieure liée à ses performances extrêmes.</p>
+
+<h2>Recharge : l'architecture 800V fait la différence</h2>
+<p>La Xiaomi SU7 Ultra dispose d'une <strong>architecture 800V</strong> permettant une puissance de charge maximale de <strong>320 kW en courant continu</strong>. Le 10 à 80 % s'effectue en environ <strong>18 minutes</strong> sur une borne compatible. C'est l'un des temps de charge les plus courts du marché.</p>
+<p>La BYD Seal reste sur une <strong>architecture 400V</strong> avec une puissance maximale de <strong>150 kW DC</strong>. Le 30 à 80 % prend environ <strong>26 minutes</strong>. C'est correct, mais nettement en retrait face à la concurrence chinoise haut de gamme. BYD a fait le choix de privilégier le coût et la fiabilité de la batterie LFP plutôt que la vitesse de charge.</p>
+<p>Pour les longs trajets autoroutiers, cet écart de recharge est significatif : sur un Paris-Marseille, la SU7 Ultra nécessitera un arrêt de recharge de moins que la Seal.</p>
+
+<h2>Design : océan contre futurisme tech</h2>
+<p>La BYD Seal arbore un design inspiré de l'océan avec un Cx de <strong>0,219</strong> — l'un des meilleurs du segment. Ses lignes fluides, sa face avant sans calandre et son profil de coupé quatre portes séduisent par leur élégance discrète. C'est une voiture qui vieillit bien et ne cherche pas la provocation.</p>
+<p>La Xiaomi SU7 assume une silhouette qui rappelle ouvertement la Porsche Taycan — Lei Jun, le fondateur de Xiaomi, a d'ailleurs admis s'en être inspiré. Le résultat est plus agressif, plus sportif, avec une poupe plus marquée et des proportions qui accrochent le regard. Le design divise, mais il ne laisse personne indifférent.</p>
+
+<h2>Intérieur et technologie : l'écosystème comme arme</h2>
+<p>L'intérieur de la BYD Seal est centré autour de son <strong>écran rotatif de 15,6 pouces</strong> qui bascule entre les modes portrait et paysage. Le système DiLink est complet mais pas aussi fluide que les meilleurs concurrents. L'ensemble est bien assemblé, avec des matériaux honnêtes pour le prix.</p>
+<p>La Xiaomi SU7 joue une carte différente avec <strong>HyperOS</strong>, le système d'exploitation maison qui connecte la voiture à l'intégralité de l'écosystème Xiaomi : smartphone, montre connectée, domotique, caméras. L'écran central de 16,1 pouces et le HUD de 56 pouces créent un cockpit résolument futuriste. L'intégration logicielle est d'un niveau que seul Tesla égale.</p>
+<p>Pour un utilisateur Xiaomi, la SU7 offre une continuité d'expérience inégalée. Pour les autres, l'avantage s'estompe.</p>
+
+<h2>Prix : un fossé qui change tout</h2>
+<p>C'est le critère qui tranche le débat pour beaucoup d'acheteurs :</p>
+<ul>
+  <li><strong>BYD Seal AWD</strong> : environ <strong>45 000 €</strong> en France</li>
+  <li><strong>Xiaomi SU7 Ultra</strong> : environ <strong>65 000 €</strong> (estimation prix européen)</li>
+</ul>
+<p>L'écart de 20 000 € est considérable. La BYD Seal offre un rapport prestations/prix difficilement battable. La SU7 Ultra se positionne dans un segment premium où elle affronte la Tesla Model 3 Performance et la Porsche Taycan d'entrée de gamme.</p>
+<p>Il existe cependant des versions plus accessibles de la SU7 (non Ultra) autour de 35 000-45 000 €, mais avec des performances nettement inférieures — dans ce cas, le match avec la Seal redevient très serré.</p>
+
+<h2>Verdict : deux excellences qui ne s'adressent pas au même acheteur</h2>
+<p>La <strong>BYD Seal</strong> est la berline électrique du quotidien par excellence : autonomie généreuse, batterie increvable, prix rationnel, design élégant. Elle s'adresse à l'acheteur pragmatique qui veut le meilleur rapport qualité-prix sans compromis sur l'essentiel.</p>
+<p>La <strong>Xiaomi SU7 Ultra</strong> est une déclaration d'intention technologique : performances d'hypercar, recharge ultrarapide, écosystème connecté de pointe. Elle s'adresse au passionné de technologie prêt à investir pour avoir ce qui se fait de mieux — quitte à payer un ticket d'entrée premium.</p>
+<p>Si votre budget est de 45 000 €, la BYD Seal est un choix évident et sans regret. Si vous pouvez monter à 65 000 € et que la performance pure vous fait vibrer, la SU7 Ultra est une expérience que peu de voitures au monde peuvent offrir à ce tarif.</p>
+`,
   },
   {
     slug: 'mg4-vs-byd-dolphin-compactes-electriques',
@@ -198,6 +674,52 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2026-04-21T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>La guerre des compactes électriques chinoises est déclarée</h2>
+<p>En dessous de 25 000 €, deux voitures électriques chinoises se disputent la première place : la <strong>MG4</strong> et la <strong>BYD Dolphin</strong>. Toutes deux promettent une mobilité électrique accessible sans sacrifier l'essentiel. Mais derrière des prix similaires se cachent deux philosophies très différentes.</p>
+<p>La MG4 mise sur le plaisir de conduite avec ses roues arrière motrices et son châssis affûté. La BYD Dolphin privilégie le confort, l'équipement et l'agrément au quotidien. Voici notre verdict après les avoir comparées point par point.</p>
+
+<h2>Dimensions et habitabilité : match nul</h2>
+<p>Les deux compactes sont remarquablement proches en taille. La MG4 mesure <strong>4 287 mm</strong> de long, la Dolphin <strong>4 290 mm</strong>. L'empattement est quasi identique (2 705 mm pour la MG4, 2 700 mm pour la Dolphin), offrant un espace intérieur similaire aux passagers arrière.</p>
+<p>Côté coffre, la MG4 prend un léger avantage avec <strong>363 litres</strong> contre <strong>345 litres</strong> pour la Dolphin. Ce n'est pas un écart décisif, mais il se fait sentir au quotidien avec un sac de courses supplémentaire.</p>
+<p>L'habitabilité globale est bonne dans les deux cas : quatre adultes voyagent confortablement, le cinquième passager central étant un peu à l'étroit — classique sur ce segment.</p>
+
+<h2>Autonomie : l'avantage MG4 en version Long Range</h2>
+<p>La MG4 se décline en deux versions de batterie :</p>
+<ul>
+  <li><strong>MG4 Standard</strong> (51 kWh) : 350 km WLTP, environ 290 km réels</li>
+  <li><strong>MG4 Long Range</strong> (77 kWh) : 450 km WLTP, environ 380 km réels</li>
+</ul>
+<p>La BYD Dolphin propose une batterie unique de <strong>60,4 kWh</strong> (Blade LFP) pour <strong>427 km WLTP</strong>, soit environ 360 km en conditions réelles. Elle se positionne donc entre les deux versions de la MG4.</p>
+<p>La batterie LFP de BYD offre cependant un avantage sur la durabilité : elle supporte 3 000 à 5 000 cycles de charge complets contre 1 000 à 2 000 pour les cellules NMC de la MG4. Sur 10 ans, la Dolphin conservera une meilleure santé de batterie.</p>
+
+<h2>Performance et plaisir de conduite : avantage MG4</h2>
+<p>C'est ici que la MG4 creuse l'écart. Avec ses <strong>roues arrière motrices</strong> — chose rare dans le segment — elle offre un comportement dynamique réjouissant. Le moteur de <strong>170 ch</strong> en version standard (ou 245 ch en Long Range) pousse la voiture avec conviction, et le châssis suit avec une agilité surprenante pour le prix.</p>
+<p>La version <strong>MG4 XPower</strong> pousse même le curseur à <strong>435 ch</strong> avec une transmission intégrale, transformant la compacte en véritable sportive.</p>
+<p>La BYD Dolphin adopte une approche différente : son moteur de <strong>177 ch</strong> (version Comfort) est suffisamment vif en ville, mais la direction est plus légère, la suspension plus souple. C'est une voiture conçue pour le confort, pas pour le virage. La version d'entrée à <strong>95 ch</strong> est franchement juste sur autoroute.</p>
+
+<h2>Recharge : MG4 nettement devant</h2>
+<p>La MG4 accepte jusqu'à <strong>135 kW en courant continu</strong>, permettant un 10-80 % en environ <strong>35 minutes</strong>. La courbe de charge est régulière et prévisible.</p>
+<p>La BYD Dolphin plafonne à <strong>88 kW DC</strong>, ce qui allonge le même exercice à environ <strong>45 minutes</strong>. Sur les longs trajets, cette différence se traduit par des arrêts plus longs et une planification plus contraignante.</p>
+<p>En charge AC (borne domestique ou wallbox), les deux véhicules acceptent 7 kW en monophasé et 11 kW en triphasé — une nuit suffit pour une charge complète dans les deux cas.</p>
+
+<h2>Technologie et écran : Dolphin plus généreuse</h2>
+<p>L'intérieur de la Dolphin impressionne par son <strong>écran rotatif de 12,8 pouces</strong> (portrait/paysage) hérité des modèles BYD plus haut de gamme. Le système est fluide, l'interface intuitive, et l'écran est de loin le plus grand du segment à ce prix.</p>
+<p>La MG4 propose un <strong>écran de 10,25 pouces</strong> fixe, complété par un combiné d'instrumentation numérique de 7 pouces. Le système MG iSMART est fonctionnel mais moins spectaculaire que celui de BYD. L'interface peut parfois sembler datée en comparaison.</p>
+<p>Les deux voitures intègrent Apple CarPlay et Android Auto (sans fil pour la Dolphin, filaire pour la MG4 selon les versions), la navigation, et les commandes vocales.</p>
+
+<h2>Sécurité : deux 5 étoiles Euro NCAP</h2>
+<p>Les deux modèles ont décroché la note maximale de <strong>5 étoiles Euro NCAP</strong>. La MG4 excelle en protection des occupants adultes (93 %), tandis que la Dolphin se distingue en protection des piétons. L'ADAS de base est complet dans les deux cas : freinage d'urgence autonome, maintien de voie, régulateur adaptatif.</p>
+
+<h2>Prix et coût de possession : avantage Dolphin en entrée de gamme</h2>
+<p>En France, la <strong>BYD Dolphin</strong> démarre à environ <strong>24 990 €</strong> (bonus déduit), tandis que la <strong>MG4 Standard</strong> débute à environ <strong>22 990 €</strong>. Mais à équipement comparable, les prix se rapprochent. La Dolphin est mieux équipée de série (écran plus grand, pompe à chaleur, sièges chauffants selon finition).</p>
+<p>Sur le coût de possession à 5 ans, la Dolphin a un léger avantage grâce à la durabilité supérieure de sa batterie LFP et à la garantie BYD de <strong>8 ans sur la batterie</strong> contre 7 ans chez MG.</p>
+
+<h2>Verdict : MG4 pour les conducteurs, Dolphin pour les pragmatiques</h2>
+<p>Si le <strong>plaisir de conduite</strong> est votre priorité, la MG4 est imbattable dans ce segment. Ses roues arrière motrices, son châssis dynamique et sa recharge rapide en font la compacte électrique la plus fun à conduire sous 25 000 €.</p>
+<p>Si vous cherchez le <strong>meilleur équipement au quotidien</strong>, la BYD Dolphin séduit par son écran rotatif, sa batterie LFP increvable et son confort d'utilisation. C'est la voiture qui demande le moins de compromis pour un usage familial urbain.</p>
+<p>Dans les deux cas, vous obtenez une voiture électrique compétente, bien finie et sûre — ce qui, il y a encore trois ans, était impensable à ce niveau de prix. La Chine a gagné ce pari.</p>
+`,
   },
   {
     slug: 'zeekr-001-vs-nio-et7-luxe-technologique-chinois',
@@ -428,6 +950,49 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-12-01T09:00:00+01:00',
     readingTime: 9,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Quand Xiaomi vise ouvertement Porsche</h2>
+<p>Lei Jun, le fondateur de Xiaomi, ne s'en est jamais caché : la Porsche Taycan a été le benchmark numéro un lors du développement de la SU7. Même silhouette racée, même positionnement premium-sportif, même ambition de redéfinir la berline électrique. Sauf que la SU7 coûte deux à trois fois moins cher. La question qui brûle les lèvres : <strong>un fabricant de smartphones peut-il réellement rivaliser avec Porsche ?</strong></p>
+
+<h2>Performances pures : Xiaomi frappe fort</h2>
+<p>Les chiffres de la <strong>Xiaomi SU7 Ultra</strong> donnent le vertige : <strong>1 548 ch</strong> délivrés par trois moteurs électriques, un 0 à 100 km/h en <strong>1,98 seconde</strong>, et un temps au Nürburgring Nordschleife de <strong>6 min 46 s</strong> — un record pour une berline électrique de série.</p>
+<p>La <strong>Porsche Taycan Turbo S</strong> affiche <strong>761 ch</strong> en overboost, un 0-100 en <strong>2,8 secondes</strong> et un temps au Ring nettement supérieur. Même la Taycan Turbo GT, avec ses 1 034 ch et son 0-100 en 2,2 s, ne peut rivaliser avec les chiffres bruts de la SU7 Ultra.</p>
+<p>Sur le papier, l'élève a non seulement rattrapé le maître — il l'a dépassé. Mais les chiffres ne racontent pas toute l'histoire.</p>
+
+<h2>Dynamisme et ressenti de conduite : l'expérience Porsche irremplaçable</h2>
+<p>Là où Porsche reprend l'avantage, c'est dans le <strong>ressenti de conduite</strong>. La Taycan bénéficie de décennies d'expertise en dynamique véhicule : direction précise au millimètre, train arrière directeur, suspension pneumatique adaptative PASM, amortisseurs pilotés... L'ensemble communique avec le conducteur d'une manière que la SU7 n'atteint pas encore.</p>
+<p>La Xiaomi SU7 est rapide, très rapide. Mais sa direction est légèrement moins communicative, son train avant moins incisif dans les enchaînements, et la gestion du poids (2 295 kg pour la Ultra) se fait sentir dans les changements de direction rapides. La Taycan (2 230 kg en Turbo S) est un peu plus légère et surtout mieux équilibrée.</p>
+<p>Pour un amateur de conduite, la Porsche reste supérieure en sensations. Pour un passionné de chiffres et de technologie, la Xiaomi l'emporte.</p>
+
+<h2>Autonomie et recharge : avantage Xiaomi</h2>
+<p>La SU7 Max embarque une batterie de <strong>101 kWh</strong> (CATL Qilin, NMC) pour une autonomie CLTC de <strong>800 km</strong>, soit environ 630 km réels en cycle mixte. L'architecture <strong>800V</strong> autorise une charge jusqu'à <strong>320 kW</strong>, avec un 10-80 % en 18 minutes.</p>
+<p>La Taycan, dans sa version Performance Battery Plus de <strong>93,4 kWh</strong>, affiche environ <strong>500 km WLTP</strong> (400 km réels). Sa charge 800V monte à <strong>270 kW</strong>, avec un 5-80 % en 22 minutes.</p>
+<p>L'avantage de la SU7 est net : plus d'autonomie, charge plus rapide, moins d'arrêts sur les longs trajets.</p>
+
+<h2>Intérieur et technologie : deux mondes</h2>
+<p>L'intérieur de la Taycan respire le <strong>luxe artisanal allemand</strong> : matériaux nobles, assemblage impeccable, ergonomie pensée pour le conducteur. L'écran incurvé du conducteur et l'écran central sont élégants mais sobres — c'est du Porsche, pas un salon high-tech.</p>
+<p>La SU7 mise sur la <strong>technologie totale</strong> : écran central de 16,1 pouces, HUD de 56 pouces, système <strong>HyperOS</strong> qui connecte la voiture à tout l'écosystème Xiaomi (smartphone, montre, domotique, caméras de sécurité). L'assistant vocal IA est nettement plus capable que celui de Porsche. Les mises à jour OTA ajoutent régulièrement de nouvelles fonctions.</p>
+<p>La finition de la SU7 est bonne — étonnamment bonne pour un premier véhicule — mais elle n'atteint pas le niveau de perception de qualité d'une Porsche. Les matériaux sont corrects sans être exceptionnels, les ajustements précis sans être parfaits.</p>
+
+<h2>Le prix : l'argument massue</h2>
+<p>C'est ici que le débat prend une tournure surréaliste :</p>
+<ul>
+  <li><strong>Xiaomi SU7</strong> : à partir de ~<strong>30 000 €</strong> en Chine (version de base)</li>
+  <li><strong>Xiaomi SU7 Ultra</strong> : ~<strong>65 000 €</strong></li>
+  <li><strong>Porsche Taycan</strong> : à partir de ~<strong>95 000 €</strong> en Europe</li>
+  <li><strong>Porsche Taycan Turbo S</strong> : ~<strong>195 000 €</strong></li>
+</ul>
+<p>La SU7 Ultra, avec ses performances supérieures à la Taycan Turbo S, coûte <strong>trois fois moins cher</strong>. Même en ajoutant les droits de douane européens et la marge d'importation, l'écart reste abyssal.</p>
+
+<h2>Image de marque et valeur résiduelle</h2>
+<p>C'est le rempart de Porsche. Un badge Porsche sur le volant vaut quelque chose que les chiffres ne mesurent pas : le prestige, l'histoire, le regard des autres. La Taycan conserve sa valeur de revente (<strong>-20 % après 3 ans</strong>), tandis que la SU7 — sans historique de revente encore — présente un risque de décote plus élevé.</p>
+<p>Pour beaucoup d'acheteurs, acheter une Porsche, c'est acheter une appartenance. Xiaomi n'a pas ce patrimoine émotionnel — pas encore.</p>
+
+<h2>Verdict : l'élève a dépassé le maître en chiffres, pas en âme</h2>
+<p>La <strong>Xiaomi SU7 Ultra</strong> est objectivement plus rapide, plus autonome, mieux connectée et considérablement moins chère que la Porsche Taycan. En termes de rapport prestations-prix, elle pulvérise non seulement Porsche mais l'ensemble du marché automobile premium.</p>
+<p>Mais la <strong>Porsche Taycan</strong> reste supérieure en dynamique de conduite, en qualité perçue des matériaux, en prestige de marque et en valeur résiduelle. C'est une voiture construite par des gens qui font des voitures de sport depuis 75 ans.</p>
+<p>Si vous êtes un acheteur rationnel qui veut les meilleures performances par euro dépensé : la Xiaomi SU7 est un no-brainer. Si vous êtes un passionné automobile qui valorise le ressenti de conduite et le prestige : la Taycan reste inégalée. L'élève a dépassé le maître sur la ligne droite — mais dans les virages de la vie, Porsche garde l'avantage.</p>
+`,
   },
   {
     slug: 'mg-zs-hybrid-vs-dacia-duster-hybrid-low-cost',
@@ -500,6 +1065,50 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-10-20T09:00:00+02:00',
     readingTime: 9,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le duel qui définit 2026</h2>
+<p>C'est LE match que tout le monde attendait. La <strong>BYD Seal</strong>, fer de lance du plus grand constructeur de véhicules électriques au monde, face à la <strong>Tesla Model 3 Highland</strong>, la berline qui a démocratisé l'électrique. Deux visions, deux écoles — et un seul vainqueur possible dans votre garage.</p>
+<p>Les deux berlines se ressemblent sur le papier : même segment, même gabarit, même ambition. Mais dans le détail, elles divergent sur presque tout. Voici notre analyse complète.</p>
+
+<h2>Design : l'élégance océanique contre le minimalisme californien</h2>
+<p>La BYD Seal s'inspire des lignes de l'océan avec un coefficient de traînée record de <strong>Cx 0,219</strong>. Sa silhouette de coupé quatre portes, sa face avant épurée et ses feux filants lui confèrent une présence visuelle forte. Le design est consensuel : il plaît sans choquer.</p>
+<p>La Tesla Model 3 Highland a corrigé les critiques de la première génération. Le nouveau faciès intègre des phares redessinés, un bandeau lumineux à l'arrière et des lignes plus tendues. L'ensemble est plus mature, plus premium. Le Cx de <strong>0,219</strong> est identique à celui de la Seal — un hasard révélateur.</p>
+<p>Question de goût, mais la Seal attire davantage les regards par son originalité, tandis que la Model 3 joue la discrétion sophistiquée.</p>
+
+<h2>Performances : Tesla reprend la main au chrono</h2>
+<p>En version sportive, la <strong>Tesla Model 3 Performance</strong> développe <strong>460 ch</strong> et abat le 0 à 100 km/h en <strong>3,3 secondes</strong>. Son châssis retravaillé avec amortisseurs adaptatifs offre un dynamisme impressionnant pour une berline familiale.</p>
+<p>La <strong>BYD Seal AWD</strong> affiche <strong>530 ch</strong> sur le papier et réalise le 0 à 100 en <strong>3,8 secondes</strong>. Malgré une puissance supérieure, le poids plus élevé (2 150 kg contre 1 828 kg pour la Tesla) et une calibration plus souple expliquent cet écart au chrono.</p>
+<p>Au quotidien, les deux voitures sont suffisamment rapides pour que la différence ne se ressente que sur circuit. La Model 3 a cependant un avantage indéniable en dynamisme pur grâce à son poids contenu.</p>
+
+<h2>Autonomie : Tesla devant, BYD pas loin</h2>
+<p>La <strong>Tesla Model 3 Grande Autonomie</strong> affiche <strong>629 km WLTP</strong>, soit environ 530-550 km en conditions réelles mixtes. C'est l'une des meilleures autonomies du segment, fruit d'une efficience énergétique remarquable (14,2 kWh/100 km en cycle mixte).</p>
+<p>La <strong>BYD Seal</strong> propose <strong>570 km WLTP</strong> avec sa batterie Blade de 82,5 kWh, soit environ 480-500 km réels. L'efficience est légèrement inférieure (15,7 kWh/100 km), principalement à cause du poids supplémentaire.</p>
+<p>Sur autoroute à 130 km/h — le vrai test discriminant — la Tesla conserve environ <strong>400 km</strong> d'autonomie réelle contre <strong>350 km</strong> pour la Seal. Un écart qui peut faire la différence sur un long trajet.</p>
+
+<h2>Recharge : le réseau Superchargeur change la donne</h2>
+<p>C'est l'avantage structurel de Tesla. Le réseau <strong>Superchargeur V3/V4</strong> offre plus de 50 000 bornes dans le monde, une fiabilité exemplaire et une puissance de <strong>250 kW</strong> (V4). Le 10-80 % s'effectue en environ <strong>22 minutes</strong>.</p>
+<p>La BYD Seal se contente de <strong>150 kW DC</strong> sur les bornes publiques (Ionity, TotalEnergies, etc.). Le 30-80 % prend environ <strong>26 minutes</strong>. C'est correct, mais l'expérience de recharge dépend entièrement de la fiabilité du réseau tiers — beaucoup plus aléatoire que les Superchargeurs.</p>
+<p>Pour les longs voyages, Tesla conserve un avantage considérable : planification intégrée, préchauffage de batterie automatique à l'approche de la borne, et fiabilité quasi parfaite du réseau. BYD n'a pas encore d'équivalent.</p>
+
+<h2>Intérieur et technologie : deux philosophies radicalement opposées</h2>
+<p>L'intérieur de la <strong>BYD Seal</strong> mise sur la générosité : <strong>écran rotatif de 15,6 pouces</strong>, compteur numérique de 10,25 pouces, affichage tête haute, sellerie cuir/similicuir, sièges ventilés, système audio 8 haut-parleurs. Des boutons physiques subsistent pour la climatisation — un choix apprécié.</p>
+<p>La <strong>Tesla Model 3 Highland</strong> pousse le minimalisme à l'extrême : <strong>un seul écran central de 15,4 pouces</strong> contrôle tout, plus un petit écran arrière pour les passagers. Plus de commodos au volant (remplacés par des boutons tactiles), plus de boutons physiques. L'Autopilot et le FSD (Full Self-Driving) sont les arguments tech majeurs.</p>
+<p>Question d'équipement de série, BYD est plus généreux. Question de logiciel et de mises à jour OTA, Tesla est inégalé. Les mises à jour Tesla ajoutent régulièrement de nouvelles fonctions ; BYD est plus conservateur en la matière.</p>
+
+<h2>Prix : BYD reprend l'avantage</h2>
+<ul>
+  <li><strong>BYD Seal Design</strong> (propulsion, 313 ch) : ~<strong>42 990 €</strong></li>
+  <li><strong>Tesla Model 3 Propulsion</strong> : ~<strong>42 990 €</strong></li>
+  <li><strong>BYD Seal Excellence AWD</strong> (530 ch) : ~<strong>49 990 €</strong></li>
+  <li><strong>Tesla Model 3 Performance</strong> : ~<strong>52 990 €</strong></li>
+</ul>
+<p>À prix identique en entrée de gamme, la BYD Seal offre davantage d'équipements de série. En version sportive, elle est 3 000 € moins chère pour plus de puissance brute (mais moins de dynamisme).</p>
+
+<h2>Verdict : Tesla pour l'écosystème, BYD pour la valeur</h2>
+<p>La <strong>Tesla Model 3 Highland</strong> gagne sur le réseau de recharge, l'efficience énergétique, le logiciel et le dynamisme. C'est la berline la plus aboutie sur le plan de l'expérience globale de possession — à condition d'accepter son intérieur radical et l'absence totale de boutons.</p>
+<p>La <strong>BYD Seal</strong> gagne sur l'équipement de série, le prix à prestations équivalentes, la durabilité de la batterie LFP et le confort de conduite. C'est le choix rationnel, celui qui en offre le plus pour chaque euro dépensé.</p>
+<p>Notre recommandation : si vous faites beaucoup de longs trajets, prenez la Tesla pour son réseau Superchargeur. Si votre usage est principalement urbain et périurbain avec des trajets occasionnels, la BYD Seal est le meilleur deal du marché.</p>
+`,
   },
   {
     slug: 'jaecoo-5-vs-volkswagen-tiguan-menace-chinoise',
@@ -670,6 +1279,58 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-07-14T09:00:00+02:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>La bataille invisible qui détermine l'avenir de l'automobile</h2>
+<p>Quand on achète une voiture électrique, on achète d'abord une batterie. C'est elle qui dicte l'autonomie, le temps de recharge, la durée de vie du véhicule et sa valeur de revente. Deux technologies dominent le marché en 2025 : la <strong>BYD Blade</strong> en chimie LFP et les <strong>cellules 4680 de Tesla</strong> en chimie NMC. Deux approches radicalement différentes, avec des conséquences concrètes pour votre portefeuille.</p>
+
+<h2>Chimie LFP vs NMC : les fondamentaux</h2>
+<p>La <strong>BYD Blade</strong> utilise une chimie <strong>LFP</strong> (Lithium Fer Phosphate — LiFePO₄). Les matières premières sont abondantes et peu coûteuses : fer, phosphate. Pas de cobalt, pas de nickel — deux métaux rares, chers et éthiquement problématiques à extraire.</p>
+<p>Les <strong>Tesla 4680</strong> utilisent une chimie <strong>NMC</strong> (Nickel Manganèse Cobalt) dans un format cylindrique révolutionnaire de 46 mm de diamètre et 80 mm de hauteur. Le design "tabless" (sans languettes) réduit la résistance interne et améliore la dissipation thermique.</p>
+<p>Ces deux chimies existent depuis des années, mais BYD et Tesla les ont chacun poussées à un niveau d'ingénierie sans précédent.</p>
+
+<h2>Densité énergétique : avantage Tesla</h2>
+<p>C'est le terrain de jeu de la NMC. Les cellules Tesla 4680 atteignent environ <strong>300 Wh/kg au niveau cellule</strong>, contre environ <strong>180 Wh/kg pour la BYD Blade</strong>. À volume et poids égaux, la batterie Tesla stocke 60 % d'énergie en plus.</p>
+<p>En pratique, cela signifie que pour une même autonomie, une batterie LFP sera <strong>plus lourde et plus volumineuse</strong>. La BYD Seal (82,5 kWh, LFP) pèse environ 2 150 kg, tandis qu'une Tesla Model 3 à autonomie similaire pèse 1 828 kg. Cette différence de poids a un impact direct sur la consommation, le comportement routier et l'usure des pneus.</p>
+<p>BYD compense partiellement ce handicap par son architecture <strong>Cell-to-Body (CTB)</strong>, qui intègre la batterie comme élément structurel de la carrosserie, éliminant le poids du boîtier de batterie traditionnel.</p>
+
+<h2>Sécurité : avantage BYD, et pas qu'un peu</h2>
+<p>Le test de référence est le <strong>"nail penetration test"</strong> — un clou en acier transperce une cellule chargée à 100 %. Le résultat est sans appel :</p>
+<ul>
+  <li><strong>BYD Blade (LFP)</strong> : température de surface à 30-60 °C, aucune fumée, aucune flamme, aucun emballement thermique. La cellule reste intacte.</li>
+  <li><strong>Tesla 4680 (NMC)</strong> : emballement thermique possible, température pouvant dépasser 500 °C, risque d'inflammation. Tesla compense par un système de gestion thermique sophistiqué et des fusibles inter-cellules.</li>
+</ul>
+<p>La chimie LFP est <strong>intrinsèquement plus stable</strong> car la liaison fer-phosphate est beaucoup plus forte que la liaison nickel-oxygène de la NMC. En cas d'accident grave, de court-circuit interne ou de défaut de fabrication, la marge de sécurité de la Blade est considérablement supérieure.</p>
+
+<h2>Durée de vie : le gouffre qui sépare les deux technologies</h2>
+<p>C'est ici que la LFP écrase la concurrence :</p>
+<ul>
+  <li><strong>BYD Blade (LFP)</strong> : <strong>3 000 à 5 000 cycles</strong> complets (0-100 %) avant d'atteindre 80 % de capacité résiduelle. En usage normal (un cycle tous les 2-3 jours), cela représente <strong>15 à 25 ans</strong>.</li>
+  <li><strong>Tesla 4680 (NMC)</strong> : <strong>1 000 à 2 000 cycles</strong> avant 80 % de capacité. En usage similaire, environ <strong>6 à 12 ans</strong>.</li>
+</ul>
+<p>Les données terrain confirment cette hiérarchie. Après 3 ans et 50 000 km, les BYD Atto 3 en LFP montrent une dégradation de <strong>3 à 5 %</strong> seulement. Les Tesla Model 3 NMC du même âge affichent <strong>6 à 10 %</strong> de dégradation. L'écart se creuse avec le temps et les kilomètres.</p>
+
+<h2>Comportement thermique : un point crucial pour le Maroc et l'Afrique</h2>
+<p>La chimie LFP <strong>tolère mieux les hautes températures</strong>. Dans un climat chaud (35-50 °C en été), la batterie Blade se dégrade moins vite et nécessite moins de refroidissement actif. C'est un avantage considérable pour les marchés africains et méditerranéens.</p>
+<p>En revanche, la LFP <strong>souffre davantage du froid</strong>. En dessous de 0 °C, la résistance interne augmente significativement, réduisant la puissance disponible et ralentissant la charge. La NMC se comporte légèrement mieux dans le froid, bien que les deux technologies nécessitent un préchauffage de batterie en hiver.</p>
+
+<h2>Vitesse de recharge : avantage NMC</h2>
+<p>Les cellules NMC acceptent généralement des taux de charge plus élevés (en C-rate) que la LFP. Les Tesla 4680 peuvent supporter des puissances de <strong>250 kW</strong> et plus, permettant un 10-80 % en 20-25 minutes.</p>
+<p>Les batteries LFP de BYD plafonnent à <strong>150 kW</strong> sur la Seal, avec un 30-80 % en 26 minutes. La courbe de charge est cependant plus plate et prévisible, avec moins de throttling thermique.</p>
+<p>BYD travaille sur des cellules LFP de nouvelle génération capables d'atteindre 400 kW — mais ce n'est pas encore en production.</p>
+
+<h2>Coût et impact environnemental</h2>
+<p>La LFP est <strong>30 à 40 % moins chère</strong> à produire que la NMC. L'absence de cobalt et de nickel réduit à la fois le coût des matières premières et les préoccupations éthiques liées à l'extraction minière (le cobalt provient majoritairement de RDC dans des conditions souvent déplorables).</p>
+<p>L'empreinte carbone de production d'une batterie LFP est également inférieure, et le recyclage est plus simple grâce à la stabilité chimique des matériaux.</p>
+
+<h2>L'avenir : vers la convergence</h2>
+<p>Les deux technologies évoluent rapidement. BYD développe des cellules LFP de 2ᵉ génération avec une densité énergétique de <strong>230 Wh/kg</strong>, réduisant l'écart avec la NMC. Tesla explore de son côté la chimie LFP pour ses modèles d'entrée de gamme (déjà utilisée sur la Model 3 Propulsion).</p>
+<p>À plus long terme, les <strong>batteries solid-state</strong> (NIO annonce une 150 kWh semi-solide) et les <strong>batteries sodium-ion</strong> (BYD et CATL y travaillent) pourraient redistribuer les cartes.</p>
+
+<h2>Verdict : LFP pour la durabilité, NMC pour la performance</h2>
+<p>Si vous achetez une voiture pour <strong>la garder longtemps</strong>, rouler dans un <strong>climat chaud</strong>, et que la <strong>sécurité maximale</strong> est votre priorité — choisissez la BYD Blade. Elle durera plus longtemps, se dégradera moins vite et ne prendra jamais feu.</p>
+<p>Si vous recherchez l'<strong>autonomie maximale</strong>, la <strong>recharge la plus rapide</strong> et les <strong>meilleures performances</strong> dans un gabarit léger — les cellules 4680 de Tesla ont l'avantage. Mais vous paierez ce premium en durée de vie et en coût à long terme.</p>
+<p>Pour le marché marocain et africain, la LFP est clairement la technologie la plus pertinente : chaleur, longue durée d'utilisation, coût réduit. BYD a fait le bon pari.</p>
+`,
   },
   {
     slug: 'nio-echange-batterie-vs-tesla-superchargeur-voyage',
@@ -744,6 +1405,74 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-06-02T09:00:00+02:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>La recharge en 10 minutes : ce n'est plus de la science-fiction</h2>
+<p>Imaginez : vous branchez votre voiture électrique, vous allez acheter un café, et quand vous revenez, vous avez récupéré <strong>300 km d'autonomie</strong>. C'est exactement ce que permettent les architectures 800V de Zeekr et XPeng — et c'est le futur de la mobilité électrique, disponible dès aujourd'hui.</p>
+<p>Pendant ce temps, Volkswagen, Renault et la plupart des constructeurs européens restent bloqués en 400V. Comment expliquer un tel décalage technologique ? Et surtout, qu'est-ce que ça change concrètement pour vous ?</p>
+
+<h2>800V vs 400V : la physique expliquée simplement</h2>
+<p>La puissance de charge (en kW) = tension (en V) × courant (en A). Pour augmenter la puissance sans augmenter le courant (ce qui chaufferait les câbles et nécessiterait des connecteurs plus gros), il faut augmenter la tension.</p>
+<p>Passer de <strong>400V à 800V</strong> permet de doubler la puissance de charge à courant constant, ou de maintenir la même puissance avec des câbles deux fois plus fins. Les avantages en cascade :</p>
+<ul>
+  <li><strong>Recharge plus rapide</strong> : puissances de 300 à 500 kW possibles</li>
+  <li><strong>Câbles plus légers</strong> : moins de cuivre, moins de poids</li>
+  <li><strong>Moins de chaleur</strong> : pertes par effet Joule réduites de 75 %</li>
+  <li><strong>Moteurs plus efficients</strong> : les moteurs 800V tournent plus vite avec moins de courant</li>
+</ul>
+
+<h2>Zeekr 001 : le roi de la recharge rapide</h2>
+<p>Le Zeekr 001, construit sur la plateforme SEA de Geely, embarque une architecture <strong>800V native</strong> avec des onduleurs en <strong>carbure de silicium (SiC)</strong>. Résultat :</p>
+<ul>
+  <li>Puissance de charge maximale : <strong>360 kW</strong></li>
+  <li>10 à 80 % en <strong>15 minutes</strong></li>
+  <li>5 minutes de charge = <strong>150 km d'autonomie récupérée</strong></li>
+</ul>
+<p>Ces chiffres sont atteints sur les bornes Zeekr Power de 800 kW déployées en Chine. En Europe, sur les bornes Ionity (350 kW max), le Zeekr 001 atteint environ 300 kW de pic — toujours largement supérieur à la concurrence.</p>
+
+<h2>XPeng G6/G9 : la charge à 480 kW</h2>
+<p>XPeng a poussé le curseur encore plus loin avec ses <strong>Superchargers S4</strong> capables de délivrer <strong>480 kW</strong>. Le XPeng G9, compatible avec cette puissance, peut :</p>
+<ul>
+  <li>Récupérer <strong>300 km en 10 minutes</strong></li>
+  <li>Effectuer un 10-80 % en <strong>20 minutes</strong></li>
+  <li>Maintenir une courbe de charge plate bien au-delà de 50 % de SOC</li>
+</ul>
+<p>Le XPeng G6, plus compact, plafonne à <strong>280 kW</strong> mais reste parmi les véhicules les plus rapides à recharger du marché mondial.</p>
+
+<h2>Où en sont les constructeurs européens ?</h2>
+<p>Le constat est sévère :</p>
+<ul>
+  <li><strong>Volkswagen</strong> (plateforme MEB) : architecture 400V, charge maximale 135-170 kW. La future plateforme SSP devait intégrer le 800V mais a été reportée à 2028 minimum.</li>
+  <li><strong>Renault</strong> (plateforme AmpR) : architecture 400V, charge maximale 130 kW. Le 800V n'est pas prévu avant 2027.</li>
+  <li><strong>Stellantis</strong> (plateforme STLA) : architecture 400V sur les modèles actuels. Le 800V est annoncé pour STLA Large et STLA Frame, mais sans calendrier ferme.</li>
+  <li><strong>BMW</strong> (Neue Klasse) : architecture 800V annoncée pour 2025-2026 — enfin un européen qui suit le rythme.</li>
+</ul>
+<p>Les seuls européens en 800V natif aujourd'hui : <strong>Porsche</strong> (Taycan, depuis 2019) et <strong>Hyundai/Kia</strong> (plateforme E-GMP, Ioniq 5/6, EV6/9). Le reste du Vieux Continent a 2 à 4 ans de retard.</p>
+
+<h2>La technologie clé : les onduleurs en carbure de silicium (SiC)</h2>
+<p>Le passage au 800V ne se limite pas à la batterie. Il nécessite des <strong>onduleurs en carbure de silicium (SiC)</strong> en remplacement des IGBT traditionnels en silicium. Les avantages des SiC :</p>
+<ul>
+  <li><strong>Rendement supérieur</strong> : 97-99 % vs 94-96 % pour les IGBT</li>
+  <li><strong>Fréquence de commutation plus élevée</strong> : moteurs plus compacts et plus légers</li>
+  <li><strong>Meilleure tenue en température</strong> : fonctionnement fiable à 200 °C+</li>
+</ul>
+<p>Les constructeurs chinois (BYD Semiconductor, Zeekr, XPeng) maîtrisent la production de SiC en interne. Les européens achètent chez Infineon ou STMicroelectronics — avec des délais d'approvisionnement et des coûts supplémentaires.</p>
+
+<h2>L'infrastructure : le goulot d'étranglement européen</h2>
+<p>Avoir un véhicule capable de charger à 350 kW est inutile si les bornes n'existent pas. En Europe, la majorité des bornes rapides plafonnent à <strong>150-175 kW</strong> (TotalEnergies, Shell Recharge). Seul le réseau <strong>Ionity</strong> propose des bornes à 350 kW — mais avec un parc encore limité (~3 000 bornes).</p>
+<p>En Chine, Zeekr et XPeng déploient leurs propres réseaux de bornes ultrarapides (800 kW pour Zeekr Power, 480 kW pour XPeng S4). C'est un investissement colossal mais qui donne un avantage compétitif majeur.</p>
+<p>L'Europe rattrape progressivement son retard : le règlement AFIR impose l'installation de bornes rapides tous les 60 km sur les grands axes d'ici 2025. Mais le 800 kW reste un horizon lointain pour l'infrastructure européenne.</p>
+
+<h2>Impact concret au quotidien</h2>
+<p>Pour l'utilisateur final, le 800V change la donne sur deux scénarios :</p>
+<p><strong>1. Les longs trajets</strong> : un Paris-Marseille en Zeekr 001 ne nécessite qu'un seul arrêt de 15 minutes. En VW ID.4 (400V, 135 kW), il en faut deux de 30-40 minutes chacun. L'écart de temps total : <strong>plus d'une heure</strong>.</p>
+<p><strong>2. La recharge d'appoint</strong> : 5 minutes de charge pendant vos courses suffisent pour récupérer 100-150 km. Avec un véhicule 400V, 5 minutes ne donnent que 30-50 km.</p>
+<p>Le 800V rend le véhicule électrique aussi pratique qu'un véhicule thermique pour la première fois de l'histoire.</p>
+
+<h2>Verdict : la Chine a pris 3 ans d'avance</h2>
+<p>L'architecture 800V n'est pas un gadget — c'est un <strong>changement de paradigme</strong> qui élimine le dernier argument majeur contre les véhicules électriques : le temps de recharge. Zeekr et XPeng l'ont compris avant tout le monde et l'ont déployé à grande échelle.</p>
+<p>Les constructeurs européens, englués dans leurs plateformes 400V conçues il y a 5-7 ans, paient aujourd'hui le prix de choix technologiques conservateurs. Le temps qu'ils rattrapent leur retard, les Chinois seront déjà passés à l'étape suivante.</p>
+<p>Pour l'acheteur, le conseil est simple : si vous prévoyez de garder votre voiture 5 ans ou plus et que vous faites régulièrement de longs trajets, <strong>privilégiez un véhicule 800V</strong>. C'est un investissement dans le futur qui se rentabilise à chaque arrêt de recharge.</p>
+`,
   },
   {
     slug: 'v2l-vehicle-to-load-byd-alimenter-maison',
@@ -1100,6 +1829,107 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-11-04T09:00:00+01:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>BYD en 2026 : une gamme pour chaque profil d'acheteur</h2>
+<p>BYD est devenu le plus grand constructeur de véhicules électriques au monde, et sa gamme n'a jamais été aussi vaste. De la micro-citadine à 15 000 € au SUV 7 places familial, il existe un BYD pour pratiquement chaque besoin. Mais face à cette profusion de modèles, il est facile de s'y perdre. Ce guide vous aide à identifier le BYD fait pour vous.</p>
+
+<h2>BYD Seagull : la citadine urbaine à prix imbattable</h2>
+<p><strong>Pour qui ?</strong> Les navetteurs urbains, les jeunes conducteurs, les budgets serrés.</p>
+<ul>
+  <li><strong>Prix estimé</strong> : ~15 000-18 000 € (selon marché)</li>
+  <li><strong>Autonomie</strong> : 305 km CLTC (~250 km réels)</li>
+  <li><strong>Moteur</strong> : 75 ch — suffisant pour la ville</li>
+  <li><strong>Points forts</strong> : prix plancher, batterie Blade LFP, gabarit compact (3 780 mm)</li>
+  <li><strong>Limites</strong> : pas encore officiellement disponible en Europe, performances justes sur autoroute</li>
+</ul>
+<p>Le Seagull est le véhicule qui démocratise l'électrique. Si votre trajet quotidien ne dépasse pas 60 km et que vous avez une prise à domicile, c'est le choix le plus rationnel du marché.</p>
+
+<h2>BYD Dolphin : la compacte polyvalente</h2>
+<p><strong>Pour qui ?</strong> Les couples, les jeunes familles, ceux qui veulent une première vraie voiture électrique.</p>
+<ul>
+  <li><strong>Prix</strong> : ~24 990-29 990 € (après bonus)</li>
+  <li><strong>Autonomie</strong> : 427 km WLTP (~360 km réels)</li>
+  <li><strong>Moteur</strong> : 177 ch (version Comfort) ou 95 ch (Active)</li>
+  <li><strong>Points forts</strong> : écran rotatif 12,8", batterie Blade, 5 étoiles Euro NCAP, design original</li>
+  <li><strong>Limites</strong> : charge DC limitée à 88 kW, version 95 ch un peu juste</li>
+</ul>
+<p>La Dolphin est le meilleur compromis de la gamme BYD : assez grande pour une famille de 4, assez autonome pour les week-ends, assez abordable pour un premier achat. Prenez la version 177 ch sans hésiter — la 95 ch est un faux ami qui frustre sur autoroute.</p>
+
+<h2>BYD Atto 3 : le SUV compact pratique</h2>
+<p><strong>Pour qui ?</strong> Les familles avec enfants qui veulent de l'espace et de la hauteur.</p>
+<ul>
+  <li><strong>Prix</strong> : ~33 990-38 990 €</li>
+  <li><strong>Autonomie</strong> : 420 km WLTP (~350 km réels)</li>
+  <li><strong>Moteur</strong> : 204 ch — suffisant pour toutes les situations</li>
+  <li><strong>Points forts</strong> : habitabilité généreuse, coffre 440L, suspension confortable, design intérieur original (touches de guitare sur les portes)</li>
+  <li><strong>Limites</strong> : charge DC 88 kW, dynamisme moyen, poids élevé</li>
+</ul>
+<p>L'Atto 3 est le best-seller BYD en Europe pour une bonne raison : il offre l'espace d'un SUV compact à un prix que Volkswagen et Hyundai ne peuvent pas atteindre. Idéal pour les familles avec deux enfants en bas âge.</p>
+
+<h2>BYD Seal : la berline performance</h2>
+<p><strong>Pour qui ?</strong> Les passionnés de technologie, ceux qui veulent rivaliser avec Tesla.</p>
+<ul>
+  <li><strong>Prix</strong> : ~42 990-49 990 €</li>
+  <li><strong>Autonomie</strong> : 570 km WLTP (~480 km réels)</li>
+  <li><strong>Moteur</strong> : 313 ch (RWD) ou 530 ch (AWD, 0-100 en 3,8 s)</li>
+  <li><strong>Points forts</strong> : Cx 0,219, écran rotatif 15,6", Cell-to-Body, performances de sportive</li>
+  <li><strong>Limites</strong> : charge DC 150 kW seulement, poids 2 150 kg en AWD</li>
+</ul>
+<p>La Seal est le produit phare de BYD, celui qui prouve que la marque peut faire du premium. Si vous hésitez avec une Tesla Model 3, la Seal offre plus d'équipement de série et une batterie plus durable — mais Tesla gagne sur le réseau Superchargeur et le logiciel.</p>
+
+<h2>BYD Seal U : le SUV familial grande autonomie</h2>
+<p><strong>Pour qui ?</strong> Les familles qui font de longs trajets et veulent le choix entre électrique et hybride rechargeable.</p>
+<ul>
+  <li><strong>Prix</strong> : ~41 990-47 990 €</li>
+  <li><strong>Autonomie EV</strong> : 500 km WLTP (~420 km réels)</li>
+  <li><strong>Autonomie PHEV</strong> : 80 km électrique + 950 km total</li>
+  <li><strong>Moteur</strong> : EV 204-313 ch / PHEV 326 ch combinés</li>
+  <li><strong>Points forts</strong> : choix PHEV ou EV, espace familial, coffre 425-1 440L</li>
+</ul>
+<p>Le Seal U est le choix malin pour les familles qui hésitent entre électrique et thermique. La version <strong>PHEV</strong> est particulièrement intéressante : 80 km d'autonomie électrique couvrent la plupart des trajets quotidiens, et le moteur thermique prend le relais sans angoisse pour les vacances.</p>
+
+<h2>BYD Han : la berline executive</h2>
+<p><strong>Pour qui ?</strong> Les cadres, les professionnels libéraux, ceux qui veulent du luxe accessible.</p>
+<ul>
+  <li><strong>Prix</strong> : ~49 990-55 990 €</li>
+  <li><strong>Autonomie</strong> : 521 km WLTP (~440 km réels)</li>
+  <li><strong>Moteur</strong> : 517 ch AWD, 0-100 en 3,9 s</li>
+  <li><strong>Points forts</strong> : finition haut de gamme, sièges ventilés/massants, 11 haut-parleurs, suspension pilotée</li>
+</ul>
+<p>La Han est la proposition luxe de BYD : elle rivalise avec les BMW Série 5 et Mercedes Classe E en équipement, pour 20 000 à 30 000 € de moins. Si le prestige de la marque ne vous freine pas, c'est un rapport qualité-prix exceptionnel.</p>
+
+<h2>BYD Tang : le SUV 7 places familial</h2>
+<p><strong>Pour qui ?</strong> Les grandes familles (3 enfants+), ceux qui ont besoin de 7 vraies places.</p>
+<ul>
+  <li><strong>Prix</strong> : ~52 990-59 990 €</li>
+  <li><strong>Autonomie</strong> : ~500 km WLTP</li>
+  <li><strong>Moteur</strong> : AWD ~500 ch</li>
+  <li><strong>Points forts</strong> : 7 places utilisables, coffre modulable, suspension pneumatique, remorquage possible</li>
+</ul>
+<p>Le Tang est le seul grand SUV 7 places électrique à ce prix. La troisième rangée est utilisable par des adultes de taille moyenne — ce qui est rare dans cette catégorie.</p>
+
+<h2>Comment choisir : la matrice de décision</h2>
+<p>Posez-vous ces 4 questions :</p>
+<ol>
+  <li><strong>Budget ?</strong> Moins de 20 000 € → Seagull. 25-35 000 € → Dolphin ou Atto 3. 40-50 000 € → Seal ou Seal U. 50 000 €+ → Han ou Tang.</li>
+  <li><strong>Taille de la famille ?</strong> Seul ou couple → Dolphin. Famille 2 enfants → Atto 3 ou Seal U. Famille 3 enfants+ → Tang.</li>
+  <li><strong>Kilométrage quotidien ?</strong> Moins de 50 km → tout BYD convient. 50-100 km → Dolphin minimum. Plus de 100 km → Seal ou Seal U.</li>
+  <li><strong>Accès à la recharge ?</strong> Recharge à domicile → tout BYD convient. Recharge publique uniquement → privilégiez Seal (150 kW DC).</li>
+</ol>
+
+<h2>Les atouts communs à tous les BYD</h2>
+<ul>
+  <li><strong>Batterie Blade LFP</strong> : sécurité maximale, 3 000-5 000 cycles, résistance à la chaleur</li>
+  <li><strong>Garantie 8 ans</strong> sur la batterie, 6 ans véhicule</li>
+  <li><strong>5 étoiles Euro NCAP</strong> sur tous les modèles testés</li>
+  <li><strong>Mises à jour OTA</strong> régulières</li>
+  <li><strong>Réseau en expansion</strong> : BYD ouvre de nouvelles concessions chaque mois en Europe</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Si nous ne devions recommander qu'un seul modèle BYD en 2026, ce serait le <strong>BYD Seal U PHEV</strong> : il combine la polyvalence du SUV familial, la tranquillité du mode électrique au quotidien, et l'absence totale d'angoisse d'autonomie grâce au moteur thermique d'appoint. C'est le modèle le plus rationnel de la gamme.</p>
+<p>Pour les urbains purs, la <strong>Dolphin 177 ch</strong> reste le coup de cœur : tout ce qu'il faut, rien de superflu, à un prix imbattable.</p>
+`,
   },
   {
     slug: 'mg-motor-heritage-anglais-domination-chinoise',
@@ -1284,6 +2114,72 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-07-22T09:00:00+02:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le mystère des prix cassés chinois</h2>
+<p>Une BYD Seal à 42 990 € quand une BMW i4 démarre à 57 000 €. Une MG4 à 22 990 € quand une Volkswagen ID.3 coûte 37 000 €. L'écart est systématique, massif, et il pose une question légitime : <strong>comment les constructeurs chinois peuvent-ils vendre si peu cher sans perdre d'argent ?</strong></p>
+<p>La réponse n'est pas unique. C'est un faisceau d'avantages structurels, industriels et politiques qui, combinés, créent un différentiel de coût que les constructeurs européens ne peuvent tout simplement pas combler à court terme.</p>
+
+<h2>Les subventions d'État : le carburant initial</h2>
+<p>Le gouvernement chinois a investi plus de <strong>230 milliards de dollars</strong> dans l'écosystème des véhicules électriques depuis 2009. Subventions directes à l'achat, exonérations fiscales, prêts à taux zéro, terrains offerts pour la construction d'usines, formation de main-d'œuvre spécialisée : l'État chinois a créé de toutes pièces les conditions d'émergence d'une industrie dominante.</p>
+<p>Ces subventions ont été progressivement réduites depuis 2023 en Chine. Mais leur effet structurant persiste : elles ont permis aux constructeurs d'atteindre des <strong>volumes critiques</strong> qui les rendent désormais rentables sans aide.</p>
+<p>BYD, par exemple, a vendu <strong>3,5 millions de véhicules en 2025</strong> — un volume qui amortit massivement les coûts de R&D et d'outillage.</p>
+
+<h2>L'intégration verticale : le vrai secret de BYD</h2>
+<p>BYD est sans doute le constructeur le plus intégré verticalement au monde. L'entreprise fabrique elle-même :</p>
+<ul>
+  <li><strong>Les batteries</strong> (BYD Blade — premier producteur mondial de batteries LFP)</li>
+  <li><strong>Les semi-conducteurs</strong> (BYD Semiconductor — IGBT et SiC)</li>
+  <li><strong>Les moteurs électriques</strong></li>
+  <li><strong>L'électronique de puissance</strong></li>
+  <li><strong>Les systèmes de gestion thermique</strong></li>
+</ul>
+<p>En fabricant en interne les composants les plus coûteux d'un véhicule électrique, BYD élimine les marges des fournisseurs intermédiaires. On estime que cette intégration réduit le coût de production de <strong>30 à 40 %</strong> par rapport à un constructeur qui achète ses batteries et ses puces chez des tiers.</p>
+<p>Volkswagen, par comparaison, achète ses batteries chez LG, Samsung ou CATL, ses puces chez Infineon ou STMicroelectronics, et ses moteurs chez Valeo ou Nidec. Chaque fournisseur prend sa marge.</p>
+
+<h2>Le marché intérieur chinois : une machine à volume</h2>
+<p>La Chine est le <strong>plus grand marché automobile au monde</strong> avec plus de 30 millions de véhicules vendus par an. Ce volume gigantesque permet des économies d'échelle inaccessibles aux constructeurs dont le marché domestique est plus petit.</p>
+<p>Un moule d'injection ou une ligne de production coûtent le même prix qu'on produise 50 000 ou 500 000 unités — mais le coût par unité est divisé par dix. Les constructeurs chinois amortissent leurs investissements sur des volumes considérables avant même d'exporter une seule voiture.</p>
+
+<h2>Les coûts de main-d'œuvre : un avantage qui se réduit</h2>
+<p>Le salaire moyen d'un ouvrier automobile en Chine est d'environ <strong>8 000 à 12 000 €/an</strong>, contre 35 000 à 50 000 €/an en Allemagne et 25 000 à 35 000 €/an en France. Cet écart de 1 à 4 a un impact direct sur le coût de fabrication.</p>
+<p>Cependant, cet avantage <strong>s'érode progressivement</strong>. Les salaires chinois augmentent de 5 à 8 % par an depuis une décennie. Et les usines les plus modernes sont fortement automatisées : l'usine BYD de Shenzhen fonctionne avec un taux d'automatisation de 90 % en carrosserie. L'écart salarial compte de moins en moins.</p>
+
+<h2>Le contrôle des matières premières</h2>
+<p>La Chine domine la chaîne d'approvisionnement des batteries :</p>
+<ul>
+  <li><strong>65 % du raffinage mondial du lithium</strong></li>
+  <li><strong>77 % de la production mondiale de cellules de batterie</strong></li>
+  <li><strong>85 % du traitement des terres rares</strong> (aimants permanents pour moteurs)</li>
+  <li><strong>60 % du graphite</strong> (anodes de batterie)</li>
+</ul>
+<p>Cette domination sur les matières premières stratégiques donne aux constructeurs chinois un <strong>accès prioritaire à des coûts préférentiels</strong>. Les constructeurs européens, qui doivent importer ces matériaux transformés, paient une prime logistique et de marché.</p>
+
+<h2>La concurrence intérieure féroce</h2>
+<p>La Chine compte plus de <strong>100 marques de véhicules électriques</strong>. Cette concurrence darwinienne force les prix vers le bas et accélère l'innovation. Seuls les plus efficaces survivent — les autres disparaissent (Evergrande Auto, Byton, HiPhi sont déjà en difficulté ou en faillite).</p>
+<p>Cette pression concurrentielle a créé une culture d'optimisation des coûts extrême. Chaque yuan compte, chaque composant est négocié, chaque processus est rationalisé. Les constructeurs qui exportent en Europe apportent avec eux cette discipline.</p>
+
+<h2>Est-ce du dumping ?</h2>
+<p>La Commission européenne a lancé en octobre 2023 une enquête anti-subventions sur les véhicules électriques chinois. Les conclusions, publiées en 2024, ont conduit à l'imposition de <strong>droits de douane additionnels de 17 à 38 %</strong> selon les marques (BYD : 17 %, Geely/Zeekr : 20 %, SAIC/MG : 38 %).</p>
+<p>BYD a contesté la qualification de "dumping", arguant que ses prix bas reflètent une véritable efficience industrielle et non des subventions déloyales. Le faible taux de 17 % imposé à BYD semble confirmer que la Commission a reconnu une part de cet argument.</p>
+
+<h2>Ces prix bas sont-ils durables ?</h2>
+<p>Oui et non. Les avantages structurels (intégration verticale, volumes, matières premières) sont <strong>durables</strong>. Ils ne disparaîtront pas avec la fin des subventions. Tant que BYD fabriquera ses propres batteries et que la Chine contrôlera le raffinage du lithium, l'avantage coût persistera.</p>
+<p>Cependant, plusieurs facteurs vont <strong>réduire l'écart</strong> :</p>
+<ul>
+  <li>Les <strong>droits de douane européens</strong> augmentent mécaniquement les prix de 17 à 38 %</li>
+  <li>La <strong>production locale en Europe</strong> (BYD construit des usines en Hongrie et Turquie) élimine les frais logistiques mais soumet aux coûts européens</li>
+  <li>Les <strong>normes environnementales et sociales</strong> européennes ajoutent des coûts de conformité</li>
+  <li>La montée en gamme des marques chinoises implique des marges plus élevées</li>
+</ul>
+
+<h2>Ce que ça signifie pour le consommateur</h2>
+<p>Pour l'acheteur européen ou marocain, les prix des voitures chinoises vont <strong>augmenter progressivement</strong> mais rester significativement inférieurs aux équivalents européens pendant au moins 5 à 10 ans. L'écart se réduira de 30-40 % aujourd'hui à peut-être 15-20 % à horizon 2030.</p>
+<p>C'est une fenêtre d'opportunité pour les acheteurs : ceux qui achètent maintenant bénéficient du meilleur rapport qualité-prix de l'histoire de l'automobile électrique. Les prix chinois ne feront que monter.</p>
+
+<h2>Verdict : un avantage structurel, pas une anomalie</h2>
+<p>Les voitures chinoises ne sont pas "trop bon marché" — les voitures européennes sont trop chères. La Chine a construit un écosystème industriel plus efficace, plus intégré et plus compétitif. Ce n'est pas un miracle, c'est le résultat de 15 ans d'investissements massifs et d'une concurrence intérieure impitoyable.</p>
+<p>L'industrie automobile européenne a un choix : s'adapter ou décliner. Les partenariats avec des marques chinoises (Stellantis-Leapmotor, VW-XPeng) montrent que la deuxième option n'est pas envisagée. La course est lancée.</p>
+`,
   },
   {
     slug: 'taxes-europeennes-impact-prix-voitures-chinoises-2026',
@@ -1332,6 +2228,62 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-06-24T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le mythe des voitures chinoises "dangereuses" est mort</h2>
+<p>Il y a encore cinq ans, l'objection numéro un des acheteurs face aux voitures chinoises était la sécurité. Les souvenirs des crash tests catastrophiques des premières Brilliance et Landwind des années 2000 hantaient les esprits. Mais en 2026, cette perception est non seulement dépassée — elle est <strong>inversée</strong>. Les constructeurs chinois affichent désormais des résultats de sécurité parmi les meilleurs au monde.</p>
+
+<h2>Le palmarès Euro NCAP des marques chinoises</h2>
+<p>L'Euro NCAP (European New Car Assessment Programme) est le test de sécurité le plus exigeant et le plus respecté au monde. Voici les résultats des constructeurs chinois :</p>
+<ul>
+  <li><strong>BYD Atto 3</strong> : 5 étoiles (91 % adultes, 89 % enfants, 69 % piétons, 74 % aides à la conduite)</li>
+  <li><strong>BYD Seal</strong> : 5 étoiles (89 % adultes, 88 % enfants)</li>
+  <li><strong>MG4</strong> : 5 étoiles (93 % adultes — l'un des meilleurs scores jamais enregistrés)</li>
+  <li><strong>MG ZS EV</strong> : 5 étoiles</li>
+  <li><strong>NIO ET5</strong> : 5 étoiles (91 % adultes)</li>
+  <li><strong>NIO EL7</strong> : 5 étoiles</li>
+  <li><strong>XPeng G9</strong> : 5 étoiles (93 % adultes)</li>
+  <li><strong>Zeekr 001</strong> : 5 étoiles</li>
+  <li><strong>Zeekr X</strong> : 5 étoiles</li>
+</ul>
+<p><strong>Tous les modèles chinois majeurs testés ont obtenu 5 étoiles</strong>. Aucune marque chinoise n'a reçu moins de 4 étoiles sur un modèle récent. C'est un sans-faute remarquable que certains constructeurs européens ne peuvent pas revendiquer (la Dacia Spring n'a obtenu qu'une étoile).</p>
+
+<h2>Protection passive : des structures renforcées</h2>
+<p>Les constructeurs chinois utilisent massivement l'<strong>acier à haute résistance et à très haute résistance</strong> (AHSS/UHSS) dans leurs structures. Le pourcentage d'acier haute résistance dans la carrosserie atteint :</p>
+<ul>
+  <li>BYD Seal : <strong>78 %</strong> d'acier haute résistance</li>
+  <li>XPeng G9 : <strong>75 %</strong></li>
+  <li>NIO ET5 : <strong>40 %</strong> d'aluminium + acier haute résistance</li>
+</ul>
+<p>L'architecture <strong>Cell-to-Body (CTB)</strong> de BYD, qui intègre la batterie comme élément structurel du plancher, renforce considérablement la rigidité torsionnelle de la caisse. La batterie Blade, plate et rigide, agit comme une poutre de renforcement qui améliore la résistance aux impacts latéraux.</p>
+
+<h2>Sécurité active : des systèmes ADAS de pointe</h2>
+<p>Tous les modèles chinois récents intègrent un système d'aide à la conduite de <strong>niveau 2</strong> minimum :</p>
+<ul>
+  <li><strong>Freinage d'urgence autonome (AEB)</strong> : détection piétons, cyclistes, véhicules. Le MG4 a obtenu un score de 90 % en AEB — supérieur à la moyenne européenne.</li>
+  <li><strong>Maintien de voie actif (LKA)</strong> : correction progressive qui maintient le véhicule centré dans sa voie</li>
+  <li><strong>Régulateur adaptatif (ACC)</strong> : fonctionnel jusqu'à l'arrêt complet sur tous les modèles testés</li>
+  <li><strong>Surveillance des angles morts</strong> : avec alerte visuelle dans les rétroviseurs et correction active chez XPeng et NIO</li>
+  <li><strong>Caméra 360°</strong> : de série sur la quasi-totalité des modèles chinois (souvent en option chez les européens)</li>
+</ul>
+<p>XPeng va encore plus loin avec le système <strong>XNGP</strong> (assisté par Lidar) capable de naviguer de manière semi-autonome en ville et sur autoroute. NIO propose le <strong>Navigate on Pilot (NOP+)</strong> avec capacité de changement de voie autonome sur autoroute.</p>
+
+<h2>Sécurité batterie : le sujet qui fâche (et qui rassure)</h2>
+<p>La sécurité de la batterie est un enjeu spécifique aux véhicules électriques. Les constructeurs chinois y répondent avec des solutions innovantes :</p>
+<ul>
+  <li><strong>BYD Blade (LFP)</strong> : chimie intrinsèquement stable, pas d'emballement thermique possible. Réussit le nail penetration test sans inflammation.</li>
+  <li><strong>CATL (fournisseur de NIO, XPeng, Zeekr)</strong> : système de gestion thermique à refroidissement liquide, détection précoce des anomalies cellulaires, coupure automatique.</li>
+  <li><strong>Boucliers de protection</strong> : tous les modèles intègrent des plaques de protection sous le pack batterie pour résister aux impacts routiers.</li>
+</ul>
+<p>Statistiquement, le taux d'incendie des véhicules électriques est <strong>60 fois inférieur</strong> à celui des véhicules thermiques (étude AutoinsuranceEZ, 2023). Les véhicules chinois ne font pas exception — aucun incident majeur d'incendie de batterie n'a été signalé sur les modèles vendus en Europe.</p>
+
+<h2>Pourquoi cet investissement massif en sécurité ?</h2>
+<p>La sécurité n'est pas un choix altruiste — c'est une <strong>nécessité commerciale</strong>. Pour accéder au marché européen, un constructeur doit obligatoirement passer par l'Euro NCAP. Un score de 4 ou 5 étoiles est un prérequis marketing dans une région où la sécurité est le critère d'achat numéro deux (après le prix).</p>
+<p>Les constructeurs chinois l'ont compris tôt : investir dans la sécurité est le ticket d'entrée pour l'Europe. Ils y consacrent des budgets considérables — et les résultats sont là.</p>
+
+<h2>Verdict : le débat est clos</h2>
+<p>En 2026, acheter une voiture chinoise pour des raisons de sécurité n'est plus un compromis — c'est un <strong>choix rationnel</strong>. Les MG4, BYD Seal, NIO ET5 et XPeng G9 figurent parmi les véhicules les plus sûrs jamais testés par Euro NCAP, toutes origines confondues.</p>
+<p>Le vrai sujet n'est plus "les chinoises sont-elles sûres ?" mais "pourquoi certaines européennes sont-elles moins sûres que les chinoises ?". Le renversement est complet.</p>
+`,
   },
   {
     slug: 'arrivee-xiaomi-tournant-historique-industrie-automobile',
@@ -1368,6 +2320,86 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-06-03T09:00:00+02:00',
     readingTime: 9,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Un séisme industriel : BYD dépasse Volkswagen</h2>
+<p>Au quatrième trimestre 2024, un événement historique s'est produit dans l'industrie automobile : <strong>BYD a dépassé Volkswagen en ventes trimestrielles mondiales</strong>. Le fabricant chinois de batteries devenu constructeur automobile a vendu plus de véhicules que le groupe allemand qui domine le marché mondial depuis des décennies. Ce n'est pas un accident statistique — c'est le signal d'un basculement géopolitique et industriel majeur.</p>
+
+<h2>BYD : de fabricant de batteries à géant automobile</h2>
+<p>L'ascension de BYD est l'une des plus spectaculaires de l'histoire industrielle. Fondée en 1995 par <strong>Wang Chuanfu</strong> comme fabricant de batteries rechargeables pour téléphones portables, l'entreprise s'est lancée dans l'automobile en 2003 en rachetant Qinchuan Machinery.</p>
+<p>Le tournant décisif : la décision de miser sur l'<strong>électrification totale</strong> dès 2008, bien avant que le reste du monde ne s'y intéresse sérieusement. Warren Buffett a investi 230 millions de dollars dans BYD la même année — un pari visionnaire qui vaut aujourd'hui des milliards.</p>
+<p>En chiffres, la trajectoire est vertigineuse :</p>
+<ul>
+  <li><strong>2020</strong> : 420 000 véhicules vendus</li>
+  <li><strong>2022</strong> : 1,86 million de véhicules</li>
+  <li><strong>2023</strong> : 3,02 millions de véhicules</li>
+  <li><strong>2025</strong> : 3,5+ millions de véhicules (estimation)</li>
+</ul>
+<p>BYD a arrêté de vendre des véhicules 100 % thermiques en mars 2022. Sa gamme est désormais intégralement composée de véhicules électriques (BEV) et hybrides rechargeables (PHEV).</p>
+
+<h2>Volkswagen : un empire qui vacille</h2>
+<p>Le groupe Volkswagen (VW, Audi, Porsche, Škoda, SEAT, Lamborghini, Bentley, Cupra) reste un colosse avec environ <strong>9 millions de véhicules vendus en 2024</strong>. Mais la tendance est inquiétante :</p>
+<ul>
+  <li>Les ventes de la marque VW en Chine — son premier marché — chutent depuis 2019</li>
+  <li>La gamme électrique ID. (ID.3, ID.4, ID.5, ID.7) n'a jamais atteint ses objectifs de vente</li>
+  <li>Le projet logiciel <strong>Cariad</strong>, censé développer le "système d'exploitation" des VW du futur, a brûlé des milliards d'euros pour des résultats décevants</li>
+  <li>La plateforme de nouvelle génération <strong>SSP</strong> a été repoussée à 2028 minimum</li>
+</ul>
+<p>En décembre 2024, Volkswagen a annoncé la <strong>fermeture de trois usines en Allemagne</strong> et la suppression de dizaines de milliers d'emplois — une première dans l'histoire de l'entreprise.</p>
+
+<h2>Le duel technologique</h2>
+<p><strong>BYD</strong> possède un avantage technologique structurel grâce à son <strong>intégration verticale</strong>. L'entreprise fabrique en interne :</p>
+<ul>
+  <li>Les batteries (Blade LFP, leader mondial)</li>
+  <li>Les semi-conducteurs (IGBT, SiC via BYD Semiconductor)</li>
+  <li>Les moteurs électriques</li>
+  <li>Le système hybride DM-i (probablement le meilleur PHEV du marché)</li>
+  <li>La plateforme e-Platform 3.0</li>
+</ul>
+<p><strong>Volkswagen</strong> dépend de fournisseurs externes pour la plupart de ces composants. Le groupe a investi dans une usine de cellules de batterie (PowerCo) mais elle ne sera opérationnelle qu'en 2025-2026. En attendant, VW achète ses cellules chez CATL, LG et Samsung.</p>
+<p>Le résultat : BYD peut concevoir, produire et commercialiser un nouveau modèle en <strong>18 mois</strong>. Volkswagen met <strong>3 à 4 ans</strong> pour le même exercice. Dans une industrie en mutation rapide, cette agilité est un avantage décisif.</p>
+
+<h2>La guerre des prix</h2>
+<p>BYD peut vendre la Seal (berline premium, 530 ch AWD) à <strong>45 000 €</strong>. La Volkswagen ID.7 comparable coûte <strong>56 000 €</strong>. Sur le segment des SUV compacts, le BYD Atto 3 à 34 000 € surclasse en équipement l'ID.4 à 42 000 €.</p>
+<p>Cet écart de prix n'est pas soutenable pour Volkswagen. Le constructeur allemand ne peut pas s'aligner sans détruire ses marges — qui sont déjà sous pression. BYD, grâce à son intégration verticale et ses économies d'échelle sur le marché chinois, est <strong>rentable à des prix que VW ne peut pas atteindre</strong>.</p>
+
+<h2>Les terrains de force respectifs</h2>
+<p><strong>BYD domine</strong> :</p>
+<ul>
+  <li>La Chine (60 % de ses ventes) — le plus grand marché automobile mondial</li>
+  <li>L'Asie du Sud-Est (Thaïlande, Indonésie, Philippines)</li>
+  <li>L'Amérique latine (Brésil, Mexique)</li>
+  <li>Le segment des véhicules électriques et hybrides rechargeables</li>
+</ul>
+<p><strong>Volkswagen domine</strong> :</p>
+<ul>
+  <li>L'Europe (mais la part de marché s'érode)</li>
+  <li>Le Brésil (marché historique)</li>
+  <li>Le segment premium via Audi, Porsche, Lamborghini</li>
+  <li>Le marché des utilitaires et véhicules commerciaux</li>
+</ul>
+
+<h2>La riposte de Volkswagen</h2>
+<p>Face à la menace chinoise, Volkswagen multiplie les partenariats :</p>
+<ul>
+  <li><strong>XPeng</strong> : accord pour utiliser la plateforme et le logiciel XPeng dans les futurs VW vendus en Chine</li>
+  <li><strong>Rivian</strong> : investissement de 5 milliards de dollars pour le logiciel et l'architecture électrique</li>
+  <li><strong>CATL</strong> : partenariat renforcé pour les batteries</li>
+</ul>
+<p>Ces partenariats sont révélateurs : le plus grand constructeur automobile européen admet implicitement qu'il ne peut pas développer seul les technologies nécessaires pour rivaliser avec les Chinois. C'est un aveu d'humilité historique.</p>
+
+<h2>Que signifie cette bataille pour les consommateurs ?</h2>
+<p>Pour l'acheteur final, la rivalité BYD-Volkswagen est une excellente nouvelle :</p>
+<ul>
+  <li><strong>Les prix baissent</strong> : la pression concurrentielle force tous les constructeurs à réduire leurs marges</li>
+  <li><strong>La technologie s'améliore</strong> : 800V, batteries LFP, recharge ultrarapide — l'innovation accélère</li>
+  <li><strong>Le choix s'élargit</strong> : plus de modèles, plus de segments couverts, plus d'options</li>
+</ul>
+<p>Le perdant de cette guerre, ce n'est ni BYD ni VW — c'est le statu quo. L'époque où les constructeurs européens pouvaient vendre des voitures moyennes à des prix élevés est terminée.</p>
+
+<h2>Verdict : BYD est la plus grande menace que VW ait jamais affrontée</h2>
+<p>BYD n'est pas un concurrent ordinaire. C'est une entreprise qui maîtrise la chaîne de valeur du puits à la roue, qui produit sur le plus grand marché du monde, et qui peut innover à une vitesse que les constructeurs européens ne peuvent pas égaler.</p>
+<p>Volkswagen ne va pas disparaître — le groupe a des ressources, des marques premium et une base européenne fidèle. Mais son règne incontesté est terminé. L'avenir de l'automobile se décide désormais à Shenzhen autant qu'à Wolfsburg.</p>
+`,
   },
   {
     slug: 'voitures-chinoises-occasion-marche-en-expansion',
