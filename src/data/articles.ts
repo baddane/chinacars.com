@@ -1645,6 +1645,49 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-02-24T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>L'autonomie réelle : le seul chiffre qui compte</h2>
+<p>Les chiffres WLTP et CLTC sont des promesses de laboratoire. Sur la route, entre la climatisation, l'autoroute et le relief, l'autonomie réelle est toujours inférieure — parfois de 20 à 30 %. Notre classement se base sur des <strong>mesures en conditions mixtes réelles</strong> (40 % ville, 40 % route, 20 % autoroute), température de 15-20 °C, sans éco-conduite extrême.</p>
+
+<h2>#10 — BYD Dolphin : ~360 km réels</h2>
+<p>La compacte de BYD ouvre notre classement avec une autonomie honorable pour son prix. Sa batterie Blade de <strong>60,4 kWh</strong> (LFP) offre 427 km WLTP, soit environ <strong>360 km réels</strong>. C'est suffisant pour la quasi-totalité des usages quotidiens et un week-end sans stress. Le meilleur rapport autonomie/prix du classement.</p>
+
+<h2>#9 — MG4 Long Range : ~385 km réels</h2>
+<p>La MG4 en version Long Range (77 kWh, NMC) affiche 520 km WLTP. En conditions réelles, comptez environ <strong>385 km</strong>. Sa consommation contenue (15,5 kWh/100 km en mixte) compense partiellement la perte par rapport au WLTP. La recharge à 135 kW DC aide à compléter sur les longs trajets.</p>
+
+<h2>#8 — BYD Atto 3 : ~350 km réels</h2>
+<p>Le SUV compact BYD pâtit de son gabarit plus haut et de son poids de 1 750 kg. Ses 420 km WLTP se traduisent par environ <strong>350 km réels</strong>. C'est correct pour un SUV, mais en dessous de la concurrence directe en berline. La batterie LFP compense par sa durabilité exceptionnelle.</p>
+
+<h2>#7 — XPeng G6 : ~450 km réels</h2>
+<p>Le G6 avec sa batterie de 87,5 kWh et son architecture <strong>800V</strong> impressionne. L'autonomie WLTP de 570 km se traduit par environ <strong>450 km réels</strong>. L'architecture 800V lui donne un avantage décisif en recharge : un arrêt de 15 minutes suffit pour récupérer 200 km. Le meilleur ratio autonomie + recharge rapide du classement.</p>
+
+<h2>#6 — BYD Han : ~440 km réels</h2>
+<p>La berline executive de BYD avec sa batterie de 85,4 kWh atteint 521 km WLTP. En réel, comptez environ <strong>440 km</strong>. Son profil aérodynamique et son poids raisonnable pour une grande berline (2 020 kg) lui permettent une efficience notable de 16 kWh/100 km en cycle mixte.</p>
+
+<h2>#5 — Zeekr 001 : ~480 km réels</h2>
+<p>Le break sportif Zeekr avec sa batterie massive de <strong>100 kWh</strong> (CATL Qilin, NMC) et son architecture 800V affiche 620 km WLTP. En conditions réelles : environ <strong>480 km</strong>. La recharge ultrarapide (360 kW peak, 10-80 % en 15 min) fait de chaque arrêt une simple pause café.</p>
+
+<h2>#4 — BYD Seal : ~490 km réels</h2>
+<p>La berline phare de BYD, grâce à son Cx record de <strong>0,219</strong> et sa batterie Blade de 82,5 kWh, parvient à extraire environ <strong>490 km réels</strong> de ses 570 km WLTP. La version propulsion est la plus efficiente de la gamme BYD avec seulement 14,8 kWh/100 km en cycle mixte. Un résultat remarquable pour une batterie LFP.</p>
+
+<h2>#3 — NIO ET7 (100 kWh) : ~500 km réels</h2>
+<p>La berline premium NIO avec son pack 100 kWh atteint 580 km WLTP. En conditions réelles : environ <strong>500 km</strong>. L'avantage unique de NIO : si vous avez besoin de plus d'autonomie ponctuellement, un <strong>swap de batterie</strong> en station NIO Power vous donne un pack plein en 3 minutes. La flexibilité ultime.</p>
+
+<h2>#2 — Xiaomi SU7 Max : ~540 km réels</h2>
+<p>La berline de Xiaomi avec sa batterie CATL Qilin de <strong>101 kWh</strong> et son architecture 800V affiche 800 km CLTC. En conditions réelles européennes : environ <strong>540 km</strong>. L'efficience est remarquable pour un véhicule de cette puissance (578 ch). La charge à 320 kW et le système de gestion thermique HyperOS optimisent chaque kWh.</p>
+
+<h2>#1 — Zeekr 007 : ~560 km réels</h2>
+<p>La berline Zeekr 007, avec sa batterie <strong>100 kWh</strong> en architecture 800V et son Cx de <strong>0,206</strong>, trône au sommet de notre classement avec environ <strong>560 km réels</strong>. C'est le véhicule chinois qui se rapproche le plus de l'autonomie d'un véhicule thermique. La recharge à 360 kW efface le dernier inconvénient de l'électrique.</p>
+
+<h2>Conseils pour maximiser l'autonomie</h2>
+<ul>
+  <li><strong>Pré-conditionnez la batterie</strong> : lancez le chauffage/climatisation pendant que la voiture est branchée</li>
+  <li><strong>Roulez à 110 km/h plutôt que 130</strong> : gain de 15-20 % d'autonomie</li>
+  <li><strong>Utilisez le freinage régénératif</strong> : le mode "one pedal" récupère jusqu'à 20 % d'énergie en ville</li>
+  <li><strong>Vérifiez la pression des pneus</strong> : des pneus sous-gonflés augmentent la consommation de 5-10 %</li>
+  <li><strong>Privilégiez le chauffage des sièges</strong> : il consomme 75 % de moins que le chauffage de l'habitacle</li>
+</ul>
+`,
   },
   {
     slug: 'suv-chinois-famille-3-enfants-quel-choisir',
@@ -1705,6 +1748,38 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-01-20T09:00:00+01:00',
     readingTime: 6,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>L'électrique accessible : la Chine tient sa promesse</h2>
+<p>Rouler en électrique pour moins de 30 000 €, c'était un rêve il y a cinq ans. En 2026, c'est une réalité — grâce aux constructeurs chinois. Voici les 5 meilleures voitures électriques chinoises disponibles en dessous de cette barre symbolique, bonus écologique déduit quand applicable.</p>
+
+<h2>#5 — GWM Ora 03 : ~24 990 €</h2>
+<p>La <strong>GWM Ora 03</strong> (ex-Ora Funky Cat) séduit d'abord par son design rétro-futuriste inspiré des années 60. Sous sa carrosserie atypique, on trouve une batterie de <strong>48 kWh</strong> pour <strong>310 km WLTP</strong> d'autonomie (~260 km réels). Le moteur de 171 ch offre des accélérations suffisantes en ville. L'intérieur est soigné avec un double écran 10,25". Un choix de cœur pour ceux qui veulent sortir du lot.</p>
+
+<h2>#4 — Leapmotor T03 : ~18 900 €</h2>
+<p>Distribué par le réseau <strong>Stellantis</strong> (anciens concessionnaires Citroën, Peugeot, Fiat), le Leapmotor T03 est la micro-citadine électrique la plus accessible d'Europe. Pour moins de 19 000 €, vous obtenez <strong>265 km WLTP</strong>, un moteur de 95 ch, un écran tactile de 10,1" et une garantie solide. Sa distribution via Stellantis résout le problème du SAV — un avantage considérable sur ce segment. Idéal comme seconde voiture familiale ou pour les trajets domicile-travail.</p>
+
+<h2>#3 — MG4 Standard : ~22 990 €</h2>
+<p>La <strong>MG4 Standard</strong> (51 kWh) est notre meilleur rapport qualité-prix-plaisir. Pour moins de 23 000 €, vous obtenez une compacte <strong>5 étoiles Euro NCAP</strong> avec <strong>350 km WLTP</strong>, un moteur de 170 ch à propulsion arrière (rare et agréable sur ce segment), et une recharge DC à 135 kW. C'est aussi la voiture électrique la plus fun à conduire sous 30 000 €, grâce à son architecture roues arrière motrices héritée de la plateforme MSP.</p>
+
+<h2>#2 — BYD Dolphin Active : ~24 990 €</h2>
+<p>La <strong>BYD Dolphin</strong> en version Active (60,4 kWh) offre <strong>427 km WLTP</strong> — la meilleure autonomie de ce classement. Sa batterie Blade LFP garantit 3 000 à 5 000 cycles de charge, une durabilité inégalée. L'écran rotatif de 12,8 pouces, le design intérieur soigné et la pompe à chaleur de série en font une proposition très complète. Seule la charge DC limitée à 88 kW tempère l'enthousiasme pour les longs trajets.</p>
+
+<h2>#1 — MG4 Long Range Comfort : ~27 990 €</h2>
+<p>Notre grand gagnant : la <strong>MG4 Long Range</strong> en finition Comfort. Pour 28 000 €, vous obtenez <strong>450 km WLTP</strong> (~380 km réels), 245 ch, propulsion arrière, 5 étoiles NCAP, charge DC à 135 kW et un équipement complet (caméra de recul, sièges chauffants, navigation). C'est tout simplement la meilleure voiture électrique à moins de 30 000 € en 2026 — et elle rivalise avec des modèles vendus 10 000 € plus cher chez Volkswagen ou Renault.</p>
+
+<h2>Tableau récapitulatif</h2>
+<p>Voici le résumé des 5 modèles avec leurs caractéristiques clés :</p>
+<ul>
+  <li><strong>Leapmotor T03</strong> : 18 900 € | 265 km | 95 ch | Citadine</li>
+  <li><strong>MG4 Standard</strong> : 22 990 € | 350 km | 170 ch | Compacte</li>
+  <li><strong>BYD Dolphin Active</strong> : 24 990 € | 427 km | 177 ch | Compacte</li>
+  <li><strong>GWM Ora 03</strong> : 24 990 € | 310 km | 171 ch | Citadine+</li>
+  <li><strong>MG4 Long Range</strong> : 27 990 € | 450 km | 245 ch | Compacte</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Les constructeurs chinois ont rendu l'électrique accessible sans sacrifier l'essentiel : autonomie correcte, sécurité 5 étoiles, équipement de série généreux. Le meilleur choix global est la <strong>MG4 Long Range</strong> pour son équilibre parfait. Pour le budget le plus serré, le <strong>Leapmotor T03</strong> et son réseau Stellantis sont imbattables. Et pour l'autonomie maximale sous 25 000 €, la <strong>BYD Dolphin</strong> n'a pas de rivale.</p>
+`,
   },
   {
     slug: 'suv-chinois-confortables-longs-trajets-autoroute',
@@ -1990,6 +2065,64 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-09-30T09:00:00+02:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le concept révolutionnaire de NIO : acheter la voiture, louer la batterie</h2>
+<p>NIO propose quelque chose d'unique dans l'industrie automobile : le <strong>Battery as a Service (BaaS)</strong>. Le principe est simple mais radical : vous achetez le véhicule <strong>sans la batterie</strong>, ce qui réduit le prix d'achat de 12 000 à 21 000 €, puis vous louez la batterie pour <strong>128 à 289 €/mois</strong> selon la capacité choisie (75 kWh ou 100 kWh). À tout moment, vous pouvez changer de formule.</p>
+
+<h2>Comment fonctionne le BaaS concrètement</h2>
+<p>L'offre BaaS repose sur le réseau de <strong>NIO Power Swap Stations</strong>. Vous conduisez votre NIO dans une station, un robot retire votre batterie et en installe une pleine en <strong>3 minutes</strong>. C'est plus rapide qu'un plein d'essence. La batterie ne vous appartient pas — elle appartient à NIO, qui en assure la maintenance, la garantie et le remplacement.</p>
+<p>Les tarifs en Europe :</p>
+<ul>
+  <li><strong>Batterie 75 kWh</strong> : 128 €/mois (autonomie ~400 km)</li>
+  <li><strong>Batterie 100 kWh</strong> : 289 €/mois (autonomie ~520 km)</li>
+</ul>
+<p>La flexibilité est totale : vous pouvez passer de 75 à 100 kWh pour un long voyage, puis revenir au 75 kWh le mois suivant. Vous ne payez que ce que vous utilisez.</p>
+
+<h2>Le calcul : BaaS est-il rentable ?</h2>
+<p>Prenons l'exemple d'un <strong>NIO ET5</strong> :</p>
+<ul>
+  <li><strong>Avec batterie</strong> (achat classique) : ~49 900 € (75 kWh incluse)</li>
+  <li><strong>Sans batterie (BaaS)</strong> : ~37 900 € + 128 €/mois</li>
+</ul>
+<p>L'économie initiale est de <strong>12 000 €</strong>. En payant 128 €/mois, il faut <strong>7,8 ans</strong> pour atteindre le coût total de la version avec batterie. Si vous gardez votre NIO moins de 8 ans, le BaaS est financièrement avantageux.</p>
+<p>Mais le calcul ne s'arrête pas là. Avec le BaaS :</p>
+<ul>
+  <li>Vous n'avez <strong>aucun risque de dégradation de batterie</strong> — NIO la remplace quand elle vieillit</li>
+  <li>Votre voiture ne perd pas de valeur à cause d'une batterie vieillissante à la revente</li>
+  <li>Vous bénéficiez des <strong>futures améliorations de batterie</strong> sans changer de voiture (NIO prépare des packs 150 kWh semi-solides)</li>
+  <li>Le swap de 3 minutes élimine les temps d'attente aux bornes</li>
+</ul>
+
+<h2>Les limites du BaaS</h2>
+<p>Le modèle n'est pas parfait :</p>
+<ul>
+  <li><strong>Réseau limité</strong> : en Europe, NIO dispose d'environ 50 stations de swap (Norvège, Allemagne, Pays-Bas, Danemark). En France, le déploiement est en cours mais pas encore généralisé.</li>
+  <li><strong>Propriétaire dépendant</strong> : si NIO fait faillite ou quitte l'Europe, votre contrat BaaS devient problématique. C'est un risque de contrepartie réel.</li>
+  <li><strong>Coût mensuel récurrent</strong> : 128 €/mois, c'est une charge fixe qui s'ajoute à l'assurance, l'électricité et l'entretien.</li>
+  <li><strong>Pas de recharge à domicile si pas de batterie propre</strong> : vous pouvez recharger normalement (la batterie louée se charge comme une batterie achetée), mais le swap devient moins pertinent si vous avez une wallbox.</li>
+</ul>
+
+<h2>Pour qui le BaaS est-il idéal ?</h2>
+<p>Le BaaS fait sens si vous :</p>
+<ul>
+  <li>Faites beaucoup de <strong>longs trajets</strong> (le swap de 3 min est imbattable)</li>
+  <li>Voulez <strong>réduire le prix d'achat initial</strong> pour accéder à un modèle premium</li>
+  <li>Prévoyez de <strong>garder la voiture 3-5 ans</strong> maximum</li>
+  <li>Vivez dans une zone avec des <strong>stations NIO Power Swap</strong> accessibles</li>
+  <li>Êtes sensible à la <strong>flexibilité</strong> (changer de capacité de batterie)</li>
+</ul>
+
+<h2>Pour qui le BaaS est-il déconseillé ?</h2>
+<ul>
+  <li>Vous avez une <strong>wallbox à domicile</strong> et faites principalement des trajets courts — la recharge à domicile est moins chère que le BaaS</li>
+  <li>Vous prévoyez de garder la voiture <strong>plus de 8 ans</strong> — l'achat devient plus rentable</li>
+  <li>Vous vivez dans une région <strong>sans station de swap</strong> — vous perdez le principal avantage</li>
+</ul>
+
+<h2>Verdict : une innovation qui résout un vrai problème</h2>
+<p>Le BaaS de NIO est la première solution réellement convaincante au problème de la dégradation et de l'obsolescence des batteries. En séparant la batterie du véhicule, NIO élimine l'anxiété de la valeur résiduelle et offre une flexibilité qu'aucun autre constructeur ne propose.</p>
+<p>Pour un acheteur qui fait plus de 20 000 km/an et qui a accès au réseau de swap, le BaaS est un <strong>no-brainer</strong>. Pour les autres, l'achat classique reste plus simple et potentiellement moins cher à long terme. Mais surveillez le déploiement des stations NIO en France — quand le réseau sera dense, l'équation changera radicalement.</p>
+`,
   },
   {
     slug: 'xpeng-marque-intelligence-artificielle-automobile',
@@ -2296,6 +2429,57 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-06-17T09:00:00+02:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Quand la tech envahit l'automobile</h2>
+<p>Le 28 mars 2024, <strong>Lei Jun</strong>, fondateur et PDG de Xiaomi, est monté sur scène pour présenter la SU7 — la première voiture du géant chinois de la tech. En 24 heures, Xiaomi a enregistré <strong>88 898 commandes</strong>. En un mois : plus de 120 000. Aucun constructeur automobile traditionnel n'avait jamais connu un lancement aussi explosif.</p>
+<p>L'arrivée de Xiaomi dans l'automobile n'est pas un simple diversification. C'est un <strong>signal d'alarme</strong> pour toute l'industrie : quand une entreprise tech entre dans l'auto, elle apporte des compétences que les constructeurs traditionnels n'ont pas — et elle change les règles du jeu.</p>
+
+<h2>Pourquoi Xiaomi fait trembler l'industrie</h2>
+<p>Xiaomi n'est pas n'importe quelle entreprise tech. C'est le <strong>numéro 3 mondial du smartphone</strong> (derrière Apple et Samsung), avec un écosystème de plus de <strong>700 millions d'appareils connectés</strong>. La stratégie de Lei Jun est claire : la voiture devient le hub central d'un écosystème qui inclut smartphone, montre, TV, domotique, caméras de sécurité.</p>
+<p>Les compétences que Xiaomi apporte à l'automobile :</p>
+<ul>
+  <li><strong>Logiciel et UI/UX</strong> : HyperOS, le système d'exploitation maison, est né dans le mobile. L'interface de la SU7 est plus fluide que 99 % des systèmes d'infodivertissement automobile.</li>
+  <li><strong>Intelligence artificielle</strong> : Xiaomi investit massivement en IA pour la conduite autonome, la reconnaissance vocale et la personnalisation du cockpit.</li>
+  <li><strong>Gestion de communauté</strong> : les "Mi Fans" sont des millions — un canal de feedback et de marketing gratuit.</li>
+  <li><strong>Vitesse d'exécution</strong> : de l'annonce du projet auto (mars 2021) à la première livraison (mars 2024) : <strong>3 ans</strong>. Un constructeur traditionnel met 5-7 ans pour développer un nouveau modèle.</li>
+  <li><strong>Rapport qualité-prix agressif</strong> : la philosophie Xiaomi ("le meilleur hardware au prix le plus bas") s'applique à l'automobile.</li>
+</ul>
+
+<h2>La SU7 : le produit qui a convaincu</h2>
+<p>La Xiaomi SU7 n'est pas un concept car ou un prototype. C'est une berline électrique aboutie qui rivalise directement avec la Tesla Model S et la Porsche Taycan :</p>
+<ul>
+  <li><strong>Architecture 800V</strong> avec charge rapide jusqu'à 320 kW</li>
+  <li><strong>Moteurs jusqu'à 1 548 ch</strong> en version Ultra (record Nürburgring : 6:46)</li>
+  <li><strong>Autonomie</strong> jusqu'à 800 km CLTC avec batterie CATL Qilin 101 kWh</li>
+  <li><strong>HyperOS</strong> : intégration native avec l'écosystème Xiaomi</li>
+  <li><strong>Prix de départ</strong> : ~30 000 € en Chine — une fraction du prix de ses rivales</li>
+</ul>
+<p>La qualité de fabrication a surpris les observateurs. L'usine Xiaomi de Pékin, construite en 18 mois, est l'une des plus modernes au monde avec un taux d'automatisation de 91 %.</p>
+
+<h2>L'effet Xiaomi sur les constructeurs traditionnels</h2>
+<p>L'impact de Xiaomi dépasse ses propres ventes. L'entreprise force toute l'industrie à accélérer :</p>
+<ul>
+  <li><strong>BYD</strong> a baissé les prix de la Seal et de la Han quelques semaines après le lancement de la SU7</li>
+  <li><strong>NIO</strong> a accéléré le développement de son propre système d'exploitation Banyan</li>
+  <li><strong>Tesla</strong> a lancé une guerre des prix en Chine en réponse directe</li>
+  <li><strong>Porsche</strong> a reconnu publiquement que la SU7 était un "wake-up call"</li>
+</ul>
+<p>Xiaomi montre qu'une entreprise sans aucune expérience automobile peut, en trois ans, sortir un produit qui rivalise avec des marques centenaires. Le message est clair : l'avantage concurrentiel dans l'automobile électrique n'est plus l'expérience mécanique — c'est le logiciel, l'IA et l'intégration écosystème.</p>
+
+<h2>Les risques pour Xiaomi</h2>
+<p>Tout n'est pas gagné pour autant :</p>
+<ul>
+  <li><strong>Le SAV automobile</strong> est radicalement différent du SAV smartphone. Les pannes sont plus graves, plus coûteuses, et les clients moins tolérants.</li>
+  <li><strong>La sécurité</strong> : un bug logiciel sur un téléphone est ennuyeux ; sur une voiture, il peut être mortel. La responsabilité juridique est sans commune mesure.</li>
+  <li><strong>L'expansion internationale</strong> : la SU7 n'est pas encore homologuée en Europe. Les droits de douane, la conformité Euro NCAP et la mise en place d'un réseau SAV sont des défis majeurs.</li>
+  <li><strong>La rentabilité</strong> : Xiaomi vend la SU7 à marge faible (stratégie classique Xiaomi) pour gagner des parts de marché. Mais l'automobile est un business à forte intensité capitalistique — cette stratégie a des limites.</li>
+</ul>
+
+<h2>Verdict : un tournant irréversible</h2>
+<p>L'entrée de Xiaomi dans l'automobile confirme une tendance de fond : la voiture de demain sera conçue par des <strong>entreprises tech</strong>, pas par des entreprises mécaniques. Le logiciel mange le monde — et l'automobile est le prochain plat principal.</p>
+<p>Pour le consommateur, c'est une excellente nouvelle : plus de concurrence, plus d'innovation, des prix plus bas. Pour les constructeurs traditionnels qui n'ont pas encore réussi leur transformation numérique (et ils sont nombreux), le compte à rebours est lancé.</p>
+<p>Xiaomi ne sera peut-être pas le prochain Volkswagen. Mais il pourrait bien être celui qui force Volkswagen à devenir le prochain Xiaomi.</p>
+`,
   },
   {
     slug: 'mg-motor-marque-preferee-jeunes-conducteurs',
