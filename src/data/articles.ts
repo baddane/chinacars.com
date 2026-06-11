@@ -526,6 +526,42 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'essai',
     publishedAt: '2024-04-01T09:00:00+01:00',
     readingTime: 9,
+    body: `
+<h2>Test grandeur nature : la Geometry C sur l'autoroute marocaine</h2>
+<p>Geely promet 550 km d'autonomie NEDC pour sa Geometry C. Mais sur l'autoroute Casa-Rabat, à 120 km/h avec la climatisation, que reste-t-il vraiment de cette promesse ? Nous avons pris le volant pour le vérifier.</p>
+
+<h2>La Geometry C en bref</h2>
+<p>La Geely Geometry C est un crossover compact 100 % électrique équipé d'un moteur de <strong>150 kW (204 ch)</strong> et d'une batterie de <strong>70 kWh</strong>. L'autonomie annoncée de 550 km utilise le cycle NEDC — notoirement optimiste, environ 20-30 % supérieur au WLTP européen. En équivalent WLTP, comptez plutôt ~430 km théoriques.</p>
+
+<h2>Protocole de test</h2>
+<p>Notre trajet : <strong>Casablanca → Rabat</strong>, environ 90 km par l'autoroute A1. Conditions : température extérieure de 28 °C, climatisation réglée à 22 °C, deux occupants, coffre chargé légèrement. Vitesse cible : 120 km/h (vitesse maximale autorisée). Pneus gonflés aux pressions constructeur. Mode de conduite Normal.</p>
+<p>Départ batterie à <strong>100 %</strong>, autonomie affichée : 485 km (le système utilise le cycle NEDC corrigé).</p>
+
+<h2>Résultats : consommation à différentes vitesses</h2>
+<p>Nous avons mesuré la consommation sur trois sections :</p>
+<ul>
+  <li><strong>À 80 km/h</strong> (zone travaux) : 13,2 kWh/100 km — excellente efficience. Autonomie extrapolée : ~530 km</li>
+  <li><strong>À 100 km/h</strong> (trafic fluide) : 15,8 kWh/100 km — très correcte. Autonomie extrapolée : ~443 km</li>
+  <li><strong>À 120 km/h</strong> (vitesse de croisière) : 19,4 kWh/100 km — la consommation augmente fortement. Autonomie extrapolée : ~360 km</li>
+</ul>
+<p>La conclusion est nette : à vitesse stabilisée de 120 km/h sur autoroute, l'autonomie réelle de la Geometry C est d'environ <strong>360 km</strong> — soit 65 % de l'autonomie NEDC annoncée.</p>
+
+<h2>Le trajet Casa-Rabat : aucune anxiété</h2>
+<p>Les 90 km du trajet aller ont consommé <strong>17,5 kWh</strong> à une vitesse moyenne de 112 km/h (ralentissements aux péages et à l'approche de Rabat). L'autonomie restante à l'arrivée : 398 km affichés. L'aller-retour (180 km) s'est fait sans aucune recharge intermédiaire avec une marge confortable.</p>
+<p>Le réseau de bornes IRESEN est présent aux stations de péage de Bouznika et Skhirat, mais nous n'avons pas eu besoin de nous y arrêter.</p>
+
+<h2>Confort autoroutier</h2>
+<p>La Geometry C se montre <strong>agréable sur autoroute</strong>. L'isolation phonique est correcte pour le segment (légère intrusion de bruit de roulement à 120 km/h), la suspension filtre bien les irrégularités de la chaussée marocaine, et le régulateur adaptatif fonctionne de manière fluide dans le trafic. Les sièges offrent un maintien acceptable pour un trajet de 90 minutes.</p>
+<p>Le système de navigation intégré ne propose pas encore la planification de recharge automatique — un point faible pour les longs trajets au-delà de l'autonomie de la batterie.</p>
+
+<h2>Recharge : les options au Maroc</h2>
+<p>La Geometry C accepte une charge rapide DC jusqu'à <strong>60 kW</strong> — un chiffre modeste comparé aux standards actuels (150-350 kW). Un 20-80 % prend environ <strong>45 minutes</strong>. En charge AC sur wallbox (7 kW), comptez une nuit complète pour une charge intégrale.</p>
+<p>Au Maroc, les bornes rapides sont concentrées sur les axes Casa-Rabat, Casa-Marrakech et quelques stations Shell Recharge en zone urbaine. Pour les trajets plus longs (Casa-Tanger par exemple, 350 km), un arrêt de recharge sera nécessaire.</p>
+
+<h2>Verdict : une autonomie honnête pour le quotidien marocain</h2>
+<p>La Geely Geometry C ne tient pas sa promesse de 550 km — aucune voiture électrique ne tient ses chiffres NEDC en conditions réelles. Mais avec <strong>360 km réels sur autoroute</strong> et <strong>430+ km en cycle mixte</strong>, elle couvre largement les besoins quotidiens de la grande majorité des conducteurs marocains.</p>
+<p>Le trajet Casa-Rabat aller-retour se fait sans stress et sans recharge. Un Casa-Marrakech (240 km) est faisable sans arrêt à allure modérée. C'est une voiture pensée pour l'usage urbain et périurbain — et sur ce terrain, elle remplit parfaitement son contrat.</p>
+`,
   },
   {
     slug: 'voiture-chinoise-occasion-fiabilite',
@@ -1122,6 +1158,67 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'comparatif',
     publishedAt: '2025-11-10T09:00:00+01:00',
     readingTime: 9,
+    body: `
+<h2>Zeekr 001 vs Tesla Model S : le duel qui redéfinit le segment premium électrique</h2>
+
+<p>Il y a encore trois ans, évoquer un constructeur chinois dans la même phrase que Tesla aurait provoqué des sourires condescendants dans les allées du Mondial de l'Auto. En 2026, la donne a radicalement changé. Le <strong>Zeekr 001</strong>, shooting brake électrique né sous l'aile du géant Geely, vient défier frontalement la <strong>Tesla Model S</strong>, icône californienne du segment premium. Deux philosophies, deux continents, un seul objectif : régner sur la mobilité électrique haut de gamme. Décryptage complet.</p>
+
+<h2>Design et format : shooting brake contre liftback</h2>
+
+<p>Le Zeekr 001 adopte un format <strong>shooting brake</strong> aussi rare qu'élégant. Ses lignes fluides, son pavillon fuyant et son hayon vitré lui confèrent une silhouette unique sur le marché. Avec 4,97 m de long, il propose un volume de coffre généreux de 546 litres extensible à plus de 1 400 litres banquette rabattue — un argument de poids pour les familles et les amateurs de road trips.</p>
+
+<p>En face, la Tesla Model S conserve son profil <strong>liftback</strong> iconique, affiné au fil des restylages. Plus longue (5,02 m), elle offre un coffre arrière de 793 litres complété par un frunk de 89 litres. Son design est désormais bien connu, ce qui joue en sa faveur pour la reconnaissance de marque, mais aussi en sa défaveur pour ceux qui recherchent l'originalité.</p>
+
+<p>Sur le plan du design extérieur, le Zeekr 001 attire l'œil avec ses feux traversants et ses poignées affleurantes. La Model S mise davantage sur la sobriété et l'aérodynamisme avec un Cx de 0,208, l'un des meilleurs du marché. Match nul sur ce point : c'est une affaire de goût personnel.</p>
+
+<h2>Performances : la brutalité Tesla face à l'équilibre Zeekr</h2>
+
+<p>C'est ici que les philosophies divergent radicalement. La <strong>Tesla Model S Plaid</strong> est une véritable arme de destruction massive avec ses <strong>1 020 chevaux</strong> délivrés par trois moteurs électriques. Le 0 à 100 km/h est expédié en <strong>2,1 secondes</strong>, un chrono digne d'une hypercar. La vitesse maximale atteint 322 km/h — des chiffres qui donnent le vertige.</p>
+
+<p>Le <strong>Zeekr 001 FR</strong>, dans sa version la plus performante, développe <strong>544 chevaux</strong> grâce à une transmission intégrale à deux moteurs. Le 0 à 100 km/h est bouclé en <strong>3,8 secondes</strong>, ce qui reste remarquable pour un véhicule de près de 2,3 tonnes. La vitesse maximale est bridée à 200 km/h.</p>
+
+<p>Sur le papier, Tesla écrase la concurrence. Mais dans la réalité quotidienne, combien de conducteurs exploitent réellement 1 020 chevaux ? Le Zeekr 001 offre des performances largement suffisantes pour 99 % des situations, avec un châssis remarquablement bien équilibré grâce à ses suspensions pneumatiques adaptatives. Sur routes sinueuses, le shooting brake chinois surprend par son agilité et le naturel de ses réactions.</p>
+
+<h2>Autonomie : avantage Zeekr sur le cycle WLTP</h2>
+
+<p>Le Zeekr 001 embarque une batterie <strong>CATL Qilin de 100 kWh</strong> qui lui permet d'afficher une autonomie WLTP d'environ <strong>620 km</strong>. En conditions réelles, comptez entre 480 et 530 km selon le style de conduite et la saison — des chiffres tout à fait compétitifs.</p>
+
+<p>La Tesla Model S, avec sa batterie d'environ 100 kWh également, revendique une autonomie WLTP d'environ <strong>600 km</strong> en version Grande Autonomie. La version Plaid, plus gourmande en raison de ses performances supérieures, se situe légèrement en deçà. En usage réel, Tesla bénéficie d'une gestion thermique éprouvée et d'un système de navigation qui optimise les arrêts recharge.</p>
+
+<p>L'écart est donc mince sur l'autonomie pure. Avantage léger au Zeekr 001 sur le papier, mais Tesla compense par son écosystème logiciel et sa planification d'itinéraire plus mature.</p>
+
+<h2>Recharge : l'architecture 800V du Zeekr fait la différence</h2>
+
+<p>C'est probablement le <strong>point fort majeur</strong> du Zeekr 001. Son architecture électrique en <strong>800 volts</strong> lui permet d'accepter une puissance de charge maximale de <strong>360 kW</strong> en courant continu. Concrètement, il est possible de récupérer de 10 à 80 % de batterie en environ <strong>22 minutes</strong> sur une borne compatible. C'est l'un des temps de recharge les plus rapides du marché, rivalisant avec le Porsche Taycan et le Hyundai Ioniq 5.</p>
+
+<p>La Tesla Model S fonctionne en architecture <strong>400 volts</strong> et plafonne à <strong>250 kW</strong> sur les Superchargeurs V3. Le passage de 10 à 80 % nécessite environ <strong>30 à 35 minutes</strong>. Certes, le réseau Supercharger reste le plus fiable et le plus étendu d'Europe avec plus de 15 000 points de charge, mais la puissance de crête est en retrait face à la concurrence chinoise.</p>
+
+<p>En termes de technologie de recharge pure, le Zeekr 001 possède un <strong>avantage indéniable</strong>. Reste que l'expérience utilisateur Tesla — branchement plug-and-charge, facturation automatique, disponibilité — demeure une référence que Zeekr devra encore égaler sur le terrain.</p>
+
+<h2>Intérieur et technologies : deux visions du luxe connecté</h2>
+
+<p>L'habitacle du Zeekr 001 mise sur le raffinement avec des matériaux nobles, des sièges Nappa ventilés et chauffants, un toit panoramique et un écran central flottant de 14,7 pouces. Le système d'infodivertissement tourne sous un processeur Qualcomm Snapdragon 8155, offrant une fluidité remarquable. L'affichage tête haute, le système audio Yamaha à 21 haut-parleurs et les multiples ports USB-C complètent un équipement très généreux de série.</p>
+
+<p>La Tesla Model S joue une autre carte avec son <strong>écran central de 17 pouces</strong> orientable et son écran arrière de 8 pouces pour les passagers. L'interface minimaliste est connue pour centraliser absolument tout dans l'écran tactile, ce qui divise toujours les utilisateurs. Le système audio à 22 haut-parleurs est excellent, et Tesla propose des fonctionnalités exclusives comme le mode Cinéma, les jeux vidéo intégrés et les mises à jour OTA régulières qui enrichissent le véhicule au fil du temps.</p>
+
+<p>En matière d'aides à la conduite, Tesla conserve un avantage grâce à l'<strong>Autopilot</strong> et au FSD (Full Self-Driving) supervisé, même si ce dernier n'est pas encore pleinement disponible en Europe. Le Zeekr 001 propose le système Mobileye SuperVision avec 7 caméras 8 mégapixels, compétent mais encore un cran en dessous de l'écosystème Tesla sur autoroute.</p>
+
+<h2>Prix : le fossé qui change tout</h2>
+
+<p>Et c'est ici que le Zeekr 001 assène son <strong>coup de grâce</strong>. Affiché à partir d'environ <strong>60 000 €</strong> en France pour une version généreusement équipée, il se positionne près de <strong>35 000 € en dessous</strong> d'une Tesla Model S facturée aux alentours de <strong>95 000 €</strong>.</p>
+
+<p>Cet écart de prix colossal est difficile à justifier, même en tenant compte de la supériorité en performances brutes de la Model S Plaid. Pour le budget d'une Tesla Model S, il est possible de s'offrir un Zeekr 001 et de conserver une enveloppe conséquente pour l'assurance, l'entretien et l'énergie pendant plusieurs années.</p>
+
+<p>Bien entendu, la valeur résiduelle de Tesla reste supérieure grâce à la notoriété de la marque, et le réseau après-vente Zeekr est encore en construction en Europe. Mais l'argument tarifaire est si puissant qu'il suffit à lui seul à faire pencher la balance pour de nombreux acheteurs pragmatiques.</p>
+
+<h2>Verdict : deux gagnants, selon vos priorités</h2>
+
+<p>Le <strong>Zeekr 001</strong> s'impose comme le <strong>meilleur rapport qualité-prix</strong> du segment premium électrique en 2026. Son architecture 800V, son autonomie généreuse, son format shooting brake pratique et son prix agressif en font un choix rationnel et séduisant. Il remporte ce comparatif sur la <strong>valeur globale</strong> et la <strong>technologie de recharge</strong>.</p>
+
+<p>La <strong>Tesla Model S</strong> conserve la couronne sur les <strong>performances pures</strong>, l'<strong>écosystème logiciel</strong> et la <strong>maturité du réseau de recharge</strong>. Si vous cherchez la voiture électrique la plus rapide du marché adossée à l'infrastructure la plus fiable, la Model S reste imbattable.</p>
+
+<p>Notre recommandation : pour la majorité des acheteurs européens, le <strong>Zeekr 001 représente le choix le plus intelligent</strong> en 2026. Tesla devra soit baisser ses prix, soit proposer une Model S profondément renouvelée pour contenir l'offensive chinoise. La Silicon Valley a effectivement de bonnes raisons de trembler.</p>
+`,
     author: 'Rédaction Véhicules Chinois',
   },
   {
@@ -1238,6 +1335,57 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'comparatif',
     publishedAt: '2025-09-29T09:00:00+02:00',
     readingTime: 8,
+    body: `
+<h1>XPeng G6 vs Tesla Model Y : le duel des SUV électriques sur la recharge rapide</h1>
+
+<p>Le marché des SUV électriques compacts n'a jamais été aussi disputé. D'un côté, la Tesla Model Y, référence incontestable depuis des années, véritable blockbuster mondial avec des millions d'exemplaires vendus. De l'autre, le XPeng G6, challenger chinois ambitieux qui débarque en Europe avec une promesse forte : une architecture 800 volts capable d'humilier la concurrence sur la recharge rapide. Entre performances pures, autonomie, technologie embarquée et rapport qualité-prix, ce comparatif met face à face deux philosophies de l'électrique. Alors, faut-il encore choisir Tesla les yeux fermés, ou le G6 a-t-il les arguments pour renverser la table ?</p>
+
+<h2>La recharge rapide : l'atout maître du XPeng G6</h2>
+
+<p>C'est le domaine où le XPeng G6 creuse l'écart le plus significatif. Grâce à son architecture électrique 800 volts — la même technologie que l'on retrouve sur des véhicules bien plus onéreux comme la Porsche Taycan ou la Kia EV6 — le G6 accepte une puissance de charge maximale de <strong>280 kW en courant continu</strong>. En conditions réelles, cela se traduit par un temps de recharge de <strong>10 à 80 % en seulement 20 minutes</strong> sur une borne compatible. C'est tout simplement l'un des meilleurs temps du segment.</p>
+
+<p>Face à lui, la Tesla Model Y repose sur une architecture 400 volts plus conventionnelle. Sa puissance de charge plafonne à <strong>250 kW</strong> sur les Superchargeurs V3, et le passage de 10 à 80 % nécessite environ <strong>25 minutes</strong>. Certes, Tesla compense partiellement ce retard technique par la densité et la fiabilité de son réseau de Superchargeurs, qui reste le meilleur d'Europe. Mais sur le plan purement technologique, le G6 a une génération d'avance.</p>
+
+<p>Pour les conducteurs qui enchaînent les longs trajets — commerciaux, familles en vacances ou simplement amoureux de la route — ces cinq minutes gagnées à chaque arrêt s'accumulent et font une vraie différence sur la fatigue et le temps total de parcours. Le XPeng G6 transforme la recharge rapide en véritable avantage concurrentiel.</p>
+
+<h2>Performances : avantage Tesla, mais le G6 n'a pas à rougir</h2>
+
+<p>Sur le papier, la Tesla Model Y Long Range domine clairement. Avec ses <strong>345 chevaux</strong> et une transmission intégrale Dual Motor, elle abat le <strong>0 à 100 km/h en 5,0 secondes</strong>. Les reprises sont franches, la motricité exemplaire, et le châssis a été affiné au fil des mises à jour pour offrir un comportement routier étonnamment dynamique pour un SUV familial.</p>
+
+<p>Le XPeng G6, dans sa version propulsion arrière, développe <strong>296 chevaux</strong> et réalise le <strong>0 à 100 km/h en 5,9 secondes</strong>. C'est une seconde de moins que la Tesla, ce qui se ressent surtout dans les dépassements sur autoroute et les insertions sur voies rapides. Toutefois, pour un usage quotidien et même pour de la conduite dynamique occasionnelle, le G6 reste parfaitement performant. Sa suspension offre un bon compromis entre confort et tenue de route, et le poids contenu par rapport à certains concurrents joue en sa faveur dans les enchaînements de virages.</p>
+
+<p>En résumé, si la performance pure est votre priorité absolue, la Model Y garde l'avantage. Mais le G6 ne démérite pas et satisfera la grande majorité des conducteurs.</p>
+
+<h2>Autonomie : le G6 prend les devants grâce à sa grosse batterie</h2>
+
+<p>Le XPeng G6 embarque une batterie de <strong>87,5 kWh</strong> qui lui confère une autonomie annoncée d'environ <strong>570 km selon le cycle WLTP</strong>. C'est un chiffre remarquable pour le segment, qui place le G6 parmi les SUV électriques les plus endurants du marché. En conditions réelles — autoroute à 130 km/h, chauffage ou climatisation activés — on peut raisonnablement tabler sur 420 à 460 km, ce qui reste très confortable pour un usage mixte.</p>
+
+<p>La Tesla Model Y Long Range, de son côté, annonce environ <strong>533 km WLTP</strong> avec sa batterie de 75 kWh. Tesla est réputé pour son efficience énergétique, grâce à un aérodynamisme soigné et une gestion logicielle de la batterie parmi les meilleures du marché. En conditions réelles, comptez environ 400 à 440 km. L'écart se resserre donc en usage quotidien, mais le G6 conserve un léger avantage, notamment sur les trajets autoroutiers longs où la capacité brute de la batterie fait la différence.</p>
+
+<p>Combinée à la recharge ultra-rapide, cette autonomie supérieure fait du G6 un compagnon de voyage particulièrement efficace : moins d'arrêts, des arrêts plus courts, et donc plus de temps sur la route.</p>
+
+<h2>Intérieur et technologie : deux approches radicalement différentes</h2>
+
+<p>L'habitacle du XPeng G6 mise sur la générosité technologique. L'écran central de <strong>14,96 pouces</strong> domine la planche de bord et donne accès à un système d'infodivertissement complet, réactif et riche en fonctionnalités. Mais la vraie star, c'est le système de conduite assistée <strong>XNGP</strong>, qui s'appuie sur un ensemble de capteurs incluant un <strong>LiDAR</strong> monté sur le toit. Ce dispositif permet une conduite semi-autonome avancée sur autoroute comme en ville, avec une gestion fine des dépassements, des ronds-points et du stationnement automatique. La sellerie, les matériaux et l'assemblage sont de bonne facture, témoignant de la montée en gamme rapide des constructeurs chinois.</p>
+
+<p>La Tesla Model Y adopte l'approche minimaliste chère à la marque. L'écran de <strong>15,4 pouces</strong> centralise absolument toutes les commandes, y compris les essuie-glaces et les réglages de ventilation, ce qui divise toujours autant les utilisateurs. L'<strong>Autopilot</strong> de série offre un bon niveau d'assistance, et la version Enhanced Autopilot ou Full Self-Driving (en option payante) ajoute des fonctionnalités supplémentaires. L'ambiance intérieure est épurée, presque austère, mais fonctionnelle. Les mises à jour OTA régulières enrichissent constamment l'expérience.</p>
+
+<p>Le choix entre les deux dépend de votre philosophie : si vous aimez les interfaces riches et la technologie de pointe visible, le G6 séduira. Si vous préférez la simplicité et un écosystème logiciel éprouvé, la Model Y reste une valeur sûre.</p>
+
+<h2>Prix : un rapport qualité-prix imbattable pour le G6</h2>
+
+<p>C'est peut-être l'argument le plus percutant du XPeng G6. Affiché à environ <strong>38 000 €</strong> en France (avant bonus écologique éventuel), il se positionne <strong>6 000 € en dessous</strong> de la Tesla Model Y Long Range, proposée aux alentours de <strong>44 000 €</strong>. Et cet écart de prix ne se fait pas au détriment de l'équipement : le G6 est livré avec une dotation de série très complète incluant le LiDAR, les sièges chauffants, le toit panoramique et un système audio premium.</p>
+
+<p>Pour un budget équivalent à celui de la Model Y, un acheteur de G6 peut opter pour la version haut de gamme avec transmission intégrale ou tout simplement réaliser une économie substantielle. À l'heure où le pouvoir d'achat est au cœur des préoccupations, cet avantage tarifaire est un argument de poids qui peut faire basculer la décision.</p>
+
+<h2>Verdict : le meilleur rapport qualité-prix contre la meilleure marque</h2>
+
+<p>Au terme de ce comparatif, le <strong>XPeng G6 s'impose comme le meilleur rapport qualité-prix du segment des SUV électriques compacts</strong>. Architecture 800V, recharge ultra-rapide, autonomie généreuse, technologie de pointe avec LiDAR et un prix agressif : le G6 coche toutes les cases de l'acheteur rationnel. Il représente ce que l'industrie automobile chinoise fait de mieux en 2025 et prouve que la concurrence technologique avec les marques établies est désormais une réalité.</p>
+
+<p>La <strong>Tesla Model Y</strong>, en revanche, conserve des atouts indéniables : des performances supérieures, le réseau de Superchargeurs le plus fiable et le plus étendu d'Europe, une valeur de revente solide, et la puissance d'une marque qui rassure les acheteurs comme les assureurs. L'écosystème Tesla — application, mises à jour, communauté — reste un avantage intangible mais réel au quotidien.</p>
+
+<p>Notre recommandation ? Si vous cherchez le meilleur véhicule électrique pour votre argent et que la recharge rapide est un critère déterminant, le XPeng G6 est un choix redoutable. Si la tranquillité d'esprit liée à un réseau éprouvé et une marque de référence compte davantage pour vous, la Tesla Model Y reste un excellent choix. Dans tous les cas, le consommateur européen est le grand gagnant de cette bataille sino-américaine.</p>
+`,
     author: 'Rédaction Véhicules Chinois',
   },
   {
@@ -1448,6 +1596,70 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'technologie',
     publishedAt: '2025-06-30T09:00:00+02:00',
     readingTime: 9,
+    body: `
+<h2>Le grand débat de la conduite autonome : deux philosophies irréconciliables</h2>
+<p>Dans la course à la conduite autonome, deux visions s'affrontent avec une intensité rare. D'un côté, <strong>XPeng</strong> et son système XNGP, qui combine Lidar, caméras et radars pour créer une perception multicouche de l'environnement. De l'autre, <strong>Tesla</strong> et sa philosophie Vision, qui mise exclusivement sur les caméras et la puissance brute de l'intelligence artificielle. En France, où les routes étroites, les ronds-points labyrinthiques et les conditions météorologiques capricieuses mettent à rude épreuve n'importe quel système d'aide à la conduite, cette question n'est pas théorique : elle détermine concrètement votre sécurité au quotidien.</p>
+<p>Quel système offre réellement la meilleure assistance sur les routes françaises en 2025 ? Plongeons dans les détails techniques, les résultats de terrain et les perspectives d'avenir de chaque approche.</p>
+
+<h2>Comment fonctionne le Lidar : la cartographie laser en temps réel</h2>
+<p>Le Lidar — acronyme de <em>Light Detection and Ranging</em> — est un capteur qui émet des <strong>impulsions laser</strong> (généralement dans l'infrarouge proche) à une fréquence extrêmement élevée, pouvant atteindre plusieurs millions de points par seconde. Chaque impulsion rebondit sur les objets environnants et revient au capteur. En mesurant le temps de retour de chaque faisceau avec une précision de l'ordre de la nanoseconde, le système calcule la distance exacte de chaque point détecté.</p>
+<p>Le résultat est un <strong>nuage de points 3D</strong> (point cloud) qui représente l'environnement avec une fidélité remarquable. Les Lidar modernes embarqués sur les véhicules offrent une portée allant jusqu'à <strong>150 mètres</strong>, voire 200 mètres pour les modèles les plus performants, avec une résolution angulaire suffisante pour distinguer un piéton d'un poteau à plus de 100 mètres. Contrairement aux caméras, le Lidar fournit directement des mesures de distance absolues — il n'a pas besoin d'algorithmes complexes pour estimer la profondeur à partir d'une image 2D.</p>
+<p>Ce nuage de points est actualisé en temps réel, typiquement 10 à 20 fois par seconde, offrant au véhicule une représentation tridimensionnelle constamment mise à jour de son environnement immédiat.</p>
+
+<h2>L'arsenal technologique de XPeng : la redondance comme philosophie</h2>
+<p>Le système XNGP de XPeng repose sur une approche que l'on pourrait qualifier de <strong>"ceinture et bretelles"</strong>. Le véhicule embarque un ensemble de capteurs impressionnant :</p>
+<ul>
+  <li><strong>2 capteurs Lidar</strong> montés de chaque côté du pare-brise, offrant un champ de vision combiné de 240° et une portée maximale de 150 mètres</li>
+  <li><strong>12 caméras haute définition</strong> couvrant une vision à 360° autour du véhicule, incluant des caméras à vision étroite pour la détection longue portée</li>
+  <li><strong>5 radars millimétriques</strong> (1 frontal longue portée + 4 latéraux) pour la détection des objets en mouvement, même à travers les intempéries</li>
+  <li><strong>12 capteurs ultrasoniques</strong> pour les manœuvres de proximité et le stationnement automatique</li>
+</ul>
+<p>L'ensemble est piloté par deux puces <strong>Nvidia Orin X</strong>, totalisant une puissance de calcul de <strong>508 TOPS</strong> (Tera Operations Per Second). Cette architecture de double processeur permet non seulement un traitement parallèle massif des données capteurs, mais offre également une redondance matérielle : si l'un des processeurs rencontre une défaillance, l'autre peut maintenir les fonctions critiques de sécurité.</p>
+<p>La fusion de données provenant de sources aussi variées — laser, optique, radar et ultrasons — crée ce que les ingénieurs appellent une <strong>perception multimodale</strong>. Chaque type de capteur compense les faiblesses des autres : là où la caméra peine dans l'obscurité, le Lidar excelle ; là où le Lidar peut être trompé par la pluie, le radar prend le relais.</p>
+
+<h2>Tesla Vision : le pari radical de l'intelligence artificielle pure</h2>
+<p>Tesla a fait un choix diamétralement opposé et controversé. Depuis 2022, tous les véhicules Tesla ont abandonné les radars et les capteurs ultrasoniques pour ne conserver que <strong>8 caméras</strong>. La philosophie d'Elon Musk est limpide : si les humains conduisent avec deux yeux, un système suffisamment intelligent devrait pouvoir conduire avec huit caméras.</p>
+<p>Le matériel repose sur la puce propriétaire <strong>HW4</strong> (Hardware 4), développée en interne par Tesla. Cette puce offre environ 300 TOPS de puissance de calcul et traite les flux vidéo des 8 caméras en temps réel. Mais la vraie force de Tesla réside dans son <strong>approche logicielle</strong> : le système FSD (Full Self-Driving) utilise un réseau neuronal de bout en bout (<em>end-to-end neural network</em>) entraîné sur des milliards de kilomètres de données de conduite collectées par l'ensemble de la flotte Tesla mondiale.</p>
+<p>Au lieu de programmer explicitement des règles — "si obstacle détecté à 30 mètres, freiner" — le réseau neuronal apprend à conduire de manière holistique, en observant comment des millions de conducteurs humains réagissent dans des situations similaires. Tesla estime que cette approche, alimentée par un volume de données sans précédent, finira par surpasser tout système basé sur des capteurs supplémentaires.</p>
+<p>Le défi fondamental reste cependant l'estimation de profondeur. Sans Lidar ni radar, Tesla doit reconstruire la profondeur à partir d'images 2D grâce à la <strong>stéréovision computationnelle</strong> et à des réseaux neuronaux spécialisés. Un exercice qui atteint ses limites dans certaines conditions critiques.</p>
+
+<h2>Sur les routes françaises : résultats des tests en conditions réelles</h2>
+<p>La France offre un terrain d'épreuve particulièrement exigeant pour les systèmes de conduite autonome. Voici ce que révèlent les tests comparatifs sur trois types de routes emblématiques :</p>
+
+<h3>Ronds-points</h3>
+<p>La France compte plus de <strong>30 000 ronds-points</strong>, soit environ la moitié du total mondial. Le système XNGP de XPeng gère ces intersections avec une fluidité remarquable : le Lidar détecte en temps réel les véhicules entrants et sortants, même ceux partiellement masqués par d'autres voitures, et le système adapte sa trajectoire avec précision. Tesla FSD, en revanche, montre encore des hésitations sur les ronds-points à voies multiples, avec des insertions parfois trop timides ou des trajectoires légèrement erratiques.</p>
+
+<h3>Rues étroites et centres-villes historiques</h3>
+<p>Dans les ruelles de villes comme Lyon ou Strasbourg, où les voitures garées en double file et les cyclistes surgissant de nulle part sont monnaie courante, le Lidar de XPeng offre un avantage net. Sa mesure de distance précise au centimètre permet au véhicule de naviguer dans des passages serrés avec une marge de sécurité constante. Tesla Vision peut parfois sous-estimer la distance avec un obstacle latéral, notamment lorsque l'éclairage est rasant ou que les ombres créent des ambiguïtés visuelles.</p>
+
+<h3>Autoroute</h3>
+<p>Sur autoroute, les deux systèmes offrent des performances comparables pour le maintien de voie et le suivi de véhicule. L'écart se creuse lors des <strong>dépassements et des insertions</strong> : le XNGP anticipe mieux les véhicules arrivant à grande vitesse grâce à la mesure directe de distance du Lidar, tandis que Tesla FSD peut parfois initier un changement de voie avant d'annuler brusquement la manœuvre en détectant tardivement un véhicule rapide dans l'angle mort.</p>
+
+<h2>Pluie, brouillard et nuit : l'avantage décisif du Lidar</h2>
+<p>C'est dans les conditions de visibilité dégradée que l'écart entre les deux systèmes devient le plus significatif. En France, où il pleut en moyenne <strong>170 jours par an</strong> dans certaines régions du nord et de l'ouest, cette question est loin d'être anecdotique.</p>
+<p>Sous la pluie battante, les caméras de Tesla souffrent de gouttelettes sur les objectifs, de reflets sur la chaussée mouillée et d'une visibilité globalement réduite. Le Lidar, émettant dans l'infrarouge, est moins affecté par ces conditions et continue à fournir des mesures de distance fiables même sous une pluie modérée à forte. Dans le brouillard dense, les deux technologies atteignent leurs limites, mais le radar millimétrique du XPeng — absent chez Tesla — permet de maintenir une détection des véhicules jusqu'à environ 80 mètres.</p>
+<p>La conduite de nuit constitue un autre domaine où le Lidar excelle naturellement. Indifférent à l'absence de lumière, il fournit un nuage de points identique de jour comme de nuit. Les caméras de Tesla, malgré leurs capacités en basse lumière améliorées avec le HW4, restent tributaires de l'éclairage ambiant et des phares du véhicule.</p>
+
+<h2>Le prix de la sécurité : quel impact sur le coût ?</h2>
+<p>L'intégration de capteurs Lidar représente un surcoût matériel estimé entre <strong>800 et 1 200 euros</strong> par véhicule, en tenant compte des deux modules Lidar et de l'électronique de traitement associée. Ce coût, autrefois prohibitif (les premiers Lidar automobiles dépassaient les 70 000 dollars), a chuté grâce à la production de masse et aux avancées technologiques des fabricants comme Hesai et RoboSense.</p>
+<p>Tesla, en revanche, facture son logiciel FSD sous forme d'<strong>abonnement mensuel</strong> (environ 99 $/mois aux États-Unis) ou d'achat unique (entre 8 000 et 12 000 $). La stratégie de Tesla repose sur des marges logicielles élevées avec un matériel relativement peu coûteux, tandis que XPeng intègre le coût du Lidar dans le prix du véhicule sans abonnement supplémentaire pour les fonctions XNGP avancées.</p>
+<p>Sur le long terme, l'approche Tesla pourrait s'avérer plus coûteuse pour le consommateur si l'abonnement FSD reste nécessaire pour accéder aux fonctionnalités avancées.</p>
+
+<h2>Réglementation en France et en Europe : le cadre légal actuel</h2>
+<p>En Europe, le règlement <strong>UN R157</strong> encadre les systèmes de conduite automatisée de niveau 3 (ALKS — Automated Lane Keeping Systems), autorisant la conduite autonome sur autoroute jusqu'à 60 km/h dans les embouteillages. La France, pionnière en la matière, a été l'un des premiers pays européens à transposer cette réglementation dans son droit national.</p>
+<p>Le <strong>règlement européen sur l'IA</strong> (AI Act), entré en vigueur en 2025, classe les systèmes de conduite autonome dans la catégorie "haut risque", imposant des exigences strictes en matière de transparence, de robustesse et de supervision humaine. Cette réglementation tend à favoriser les systèmes à capteurs multiples offrant une redondance démontrable — un point qui avantage l'approche XPeng.</p>
+<p>Cependant, aucune réglementation européenne n'impose ni n'interdit spécifiquement le Lidar. La question centrale reste la <strong>performance démontrée</strong> du système dans les scénarios de certification, quel que soit le moyen technique utilisé pour y parvenir.</p>
+
+<h2>Quelle technologie est la plus pérenne ?</h2>
+<p>XPeng mise sur la <strong>robustesse immédiate</strong> : plus de capteurs signifie plus de redondance, plus de fiabilité dans les cas limites, et une marge de sécurité supérieure dès aujourd'hui. Chaque nouveau modèle intègre des Lidar plus performants et moins coûteux, et la tendance du marché chinois — où la quasi-totalité des constructeurs adoptent le Lidar — conforte cette direction.</p>
+<p>Tesla parie sur la <strong>scalabilité logicielle</strong> : avec une flotte de plus de 6 millions de véhicules collectant des données en permanence, chaque mise à jour logicielle améliore théoriquement l'ensemble du parc. Si le réseau neuronal atteint un niveau de performance suffisant, l'absence de Lidar devient un avantage — moins de pièces, moins de maintenance, moins de points de défaillance.</p>
+<p>Le risque pour Tesla est de ne jamais combler entièrement le fossé physique : une caméra ne pourra probablement jamais égaler un Lidar pour la mesure directe de distance dans toutes les conditions. Le risque pour XPeng est de maintenir un surcoût matériel qui pourrait devenir inutile si l'IA pure tient ses promesses.</p>
+
+<h2>Verdict : XPeng plus performant aujourd'hui, Tesla parie sur l'avenir</h2>
+<p>À l'heure actuelle, sur les routes françaises, le <strong>système XNGP de XPeng offre une conduite assistée objectivement supérieure</strong>. La fusion Lidar + caméras + radars procure une robustesse et une fiabilité que Tesla Vision ne peut pas encore égaler, particulièrement dans les conditions météorologiques dégradées et les situations urbaines complexes typiques de la France.</p>
+<p>Tesla FSD reste impressionnant dans sa capacité d'apprentissage et sa progression constante grâce aux mises à jour OTA, mais l'approche caméras seules montre encore des limites concrètes en l'absence de mesure directe de profondeur. Le pari de Tesla est celui de l'intelligence artificielle générale appliquée à la conduite — un pari audacieux mais dont le succès n'est pas garanti.</p>
+<p>Pour un acheteur français en 2025, le choix rationnel penche vers XPeng si la conduite assistée avancée est une priorité. Le Lidar n'est pas un gadget marketing — c'est un capteur qui fournit des données physiques qu'aucun algorithme ne peut inventer à partir d'images seules. Reste à voir si l'avenir donnera raison à l'ingénierie de la redondance ou au génie logiciel. En attendant, sur les ronds-points de l'Hexagone, c'est XPeng qui inspire le plus confiance.</p>
+`,
     author: 'Rédaction Véhicules Chinois',
   },
 
@@ -1463,6 +1675,45 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-06-23T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>SHS-H : le système hybride qui change les règles</h2>
+<p>Quand Omoda (filiale export du groupe Chery) lance l'Omoda 5 SHS-H, la plupart des observateurs s'attendent à un hybride de plus. Erreur. Le <strong>Super Hybrid System-H (SHS-H)</strong> est une architecture hybride série-parallèle qui rivalise techniquement avec le légendaire système e:HEV de Honda et le DM-i de BYD. Et son arme secrète : une consommation en ville qui peut descendre sous les <strong>4 L/100 km</strong>.</p>
+
+<h2>Architecture : comment ça fonctionne</h2>
+<p>Le SHS-H combine trois éléments clés :</p>
+<ul>
+  <li><strong>Moteur thermique 1,5L Turbo</strong> (Acteco) : 115 ch, optimisé pour fonctionner dans sa plage de rendement maximal</li>
+  <li><strong>Moteur électrique principal</strong> : 163 ch (120 kW), chargé de la traction. C'est lui qui entraîne les roues la plupart du temps.</li>
+  <li><strong>Générateur intégré</strong> : transforme l'énergie du moteur thermique en électricité pour alimenter le moteur principal ou recharger la batterie</li>
+  <li><strong>Batterie hybride</strong> : 1,86 kWh (LFP), tampon entre les sources d'énergie</li>
+</ul>
+<p>Le système fonctionne selon <strong>trois modes automatiques</strong> :</p>
+<ol>
+  <li><strong>Mode série (ville)</strong> : le moteur thermique tourne uniquement comme générateur d'électricité. Le moteur électrique seul entraîne les roues. C'est le mode le plus efficient en ville.</li>
+  <li><strong>Mode parallèle (route)</strong> : les deux moteurs contribuent à la traction. Le thermique entraîne directement les roues, assisté par l'électrique.</li>
+  <li><strong>Mode électrique pur</strong> : sur batterie seule, pour les phases de décélération, de roulage léger ou en manœuvre. Limité en distance mais fréquent en usage urbain.</li>
+</ol>
+
+<h2>Pourquoi c'est révolutionnaire</h2>
+<p>La plupart des hybrides classiques (Toyota, Renault) fonctionnent principalement en mode parallèle : le moteur thermique entraîne les roues et le moteur électrique assiste ponctuellement. En ville, le thermique tourne souvent hors de sa plage optimale — d'où une efficience limitée.</p>
+<p>Le SHS-H renverse le paradigme : <strong>en ville, le thermique ne touche jamais les roues</strong>. Il fonctionne uniquement comme générateur, à son régime de rendement maximal (environ 40 % de rendement thermique). Le moteur électrique, bien plus efficient à basse vitesse, fait tout le travail de traction.</p>
+<p>Résultat : en cycle urbain, l'Omoda 5 SHS-H peut descendre à <strong>3,8 L/100 km</strong> — un chiffre digne d'un hybride rechargeable, sans prise à brancher.</p>
+
+<h2>Performances au quotidien</h2>
+<p>La puissance combinée atteint <strong>194 ch</strong>, suffisante pour des accélérations correctes (0-100 km/h en ~8,5 s). Le couple instantané du moteur électrique rend les démarrages et les reprises urbaines très agréables — plus réactifs qu'un diesel équivalent.</p>
+<p>Sur autoroute, le mode parallèle prend le relais et le moteur thermique contribue directement. La consommation monte à environ <strong>6-6,5 L/100 km</strong> à 130 km/h — correcte sans être exceptionnelle. C'est en usage mixte et urbain que le SHS-H excelle vraiment.</p>
+
+<h2>Comparaison avec la concurrence hybride</h2>
+<ul>
+  <li><strong>Toyota Yaris Cross Hybrid</strong> : 116 ch, ~4,5 L/100 km en ville. Éprouvé mais moins puissant et moins efficient que le SHS-H en urbain.</li>
+  <li><strong>MG ZS Hybrid+</strong> : 197 ch, ~5,5 L/100 km en ville. Plus puissant mais plus gourmand, et le problème de perte de puissance documenté.</li>
+  <li><strong>Honda HR-V e:HEV</strong> : 131 ch, ~4,3 L/100 km. Architecture similaire (série-parallèle), très efficient, mais plus cher et moins puissant.</li>
+</ul>
+
+<h2>Verdict : l'hybride chinois de nouvelle génération</h2>
+<p>Le SHS-H d'Omoda prouve que les constructeurs chinois ne se contentent pas de copier — ils innovent. Cette architecture hybride est l'une des plus efficientes du marché, particulièrement adaptée à l'usage urbain où la plupart des conducteurs passent 80 % de leur temps.</p>
+<p>Pour l'acheteur qui n'est pas prêt pour le 100 % électrique mais qui veut consommer moins et polluer moins, l'Omoda 5 SHS-H est une proposition extrêmement séduisante — à condition que le réseau SAV Chery se développe rapidement en Europe.</p>
+`,
   },
   {
     slug: 'mg3-hybrid-moteur-electrique-plus-puissant-concurrents',
