@@ -828,6 +828,50 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2026-02-17T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Même ADN, deux personnalités</h2>
+<p>Le Zeekr X et le Volvo EX30 partagent un secret de famille : ils sont tous deux construits sur la <strong>plateforme SEA (Sustainable Experience Architecture)</strong> du groupe Geely. Même base technique, mêmes usines chinoises (l'EX30 est produit à Chongqing), et pourtant deux voitures radicalement différentes en personnalité, en image et en positionnement.</p>
+<p>C'est le comparatif qui révèle la stratégie de Geely : utiliser une même plateforme pour conquérir différents segments de clientèle avec des marques distinctes.</p>
+
+<h2>Design : avant-garde chinoise vs sobriété scandinave</h2>
+<p>Le <strong>Zeekr X</strong> assume un design audacieux, presque conceptuel : lignes tendues, optiques effilées, calandre fermée futuriste et silhouette de crossover sportif. C'est une voiture qui veut être remarquée. Les portes arrière antagonistes (ouverture en sens inverse) ajoutent une touche théâtrale.</p>
+<p>Le <strong>Volvo EX30</strong> joue la carte de la <strong>sobriété scandinave</strong> : surfaces lisses, détails minimalistes, palette de couleurs terreuses. Le design est élégant mais discret — typiquement Volvo. La silhouette compacte (4 233 mm, le plus petit Volvo jamais produit) le rend agile en ville.</p>
+
+<h2>Motorisations et performances</h2>
+<p>Les deux véhicules partagent les mêmes groupes motopropulseurs issus de la plateforme SEA :</p>
+<ul>
+  <li><strong>Version propulsion (RWD)</strong> : moteur arrière de ~272 ch, 0-100 km/h en 5,6 s</li>
+  <li><strong>Version intégrale (AWD)</strong> : double moteur ~428 ch, 0-100 km/h en 3,6 s</li>
+</ul>
+<p>Les chiffres sont quasi identiques car la mécanique est la même. La différence se joue dans le <strong>calibrage</strong> : le Zeekr X est réglé légèrement plus sportif (direction plus ferme, suspension plus directe), tandis que l'EX30 privilégie le confort et l'isolation.</p>
+
+<h2>Batterie et autonomie</h2>
+<p>Même constat sur les batteries :</p>
+<ul>
+  <li><strong>Version standard</strong> : batterie LFP de ~51 kWh, autonomie ~340 km WLTP</li>
+  <li><strong>Version Long Range</strong> : batterie NMC de ~69 kWh, autonomie ~480 km WLTP</li>
+</ul>
+<p>La version LFP du Volvo EX30 Single Motor est la plus accessible du segment. La version Long Range offre une autonomie qui couvre largement les besoins hebdomadaires sans recharge publique.</p>
+
+<h2>Intérieur : tech chinoise vs minimalisme suédois</h2>
+<p>C'est ici que les personnalités divergent le plus. Le <strong>Zeekr X</strong> offre un cockpit high-tech avec un écran central de 14,6 pouces, un combiné d'instrumentation numérique, des matériaux bicolores et une ambiance lumineuse personnalisable. C'est festif, coloré, technologique.</p>
+<p>L'<strong>EX30</strong> reprend la philosophie Volvo : un seul écran central de 12,3 pouces, pas de combiné d'instrumentation (les informations s'affichent sur l'écran central ou le HUD), et des matériaux durables (tissu recyclé, denim, lin). L'ambiance est zen, épurée, presque méditative. Le système Google Built-In est natif.</p>
+
+<h2>Sécurité : 5 étoiles pour les deux</h2>
+<p>Les deux ont obtenu <strong>5 étoiles Euro NCAP</strong>. Volvo — marque historiquement associée à la sécurité — ne pouvait pas se permettre moins. Zeekr, en tant que nouvelle marque, devait prouver sa crédibilité. Les deux y sont parvenus avec des scores similaires.</p>
+
+<h2>Prix : Zeekr plus accessible</h2>
+<ul>
+  <li><strong>Zeekr X</strong> : à partir de ~36 000 €</li>
+  <li><strong>Volvo EX30</strong> : à partir de ~36 500 €</li>
+</ul>
+<p>Les prix de base sont quasi identiques. Mais Zeekr est souvent mieux équipé de série (toit panoramique, sièges chauffants, audio premium), là où Volvo facture ces options en supplément. À équipement équivalent, le Zeekr X coûte environ <strong>2 000 à 3 000 € de moins</strong>.</p>
+
+<h2>Verdict : marque vs rapport qualité-prix</h2>
+<p>Le <strong>Volvo EX30</strong> s'adresse à ceux qui veulent un <strong>badge reconnu</strong>, une esthétique scandinave et l'assurance du réseau Volvo en Europe. C'est le choix safe, rassurant, qui ne surprendra personne au bureau ou dans le voisinage.</p>
+<p>Le <strong>Zeekr X</strong> s'adresse aux <strong>early adopters</strong> qui veulent plus de technologie, plus de personnalité et un meilleur rapport équipement/prix — quitte à conduire une marque que personne ne connaît encore.</p>
+<p>Techniquement, les deux voitures sont identiques. La vraie question est : payez-vous pour une plateforme, ou pour un logo ? Si c'est pour la plateforme, prenez le Zeekr. Si c'est pour le logo, prenez le Volvo. Dans les deux cas, c'est Geely qui gagne.</p>
+`,
   },
   {
     slug: 'avatr-11-vs-hiphi-z-design-chinois-futuriste',
@@ -1005,6 +1049,56 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-11-24T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le duel du budget : la Chine attaque le roi roumain</h2>
+<p>Le Dacia Duster est depuis des années le <strong>roi incontesté du SUV abordable</strong> en Europe. Simple, robuste, pas cher — la formule gagnante de Dacia. Mais en 2026, le <strong>MG ZS Hybrid+</strong> débarque avec un argument nouveau : la <strong>technologie hybride full</strong> à un prix comparable. Le trône du low-cost est-il vraiment menacé ?</p>
+
+<h2>Motorisations : hybride chinois vs hybride roumain</h2>
+<p>Le <strong>MG ZS Hybrid+</strong> combine un moteur thermique 1,5L Atkinson de 102 ch avec un moteur électrique de 136 ch, pour une puissance combinée de <strong>197 ch</strong>. La boîte automatique à 3 rapports gère la répartition entre les deux sources. La petite batterie de 1,83 kWh permet des phases de roulement 100 % électrique en ville.</p>
+<p>Le <strong>Dacia Duster Hybrid 140</strong> utilise un 1,6L essence de 94 ch assisté par deux moteurs électriques (49 ch + 20 ch) et une batterie de 1,2 kWh. La puissance combinée atteint <strong>140 ch</strong>. Le système E-Tech, hérité de Renault, est éprouvé mais moins puissant.</p>
+<p>Avantage MG sur la puissance pure (197 vs 140 ch) et sur la capacité de roulage électrique. Le Duster se rattrape sur la fiabilité éprouvée du système E-Tech Renault.</p>
+
+<h2>Consommation : le vrai juge de paix</h2>
+<p>En cycle mixte réel :</p>
+<ul>
+  <li><strong>MG ZS Hybrid+</strong> : 5,1 L/100 km (homologué) — environ 5,5-6,0 L en conditions réelles</li>
+  <li><strong>Dacia Duster Hybrid</strong> : 5,0 L/100 km (homologué) — environ 5,3-5,8 L en conditions réelles</li>
+</ul>
+<p>Les deux sont très proches en consommation. Le Duster a un léger avantage grâce à son poids inférieur (1 360 kg vs 1 490 kg pour le MG). En ville, le MG reprend l'avantage grâce à sa plus grande batterie qui permet plus de phases électriques.</p>
+
+<h2>Équipement : MG écrase la concurrence</h2>
+<p>C'est ici que le MG ZS Hybrid+ fait mal au Duster. Pour un prix de base similaire (~22 000-24 000 €), le MG offre de série :</p>
+<ul>
+  <li>Écran tactile <strong>10,1 pouces</strong> (vs 7" sur Duster de base)</li>
+  <li><strong>Caméra 360°</strong> (en option payante chez Dacia)</li>
+  <li><strong>Climatisation automatique bizone</strong></li>
+  <li><strong>Sièges chauffants</strong> (pas disponible sur Duster hors finition haute)</li>
+  <li><strong>Régulateur adaptatif</strong> avec maintien de voie</li>
+  <li><strong>Garantie 7 ans / 150 000 km</strong> (vs 3 ans / 100 000 km chez Dacia)</li>
+</ul>
+<p>Le Duster Expression (entrée de gamme) à 22 000 € est nu : climatisation manuelle, petit écran, pas de caméra de recul. Pour atteindre un équipement comparable au MG, il faut monter en finition Journey à ~26 000 € — et le MG reste devant.</p>
+
+<h2>Espace et praticité</h2>
+<p>Le nouveau Duster 3 a grandi et offre un coffre de <strong>472 litres</strong> — nettement plus que le MG ZS à <strong>443 litres</strong>. La banquette arrière du Duster est aussi légèrement plus accueillante.</p>
+<p>Le Duster propose en option la <strong>transmission intégrale</strong> (4x4) avec le moteur TCe 130 — un argument décisif pour ceux qui vivent en montagne ou sur des chemins non goudronnés. Le MG ZS est exclusivement en traction avant.</p>
+
+<h2>Fiabilité et réseau</h2>
+<p>Le réseau Dacia est celui de <strong>Renault</strong> — le plus dense de France avec plus de 1 200 points de vente et d'entretien. Les pièces sont abondantes et bon marché. La mécanique E-Tech est éprouvée depuis 2020.</p>
+<p>Le réseau MG en France est en forte expansion mais reste inférieur (~300 points). La garantie de 7 ans compense partiellement cette faiblesse. La mécanique hybride MG est plus récente et a connu le problème de perte de puissance documenté (corrigé par la mise à jour PD052).</p>
+
+<h2>Prix</h2>
+<ul>
+  <li><strong>MG ZS Hybrid+ Comfort</strong> : ~22 490 €</li>
+  <li><strong>Dacia Duster Hybrid Expression</strong> : ~22 200 €</li>
+  <li><strong>MG ZS Hybrid+ Luxury</strong> : ~24 990 €</li>
+  <li><strong>Dacia Duster Hybrid Journey</strong> : ~25 800 €</li>
+</ul>
+<p>À prix identique, le MG offre systématiquement plus d'équipement, plus de puissance et une meilleure garantie.</p>
+
+<h2>Verdict : le MG ZS menace mais ne détrône pas encore</h2>
+<p>Le <strong>MG ZS Hybrid+</strong> est objectivement le meilleur rapport équipement-prix du segment. Plus puissant, mieux équipé, mieux garanti, il devrait logiquement écraser le Duster. Mais le <strong>Dacia Duster</strong> conserve des atouts que MG ne peut pas encore égaler : le réseau SAV le plus dense d'Europe, la possibilité du 4x4, et cette simplicité rassurante qui fait le succès de la marque depuis 20 ans.</p>
+<p>Notre recommandation : si vous voulez le <strong>maximum de technologie pour votre argent</strong>, prenez le MG ZS Hybrid+. Si vous voulez la <strong>tranquillité totale</strong> en termes de SAV et de valeur de revente, le Duster reste le choix sûr. Le trône est menacé, mais pas encore renversé.</p>
+`,
   },
   {
     slug: 'byd-atto-3-evo-vs-renault-scenic-e-tech-suv-annee',
@@ -1828,6 +1922,68 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-12-16T09:00:00+01:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>La fiabilité chinoise : mythe, réalité, données</h2>
+<p>"C'est chinois, ça va tomber en panne." Cette phrase, on l'entend encore en concession. Mais les données racontent une histoire différente. En croisant les rapports <strong>JD Power Initial Quality Study</strong>, les bilans <strong>TÜV</strong> allemands et les retours propriétaires européens, un classement objectif se dessine — et il réserve des surprises.</p>
+
+<h2>Méthodologie</h2>
+<p>Notre classement combine trois sources :</p>
+<ul>
+  <li><strong>JD Power IQS 2025</strong> (Chine) : nombre de problèmes signalés par 100 véhicules dans les 90 premiers jours</li>
+  <li><strong>Retours propriétaires européens</strong> : forums, groupes Facebook, sites d'avis (Trustpilot, Google Reviews des concessions)</li>
+  <li><strong>Données SAV des réseaux</strong> : taux de retour en garantie quand disponible</li>
+</ul>
+<p>Ce classement ne prétend pas à l'exhaustivité scientifique — les marques chinoises sont trop récentes en Europe pour disposer de données à 5 ou 10 ans. Mais il donne une première photographie crédible.</p>
+
+<h2>#1 — BYD : la plus fiable</h2>
+<p><strong>Score JD Power IQS : 149 PP100</strong> (meilleur que Toyota à 153 PP100 en Chine)</p>
+<p>BYD domine le classement grâce à plusieurs facteurs :</p>
+<ul>
+  <li>L'<strong>intégration verticale</strong> réduit les problèmes d'interface entre composants</li>
+  <li>La batterie <strong>Blade LFP</strong> est intrinsèquement plus fiable que les batteries NMC (moins de dégradation, moins de gestion thermique nécessaire)</li>
+  <li>Les véhicules BYD ont des <strong>architectures électriques simples</strong> — moins de pièces = moins de pannes</li>
+  <li>Retours propriétaires européens : majoritairement positifs. Les plaintes portent sur des détails (bugs d'infodivertissement mineurs, bruits de garniture) plutôt que sur des problèmes mécaniques</li>
+</ul>
+
+<h2>#2 — Zeekr : la qualité premium</h2>
+<p>Zeekr bénéficie de l'expertise Geely/Volvo en contrôle qualité. Les processus de fabrication sont directement inspirés des standards Volvo. Les retours des premiers propriétaires européens sont excellents : finition soignée, assemblage précis, peu de défauts signalés. La plateforme SEA est mature et éprouvée sur plusieurs modèles.</p>
+
+<h2>#3 — NIO : la tech fiable</h2>
+<p>NIO mise sur la <strong>qualité de service</strong> pour compenser sa jeunesse. Les NIO Houses et le service client premium permettent une prise en charge rapide des rares problèmes. Le système de swap de batterie élimine les soucis de dégradation. Les retours : quelques bugs logiciels les premiers mois, rapidement corrigés par OTA. La mécanique est solide.</p>
+
+<h2>#4 — MG Motor : le volume rassurant</h2>
+<p>MG est la marque chinoise la plus vendue en Europe — ce qui signifie le plus grand échantillon de données. Les retours sont globalement positifs :</p>
+<ul>
+  <li><strong>MG4</strong> : très peu de problèmes signalés, fiabilité au-dessus de la moyenne du segment</li>
+  <li><strong>MG ZS EV</strong> : quelques cas de mises à jour logicielles ratées, corrigées en concession</li>
+  <li><strong>MG ZS Hybrid+</strong> : le problème de perte de puissance (corrigé par mise à jour PD052) est le principal point noir</li>
+</ul>
+<p>La garantie de <strong>7 ans / 150 000 km</strong> reste l'une des meilleures du marché et témoigne de la confiance de SAIC dans sa fiabilité.</p>
+
+<h2>#5 — XPeng : prometteuse mais jeune</h2>
+<p>XPeng a moins de recul en Europe. Les premiers G6 et G9 livrés montrent une qualité de fabrication correcte. Les retours propriétaires chinois (échantillon beaucoup plus large) sont positifs. L'avantage de XPeng : les mises à jour OTA sont fréquentes et corrigent rapidement les bugs logiciels. Le risque : le réseau SAV européen est encore très limité.</p>
+
+<h2>#6 — Chery/Omoda/Jaecoo : à surveiller</h2>
+<p>Le groupe Chery est le plus grand exportateur automobile chinois, avec une expérience de 25 ans sur les marchés émergents. La fiabilité de base est bonne — mais les retours européens sont encore trop peu nombreux pour tirer des conclusions définitives. Les premiers Omoda 5 semblent bien assemblés, avec des matériaux corrects.</p>
+
+<h2>#7 — Leapmotor : le pari Stellantis</h2>
+<p>Leapmotor est distribué par Stellantis, ce qui lui donne accès au réseau SAV le plus dense d'Europe. Mais la marque est très jeune et les véhicules (T03, C11) sont des premiers modèles d'exportation. Les retours initiaux sont corrects mais le T03 a reçu 3 étoiles Euro NCAP — un signal qui interroge sur les compromis faits pour atteindre le prix plancher.</p>
+
+<h2>Comparaison avec les marques établies</h2>
+<p>Pour contextualiser, voici les scores JD Power IQS 2025 de quelques marques de référence :</p>
+<ul>
+  <li><strong>Toyota</strong> : 153 PP100</li>
+  <li><strong>BYD</strong> : 149 PP100</li>
+  <li><strong>Honda</strong> : 157 PP100</li>
+  <li><strong>Volkswagen</strong> : 176 PP100</li>
+  <li><strong>Renault</strong> : 184 PP100</li>
+</ul>
+<p>BYD est <strong>plus fiable que Toyota</strong> selon JD Power. Ce n'est pas une anomalie — c'est le résultat d'une conception simplifiée (moins de pièces mécaniques dans un VE) et d'une intégration verticale poussée.</p>
+
+<h2>Verdict</h2>
+<p>La fiabilité des voitures chinoises n'est plus un sujet d'inquiétude — c'est un <strong>argument de vente</strong>. BYD et Zeekr rivalisent avec les meilleurs constructeurs mondiaux. MG Motor offre un historique européen suffisant pour rassurer. Les marques plus récentes (XPeng, Leapmotor, Omoda) méritent une attention prudente mais les signaux sont positifs.</p>
+<p>Le conseil : privilégiez les marques avec un <strong>réseau SAV établi</strong> en France (MG, BYD via concessionnaires, Leapmotor via Stellantis) et une <strong>garantie longue</strong> (7 ans MG, 8 ans BYD batterie). La fiabilité intrinsèque est au rendez-vous — c'est le support après-vente qui fait encore la différence.</p>
+`,
   },
 
   // --- Comparaison des Motorisations (articles.md #71-75) ---
