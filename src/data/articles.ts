@@ -4147,6 +4147,26 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-09-23T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>XPeng : quand l'IA redéfinit l'automobile</h2>
+<p><strong>XPeng</strong> (Xiaopeng Motors) n'est pas un constructeur automobile classique — c'est une entreprise d'<strong>intelligence artificielle</strong> qui fabrique des voitures. Cette philosophie « AI first » lui confère un avantage technologique considérable sur la conduite autonome et le logiciel embarqué.</p>
+
+<h2>La stratégie IA de XPeng</h2>
+<p>XPeng consacre <strong>40 % de ses employés à la R&D</strong>, dont une majorité à l'IA et au logiciel. L'entreprise développe en interne ses propres puces de conduite autonome, ses algorithmes de perception et son système d'exploitation Xmart OS. C'est l'une des rares entreprises au monde, avec Tesla et Waymo, à maîtriser l'ensemble de la chaîne logicielle de conduite autonome.</p>
+
+<h2>XNGP : la conduite autonome la plus avancée de Chine</h2>
+<p>Le système <strong>XNGP</strong> (XPeng Navigation Guided Pilot) est capable de conduire de manière semi-autonome en ville ET sur autoroute. Avec 2 LiDAR, 12 caméras et 2 puces Nvidia Orin X (508 TOPS), le système gère les ronds-points, les intersections, les changements de voie et le stationnement automatique. En Chine, XNGP est disponible dans 200+ villes.</p>
+
+<h2>La gamme européenne</h2>
+<ul>
+<li><strong>XPeng G6</strong> : SUV compact, 800V, 570 km WLTP, à partir de 42 990 €</li>
+<li><strong>XPeng G9</strong> : grand SUV premium, 551 ch AWD, à partir de 52 990 €</li>
+<li><strong>XPeng P7i</strong> : berline sportive, Xmart OS 4.0, à partir de 46 990 €</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>XPeng est le constructeur chinois le plus avancé en IA et conduite autonome. Si vous valorisez la technologie de pointe et que vous êtes prêt à être un early adopter, XPeng offre l'expérience la plus futuriste du marché. Le réseau européen reste le point faible, mais la technologie compense largement.</p>
+`,
   },
   {
     slug: 'leapmotor-alliance-stellantis-sav-europe',
@@ -4159,6 +4179,28 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-09-16T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Stellantis + Leapmotor : le mariage de raison</h2>
+<p>En 2023, <strong>Stellantis</strong> (Peugeot, Citroën, Fiat, Opel) a pris <strong>21 % du capital de Leapmotor</strong> pour 1,5 milliard d'euros et a créé la joint-venture <strong>Leapmotor International</strong> (51 % Stellantis) pour distribuer les véhicules Leapmotor hors de Chine. C'est l'alliance la plus significative entre un groupe européen et un constructeur chinois.</p>
+
+<h2>Ce que ça change concrètement</h2>
+<ul>
+<li><strong>Distribution</strong> : les Leapmotor sont vendus dans les concessions Stellantis (Citroën, Peugeot, Fiat, Opel). C'est le réseau le plus dense d'Europe pour une marque chinoise.</li>
+<li><strong>SAV</strong> : l'entretien et les réparations sont assurés par les ateliers Stellantis, formés aux spécificités Leapmotor. Plus de 1 000 points de service potentiels en France.</li>
+<li><strong>Production locale</strong> : le Leapmotor T03 est assemblé à l'usine Stellantis de Tychy (Pologne), ce qui le rend éligible au bonus écologique français.</li>
+<li><strong>Pièces détachées</strong> : la logistique Stellantis assure une disponibilité des pièces comparable aux marques du groupe.</li>
+</ul>
+
+<h2>Les modèles disponibles</h2>
+<ul>
+<li><strong>Leapmotor T03</strong> : citadine électrique, 265 km, 18 900 €. Assemblée en Pologne.</li>
+<li><strong>Leapmotor C10</strong> : SUV familial, 420 km, 36 400 €. Le modèle phare.</li>
+<li><strong>Leapmotor C11</strong> : SUV compact, 410 km, 34 900 €.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>L'alliance Stellantis-Leapmotor est le <strong>modèle à suivre</strong> pour l'implantation des marques chinoises en Europe. Elle résout les deux problèmes majeurs (SAV et production locale) tout en maintenant les prix agressifs chinois. C'est l'achat le plus sécurisant pour ceux qui veulent une voiture chinoise sans les risques habituels.</p>
+`,
   },
   {
     slug: 'gwm-ora-citadines-electriques-design-audacieux',
@@ -4171,6 +4213,25 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-09-09T09:00:00+02:00',
     readingTime: 6,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>GWM Ora : la mode électrique</h2>
+<p><strong>GWM</strong> (Great Wall Motor), 3ᵉ constructeur chinois, a créé la marque <strong>Ora</strong> pour ses citadines électriques au design néo-rétro. Dans un marché dominé par des designs génériques, Ora ose le style — et ça fonctionne.</p>
+
+<h2>L'Ora 03 : le modèle star</h2>
+<p>L'<strong>Ora 03</strong> (ex-Funky Cat, ex-Good Cat) est la star de la gamme : lignes rondes inspirées des voitures des années 60, couleurs pastel (rose, vert menthe, blanc nacré), phares ronds LED. C'est la citadine la plus photogénique du marché. Sous le capot : moteur 171 ch, batterie 48 kWh, 310 km WLTP. Prix : <strong>33 990 €</strong>.</p>
+
+<h2>L'Ora 07 : la berline sportive</h2>
+<p>L'<strong>Ora 07</strong> (ex-Lightning Cat) est une berline sportive de 4,87 m au design inspiré de la Porsche Panamera. Bi-moteur 408 ch, 0-100 en 4,3 s, batterie 83 kWh, 440 km WLTP. Prix : <strong>46 990 €</strong>. Une proposition originale pour ceux qui veulent de la performance avec du style.</p>
+
+<h2>La stratégie design d'Ora</h2>
+<p>Ora a recruté des designers européens (dont l'ancien responsable du design BMW Designworks) pour créer des voitures qui <strong>suscitent l'émotion</strong>. Le pari est que les acheteurs urbains, et notamment les femmes (cible principale d'Ora en Chine), veulent une voiture qui les représente — pas un SUV gris supplémentaire.</p>
+
+<h2>Défis en Europe</h2>
+<p>Le réseau GWM en Europe est encore limité (~50 points en France). Le prix de l'Ora 03 (34 000 €) est élevé face aux citadines électriques concurrentes (MG4 à 29 000 €). Et la marque « GWM » manque encore de notoriété. La qualité de fabrication est au rendez-vous, mais la distribution reste le maillon faible.</p>
+
+<h2>Verdict</h2>
+<p>Ora est la marque la plus <strong>originale et attachante</strong> du paysage automobile chinois. Si vous cherchez une voiture électrique qui sort du lot et que le design est votre priorité, l'Ora 03 est un choix de cœur. Le rapport qualité-prix est moins agressif que MG ou BYD, mais l'émotion est au rendez-vous.</p>
+`,
   },
   {
     slug: 'lynk-co-abonnement-ne-pas-acheter-voiture',
@@ -4183,6 +4244,33 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-09-02T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>L'abonnement automobile : la révolution Lynk & Co</h2>
+<p><strong>Lynk & Co</strong> (groupe Geely/Volvo) propose un modèle unique en Europe : pourquoi acheter une voiture quand on peut s'y <strong>abonner</strong> ? Pour 550 €/mois, tout est inclus. Zéro engagement, zéro surprise. Analyse d'un concept qui séduit de plus en plus.</p>
+
+<h2>Comment ça marche</h2>
+<p>Vous choisissez votre Lynk & Co 01 sur le site web. Vous payez <strong>550 €/mois</strong>, tout compris :</p>
+<ul>
+<li>Assurance tous risques</li>
+<li>Entretien et réparations</li>
+<li>Assistance 24h/24</li>
+<li>1 250 km/mois inclus</li>
+<li>Résiliation à tout moment</li>
+</ul>
+<p>Livraison en quelques jours. Pas d'apport, pas de durée minimum. Vous pouvez aussi <strong>partager votre voiture</strong> via l'app quand vous ne l'utilisez pas — et gagner de l'argent pour réduire votre mensualité.</p>
+
+<h2>Le partage : un modèle collaboratif</h2>
+<p>L'application Lynk & Co permet de mettre votre voiture en location quand vous n'en avez pas besoin (week-end, vacances, télétravail). Les revenus de partage peuvent couvrir <strong>30 à 50 %</strong> de la mensualité dans les grandes villes. C'est Airbnb appliqué à l'automobile.</p>
+
+<h2>Pour qui c'est pertinent</h2>
+<p>L'abonnement est idéal pour les <strong>urbains qui roulent peu</strong> (moins de 15 000 km/an), les <strong>jeunes actifs mobiles</strong>, et tous ceux qui préfèrent un coût mensuel fixe et prévisible à l'incertitude de l'entretien et de la décote.</p>
+
+<h2>Les limites</h2>
+<p>Un seul modèle pour l'instant (le 01 PHEV). Le forfait kilométrique pénalise les gros rouleurs (0,15 €/km au-delà de 1 250 km/mois). Et sur 5 ans et plus, l'achat devient plus économique.</p>
+
+<h2>Verdict</h2>
+<p>Lynk & Co a compris que la <strong>mobilité flexible</strong> est l'avenir pour les urbains. L'abonnement élimine tous les tracas de la propriété automobile. Si vous êtes ouvert à ne pas « posséder » votre voiture, c'est la solution la plus simple et la plus moderne du marché.</p>
+`,
   },
 
   // --- Essais Longue Durée & Vie Quotidienne (articles.md #86-90) ---
@@ -4197,6 +4285,29 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-08-26T09:00:00+02:00',
     readingTime: 9,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>1 000 km d'autoroute en MG4 : le test ultime</h2>
+<p>Nous avons parcouru <strong>1 000 km sur autoroute française</strong> (Paris → Lyon → Marseille → retour) en MG4 Extended Range (77 kWh) pour mesurer la consommation réelle, le nombre d'arrêts nécessaires et le confort sur longue distance.</p>
+
+<h2>Conditions du test</h2>
+<p>Température : 18°C. Vitesse : 130 km/h (régulateur). Climatisation : 22°C. 2 passagers + bagages légers. Départ batterie 100 %. Bornes utilisées : Ionity et TotalEnergies.</p>
+
+<h2>Résultats km par km</h2>
+<ul>
+<li><strong>Paris → Lyon (465 km)</strong> : consommation moyenne 19,2 kWh/100 km. 1 arrêt recharge de 35 min (Ionity 350 kW, 15-80 %). Autonomie réelle : ~380 km avant de s'arrêter (marge de sécurité 10 %).</li>
+<li><strong>Lyon → Marseille (315 km)</strong> : 18,8 kWh/100 km. 1 arrêt de 25 min. Le vent favorable a aidé.</li>
+<li><strong>Marseille → Paris (775 km)</strong> : 19,5 kWh/100 km. 2 arrêts de 30 min chacun. Vent de face sur l'A7.</li>
+</ul>
+
+<h2>Bilan total</h2>
+<p><strong>Consommation moyenne : 19,2 kWh/100 km</strong> à 130 km/h. C'est 30 % de plus que le WLTP (15,8 kWh/100 km) — un écart classique à vitesse autoroutière. Le coût total en recharge publique : <strong>72 €</strong> (tarif Ionity avec abonnement). Un véhicule essence consommerait environ 120 € de carburant sur le même trajet.</p>
+
+<h2>Confort longue distance</h2>
+<p>Les sièges MG4 sont corrects pour 2-3 heures, mais manquent de maintien latéral et de réglage lombaire au-delà. Le bruit de roulement augmente sensiblement au-dessus de 120 km/h. Le régulateur adaptatif est fluide et rassurant. L'infodivertissement tient la route pour la navigation, mais la qualité audio est moyenne.</p>
+
+<h2>Verdict</h2>
+<p>La MG4 est <strong>capable de faire de longs trajets autoroutiers</strong> — mais ce n'est pas son terrain de prédilection. Les arrêts de 25-35 min toutes les 2h30 sont gérables. Le coût d'énergie est 40 % inférieur à l'essence. Pour des trajets occasionnels Paris-Côte d'Azur, c'est parfaitement faisable. Pour les commerciaux qui font 1 000 km/semaine, une hybride serait plus adaptée.</p>
+`,
   },
   {
     slug: 'byd-atto-3-quotidien-5-details-qui-changent-tout',
@@ -4209,6 +4320,28 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-08-19T09:00:00+02:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>3 mois avec une BYD Atto 3 : le bilan sincère</h2>
+<p>Après 3 mois et 8 000 km au volant de la <strong>BYD Atto 3</strong>, voici les 5 détails qui font la vraie différence au quotidien — en bien et en moins bien.</p>
+
+<h2>1. L'écran rotatif : gadget génial ou agaçant ?</h2>
+<p>L'écran 12,8 pouces qui pivote de portrait à paysage est <strong>plus pratique qu'on ne le pense</strong>. Portrait pour la navigation (vue carte étendue), paysage pour les vidéos et la musique. En revanche, la rotation est lente (3 secondes) et le système plante parfois en rotation — un redémarrage résout le problème.</p>
+
+<h2>2. Le confort des sièges : la bonne surprise</h2>
+<p>Les sièges de l'Atto 3 sont <strong>excellents</strong> pour le prix : bon maintien, chauffage rapide (1 minute), ventilation efficace en été. Le design avec les « cordes de guitare » sur les portières divise, mais les sièges eux-mêmes sont parmi les meilleurs du segment.</p>
+
+<h2>3. La recharge : le point faible réel</h2>
+<p>Avec un maximum de <strong>88 kW en DC</strong>, la recharge sur autoroute est lente. Un 10-80 % prend 37 minutes — quand une MG4 le fait en 26 minutes et un XPeng G6 en 20 minutes. Au quotidien avec une wallbox à domicile, ce n'est pas un problème. Mais sur les longs trajets, c'est frustrant.</p>
+
+<h2>4. L'autonomie hivernale : honnête</h2>
+<p>En hiver (5°C), l'autonomie chute de <strong>420 km WLTP à environ 290 km réels</strong> — soit une perte de 30 %. La pompe à chaleur (en option sur certaines finitions) atténue la perte. La batterie Blade LFP se réchauffe lentement par temps froid, ce qui limite la puissance de recharge rapide les 10 premières minutes.</p>
+
+<h2>5. L'insonorisation : au-dessus de la moyenne</h2>
+<p>L'Atto 3 est <strong>étonnamment silencieux</strong> pour son prix. Les bruits de roulement sont bien maîtrisés jusqu'à 110 km/h. Au-delà, le bruit aérodynamique augmente mais reste acceptable. C'est plus silencieux qu'une Renault Scenic E-Tech et comparable à un Hyundai Kona Electric.</p>
+
+<h2>Verdict après 3 mois</h2>
+<p>La BYD Atto 3 est une <strong>excellente voiture du quotidien</strong>. Les sièges, le silence et l'autonomie sont ses points forts. La recharge lente en DC est son principal défaut. À 33 990 €, c'est un choix rationnel qui ne déçoit pas — mais qui n'excite pas non plus. C'est une voiture de tête, pas de cœur.</p>
+`,
   },
   {
     slug: 'xiaomi-su7-conditions-hivernales-batterie-promesses',
@@ -4221,6 +4354,28 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-08-12T09:00:00+02:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>La SU7 face au froid : test grandeur nature</h2>
+<p>Nous avons testé la <strong>Xiaomi SU7 Max</strong> (101 kWh, 800V) pendant une semaine en conditions hivernales dans les Alpes françaises. Température : -5 à -10°C. L'objectif : mesurer la perte d'autonomie réelle et évaluer les solutions de Xiaomi face au froid.</p>
+
+<h2>Autonomie hivernale mesurée</h2>
+<ul>
+<li><strong>Autonomie WLTP</strong> : 800 km (CLTC) / ~600 km (estimation WLTP)</li>
+<li><strong>Autonomie réelle à -5°C (mixte)</strong> : ~410 km (−32 % vs conditions idéales)</li>
+<li><strong>Autonomie réelle à -10°C (autoroute)</strong> : ~340 km (−43 %)</li>
+</ul>
+<p>La perte est significative mais dans la norme des véhicules électriques. La grosse batterie de 101 kWh compense : même à -10°C, on conserve 340 km — suffisant pour une journée de ski.</p>
+
+<h2>Gestion thermique : le point fort Xiaomi</h2>
+<p>La SU7 embarque un système de <strong>gestion thermique intégrée</strong> à 5 circuits (batterie, moteur, habitacle, ADAS, électronique) contrôlé par HyperOS. La pompe à chaleur de série est efficace : l'habitacle atteint 20°C en <strong>4 minutes</strong> depuis un départ à froid, contre 8-10 minutes pour la plupart des concurrents.</p>
+<p>Le pré-conditionnement via l'application Xiaomi fonctionne parfaitement : lancez le chauffage 10 minutes avant de partir, et l'habitacle est chaud tout en optimisant la batterie pour la recharge rapide.</p>
+
+<h2>Recharge par grand froid</h2>
+<p>La puissance de charge DC est <strong>réduite à -10°C</strong> : 180 kW max au lieu de 320 kW. Un 10-80 % prend 35 minutes au lieu de 20 minutes. Le pré-conditionnement batterie via la navigation (quand vous programmez un arrêt recharge) réduit cet écart à 25 minutes.</p>
+
+<h2>Verdict hivernal</h2>
+<p>La Xiaomi SU7 gère le froid <strong>mieux que la moyenne</strong> grâce à sa gestion thermique intelligente et sa grosse batterie qui offre un coussin confortable. La pompe à chaleur et le pré-conditionnement sont des atouts réels. Pour un usage alpin ou nordique, c'est l'une des meilleures berlines électriques chinoises en hiver.</p>
+`,
   },
   {
     slug: 'chery-tiggo-8-voyage-famille-test-habitabilite',
