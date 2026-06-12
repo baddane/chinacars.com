@@ -3638,6 +3638,27 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-12-09T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Hybride ou électrique : le duel MG en interne</h2>
+<p>La <strong>MG3 Hybrid+</strong> et la <strong>MG4 Electric</strong> partagent le logo MG mais incarnent deux visions opposées de la mobilité. L'hybride à 18 990 € contre l'électrique à 28 990 €. Laquelle choisir ?</p>
+
+<h2>Coût d'acquisition</h2>
+<p>L'écart de <strong>10 000 €</strong> en faveur de la MG3 est significatif. Même avec le bonus écologique potentiel sur la MG4, la MG3 reste sensiblement moins chère. Pour un primo-accédant ou un budget serré, c'est un argument décisif.</p>
+
+<h2>Coût d'usage sur 5 ans / 75 000 km</h2>
+<ul>
+<li><strong>MG3 Hybrid+</strong> : 4,4 l/100 km × 1,80 €/L × 750 = <strong>5 940 € d'essence</strong> + 1 500 € entretien = <strong>7 440 €</strong></li>
+<li><strong>MG4 Electric</strong> : 16 kWh/100 km × 0,20 €/kWh × 750 = <strong>2 400 € d'électricité</strong> + 800 € entretien = <strong>3 200 €</strong></li>
+</ul>
+<p>La MG4 économise <strong>4 240 €</strong> en usage sur 5 ans. Mais cela ne compense pas l'écart d'achat de 10 000 €. Sur le coût total, la MG3 reste moins chère de ~5 760 €.</p>
+
+<h2>Pratique au quotidien</h2>
+<p>La MG3 ne nécessite <strong>aucune infrastructure de recharge</strong>. La MG4 exige une solution de recharge à domicile ou au travail pour être utilisée confortablement. Si vous êtes locataire sans parking privé, la MG3 est le choix pragmatique.</p>
+<p>La MG4 offre en revanche un <strong>silence de roulement</strong> incomparable et des performances supérieures (0-100 en 7,9 s vs 8,0 s), plus un agrément de conduite plus sportif grâce aux roues arrière motrices.</p>
+
+<h2>Verdict</h2>
+<p>Vous avez une borne à domicile et un budget confortable ? La <strong>MG4</strong> est le meilleur choix long terme. Vous n'avez pas de borne, ou votre budget est serré ? La <strong>MG3 Hybrid+</strong> est le choix malin, sans contrainte et sans compromis sur la mobilité.</p>
+`,
   },
   {
     slug: 'byd-seal-u-phev-vs-byd-seal-u-ev-hybride-rechargeable',
@@ -3650,6 +3671,27 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-12-02T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Un même SUV, deux motorisations : lequel choisir ?</h2>
+<p>Le <strong>BYD Seal U</strong> est disponible en version <strong>PHEV</strong> (hybride rechargeable DM-i) et <strong>EV</strong> (100 % électrique). Même carrosserie, même habitacle, mais deux expériences de conduite et deux budgets différents. Voici comment choisir.</p>
+
+<h2>BYD Seal U PHEV (DM-i)</h2>
+<p>Le système DM-i combine un <strong>1.5L essence + moteur électrique</strong> pour 218 ch. La batterie de 18,3 kWh offre <strong>80 km d'autonomie électrique WLTP</strong>. En mode hybride, la consommation chute à 1,4 l/100 km (si rechargé quotidiennement). L'autonomie totale dépasse <strong>1 000 km</strong>. Prix : <strong>33 990 €</strong>.</p>
+
+<h2>BYD Seal U EV</h2>
+<p>Le moteur électrique de <strong>204 ch</strong> (ou 313 ch en bi-moteur AWD) est alimenté par une batterie Blade de 71,8 ou 87 kWh. Autonomie : <strong>420 à 500 km WLTP</strong>. La recharge DC atteint 110 kW. Prix : à partir de <strong>36 990 €</strong>.</p>
+
+<h2>Le calcul pour votre profil</h2>
+<ul>
+<li><strong>Vous roulez &lt;80 km/jour et rechargez chaque nuit</strong> : le PHEV fonctionne quasi exclusivement en électrique. Coût d'usage minimal.</li>
+<li><strong>Vous roulez &gt;100 km/jour</strong> : l'EV grande batterie est plus pertinent — pas de consommation essence résiduelle.</li>
+<li><strong>Vous faites de longs trajets régulièrement</strong> : le PHEV avec ses 1 000 km d'autonomie totale évite toute contrainte de recharge.</li>
+<li><strong>Vous n'avez pas de borne à domicile</strong> : le PHEV est le choix évident — il fonctionne en hybride classique sans recharge.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Le <strong>Seal U PHEV</strong> est le plus polyvalent et le moins cher. C'est le choix rationnel pour 80 % des acheteurs. Le <strong>Seal U EV</strong> convient à ceux qui ont une infrastructure de recharge et qui veulent rouler 100 % électrique au quotidien. Dans les deux cas, la qualité BYD et la batterie Blade sont au rendez-vous.</p>
+`,
   },
   {
     slug: 'omoda-5-thermique-vs-omoda-5-ev-duel-interne',
@@ -3662,6 +3704,22 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-11-25T09:00:00+01:00',
     readingTime: 6,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Même voiture, deux énergies</h2>
+<p>L'<strong>Omoda 5</strong> de Chery est proposé en version <strong>thermique 1.5 turbo</strong> et en version <strong>100 % électrique (E5)</strong>. Même design séduisant, même niveau d'équipement, mais des expériences de conduite et des budgets différents.</p>
+
+<h2>Omoda 5 Thermique</h2>
+<p>Moteur <strong>1.5 turbo de 147 ch</strong>, boîte CVT, traction avant. Consommation : 7,5 l/100 km en usage mixte. Prix de départ : <strong>24 990 €</strong>. Aucune contrainte de recharge, autonomie de 600+ km par plein. C'est le choix de la simplicité.</p>
+
+<h2>Omoda 5 EV (E5)</h2>
+<p>Moteur électrique de <strong>204 ch</strong>, batterie 61 kWh, autonomie <strong>430 km WLTP</strong>. Recharge DC 80 kW (30-80 % en 35 min). Prix : <strong>33 990 €</strong>. Silence, couple instantané, coût d'usage réduit — l'expérience électrique dans un packaging séduisant.</p>
+
+<h2>Le calcul financier sur 5 ans</h2>
+<p>L'écart d'achat est de <strong>9 000 €</strong>. En énergie sur 75 000 km, l'EV économise environ 4 000 €. L'entretien est 700 € moins cher sur l'EV. Total : l'EV rattrape <strong>4 700 €</strong> des 9 000 € d'écart. Le thermique reste moins cher au total, sauf si vous bénéficiez du bonus écologique (4 000 €) qui réduit l'écart à 300 € seulement.</p>
+
+<h2>Verdict</h2>
+<p>Avec bonus écologique, l'<strong>Omoda E5</strong> est quasi au même prix total que le thermique — et vous roulez en silence avec un couple instantané. Sans bonus, l'<strong>Omoda 5 thermique</strong> est le choix budget le plus rationnel. Les deux sont excellemment équipés et bien conçus.</p>
+`,
   },
   {
     slug: 'hybride-vs-phev-comparatif-mg-byd',
@@ -3674,6 +3732,36 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-11-18T09:00:00+01:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>HEV ou PHEV : quelle hybridation choisir ?</h2>
+<p>Les constructeurs chinois proposent deux types d'hybridation : le <strong>HEV</strong> (hybride classique, non rechargeable) et le <strong>PHEV</strong> (hybride rechargeable). MG et BYD sont les plus actifs sur ces deux segments. Décryptage avec des chiffres réels.</p>
+
+<h2>HEV : l'hybride sans prise</h2>
+<p>Le système HEV (comme la <strong>MG ZS Hybrid+</strong> ou la <strong>MG3 Hybrid+</strong>) ne nécessite jamais de branchement. La petite batterie (~1-2 kWh) se recharge automatiquement via le freinage régénératif et le moteur essence. Avantages :</p>
+<ul>
+<li>Zéro contrainte de recharge</li>
+<li>Consommation réduite de 30-40 % vs thermique pur</li>
+<li>Prix d'achat modéré</li>
+<li>Idéal pour ceux sans accès à une borne</li>
+</ul>
+<p>La MG3 Hybrid+ consomme <strong>4,4 l/100 km</strong> en usage mixte. La MG ZS Hybrid+ : <strong>5,0 l/100 km</strong>.</p>
+
+<h2>PHEV : l'hybride rechargeable</h2>
+<p>Le PHEV (comme le <strong>BYD Seal U DM-i</strong> ou le <strong>MG EHS</strong>) embarque une batterie plus grosse (15-35 kWh) rechargeable sur secteur. Il peut rouler en 100 % électrique sur 50-150 km. Avantages :</p>
+<ul>
+<li>Trajets quotidiens en tout-électrique si rechargé chaque nuit</li>
+<li>Autonomie totale 800-1 000+ km</li>
+<li>Consommation réelle &lt;2 l/100 km (si rechargé régulièrement)</li>
+<li>Avantages fiscaux (carte grise, TVS pour les pros)</li>
+</ul>
+<p>Le BYD Seal U PHEV consomme <strong>1,4 l/100 km</strong> rechargé quotidiennement. Sans recharge : 6,5 l/100 km.</p>
+
+<h2>Le piège du PHEV non rechargé</h2>
+<p>Un PHEV jamais rechargé consomme <strong>plus qu'un HEV</strong> à cause du poids de la batterie embarquée (200-300 kg supplémentaires). Si vous n'avez pas accès à une prise au quotidien, le HEV est meilleur.</p>
+
+<h2>Verdict</h2>
+<p>Vous avez une prise à domicile/bureau et roulez &lt;80 km/jour ? Le <strong>PHEV</strong> est imbattable en coût d'usage. Vous n'avez pas de prise ou roulez beaucoup sur autoroute ? Le <strong>HEV</strong> est plus simple et plus efficace. Ne prenez jamais un PHEV si vous ne comptez pas le recharger.</p>
+`,
   },
   {
     slug: 'moteurs-thermiques-chinois-retour-en-force-europe',
@@ -3686,6 +3774,33 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-11-11T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le thermique chinois fait son retour en Europe</h2>
+<p>Alors que l'Europe pousse vers le tout-électrique, <strong>Chery</strong> et <strong>MG</strong> lancent de nouveaux modèles thermiques et hybrides compétitifs. Ce retour n'est pas un hasard : c'est une stratégie calculée pour conquérir des parts de marché dans un contexte réglementaire incertain.</p>
+
+<h2>Pourquoi le thermique revient</h2>
+<p>Plusieurs facteurs expliquent ce retour :</p>
+<ul>
+<li><strong>Report de l'interdiction 2035</strong> : les discussions européennes sur un assouplissement de l'interdiction des moteurs thermiques en 2035 ouvrent une fenêtre pour les modèles essence et hybrides.</li>
+<li><strong>Droits de douane sur les VE chinois</strong> : les surtaxes européennes (jusqu'à 35 % pour BYD) pénalisent les véhicules électriques importés, pas les thermiques.</li>
+<li><strong>Demande réelle</strong> : en Europe du Sud et de l'Est, la demande de thermiques accessibles reste forte. Pas tout le monde ne peut ou ne veut rouler en électrique.</li>
+</ul>
+
+<h2>Les modèles thermiques chinois en Europe</h2>
+<ul>
+<li><strong>Omoda 5 1.5 turbo</strong> : 147 ch, CVT, à partir de 24 990 €. SUV urbain bien équipé.</li>
+<li><strong>Jaecoo 7 1.6 turbo</strong> : 186 ch, DCT 7, AWD disponible, à partir de 29 990 €. SUV baroudeur.</li>
+<li><strong>MG3 Hybrid+</strong> : 194 ch hybride (non rechargeable), 18 990 €. La citadine la moins chère du marché.</li>
+<li><strong>MG ZS Hybrid+</strong> : 197 ch hybride, 22 490 €. Le SUV hybrid le plus abordable.</li>
+<li><strong>Chery Tiggo 8 Pro</strong> : 197 ch turbo, 7 places, 33 490 €. Le familial accessible.</li>
+</ul>
+
+<h2>La qualité des moteurs chinois</h2>
+<p>Les moteurs Chery et SAIC ne sont plus les blocs rustiques d'il y a 10 ans. Le <strong>1.5 turbo TGDI</strong> de Chery (monté dans l'Omoda 5 et le Jaecoo 7) offre un rendement thermique de 40 %, parmi les meilleurs du marché. Le système hybride DHT de MG (3 rapports dédiés) est une architecture innovante qui surpasse les systèmes Toyota et Honda en puissance combinée.</p>
+
+<h2>Verdict</h2>
+<p>Le retour du thermique chinois en Europe est stratégiquement intelligent : il contourne les droits de douane, répond à une demande réelle, et construit la notoriété des marques auprès des acheteurs pas encore prêts pour l'électrique. C'est une étape de transition — le tout-électrique viendra — mais une étape rentable et pertinente.</p>
+`,
   },
 
   // --- Marque par Marque : Guides d'Achat (articles.md #76-85) ---
@@ -3813,6 +3928,33 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-10-28T09:00:00+01:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>De Oxford à Shanghai : l'incroyable odyssée de MG</h2>
+<p><strong>MG</strong> (Morris Garages) est la marque automobile chinoise la plus vendue en Europe — et pourtant, elle est née à <strong>Oxford, Angleterre, en 1924</strong>. Retour sur un destin hors du commun qui illustre parfaitement la mondialisation automobile.</p>
+
+<h2>Les origines britanniques (1924-2005)</h2>
+<p>Fondée par Cecil Kimber, MG est devenue synonyme de roadsters sportifs abordables : la MGA, la MGB, la MG Midget. Pendant des décennies, MG a incarné le plaisir de conduire à l'anglaise. Mais les crises successives (British Leyland, Rover Group) ont mené à la faillite de MG Rover en 2005.</p>
+
+<h2>Le rachat chinois (2005-2017)</h2>
+<p><strong>SAIC Motor</strong> (Shanghai Automotive Industry Corporation), premier constructeur chinois, rachète MG en 2005 pour 53 millions de livres. Pendant 12 ans, SAIC investit massivement dans la R&D et la modernisation de la marque, tout en conservant le centre de design à Birmingham (SAIC Design London).</p>
+
+<h2>La renaissance électrique (2017-aujourd'hui)</h2>
+<p>Le lancement de la <strong>MG ZS EV</strong> en 2019 marque le début de la conquête européenne. En 2024, MG est la <strong>marque la plus vendue au Royaume-Uni</strong> hors premium et la marque chinoise n°1 en Europe avec plus de 230 000 unités. La MG4, élue « Voiture de l'année Auto Express 2023 », consacre la renaissance.</p>
+
+<h2>La gamme actuelle (2026)</h2>
+<ul>
+<li><strong>MG3 Hybrid+</strong> : citadine hybride, 18 990 €</li>
+<li><strong>MG4</strong> : compacte électrique, 28 990 €</li>
+<li><strong>MG ZS Hybrid+</strong> : SUV hybride, 22 490 €</li>
+<li><strong>MG ZS EV</strong> : SUV électrique, 26 990 €</li>
+<li><strong>MG5 EV</strong> : break électrique, 29 990 €</li>
+<li><strong>MG Cyberster</strong> : roadster électrique, 36 990 €</li>
+<li><strong>MG S9</strong> : grand SUV 7 places, 39 990 €</li>
+</ul>
+
+<h2>Le secret du succès</h2>
+<p>MG combine trois ingrédients imbattables : des <strong>prix 20-30 % inférieurs</strong> à la concurrence européenne, une <strong>garantie de 7 ans</strong> qui rassure, et un <strong>héritage de marque occidental</strong> qui évite le stigmate « marque chinoise ». C'est la stratégie la plus efficace de l'industrie automobile chinoise en Europe.</p>
+`,
   },
   {
     slug: 'zeekr-france-prix-modeles-reseau-2026',
@@ -3825,6 +3967,29 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-10-21T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Zeekr arrive en France : tout ce qu'il faut savoir</h2>
+<p><strong>Zeekr</strong>, la marque premium du groupe Geely (propriétaire de Volvo, Lotus, Polestar), s'installe officiellement en France. Modèles, prix, réseau de distribution : voici le guide complet.</p>
+
+<h2>Les modèles disponibles</h2>
+<ul>
+<li><strong>Zeekr X</strong> (SUV compact, 4 432 mm) : à partir de <strong>36 000 €</strong>. Disponible en RWD 272 ch ou AWD 428 ch. Batterie 69 kWh, 440 km WLTP. Le modèle d'entrée de gamme, concurrent direct du Volvo EX30 (même plateforme).</li>
+<li><strong>Zeekr 001</strong> (shooting brake, 4 970 mm) : à partir de <strong>52 000 €</strong>. Architecture 800V, batterie 100 kWh, 590 km WLTP. Le vaisseau amiral qui a lancé la marque.</li>
+<li><strong>Zeekr 7X</strong> (SUV familial, 4 825 mm) : à partir de <strong>44 000 €</strong>. Le SUV familial 5 places spacieux avec 600 km WLTP.</li>
+</ul>
+
+<h2>Le réseau de distribution</h2>
+<p>Zeekr ouvre ses premiers <strong>Zeekr Experience Stores</strong> dans les grandes villes françaises (Paris, Lyon, Marseille, Bordeaux) et s'appuie sur des partenaires de distribution sélectionnés. Le modèle est « agence » : prix fixes, pas de négociation. La commande se fait en ligne avec livraison en point de vente.</p>
+
+<h2>Le réseau de recharge</h2>
+<p>Zeekr ne dispose pas de réseau de recharge propriétaire en Europe (contrairement à Tesla). Les véhicules sont compatibles avec toutes les bornes CCS2. L'architecture 800V des Zeekr 001 et 7X permet de tirer parti des bornes Ionity 350 kW — les plus rapides du réseau européen.</p>
+
+<h2>SAV et garantie</h2>
+<p>Garantie de <strong>5 ans / 120 000 km</strong> véhicule et <strong>8 ans / 200 000 km</strong> batterie. L'entretien est assuré par des centres agréés formés par Zeekr. Un service d'assistance routière 24h/24 est inclus.</p>
+
+<h2>Notre avis</h2>
+<p>Zeekr est la marque chinoise la plus crédible sur le segment premium. La technologie 800V, la qualité de fabrication (usine ultramoderne de Ningbo) et l'ADN Geely/Volvo en font un concurrent sérieux d'Audi, BMW et Tesla. Le réseau est encore jeune, mais la proposition produit est déjà au niveau.</p>
+`,
   },
   {
     slug: 'omoda-jaecoo-nouveau-geant-marche-automobile',
@@ -3837,6 +4002,28 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-10-14T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le groupe Chery lance ses marques d'export</h2>
+<p><strong>Omoda</strong> et <strong>Jaecoo</strong> sont les deux nouvelles marques du groupe <strong>Chery Automobile</strong>, 4ᵉ constructeur chinois, spécifiquement créées pour la conquête des marchés internationaux. Mais qui est Chery, et pourquoi créer deux marques distinctes ?</p>
+
+<h2>Chery : un géant méconnu</h2>
+<p>Fondé en 1997, <strong>Chery Automobile</strong> est le premier exportateur automobile chinois. Le groupe vend plus de 1,8 million de véhicules par an et est présent dans 80 pays. En Europe, Chery a choisi de ne pas utiliser sa marque principale (peu connue) et a créé Omoda et Jaecoo pour repartir de zéro avec une image premium.</p>
+
+<h2>Omoda : le design et la technologie</h2>
+<p>Omoda vise les <strong>jeunes urbains</strong> avec des designs audacieux et un équipement technologique complet. Le modèle phare, l'<strong>Omoda 5</strong>, est disponible en thermique (1.5 turbo 147 ch, 24 990 €), hybride (SHS-H 194 ch, 26 990 €) et électrique (E5, 204 ch, 33 990 €). Le design « diamant » est distinctif et la qualité de fabrication surprenante pour le prix.</p>
+
+<h2>Jaecoo : l'aventure et le premium</h2>
+<p>Jaecoo (prononcé « jaykou ») cible les <strong>amateurs de SUV baroudeurs</strong> avec un positionnement plus premium. Le <strong>Jaecoo 7</strong> (29 990 €) offre une transmission intégrale, des protections de carrosserie et un look tout-terrain. Le <strong>Jaecoo 5</strong> est plus compact et urbain. Les versions PHEV offrent 100 km d'autonomie électrique.</p>
+
+<h2>L'avantage Chery : l'intégration verticale</h2>
+<p>Chery fabrique ses propres moteurs, transmissions et châssis. Cette <strong>intégration verticale</strong> permet de contrôler les coûts et la qualité. Le moteur 1.6 TGDI de Chery affiche un rendement thermique de 40 % — parmi les meilleurs au monde.</p>
+
+<h2>Réseau et garantie</h2>
+<p>Omoda et Jaecoo déploient leur réseau via des partenariats avec des groupes de distribution établis (environ 100 points en France en 2026). <strong>Garantie 7 ans / 150 000 km</strong> sur tous les modèles.</p>
+
+<h2>Verdict</h2>
+<p>Omoda et Jaecoo sont la meilleure illustration de la stratégie chinoise en Europe : des marques créées pour l'export, avec des produits adaptés aux goûts européens, à des prix imbattables. Le groupe Chery a les moyens industriels de tenir ses promesses. À surveiller de très près.</p>
+`,
   },
   {
     slug: 'xiaomi-auto-peut-on-acheter-voiture-fabricant-telephones',
@@ -3849,6 +4036,35 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-10-07T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Acheter une voiture Xiaomi : mode d'emploi</h2>
+<p>Xiaomi, le fabricant de smartphones n°3 mondial, vend désormais des voitures. La <strong>SU7</strong>, sa première berline électrique, arrive en Europe. Mais peut-on vraiment faire confiance à un fabricant de téléphones pour une voiture ? Voici les réponses aux questions que tout le monde se pose.</p>
+
+<h2>Pourquoi Xiaomi fait des voitures</h2>
+<p>Lei Jun, le fondateur de Xiaomi, a annoncé en 2021 un investissement de <strong>10 milliards de dollars</strong> sur 10 ans dans l'automobile. Xiaomi considère la voiture comme le prolongement naturel de son écosystème d'appareils connectés. L'objectif : que votre voiture soit aussi intégrée à votre vie numérique que votre smartphone.</p>
+
+<h2>La Xiaomi SU7 : les specs</h2>
+<ul>
+<li><strong>Type</strong> : berline sportive électrique, 4 997 mm</li>
+<li><strong>Motorisation</strong> : 299 ch (RWD) ou 673 ch (AWD)</li>
+<li><strong>Batterie</strong> : 73,6 ou 101 kWh, architecture 800V</li>
+<li><strong>Autonomie</strong> : 668-800 km CLTC (~500-600 km réels)</li>
+<li><strong>0-100 km/h</strong> : 5,28 s (RWD) ou 2,78 s (AWD)</li>
+<li><strong>Prix estimé Europe</strong> : 40 000-55 000 €</li>
+</ul>
+
+<h2>Comment acheter en Europe</h2>
+<p>Xiaomi Auto est en cours de déploiement en Europe via des <strong>showrooms dédiés</strong> dans les grandes métropoles. La commande se fait en ligne sur le site Xiaomi Auto, avec configuration, paiement et suivi de livraison entièrement digitaux — comme un téléphone. Les premiers marchés européens sont l'Allemagne, la France et les Pays-Bas.</p>
+
+<h2>SAV et entretien</h2>
+<p>Xiaomi s'associe à des <strong>réseaux de service automobile existants</strong> pour l'entretien et les réparations. Les mises à jour logicielles sont 100 % OTA (comme pour les smartphones). La garantie est de <strong>5 ans / 120 000 km</strong> véhicule et 8 ans batterie.</p>
+
+<h2>Peut-on faire confiance ?</h2>
+<p>Le scepticisme est légitime. Mais Xiaomi a recruté <strong>3 400 ingénieurs automobiles</strong>, investi dans une usine ultra-moderne à Pékin (capacité 300 000 unités/an), et la SU7 a obtenu de bonnes notes en crash-tests chinois. L'entreprise a l'habitude de livrer des produits de qualité à des prix agressifs — elle l'a prouvé avec les smartphones, les trottinettes et les objets connectés.</p>
+
+<h2>Verdict</h2>
+<p>La SU7 est un produit sérieux, pas un gadget. Son intégration logicielle HyperOS est inégalée, ses performances sont au niveau des meilleures berlines du marché, et le prix est compétitif. Le principal risque reste le réseau SAV encore embryonnaire en Europe. Pour les early adopters technophiles, c'est un achat excitant. Pour les prudents, il vaut mieux attendre 1-2 ans que le réseau se structure.</p>
+`,
   },
   {
     slug: 'nio-battery-as-a-service-louer-ou-acheter-batterie',
