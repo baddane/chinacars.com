@@ -3271,6 +3271,33 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-02-17T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Les critères essentiels pour une famille nombreuse</h2>
+<p>Avec 3 enfants, le choix d'un véhicule ne se résume pas au nombre de places. Il faut des <strong>points Isofix</strong> en nombre suffisant, un coffre qui avale poussettes et bagages, et un budget maîtrisé. Voici notre sélection des meilleurs SUV chinois pour les grandes familles.</p>
+
+<h2>1. BYD Tang DM-i — Le plus polyvalent</h2>
+<p>Le <strong>BYD Tang 7 places</strong> coche toutes les cases : configuration 2+3+2, <strong>3 points Isofix</strong> (2 en rangée 2 + 1 en rangée 3), coffre de 235 à 940 litres. La motorisation DM-i hybride rechargeable offre 100 km en électrique et plus de 1 000 km d'autonomie totale. À partir de <strong>46 990 €</strong>.</p>
+
+<h2>2. Chery Tiggo 8 Pro — Le meilleur rapport qualité-prix</h2>
+<p>Le <strong>Tiggo 8 Pro</strong> offre 7 vraies places à partir de <strong>33 490 €</strong> — le meilleur prix du segment. Coffre de 192 à 889 litres, 2 Isofix en rangée 2, garantie 7 ans. Le moteur 1.6 turbo 197 ch est suffisant pour un usage familial.</p>
+
+<h2>3. MG S9 — Le plus spacieux</h2>
+<p>Avec ses <strong>4 985 mm</strong> et un empattement de 2 950 mm, le MG S9 offre l'espace le plus généreux du groupe. La troisième rangée est utilisable même par des adultes. Coffre de 578 litres en 5 places. Disponible en PHEV et EV à partir de <strong>39 990 €</strong>.</p>
+
+<h2>4. Jaecoo 7 — L'aventurier familial</h2>
+<p>Le <strong>Jaecoo 7</strong> ne propose que 5 places, mais son volume de coffre de 412 litres et sa transmission intégrale en font le choix idéal pour les familles de 3 enfants qui aiment le plein air. Version PHEV avec 100 km d'autonomie électrique. À partir de <strong>29 990 €</strong>.</p>
+
+<h2>Tableau comparatif</h2>
+<ul>
+<li>BYD Tang : 7 places, 3 Isofix, 940L max, PHEV — <strong>46 990 €</strong></li>
+<li>Tiggo 8 Pro : 7 places, 2 Isofix, 889L max, thermique — <strong>33 490 €</strong></li>
+<li>MG S9 : 7 places, 2 Isofix, 578L (5 pl.), PHEV/EV — <strong>39 990 €</strong></li>
+<li>Jaecoo 7 : 5 places, 2 Isofix, 412L, PHEV/thermique — <strong>29 990 €</strong></li>
+</ul>
+
+<h2>Notre recommandation</h2>
+<p>Pour le strict besoin de 7 places au meilleur prix, le <strong>Chery Tiggo 8 Pro</strong> est imbattable. Pour la polyvalence PHEV et l'autonomie, le <strong>BYD Tang DM-i</strong> est la référence familiale chinoise.</p>
+`,
   },
   {
     slug: '5-meilleures-citadines-chinoises-ville',
@@ -3283,6 +3310,28 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-02-10T09:00:00+01:00',
     readingTime: 6,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>La ville, terrain de jeu des citadines chinoises</h2>
+<p>Rayon de braquage serré, aide au stationnement, autonomie suffisante pour la semaine : voici les 5 citadines chinoises les plus adaptées à la jungle urbaine en 2026.</p>
+
+<h2>1. Leapmotor T03 — La reine du rapport qualité-prix</h2>
+<p>À <strong>3,62 m</strong>, c'est la plus compacte de la sélection. Rayon de braquage de 4,95 m, caméra de recul de série, 265 km d'autonomie. Elle se faufile et se gare partout. Prix imbattable : <strong>18 900 €</strong> avant bonus.</p>
+
+<h2>2. GWM Ora 03 — La plus stylée</h2>
+<p>Son design néo-rétro fait tourner les têtes dans chaque quartier. 310 km d'autonomie, écran 10,25 pouces, couleurs pastel. Le rayon de braquage de 5,20 m est correct pour 4,24 m de long. Un objet de mode autant qu'une voiture. <strong>33 990 €</strong>.</p>
+
+<h2>3. MG3 Hybrid+ — La citadine sans contrainte</h2>
+<p>Pas besoin de borne : la MG3 Hybrid+ consomme <strong>4,4 l/100 km</strong> et se ravitaille en 3 minutes. Format compact (4,11 m), 194 ch pour des relances vives, et un prix de <strong>18 990 €</strong>. La solution parfaite pour ceux qui n'ont pas de prise à domicile.</p>
+
+<h2>4. BYD Dolphin — L'électrique polyvalente</h2>
+<p>La Dolphin (4,29 m) est plus grande mais offre <strong>427 km WLTP</strong> — de quoi tenir une semaine entière en ville. L'écran rotatif 12,8 pouces et la batterie Blade rassurante en font une citadine premium accessible à <strong>28 990 €</strong>.</p>
+
+<h2>5. Omoda 5 — Le SUV urbain compact</h2>
+<p>L'Omoda 5 (4,40 m) combine la position de conduite surélevée appréciée en ville et un design spectaculaire. Caméra 360° de série, stationnement automatique, sièges chauffants. Moteur 1.5 turbo 147 ch ou version hybride SHS-H. À partir de <strong>24 990 €</strong>.</p>
+
+<h2>Verdict</h2>
+<p>Pour l'électrique pur budget, le <strong>Leapmotor T03</strong>. Pour le style, l'<strong>Ora 03</strong>. Pour zéro contrainte de recharge, la <strong>MG3 Hybrid+</strong>. Les citadines chinoises dominent le segment par leur rapport équipement-prix.</p>
+`,
   },
   {
     slug: 'top-7-voitures-chinoises-plus-sures-ncap-2026',
@@ -3295,6 +3344,34 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-02-03T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>La sécurité chinoise : les étoiles parlent</h2>
+<p>Le cliché de la voiture chinoise dangereuse appartient au passé. En 2025-2026, les constructeurs chinois raflent les <strong>5 étoiles Euro NCAP</strong> avec des scores souvent supérieurs aux européens. Voici les 7 modèles les plus sûrs.</p>
+
+<h2>1. Zeekr 001 — 5 étoiles (92 % adultes)</h2>
+<p>Le shooting brake Zeekr obtient l'un des <strong>meilleurs scores jamais enregistrés</strong> en protection des adultes. Structure en acier haute résistance, 7 airbags, freinage d'urgence avec détection piétons et cyclistes. Le système Mobileye SuperVision offre une assistance à la conduite de niveau 2+ très fiable.</p>
+
+<h2>2. BYD Atto 3 — 5 étoiles (91 % adultes)</h2>
+<p>La batterie Blade logée dans le plancher renforce la rigidité structurelle du châssis. La BYD Atto 3 excelle en protection des passagers et en prévention des collisions. Le freinage autonome d'urgence est parmi les plus réactifs du marché.</p>
+
+<h2>3. NIO EL6 — 5 étoiles (91 % adultes)</h2>
+<p>Le SUV NIO intègre le système Aquila avec LiDAR, capable de détecter des obstacles à 150 m. La structure en aluminium et acier haute résistance offre une excellente absorption d'énergie. 8 airbags de série.</p>
+
+<h2>4. XPeng G6 — 5 étoiles (90 % adultes)</h2>
+<p>Le G6 brille en sécurité active grâce à ses 2 LiDAR et 12 caméras. Le système XNGP prévient activement les collisions avec une précision remarquable. Structure aluminium renforcée, 6 airbags.</p>
+
+<h2>5. MG4 — 5 étoiles (83 % adultes)</h2>
+<p>La compacte MG4 a surpris avec ses 5 étoiles. Le système MG Pilot complet (régulateur adaptatif, maintien de voie, freinage d'urgence) est de série. La plateforme MSP offre une bonne rigidité torsionnelle.</p>
+
+<h2>6. Zeekr X — 5 étoiles (89 % adultes)</h2>
+<p>Le SUV compact Zeekr hérite de la plateforme SEA ultra-rigide de Geely. Même base que le Volvo EX30 (qui a aussi 5 étoiles). Protection enfants exemplaire à 89 %.</p>
+
+<h2>7. BYD Seal — 5 étoiles (87 % adultes)</h2>
+<p>La berline BYD Seal avec sa structure Cell-to-Body (batterie intégrée au châssis) offre une rigidité exceptionnelle. Le freinage d'urgence réagit en moins de 0,3 seconde.</p>
+
+<h2>Verdict</h2>
+<p>Les voitures chinoises sont désormais <strong>aussi sûres que les européennes</strong>. Plusieurs modèles chinois figurent parmi les 10 véhicules les mieux notés par Euro NCAP tous constructeurs confondus. L'argument sécurité ne peut plus être utilisé contre les marques chinoises.</p>
+`,
   },
   {
     slug: 'voitures-chinoises-meilleur-infodivertissement-2026',
@@ -3307,6 +3384,28 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-01-27T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le logiciel, nouvelle arme des constructeurs chinois</h2>
+<p>Si les voitures chinoises excellent quelque part au-delà du rapport qualité-prix, c'est bien dans le <strong>système d'infodivertissement</strong>. Écrans géants, IA vocale avancée, mises à jour OTA : voici notre classement des meilleurs systèmes embarqués chinois.</p>
+
+<h2>1. Xiaomi HyperOS (SU7) — La référence absolue</h2>
+<p>L'écran 16,1 pouces 3K tourne à 120 Hz avec un temps de réponse inférieur à 100 ms. L'intégration écosystème Xiaomi est inégalée : continuité avec smartphone, contrôle domotique, clé numérique. L'assistant Xiao AI comprend le contexte conversationnel. <strong>Note : 10/10</strong>.</p>
+
+<h2>2. XPeng Xmart OS 4.0 (G6, P7i)</h2>
+<p>Le système XPeng excelle en IA embarquée : modélisation 3D temps réel de l'environnement, assistant vocal LLM, intégration profonde avec la conduite autonome XNGP. L'écran 15 pouces est réactif et intuitif. <strong>Note : 9/10</strong>.</p>
+
+<h2>3. NIO NOMI + Banyan (ET7, EL6)</h2>
+<p>NOMI est l'assistant IA le plus attachant du marché automobile : un petit robot sur le tableau de bord qui vous regarde, réagit et converse naturellement. Le système Banyan s'améliore à chaque mise à jour OTA. Audio Dolby Atmos 23 HP. <strong>Note : 8.5/10</strong>.</p>
+
+<h2>4. BYD DiLink (Seal, Han)</h2>
+<p>L'écran rotatif 15,6 pouces est iconique. Le système DiLink est fluide, bien traduit en français, et supporte Apple CarPlay/Android Auto en complément. L'IA vocale progresse mais reste en retrait face à Xiaomi et XPeng. <strong>Note : 7.5/10</strong>.</p>
+
+<h2>5. Zeekr (001, X)</h2>
+<p>L'écran AMOLED 14,6 pouces est excellent. Le système basé sur Snapdragon 8295 est rapide. L'interface est moderne mais moins personnalisable que la concurrence. Bon support des apps européennes. <strong>Note : 7/10</strong>.</p>
+
+<h2>En résumé</h2>
+<p>Les systèmes d'infodivertissement chinois sont <strong>5 à 10 ans en avance</strong> sur la plupart des constructeurs européens. Xiaomi, XPeng et NIO définissent le standard mondial du cockpit connecté. C'est un avantage compétitif durable.</p>
+`,
   },
   {
     slug: 'top-5-electriques-chinoises-moins-30000-euros',
@@ -3363,6 +3462,32 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-01-13T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Les SUV chinois taillés pour l'autoroute</h2>
+<p>L'autoroute est le test ultime pour un SUV électrique : bruit, autonomie, confort de suspension, ADAS. Voici les SUV chinois les plus confortables pour les longs trajets.</p>
+
+<h2>1. NIO EL6 — Le roi du confort longue distance</h2>
+<p>Suspension pneumatique adaptative, isolation phonique premium, sièges massants avant et arrière, audio Dolby Atmos 23 HP. Et surtout : le <strong>Battery Swap</strong> permet de « faire le plein » en 5 minutes sur autoroute. Autonomie : 529 km WLTP (100 kWh). Le SUV qui supprime l'angoisse d'autonomie.</p>
+
+<h2>2. Zeekr 001 — Le break GT par excellence</h2>
+<p>Sa silhouette de shooting brake est unique. L'architecture 800V permet de recharger 300 km en 15 minutes. Le silence de roulement est remarquable, la suspension CCD (Continuous Damping Control) absorbe tout. Coffre de 546 L pour les vacances. <strong>590 km WLTP</strong>.</p>
+
+<h2>3. XPeng G9 — Le technologique</h2>
+<p>Le G9 excelle en conduite semi-autonome sur autoroute grâce au XNGP : changements de voie automatiques, maintien centré irréprochable, gestion des péages. La recharge 800V (20 min pour 10-80 %) et l'audio Dynaudio 22 HP en font un compagnon de voyage idéal. <strong>520 km WLTP</strong>.</p>
+
+<h2>4. BYD Tang EV — Le familial endurant</h2>
+<p>7 places, batterie 108 kWh, 530 km WLTP. Le Tang avale les kilomètres d'autoroute avec une consommation maîtrisée (18 kWh/100 km à 130 km/h). La version DM-i hybride offre plus de 1 000 km d'autonomie totale — l'absence totale de stress.</p>
+
+<h2>5. Voyah Free — La révélation</h2>
+<p>Le SUV premium Dongfeng surprend par son silence de roulement et la qualité de ses sièges (massants, ventilés, chauffants). La batterie 88 kWh offre 475 km WLTP. Le système audio EAR à 19 HP crée une bulle sonore premium. Le secret le mieux gardé du marché chinois.</p>
+
+<h2>Conseils pour les longs trajets</h2>
+<ul>
+<li>Planifiez vos arrêts recharge avec l'application du constructeur ou ABRP</li>
+<li>Roulez à 110-120 km/h pour optimiser l'autonomie (+20 % vs 130 km/h)</li>
+<li>Pré-conditionnez la batterie 20 min avant d'arriver à la borne</li>
+</ul>
+`,
   },
   {
     slug: '3-voitures-chinoises-pour-oublier-tesla-2026',
@@ -3375,6 +3500,22 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-01-06T09:00:00+01:00',
     readingTime: 6,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Oublier Tesla ? Ces trois chinoises le permettent</h2>
+<p>Tesla a démocratisé la voiture électrique. Mais en 2026, trois constructeurs chinois proposent des alternatives qui surpassent Tesla sur plusieurs critères. Voici lesquelles — et pourquoi.</p>
+
+<h2>1. Xiaomi SU7 — Mieux que la Model 3 sur le logiciel</h2>
+<p>La <strong>Xiaomi SU7</strong> offre tout ce qui fait le succès de la Model 3 (performances, autonomie, mises à jour OTA) plus un système d'infodivertissement <strong>HyperOS</strong> d'un autre niveau. L'intégration écosystème, l'écran 16,1 pouces 3K et l'assistant IA font passer le système Tesla pour austère. Et la SU7 est <strong>10 000 € moins chère</strong> à prestations équivalentes.</p>
+
+<h2>2. Zeekr 001 — Mieux que la Model S sur le rapport qualité-prix</h2>
+<p>Le <strong>Zeekr 001</strong> offre 544 ch, une architecture 800V, 590 km d'autonomie et un format shooting brake unique — pour <strong>52 000 €</strong> là où la Model S dépasse 90 000 €. La recharge 10-80 % en 15 minutes bat les Superchargeurs Tesla. Le seul domaine où Tesla l'emporte encore : le réseau de recharge et l'Autopilot sur autoroute.</p>
+
+<h2>3. BYD Seal — Mieux que la Model 3 sur la batterie</h2>
+<p>La <strong>BYD Seal</strong> avec sa batterie Blade LFP garantit <strong>3 000+ cycles</strong> avant 80 % de capacité — soit potentiellement 15 ans et 500 000 km. La Model 3 en NMC se dégrade plus vite. Le Cx de 0,219 (identique à la Model 3), les 517 ch en bi-moteur et le prix inférieur de 5 000 € font de la Seal l'alternative BYD la plus convaincante.</p>
+
+<h2>Pourquoi Tesla garde des atouts</h2>
+<p>Le réseau <strong>Superchargeurs</strong> (40 000+ bornes mondiales) reste un avantage décisif pour les voyageurs. L'<strong>Autopilot</strong> est mature et fiable. Et la <strong>valeur de revente</strong> Tesla est supérieure grâce à la notoriété de la marque. Mais sur le strict produit automobile, les chinoises sont passées devant.</p>
+`,
   },
   {
     slug: 'voitures-chinoises-plus-attendues-fin-2026',
@@ -3387,6 +3528,28 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-12-23T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Les lancements chinois à surveiller fin 2026</h2>
+<p>Le second semestre 2026 s'annonce riche en nouveautés chinoises sur le marché européen. Voici les modèles les plus attendus et ce qu'ils promettent.</p>
+
+<h2>BYD Ocean-M — La compacte sportive</h2>
+<p>BYD prépare une compacte sportive électrique baptisée <strong>Ocean-M</strong>, positionnée sous la Seal. Format de berline compacte (4,50 m), design dynamique, et un prix visé sous les <strong>30 000 €</strong>. Si BYD tient cette promesse, l'Ocean-M deviendrait l'électrique sportive la plus accessible du marché.</p>
+
+<h2>Xiaomi SU8 — Le SUV familial</h2>
+<p>Après le succès de la berline SU7, Xiaomi lancera le <strong>SU8</strong>, un grand SUV familial de 4,90 m. Motorisation bi-moteur AWD, batterie 100+ kWh, et bien sûr le système HyperOS intégré. Le SU8 devrait arriver en Europe au T4 2026 avec un prix autour de <strong>50 000 €</strong>.</p>
+
+<h2>NIO ET9 — Le vaisseau amiral</h2>
+<p>La berline executive <strong>NIO ET9</strong> (5,30 m) repoussera les limites avec une batterie semi-solid-state 150 kWh, une autonomie visée de <strong>1 000 km réels</strong>, et le nouveau système SkyOS. Compatible Battery Swap de dernière génération (swap en 3 minutes). Prix estimé : <strong>80 000 €</strong>.</p>
+
+<h2>Zeekr Mix — Le monospace réinventé</h2>
+<p>Le <strong>Zeekr Mix</strong> est un monospace/MPV électrique au format innovant : portes coulissantes, configuration modulable (bureau mobile, espace lounge, mode camping), et autonomie de 500+ km. Un concept qui pourrait séduire les familles qui veulent du volume sans SUV.</p>
+
+<h2>Chery iCar — La micro-citadine tout-terrain</h2>
+<p>Le <strong>iCar 03</strong> de Chery est un mini-SUV électrique baroudeur au look cubique (style Suzuki Jimny) avec 300 km d'autonomie et un prix visé sous <strong>20 000 €</strong>. Une proposition unique qui pourrait devenir le véhicule lifestyle de la marque en Europe.</p>
+
+<h2>À retenir</h2>
+<p>Chaque trimestre apporte de nouvelles marques et modèles chinois sur le marché européen. La vitesse de renouvellement est 2 à 3 fois supérieure à celle des constructeurs européens. Restez connectés — le paysage automobile change à vue d'œil.</p>
+`,
   },
   {
     slug: 'classement-marques-chinoises-fiabilite-2026',
