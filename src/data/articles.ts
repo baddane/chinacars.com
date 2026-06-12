@@ -1656,6 +1656,40 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'comparatif',
     publishedAt: '2025-08-11T09:00:00+02:00',
     readingTime: 6,
+    body: `
+<h2>BYD Seagull vs Citroën ë-C3 : deux visions de la citadine électrique populaire</h2>
+<p>La démocratisation de la voiture électrique passe par les citadines accessibles. Deux modèles incarnent cette ambition : le <strong>BYD Seagull</strong>, micro-citadine produite par le géant chinois à des coûts défiant toute concurrence, et la <strong>Citroën ë-C3</strong>, réponse française au défi de l'électrique abordable. Deux philosophies, deux styles, mais un objectif commun : rendre l'électrique accessible au plus grand nombre.</p>
+
+<h2>Design : le futurisme BYD vs le style Citroën</h2>
+<p>Le BYD Seagull adopte un design compact et dynamique à <strong>3,78 m</strong>. Ses lignes tendues, ses feux LED effilés et sa calandre fermée lui donnent un look résolument moderne. C'est petit, mignon et contemporain — parfait pour la ville.</p>
+<p>La Citroën ë-C3 joue une autre carte à <strong>4,01 m</strong> — elle est nettement plus grande. Son design Cactus-like avec des protections latérales, des teintes bicolores et des airbumps revisités lui confère un caractère décalé typiquement Citroën. Elle ressemble davantage à un petit crossover qu'à une citadine classique.</p>
+
+<h2>Motorisation et performances</h2>
+<p>Le Seagull développe <strong>75 ch</strong> (55 kW) avec 135 Nm de couple. Le 0-100 km/h en <strong>13 secondes</strong> est lent mais suffisant en ville. La vitesse max de 130 km/h permet des escapades sur nationale.</p>
+<p>L'ë-C3 fait mieux avec <strong>113 ch</strong> (83 kW) et 120 Nm. Le 0-100 tombe à <strong>11 secondes</strong> et la vitesse max atteint 135 km/h. L'écart est sensible sur voies rapides et dans les dépassements.</p>
+
+<h2>Autonomie</h2>
+<p>Le Seagull est proposé en deux versions : <strong>30,1 kWh</strong> (~305 km WLTP) et <strong>38,9 kWh</strong> (~405 km WLTP). La version grande autonomie est impressionnante pour le format et le prix — c'est l'un des meilleurs ratios kWh/euro du marché.</p>
+<p>L'ë-C3 embarque une batterie LFP de <strong>44 kWh</strong> pour <strong>320 km WLTP</strong>. C'est correct mais inférieur au Seagull grande autonomie malgré une batterie plus grosse, signe d'une moindre efficience énergétique.</p>
+
+<h2>Recharge</h2>
+<p>Le Seagull accepte jusqu'à <strong>40 kW en DC</strong>, avec un 30-80 % en 30 minutes. L'ë-C3 monte à <strong>100 kW en DC</strong> et réalise un 20-80 % en 26 minutes — un avantage net pour Citroën sur la recharge rapide.</p>
+
+<h2>Intérieur et équipement</h2>
+<p>Le Seagull propose un écran central de <strong>10,1 pouces</strong>, un combiné numérique et la climatisation automatique. L'intérieur est simple mais bien pensé, avec des rangements astucieux. La qualité des matériaux est basique — plastiques durs omniprésents.</p>
+<p>L'ë-C3 mise sur l'ambiance avec son <strong>écran central de 10,25 pouces</strong>, des sièges Advanced Comfort (matelas à mousse haute densité), et un habitacle coloré et chaleureux. Citroën réussit à créer une atmosphère accueillante malgré le budget serré.</p>
+
+<h2>Prix : le Seagull imbattable</h2>
+<ul>
+  <li><strong>BYD Seagull</strong> : ~<strong>20 000 €</strong> (si commercialisé en Europe, hors droits de douane additionnels)</li>
+  <li><strong>Citroën ë-C3</strong> : ~<strong>23 300 €</strong></li>
+</ul>
+<p>Le Seagull est potentiellement <strong>3 000 € moins cher</strong>, mais les surtaxes européennes sur les véhicules chinois pourraient réduire voire annuler cet avantage. Le prix final en Europe reste incertain. L'ë-C3 bénéficie du bonus écologique français (production en Europe prévue) — un atout majeur.</p>
+
+<h2>Verdict : le choix dépend de votre marché</h2>
+<p>Le <strong>BYD Seagull</strong> est objectivement la meilleure citadine électrique du monde en rapport qualité-prix. Plus d'autonomie, technologie BYD éprouvée, prix imbattable. Mais sa disponibilité en Europe reste limitée par les droits de douane et l'absence de production locale.</p>
+<p>La <strong>Citroën ë-C3</strong> est le choix pragmatique pour l'acheteur européen : réseau Citroën dense, bonus écologique garanti, confort supérieur et un design qui ne laisse pas indifférent. C'est la citadine électrique populaire pensée pour l'Europe.</p>
+`,
     author: 'Rédaction Véhicules Chinois',
   },
   {
@@ -1958,6 +1992,35 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'technologie',
     publishedAt: '2025-06-09T09:00:00+02:00',
     readingTime: 7,
+    body: `
+<h2>HyperOS : quand Xiaomi transforme la voiture en extension du smartphone</h2>
+<p>Quand un fabricant de smartphones se lance dans l'automobile, le résultat ne ressemble à rien de connu. Avec <strong>HyperOS</strong>, Xiaomi a créé un système d'exploitation unifié qui connecte la SU7, les smartphones, les tablettes, les montres connectées et les appareils domotiques dans un écosystème transparent. C'est la vision la plus aboutie du cockpit connecté en 2025 — et elle vient de Chine.</p>
+
+<h2>HyperOS : un seul OS pour tous les appareils</h2>
+<p>HyperOS est le successeur de MIUI, redessiné de zéro pour fonctionner sur <strong>tous les appareils Xiaomi</strong> — du smartphone à la voiture en passant par la télévision et les objets connectés. Le principe est simple : un identifiant unique, un écosystème unifié, des données synchronisées en temps réel entre tous vos appareils.</p>
+<p>Dans la SU7, HyperOS tourne sur une puce <strong>Qualcomm Snapdragon 8295</strong> dédiée au cockpit, avec un écran central de <strong>16,1 pouces</strong>, un combiné d'instrumentation de 7,1 pouces et un affichage tête haute de 56 pouces. L'interface est fluide, réactive et visuellement identique à celle d'un téléphone Xiaomi — la courbe d'apprentissage est quasi nulle pour un utilisateur du monde Xiaomi.</p>
+
+<h2>L'intégration smartphone la plus poussée du marché</h2>
+<p>Apple CarPlay et Android Auto sont des solutions de projection : votre téléphone affiche ses applications sur l'écran de la voiture. HyperOS va beaucoup plus loin :</p>
+<ul>
+  <li><strong>Continuité d'activité</strong> : une vidéo lancée sur votre téléphone Xiaomi continue automatiquement sur l'écran de la voiture quand vous vous asseyez. La navigation démarre sur la montre, transite vers le téléphone, puis s'affiche sur le HUD de la voiture.</li>
+  <li><strong>Contrôle croisé</strong> : depuis l'écran de la SU7, vous contrôlez la caméra de surveillance de votre domicile, réglez le chauffage via les appareils domotiques Xiaomi, ou lancez le robot aspirateur.</li>
+  <li><strong>Clé numérique</strong> : le smartphone ou la montre Xiaomi sert de clé. Approchez-vous de la voiture, elle vous reconnaît, ajuste le siège, les rétroviseurs et la température à vos préférences mémorisées.</li>
+  <li><strong>Partage de connectivité</strong> : la SU7 partage sa connexion 5G avec tous les appareils des passagers, créant un hotspot haute performance mobile.</li>
+</ul>
+
+<h2>L'IA embarquée : Xiao AI dans la voiture</h2>
+<p>L'assistant vocal <strong>Xiao AI</strong> de Xiaomi est natif dans HyperOS. Contrairement aux assistants vocaux automobiles classiques, Xiao AI comprend le contexte conversationnel, gère les requêtes multi-étapes ("Mets la climatisation à 22° et lance ma playlist de voyage") et peut interagir avec l'ensemble de l'écosystème domotique.</p>
+<p>L'IA de Xiaomi apprend aussi vos habitudes : elle anticipe vos trajets, ajuste la température avant que vous montiez, et suggère des restaurants en fonction de l'heure et de vos préférences passées. C'est un niveau de personnalisation que ni Apple ni Google ne proposent dans le contexte automobile.</p>
+
+<h2>Les limites : un écosystème fermé</h2>
+<p>Le revers de la médaille est évident : HyperOS fonctionne à plein régime uniquement avec des <strong>appareils Xiaomi</strong>. Si vous utilisez un iPhone ou un Samsung, vous perdez la majorité des fonctionnalités d'intégration. Apple CarPlay et Android Auto sont supportés en complément, mais l'expérience est incomparablement plus riche avec un smartphone Xiaomi.</p>
+<p>C'est une stratégie de <strong>verrouillage d'écosystème</strong> similaire à celle d'Apple — et tout aussi efficace. Un utilisateur qui possède un téléphone Xiaomi, une montre Xiaomi, des objets connectés Xiaomi et une voiture Xiaomi vivra l'expérience automobile la plus intégrée du marché. Mais il sera aussi captif de l'écosystème.</p>
+
+<h2>Ce que ça change pour l'industrie automobile</h2>
+<p>HyperOS démontre que les <strong>entreprises technologiques</strong> ont un avantage structurel sur les constructeurs traditionnels en matière de logiciel embarqué. Volkswagen a dépensé des milliards sur son système CARIAD sans résultat convaincant. Renault a externalisé chez Google. Mercedes développe MB.OS avec des ressources considérables. Xiaomi, fort de ses 15 ans d'expérience logicielle et de sa base de 600 millions d'utilisateurs actifs, a produit un système plus abouti du premier coup.</p>
+<p>Le futur de l'automobile n'est plus dans le moteur — il est dans le logiciel. Et sur ce terrain, les géants technologiques chinois ont une longueur d'avance.</p>
+`,
     author: 'Rédaction Véhicules Chinois',
   },
   {
@@ -2050,6 +2113,46 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'technologie',
     publishedAt: '2025-05-26T09:00:00+02:00',
     readingTime: 6,
+    body: `
+<h2>V2L : votre voiture électrique devient une prise géante</h2>
+<p>Le <strong>V2L (Vehicle-to-Load)</strong> est l'une des fonctionnalités les plus méconnues et les plus utiles des voitures électriques modernes. Le principe : votre véhicule électrique peut fournir du courant alternatif 230V pour alimenter n'importe quel appareil électrique — comme une prise domestique sur roues. BYD, parmi les premiers constructeurs chinois à l'intégrer, propose cette fonction sur plusieurs modèles. Voici comment l'utiliser et pourquoi c'est révolutionnaire.</p>
+
+<h2>Comment ça fonctionne ?</h2>
+<p>Le V2L utilise un <strong>onduleur bidirectionnel</strong> intégré au véhicule pour convertir le courant continu (DC) de la batterie en courant alternatif (AC) 230V/50Hz — le même que celui de vos prises domestiques. La puissance disponible varie selon les modèles :</p>
+<ul>
+  <li><strong>BYD Atto 3</strong> : V2L via prise extérieure, jusqu'à <strong>2,2 kW</strong></li>
+  <li><strong>BYD Seal</strong> : V2L interne et externe, <strong>3,3 kW</strong></li>
+  <li><strong>BYD Seal U</strong> : V2L <strong>3,3 kW</strong> avec prise dans le coffre</li>
+</ul>
+<p>Avec 3,3 kW, vous pouvez alimenter simultanément un réfrigérateur, un éclairage, un ordinateur portable et un chargeur de téléphone — largement suffisant pour la plupart des usages.</p>
+
+<h2>Usages concrets du V2L</h2>
+<h3>Camping et activités outdoor</h3>
+<p>C'est l'usage le plus évident. Branchez une bouilloire, un réchaud électrique, un projecteur pour une soirée cinéma en plein air, ou rechargez vos appareils. Avec une batterie de 60 kWh, votre BYD peut fournir <strong>3,3 kW pendant 18 heures</strong> en continu — un week-end complet d'autonomie électrique hors réseau.</p>
+
+<h3>Coupure de courant</h3>
+<p>En cas de panne de réseau, votre BYD peut alimenter les équipements essentiels de votre maison : réfrigérateur (150W), éclairage LED (50W), box internet (30W), recharge de téléphones. Avec une consommation de 500W, la batterie peut tenir <strong>plus de 4 jours</strong>. C'est une solution de secours bien plus fiable qu'un groupe électrogène.</p>
+
+<h3>Travaux et bricolage</h3>
+<p>Perceuse, meuleuse, aspirateur de chantier — le V2L peut alimenter la plupart des outils électriques courants sans avoir besoin d'une rallonge de 50 mètres ou d'un groupe électrogène bruyant et polluant.</p>
+
+<h3>Recharger une autre voiture électrique</h3>
+<p>Avec le bon adaptateur, votre BYD peut servir de <strong>borne de recharge mobile</strong> pour un autre véhicule électrique en panne. C'est lent (2-3 kW), mais suffisant pour redonner 15-20 km d'autonomie en une heure — de quoi atteindre la borne la plus proche.</p>
+
+<h2>V2H : la prochaine étape</h2>
+<p>Le V2H (Vehicle-to-Home) va plus loin que le V2L en permettant à la voiture de se connecter directement au <strong>tableau électrique de la maison</strong>. L'avantage : la voiture peut stocker l'énergie solaire produite en journée et la restituer le soir pendant les heures de pointe, réduisant la facture d'électricité de <strong>30 à 50 %</strong>. BYD, qui est aussi le premier fabricant mondial de batteries domestiques, est idéalement positionné pour cette convergence voiture-maison.</p>
+
+<h2>Précautions d'usage</h2>
+<ul>
+  <li>Ne descendez pas en dessous de <strong>20 % de batterie</strong> en mode V2L pour préserver l'autonomie de conduite</li>
+  <li>Utilisez des <strong>rallonges aux normes</strong> et des multiprises avec protection contre les surcharges</li>
+  <li>Le V2L n'est pas prévu pour alimenter des appareils de chauffage haute puissance (radiateurs, fours)</li>
+  <li>En cas de coupure prolongée, programmez le seuil minimum de batterie dans les réglages du véhicule</li>
+</ul>
+
+<h2>Verdict : un avantage concret au quotidien</h2>
+<p>Le V2L n'est pas un gadget — c'est une <strong>fonctionnalité pratique</strong> qui justifie à elle seule la transition vers l'électrique pour certains usages. BYD l'intègre de série sur la plupart de ses modèles, là où la concurrence européenne le propose en option ou ne le propose pas du tout. C'est un petit avantage qui, cumulé avec la batterie Blade et les prix compétitifs, renforce la proposition de valeur globale de BYD.</p>
+`,
     author: 'Rédaction Véhicules Chinois',
   },
   {
@@ -2062,6 +2165,59 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'technologie',
     publishedAt: '2025-05-19T09:00:00+02:00',
     readingTime: 8,
+    body: `
+<h2>La batterie semi-solide de NIO : la promesse des 1 000 km</h2>
+<p>NIO a frappé un grand coup en annonçant sa batterie <strong>semi-solide de 150 kWh</strong>, développée avec le fabricant WeLion. Cette batterie promet une densité énergétique de <strong>360 Wh/kg</strong> — contre 200-250 Wh/kg pour les meilleures batteries lithium-ion actuelles — et une autonomie dépassant les <strong>1 000 km WLTP</strong> sur le NIO ET7. Mais qu'est-ce qu'une batterie solid-state, comment fonctionne-t-elle, et faut-il y croire ?</p>
+
+<h2>Solid-state vs lithium-ion : quelle différence ?</h2>
+<p>Dans une batterie lithium-ion classique, les ions lithium se déplacent entre l'anode et la cathode à travers un <strong>électrolyte liquide</strong>. Ce liquide est conducteur d'ions mais pose des problèmes : risque de fuite, inflammabilité, et dégradation avec le temps et la température.</p>
+<p>Dans une batterie <strong>solid-state</strong> (à état solide), l'électrolyte liquide est remplacé par un <strong>électrolyte solide</strong> — céramique, verre ou polymère. Les avantages théoriques sont considérables :</p>
+<ul>
+  <li><strong>Densité énergétique supérieure</strong> : jusqu'à 500 Wh/kg (vs 250 max en lithium-ion)</li>
+  <li><strong>Sécurité accrue</strong> : pas d'électrolyte inflammable, risque d'incendie quasi nul</li>
+  <li><strong>Durée de vie allongée</strong> : moins de dégradation à chaque cycle de charge</li>
+  <li><strong>Recharge plus rapide</strong> : meilleure conductivité ionique à haute température</li>
+</ul>
+
+<h2>La nuance "semi-solide" : ce que NIO propose vraiment</h2>
+<p>Il est crucial de comprendre que la batterie NIO n'est pas une <strong>full solid-state</strong>. C'est une batterie <strong>semi-solide</strong> qui utilise un mélange d'électrolyte solide et d'une petite quantité de gel ou de liquide. C'est une étape intermédiaire — plus avancée que le lithium-ion classique, mais pas encore la batterie solid-state parfaite que promettent les laboratoires.</p>
+<p>Concrètement, la batterie NIO 150 kWh offre :</p>
+<ul>
+  <li><strong>Densité énergétique</strong> : 360 Wh/kg (semi-solide) vs 180-200 Wh/kg (LFP BYD Blade) vs 250 Wh/kg (NMC Tesla 4680)</li>
+  <li><strong>Capacité</strong> : 150 kWh dans un format compatible avec les stations de swap NIO</li>
+  <li><strong>Autonomie annoncée</strong> : 1 055 km WLTP sur NIO ET7</li>
+  <li><strong>Poids</strong> : environ 575 kg — lourd, mais la densité réduit le volume</li>
+</ul>
+
+<h2>1 000 km réels : est-ce crédible ?</h2>
+<p>Les 1 055 km WLTP annoncés sont un chiffre normatif. En conditions réelles, il faut appliquer un coefficient de réduction :</p>
+<ul>
+  <li><strong>Conduite mixte douce</strong> : ~800-850 km — remarquable</li>
+  <li><strong>Autoroute à 130 km/h</strong> : ~600-650 km — comparable aux meilleurs véhicules actuels</li>
+  <li><strong>Hiver, chauffage activé</strong> : ~550-600 km — toujours excellent</li>
+</ul>
+<p>Même avec une décote réelle de 30-40 %, la batterie 150 kWh offrirait une autonomie autoroutière de <strong>600+ km</strong>, éliminant l'anxiété d'autonomie pour la quasi-totalité des trajets quotidiens et la plupart des voyages longue distance avec un seul arrêt.</p>
+
+<h2>Le coût : le frein majeur</h2>
+<p>La batterie semi-solide de NIO est disponible en <strong>location via le BaaS</strong> à environ <strong>289 €/mois</strong> — plus du double de l'abonnement standard 75 kWh (128 €/mois). Ce surcoût reflète la technologie encore immature et les volumes de production limités.</p>
+<p>À l'achat, la batterie 150 kWh ajouterait environ <strong>15 000 à 20 000 €</strong> au prix du véhicule. Un coût prohibitif pour la plupart des acheteurs, mais que la flexibilité du swap NIO permet de contourner : louez la 150 kWh pour un voyage exceptionnel, et revenez à la 75 kWh au quotidien.</p>
+
+<h2>La course mondiale au solid-state</h2>
+<p>NIO n'est pas seul dans la course :</p>
+<ul>
+  <li><strong>Toyota</strong> : annonce une batterie solid-state pour 2027-2028 avec 1 000 km d'autonomie et recharge en 10 minutes</li>
+  <li><strong>Samsung SDI</strong> : développe des cellules solid-state pour BMW, production prévue 2027</li>
+  <li><strong>QuantumScape</strong> (USA) : la startup la plus médiatisée, mais production commerciale sans cesse repoussée</li>
+  <li><strong>CATL</strong> (Chine) : travaille sur des cellules condensed battery à 500 Wh/kg</li>
+  <li><strong>BYD</strong> : développe sa propre technologie semi-solide, pas encore annoncée commercialement</li>
+</ul>
+<p>NIO a l'avantage d'être le premier à commercialiser une batterie semi-solide dans un véhicule de série — un exploit technique considérable, même si la technologie n'est pas encore au stade full solid-state.</p>
+
+<h2>Verdict : une avancée réelle mais pas encore la révolution</h2>
+<p>La batterie 150 kWh semi-solide de NIO est une <strong>prouesse technique</strong> qui repousse les limites de l'autonomie électrique. Les 1 000 km WLTP ne sont pas un fantasme — c'est mesurable et reproductible dans des conditions normées.</p>
+<p>Cependant, le <strong>coût élevé</strong>, le <strong>poids important</strong> et la <strong>nature semi-solide</strong> (et non full solid-state) tempèrent l'enthousiasme. Pour la majorité des conducteurs, une batterie de 75-100 kWh avec recharge rapide 800V reste la solution la plus rationnelle.</p>
+<p>La vraie révolution viendra quand les batteries full solid-state atteindront 500 Wh/kg à un coût comparable aux batteries actuelles. D'ici là — probablement 2028-2030 — la semi-solide de NIO reste la meilleure démonstration de ce que l'avenir nous réserve.</p>
+`,
     author: 'Rédaction Véhicules Chinois',
   },
   {
