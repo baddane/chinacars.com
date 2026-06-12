@@ -1311,6 +1311,51 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'comparatif',
     publishedAt: '2025-10-13T09:00:00+02:00',
     readingTime: 8,
+    body: `
+<h2>Jaecoo 5 vs Volkswagen Tiguan : David chinois contre Goliath allemand</h2>
+<p>Le Volkswagen Tiguan est la référence absolue du SUV compact en Europe, avec plus de <strong>7 millions d'exemplaires vendus</strong> depuis 2007. Mais en 2025, un challenger inattendu vient troubler cette domination : le <strong>Jaecoo 5</strong>, SUV de la marque chinoise née sous l'aile du groupe Chery. Avec un prix agressif et un équipement pléthorique, le nouveau venu a-t-il les armes pour inquiéter le roi allemand ?</p>
+
+<h2>Design extérieur : modernité chinoise vs classicisme allemand</h2>
+<p>Le Jaecoo 5 adopte un design résolument moderne avec des lignes angulaires, une calandre imposante à motifs géométriques et des feux LED effilés. Sa silhouette musclée avec des passages de roues marqués lui confère une présence visuelle forte. À <strong>4,51 m de long</strong>, il joue dans la même cour que le Tiguan.</p>
+<p>Le Volkswagen Tiguan III (2024), troisième du nom, adopte un style plus épuré que son prédécesseur. La nouvelle identité visuelle VW avec bandeau lumineux traversant et lignes tendues lui donne un air premium sans ostentation. C'est un design qui vieillit bien — classique mais pas daté. Le Tiguan mesure <strong>4,54 m</strong>, légèrement plus long.</p>
+
+<h2>Motorisation : hybride chinois vs essence/diesel/PHEV allemand</h2>
+<p>Le Jaecoo 5 arrive en Europe avec un <strong>1.5 turbo de 147 ch</strong> associé à une boîte DCT 7 rapports. Une version <strong>PHEV</strong> est aussi au catalogue avec environ 340 ch combinés et une autonomie électrique de ~80 km. La consommation annoncée du 1.5 turbo tourne autour de <strong>7,0 L/100 km</strong> en cycle mixte.</p>
+<p>Le Tiguan propose un éventail bien plus large : <strong>1.5 TSI 130 ch</strong>, <strong>1.5 eTSI 150 ch</strong> mild-hybrid, <strong>2.0 TDI 150 ch</strong>, et un <strong>eHybrid PHEV de 204 ou 272 ch</strong> avec ~100 km d'autonomie électrique. Cette diversité de motorisations est un avantage indéniable pour s'adapter à tous les profils d'utilisation.</p>
+
+<h2>Habitacle et équipement : le Jaecoo 5 en fait-il trop ?</h2>
+<p>C'est ici que le Jaecoo 5 frappe fort. Dès la finition de base, il embarque un <strong>écran central de 13,2 pouces</strong>, un combiné d'instrumentation numérique de 10,25 pouces, la <strong>caméra 360°</strong>, les sièges chauffants et ventilés, le toit ouvrant panoramique, le chargeur sans fil, et un système audio à 8 haut-parleurs. L'ambiance intérieure mise sur des matériaux soft-touch et des surpiqûres contrastées — un cran au-dessus de ce qu'on attend dans cette gamme de prix.</p>
+<p>Le Tiguan, en finition Life (entrée de gamme), est nettement plus spartiate : écran 12,9 pouces mais moins de fonctionnalités de série, pas de sièges ventilés, pas de caméra 360° (en option). Pour atteindre le niveau d'équipement du Jaecoo 5, il faut grimper en finition <strong>R-Line ou Elegance</strong>, ajoutant 5 000 à 8 000 € au prix de base.</p>
+
+<h2>Espace et praticité</h2>
+<p>Le Tiguan III offre un coffre de <strong>615 litres</strong> (652 l en version non-PHEV) — une référence dans la catégorie. La banquette arrière coulissante permet d'ajuster l'espace entre passagers et bagages. L'habitabilité arrière est généreuse, y compris pour trois adultes.</p>
+<p>Le Jaecoo 5 propose un coffre de <strong>480 litres</strong>, nettement inférieur. L'espace aux jambes à l'arrière est correct sans être exceptionnel. Sur ce critère purement pratique, le Tiguan conserve un avantage significatif pour les familles.</p>
+
+<h2>Qualité de conduite</h2>
+<p>Le Tiguan bénéficie de décennies d'expertise Volkswagen en matière de châssis. La plateforme MQB Evo offre un <strong>équilibre remarquable</strong> entre confort et dynamisme. La direction est précise, l'insonorisation excellente, et les suspensions adaptatives DCC (en option) permettent de jongler entre mode confort et mode sport. C'est la référence du segment en agrément de conduite.</p>
+<p>Le Jaecoo 5 offre un confort correct avec des suspensions plutôt souples, adaptées à la ville et aux routes dégradées. La direction manque de feeling et l'insonorisation reste un cran en dessous du Tiguan à vitesse autoroutière. C'est un SUV agréable au quotidien, mais qui ne procure pas le même plaisir de conduite que l'Allemand.</p>
+
+<h2>Sécurité et ADAS</h2>
+<p>Le Jaecoo 5 a obtenu <strong>5 étoiles Euro NCAP</strong>, ce qui est remarquable pour un nouveau constructeur chinois. Il embarque de série le freinage automatique d'urgence, le maintien de voie, le régulateur adaptatif et la surveillance des angles morts. NIO, XPeng et Jaecoo prouvent que les marques chinoises prennent la sécurité très au sérieux.</p>
+<p>Le Tiguan, sans surprise, obtient également <strong>5 étoiles</strong>. Le système IQ.DRIVE de VW est mature et performant, avec Travel Assist de série sur les versions supérieures (conduite semi-autonome niveau 2 sur autoroute).</p>
+
+<h2>Prix : l'argument massue du Jaecoo</h2>
+<ul>
+  <li><strong>Jaecoo 5 1.5T Comfort</strong> : ~<strong>28 000 €</strong></li>
+  <li><strong>Volkswagen Tiguan 1.5 TSI Life</strong> : ~<strong>38 000 €</strong></li>
+  <li><strong>Jaecoo 5 PHEV</strong> : ~<strong>36 000 €</strong></li>
+  <li><strong>Volkswagen Tiguan eHybrid</strong> : ~<strong>48 000 €</strong></li>
+</ul>
+<p>L'écart est colossal : <strong>10 000 €</strong> en entrée de gamme, avec un équipement de série supérieur chez Jaecoo. Pour le budget d'un Tiguan Life, on s'offre un Jaecoo 5 haut de gamme et il reste de l'argent pour l'assurance et l'entretien de la première année.</p>
+
+<h2>Réseau et fiabilité : le point faible chinois</h2>
+<p>Volkswagen bénéficie de <strong>1 400 points de vente et d'entretien</strong> en France, d'une valeur de revente solide et d'une réputation de fiabilité (malgré quelques épisodes malheureux). Jaecoo, distribué via le réseau Chery/Omoda, en est à ses débuts en Europe avec environ <strong>150 points</strong> en France. La garantie de <strong>7 ans / 150 000 km</strong> compense partiellement, mais le réseau SAV reste le maillon faible.</p>
+
+<h2>Verdict : le Tiguan reste roi, mais pour combien de temps ?</h2>
+<p>Le <strong>Volkswagen Tiguan</strong> gagne sur la qualité de conduite, l'espace intérieur, la diversité des motorisations et la sérénité d'un réseau mature. C'est le choix sûr, le SUV qui ne déçoit jamais.</p>
+<p>Le <strong>Jaecoo 5</strong> gagne sur le prix, l'équipement de série et le rapport prestations/euros. Pour un primo-accédant ou un acheteur pragmatique qui ne veut pas payer le premium de la marque, c'est une proposition redoutable.</p>
+<p>L'Allemagne peut encore dormir tranquille — mais le réveil chinois approche à grands pas.</p>
+`,
     author: 'Rédaction Véhicules Chinois',
   },
   {
@@ -1323,6 +1368,45 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'comparatif',
     publishedAt: '2025-10-06T09:00:00+02:00',
     readingTime: 8,
+    body: `
+<h2>NIO ET5 vs BMW i4 : le premium chinois peut-il rivaliser avec Munich ?</h2>
+<p>La berline électrique premium est un segment dominé par l'Allemagne depuis des décennies. Avec la <strong>BMW i4</strong>, Munich propose l'une des berlines électriques les plus abouties du marché : dynamique, raffinée, adossée à un réseau mondial. Mais <strong>NIO</strong>, le constructeur chinois, ose s'y attaquer avec l'<strong>ET5</strong>, une berline qui combine design élégant, services innovants et un prix inférieur de plusieurs milliers d'euros. Le premium chinois est-il à la hauteur de la légende bavaroise ?</p>
+
+<h2>Design : l'élégance discrète contre le dynamisme BMW</h2>
+<p>La NIO ET5 séduit par ses lignes fluides et épurées. Sa silhouette fastback, son capot plongeant et ses feux effilés lui donnent une allure premium indéniable. À <strong>4,79 m de long</strong>, elle affiche des proportions harmonieuses. Le design est moderne sans être criard — NIO a clairement visé l'élégance plutôt que l'extravagance.</p>
+<p>La BMW i4, basée sur la plateforme de la Série 4 Gran Coupé, joue la carte du dynamisme avec sa calandre imposante (controversée), ses hanches musclées et sa ligne de toit coupé. À <strong>4,78 m</strong>, elle est quasi identique en taille. Le design BMW divise davantage, mais la présence sur route est indéniable. Avantage subjectif : match nul.</p>
+
+<h2>Performances et conduite</h2>
+<p>La <strong>NIO ET5</strong> en version bimotor développe <strong>490 ch</strong> (360 kW) et abat le <strong>0 à 100 km/h en 4,0 secondes</strong>. Le couple instantané de 700 Nm offre des accélérations franches. La suspension pneumatique adaptative est de série, permettant d'ajuster la hauteur de caisse et la fermeté selon le mode de conduite.</p>
+<p>La <strong>BMW i4 eDrive40</strong> développe <strong>340 ch</strong> avec un 0-100 en 5,7 secondes. La version <strong>i4 M50</strong> monte à <strong>544 ch</strong> et 3,9 secondes — rivale directe de la NIO sur les performances. Mais c'est sur le <strong>plaisir de conduite</strong> que BMW excelle : direction précise, châssis d'une rigueur exemplaire, comportement quasi sportif. L'i4 est la berline électrique la plus dynamique du marché, héritant du savoir-faire BMW en matière de tenue de route.</p>
+<p>La NIO ET5 est confortable et performante, mais la BMW i4 M50 reste supérieure en agrément de conduite pure.</p>
+
+<h2>Autonomie et recharge</h2>
+<p>La NIO ET5 est proposée avec des batteries de <strong>75 kWh</strong> (~450 km WLTP) ou <strong>100 kWh</strong> (~580 km WLTP). Grâce au système de swap, il est aussi possible d'accéder à la batterie <strong>150 kWh semi-solide</strong> (~1 000 km WLTP théoriques). La recharge par câble atteint <strong>140 kW</strong> en DC.</p>
+<p>La BMW i4 eDrive40 embarque une batterie de <strong>83,9 kWh</strong> pour environ <strong>590 km WLTP</strong>. La recharge DC monte à <strong>205 kW</strong>, permettant un 10-80 % en environ 30 minutes. BMW l'emporte sur la recharge par câble (plus rapide) et l'autonomie en version standard, mais NIO offre la flexibilité unique du swap.</p>
+
+<h2>Intérieur et technologie</h2>
+<p>L'habitacle de la NIO ET5 mise sur l'ambiance lounge. Sellerie Nappa, tableau de bord épuré avec un <strong>écran AMOLED de 12,8 pouces</strong>, affichage tête haute AR et surtout <strong>NOMI</strong>, l'assistant vocal incarné par un petit robot expressif sur le tableau de bord. Système audio Dolby Atmos à 7.1.4 canaux avec 23 haut-parleurs — une expérience sonore premium. La qualité des matériaux est au niveau de ce que font Audi et BMW.</p>
+<p>La BMW i4 adopte le <strong>BMW Curved Display</strong> combinant un écran de 12,3 pouces (instrumentation) et 14,9 pouces (central) sous une dalle incurvée. L'interface iDrive 8 est l'une des meilleures du marché : fluide, intuitive, avec commande vocale naturelle. L'ambiance est plus sportive que la NIO, avec moins de fantaisie mais une ergonomie éprouvée.</p>
+
+<h2>Services NIO : un écosystème unique</h2>
+<p>Ce qui différencie véritablement NIO de BMW, ce sont les <strong>services</strong>. Le <strong>Battery as a Service (BaaS)</strong> permet de séparer l'achat de la voiture et de la batterie, réduisant le prix d'entrée. Le swap de batterie en 3 minutes, le <strong>NIO Power Mobile</strong> (camionnette de recharge mobile) et les <strong>NIO Houses</strong> (espaces communautaires pour les propriétaires) créent un écosystème complet autour de la marque.</p>
+<p>BMW propose un réseau après-vente dense et fiable, mais l'expérience client reste plus conventionnelle. La communauté NIO — événements, application, forums intégrés — crée un sentiment d'appartenance que BMW n'a pas développé au même degré.</p>
+
+<h2>Prix : NIO nettement moins cher</h2>
+<ul>
+  <li><strong>NIO ET5 75 kWh</strong> : ~<strong>47 000 €</strong> (avec BaaS ~35 500 € + 128 €/mois)</li>
+  <li><strong>BMW i4 eDrive40</strong> : ~<strong>57 000 €</strong></li>
+  <li><strong>NIO ET5 100 kWh</strong> : ~<strong>54 000 €</strong></li>
+  <li><strong>BMW i4 M50</strong> : ~<strong>72 000 €</strong></li>
+</ul>
+<p>En formule BaaS, la NIO ET5 descend sous les <strong>36 000 €</strong> à l'achat — un écart de plus de 20 000 € avec la BMW. Même en version batterie incluse, NIO reste 10 000 € moins chère à prestations comparables.</p>
+
+<h2>Verdict : le premium a deux visages</h2>
+<p>La <strong>BMW i4</strong> reste la référence pour les amateurs de conduite. Son châssis, sa direction, son réseau éprouvé et sa valeur de revente en font le choix rassurant par excellence. C'est le premium tel qu'on le connaît : performance, savoir-faire, tradition.</p>
+<p>La <strong>NIO ET5</strong> réinvente le premium autour des services, de la flexibilité et du rapport qualité-prix. Le swap de batterie, le BaaS, NOMI et l'écosystème communautaire proposent une vision alternative du luxe automobile — plus technologique, plus accessible, plus audacieuse.</p>
+<p>Notre recommandation : si le plaisir de conduite est votre priorité, prenez la BMW. Si vous cherchez l'expérience de possession la plus innovante au meilleur prix, la NIO ET5 est une révélation.</p>
+`,
     author: 'Rédaction Véhicules Chinois',
   },
   {
@@ -1398,6 +1482,33 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'comparatif',
     publishedAt: '2025-09-22T09:00:00+02:00',
     readingTime: 7,
+    body: `
+<h2>MG4 XPower vs ID.3 GTX : la guerre des compactes électriques sportives</h2>
+<p>La compacte sportive électrique est un segment en pleine ébullition. La <strong>MG4 XPower</strong>, avec sa propulsion arrière et ses 435 ch, promet des sensations de conduite brutes à un prix imbattable. Face à elle, la <strong>Volkswagen ID.3 GTX</strong> joue la carte de la transmission intégrale et de la maturité technique. Deux approches du plaisir électrique, deux budgets très différents.</p>
+
+<h2>Performances : puissance brute contre motricité</h2>
+<p>La MG4 XPower est un missile. Ses deux moteurs délivrent <strong>435 ch</strong> et 600 Nm de couple, propulsant la compacte de 0 à 100 km/h en <strong>3,8 secondes</strong>. C'est un chrono de sportive pure, supérieur à de nombreuses GTI thermiques. La transmission intégrale assure une motricité correcte, mais c'est la version propulsion arrière qui procure les sensations les plus jouissives, avec un train arrière expressif et des dérives contrôlables.</p>
+<p>L'ID.3 GTX développe <strong>326 ch</strong> grâce à deux moteurs et une transmission intégrale. Le 0-100 km/h est bouclé en <strong>5,7 secondes</strong> — nettement moins véloce, mais le GTX compense par une motricité supérieure en sortie de virage et une stabilité rassurante à haute vitesse. Le châssis MEB, plus lourd, offre un comportement plus prévisible et sécurisant.</p>
+
+<h2>Autonomie et recharge</h2>
+<p>La MG4 XPower embarque une batterie de <strong>64 kWh</strong> pour environ <strong>385 km WLTP</strong>. La recharge DC atteint <strong>140 kW</strong>, avec un 10-80 % en 35 minutes. C'est correct sans être exceptionnel — le gabarit compact limite la taille de la batterie.</p>
+<p>L'ID.3 GTX dispose d'une batterie de <strong>79 kWh</strong> pour <strong>510 km WLTP</strong>. La recharge DC monte à <strong>170 kW</strong>, avec un 10-80 % en 28 minutes. Volkswagen prend l'avantage ici avec <strong>125 km d'autonomie supplémentaire</strong> — un écart significatif pour les trajets longs.</p>
+
+<h2>Habitacle et technologie</h2>
+<p>L'intérieur de la MG4 XPower est fonctionnel mais pas luxueux. L'écran central de 10,25 pouces, le combiné numérique de 7 pouces et les sièges sport avec surpiqûres rouges créent une ambiance sportive cohérente. Les matériaux restent basiques pour le prix. L'ergonomie est correcte avec des commandes physiques conservées pour la climatisation.</p>
+<p>L'ID.3 GTX propose un habitacle plus moderne avec l'écran de 12,9 pouces et le combiné numérique de 10,9 pouces. Le design est épuré, peut-être trop : l'absence de boutons physiques pour les commandes courantes reste une source de frustration. Les sièges GTX offrent un bon maintien et l'ambiance intérieure est un cran au-dessus de la MG.</p>
+
+<h2>Prix : l'argument massue de MG</h2>
+<ul>
+  <li><strong>MG4 XPower</strong> : ~<strong>34 000 €</strong></li>
+  <li><strong>Volkswagen ID.3 GTX</strong> : ~<strong>48 000 €</strong></li>
+</ul>
+<p>L'écart est abyssal : <strong>14 000 €</strong> de différence. Pour le prix d'une ID.3 GTX, on s'offre une MG4 XPower et il reste suffisamment pour financer 4 ans d'assurance et d'entretien. La MG4 est tout simplement la compacte sportive électrique la moins chère du marché.</p>
+
+<h2>Verdict : sensations vs raison</h2>
+<p>La <strong>MG4 XPower</strong> est la reine des sensations brutes : plus rapide, plus expressive, infiniment moins chère. C'est le choix du conducteur qui veut s'amuser sans se ruiner. Son principal défaut — l'autonomie limitée — se pardonne facilement au regard du prix.</p>
+<p>L'<strong>ID.3 GTX</strong> est le choix rationnel : plus d'autonomie, meilleure qualité perçue, réseau VW étendu. C'est la sportive de tous les jours, celle qu'on peut utiliser sans compromis. Mais à 14 000 € de plus, le rapport prix-plaisir penche clairement en faveur de la chinoise.</p>
+`,
     author: 'Rédaction Véhicules Chinois',
   },
   {
@@ -1410,6 +1521,43 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'comparatif',
     publishedAt: '2025-09-15T09:00:00+02:00',
     readingTime: 6,
+    body: `
+<h2>L'électrique à petit prix : un rêve encore accessible ?</h2>
+<p>Rouler en électrique pour moins de <strong>15 000 €</strong> après bonus, c'est la promesse que portent deux micro-citadines : la <strong>Dacia Spring</strong>, pionnière du segment en Europe, et le <strong>Leapmotor T03</strong>, distribué par Stellantis. Deux approches du "juste assez", deux promesses d'électrification accessible. Mais à ce niveau de prix, les compromis sont-ils acceptables ?</p>
+
+<h2>Format et dimensions</h2>
+<p>La Dacia Spring mesure <strong>3,73 m</strong> — c'est une vraie micro-citadine pensée pour la ville. Le Leapmotor T03, à <strong>3,62 m</strong>, est encore plus compact. Les deux se faufilent et se garent partout. Le coffre de la Spring offre <strong>308 litres</strong>, celui du T03 <strong>210 litres</strong> extensibles à 508. Avantage praticité : Spring.</p>
+
+<h2>Motorisation et performances</h2>
+<p>La Spring 2024 développe <strong>65 ch</strong> (45 kW) avec un couple de 113 Nm. Le 0-100 km/h est bouclé en <strong>13,7 secondes</strong> — franchement lent. La vitesse maximale est limitée à 125 km/h. C'est un véhicule conçu exclusivement pour la ville et la périphérie.</p>
+<p>Le Leapmotor T03 fait mieux avec <strong>95 ch</strong> (70 kW) et 158 Nm. Le 0-100 tombe à <strong>11 secondes</strong> et la vitesse max atteint 130 km/h. L'écart est tangible : le T03 est nettement plus à l'aise sur les voies rapides et dans les dépassements. C'est la citadine qui peut aussi s'aventurer sur la nationale.</p>
+
+<h2>Autonomie : le T03 prend les devants</h2>
+<p>La Spring embarque une batterie de <strong>26,8 kWh</strong> pour <strong>225 km WLTP</strong>. En conditions réelles, comptez 160-180 km — suffisant pour un usage quotidien urbain, mais limitant pour tout trajet plus ambitieux.</p>
+<p>Le T03 dispose d'une batterie de <strong>37,3 kWh</strong> pour <strong>265 km WLTP</strong>, soit environ 200-220 km réels. C'est <strong>40 km de plus</strong> en usage quotidien, ce qui fait la différence pour un périurbain ou un trajet domicile-travail de 30+ km.</p>
+
+<h2>Recharge</h2>
+<p>La Spring accepte jusqu'à <strong>30 kW en DC</strong> (option sur certaines finitions seulement). En AC, elle se recharge en 8-10 heures sur une prise domestique. Le T03 monte à <strong>48 kW en DC</strong> et se recharge de 30 à 80 % en environ 36 minutes. La recharge AC en 6-7 heures sur wallbox 7 kW. Avantage net au T03.</p>
+
+<h2>Intérieur et équipement</h2>
+<p>Le T03 surprend positivement avec un <strong>écran tactile de 10,1 pouces</strong>, un combiné numérique de 8 pouces, les vitres électriques aux 4 portières, la climatisation automatique et la caméra de recul — le tout de série. L'intérieur, bien que plastique, est soigné et coloré, avec une ambiance presque ludique.</p>
+<p>La Spring reste fidèle à la philosophie Dacia : l'essentiel et rien de plus. Écran de <strong>7 pouces</strong> (10 pouces en finition Extreme), climatisation manuelle, vitres électriques à l'avant seulement en version de base. C'est spartiate mais fonctionnel. Le smartphone-mapping via Apple CarPlay/Android Auto compense partiellement.</p>
+
+<h2>Sécurité</h2>
+<p>La Spring a obtenu un score controversé de <strong>1 étoile Euro NCAP</strong> en 2021 — le pire de l'année. La version 2024 améliore les choses mais reste en retrait. Le T03 fait mieux avec <strong>3 étoiles</strong> et un équipement ADAS plus complet : freinage automatique, alerte de collision, maintien de voie.</p>
+
+<h2>Prix</h2>
+<ul>
+  <li><strong>Leapmotor T03</strong> : ~<strong>18 900 €</strong> (avant bonus ~<strong>14 900 €</strong>)</li>
+  <li><strong>Dacia Spring Essential</strong> : ~<strong>16 900 €</strong> (avant bonus ~<strong>12 900 €</strong>)</li>
+  <li><strong>Dacia Spring Extreme</strong> : ~<strong>19 900 €</strong></li>
+</ul>
+<p>La Spring Essential reste la moins chère du marché. Mais à 2 000 € de plus, le T03 offre plus de puissance, plus d'autonomie, meilleur équipement et meilleure sécurité. Comparé à la Spring Extreme (mieux équipée), le T03 est même moins cher et mieux doté.</p>
+
+<h2>Verdict : le T03, meilleure affaire du marché</h2>
+<p>La <strong>Dacia Spring</strong> garde son attrait pour les budgets les plus serrés : c'est la voiture électrique la moins chère d'Europe, point. Pour un usage exclusivement urbain et de courts trajets, elle fait le travail.</p>
+<p>Le <strong>Leapmotor T03</strong> est cependant le <strong>meilleur rapport qualité-prix du segment</strong>. Plus puissant, plus endurant, mieux équipé et mieux noté en sécurité pour un prix à peine supérieur. L'alliance avec Stellantis garantit un réseau SAV et un suivi européen. Pour 2 000 € de plus, vous gagnez sur tous les critères objectifs.</p>
+`,
     author: 'Rédaction Véhicules Chinois',
   },
   {
@@ -1422,6 +1570,44 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'comparatif',
     publishedAt: '2025-09-08T09:00:00+02:00',
     readingTime: 8,
+    body: `
+<h2>BYD Han vs Mercedes EQE : quand la Chine défie Stuttgart</h2>
+<p>La berline de luxe électrique est le terrain de jeu historique de Mercedes. Avec l'<strong>EQE</strong>, Stuttgart propose l'héritière électrique de la Classe E — confort absolu, finition irréprochable, étoile à trois branches. Mais <strong>BYD</strong>, premier constructeur mondial de véhicules électriques, ose l'affronter avec la <strong>Han</strong>, berline flagship dotée de la batterie Blade et d'un prix 20 000 € inférieur. Le luxe chinois peut-il tenir la comparaison ?</p>
+
+<h2>Design : la Han Dragon Face contre l'élégance Mercedes</h2>
+<p>La BYD Han arbore le <strong>design Dragon Face</strong> caractéristique de la marque : lignes fluides, calandre fermée avec motif en écailles, et une silhouette fastback élégante. À <strong>4,99 m</strong>, c'est une grande berline imposante sur la route. Les feux traversants à l'arrière et les poignées affleurantes complètent un ensemble cohérent et moderne.</p>
+<p>La Mercedes EQE joue la carte de la pureté avec sa silhouette en arc de cercle (Cx de 0,22), son absence de calandre et ses surfaces lisses et fluides. À <strong>4,95 m</strong>, elle adopte le langage de design "one-bow" de Mercedes. C'est une berline qui respire le calme et la sérénité — typiquement Mercedes.</p>
+
+<h2>Performances</h2>
+<p>La <strong>BYD Han</strong> en version bimotor développe <strong>517 ch</strong> avec un 0-100 km/h en <strong>3,9 secondes</strong>. Le couple de 700 Nm offre des relances foudroyantes. La version propulsion (308 ch) est aussi disponible pour un usage plus posé.</p>
+<p>La <strong>Mercedes EQE 350+</strong> développe <strong>292 ch</strong> avec un 0-100 en 6,4 secondes. La version <strong>AMG EQE 43</strong> monte à 476 ch et 4,2 secondes. Sur les performances pures, la BYD Han bimotor devance même l'AMG pour un prix bien inférieur.</p>
+
+<h2>Autonomie et batterie</h2>
+<p>La Han embarque une batterie <strong>Blade LFP de 85,4 kWh</strong> pour environ <strong>521 km WLTP</strong>. La technologie Blade garantit une durabilité exceptionnelle : 3 000 à 5 000 cycles avant 80 % de capacité. La recharge DC atteint 120 kW — correct mais pas exceptionnel.</p>
+<p>L'EQE 350+ dispose d'une batterie NMC de <strong>90,6 kWh</strong> pour <strong>654 km WLTP</strong> — un avantage considérable de 130 km. La recharge DC monte à <strong>170 kW</strong>. Mercedes excelle ici grâce à son efficience aérodynamique et sa gestion thermique sophistiquée.</p>
+
+<h2>Confort et intérieur</h2>
+<p>L'intérieur de la Han est impressionnant pour le prix. Écran rotatif de <strong>15,6 pouces</strong>, combiné numérique de 12,3 pouces, sellerie cuir Nappa, sièges chauffants/ventilés, système audio Dynaudio à 12 haut-parleurs, suspension adaptative. L'ensemble est bien assemblé et les matériaux sont de qualité supérieure à ce qu'on attend dans cette gamme de prix.</p>
+<p>La Mercedes EQE joue dans une autre ligue sur le confort. Le <strong>MBUX Hyperscreen</strong> optionnel (une dalle de 141 cm couvrant toute la largeur du tableau de bord) est spectaculaire. L'insonorisation est remarquable, les sièges multicontours avec massage sont un délice, et la qualité de finition atteint un niveau que seul le savoir-faire centenaire de Mercedes peut offrir. Le système audio Burmester en option est parmi les meilleurs du marché.</p>
+
+<h2>Conduite</h2>
+<p>La Mercedes EQE excelle sur <strong>le confort de roulement</strong>. La suspension pneumatique AIRMATIC filtre les imperfections avec un moelleux incomparable. L'insonorisation est parmi les meilleures du marché — on roule dans un cocon. La direction est douce, progressive, typiquement Mercedes.</p>
+<p>La BYD Han offre un confort correct mais plus ferme. La suspension adaptative fait un bon travail, mais l'insonorisation reste un cran en dessous de Mercedes, notamment sur autoroute. Le châssis est bien équilibré et la Han se montre étonnamment agile pour sa taille, mais elle ne procure pas le même sentiment de perfection mécanique que la Mercedes.</p>
+
+<h2>Prix : l'écart qui fait réfléchir</h2>
+<ul>
+  <li><strong>BYD Han propulsion</strong> : ~<strong>46 000 €</strong></li>
+  <li><strong>Mercedes EQE 350+</strong> : ~<strong>67 000 €</strong></li>
+  <li><strong>BYD Han bimotor AWD</strong> : ~<strong>52 000 €</strong></li>
+  <li><strong>Mercedes AMG EQE 43</strong> : ~<strong>85 000 €</strong></li>
+</ul>
+<p>La BYD Han coûte <strong>21 000 € de moins</strong> que la Mercedes en entrée de gamme, et <strong>33 000 € de moins</strong> en version sportive. Pour cet écart, on peut rouler en Han bimotor (517 ch) et financer 5 ans d'énergie et d'entretien.</p>
+
+<h2>Verdict : le prix contre la perfection</h2>
+<p>La <strong>Mercedes EQE</strong> est objectivement la meilleure berline de luxe électrique testée ici. Confort supérieur, autonomie supérieure, finition supérieure, réseau SAV supérieur. C'est le choix de celui qui veut le meilleur et peut se le permettre.</p>
+<p>La <strong>BYD Han</strong> est le choix de l'acheteur intelligent qui refuse de payer le premium de l'étoile. Plus puissante, mieux équipée de série, avec une batterie plus durable et un prix de 20 000 à 33 000 € inférieur. Pour 90 % des usages quotidiens, elle satisfera pleinement.</p>
+<p>Notre recommandation : essayez les deux. Si la différence de confort vous semble justifier l'écart de prix, prenez la Mercedes. Si vous sortez de la Han en vous disant "c'est largement suffisant", vous venez d'économiser le prix d'une petite voiture supplémentaire.</p>
+`,
     author: 'Rédaction Véhicules Chinois',
   },
   {
@@ -1584,6 +1770,41 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'technologie',
     publishedAt: '2025-07-07T09:00:00+02:00',
     readingTime: 7,
+    body: `
+<h2>Deux visions radicalement opposées de la recharge</h2>
+<p>Dans l'univers de la voiture électrique, la question de la recharge reste le nerf de la guerre. Deux constructeurs proposent des réponses diamétralement opposées : <strong>NIO</strong> avec ses stations d'échange de batterie Power Swap, et <strong>Tesla</strong> avec son réseau de Superchargeurs. D'un côté, un robot remplace votre batterie en trois minutes sans quitter votre siège. De l'autre, vous branchez un câble et récupérez 80 % en quinze à vingt minutes. Pour les longs trajets autoroutiers, quelle solution l'emporte ?</p>
+
+<h2>NIO Power Swap : le swap en 3 minutes chrono</h2>
+<p>Le concept de NIO est simple et spectaculaire. Vous entrez dans une station Power Swap, un <strong>robot automatisé</strong> retire la batterie déchargée par le dessous du véhicule et installe une batterie pleine. L'opération dure environ <strong>3 minutes</strong>, soit moins qu'un plein d'essence. Avec les stations de 3ᵉ génération (Power Swap 3.0), chaque station peut traiter jusqu'à <strong>408 échanges par jour</strong> et stocke entre 13 et 21 batteries prêtes à l'emploi.</p>
+<p>Le conducteur n'a même pas besoin de sortir de la voiture. L'ensemble du processus est piloté par l'application NIO : réservation, positionnement sur la plateforme, échange automatique. C'est l'expérience la plus proche du plein d'essence classique qu'offre un véhicule électrique.</p>
+
+<h2>Tesla Supercharger V3/V4 : la puissance du câble</h2>
+<p>Tesla a construit le <strong>plus grand réseau de recharge rapide au monde</strong> : plus de <strong>50 000 bornes</strong> réparties sur tous les continents. Les Superchargeurs V3 délivrent jusqu'à <strong>250 kW</strong>, tandis que les V4 en cours de déploiement atteignent 350 kW pour les véhicules compatibles. En pratique, une Model 3 ou Model Y récupère <strong>80 % en 15 à 20 minutes</strong> sur V3.</p>
+<p>L'expérience est d'une simplicité redoutable : brancher le câble, la voiture s'identifie automatiquement, la facturation est gérée via le compte Tesla. Pas d'application tierce, pas de carte RFID, pas de mauvaise surprise.</p>
+
+<h2>Vitesse : avantage net à NIO</h2>
+<p>Sur le critère de la rapidité pure, <strong>NIO l'emporte sans discussion</strong>. Trois minutes contre quinze à vingt : sur un Paris-Marseille avec deux arrêts, cela représente <strong>30 à 35 minutes gagnées</strong>. Cependant, il faut nuancer : les 3 minutes supposent qu'une batterie chargée est disponible. Aux heures de pointe, une file d'attente peut se former. Tesla propose souvent 8 à 20 bornes par station, diluant les temps d'attente.</p>
+
+<h2>Réseau : Tesla domine largement</h2>
+<p>C'est le point faible majeur de NIO. Le réseau Power Swap compte environ <strong>2 400 stations</strong>, concentrées très majoritairement en Chine. En Europe, NIO dispose d'une <strong>cinquantaine de stations</strong>, principalement en Norvège, aux Pays-Bas, en Allemagne et en Scandinavie. La France n'en compte qu'une poignée.</p>
+<p>Tesla, avec ses <strong>50 000+ bornes</strong> sur quasiment toutes les autoroutes européennes, offre une <strong>liberté de mouvement incomparable</strong>. Pour un automobiliste européen, cette réalité est déterminante : un swap rapide ne sert à rien si la station la plus proche est à 500 km.</p>
+
+<h2>Modèle économique : abonnement vs paiement à l'usage</h2>
+<p>NIO propose le <strong>BaaS (Battery as a Service)</strong> : vous achetez la voiture sans la batterie (prix réduit de plusieurs milliers d'euros), puis souscrivez un abonnement d'environ <strong>128 €/mois</strong> pour la batterie 75 kWh, échanges inclus. Coût fixe, prévisible, couvrant l'usure naturelle.</p>
+<p>Chez Tesla, la recharge se paie <strong>au kWh</strong> (entre 0,30 € et 0,55 €/kWh en France). Un plein de 60 kWh coûte entre 18 et 33 €. Moins cher pour les petits rouleurs, mais le BaaS devient avantageux au-delà de 1 500 km/mois — et il élimine le risque de dégradation de batterie.</p>
+
+<h2>Flexibilité batterie : un atout exclusif de NIO</h2>
+<p>Grâce au swap, un propriétaire NIO peut passer d'une batterie <strong>75 kWh</strong> à une <strong>100 kWh</strong> simplement en changeant d'abonnement. Besoin d'autonomie pour un long voyage ? Upgrade temporaire. Retour à la ville ? Retour à la batterie standard. Cette modularité est impossible avec Tesla ou tout autre constructeur : la batterie est intégrée au châssis, figée pour toute la vie du véhicule.</p>
+
+<h2>Limites du swap : écosystème fermé</h2>
+<p>Le système NIO est <strong>entièrement propriétaire</strong> : seuls les véhicules NIO peuvent utiliser les stations Power Swap. Construire une station coûte entre <strong>500 000 € et 1 million €</strong>, bien plus qu'une rangée de bornes. Ce coût freine le déploiement hors de Chine. Le swap impose aussi un format de batterie standardisé, contraignant le design des véhicules.</p>
+
+<h2>Avantages de la recharge classique : universalité</h2>
+<p>La recharge par câble offre un avantage fondamental : l'<strong>universalité</strong>. Avec une prise CCS, vous rechargez sur n'importe quelle borne publique, à domicile, au bureau, au supermarché. La <strong>recharge à domicile</strong> (wallbox ~1 000 €) permet de partir chaque matin avec une batterie pleine, sans jamais passer par une station. Le swap n'offre pas cette flexibilité domestique.</p>
+
+<h2>Verdict : tout dépend de votre géographie</h2>
+<p>En <strong>Chine</strong>, le swap NIO est une solution brillante : réseau dense, arrêts ultra-courts, BaaS économique. En <strong>Europe</strong>, Tesla offre la seule infrastructure de recharge rapide véritablement fiable pour les longs trajets. Le meilleur système n'est pas le plus rapide — c'est celui qui est <strong>disponible quand vous en avez besoin</strong>. Et sur ce critère, Tesla garde une avance considérable. Pour l'instant.</p>
+`,
     author: 'Rédaction Véhicules Chinois',
   },
   {
