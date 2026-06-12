@@ -2496,6 +2496,27 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-06-16T09:00:00+02:00',
     readingTime: 6,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Un moteur électrique hors normes pour une citadine</h2>
+<p>La <strong>MG3 Hybrid+</strong> embarque un moteur électrique de <strong>100 kW (136 ch)</strong> intégré à sa transmission hybride. C'est considérablement plus puissant que ses concurrentes directes : la Renault Clio E-Tech (36 kW), la Toyota Yaris Cross (59 kW) ou la Honda Jazz (80 kW). Comment MG a-t-il réussi ce tour de force dans une citadine à moins de 20 000 € ?</p>
+
+<h2>L'architecture hybride 3-speed DHT</h2>
+<p>Le secret réside dans la transmission <strong>DHT (Dedicated Hybrid Transmission)</strong> à 3 rapports développée par SAIC Motor. Contrairement aux systèmes hybrides Toyota (CVT planétaire) ou Renault (boîte sans embrayage), le système MG utilise une boîte à <strong>3 rapports mécaniques</strong> dédiée au moteur électrique, couplée au 1.5L essence 4 cylindres.</p>
+<p>Cette architecture permet au moteur électrique de fonctionner dans sa plage d'efficience optimale grâce aux 3 rapports, tout en offrant une puissance combinée de <strong>194 ch</strong> — un record absolu pour une citadine hybride.</p>
+
+<h2>Fonctionnement en détail</h2>
+<ul>
+<li><strong>Mode EV pur</strong> : le moteur électrique seul propulse la voiture jusqu'à 80 km/h environ, en utilisant les 3 rapports. L'autonomie EV est limitée (2-3 km, batterie de 1,83 kWh) mais suffisante pour le parking ou les embouteillages.</li>
+<li><strong>Mode série</strong> : le moteur essence tourne à régime optimal pour recharger la batterie, tandis que le moteur électrique propulse le véhicule. Idéal en ville.</li>
+<li><strong>Mode parallèle</strong> : les deux moteurs entraînent les roues simultanément pour les accélérations franches et les montées. C'est ici que les 194 ch se font sentir.</li>
+</ul>
+
+<h2>Avantages concrets</h2>
+<p>Cette puissance électrique supérieure se traduit par des <strong>reprises plus vives</strong> que toutes les citadines hybrides du marché. Le 80-120 km/h (dépassement autoroutier) est expédié avec une autorité surprenante. La consommation reste contenue à <strong>4,4 l/100 km</strong> grâce à la gestion intelligente des modes.</p>
+
+<h2>Pourquoi les autres ne font pas pareil ?</h2>
+<p>Toyota utilise une architecture planétaire éprouvée depuis 25 ans — changer serait coûteux et risqué. Renault a développé sa propre solution sans embrayage. Le système DHT 3 rapports de MG est plus complexe mécaniquement mais offre une meilleure plage de puissance. C'est un avantage technologique réel que SAIC Motor a développé en investissant massivement dans la R&D hybride.</p>
+`,
   },
   {
     slug: 'hyperos-xiaomi-voiture-integration-smartphone',
@@ -2746,6 +2767,29 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-05-12T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>La prochaine révolution de la propulsion électrique</h2>
+<p>La <strong>Xiaomi SU7 Ultra</strong> intègre une technologie qui pourrait redéfinir l'architecture des voitures électriques : les <strong>moteurs dans les roues</strong> (in-wheel motors). Plutôt que de placer les moteurs au centre du véhicule avec des arbres de transmission, chaque roue contient son propre moteur. C'est une révolution comparable au passage du moteur à combustion centralisé au moteur électrique.</p>
+
+<h2>Comment ça fonctionne</h2>
+<p>Un moteur in-wheel est un <strong>moteur synchrone à aimants permanents</strong> intégré directement dans le moyeu de la roue. La bobine et le rotor sont contenus dans un boîtier compact d'environ 15 kg, avec un entraînement direct (pas de réducteur) ou un mini-réducteur planétaire intégré. Chaque moteur est contrôlé individuellement par son propre onduleur.</p>
+<p>Dans la SU7 Ultra, Xiaomi utilise un système <strong>quad-motor</strong> : un moteur par roue, pour une puissance combinée dépassant les <strong>1 500 ch</strong>. Le couple est distribué individuellement à chaque roue en temps réel, des milliers de fois par seconde.</p>
+
+<h2>Les avantages révolutionnaires</h2>
+<ul>
+<li><strong>Vectorisation de couple ultime</strong> : chaque roue reçoit exactement le couple nécessaire. En virage, la roue extérieure peut recevoir plus de couple tandis que l'intérieure ralentit. C'est un ESP mécanique actif d'une précision inégalable.</li>
+<li><strong>Suppression de la transmission</strong> : plus d'arbres de transmission, de différentiels, de demi-arbres. Le gain de poids et d'espace est considérable — le plancher peut être entièrement plat.</li>
+<li><strong>Réponse instantanée</strong> : sans inertie de transmission, le couple arrive aux roues en moins de 5 millisecondes — 10x plus rapide qu'un système classique.</li>
+<li><strong>Freinage régénératif optimisé</strong> : chaque roue récupère l'énergie individuellement, augmentant l'efficience de 15-20 % par rapport à un système centralisé.</li>
+</ul>
+
+<h2>Les défis techniques</h2>
+<p>Les moteurs in-wheel augmentent les <strong>masses non suspendues</strong> (la partie qui n'est pas amortie par la suspension), ce qui peut dégrader le confort. Xiaomi a résolu ce problème avec des moteurs ultra-légers (12 kg par unité) et une suspension adaptative active qui compense en temps réel.</p>
+<p>La <strong>dissipation thermique</strong> est un autre défi : les moteurs sont proches des freins et exposés aux chocs routiers. Xiaomi utilise un refroidissement liquide intégré et des matériaux résistants aux vibrations.</p>
+
+<h2>Xiaomi vs la concurrence</h2>
+<p>Protean Electric et Elaphe développent des moteurs in-wheel depuis des années sans percée commerciale. Xiaomi est le premier constructeur à les intégrer dans un véhicule de série haute performance. C'est un pari technologique audacieux qui, s'il réussit, pourrait rendre obsolète l'architecture moteur centralisé + transmission qui domine depuis l'invention de la voiture électrique.</p>
+`,
   },
 
   // --- Budget, Achat & Revente (articles.md #51-60) ---
@@ -2810,6 +2854,32 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-04-28T09:00:00+02:00',
     readingTime: 6,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Les garanties constructeurs chinois décryptées</h2>
+<p>L'un des arguments massue des constructeurs chinois en Europe, c'est la <strong>garantie étendue</strong>. Là où la plupart des européens offrent 2 à 3 ans, les chinois proposent 5, 7, voire 10 ans. Mais que couvrent réellement ces garanties ? Les petites lignes réservent parfois des surprises.</p>
+
+<h2>Tableau comparatif des garanties</h2>
+<ul>
+<li><strong>MG</strong> : 7 ans / 150 000 km (véhicule complet) + 7 ans / 150 000 km (batterie HV). La plus généreuse du marché en couverture complète.</li>
+<li><strong>BYD</strong> : 6 ans / 150 000 km (véhicule) + 8 ans / 200 000 km (batterie). Excellente couverture batterie.</li>
+<li><strong>Omoda/Jaecoo</strong> : 7 ans / 150 000 km (véhicule) + 8 ans / 160 000 km (batterie). Aligné sur MG.</li>
+<li><strong>Zeekr</strong> : 5 ans / 120 000 km (véhicule) + 8 ans / 200 000 km (batterie). Moins long sur le véhicule.</li>
+<li><strong>NIO</strong> : 5 ans / 150 000 km (véhicule) + garantie à vie batterie avec BaaS. Le BaaS change la donne.</li>
+<li><strong>Leapmotor</strong> : 5 ans / 150 000 km via Stellantis + 8 ans / 160 000 km (batterie).</li>
+</ul>
+
+<h2>Ce que couvre réellement la garantie</h2>
+<p>La garantie véhicule couvre les <strong>défauts de fabrication</strong> sur l'ensemble des composants mécaniques, électriques et électroniques. Les pièces d'usure (plaquettes, pneus, essuie-glaces) sont généralement exclues après 1-2 ans. La garantie batterie couvre une capacité minimale de <strong>70 %</strong> de la capacité initiale (80 % chez BYD).</p>
+
+<h2>Conditions et exclusions</h2>
+<p>Attention aux conditions : la plupart des garanties exigent un <strong>entretien dans le réseau agréé</strong> avec des intervalles respectés. Un entretien manqué peut annuler la garantie. Les modifications non homologuées (tuning, reprogrammation) entraînent une déchéance immédiate. Certaines marques excluent aussi les dommages liés à la recharge sur bornes non homologuées.</p>
+
+<h2>La garantie NIO BaaS : un cas unique</h2>
+<p>Avec le service <strong>Battery as a Service</strong>, la batterie n'appartient pas au propriétaire — elle est louée. NIO garantit donc la batterie <strong>à vie</strong> : si elle tombe sous 70 % de capacité, elle est remplacée gratuitement lors du prochain swap. C'est la garantie batterie la plus rassurante du marché, mais elle implique un abonnement mensuel.</p>
+
+<h2>Verdict</h2>
+<p>En termes de couverture pure, <strong>MG</strong> et <strong>Omoda/Jaecoo</strong> offrent les meilleures garanties véhicule (7 ans). Pour la batterie, <strong>NIO BaaS</strong> est imbattable avec sa garantie à vie. <strong>BYD</strong> offre le meilleur équilibre global. Dans tous les cas, les constructeurs chinois surpassent largement les européens sur ce critère — c'est leur argument de vente numéro un pour rassurer les acheteurs hésitants.</p>
+`,
   },
   {
     slug: 'bonus-ecologique-2026-voitures-chinoises-eligibles',
@@ -2822,6 +2892,35 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-04-21T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le bonus écologique en 2026 : un parcours d'obstacles pour les chinoises</h2>
+<p>Le <strong>bonus écologique français</strong> a été profondément remanié en 2024-2025 avec l'introduction du <strong>score environnemental</strong>. Ce score prend en compte l'empreinte carbone de la fabrication du véhicule, pénalisant les voitures produites dans des pays à mix énergétique carboné — la Chine en tête. Quelles voitures chinoises y ont encore droit en 2026 ?</p>
+
+<h2>Le score environnemental : comment ça marche</h2>
+<p>Le score évalue l'empreinte carbone de la <strong>fabrication</strong> (extraction des matériaux, production de la batterie, assemblage) et du <strong>transport</strong> du véhicule. Les voitures produites en Europe avec de l'énergie décarbonée obtiennent un meilleur score. Résultat : la plupart des véhicules fabriqués en Chine sont exclus du bonus de <strong>4 000 €</strong> (ou 7 000 € sous conditions de revenus).</p>
+
+<h2>Les modèles chinois encore éligibles</h2>
+<ul>
+<li><strong>Leapmotor T03 et C10</strong> : assemblés en Pologne par l'usine Stellantis, ils obtiennent le score minimum requis. Bonus de 4 000 € applicable.</li>
+<li><strong>MG4</strong> (certaines versions) : MG étudie un assemblage en Europe qui pourrait rendre certaines versions éligibles courant 2026.</li>
+<li><strong>Citroën ë-C3</strong> (plateforme Leapmotor) : production européenne prévue en Slovaquie, éligible au bonus.</li>
+</ul>
+
+<h2>Les modèles exclus</h2>
+<p>La majorité des véhicules BYD, NIO, XPeng, Zeekr, Omoda et GWM importés directement de Chine sont <strong>exclus du bonus</strong>. C'est un handicap de 4 000 à 7 000 € qui s'ajoute aux droits de douane européens (jusqu'à 35 % pour BYD).</p>
+
+<h2>Les stratégies des constructeurs</h2>
+<p>Face à cette situation, les constructeurs chinois accélèrent leur <strong>implantation industrielle en Europe</strong> :</p>
+<ul>
+<li><strong>BYD</strong> : usine en Hongrie (Szeged) prévue pour 2026-2027</li>
+<li><strong>Chery</strong> : partenariat avec l'usine Nissan de Barcelone</li>
+<li><strong>Leapmotor</strong> : assemblage en Pologne via Stellantis (déjà opérationnel)</li>
+<li><strong>SAIC/MG</strong> : discussions pour une production en Europe</li>
+</ul>
+
+<h2>Conseil d'achat</h2>
+<p>Si le bonus est déterminant dans votre budget, privilégiez les <strong>Leapmotor assemblés en Europe</strong> ou attendez l'arrivée des BYD européens en 2027. Sinon, comparez le coût total : même sans bonus, une MG4 ou BYD Atto 3 reste souvent moins chère qu'une Renault Mégane E-Tech ou VW ID.3 avec bonus. Le calcul global compte plus que le bonus seul.</p>
+`,
   },
   {
     slug: 'location-vs-achat-lynk-co-nouvelle-consommation',
@@ -2834,6 +2933,42 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-04-14T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>La fin de la propriété automobile ?</h2>
+<p><strong>Lynk & Co</strong> a lancé un pavé dans la mare de l'industrie automobile européenne : et si on n'avait plus besoin de posséder une voiture ? Avec son modèle d'<strong>abonnement mensuel sans engagement</strong>, la marque sino-suédoise (groupe Geely/Volvo) remet en question un siècle de propriété automobile. Décryptage.</p>
+
+<h2>Le modèle Lynk & Co : l'essentiel</h2>
+<p>Pour <strong>550 €/mois</strong> (tarif 2026), vous obtenez un Lynk & Co 01 PHEV avec :</p>
+<ul>
+<li>Assurance tous risques incluse</li>
+<li>Entretien et réparations couverts</li>
+<li>Assistance routière 24h/24</li>
+<li>1 250 km/mois inclus (0,15 €/km au-delà)</li>
+<li>Résiliation à tout moment, sans frais</li>
+</ul>
+<p>Pas d'apport, pas de durée d'engagement, pas de mauvaise surprise. Vous pouvez aussi partager votre voiture via l'app quand vous ne l'utilisez pas — et gagner de l'argent.</p>
+
+<h2>Location vs Achat : le calcul sur 3 ans</h2>
+<p><strong>Abonnement Lynk & Co</strong> : 550 € × 36 mois = <strong>19 800 €</strong> tout compris.</p>
+<p><strong>Achat d'un SUV PHEV comparable</strong> (ex: Volvo XC40 Recharge) :</p>
+<ul>
+<li>Prix d'achat : 47 000 €</li>
+<li>Assurance : ~1 200 €/an × 3 = 3 600 €</li>
+<li>Entretien : ~600 €/an × 3 = 1 800 €</li>
+<li>Valeur résiduelle après 3 ans : ~28 000 €</li>
+<li>Coût net : 47 000 + 3 600 + 1 800 - 28 000 = <strong>24 400 €</strong></li>
+</ul>
+<p>L'abonnement est <strong>4 600 € moins cher</strong> sur 3 ans, avec zéro risque de décote et une flexibilité totale.</p>
+
+<h2>Pour qui c'est fait ?</h2>
+<p>L'abonnement convient parfaitement aux <strong>urbains</strong> qui roulent moins de 15 000 km/an, aux <strong>expatriés</strong> qui ne savent pas combien de temps ils resteront, aux <strong>jeunes actifs</strong> qui changent de ville fréquemment, et à tous ceux qui détestent les démarches administratives. En revanche, les gros rouleurs (>20 000 km/an) seront pénalisés par le forfait kilométrique.</p>
+
+<h2>Les limites</h2>
+<p>Un seul modèle disponible (le 01, bientôt le 02). Pas de personnalisation poussée. Et psychologiquement, certains acheteurs ont besoin de « posséder » leur voiture. Enfin, sur 5 ans et plus, l'achat redevient avantageux.</p>
+
+<h2>Verdict</h2>
+<p>Lynk & Co n'a pas inventé la location automobile, mais il l'a rendue <strong>simple, transparente et sans engagement</strong>. C'est un modèle qui va inspirer d'autres constructeurs chinois — et qui pourrait bien devenir la norme pour la nouvelle génération d'automobilistes.</p>
+`,
   },
   {
     slug: 'entretien-voiture-chinoise-france-reseaux-sav',
@@ -2846,6 +2981,28 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-04-07T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le SAV chinois en France : état des lieux</h2>
+<p>La question du service après-vente est le frein numéro un à l'achat d'une voiture chinoise en France. « Si ma BYD tombe en panne, qui la répare ? » C'est légitime. Voici la cartographie complète des réseaux SAV par marque en 2026.</p>
+
+<h2>MG : le réseau le plus développé</h2>
+<p>MG Motor France dispose de <strong>~300 points de vente et de service</strong> couvrant l'ensemble du territoire. Les groupes de distribution majeurs (Faurie, Jean Rouyer, Amplitude) ont intégré MG à leurs gammes. Les délais de prise en charge pour un entretien courant sont de <strong>3-7 jours</strong>, comparables aux marques européennes. La disponibilité des pièces s'est considérablement améliorée grâce à l'entrepôt central de Roissy.</p>
+
+<h2>BYD : montée en puissance rapide</h2>
+<p>BYD France compte environ <strong>150 points de vente agréés</strong> en 2026, avec un objectif de 200 fin d'année. Le partenaire principal est le groupe Emil Frey (premier distributeur européen). Les centres de formation BYD certifient les techniciens sur les spécificités de la batterie Blade et du système DM-i. Délai moyen de prise en charge : <strong>5-10 jours</strong>.</p>
+
+<h2>Omoda/Jaecoo (Chery) : le nouveau venu structuré</h2>
+<p>Le groupe Chery a ouvert <strong>~100 points</strong> en France via des partenariats avec des groupes de distribution établis. La stratégie est d'adosser Omoda/Jaecoo à des concessions multimarques existantes pour minimiser les coûts d'implantation. Le SAV est encore en rodage mais la garantie 7 ans rassure.</p>
+
+<h2>Leapmotor : l'avantage Stellantis</h2>
+<p>Leapmotor bénéficie du <strong>réseau Stellantis</strong> — c'est-à-dire les concessions Citroën, Peugeot, Fiat, Opel. C'est le réseau SAV le plus dense accessible à une marque chinoise en France, avec <strong>1 000+ points potentiels</strong>. L'entretien est assuré par des techniciens déjà formés aux véhicules électriques Stellantis.</p>
+
+<h2>NIO, Zeekr, XPeng : les marques premium encore rares</h2>
+<p>NIO dispose de <strong>NIO Houses</strong> dans quelques grandes villes (Paris, Amsterdam, Berlin). Zeekr et XPeng sont distribués via des partenaires sélectifs. Pour ces marques premium, le SAV passe souvent par des <strong>services mobiles</strong> (technicien qui vient à domicile) et des centres de service spécialisés peu nombreux.</p>
+
+<h2>Conseils pratiques</h2>
+<p>Avant d'acheter, vérifiez la <strong>distance du point SAV le plus proche</strong>. Privilégiez les marques avec un réseau établi (MG, BYD, Leapmotor/Stellantis) si vous habitez en zone rurale. Et conservez toujours votre carnet d'entretien à jour dans le réseau officiel pour maintenir la garantie.</p>
+`,
   },
   {
     slug: 'prix-pieces-detachees-mg-vs-renault-apres-vente',
@@ -2858,6 +3015,30 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-03-31T09:00:00+02:00',
     readingTime: 6,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Les pièces chinoises sont-elles plus chères ?</h2>
+<p>L'un des arguments souvent avancés contre les voitures chinoises : les <strong>pièces détachées seraient hors de prix</strong>. Nous avons comparé les tarifs des pièces MG (la marque chinoise la plus répandue en France) avec ceux de Renault sur des modèles comparables. Les résultats sont surprenants.</p>
+
+<h2>Comparatif pièce par pièce (MG4 vs Renault Mégane E-Tech)</h2>
+<ul>
+<li><strong>Disques de frein avant</strong> : MG4 ~85 €/paire — Mégane E-Tech ~95 €/paire. Avantage MG.</li>
+<li><strong>Plaquettes avant</strong> : MG4 ~45 € — Mégane ~50 €. Quasi équivalent.</li>
+<li><strong>Filtre habitacle</strong> : MG4 ~18 € — Mégane ~15 €. Avantage Renault.</li>
+<li><strong>Batterie 12V</strong> : MG4 ~120 € — Mégane ~90 €. Avantage Renault.</li>
+<li><strong>Essuie-glaces</strong> : MG4 ~35 € — Mégane ~30 €. Quasi équivalent.</li>
+<li><strong>Rétroviseur complet</strong> : MG4 ~280 € — Mégane ~250 €. Léger avantage Renault.</li>
+<li><strong>Pare-brise</strong> : MG4 ~450 € — Mégane ~400 €. Avantage Renault.</li>
+</ul>
+
+<h2>Le constat</h2>
+<p>Les pièces d'usure courante (freins, filtres) sont à <strong>prix comparables</strong>. Les pièces de carrosserie et accessoires sont <strong>10-20 % plus chères</strong> chez MG, principalement à cause de la logistique d'importation. Les délais de livraison sont le vrai point de friction : <strong>2-5 jours</strong> pour Renault depuis l'entrepôt national, <strong>5-15 jours</strong> pour MG si la pièce n'est pas en stock local.</p>
+
+<h2>Pièces adaptables : une alternative</h2>
+<p>Les pièces adaptables (non-originales mais compatibles) sont de plus en plus disponibles pour les MG. Des équipementiers comme Bosch, TRW et Mann+Hummel fabriquent des filtres, plaquettes et disques compatibles MG à des prix inférieurs aux pièces d'origine. C'est un marché en pleine expansion.</p>
+
+<h2>Verdict</h2>
+<p>L'entretien courant d'une MG coûte <strong>sensiblement la même chose</strong> qu'une Renault. Les pièces de carrosserie sont légèrement plus chères et moins disponibles. Sur le coût total d'entretien sur 5 ans, l'écart est inférieur à 500 € — largement compensé par le prix d'achat inférieur et la garantie de 7 ans.</p>
+`,
   },
   {
     slug: 'leasing-loa-lld-meilleures-offres-marques-chinoises',
@@ -2870,6 +3051,28 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-03-24T09:00:00+01:00',
     readingTime: 6,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le leasing chinois : des mensualités imbattables</h2>
+<p>Les marques chinoises proposent des offres de <strong>LOA (Location avec Option d'Achat)</strong> et <strong>LLD (Location Longue Durée)</strong> parmi les plus attractives du marché. Voici les meilleures offres disponibles en France en 2026.</p>
+
+<h2>Top 5 des offres LOA</h2>
+<ul>
+<li><strong>MG4 Standard</strong> : 199 €/mois (apport 3 000 €, 36 mois, 30 000 km). L'offre phare — une compacte électrique 51 kWh à moins de 200 €.</li>
+<li><strong>MG ZS Hybrid+</strong> : 179 €/mois (apport 2 500 €, 48 mois, 40 000 km). Le SUV hybride le moins cher en LOA.</li>
+<li><strong>BYD Atto 3</strong> : 249 €/mois (apport 4 000 €, 36 mois, 30 000 km). SUV électrique premium en LOA accessible.</li>
+<li><strong>Leapmotor T03</strong> : 149 €/mois (apport 2 000 €, 48 mois, 40 000 km). La citadine électrique la moins chère en LOA, toutes marques confondues.</li>
+<li><strong>MG3 Hybrid+</strong> : 159 €/mois (apport 2 000 €, 48 mois, 60 000 km). Citadine hybride à prix imbattable.</li>
+</ul>
+
+<h2>LOA vs LLD : quelle formule choisir ?</h2>
+<p>La <strong>LOA</strong> vous permet d'acheter le véhicule en fin de contrat (option d'achat). C'est le bon choix si vous pensez garder la voiture. La <strong>LLD</strong> ne propose pas de rachat — vous rendez le véhicule. C'est le choix de la flexibilité maximale et des mensualités les plus basses.</p>
+
+<h2>Attention aux conditions</h2>
+<p>Lisez les petites lignes : <strong>kilométrage</strong> (les dépassements coûtent 0,10-0,20 €/km), <strong>état de restitution</strong> (rayures et usure facturées), <strong>assurance obligatoire</strong> tous risques. Comparez toujours le coût total (apport + mensualités + option d'achat) avec le prix d'achat comptant + financement classique.</p>
+
+<h2>Verdict</h2>
+<p>Les offres de leasing sur les marques chinoises sont <strong>30 à 40 % moins chères</strong> que les équivalentes européennes. C'est la meilleure porte d'entrée pour tester une voiture chinoise sans engagement ni risque de décote. Le Leapmotor T03 à 149 €/mois est l'affaire du moment.</p>
+`,
   },
   {
     slug: 'assurance-auto-marques-chinoises-assureurs-francais',
@@ -2882,6 +3085,37 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-03-17T09:00:00+01:00',
     readingTime: 6,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Les assureurs face aux marques chinoises</h2>
+<p>Assurer une voiture chinoise en France est parfois plus compliqué qu'il n'y paraît. Certains assureurs <strong>refusent de couvrir</strong> des marques peu connues, d'autres appliquent des <strong>surprimes</strong>. Le point sur la situation en 2026.</p>
+
+<h2>Pourquoi certains assureurs hésitent</h2>
+<p>Les assureurs calculent leurs primes en fonction de trois critères principaux : le <strong>coût de réparation</strong>, la <strong>fréquence de sinistres</strong> et la <strong>valeur de remplacement</strong>. Pour les marques chinoises récentes, les données sont insuffisantes. Résultat :</p>
+<ul>
+<li>Pièces de rechange parfois difficiles à sourcer → réparations plus longues → coût d'immobilisation plus élevé</li>
+<li>Pas d'historique de sinistralité fiable sur le marché français</li>
+<li>Valeur résiduelle incertaine pour le calcul de l'indemnisation</li>
+</ul>
+
+<h2>Les assureurs qui jouent le jeu</h2>
+<p>La majorité des grands assureurs français acceptent désormais les véhicules chinois :</p>
+<ul>
+<li><strong>MAIF, MACIF, Matmut</strong> : acceptent toutes les marques chinoises distribuées officiellement en France, sans surprime notable.</li>
+<li><strong>Allianz, AXA</strong> : acceptent MG et BYD sans difficulté. Plus restrictifs sur les marques confidentielles (Seres, Voyah).</li>
+<li><strong>Direct Assurance, L'Olivier</strong> : en ligne, acceptation large avec tarifs compétitifs basés sur le prix d'achat (souvent inférieur = prime inférieure).</li>
+</ul>
+
+<h2>Les surprimes constatées</h2>
+<p>Sur les MG et BYD, les primes sont généralement <strong>comparables</strong> aux véhicules européens de même valeur. Les MG4 et MG ZS bénéficient même parfois de primes inférieures grâce à leur prix d'achat bas. Les marques premium (NIO, Zeekr) peuvent subir une surprime de <strong>10-15 %</strong> liée au coût de réparation potentiellement élevé.</p>
+
+<h2>Conseils pour bien s'assurer</h2>
+<ul>
+<li>Comparez au moins <strong>5 devis</strong> en ligne — les écarts peuvent atteindre 30 %</li>
+<li>Vérifiez que le contrat couvre les <strong>batteries haute tension</strong> (spécifique aux VE)</li>
+<li>Optez pour une <strong>garantie valeur à neuf</strong> les 2 premières années pour compenser la décote</li>
+<li>Mentionnez la <strong>garantie constructeur 7 ans</strong> — certains assureurs réduisent la prime en conséquence</li>
+</ul>
+`,
   },
   {
     slug: 'mandataires-vs-concessions-acheter-byd-meilleur-prix',
@@ -2894,6 +3128,39 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-03-10T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Mandataire ou concession : où trouver le meilleur prix ?</h2>
+<p>Les <strong>mandataires automobiles</strong> (Aramisauto, Elite Auto, Auto-IES) proposent des remises de 10 à 20 % sur les voitures chinoises neuves. Tentant, mais est-ce sans risque ? Comparons les deux canaux d'achat pour une BYD.</p>
+
+<h2>Les mandataires : comment ça marche</h2>
+<p>Un mandataire achète des véhicules en volume auprès de concessionnaires ayant des stocks excédentaires, parfois dans d'autres pays européens. Ils répercutent les remises sur l'acheteur final. Pour les marques chinoises, les remises sont importantes car :</p>
+<ul>
+<li>Les concessions ont parfois des objectifs de vente ambitieux</li>
+<li>Certains véhicules sont importés de marchés où les prix sont plus bas</li>
+<li>Les marques chinoises cherchent à augmenter leurs volumes rapidement</li>
+</ul>
+
+<h2>Exemples de prix (juin 2026)</h2>
+<ul>
+<li><strong>BYD Atto 3</strong> : 33 990 € en concession → <strong>29 500 €</strong> chez mandataire (-13 %)</li>
+<li><strong>BYD Seal</strong> : 46 990 € en concession → <strong>41 000 €</strong> chez mandataire (-12 %)</li>
+<li><strong>MG4 Standard</strong> : 28 990 € en concession → <strong>24 500 €</strong> chez mandataire (-15 %)</li>
+</ul>
+
+<h2>Les risques du mandataire</h2>
+<ul>
+<li><strong>Garantie</strong> : la garantie constructeur s'applique normalement (c'est la loi européenne), mais certaines concessions peuvent se montrer réticentes pour l'entretien sous garantie d'un véhicule acheté ailleurs.</li>
+<li><strong>Délai</strong> : le mandataire ne dispose pas toujours du véhicule en stock. Comptez 2-8 semaines de délai.</li>
+<li><strong>Configuration</strong> : le choix de couleurs et d'options est plus limité — vous achetez ce qui est disponible.</li>
+<li><strong>SAV</strong> : en cas de problème, le mandataire n'est pas un réparateur — il faut aller en concession.</li>
+</ul>
+
+<h2>Les avantages de la concession</h2>
+<p>La concession offre un <strong>interlocuteur unique</strong> pour l'achat, la livraison, l'entretien et les réclamations. Les essais sont disponibles immédiatement. Les reprises de véhicule sont plus simples. Et la relation de confiance facilite les interventions sous garantie.</p>
+
+<h2>Verdict</h2>
+<p>Si vous êtes à l'aise avec l'achat en ligne et que le prix est votre priorité, le <strong>mandataire</strong> permet d'économiser 3 000 à 6 000 €. Si vous préférez un accompagnement personnalisé et un SAV sans friction, la <strong>concession</strong> reste le choix sûr. Dans les deux cas, vérifiez toujours que le véhicule est immatriculé en France et que la garantie constructeur est active.</p>
+`,
   },
   {
     slug: 'fiabilite-long-terme-mg4-2023-premiers-retours',
@@ -2906,6 +3173,35 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-03-03T09:00:00+01:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>3 ans avec une MG4 : le bilan réel</h2>
+<p>Les premières MG4 livrées en France fin 2022 ont désormais <strong>3 ans et 40 000 à 60 000 km</strong> au compteur. C'est le moment idéal pour dresser un premier bilan de fiabilité basé sur les retours réels des propriétaires. Nous avons compilé les témoignages de forums, groupes Facebook et enquêtes propriétaires.</p>
+
+<h2>Batterie : aucune dégradation significative</h2>
+<p>C'est la bonne nouvelle majeure. Les propriétaires de MG4 rapportent une <strong>dégradation de batterie inférieure à 5 %</strong> après 3 ans et 50 000 km en moyenne. Les batteries LFP (51 kWh) comme NMC (64 et 77 kWh) se comportent bien. La pompe à chaleur (de série sur les versions Long Range) maintient les performances hivernales.</p>
+
+<h2>Problèmes signalés</h2>
+<ul>
+<li><strong>Bruits de suspension</strong> (10-15 % des propriétaires) : claquements sur routes dégradées, généralement résolus par un resserrage ou un remplacement des biellettes de barre stabilisatrice sous garantie.</li>
+<li><strong>Mises à jour logicielles</strong> : l'infodivertissement a reçu plusieurs mises à jour OTA, parfois avec des régressions temporaires (Bluetooth, navigation). La stabilité s'est améliorée depuis la version 2.5.</li>
+<li><strong>Qualité de peinture</strong> : quelques cas de peinture fragile aux éclats de gravillons, surtout sur les couleurs claires. Un défaut cosmétique mineur.</li>
+<li><strong>Pompe à chaleur</strong> : des cas isolés de dysfonctionnement en grand froid (-10°C et moins), corrigés par mise à jour.</li>
+</ul>
+
+<h2>Ce qui fonctionne bien</h2>
+<ul>
+<li><strong>Motorisation et transmission</strong> : zéro panne moteur signalée sur l'ensemble du panel.</li>
+<li><strong>Freins</strong> : usure très faible grâce au freinage régénératif — certains propriétaires n'ont pas changé de plaquettes en 60 000 km.</li>
+<li><strong>Confort de conduite</strong> : la MG4 reste agréable à vivre après 3 ans, avec un châssis bien calibré.</li>
+<li><strong>Coût d'entretien</strong> : les visites annuelles coûtent entre 100 et 200 € — bien moins qu'un thermique équivalent.</li>
+</ul>
+
+<h2>Satisfaction globale</h2>
+<p>Les enquêtes de satisfaction indiquent un taux de <strong>85 % de propriétaires satisfaits ou très satisfaits</strong>. Les principales critiques portent sur l'infodivertissement (moins fluide que Tesla ou Hyundai) et la qualité des matériaux intérieurs. Mais le rapport qualité-prix reste l'argument numéro un cité par les propriétaires.</p>
+
+<h2>Verdict</h2>
+<p>La MG4 vieillit <strong>honorablement</strong>. Pas de panne majeure, une batterie qui tient ses promesses, et un coût de possession très bas. Les défauts sont mineurs et corrigibles. Pour une voiture à moins de 30 000 €, c'est un bilan rassurant qui confirme que les voitures chinoises peuvent être fiables sur le long terme.</p>
+`,
   },
 
   // --- Top 10 & Sélections Thématiques (articles.md #61-70) ---
