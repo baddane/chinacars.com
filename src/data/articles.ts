@@ -1483,6 +1483,24 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-11-17T09:00:00+01:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le match des SUV élus voiture de l'année</h2>
+<p>Le <strong>Renault Scenic E-Tech</strong>, élu voiture européenne de l'année 2024, affronte le <strong>BYD Atto 3 Evo</strong>, le SUV compact le plus vendu de la marque chinoise en Europe. Deux philosophies s'opposent : le savoir-faire français contre l'agressivité technologique chinoise.</p>
+
+<h2>Design et présentation</h2>
+<p>Le <strong>Scenic E-Tech</strong> réinvente le monospace en SUV compact au design épuré et moderne. La plateforme CMF-EV de Renault offre un habitacle spacieux avec un tableau de bord dominé par les écrans OpenR (12,3 + 12 pouces) intégrant Google Built-In nativement. La qualité des matériaux est au rendez-vous avec des plastiques recyclés nobles.</p>
+<p>Le <strong>BYD Atto 3 Evo</strong> mise sur un design plus expressif : calandre « Dragon Face », lignes sculptées et un intérieur original avec son écran rotatif 12,8 pouces et ses poignées de porte intérieures en forme de cordes de guitare — un détail qui divise mais qui ne laisse pas indifférent.</p>
+
+<h2>Motorisation et autonomie</h2>
+<p>Le Scenic propose deux batteries : 60 kWh (<strong>420 km WLTP</strong>) et 87 kWh (<strong>625 km WLTP</strong>). Le moteur unique de 220 ch offre des performances suffisantes (0-100 en 8,4 s). La recharge rapide atteint 150 kW.</p>
+<p>L'Atto 3 Evo embarque une batterie Blade de 60,5 kWh pour <strong>420 km WLTP</strong> et un moteur de 204 ch. Pas de version grande batterie, mais un prix d'appel nettement inférieur. La recharge plafonne à 88 kW DC — le point faible du BYD.</p>
+
+<h2>Technologies et sécurité</h2>
+<p>Le Scenic excelle en sécurité avec <strong>5 étoiles Euro NCAP</strong> et une suite ADAS complète. Le système Google Built-In (Maps, Assistant, Play Store) est plus intuitif que bien des interfaces propriétaires. Le BYD Atto 3 Evo riposte avec un équipement de série plus généreux : pompe à chaleur, sièges chauffants et ventilés, toit panoramique — tout cela en finition standard.</p>
+
+<h2>Prix et verdict</h2>
+<p>Le <strong>Scenic E-Tech 60 kWh</strong> démarre à <strong>35 990 €</strong>, l'<strong>Atto 3 Evo</strong> à <strong>33 990 €</strong>. L'écart se creuse en faveur du BYD à équipement équivalent. Mais le Scenic grande batterie (625 km, 41 700 €) n'a pas d'équivalent chez BYD. Pour les trajets quotidiens, le BYD est le meilleur rapport qualité-prix. Pour les grands voyageurs, le Scenic grande batterie reste imbattable.</p>
+`,
   },
   {
     slug: 'zeekr-001-vs-tesla-model-s-silicon-valley-tremble-2026',
@@ -1568,6 +1586,26 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-11-03T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le SUV hybride japonais face au challenger chinois</h2>
+<p>Le <strong>Toyota Yaris Cross</strong> est le roi incontesté des SUV urbains hybrides en Europe : fiabilité légendaire, consommation ridicule, image irréprochable. L'<strong>Omoda 5 SHS-H</strong> débarque avec une technologie hybride inédite et un rapport équipement-prix agressif. Le trône est-il menacé ?</p>
+
+<h2>Technologie hybride : deux approches</h2>
+<p>Le Toyota Yaris Cross utilise le système <strong>HSD (Hybrid Synergy Drive)</strong> éprouvé depuis 25 ans : 1.5L 3 cylindres + deux moteurs électriques, boîte CVT, 116 ch combinés. La consommation est remarquable : <strong>4,4 l/100 km</strong> en cycle mixte. Fiable comme une horloge.</p>
+<p>L'Omoda 5 SHS-H (Super Hybrid System) innove avec un <strong>1.5 turbo 4 cylindres + moteur électrique P2</strong> intégré à la boîte DHT dédiée, pour <strong>194 ch combinés</strong>. La consommation annoncée est de <strong>4,9 l/100 km</strong>. Plus puissant mais légèrement moins sobre — un compromis acceptable.</p>
+
+<h2>Espace et équipement</h2>
+<p>L'Omoda 5 (4 400 mm) est plus grand que le Yaris Cross (4 180 mm), ce qui se traduit par plus d'espace arrière et un coffre légèrement supérieur. Surtout, l'Omoda 5 SHS-H est <strong>nettement mieux équipé</strong> de série : toit panoramique, sièges chauffants/ventilés, écran 10,25 pouces, caméra 360°, régulateur adaptatif. Le Yaris Cross facture tout cela en options ou ne le propose tout simplement pas.</p>
+
+<h2>Conduite et ressenti</h2>
+<p>Le Yaris Cross est un modèle de <strong>douceur</strong> : transitions hybrides imperceptibles, direction légère, confort de suspension correct. L'Omoda 5 est plus <strong>dynamique</strong> : la puissance supérieure se fait sentir en relance, la boîte DHT est réactive. En revanche, l'isolation phonique du Toyota est supérieure.</p>
+
+<h2>Fiabilité et réseau</h2>
+<p>Toyota bénéficie d'un <strong>réseau de 600+ concessions</strong> en France et d'une réputation de fiabilité inégalée. Omoda (groupe Chery) est nouveau en Europe avec un réseau en construction. La garantie Omoda de <strong>7 ans / 150 000 km</strong> compense partiellement cette faiblesse.</p>
+
+<h2>Prix et verdict</h2>
+<p>L'<strong>Omoda 5 SHS-H</strong> à <strong>26 990 €</strong> bien équipé face au <strong>Yaris Cross</strong> à <strong>28 950 €</strong> en finition comparable. Pour le meilleur rapport prestations-prix et le plaisir de conduire, l'Omoda est le choix audacieux. Pour la tranquillité absolue et la valeur de revente, le Toyota reste la référence. Le match est serré.</p>
+`,
   },
   {
     slug: 'mg3-hybrid-vs-renault-clio-e-tech-hegemonie-francaise',
@@ -1580,6 +1618,27 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-10-27T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>La citadine la plus vendue de France est-elle menacée ?</h2>
+<p>La <strong>Renault Clio E-Tech</strong> règne sur le marché français des citadines depuis des années. La <strong>MG3 Hybrid+</strong> arrive avec un prix canon et une puissance supérieure. Ce duel oppose le patriotisme automobile français à la réalité économique chinoise.</p>
+
+<h2>Motorisation hybride : l'expérience vs la puissance</h2>
+<p>La Clio E-Tech Full Hybrid combine un <strong>1.6L essence + 2 moteurs électriques</strong> et une boîte sans embrayage héritée de la F1. Puissance : <strong>145 ch</strong>. Consommation : <strong>4,3 l/100 km</strong>. Le système est raffiné — en ville, la Clio roule souvent en tout-électrique.</p>
+<p>La MG3 Hybrid+ embarque un <strong>1.5L + moteur électrique intégré</strong> pour <strong>194 ch</strong> cumulés. Consommation : <strong>4,4 l/100 km</strong>. Plus puissante de 49 ch pour une consommation quasi identique — l'argument est redoutable. Les relances sont nettement plus franches.</p>
+
+<h2>Design et habitacle</h2>
+<p>La Clio E-Tech est une voiture élégante et bien finie : matériaux soignés, écran vertical 9,3 pouces, instrumentation numérique 10 pouces, ambiance premium pour une citadine. Le coffre de <strong>301 litres</strong> est dans la moyenne.</p>
+<p>La MG3 Hybrid+ adopte un design plus anonyme mais propose un écran 10,25 pouces, Apple CarPlay/Android Auto sans fil, et un coffre de <strong>293 litres</strong>. La finition est correcte sans atteindre le niveau Renault — quelques plastiques durs subsistent.</p>
+
+<h2>Sécurité et ADAS</h2>
+<p>La Clio E-Tech a obtenu <strong>5 étoiles Euro NCAP</strong> avec une suite ADAS complète. La MG3 Hybrid+ n'a obtenu que <strong>3 étoiles</strong> — un point noir sérieux, même si l'équipement ADAS de base est présent (freinage d'urgence, maintien de voie).</p>
+
+<h2>Réseau et image</h2>
+<p>Renault dispose du <strong>réseau le plus dense de France</strong> : 1 200+ points de vente et service. MG progresse rapidement (~300 points) mais reste loin derrière. La valeur de revente de la Clio est supérieure grâce à sa notoriété.</p>
+
+<h2>Prix et verdict</h2>
+<p>La <strong>MG3 Hybrid+</strong> à <strong>18 990 €</strong> est 4 000 € moins chère que la <strong>Clio E-Tech</strong> à <strong>22 950 €</strong>. Pour le strict budget, la MG3 est imbattable : plus puissante, bien équipée, prix plancher. Mais la Clio conserve des atouts majeurs : sécurité 5 étoiles, finition supérieure, réseau SAV et valeur de revente. L'hégémonie française est menacée sur le prix, pas encore sur l'ensemble.</p>
+`,
   },
   {
     slug: 'byd-seal-vs-tesla-model-3-highland-berline-ultime-2026',
@@ -1957,6 +2016,27 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-09-01T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Design futuriste contre polyvalence éprouvée</h2>
+<p>L'<strong>Omoda E5</strong> (version électrique de l'Omoda 5) et le <strong>Hyundai Kona Electric</strong> se disputent le segment des SUV compacts électriques entre 35 000 et 40 000 €. Le chinois mise sur un design spectaculaire ; le coréen sur une polyvalence reconnue.</p>
+
+<h2>Design et présentation</h2>
+<p>L'Omoda E5 reprend le design audacieux de l'Omoda 5 avec des modifications EV : calandre totalement fermée, jantes aérodynamiques, et une signature lumineuse distinctive. L'intérieur conserve le double écran 10,25 pouces et une ambiance high-tech avec des matériaux de qualité supérieure à la moyenne du segment.</p>
+<p>Le Hyundai Kona Electric nouvelle génération (2023+) adopte un look plus anguleux et moderne que son prédécesseur. Les lignes pixel-art des feux, l'empattement allongé et l'habitacle repensé avec double écran 12,3 pouces en font un SUV urbain séduisant et pratique.</p>
+
+<h2>Motorisation et autonomie</h2>
+<p>L'Omoda E5 embarque un moteur de <strong>204 ch</strong> et une batterie de 61 kWh pour <strong>430 km WLTP</strong>. La recharge rapide DC atteint 80 kW (30-80 % en 35 min).</p>
+<p>Le Kona Electric est disponible en 48,4 kWh (<strong>342 km</strong>) et 65,4 kWh (<strong>454 km WLTP</strong>). Le moteur de <strong>218 ch</strong> est légèrement plus puissant. La recharge DC monte à <strong>102 kW</strong> — un avantage pour les longs trajets.</p>
+
+<h2>Équipement de série</h2>
+<p>L'Omoda E5 est mieux équipé de série : pompe à chaleur, sièges chauffants/ventilés, toit panoramique, caméra 360°. Le Kona facture ces équipements en options ou les réserve aux finitions hautes. À prix équivalent, l'Omoda offre 3 000 à 4 000 € d'équipement supplémentaire.</p>
+
+<h2>Réseau et fiabilité</h2>
+<p>Hyundai bénéficie d'un réseau mature de <strong>400+ concessions</strong> en France, d'une garantie 5 ans et d'une image de fiabilité solide. Omoda (groupe Chery) est en phase de déploiement avec ~150 points et une garantie 7 ans.</p>
+
+<h2>Verdict</h2>
+<p>L'<strong>Omoda E5</strong> à <strong>33 990 €</strong> bien équipé est le choix du rapport qualité-prix. Le <strong>Kona Electric 65 kWh</strong> à <strong>38 500 €</strong> l'emporte sur l'autonomie, la recharge et le réseau SAV. Pour un premier véhicule électrique sans prise de risque, le Kona. Pour maximiser l'équipement, l'Omoda.</p>
+`,
   },
   {
     slug: 'gwm-wey-05-vs-volvo-xc60-recharge-phev-autonomie',
@@ -1969,6 +2049,27 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-08-25T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le PHEV chinois qui humilie le scandinave</h2>
+<p>Le <strong>GWM Wey 05</strong> (Coffee 02 sur certains marchés) est un SUV hybride rechargeable premium du groupe Great Wall Motor. Face au <strong>Volvo XC60 Recharge</strong>, référence du segment PHEV premium, il promet une autonomie électrique deux fois supérieure pour un prix nettement inférieur.</p>
+
+<h2>Architecture hybride rechargeable</h2>
+<p>Le Wey 05 embarque un <strong>1.5 turbo 4 cylindres + deux moteurs électriques</strong> (P1+P4) pour une puissance combinée de <strong>476 ch</strong>. La batterie de 34 kWh offre une autonomie électrique WLTP de <strong>146 km</strong> — c'est énorme pour un PHEV. La transmission intégrale est assurée par le moteur électrique arrière.</p>
+<p>Le Volvo XC60 T6 Recharge combine un <strong>2.0L turbo + superchargé + moteur électrique arrière</strong> pour 350 ch. La batterie de 18,8 kWh autorise <strong>77 km en électrique WLTP</strong>. C'est moitié moins que le Wey 05.</p>
+
+<h2>Autonomie électrique réelle</h2>
+<p>En conditions réelles, le Wey 05 tient <strong>100-120 km en tout-électrique</strong>, suffisant pour la majorité des trajets quotidiens sans brûler une goutte d'essence. Le XC60 Recharge réalise <strong>50-65 km réels</strong> — il faut recharger tous les jours pour éviter le thermique.</p>
+<p>Résultat : un utilisateur de Wey 05 qui recharge au bureau et à domicile peut rouler <strong>quasiment toute la semaine en électrique</strong>. Le Volvo oblige à solliciter le thermique dès le deuxième jour sans recharge.</p>
+
+<h2>Équipement et confort</h2>
+<p>Le Volvo XC60 excelle en qualité de matériaux, confort de suspension et isolation phonique. Le système Google Built-In est fluide et le design scandinave reste une référence d'élégance. Le Wey 05 riposte avec un écran 14,6 pouces, des sièges massants, et un équipement de série plus complet (HUD, caméra 360°, suspension pilotée).</p>
+
+<h2>Prix : l'écart est colossal</h2>
+<p>Le <strong>GWM Wey 05</strong> démarre à <strong>39 990 €</strong>. Le <strong>Volvo XC60 T6 Recharge</strong> à <strong>65 000 €</strong>. Un écart de <strong>25 000 €</strong> que la supériorité de finition Volvo ne justifie pas entièrement. Le Wey 05 offre plus d'autonomie électrique, plus de puissance et plus d'équipement pour 25 000 € de moins.</p>
+
+<h2>Verdict</h2>
+<p>Le <strong>GWM Wey 05</strong> est le PHEV le plus impressionnant du marché en rapport prestations-prix. Si vous pouvez accepter une marque encore confidentielle, c'est un achat rationnel imbattable. Le <strong>Volvo XC60</strong> reste le choix sûr pour ceux qui privilégient l'image, la qualité perçue et le réseau SAV scandinave.</p>
+`,
   },
   {
     slug: 'mg-zs-ev-vs-peugeot-e2008-suv-urbain-electrique',
@@ -1981,6 +2082,27 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-08-18T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le SUV urbain électrique le plus rationnel</h2>
+<p>Le <strong>MG ZS EV</strong> est le SUV électrique le plus vendu en Europe hors Tesla. Le <strong>Peugeot e-2008</strong> est la réponse française au segment des SUV urbains électriques. Un duel de rationalité pure.</p>
+
+<h2>Autonomie et batterie</h2>
+<p>Le MG ZS EV propose deux batteries : 51 kWh (<strong>320 km WLTP</strong>) et 72,6 kWh (<strong>440 km WLTP</strong>). Le moteur développe <strong>177 ch</strong>. En usage réel, comptez 270 et 380 km respectivement.</p>
+<p>Le Peugeot e-2008 embarque une batterie de 54 kWh pour <strong>345 km WLTP</strong> (environ 290 km réels). Le moteur de <strong>156 ch</strong> est suffisant sans être excitant. Pas de version grande batterie disponible.</p>
+
+<h2>Recharge</h2>
+<p>Le MG ZS EV grande batterie accepte jusqu'à <strong>92 kW DC</strong> (30-80 % en 36 min). Le e-2008 monte à <strong>100 kW DC</strong> (20-80 % en 30 min). Le Peugeot est légèrement plus rapide en proportion, mais le MG offre plus de kWh au total.</p>
+
+<h2>Habitabilité et coffre</h2>
+<p>Le MG ZS EV est légèrement plus grand (4 323 mm vs 4 300 mm) avec un coffre de <strong>448 litres</strong> contre <strong>405 litres</strong> pour le e-2008. L'espace arrière est comparable, mais le MG offre plus de modularité avec sa banquette rabattable 60/40 et un plancher de coffre plat.</p>
+
+<h2>Technologie et conduite</h2>
+<p>Le e-2008 brille par son <strong>i-Cockpit</strong> caractéristique Peugeot : petit volant, instrumentation 3D surélevée, écran 10 pouces. C'est un poste de conduite original et apprécié. Le MG ZS EV propose un écran 10,1 pouces fonctionnel et un système MG iSmart avec mises à jour OTA.</p>
+<p>En conduite, le e-2008 est plus dynamique avec une direction plus précise et un châssis mieux calibré. Le MG ZS EV privilégie le confort avec des suspensions plus souples.</p>
+
+<h2>Prix et verdict</h2>
+<p>Le <strong>MG ZS EV 51 kWh</strong> à <strong>26 990 €</strong> est imbattable en entrée de gamme. Le <strong>e-2008</strong> à <strong>36 400 €</strong> est nettement plus cher. Même la version grande batterie du MG (440 km) à <strong>31 990 €</strong> reste moins chère que le Peugeot. Pour la rationalité pure, le MG ZS EV est le choix évident. Le e-2008 se justifie par son agrément de conduite supérieur et le réseau Peugeot.</p>
+`,
   },
   {
     slug: 'byd-seagull-vs-citroen-ec3-guerre-petites-electriques',
@@ -2039,6 +2161,24 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-08-04T09:00:00+02:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Premium chinois contre premium allemand</h2>
+<p>Le <strong>Zeekr X</strong> (Geely) et l'<strong>Audi Q4 e-tron</strong> (Volkswagen) s'affrontent sur le segment des SUV compacts électriques premium, entre 35 000 et 50 000 €. Le chinois propose un style audacieux et un équipement pléthorique ; l'allemand mise sur la sobriété et le prestige des quatre anneaux.</p>
+
+<h2>Design</h2>
+<p>Le Zeekr X (4 432 mm) est une voiture qui veut être vue : lignes tendues, portes arrière antagonistes, couleurs vives, optiques effilées futuristes. L'intérieur est tout aussi spectaculaire avec un écran 14,6 pouces, des éclairages d'ambiance et des matériaux bicolores.</p>
+<p>L'Audi Q4 e-tron (4 588 mm) incarne la sobriété premium : surfaces lisses, proportions harmonieuses, détails discrets. L'intérieur Virtual Cockpit + écran 11,6 pouces est ergonomique et raffiné. Audi maîtrise l'art de la qualité perçue comme personne.</p>
+
+<h2>Motorisation et performances</h2>
+<p>Le Zeekr X en version AWD développe <strong>428 ch</strong> pour un 0 à 100 en <strong>3,7 secondes</strong>. La batterie de 69 kWh offre <strong>440 km WLTP</strong>. Architecture 800V disponible sur certains marchés.</p>
+<p>L'Audi Q4 50 e-tron quattro développe <strong>299 ch</strong> avec un 0 à 100 en 6,2 secondes. La batterie de 82 kWh (nette 77 kWh) offre <strong>488 km WLTP</strong>. Plus d'autonomie mais des performances en retrait.</p>
+
+<h2>Équipement et prix</h2>
+<p>Le <strong>Zeekr X</strong> à partir de <strong>36 000 €</strong> inclut de série : toit panoramique, sièges chauffants, audio Yamaha, caméra 360°, conduite semi-autonome. L'<strong>Audi Q4 e-tron</strong> à partir de <strong>44 900 €</strong> en version comparable nécessite des options pour atteindre le même niveau : comptez 50 000 €+ pour un équipement similaire.</p>
+
+<h2>Verdict</h2>
+<p>Le <strong>Zeekr X</strong> offre un rapport prestations-prix imbattable avec des performances sportives et un style unique. L'<strong>Audi Q4 e-tron</strong> reste le choix pour ceux qui privilégient le prestige de marque, la qualité d'assemblage supérieure et un réseau SAV dense. L'écart de 10 000 à 15 000 € en faveur du Zeekr est difficile à ignorer.</p>
+`,
   },
   {
     slug: 'lynk-co-02-vs-renault-megane-e-tech-crossover-compacte',
@@ -2051,6 +2191,24 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-07-28T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Crossover chinois contre compacte française</h2>
+<p>Le <strong>Lynk & Co 02</strong> est le crossover compact électrique de la marque Geely/Volvo, disponible à l'abonnement ou à l'achat. La <strong>Renault Mégane E-Tech</strong> est la compacte électrique de référence en France. Deux formats, deux modèles économiques, un même besoin de mobilité quotidienne.</p>
+
+<h2>Format et design</h2>
+<p>Le Lynk & Co 02 (4 390 mm) est un crossover surélevé au design original : formes arrondies, calandre distinctive, et une silhouette qui se distingue dans le flot urbain. L'intérieur est épuré avec un écran 15,4 pouces vertical et des matériaux durables (tissu recyclé, bois).</p>
+<p>La Mégane E-Tech (4 200 mm) est plus compacte mais très bien proportionnée. Le design OpenR avec l'écran en L (12,3 + 12 pouces) est l'un des habitacles les plus réussis du segment. Google Built-In est intégré nativement.</p>
+
+<h2>Motorisation et autonomie</h2>
+<p>Le Lynk & Co 02 propose un moteur de <strong>272 ch</strong> avec une batterie de 66 kWh pour <strong>435 km WLTP</strong>. Les performances sont vives (0-100 en 5,5 s) et la consommation maîtrisée.</p>
+<p>La Mégane E-Tech en version 60 kWh offre <strong>450 km WLTP</strong> avec un moteur de <strong>220 ch</strong>. La version 40 kWh (300 km) est plus abordable. La recharge rapide atteint 130 kW — supérieure au Lynk & Co (100 kW).</p>
+
+<h2>Modèle économique</h2>
+<p>Le Lynk & Co 02 est disponible en <strong>abonnement à 500 €/mois</strong> tout compris (assurance, entretien, assistance) ou à l'achat à <strong>35 990 €</strong>. La flexibilité sans engagement est un atout unique. La Mégane E-Tech est uniquement à l'achat, à partir de <strong>33 200 €</strong> (40 kWh) ou <strong>38 200 €</strong> (60 kWh).</p>
+
+<h2>Verdict</h2>
+<p>La <strong>Mégane E-Tech 60 kWh</strong> l'emporte sur l'autonomie, la recharge rapide et l'ergonomie de l'habitacle. Le <strong>Lynk & Co 02</strong> séduit par sa formule d'abonnement flexible et son positionnement crossover plus polyvalent. Pour l'achat classique, la Mégane est plus aboutie. Pour la flexibilité sans engagement, le Lynk & Co est unique.</p>
+`,
   },
   {
     slug: 'hongqi-l5-vs-rolls-royce-ghost-ultra-luxe-chinois',
@@ -2063,6 +2221,27 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-07-21T09:00:00+02:00',
     readingTime: 9,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>La Chine à l'assaut de l'ultra-luxe</h2>
+<p>La <strong>Hongqi L5</strong> est la limousine la plus chère et la plus exclusive de Chine — la voiture du président Xi Jinping lors des parades officielles. La <strong>Rolls-Royce Ghost</strong> est la référence mondiale de l'ultra-luxe automobile. Ce comparatif n'oppose pas seulement deux voitures, mais deux civilisations et leurs visions du luxe ultime.</p>
+
+<h2>Hongqi L5 : le prestige d'un empire</h2>
+<p>La <strong>Hongqi L5</strong> (5 555 mm) est une berline de représentation produite à la main à raison de quelques dizaines d'exemplaires par an. Le V12 6.0L de <strong>408 ch</strong> est le dernier moteur 12 cylindres développé en Chine. L'intérieur est tapissé de <strong>bois de santal, jade et soie</strong> — des matériaux traditionnels chinois introuvables dans l'automobile occidentale.</p>
+<p>Le prix officiel en Chine dépasse les <strong>600 000 €</strong>, mais la L5 n'est pas disponible à la vente libre — elle est réservée aux hauts dirigeants et aux personnalités approuvées par l'État. C'est un objet de pouvoir avant d'être un objet de luxe.</p>
+
+<h2>Rolls-Royce Ghost : l'art de l'excellence</h2>
+<p>La <strong>Rolls-Royce Ghost</strong> (5 546 mm) est la berline « entry-level » de Goodwood — si l'on peut qualifier ainsi une voiture à <strong>315 000 €</strong>. Le V12 biturbo de 6,75L développe <strong>571 ch</strong> dans un silence absolu grâce à 100 kg d'isolation phonique. L'intérieur est un chef-d'œuvre artisanal : cuir Bridge of Weir, boiseries book-matched, ciel étoilé à 1 340 LED.</p>
+
+<h2>Artisanat et attention au détail</h2>
+<p>Rolls-Royce dispose de <strong>décennies d'expérience</strong> en personnalisation Bespoke : chaque voiture est unique, avec des milliers d'options de couleurs, cuirs, boiseries et broderies. Hongqi mise sur l'<strong>artisanat chinois</strong> ancestral — marqueterie de jade, calligraphie dorée, laque traditionnelle — qui offre un registre esthétique totalement différent.</p>
+
+<h2>Technologie</h2>
+<p>La Ghost intègre les technologies modernes avec discrétion : suspension planar (caméras routières + amortisseurs adaptatifs), écran tactile Rolls-Royce, conduite assistée. Tout est conçu pour être invisible — le luxe ne doit pas exhiber la technologie.</p>
+<p>La Hongqi L5 est plus conservatrice technologiquement : pas d'écrans géants, commandes analogiques, instrumentation classique. Le luxe ici se définit par les matériaux et la rareté, pas par la technologie.</p>
+
+<h2>Verdict</h2>
+<p>La <strong>Rolls-Royce Ghost</strong> reste inatteignable en termes de qualité artisanale, personnalisation et prestige mondial. La <strong>Hongqi L5</strong> est fascinante en tant qu'expression du luxe chinois : exclusive, culturellement unique, mais confinée à un marché domestique. Si jamais Hongqi réussit à produire une version électrique moderne de la L5 pour l'export, le paysage de l'ultra-luxe pourrait véritablement trembler.</p>
+`,
   },
 
   // --- Focus Technologie (articles.md #41-43) ---
