@@ -768,6 +768,30 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2026-04-14T09:00:00+02:00',
     readingTime: 9,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux philosophies du luxe électrique chinois</h2>
+<p>Le <strong>Zeekr 001</strong> et le <strong>NIO ET7</strong> incarnent deux visions radicalement différentes du haut de gamme électrique chinois. D'un côté, un break de chasse sportif signé par l'ancien designer de Lamborghini ; de l'autre, une berline fluide pensée comme un salon roulant ultra-technologique. Ce duel oppose non seulement deux voitures, mais deux philosophies industrielles.</p>
+
+<h2>Design et positionnement</h2>
+<p>Le <strong>Zeekr 001</strong> surprend par sa silhouette de shooting brake unique sur le marché : 4 970 mm de long, une ligne de toit fuyante et des portes sans montant qui lui confèrent une allure spectaculaire. Le design signé Stefan Sielaff (ex-Bentley) mêle sportivité et élégance. L'intérieur privilégie le conducteur avec un volant sport et des sièges baquets enveloppants.</p>
+<p>Le <strong>NIO ET7</strong> adopte une approche plus classique mais tout aussi raffinée : berline de 5 101 mm aux lignes fluides, coefficient de traînée de 0,208 Cd — parmi les meilleurs du marché. L'habitacle se veut un cocon technologique avec un tableau de bord épuré dominé par un écran AMOLED 12,8 pouces et le système NOMI, un assistant IA doté d'un visage expressif.</p>
+
+<h2>Motorisations et performances</h2>
+<p>Le Zeekr 001 en version Performance embarque <strong>deux moteurs pour 544 ch</strong> (400 kW) et un couple de 768 Nm. Le 0 à 100 km/h est expédié en <strong>3,8 secondes</strong>. La batterie Qilin CATL de 100 kWh offre jusqu'à 590 km d'autonomie WLTP. La recharge 800V permet de récupérer 120 km en 5 minutes.</p>
+<p>Le NIO ET7 en version 150 kWh (batterie semi-solid-state) revendique <strong>1 000 km d'autonomie NEDC</strong> (environ 700 km WLTP). La version standard 75 kWh propose 445 km WLTP. Le bi-moteur développe <strong>653 ch</strong> (480 kW) pour un 0 à 100 en 3,8 secondes également. Mais le vrai atout NIO, c'est l'échange de batterie en 5 minutes dans les stations Power Swap.</p>
+
+<h2>Technologie et conduite autonome</h2>
+<p>Le NIO ET7 embarque le <strong>système Aquila</strong> avec un LiDAR longue portée (1 550 nm), 11 caméras, 5 radars et 12 capteurs ultrasoniques. C'est l'un des arsenaux de conduite autonome les plus complets du marché, capable de gérer la conduite sur autoroute et en ville via NIO NAD.</p>
+<p>Le Zeekr 001 n'est pas en reste avec son système <strong>Mobileye SuperVision</strong> doté de deux caméras 8 mégapixels et capable de conduite semi-autonome de niveau 2+. Moins sophistiqué que le NIO sur le papier, il s'avère très fiable en usage quotidien.</p>
+
+<h2>Confort et habitabilité</h2>
+<p>Le format shooting brake du Zeekr 001 offre un <strong>coffre de 546 litres</strong> extensible à 1 800 litres — bien supérieur à la berline NIO (386 litres). L'espace aux jambes arrière est généreux dans les deux cas, mais le Zeekr l'emporte en polyvalence.</p>
+<p>Le NIO ET7 compense avec un <strong>système audio Dolby Atmos 7.1.4</strong> à 23 haut-parleurs, des sièges massants à l'avant et arrière, et une qualité de matériaux qui tutoie les standards allemands.</p>
+
+<h2>Prix et verdict</h2>
+<p>Le <strong>Zeekr 001</strong> débute à environ <strong>52 000 €</strong> en Europe, tandis que le <strong>NIO ET7</strong> s'affiche à partir de <strong>69 900 €</strong> (ou 49 900 € avec location de batterie BaaS). Le Zeekr offre un rapport prestations/prix imbattable et une polyvalence supérieure grâce à son format break.</p>
+<p>Le NIO séduit par sa technologie de pointe et l'écosystème BaaS unique, mais son prix premium et son réseau de distribution encore limité en Europe freinent son accessibilité. <strong>Notre choix : le Zeekr 001</strong>, pour sa combinaison unique de style, performances et praticité à un prix plus contenu.</p>
+`,
   },
   {
     slug: 'omoda-5-vs-mg-zs-hybrid-suv-urbains-abordables',
@@ -780,6 +804,28 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2026-04-07T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le match des SUV chinois accessibles</h2>
+<p>L'<strong>Omoda 5</strong> et le <strong>MG ZS Hybrid+</strong> se disputent le créneau très concurrentiel des SUV urbains à moins de 30 000 €. Deux approches différentes : Omoda mise sur le design et l'équipement technologique, MG sur l'expérience, l'efficience hybride et un réseau de distribution déjà établi en Europe.</p>
+
+<h2>Design et présentation</h2>
+<p>L'<strong>Omoda 5</strong> frappe d'emblée par son design audacieux : calandre en diamant, lignes sculptées, jantes 18 pouces au dessin complexe. L'intérieur impressionne avec un double écran 10,25 pouces, un volant sport aplati et des matériaux de bonne facture. C'est le SUV qui veut séduire les acheteurs qui en ont assez du tout-venant.</p>
+<p>Le <strong>MG ZS Hybrid+</strong> adopte un style plus conventionnel mais efficace : silhouette classique de SUV compact, face avant redessinée en 2024 avec des optiques LED affinées. L'habitacle est fonctionnel avec un écran central 10,1 pouces et une instrumentation numérique 7 pouces. Moins spectaculaire, mais bien pensé.</p>
+
+<h2>Motorisations</h2>
+<p>L'Omoda 5 est proposé avec un <strong>1.5 turbo de 147 ch</strong> associé à une boîte CVT. La consommation mixte s'établit autour de 7,5 l/100 km. Pas de version hybride pour l'instant, ce qui le pénalise face à son rival sur le plan de l'efficience.</p>
+<p>Le MG ZS Hybrid+ embarque le <strong>système hybride 3 cylindres 1.5L + moteur électrique</strong> pour une puissance combinée de 197 ch. La consommation chute à <strong>5,0 l/100 km</strong> en cycle mixte — un argument massue pour les gros rouleurs. La boîte automatique 3 rapports spécifique assure des transitions douces.</p>
+
+<h2>Équipement et technologie</h2>
+<p>L'Omoda 5 se distingue par un <strong>équipement de série généreux</strong> : toit ouvrant panoramique, sièges chauffants et ventilés, système audio Sony, chargeur sans fil, caméra 360°, régulateur adaptatif et freinage d'urgence autonome. Le tout dès la finition intermédiaire.</p>
+<p>Le MG ZS Hybrid+ est bien équipé en finition Luxury (la plus vendue) mais reste en retrait sur certains points : pas de sièges ventilés, pas de toit ouvrant, système audio standard. En revanche, il propose <strong>Apple CarPlay et Android Auto sans fil</strong>, un atout au quotidien.</p>
+
+<h2>Habitabilité et coffre</h2>
+<p>Les deux SUV mesurent autour de 4,40 m de long. L'Omoda 5 offre un coffre de <strong>360 litres</strong>, correct mais pas généreux. Le MG ZS Hybrid+ fait mieux avec <strong>443 litres</strong>, un avantage concret pour les familles.</p>
+
+<h2>Prix et verdict</h2>
+<p>L'<strong>Omoda 5</strong> démarre à <strong>24 990 €</strong> très bien équipé, le <strong>MG ZS Hybrid+</strong> à partir de <strong>23 990 €</strong> en finition Standard. Pour les trajets urbains et périurbains avec un budget serré, le <strong>MG ZS Hybrid+</strong> l'emporte grâce à sa consommation réduite et son coffre plus grand. Mais si vous cherchez un SUV qui se démarque visuellement avec un équipement premium, l'Omoda 5 est le choix malin.</p>
+`,
   },
   {
     slug: 'leapmotor-t03-vs-byd-seagull-micro-citadines',
@@ -792,6 +838,28 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2026-03-31T09:00:00+02:00',
     readingTime: 6,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>La guerre des micro-citadines électriques chinoises</h2>
+<p>Le <strong>Leapmotor T03</strong> et le <strong>BYD Seagull</strong> représentent la nouvelle vague de citadines électriques ultra-abordables venues de Chine. Avec des prix qui démarrent sous les 20 000 €, ces deux modèles visent directement la Dacia Spring et la Citroën ë-C3. Mais lequel choisir ?</p>
+
+<h2>Dimensions et habitabilité</h2>
+<p>Le <strong>Leapmotor T03</strong> mesure 3 620 mm de long — un format de citadine pure comparable à une Renault Twingo. Malgré sa taille, il loge 4 adultes (serrés à l'arrière) et offre un coffre de <strong>210 litres</strong> extensible à 508 litres banquette rabattue.</p>
+<p>Le <strong>BYD Seagull</strong> est légèrement plus grand à 3 780 mm, ce qui se traduit par un espace arrière un peu plus généreux et un coffre de <strong>300 litres</strong>. La plateforme e-Platform 3.0 de BYD optimise l'espace intérieur grâce à un plancher plat.</p>
+
+<h2>Motorisation et autonomie</h2>
+<p>Le Leapmotor T03 embarque un moteur de <strong>95 ch</strong> (70 kW) alimenté par une batterie LFP de 41 kWh, offrant une autonomie WLTP de <strong>265 km</strong>. Suffisant pour un usage urbain et périurbain quotidien. La recharge rapide DC (30-80 %) prend environ 36 minutes.</p>
+<p>Le BYD Seagull propose deux versions : 30,1 kWh (<strong>305 km CLTC</strong>, environ 230 km WLTP) et 38,9 kWh (<strong>405 km CLTC</strong>, environ 310 km WLTP). Le moteur développe 75 ch en version de base et 95 ch en version supérieure. L'avantage va au Seagull grande batterie pour l'autonomie.</p>
+
+<h2>Équipement et technologie</h2>
+<p>Le Leapmotor T03 surprend par son <strong>niveau d'équipement</strong> : écran tactile 10,1 pouces, instrumentation numérique 8 pouces, toit ouvrant électrique, caméra de recul, lève-vitres électriques aux 4 portes. Le système d'infodivertissement tourne sous Android avec mises à jour OTA.</p>
+<p>Le BYD Seagull mise sur l'<strong>écran rotatif 10,1 pouces</strong> caractéristique de la marque, le démarrage sans clé et un système multimédia fluide. L'instrumentation est plus basique (écran 5 pouces) mais fonctionnelle.</p>
+
+<h2>Prix et disponibilité</h2>
+<p>Le <strong>Leapmotor T03</strong> est déjà disponible en Europe via le réseau Stellantis à partir de <strong>18 900 €</strong> (avant bonus). Le <strong>BYD Seagull</strong>, frappé par les droits de douane européens, devrait arriver autour de <strong>19 990 €</strong> — un prix revu à la hausse par rapport au marché chinois où il démarre à 7 000 €.</p>
+
+<h2>Verdict</h2>
+<p>Le <strong>Leapmotor T03</strong> l'emporte par sa disponibilité immédiate, son réseau Stellantis rassurant et son équipement complet. Le <strong>BYD Seagull</strong> séduit par sa plateforme plus moderne et son autonomie supérieure en grande batterie. Pour un usage urbain pur, le T03 est le choix pragmatique ; pour ceux qui peuvent attendre, le Seagull grande batterie offre plus de polyvalence.</p>
+`,
   },
   {
     slug: 'xpeng-g6-vs-byd-atto-3-evo-autonomie-reelle',
@@ -804,6 +872,28 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2026-03-24T09:00:00+01:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>L'autonomie réelle, le nerf de la guerre</h2>
+<p>Sur le papier, le <strong>XPeng G6</strong> et le <strong>BYD Atto 3 Evo</strong> jouent dans la même catégorie : SUV compacts électriques autour de 40 000 €. Mais en conditions réelles — autoroute, froid, chargement — les écarts d'autonomie peuvent être considérables. C'est ce critère décisif que nous avons passé au crible.</p>
+
+<h2>Fiches techniques comparées</h2>
+<p>Le <strong>XPeng G6</strong> embarque une batterie LFP de 66 kWh (version Standard) ou NMC de 87,5 kWh (version Long Range). L'autonomie WLTP atteint <strong>435 km</strong> et <strong>570 km</strong> respectivement. Le moteur arrière développe 296 ch en propulsion ou 475 ch en transmission intégrale.</p>
+<p>Le <strong>BYD Atto 3 Evo</strong> dispose d'une batterie Blade LFP de 60,5 kWh offrant <strong>420 km WLTP</strong>. Le moteur avant développe 204 ch. Pas de version grande batterie ni de transmission intégrale — un positionnement plus simple mais plus abordable.</p>
+
+<h2>Autonomie réelle : les chiffres qui comptent</h2>
+<p>En conditions réelles mixtes (ville + route + autoroute), le <strong>XPeng G6 Long Range</strong> affiche une autonomie de <strong>480-500 km</strong>, soit environ 85 % de l'annonce WLTP — un excellent ratio. Sur autoroute à 130 km/h, comptez environ 400 km.</p>
+<p>Le <strong>BYD Atto 3 Evo</strong> tient ses promesses avec <strong>350-370 km</strong> en usage mixte réel, soit 83-88 % du WLTP. Sur autoroute, l'autonomie chute à environ 300 km. La batterie Blade LFP se montre très stable dans le temps mais pénalisée par le froid hivernal (perte de 20-25 % sous 5°C).</p>
+
+<h2>Recharge : l'avantage 800V</h2>
+<p>C'est ici que le XPeng G6 creuse l'écart. Son architecture <strong>800V</strong> permet une recharge de 10 à 80 % en seulement <strong>20 minutes</strong> sur une borne 200 kW+. En 5 minutes de charge, on récupère 200 km d'autonomie.</p>
+<p>Le BYD Atto 3 Evo, avec son architecture 400V classique, nécessite <strong>37 minutes</strong> pour le même exercice. La puissance de charge maximale plafonne à 88 kW — un point faible net pour les longs trajets.</p>
+
+<h2>Confort et technologie</h2>
+<p>Le XPeng G6 offre un intérieur plus spacieux (empattement de 2 890 mm vs 2 720 mm pour le BYD), un écran central 14,96 pouces, et le système XNGP de conduite semi-autonome avec LiDAR. Le BYD Atto 3 Evo mise sur son écran rotatif 12,8 pouces, une sellerie de qualité et un système multimédia intuitif.</p>
+
+<h2>Prix et verdict</h2>
+<p>Le <strong>BYD Atto 3 Evo</strong> à <strong>33 990 €</strong> reste très compétitif pour un usage urbain et périurbain quotidien. Le <strong>XPeng G6</strong> à partir de <strong>42 990 €</strong> justifie son surcoût par une autonomie supérieure, une recharge 800V révolutionnaire et un espace plus généreux. Pour les gros rouleurs et les adeptes de voyages, le G6 est le choix rationnel.</p>
+`,
   },
   {
     slug: 'jaecoo-7-vs-chery-tiggo-8-pro-suv-familial-chery',
@@ -816,6 +906,25 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2026-03-17T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux SUV, un même groupe, deux stratégies</h2>
+<p>Le groupe Chery déploie en Europe deux marques distinctes : <strong>Chery</strong> (la maison mère) et <strong>Jaecoo</strong> (la marque premium/outdoor). Le <strong>Jaecoo 7</strong> et le <strong>Chery Tiggo 8 Pro</strong> se chevauchent sur le segment des SUV familiaux, créant une situation inédite de concurrence interne. Lequel choisir selon votre profil ?</p>
+
+<h2>Positionnement et design</h2>
+<p>Le <strong>Jaecoo 7</strong> se présente comme un SUV compact baroudeur : 4 510 mm de long, des protections de carrosserie prononcées, un look robuste inspiré du monde du tout-terrain. L'intérieur allie matériaux premium et ambiance chaleureuse avec un écran 13,2 pouces et une instrumentation numérique 10,25 pouces.</p>
+<p>Le <strong>Chery Tiggo 8 Pro</strong> joue la carte du SUV familial spacieux : 4 745 mm, <strong>7 places</strong> en configuration 2+3+2, et un look plus classique mais statutaire. L'habitacle est vaste avec un double écran 12,3 pouces et une finition soignée. C'est le choix logique pour les grandes familles.</p>
+
+<h2>Motorisations</h2>
+<p>Le Jaecoo 7 est disponible en <strong>1.6 turbo de 186 ch</strong> avec boîte DCT 7 rapports, en deux ou quatre roues motrices. La version PHEV annonce 347 ch combinés et 100 km d'autonomie électrique. La consommation du thermique s'établit autour de 7,8 l/100 km.</p>
+<p>Le Tiggo 8 Pro embarque un <strong>1.6 turbo de 197 ch</strong> associé à une boîte DCT 7 rapports. Disponible uniquement en traction avant, il compense par un équipement plus complet de série. La version PHEV offre 326 ch et une autonomie électrique de 80 km.</p>
+
+<h2>Habitabilité et praticité</h2>
+<p>L'avantage du <strong>Tiggo 8 Pro</strong> est évident : ses <strong>7 places</strong> et son coffre de 192 litres (7 places) à 889 litres (5 places) en font le SUV familial par excellence. La troisième rangée reste modeste mais utilisable pour des enfants.</p>
+<p>Le <strong>Jaecoo 7</strong>, en 5 places uniquement, offre un coffre de <strong>412 litres</strong> et un espace arrière confortable. Sa garde au sol supérieure (200 mm vs 180 mm) et ses modes tout-terrain le rendent plus polyvalent hors bitume.</p>
+
+<h2>Prix et verdict</h2>
+<p>Le <strong>Jaecoo 7</strong> démarre à <strong>29 990 €</strong>, le <strong>Tiggo 8 Pro</strong> à <strong>33 490 €</strong>. Pour une famille de 3 enfants ou plus, le Tiggo 8 Pro 7 places est incontournable. Pour un couple actif qui sort des sentiers battus le week-end, le Jaecoo 7 avec sa transmission intégrale et son look aventurier est le meilleur choix. Dans les deux cas, le rapport équipement/prix du groupe Chery reste imbattable.</p>
+`,
   },
   {
     slug: 'mg-cyberster-vs-byd-seal-06-gt-plaisir-conduite',
@@ -828,6 +937,25 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2026-03-10T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le plaisir de conduire, version électrique chinoise</h2>
+<p>Pendant longtemps, les voitures chinoises étaient associées au transport utilitaire, jamais au plaisir. Le <strong>MG Cyberster</strong> et le <strong>BYD Seal 06 GT</strong> dynamitent ce cliché. Un roadster électrique contre une berline GT : deux propositions sportives qui prouvent que la Chine sait faire vibrer un volant.</p>
+
+<h2>Design et émotions</h2>
+<p>Le <strong>MG Cyberster</strong> est un roadster biplace de 4 535 mm aux lignes spectaculaires : portes en élytre, capot plongeant, poupe effilée. L'intérieur est un cockpit avec trois écrans alignés (dont un derrière le volant) et des sièges sport en cuir Nappa. La capote souple s'ouvre en 15 secondes à 50 km/h.</p>
+<p>Le <strong>BYD Seal 06 GT</strong> adopte la silhouette d'un coupé 4 portes fastback de 4 630 mm. Les lignes tendues, le becquet intégré et les jantes 19 pouces lui confèrent une prestance sportive maîtrisée. L'intérieur est dominé par l'écran rotatif 15,6 pouces et une ambiance premium sobre.</p>
+
+<h2>Performances</h2>
+<p>Le MG Cyberster en version Trophy déploie <strong>510 ch</strong> (bi-moteur AWD) pour un 0 à 100 en <strong>3,2 secondes</strong>. La batterie de 77 kWh offre environ 400 km d'autonomie WLTP. Le châssis à double triangulation avant et multibras arrière garantit une tenue de route précise.</p>
+<p>Le BYD Seal 06 GT développe <strong>313 ch</strong> (moteur arrière) avec un 0 à 100 en <strong>5,9 secondes</strong>. Moins explosif, mais la batterie Blade 72 kWh autorise <strong>450 km WLTP</strong>. Le centre de gravité ultra-bas (batterie Cell-to-Body) procure un comportement routier rassurant et dynamique.</p>
+
+<h2>Expérience de conduite</h2>
+<p>Le Cyberster offre une <strong>expérience sensorielle unique</strong> : cheveux au vent, accélérations foudroyantes, direction précise. C'est une voiture de loisir par excellence, un week-end car qui fait tourner les têtes. En revanche, l'habitabilité se limite à deux places et le coffre à 249 litres.</p>
+<p>Le Seal 06 GT est plus polyvalent : <strong>4 vraies places</strong>, un coffre de 400 litres, et un confort de roulage supérieur grâce à une meilleure isolation phonique. C'est la GT du quotidien qui sait aussi être dynamique le week-end.</p>
+
+<h2>Prix et verdict</h2>
+<p>Le <strong>MG Cyberster</strong> à partir de <strong>36 990 €</strong> est un roadster électrique au prix d'une berline — un tarif imbattable pour ce type d'expérience. Le <strong>BYD Seal 06 GT</strong> à <strong>33 990 €</strong> offre plus de polyvalence au quotidien. Choisissez le Cyberster pour le frisson, le Seal 06 GT pour la raison qui n'exclut pas le plaisir.</p>
+`,
   },
   {
     slug: 'nio-el6-vs-xpeng-g9-grands-suv-electriques-premium',
@@ -840,6 +968,27 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2026-03-03T09:00:00+01:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le segment premium chinois arrive en force</h2>
+<p>Le <strong>NIO EL6</strong> (ex-ES6) et le <strong>XPeng G9</strong> incarnent le haut de gamme des SUV électriques chinois. Deux mastodontes de plus de 4,80 m qui viennent défier les BMW iX, Audi Q8 e-tron et Mercedes EQE SUV. Avec des tarifs nettement plus agressifs et des technologies de pointe.</p>
+
+<h2>Design et présentation</h2>
+<p>Le <strong>NIO EL6</strong> (4 854 mm) adopte un design épuré et musclé avec sa signature lumineuse X-Bar caractéristique. L'intérieur est un écrin technologique : écran AMOLED 12,8 pouces, assistant IA NOMI avec son globe expressif, sellerie Haptex (cuir vegan) et ambiance lumineuse 256 couleurs.</p>
+<p>Le <strong>XPeng G9</strong> (4 891 mm) joue la carte du SUV sculptural avec des flancs travaillés et des optiques LED futuristes. L'habitacle impressionne par ses <strong>deux écrans 15 pouces</strong> (conducteur + central), son système audio Dynaudio 22 haut-parleurs et ses sièges massants à l'avant.</p>
+
+<h2>Performances et autonomie</h2>
+<p>Le NIO EL6 en version bi-moteur développe <strong>489 ch</strong> pour un 0 à 100 en 4,5 secondes. Avec la batterie 100 kWh, l'autonomie WLTP atteint <strong>529 km</strong>. L'atout majeur : l'échange de batterie en 5 minutes dans les stations Power Swap NIO.</p>
+<p>Le XPeng G9 en version Performance offre <strong>551 ch</strong> (bi-moteur AWD) et un 0 à 100 en 3,9 secondes. La batterie 98 kWh autorise <strong>520 km WLTP</strong>. L'architecture <strong>800V</strong> permet une recharge 10-80 % en seulement 20 minutes — le point fort technique du G9.</p>
+
+<h2>Conduite autonome</h2>
+<p>Le NIO embarque le système <strong>Aquila</strong> avec LiDAR et la puce NIO Adam (4 Orin X). Le Navigate on Pilot (NOP+) gère la conduite sur autoroute avec changements de voie automatiques. Le XPeng riposte avec le <strong>XNGP</strong>, également équipé d'un LiDAR et capable de navigation autonome en ville — un avantage en zones urbaines.</p>
+
+<h2>Écosystème et services</h2>
+<p>NIO se démarque par son <strong>écosystème complet</strong> : NIO Houses (lounges premium), stations Battery Swap, application communautaire, et le service BaaS qui réduit le prix d'achat. XPeng mise sur ses superchargeurs propriétaires et des mises à jour OTA fréquentes.</p>
+
+<h2>Prix et verdict</h2>
+<p>Le <strong>NIO EL6</strong> s'affiche à <strong>49 900 € avec BaaS</strong> (ou 59 900 € batterie incluse). Le <strong>XPeng G9</strong> démarre à <strong>52 990 €</strong>. Pour les voyageurs, le G9 et sa recharge 800V sont imbattables. Pour ceux qui valorisent l'expérience de marque et l'échange de batterie, le NIO EL6 offre un écosystème unique. Deux excellents choix premium.</p>
+`,
   },
   {
     slug: 'gwm-ora-03-vs-mg3-hybrid-design-retro-efficacite',
@@ -852,6 +1001,24 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2026-02-24T09:00:00+01:00',
     readingTime: 6,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Style contre substance</h2>
+<p>Le <strong>GWM Ora 03</strong> (anciennement Ora Funky Cat) et la <strong>MG3 Hybrid+</strong> incarnent deux approches diamétralement opposées de la citadine chinoise. L'une mise tout sur le design néo-rétro et l'électrique ; l'autre sur l'efficience hybride et le pragmatisme.</p>
+
+<h2>Design : la beauté vs la discrétion</h2>
+<p>L'<strong>Ora 03</strong> fait tourner les têtes : lignes rondes inspirées de la VW Coccinelle, phares ronds LED, couleurs pastel (rose, vert menthe, blanc nacré). C'est la voiture Instagram par excellence. L'intérieur poursuit le thème rétro-chic avec un double écran 10,25 pouces et des matériaux doux.</p>
+<p>La <strong>MG3 Hybrid+</strong> est plus conventionnelle : silhouette de citadine polyvalente de 4 113 mm, face avant dynamique avec la grille MG redessinée. Moins de personnalité visuelle, mais un format pratique avec 5 portes et un coffre de <strong>293 litres</strong>.</p>
+
+<h2>Motorisations : deux mondes</h2>
+<p>L'Ora 03 est 100 % électrique avec un moteur de <strong>171 ch</strong> et une batterie de 48 kWh offrant <strong>310 km WLTP</strong>. La recharge DC de 30 à 80 % prend 40 minutes. Silencieuse et réactive en ville.</p>
+<p>La MG3 Hybrid+ combine un <strong>1.5L essence + moteur électrique</strong> pour 194 ch cumulés. La consommation mixte est remarquable : <strong>4,4 l/100 km</strong>. Pas besoin de prise, pas d'angoisse d'autonomie — on fait le plein en 3 minutes et on roule 800 km.</p>
+
+<h2>Coût d'usage</h2>
+<p>L'Ora 03 coûte environ <strong>2,50 € aux 100 km</strong> en électricité à domicile. La MG3 Hybrid+ revient à <strong>7 € aux 100 km</strong> en carburant. Sur 15 000 km/an, l'écart est de 675 €/an en faveur de l'électrique — mais il faut disposer d'une solution de recharge à domicile.</p>
+
+<h2>Prix et verdict</h2>
+<p>L'<strong>Ora 03</strong> démarre à <strong>33 990 €</strong> (avant bonus), la <strong>MG3 Hybrid+</strong> à seulement <strong>18 990 €</strong>. L'écart de 15 000 € est considérable. Si vous avez un garage avec prise et un budget confortable, l'Ora 03 offre un style unique et un coût d'usage minimal. Sinon, la MG3 Hybrid+ est l'achat malin : prix plancher, consommation ridicule, zéro contrainte de recharge.</p>
+`,
   },
   {
     slug: 'zeekr-x-vs-volvo-ex30-cousins-chinois',
@@ -920,6 +1087,24 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2026-02-10T09:00:00+01:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>L'art chinois de repousser les limites</h2>
+<p>L'<strong>Avatr 11</strong> (né de la collaboration Huawei-CATL-Changan) et le <strong>HiPhi Z</strong> partagent une ambition commune : prouver que la Chine peut rivaliser avec les marques européennes sur le terrain du design et de l'innovation. Deux concept-cars de série qui repoussent les codes esthétiques de l'automobile.</p>
+
+<h2>Design : futurisme assumé</h2>
+<p>L'<strong>Avatr 11</strong> (4 880 mm) adopte un style émotionnel unique : courbes sensuelles, hayon panoramique vitré, signature lumineuse en forme de cristal. Dessiné par l'ancien responsable du design Mercedes-Benz, il marie l'élégance européenne et la technologie chinoise. L'intérieur est dominé par un écran 15,6 pouces et la suite Huawei HarmonyOS.</p>
+<p>Le <strong>HiPhi Z</strong> (4 938 mm) est encore plus radical : carrosserie bicolore, phares LED matriciels programmables (ils affichent des animations), portes arrière automatiques et un aileron actif robotisé. L'habitacle ressemble à un vaisseau spatial avec un écran central qui pivote automatiquement vers le passager.</p>
+
+<h2>Technologies embarquées</h2>
+<p>L'Avatr 11 bénéficie de l'écosystème <strong>Huawei</strong> : système HarmonyOS ultra-fluide, conduite autonome HUAWEI ADS 2.0 avec 3 LiDAR, et recharge rapide 750V. C'est probablement le véhicule le plus intégré à l'écosystème Huawei au monde.</p>
+<p>Le HiPhi Z mise sur la <strong>robotique</strong> : 600 capteurs, phares intelligents qui communiquent avec les piétons, portières à ouverture programmable, et un système audio Meridian 23 haut-parleurs. Le système de conduite autonome HiPhi Pilot utilise un LiDAR et de l'IA prédictive.</p>
+
+<h2>Performances</h2>
+<p>L'Avatr 11 développe <strong>578 ch</strong> en version bi-moteur AWD pour un 0 à 100 en 3,98 secondes. La batterie CATL de 116 kWh offre <strong>600 km WLTP</strong>. Le HiPhi Z délivre <strong>494 ch</strong> (moteur arrière unique) avec un 0 à 100 en 3,8 secondes et une batterie de 120 kWh pour <strong>555 km WLTP</strong>.</p>
+
+<h2>Disponibilité et verdict</h2>
+<p>L'<strong>Avatr 11</strong> (à partir de <strong>55 000 €</strong> en Chine) prépare son arrivée en Europe via les réseaux Huawei. Le <strong>HiPhi Z</strong> (environ <strong>70 000 €</strong>) est plus confidentiel et sa distribution européenne reste incertaine après les difficultés financières de HiPhi en 2024. L'Avatr 11 est donc le choix plus sûr : technologie Huawei éprouvée, réseau en développement et performances de référence.</p>
+`,
   },
   {
     slug: 'byd-shark-vs-maxus-t90-ev-pickup-chinois-pros',
@@ -932,6 +1117,23 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2026-02-03T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Les pick-ups chinois débarquent</h2>
+<p>Le marché européen du pick-up, longtemps dominé par Toyota Hilux et Ford Ranger, accueille deux challengers chinois redoutables : le <strong>BYD Shark</strong> hybride rechargeable et le <strong>Maxus T90 EV</strong> 100 % électrique. Deux approches différentes pour séduire les professionnels et les aventuriers.</p>
+
+<h2>Motorisations et usage professionnel</h2>
+<p>Le <strong>BYD Shark</strong> embarque le système DM-i Super Hybrid : <strong>1.5 turbo + deux moteurs électriques</strong> pour 437 ch combinés et un couple monstrueux de 650 Nm. La batterie de 31,8 kWh autorise <strong>100 km en mode électrique</strong> — idéal pour les trajets quotidiens sur chantier. En mode hybride, la consommation chute à 7,5 l/100 km, et l'autonomie totale dépasse 800 km.</p>
+<p>Le <strong>Maxus T90 EV</strong> est le premier pick-up 100 % électrique disponible en Europe. Son moteur de <strong>204 ch</strong> est alimenté par une batterie de 88,5 kWh offrant <strong>330 km WLTP</strong>. La recharge DC prend 45 minutes (20-80 %). La fonction V2L permet d'alimenter des outils électriques directement depuis le véhicule — un atout énorme sur chantier.</p>
+
+<h2>Capacités de charge</h2>
+<p>Le BYD Shark affiche une <strong>charge utile de 855 kg</strong> et une capacité de remorquage de <strong>2 500 kg</strong>. Le Maxus T90 EV propose <strong>1 000 kg de charge utile</strong> et <strong>3 500 kg de remorquage</strong> — des chiffres de référence pour un électrique.</p>
+
+<h2>Équipement et confort</h2>
+<p>Les deux modèles offrent un niveau d'équipement surprenant : écrans tactiles 12+ pouces, sièges chauffants, caméra 360°, aide au stationnement. Le BYD Shark ajoute un système audio premium et la climatisation automatique tri-zone.</p>
+
+<h2>Prix et verdict</h2>
+<p>Le <strong>BYD Shark</strong> est attendu à <strong>45 000 €</strong>, le <strong>Maxus T90 EV</strong> est déjà disponible à <strong>47 990 €</strong> (hors TVA pro). Pour les professionnels avec une borne sur site, le T90 EV offre un coût d'usage imbattable. Pour ceux qui parcourent de longues distances ou travaillent en zone isolée, le BYD Shark hybride est plus polyvalent. Les deux enterrent les préjugés sur les pick-ups chinois.</p>
+`,
   },
   {
     slug: 'lynk-co-01-vs-mg-ehs-hybride-rechargeable-partage',
@@ -944,6 +1146,26 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2026-01-27T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux modèles commerciaux innovants</h2>
+<p>Le <strong>Lynk & Co 01</strong> et le <strong>MG EHS</strong> sont deux SUV hybrides rechargeables chinois qui bousculent les codes commerciaux européens. Lynk & Co propose un système d'abonnement mensuel sans engagement ; MG mise sur un prix d'achat agressif. Quel modèle convient le mieux ?</p>
+
+<h2>Le concept Lynk & Co : l'abonnement automobile</h2>
+<p>Le <strong>Lynk & Co 01</strong> repose sur la plateforme CMA de Volvo/Geely. Motorisation : <strong>1.5 turbo 3 cylindres + moteur électrique</strong> pour 261 ch combinés et une batterie de 14,1 kWh offrant <strong>69 km d'autonomie électrique WLTP</strong>. Le modèle commercial est unique : <strong>550 €/mois</strong> tout compris (assurance, entretien, assistance), résiliable à tout moment. On peut aussi partager son véhicule via l'application.</p>
+
+<h2>MG EHS : l'achat malin</h2>
+<p>Le <strong>MG EHS</strong> adopte une approche classique avec un prix d'achat choc : <strong>33 990 €</strong> (avant bonus PHEV). Son <strong>1.5 turbo + moteur électrique</strong> développe 258 ch avec une batterie de 16,6 kWh pour <strong>52 km d'autonomie électrique WLTP</strong>. La boîte automatique 10 rapports est fluide et l'espace intérieur généreux pour un SUV compact.</p>
+
+<h2>Comparaison technique</h2>
+<p>Le Lynk & Co 01 bénéficie de la plateforme Volvo : meilleure insonorisation, suspensions plus raffinées, qualité de matériaux supérieure. Le MG EHS compense par un coffre plus grand (<strong>448 litres</strong> vs 390 litres) et un prix d'achat nettement inférieur.</p>
+<p>En consommation réelle hybride, les deux tournent autour de 2 l/100 km sur trajet domicile-travail (si rechargé quotidiennement). Sur autoroute sans recharge, comptez 7-8 l/100 km pour les deux.</p>
+
+<h2>Le calcul financier</h2>
+<p>Sur 3 ans / 45 000 km : l'abonnement Lynk & Co revient à <strong>19 800 €</strong> tout compris. L'achat MG EHS + assurance + entretien revient à environ <strong>38 000 €</strong> mais avec une valeur résiduelle d'environ 18 000 €, soit un coût net de <strong>20 000 €</strong>. Les deux se valent financièrement, mais l'abonnement offre plus de flexibilité.</p>
+
+<h2>Verdict</h2>
+<p>Le <strong>Lynk & Co 01</strong> séduit les urbains qui veulent de la flexibilité et une expérience premium sans engagement. Le <strong>MG EHS</strong> convient aux familles qui souhaitent posséder leur véhicule avec un budget maîtrisé. Deux excellentes portes d'entrée dans l'hybride rechargeable chinois.</p>
+`,
   },
   {
     slug: 'hongqi-e-hs9-vs-nio-el7-luxe-presidentiel-technologie',
@@ -956,6 +1178,24 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2026-01-20T09:00:00+01:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux visions du luxe chinois ultime</h2>
+<p>Le <strong>Hongqi E-HS9</strong> est le SUV de la marque qui transporte le président chinois Xi Jinping. Le <strong>NIO EL7</strong> (ex-ES7) est le fer de lance technologique de la startup la plus ambitieuse de Shanghai. Un luxe institutionnel contre un luxe technologique : deux approches fascinantes.</p>
+
+<h2>Hongqi : le prestige d'État</h2>
+<p>Hongqi (« Drapeau Rouge ») est la marque automobile la plus prestigieuse de Chine, fondée en 1958 pour les dirigeants du Parti. Le <strong>E-HS9</strong> (5 209 mm) incarne ce prestige : calandre verticale imposante ornée du drapeau rouge, proportions majestueuses, et un intérieur qui rivalise avec les Mercedes GLS et BMW X7.</p>
+<p>Le bi-moteur développe <strong>551 ch</strong> avec un 0 à 100 en 4,9 secondes. La batterie de 120 kWh offre <strong>465 km WLTP</strong>. L'intérieur propose <strong>6 places</strong> en configuration 2+2+2 avec des sièges capitaine arrière massants, ventilés et inclinables. Un véritable salon roulant.</p>
+
+<h2>NIO EL7 : la technologie en majesté</h2>
+<p>Le <strong>NIO EL7</strong> (4 912 mm) est plus compact mais plus technologique. Son bi-moteur de <strong>653 ch</strong> l'expédie à 100 km/h en 3,9 secondes. La batterie 100 kWh offre <strong>509 km WLTP</strong>, avec la possibilité d'upgrade vers la 150 kWh semi-solid-state (900+ km).</p>
+<p>Le NIO se démarque par le <strong>Battery Swap</strong> (échange en 5 minutes), le système <strong>Aquila</strong> avec LiDAR pour la conduite autonome, et l'assistant NOMI. L'intérieur 5 places est moins opulent que le Hongqi mais plus connecté et moderne.</p>
+
+<h2>Expérience à bord</h2>
+<p>Le Hongqi E-HS9 offre une expérience de <strong>limousine</strong> : silence de roulement exceptionnel, suspension pneumatique qui absorbe tout, sièges arrière dignes de la première classe. Le NIO EL7 privilégie l'<strong>interaction</strong> : NOMI converse avec vous, le système audio Dolby Atmos enveloppe, et les mises à jour OTA ajoutent régulièrement de nouvelles fonctionnalités.</p>
+
+<h2>Prix et verdict</h2>
+<p>Le <strong>Hongqi E-HS9</strong> s'affiche à partir de <strong>72 900 €</strong> en Europe, le <strong>NIO EL7</strong> à <strong>54 900 € avec BaaS</strong>. Pour qui cherche le prestige classique et l'espace d'une limousine, le Hongqi est un choix rare et distinctif. Pour les technophiles qui veulent l'écosystème le plus avancé, le NIO EL7 est imbattable. Dans les deux cas, on est loin des clichés sur l'automobile chinoise.</p>
+`,
   },
   {
     slug: 'byd-tang-2026-vs-mg-s9-suv-7-places',
@@ -968,6 +1208,25 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2026-01-13T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le segment des grands SUV familiaux chinois</h2>
+<p>Les familles nombreuses ont longtemps été limitées au Peugeot 5008, Skoda Kodiaq ou Hyundai Santa Fe. Désormais, le <strong>BYD Tang 2026</strong> et le <strong>MG S9</strong> proposent des SUV 7 places à des tarifs très compétitifs. Lequel mérite votre confiance ?</p>
+
+<h2>BYD Tang 2026 : le mastodonte électrifié</h2>
+<p>Le <strong>BYD Tang 2026</strong> (4 870 mm) est disponible en version <strong>DM-i hybride rechargeable</strong> (252 ch combinés, 100 km d'autonomie EV, 1 000 km d'autonomie totale) ou <strong>EV pure</strong> (bi-moteur 517 ch, batterie Blade 108 kWh, 530 km WLTP). L'intérieur propose 7 vraies places avec un écran rotatif 15,6 pouces et une finition premium avec cuir Nappa.</p>
+
+<h2>MG S9 : le nouveau venu ambitieux</h2>
+<p>Le <strong>MG S9</strong> (4 985 mm) est le plus grand modèle MG jamais produit. Proposé en <strong>PHEV</strong> (1.5 turbo + électrique, 287 ch, 120 km d'autonomie EV) ou <strong>EV</strong> (moteur arrière 245 ch, batterie 90 kWh, 460 km WLTP). Ses 7 places sont espacées grâce à un empattement généreux de 2 950 mm, et le coffre atteint 578 litres en configuration 5 places.</p>
+
+<h2>Habitabilité : avantage MG</h2>
+<p>Le MG S9, plus long de 115 mm, offre un espace arrière et une troisième rangée plus accueillants. Des adultes peuvent y voyager sur de courtes distances, pas seulement des enfants. Le BYD Tang reste plus compact mais compense par une meilleure modularité de l'habitacle (banquette centrale coulissante).</p>
+
+<h2>Technologie et conduite</h2>
+<p>Le BYD Tang brille par sa <strong>technologie DM-i éprouvée</strong> et son écosystème logiciel mature. Le MG S9 offre un système <strong>MG Pilot</strong> complet (régulateur adaptatif, maintien de voie, freinage d'urgence) et un infodivertissement fluide mais moins sophistiqué.</p>
+
+<h2>Prix et verdict</h2>
+<p>Le <strong>BYD Tang DM-i</strong> démarre à <strong>46 990 €</strong>, le <strong>MG S9 PHEV</strong> à <strong>39 990 €</strong>. L'écart de 7 000 € en faveur du MG est significatif. Pour le meilleur espace, choisissez le MG S9. Pour la technologie BYD éprouvée et la version EV longue autonomie, le Tang reste la référence du segment.</p>
+`,
   },
   {
     slug: 'xiaomi-su7-vs-xpeng-p7i-interface-logicielle',
@@ -980,6 +1239,27 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2026-01-06T09:00:00+01:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>La bataille des interfaces automobiles</h2>
+<p>Si les voitures chinoises excellent quelque part, c'est bien dans le logiciel embarqué. Le <strong>Xiaomi SU7</strong> avec HyperOS et le <strong>XPeng P7i</strong> avec Xmart OS représentent le sommet de l'intégration logicielle automobile. Nous avons testé les deux en profondeur pendant une semaine chacun.</p>
+
+<h2>HyperOS : l'écosystème Xiaomi dans la voiture</h2>
+<p>Le système <strong>HyperOS</strong> de la Xiaomi SU7 est la grande révolution : c'est le même OS qui tourne sur votre smartphone, tablette et montre Xiaomi. La fluidité est <strong>stupéfiante</strong> — temps de réponse inférieur à 100 ms, animations à 120 Hz, zéro lag même en multitâche. L'écran 16,1 pouces 3K est le plus beau du marché automobile.</p>
+<p>Le point fort : la <strong>continuité d'écosystème</strong>. Commencez une navigation sur votre téléphone, elle apparaît sur l'écran de la voiture automatiquement. Les applications Xiaomi Home permettent de contrôler vos objets connectés depuis le volant. La mise à jour OTA est mensuelle avec des améliorations substantielles.</p>
+
+<h2>Xmart OS : l'IA au service de la conduite</h2>
+<p>Le <strong>Xmart OS 4.0</strong> de XPeng est plus orienté conduite. Son point fort : l'intégration profonde avec le système de conduite autonome <strong>XNGP</strong>. L'écran 15 pouces affiche une modélisation 3D en temps réel de l'environnement, avec identification des véhicules, piétons et obstacles. C'est bluffant de précision.</p>
+<p>L'assistant vocal XPeng est plus intelligent que la moyenne : il comprend les commandes contextuelles complexes (« Monte le chauffage à l'arrière et mets une playlist calme ») et répond en langage naturel grâce à un LLM embarqué.</p>
+
+<h2>Navigation et cartographie</h2>
+<p>Xiaomi utilise une navigation propriétaire optimisée pour les recharges : elle calcule les arrêts en fonction de l'état de charge réel et des bornes disponibles. XPeng propose <strong>NGP</strong> (Navigation Guided Pilot) qui conduit quasi-automatiquement sur autoroute, y compris les changements de voie et les sorties.</p>
+
+<h2>Mises à jour et évolution</h2>
+<p>Les deux systèmes reçoivent des mises à jour OTA régulières. Xiaomi a l'avantage de son armée de développeurs logiciels (héritage smartphone). XPeng investit massivement dans l'IA embarquée et promet des fonctionnalités de conduite autonome de niveau 3+ d'ici 2027.</p>
+
+<h2>Verdict</h2>
+<p>Pour l'<strong>expérience multimédia et écosystème</strong>, Xiaomi HyperOS est imbattable — c'est l'iPhone des systèmes automobiles. Pour l'<strong>intégration conduite autonome et IA</strong>, Xmart OS de XPeng est plus avancé. Les deux sont des années-lumière devant ce que proposent la plupart des constructeurs européens.</p>
+`,
   },
   {
     slug: 'leapmotor-c11-vs-byd-seal-u-suv-familial-prix',
@@ -992,6 +1272,25 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-12-22T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le SUV familial électrique à prix contenu</h2>
+<p>Le <strong>Leapmotor C11</strong> et le <strong>BYD Seal U</strong> visent le même créneau : offrir un SUV familial spacieux et électrique à moins de 40 000 €. C'est le segment le plus disputé du marché, celui où chaque euro compte.</p>
+
+<h2>Leapmotor C11 : le rapport qualité-prix Stellantis</h2>
+<p>Distribué via le réseau <strong>Stellantis</strong> (concessions Citroën, Peugeot, Fiat), le Leapmotor C11 (4 780 mm) bénéficie d'un réseau de distribution et de SAV européen rassurant. Le moteur arrière développe <strong>272 ch</strong>, et la batterie LFP de 69,9 kWh offre <strong>410 km WLTP</strong>. L'intérieur est spacieux avec un écran central 12,8 pouces et un coffre de <strong>475 litres</strong>.</p>
+
+<h2>BYD Seal U : la technologie Blade</h2>
+<p>Le <strong>BYD Seal U</strong> (4 785 mm) embarque la batterie Blade LFP dans deux versions : 71,8 kWh (<strong>420 km WLTP</strong>) et 87 kWh (<strong>500 km WLTP</strong>). Le moteur développe <strong>204 ch</strong> en version de base ou <strong>313 ch</strong> en bi-moteur AWD. L'écran rotatif 15,6 pouces et la finition soignée positionnent le Seal U légèrement au-dessus en gamme.</p>
+
+<h2>Espace et praticité</h2>
+<p>Les deux SUV offrent un espace arrière très généreux grâce à des empattements supérieurs à 2 800 mm. Le Leapmotor C11 gagne en hauteur de garde au toit ; le BYD Seal U en largeur aux coudes. Les deux coffres sont suffisants pour une famille de 4-5 personnes avec bagages.</p>
+
+<h2>Recharge et autonomie réelle</h2>
+<p>Le BYD Seal U 87 kWh offre l'avantage de l'autonomie : <strong>500 km WLTP</strong> soit environ 420 km réels. Le Leapmotor C11 se contente de 350 km réels. En recharge rapide, le C11 atteint 80 kW DC max, le Seal U monte à <strong>110 kW</strong> — un avantage non négligeable sur autoroute.</p>
+
+<h2>Prix et verdict</h2>
+<p>Le <strong>Leapmotor C11</strong> à <strong>34 900 €</strong> est le plus abordable. Le <strong>BYD Seal U</strong> démarre à <strong>36 990 €</strong>. Pour le strict minimum avec un réseau SAV européen, le C11 est imbattable. Pour plus d'autonomie et une finition supérieure, le Seal U 87 kWh à 41 990 € reste excellent. Deux achats malins pour les familles.</p>
+`,
   },
   {
     slug: 'seres-5-vs-voyah-free-outsiders-chinois',
@@ -1004,6 +1303,25 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-12-15T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Les outsiders qui veulent bousculer l'ordre établi</h2>
+<p>En dehors des BYD, MG et NIO bien connus, d'autres marques chinoises tentent leur chance en Europe. Le <strong>Seres 5</strong> (groupe DFSK, anciennement Sokon) et le <strong>Voyah Free</strong> (filiale premium de Dongfeng) représentent cette deuxième vague d'outsiders ambitieux.</p>
+
+<h2>Seres 5 : l'alternative pragmatique</h2>
+<p>Le <strong>Seres 5</strong> (4 702 mm) est un SUV familial électrique au design sobre et efficace. Motorisation : <strong>292 ch</strong> (moteur arrière) avec une batterie LFP de 68,8 kWh offrant <strong>400 km WLTP</strong>. L'intérieur est fonctionnel avec un écran central 15,6 pouces et un coffre de 485 litres. Sa grande force : un prix agressif de <strong>33 990 €</strong>, obtenu grâce à une production en masse en Chine et des économies d'échelle.</p>
+
+<h2>Voyah Free : l'ambition premium Dongfeng</h2>
+<p>Le <strong>Voyah Free</strong> (4 905 mm) vise plus haut : c'est le SUV premium du géant Dongfeng, pensé pour rivaliser avec les BMW iX3 et Audi Q4 e-tron. Le bi-moteur développe <strong>510 ch</strong> avec un 0 à 100 en 4,4 secondes. La batterie CATL de 88 kWh autorise <strong>475 km WLTP</strong>. L'intérieur est spectaculaire avec un triple écran (12,3 + 15,6 + 12,3 pouces), des sièges en cuir Nappa ventilés et massants, et un système audio EAR (Electrical Audio Revolution) à 19 haut-parleurs.</p>
+
+<h2>Qualité de fabrication</h2>
+<p>Le Voyah Free affiche une qualité d'assemblage remarquable — ajustements de panneaux précis, matériaux flatteurs, isolation phonique soignée. Le Seres 5 est correct sans plus : quelques plastiques durs subsistent dans les parties basses de l'habitacle, et la peinture manque parfois de profondeur.</p>
+
+<h2>Réseau et SAV</h2>
+<p>Le Seres 5 est distribué en Europe via des importateurs indépendants — un réseau encore fragile. Le Voyah Free bénéficie du soutien du groupe Dongfeng, qui investit dans des showrooms dédiés et un réseau après-vente structuré en partenariat avec des réseaux existants.</p>
+
+<h2>Verdict</h2>
+<p>Le <strong>Seres 5</strong> est le choix budget : un SUV électrique honnête au prix le plus bas du segment. Le <strong>Voyah Free</strong> est la révélation premium : performances, finition et équipement dignes des marques allemandes à 20 000 € de moins. Si vous acceptez le risque d'une marque encore peu connue, le Voyah Free est l'un des meilleurs rapports prestations/prix du marché.</p>
+`,
   },
   {
     slug: 'mg5-vs-byd-han-break-vs-berline',
@@ -1016,6 +1334,24 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-12-08T09:00:00+01:00',
     readingTime: 6,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Break contre berline : deux formats, deux usages</h2>
+<p>Le <strong>MG5 EV</strong> est le seul break 100 % électrique du marché à prix abordable. La <strong>BYD Han EV</strong> est une berline premium qui joue dans la cour des Tesla Model 3 et BMW i4. Deux carrosseries, deux budgets, deux expériences radicalement différentes.</p>
+
+<h2>MG5 EV : la praticité avant tout</h2>
+<p>Le <strong>MG5 EV</strong> (4 600 mm) est un break familial au format idéal. Son coffre de <strong>479 litres</strong> (1 367 litres banquette rabattue) est le plus grand de sa catégorie électrique. Le moteur développe <strong>177 ch</strong> avec une batterie de 61 kWh offrant <strong>400 km WLTP</strong>. L'intérieur est fonctionnel sans être premium : écran 10,25 pouces, instrumentation numérique 7 pouces, matériaux corrects.</p>
+<p>À <strong>29 990 €</strong>, c'est l'offre imbattable pour les familles qui cherchent un véhicule électrique spacieux et abordable.</p>
+
+<h2>BYD Han EV : l'élégance statutaire</h2>
+<p>La <strong>BYD Han EV</strong> (4 995 mm) joue dans une tout autre catégorie : berline premium avec un design inspiré du « Dragon Face » signé Wolfgang Egger (ex-Alfa Romeo, Audi). L'intérieur est un écrin avec l'écran rotatif 15,6 pouces, des sièges en cuir Nappa ventilés et chauffants, et un système audio Dynaudio 12 haut-parleurs.</p>
+<p>Le bi-moteur AWD développe <strong>517 ch</strong> pour un 0 à 100 en 3,9 secondes. La batterie Blade 85,4 kWh offre <strong>521 km WLTP</strong>. Prix : à partir de <strong>46 990 €</strong>.</p>
+
+<h2>Usage quotidien</h2>
+<p>Le MG5 est le compagnon idéal des familles actives : courses, école, vacances — son format break avale tout. La BYD Han est la berline qui impressionne : déplacements professionnels, week-ends en couple, longs trajets dans un silence ouaté.</p>
+
+<h2>Verdict</h2>
+<p>Ce comparatif oppose plus deux philosophies que deux rivales directes. Le <strong>MG5 EV</strong> est le choix rationnel des familles avec un budget serré. La <strong>BYD Han EV</strong> est le choix du cœur pour ceux qui veulent du premium électrique chinois. Deux excellentes voitures, chacune reine dans son domaine.</p>
+`,
   },
 
   // --- Défis aux Européennes (articles.md #21-40) ---
