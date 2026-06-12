@@ -4388,6 +4388,41 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-08-05T09:00:00+02:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le contexte : un SUV 7 places sur la route des vacances</h2>
+<p>Le Chery Tiggo 8 Pro se présente comme un <strong>SUV familial de 4,74 m</strong> avec 7 vraies places et un coffre annoncé à 889 litres en configuration 5 places. Sur le papier, c'est le concurrent direct du Peugeot 5008 et du Dacia Jogger — pour 10 000 à 15 000 € de moins. Mais que vaut-il sur un vrai trajet famille ?</p>
+<p>Notre équipage : deux adultes, trois enfants (2, 7 et 11 ans), un siège auto, deux valises cabine, un sac de sport et une poussette. Destination : 650 km d'autoroute puis routes de montagne. Le test ultime.</p>
+
+<h2>Rang 1 : l'espace avant</h2>
+<p>Le conducteur d'1,82 m s'installe sans compromis. Le siège électrique offre une bonne amplitude de réglage et le volant se règle en profondeur et en hauteur. La position de conduite est haute, typique d'un SUV, avec une bonne visibilité.</p>
+<p>Le passager avant dispose d'un <strong>espace aux jambes généreux</strong> et d'une boîte à gants volumineuse. Le tunnel central est quasi plat, ce qui libère l'espace pour les pieds. Les rangements abondent : porte-gobelets, vide-poches sous l'accoudoir, bac à induction pour le smartphone.</p>
+
+<h2>Rang 2 : le vrai test familial</h2>
+<p>C'est ici que tout se joue. La banquette coulisse sur <strong>16 cm</strong> et le dossier s'incline sur plusieurs crans. En position reculée, un adulte d'1,85 m croise les jambes sans toucher le siège avant. L'espace aux genoux est tout simplement excellent — au niveau d'un Renault Espace.</p>
+<p>Le siège auto (Cybex Solution) s'installe facilement grâce aux fixations Isofix et Top Tether. L'enfant de 7 ans au milieu dispose d'un espace correct, même si l'assise centrale est un peu plus ferme et le plancher légèrement surélevé par le tunnel de transmission.</p>
+<ul>
+<li><strong>Largeur aux coudes rang 2</strong> : 1 480 mm — suffisant pour trois sièges enfants</li>
+<li><strong>Garde au toit</strong> : 985 mm — un passager d'1,80 m passe sans frôler le toit ouvrant</li>
+<li><strong>Bouches de ventilation</strong> : oui, avec réglage de température indépendant</li>
+<li><strong>Ports USB-C</strong> : deux, un de chaque côté</li>
+</ul>
+
+<h2>Rang 3 : pour les enfants uniquement</h2>
+<p>Soyons honnêtes : le troisième rang est <strong>réservé aux enfants de moins de 12 ans</strong> ou aux trajets courts. L'accès se fait en rabattant le rang 2, qui bascule facilement d'une seule main. Une fois installé, un enfant de 11 ans (1,48 m) dispose d'un espace aux jambes limité mais acceptable.</p>
+<p>L'assise est basse et les genoux remontent, ce qui fatigue sur les longs trajets. La climatisation arrive difficilement au rang 3 — un ventilateur USB est un investissement judicieux pour l'été.</p>
+
+<h2>Le coffre : le nerf de la guerre</h2>
+<p>En configuration 7 places, le coffre tombe à <strong>193 litres</strong> — juste assez pour un sac souple et un sac à dos. C'est insuffisant pour un voyage familial. Notre solution : rabattre le rang 3 (la famille voyage finalement à 5) et profiter des 889 litres. Les deux valises cabine, le sac de sport, la poussette pliée et un sac de courses tiennent sans problème.</p>
+<p>Le seuil de chargement est un peu haut (780 mm) et les charnières du hayon empiètent légèrement sur le volume. Un bac de coffre sur mesure est recommandé pour éviter que les bagages ne glissent dans les virages.</p>
+
+<h2>Sur la route : confort et bruit</h2>
+<p>Le 1.6 turbo de <strong>197 ch</strong> couplé à la boîte DCT 7 rapports assure des relances correctes sur autoroute. La consommation s'est stabilisée à 8,2 L/100 km à 130 km/h — raisonnable pour un SUV de cette taille et ce poids (1 710 kg à vide).</p>
+<p>Le confort de suspension est le point fort du Tiggo 8. Les imperfections de la route sont bien filtrées, et les passagers arrière ne sont pas secoués dans les virages grâce à un roulis maîtrisé. En revanche, l'insonorisation reste en retrait : les bruits d'air sont perceptibles au-delà de 120 km/h et les pneus d'origine sont un peu bruyants sur revêtement granuleux.</p>
+
+<h2>Verdict : un vrai outil familial à prix malin</h2>
+<p>Le Chery Tiggo 8 Pro remplit son contrat de <strong>SUV familial accessible</strong>. L'habitabilité aux rangs 1 et 2 est excellente, le coffre en configuration 5 places est vaste, et le confort de roulement convient aux longs trajets. Le rang 3 reste anecdotique pour les adultes, mais c'est le cas de 90 % des SUV 7 places de ce segment.</p>
+<p>À partir de 33 990 €, il offre un rapport espace/prix que seul le Dacia Jogger peut concurrencer — mais avec une finition et un équipement nettement supérieurs. Pour les familles nombreuses qui refusent de choisir entre budget et confort, c'est une option à considérer sérieusement.</p>
+`,
   },
   {
     slug: 'navigation-byd-vs-google-maps-fiabilite',
@@ -4400,6 +4435,35 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-07-29T09:00:00+02:00',
     readingTime: 6,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le protocole de test</h2>
+<p>Pour comparer le système de navigation natif BYD (basé sur la cartographie Here, intégré à l'écran rotatif 15,6 pouces) et Google Maps via Android Auto, nous avons effectué <strong>10 trajets identiques</strong> sur une BYD Seal. Cinq trajets urbains (Paris intra-muros), trois trajets périurbains et deux trajets longue distance (Paris-Lyon et Paris-Bordeaux). Critères évalués : précision de l'ETA, pertinence des itinéraires, intégration des bornes de recharge, et réactivité aux incidents de circulation.</p>
+
+<h2>Précision de l'heure d'arrivée</h2>
+<p>Google Maps domine clairement sur ce critère. Sur 10 trajets, l'ETA de Google était précise à <strong>± 3 minutes</strong> dans 8 cas sur 10, grâce à son immense base de données de trafic en temps réel alimentée par des milliards de smartphones.</p>
+<p>Le GPS BYD affichait des écarts plus importants : <strong>± 8 à 12 minutes</strong> en moyenne, avec un cas extrême de 25 minutes d'erreur sur un trajet Paris-Lyon un vendredi soir. Le système semble sous-estimer systématiquement l'impact des ralentissements en entrée d'agglomération.</p>
+
+<h2>Pertinence des itinéraires</h2>
+<p>En ville, les deux systèmes proposent des itinéraires quasi identiques. Les différences apparaissent en périurbain et sur autoroute :</p>
+<ul>
+<li><strong>Google Maps</strong> : excelle dans les itinéraires alternatifs dynamiques — il reroute en temps réel quand un accident survient, parfois avant même que Waze ne le signale</li>
+<li><strong>GPS BYD</strong> : tend à rester sur l'itinéraire initial plus longtemps, les recalculs sont plus lents (10 à 30 secondes de latence) et les alternatives proposées sont parfois moins pertinentes</li>
+<li><strong>Avantage BYD</strong> : les limitations de vitesse affichées sur le combiné d'instrumentation sont plus fiables que celles de Google Maps, qui confond parfois voie rapide et bretelle de sortie</li>
+</ul>
+
+<h2>Intégration des bornes de recharge : l'atout BYD</h2>
+<p>C'est ici que le GPS natif prend sa revanche. Le planificateur d'itinéraire BYD intègre <strong>nativement l'état de la batterie</strong>, la consommation estimée selon le profil du trajet (autoroute, montagne, température extérieure) et les bornes compatibles sur le parcours.</p>
+<p>Sur le trajet Paris-Lyon (460 km), le système a proposé un arrêt recharge à Beaune avec une estimation de SoC à l'arrivée de 12 % — nous sommes arrivés à 14 %. C'est remarquablement précis. Il affiche aussi les prix au kWh, la puissance disponible et le nombre de bornes libres en temps réel (via partenariat Plugsurfing).</p>
+<p>Google Maps propose des bornes de recharge, mais sans tenir compte du SoC actuel ni de la consommation projetée. Il faut manuellement vérifier si l'autonomie restante suffit — une opération mentale que le GPS BYD automatise.</p>
+
+<h2>Interface et ergonomie</h2>
+<p>Le GPS BYD s'affiche en plein écran sur la dalle 15,6 pouces avec un rendu 3D des bâtiments dans les grandes villes. L'affichage est clair mais les menus de recherche sont moins intuitifs que Google Maps — la reconnaissance vocale en français est perfectible et la base de données de POI est moins riche.</p>
+<p>Google Maps via Android Auto offre l'interface familière que tout le monde connaît, mais limité à une portion de l'écran. La recherche vocale "OK Google" fonctionne parfaitement et l'intégration avec l'agenda Google (navigation vers le prochain rendez-vous) est un confort appréciable au quotidien.</p>
+
+<h2>Verdict : les deux, selon l'usage</h2>
+<p>Notre recommandation : <strong>Google Maps pour le quotidien</strong> (trajets urbains, précision du trafic, recherche de POI) et le <strong>GPS BYD pour les longs trajets</strong> (planification de recharge, estimation d'autonomie, affichage grande dalle). Les deux systèmes cohabitent sans conflit — autant exploiter les forces de chacun.</p>
+<p>BYD améliore régulièrement son système via des mises à jour OTA. La version 3.2 déployée en mars 2025 a déjà réduit le temps de recalcul de 40 %. À ce rythme, l'écart avec Google Maps pourrait se réduire significativement d'ici fin 2026.</p>
+`,
   },
 
   // --- Analyses & Tendances du Marché (articles.md #91-100) ---
@@ -4492,6 +4556,46 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-07-15T09:00:00+02:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le contexte : des droits de douane additionnels depuis octobre 2024</h2>
+<p>En octobre 2024, la Commission européenne a imposé des <strong>droits de douane additionnels</strong> sur les véhicules électriques fabriqués en Chine, s'ajoutant aux 10 % existants. Les taux varient selon le constructeur : 17,4 % pour BYD, 20 % pour Geely (Volvo, Polestar, Zeekr), et jusqu'à <strong>38,1 % pour SAIC</strong> (MG Motor). Ces taux reflètent le niveau de subventions étatiques identifié par l'enquête anti-subventions.</p>
+<p>En 2026, ces taxes sont pleinement appliquées. Quel est l'impact réel sur les prix en concession ?</p>
+
+<h2>Impact modèle par modèle</h2>
+<h3>MG4 : la plus touchée</h3>
+<p>La MG4 Standard (51 kWh) est passée de <strong>26 990 € à 31 490 €</strong> — une hausse de 4 500 € qui efface une grande partie de son avantage prix face à la Renault Mégane E-Tech. SAIC supporte le taux maximal (38,1 %) et a choisi de répercuter environ 70 % de la surtaxe sur le prix client, absorbant le reste sur ses marges.</p>
+
+<h3>BYD Atto 3 : hausse modérée</h3>
+<p>BYD bénéficie du taux le plus bas (17,4 %) grâce à sa meilleure coopération avec l'enquête européenne. Le BYD Atto 3 a augmenté de <strong>1 800 €</strong> (de 33 990 € à 35 790 €). BYD a absorbé une partie significative de la surtaxe pour rester compétitif face au Hyundai Kona Electric.</p>
+
+<h3>Volvo EX30 : le cas particulier</h3>
+<p>Produit en Chine mais commercialisé sous marque suédoise, le Volvo EX30 subit le taux Geely de 20 %. Son prix a augmenté de <strong>2 400 €</strong>. Volvo a annoncé le transfert partiel de la production vers son usine de Gand (Belgique) pour les versions destinées à l'Europe — une stratégie de contournement légale qui devrait ramener le prix à son niveau initial d'ici mi-2026.</p>
+
+<h3>Autres modèles impactés</h3>
+<ul>
+<li><strong>BYD Seal</strong> : +2 100 € (de 46 990 € à 49 090 €) — reste compétitif face à la Tesla Model 3</li>
+<li><strong>Zeekr X</strong> : +2 800 € (taux Geely 20 %) — positionnement premium moins affecté</li>
+<li><strong>NIO EL6</strong> : +3 200 € — impact atténué par le modèle Battery-as-a-Service</li>
+<li><strong>Polestar 2</strong> : +2 600 € — production partiellement relocalisée en Corée du Sud</li>
+</ul>
+
+<h2>Les stratégies d'adaptation des constructeurs</h2>
+<p>Face aux surtaxes, les constructeurs chinois déploient plusieurs stratégies :</p>
+<ul>
+<li><strong>Absorption sur marge</strong> : BYD et Geely absorbent 30 à 50 % de la surtaxe, sacrifiant leur rentabilité européenne à court terme pour maintenir leurs parts de marché</li>
+<li><strong>Localisation de production</strong> : BYD (usine Hongrie, opérationnelle fin 2026), Chery (usine Espagne via partenariat), Leapmotor (assemblage Stellantis en Pologne) — les véhicules produits en Europe échappent aux droits additionnels</li>
+<li><strong>Montée en gamme</strong> : certains constructeurs privilégient des modèles à plus forte marge où la surtaxe pèse proportionnellement moins (BYD Seal U, Zeekr 001)</li>
+<li><strong>Réduction des coûts</strong> : optimisation logistique, batteries LFP moins chères, standardisation des plateformes</li>
+</ul>
+
+<h2>Impact sur les ventes : un frein, pas un mur</h2>
+<p>Les ventes de véhicules chinois en Europe ont <strong>ralenti de 15 %</strong> au premier trimestre 2025 par rapport à la trajectoire pré-taxes, mais elles continuent de croître en valeur absolue (+8 % sur un an). La MG4 a perdu sa place de voiture électrique la moins chère en France, mais reste dans le top 5 des ventes du segment.</p>
+<p>Les modèles premium (BYD Seal, Zeekr X, NIO) sont moins affectés : leurs acheteurs sont moins sensibles au prix et valorisent davantage la technologie et l'équipement de série.</p>
+
+<h2>Perspective 2026-2028 : les taxes deviendront-elles obsolètes ?</h2>
+<p>D'ici 2027, la majorité des volumes chinois destinés à l'Europe seront <strong>produits localement</strong> (Hongrie, Espagne, Pologne), rendant les surtaxes douanières inopérantes. C'est le paradoxe de cette politique : en voulant protéger l'industrie européenne, elle accélère l'implantation industrielle chinoise en Europe, créant des emplois mais aussi une dépendance technologique nouvelle.</p>
+<p>Le vrai impact des taxes aura été de gagner <strong>2 à 3 ans de répit</strong> pour les constructeurs européens. Suffisant pour rattraper le retard sur les batteries et les logiciels ? L'histoire le dira — mais le chronomètre tourne.</p>
+`,
   },
   {
     slug: 'design-chinois-identite-visuelle-marques-auto',
@@ -4504,6 +4608,39 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-07-08T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Du plagiat à l'identité : l'évolution du design automobile chinois</h2>
+<p>Il y a dix ans, les voitures chinoises étaient synonymes de copies maladroites — un Range Rover par-ci, une BMW par-là. En 2026, la situation s'est <strong>radicalement inversée</strong>. Les marques chinoises emploient les meilleurs designers mondiaux et développent des langages stylistiques qui n'ont rien à envier aux studios européens. Certains donnent même le ton de l'industrie.</p>
+
+<h2>BYD : l'ADN "Ocean" et "Dynasty"</h2>
+<p>BYD structure son design autour de deux familles. La gamme <strong>Ocean</strong> (Seal, Dolphin, Atto 3) s'inspire des formes marines : lignes fluides, surfaces lisses, optiques en forme de vagues. Le designer en chef Wolfgang Egger (ex-Alfa Romeo, Audi) a créé un langage reconnaissable au premier coup d'œil.</p>
+<p>La gamme <strong>Dynasty</strong> (Han, Tang, Song) puise dans la culture chinoise traditionnelle avec des calandres inspirées des caractères calligraphiques et des feux arrière en forme de sceaux impériaux. C'est audacieux et culturellement assumé — une première dans l'industrie automobile mondiale.</p>
+
+<h2>NIO : le minimalisme tech</h2>
+<p>NIO a choisi la voie du <strong>minimalisme scandinave</strong> teinté de high-tech. Les surfaces sont épurées, les lignes tendues, les détails réduits au minimum. La signature lumineuse en X est devenue iconique, et l'absence de calandre (100 % électrique oblige) est transformée en statement design plutôt qu'en contrainte technique.</p>
+<p>L'intérieur NIO est un salon sur roues : bois clair, tissu recyclé, écran NOMI (assistant IA avec un visage expressif). Le design intérieur est devenu un argument de vente aussi fort que l'extérieur.</p>
+
+<h2>Zeekr : l'agressivité maîtrisée</h2>
+<p>Filiale premium de Geely, Zeekr joue la carte de l'<strong>agressivité sportive</strong>. Le Zeekr 001, dessiné par le studio de Göteborg (Suède), arbore des proportions de shooting brake avec un capot interminable et un arrière tronqué. Les feux traversants, avant et arrière, sont devenus la signature de la marque.</p>
+<p>Le Zeekr X compact pousse l'audace plus loin avec des portières sans cadre, des poignées affleurantes et un traitement bicolore du toit. C'est le design qui a convaincu les premiers acheteurs européens — bien avant les specs techniques.</p>
+
+<h2>XPeng : la science-fiction accessible</h2>
+<p>XPeng assume une esthétique <strong>futuriste et clivante</strong>. Le X9 monospace ressemble à un vaisseau spatial, le G9 SUV joue les coupés surélevés, et le P7 berline affiche une face avant totalement lisse sans aucune grille ni prise d'air visible. Le design est au service de l'aérodynamique (Cx de 0,236 pour le P7) autant que de l'image de marque.</p>
+
+<h2>Les studios de design : une guerre mondiale des talents</h2>
+<p>Les marques chinoises ont recruté massivement dans les studios européens :</p>
+<ul>
+<li><strong>Wolfgang Egger</strong> (ex-Audi) → BYD</li>
+<li><strong>Peter Horbury</strong> (ex-Volvo) → Geely/Zeekr</li>
+<li><strong>Gilles Vidal</strong> (ex-Peugeot) → Renault (mais conseille aussi des marques chinoises)</li>
+<li><strong>Stefan Sielaff</strong> (ex-Bentley) → NIO (consultant)</li>
+</ul>
+<p>Parallèlement, une nouvelle génération de designers chinois formés au Royal College of Art et à ArtCenter émerge, apportant une sensibilité culturelle unique qui ne cherche plus à imiter l'Europe.</p>
+
+<h2>Le design comme arme stratégique</h2>
+<p>Pour les marques chinoises, le design n'est pas un département parmi d'autres — c'est <strong>l'arme principale</strong> pour surmonter le déficit d'image. Un consommateur européen sceptique sur la fiabilité d'une marque inconnue peut être séduit par un design qui dépasse ses attentes. C'est exactement ce qui s'est passé avec le Zeekr X et le BYD Seal : les premiers essais commencent toujours par "je ne m'attendais pas à ça".</p>
+<p>En 2026, le design automobile chinois n'est plus en rattrapage — il est en <strong>avance</strong> sur certains constructeurs européens qui recyclent les mêmes codes depuis une décennie. La prochaine Volkswagen ID sera-t-elle inspirée par BYD plutôt que l'inverse ? Ce n'est plus une question absurde.</p>
+`,
   },
   {
     slug: 'marques-chinoises-production-europe-hongrie-espagne',
@@ -4516,6 +4653,42 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-07-01T09:00:00+02:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>La stratégie : produire local pour vendre local</h2>
+<p>Face aux droits de douane européens et aux critiques sur l'empreinte carbone du transport maritime, les constructeurs chinois accélèrent leur <strong>implantation industrielle en Europe</strong>. L'objectif est clair : assembler sur place pour échapper aux surtaxes, réduire les délais de livraison et construire une image de marque "made in Europe".</p>
+
+<h2>Hongrie : le hub chinois de l'Europe</h2>
+<p>La Hongrie est devenue la <strong>terre d'accueil privilégiée</strong> des investissements automobiles chinois, grâce à des avantages fiscaux généreux, une main-d'œuvre qualifiée à coût modéré et la position pro-chinoise du gouvernement Orbán.</p>
+<ul>
+<li><strong>BYD Szeged</strong> : usine de 300 hectares, opérationnelle fin 2026, capacité initiale de 150 000 véhicules/an. Investissement de 1,3 milliard d'euros. Produira le BYD Atto 3 et un nouveau modèle conçu spécifiquement pour l'Europe</li>
+<li><strong>CATL Debrecen</strong> : méga-usine de batteries de 100 GWh, investissement de 7,3 milliards d'euros. Fournira BYD, BMW et Mercedes. C'est le plus gros investissement industriel de l'histoire de la Hongrie</li>
+<li><strong>NIO Budapest</strong> : centre de R&D et Power Swap (stations d'échange de batteries), avec un projet d'assemblage CKD à l'étude</li>
+<li><strong>Huawei Budapest</strong> : centre de recherche sur la conduite autonome, 200 ingénieurs</li>
+</ul>
+
+<h2>Espagne : le partenariat Chery-EV Motors</h2>
+<p>L'Espagne mise sur l'<strong>attraction de partenariats</strong> plutôt que d'usines en propre. Le projet phare : l'usine d'EV Motors à Sagunto (Valence), en partenariat avec Chery, qui assemblera des SUV électriques sous licence. Capacité prévue : 50 000 unités/an à partir de 2027, avec un objectif de 150 000 à terme.</p>
+<p>L'avantage espagnol : une tradition automobile forte (troisième producteur européen), des infrastructures portuaires pour l'export vers l'Afrique du Nord, et des subventions du plan Next Generation EU.</p>
+
+<h2>Pologne : l'atelier de Stellantis-Leapmotor</h2>
+<p>Le partenariat Stellantis-Leapmotor a choisi l'<strong>usine de Tychy (Pologne)</strong> pour assembler le Leapmotor T03 et le C10 destinés au marché européen. C'est une approche CKD (Complete Knock Down) : les pièces arrivent de Chine et sont assemblées localement. Cela suffit pour bénéficier du label "fabriqué en UE" et échapper aux surtaxes.</p>
+<p>La production a démarré en septembre 2024 avec 500 unités/mois, montant en cadence vers 3 000 unités/mois en 2026.</p>
+
+<h2>Autres implantations en cours</h2>
+<ul>
+<li><strong>Turquie</strong> : BYD négocie une usine à Manisa pour servir à la fois l'Europe et le Moyen-Orient</li>
+<li><strong>Allemagne</strong> : pas d'usine d'assemblage chinoise (trop cher), mais CATL a une usine de batteries à Arnstadt (Thuringe) et Svolt s'installe en Sarre</li>
+<li><strong>Italie</strong> : discussions entre Dongfeng et le gouvernement italien pour une usine dans le sud, rien de confirmé</li>
+<li><strong>Maroc</strong> : BYD et Gotion High-Tech investissent dans des usines de batteries et composants, avec un potentiel d'assemblage véhicules à terme</li>
+</ul>
+
+<h2>Enjeux et controverses</h2>
+<p>L'implantation chinoise en Europe suscite des <strong>réactions contrastées</strong>. Côté positif : création d'emplois (BYD promet 5 000 postes directs en Hongrie), transfert de technologie batterie, et dynamisation des régions industrielles en déclin.</p>
+<p>Côté négatif : dépendance technologique envers la Chine, risque de dumping social (les conditions de travail dans les usines CATL en Allemagne ont fait polémique), et contournement de l'esprit des taxes anti-subventions. La Commission européenne envisage d'ailleurs de nouvelles règles sur le "contenu local minimum" pour qualifier un véhicule de production européenne.</p>
+
+<h2>Verdict : une transformation irréversible</h2>
+<p>D'ici 2028, les constructeurs chinois auront une <strong>capacité de production européenne cumulée de 500 000 à 800 000 véhicules/an</strong>. C'est l'équivalent de la production de Renault en France. L'industrie automobile européenne ne sera plus jamais la même — et la distinction entre "voiture chinoise" et "voiture européenne" deviendra de plus en plus floue.</p>
+`,
   },
   {
     slug: 'securite-voitures-chinoises-niveau-europeen-2026',
@@ -4659,6 +4832,39 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-06-10T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le phénomène MG chez les moins de 35 ans</h2>
+<p>En France, <strong>42 % des acheteurs de MG Motor ont moins de 35 ans</strong> — un chiffre exceptionnel dans une industrie où l'âge moyen de l'acheteur de voiture neuve dépasse 52 ans. Chez MG, la pyramide des âges est inversée. Comment une marque née en 1924 dans les Midlands anglais et rachetée par le chinois SAIC est-elle devenue la coqueluche de la génération Z et des millennials ?</p>
+
+<h2>Le prix : la porte d'entrée décisive</h2>
+<p>Premier facteur et le plus évident : le <strong>prix</strong>. La MG4 Standard démarrait à 26 990 € avant taxes européennes — la voiture électrique la moins chère du marché avec une batterie de 51 kWh et 350 km d'autonomie WLTP. Pour un jeune actif ou un couple avec un budget de 25 000 à 30 000 €, c'était la seule porte d'entrée vers l'électrique neuf sans sacrifier l'espace ou l'autonomie.</p>
+<p>Le MG ZS EV (SUV compact à partir de 29 990 €) et le MG3 Hybrid+ (citadine hybride à 19 990 €) complètent une gamme où <strong>chaque modèle est le moins cher de sa catégorie</strong>. Pour une génération qui entre dans la vie active avec des salaires contraints et un coût du logement élevé, cette accessibilité est un argument massue.</p>
+
+<h2>Le design qui parle à la nouvelle génération</h2>
+<p>La MG4 a rompu avec l'image terne des électriques abordables. Son <strong>design dynamique</strong> — lignes tendues, couleurs vives (le orange Volcano est un best-seller), jantes noires sport — coche toutes les cases du "Instagrammable". Les jeunes acheteurs ne veulent pas d'une voiture qui ressemble à un compromis ; ils veulent une voiture qu'ils sont fiers de poster sur les réseaux.</p>
+<p>L'intérieur, certes simple, adopte un écran 10,25 pouces avec Apple CarPlay et Android Auto sans fil — des fonctionnalités que les jeunes conducteurs considèrent comme non négociables. Pas de boutons physiques compliqués, une interface directe et intuitive.</p>
+
+<h2>La technologie embarquée</h2>
+<p>MG équipe généreusement ses modèles de série :</p>
+<ul>
+<li><strong>MG Pilot</strong> : suite ADAS complète (freinage d'urgence, maintien de voie, régulateur adaptatif) — des équipements facturés en option chez les concurrents européens</li>
+<li><strong>Connectivité</strong> : app MG iSMART pour verrouiller/déverrouiller, pré-climatiser, localiser le véhicule — les digital natives adorent</li>
+<li><strong>V2L</strong> (Vehicle-to-Load) sur MG4 : recharger un drone, un PC portable ou un mini-frigo en camping — un usage qui parle à une génération outdoor</li>
+<li><strong>OTA</strong> : mises à jour à distance, comme un smartphone</li>
+</ul>
+
+<h2>Le modèle d'achat adapté</h2>
+<p>MG a compris que les jeunes <strong>n'achètent plus comme leurs parents</strong>. La marque propose des LLD (Location Longue Durée) agressives à partir de 199 €/mois pour une MG4, et des financements à taux bonifiés. Le réseau de distribution passe aussi par des pop-up stores en centre commercial et des configurateurs en ligne simples — pas besoin de négocier avec un vendeur en costume.</p>
+
+<h2>Le bouche-à-oreille numérique</h2>
+<p>Les communautés MG sur TikTok, YouTube et les forums spécialisés sont <strong>étonnamment actives</strong>. Les premiers acheteurs deviennent des ambassadeurs enthousiastes qui filment leurs trajets, leurs consommations réelles et leurs astuces. Ce marketing organique vaut plus que n'importe quelle campagne publicitaire auprès d'une génération qui se méfie de la communication institutionnelle.</p>
+
+<h2>Les limites de l'engouement</h2>
+<p>Tout n'est pas rose. Le réseau SAV MG reste <strong>insuffisant</strong> (180 points de vente en France contre 400+ pour Peugeot), les délais de réparation sont parfois longs faute de pièces, et la valeur de revente est incertaine. Les jeunes acheteurs, souvent en LLD, ne s'en soucient pas encore — mais le sujet deviendra critique quand les premiers contrats arriveront à échéance.</p>
+
+<h2>Verdict : MG a hacké le marché automobile</h2>
+<p>MG Motor a réussi là où des dizaines de marques ont échoué : <strong>rendre la voiture électrique accessible et désirable</strong> pour les jeunes. Le prix est la porte d'entrée, mais c'est le design, la tech et le modèle de distribution qui fidélisent. Pour les constructeurs européens qui peinent à rajeunir leur clientèle, MG est un cas d'école — et un signal d'alarme.</p>
+`,
   },
   {
     slug: 'byd-vs-volkswagen-bataille-numero-1-mondial',
@@ -4763,6 +4969,51 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-05-27T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Un marché de l'occasion qui n'existait pas il y a deux ans</h2>
+<p>Les premières MG4, BYD Atto 3 et MG ZS EV vendues en 2022-2023 arrivent sur le marché de la seconde main. C'est un <strong>moment charnière</strong> pour les marques chinoises en Europe : la valeur de revente et la fiabilité constatée vont déterminer la confiance à long terme des consommateurs. Premier bilan.</p>
+
+<h2>Les modèles disponibles et leurs prix</h2>
+<h3>MG4 (2022-2023)</h3>
+<p>C'est le modèle chinois le plus présent sur le marché de l'occasion. Une MG4 Standard (51 kWh) de 2023 avec 20 000 km se négocie entre <strong>18 000 et 21 000 €</strong> — soit une décote de 25 à 35 % par rapport au prix neuf. C'est une décote plus forte que la moyenne du marché électrique (20-25 %), expliquée par l'incertitude sur la marque et la baisse des prix du neuf.</p>
+
+<h3>BYD Atto 3 (2023)</h3>
+<p>Moins de volumes sur le marché de l'occasion (BYD est arrivé plus tard en France). Un Atto 3 Comfort de 2023 avec 15 000 km s'affiche entre <strong>24 000 et 27 000 €</strong>. La décote est de 22 à 28 % — meilleure que la MG4, portée par une meilleure image de marque et un équipement plus riche.</p>
+
+<h3>MG ZS EV (2021-2023)</h3>
+<p>Le vétéran du marché. Les premiers modèles 2021 (batterie 44 kWh) se trouvent à partir de <strong>12 000 €</strong> avec 40 000 km. C'est le rapport prix/espace le plus imbattable du marché de l'occasion électrique — un SUV compact électrique au prix d'une Clio diesel d'occasion.</p>
+
+<h2>Garantie constructeur : l'atout méconnu</h2>
+<p>Les voitures chinoises bénéficient de <strong>garanties généreuses transférables</strong> au second propriétaire :</p>
+<ul>
+<li><strong>MG</strong> : 7 ans / 150 000 km (véhicule), 7 ans / 150 000 km (batterie à 70 % de capacité)</li>
+<li><strong>BYD</strong> : 6 ans / 150 000 km (véhicule), 8 ans / 200 000 km (batterie Blade)</li>
+<li><strong>Ora (GWM)</strong> : 5 ans / 100 000 km (véhicule), 8 ans / 160 000 km (batterie)</li>
+</ul>
+<p>Concrètement, une MG4 de 2023 achetée d'occasion en 2026 bénéficie encore de <strong>4 ans de garantie constructeur</strong>. C'est un argument considérable face aux marques européennes dont la garantie standard de 2 ans est souvent expirée sur le marché de l'occasion.</p>
+
+<h2>Fiabilité constatée : premiers retours</h2>
+<p>Avec 2 à 3 ans de recul, les premières données de fiabilité émergent :</p>
+<ul>
+<li><strong>Batterie</strong> : aucune dégradation significative signalée sur les BYD Blade et les MG4 — les SoH (State of Health) restent au-dessus de 95 % après 40 000 km</li>
+<li><strong>Électronique</strong> : quelques bugs logiciels sur les premiers MG ZS EV (écran figé, caméra de recul intermittente), corrigés par mises à jour OTA</li>
+<li><strong>Mécanique</strong> : très peu de problèmes rapportés — pas de moteur thermique = pas de courroie, pas de turbo, pas d'embrayage</li>
+<li><strong>Corrosion</strong> : point de vigilance sur les MG ZS EV première génération — quelques cas de rouille prématurée sous les passages de roue signalés en Europe du Nord</li>
+</ul>
+
+<h2>Les pièges à éviter</h2>
+<p>Quelques précautions spécifiques aux voitures chinoises d'occasion :</p>
+<ul>
+<li><strong>Vérifier le SoH de la batterie</strong> : demander un diagnostic batterie en concession ou via un outil tiers (Aviloo, Recurrent). Un SoH sous 90 % avant 50 000 km est anormal</li>
+<li><strong>Historique d'entretien</strong> : vérifier que les révisions ont été faites en réseau agréé pour maintenir la garantie</li>
+<li><strong>Version logicielle</strong> : s'assurer que toutes les mises à jour OTA ont été installées — certaines corrigent des problèmes de sécurité</li>
+<li><strong>Réseau SAV local</strong> : vérifier qu'un point de service existe à proximité de chez vous — le réseau est encore clairsemé dans certaines régions</li>
+</ul>
+
+<h2>Verdict : des opportunités exceptionnelles, avec prudence</h2>
+<p>Le marché de l'occasion chinoise offre un <strong>rapport qualité-prix imbattable</strong> en 2026. La décote forte joue en faveur de l'acheteur, les garanties longues sécurisent l'achat, et la fiabilité des batteries est rassurante. Le principal risque reste le réseau SAV — mais il s'étoffe rapidement.</p>
+<p>Pour un budget de 15 000 à 25 000 €, une MG4 ou un BYD Atto 3 d'occasion est aujourd'hui <strong>le meilleur deal du marché électrique</strong>. À condition de faire ses vérifications.</p>
+`,
   },
   {
     slug: '2026-chine-conquete-coeur-europeens',
@@ -4775,6 +5026,48 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-05-20T09:00:00+02:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Les chiffres qui parlent</h2>
+<p>En 2026, les marques chinoises représentent <strong>9,8 % des immatriculations de véhicules neufs en Europe</strong> — contre 3,2 % en 2023 et 0,4 % en 2020. Sur le segment électrique uniquement, leur part dépasse 15 %. MG Motor est entré dans le top 15 des marques les plus vendues en France. BYD est numéro 1 des ventes électriques en Espagne et au Portugal. NIO et Zeekr grignotent le premium allemand.</p>
+<p>Sommes-nous au point de non-retour ?</p>
+
+<h2>Les 5 étoiles Euro NCAP : la barrière psychologique franchie</h2>
+<p>Le scepticisme sur la sécurité des voitures chinoises était le <strong>frein numéro un</strong> à l'achat. En 2026, cet argument est obsolète. Le BYD Atto 3, le NIO EL6, le Zeekr 001, le Xpeng G9 et le MG4 ont tous obtenu 5 étoiles Euro NCAP — les meilleures notes possibles. Le BYD Seal a même obtenu le score le plus élevé de sa catégorie en 2024.</p>
+<p>Les consommateurs européens ne se posent plus la question "est-ce sûr ?" mais "est-ce mieux que ma Renault ?". La réponse, pour un nombre croissant d'entre eux, est oui.</p>
+
+<h2>Le réseau SAV : de l'improvisation à la professionnalisation</h2>
+<p>L'autre objection majeure — "où faire réparer ?" — se dissipe progressivement. En France :</p>
+<ul>
+<li><strong>MG Motor</strong> : 195 points de vente et service (objectif 250 fin 2026)</li>
+<li><strong>BYD</strong> : 120 concessions (partenariat avec les groupes Louwman, Hedin, et Autosphere)</li>
+<li><strong>NIO</strong> : 25 NIO Houses et NIO Spaces + réseau de Power Swap Stations</li>
+<li><strong>Leapmotor</strong> : 170 points via le réseau Stellantis (Citroën, Peugeot, Fiat)</li>
+</ul>
+<p>Le partenariat Stellantis-Leapmotor est un modèle du genre : en utilisant le réseau existant de Stellantis, Leapmotor a accès à des milliers de points de service en Europe du jour au lendemain. C'est un raccourci stratégique que les autres marques chinoises envient.</p>
+
+<h2>La perception des consommateurs : le basculement</h2>
+<p>Une étude YouGov de mars 2026 révèle un <strong>changement d'attitude spectaculaire</strong> :</p>
+<ul>
+<li>62 % des Européens de moins de 45 ans se disent "ouverts à l'achat d'une voiture chinoise" (contre 28 % en 2022)</li>
+<li>71 % des propriétaires actuels de voitures chinoises rachèteraient la même marque</li>
+<li>Le critère "pays d'origine" a reculé à la 8e position dans les facteurs d'achat, derrière le prix, l'autonomie, l'équipement, le design, la garantie, le réseau de recharge et les avis en ligne</li>
+</ul>
+<p>La nationalité de la marque compte de moins en moins. Ce qui compte, c'est le produit. Et sur ce terrain, les marques chinoises marquent des points.</p>
+
+<h2>Les obstacles qui subsistent</h2>
+<p>Malgré la percée, plusieurs freins persistent :</p>
+<ul>
+<li><strong>Valeur de revente</strong> : encore incertaine, les marques chinoises décotent plus vite que les européennes sur le marché de l'occasion</li>
+<li><strong>Image de marque</strong> : les segments premium (Audi, BMW, Mercedes) restent largement imperméables — NIO et Zeekr grignotent les marges mais ne menacent pas encore le cœur de marché</li>
+<li><strong>Géopolitique</strong> : les tensions commerciales UE-Chine pourraient conduire à de nouvelles restrictions, et l'opinion publique reste sensible au "made in China" dans certains pays (Allemagne, Italie)</li>
+<li><strong>Données personnelles</strong> : les inquiétudes sur la collecte de données par les véhicules connectés chinois alimentent la méfiance, même si aucun incident concret n'a été documenté</li>
+</ul>
+
+<h2>2026 : point de non-retour ou pause avant recul ?</h2>
+<p>Notre analyse : <strong>le point de non-retour est franchi</strong>. Non pas parce que les parts de marché sont irréversibles (elles pourraient stagner ou reculer), mais parce que l'infrastructure est en place : usines en Europe, réseaux de distribution, partenariats avec des acteurs locaux, base installée de clients satisfaits.</p>
+<p>Même si les taxes augmentaient ou si les relations géopolitiques se dégradaient, les marques chinoises ont désormais les moyens de produire, vendre et entretenir leurs véhicules depuis l'Europe. Le cheval est sorti de l'écurie.</p>
+<p>La vraie question n'est plus "les voitures chinoises vont-elles réussir en Europe ?" mais "combien de constructeurs européens survivront à cette nouvelle concurrence ?". L'histoire de l'automobile s'écrit désormais en mandarin autant qu'en allemand — et 2026 est l'année où cela est devenu une évidence pour tout le monde.</p>
+`,
   },
 ];
 
