@@ -2244,6 +2244,44 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'guide',
     publishedAt: '2025-05-05T09:00:00+02:00',
     readingTime: 7,
+    body: `
+<h2>La décote des voitures chinoises : mythe ou réalité ?</h2>
+<p>C'est la question qui freine de nombreux acheteurs potentiels : "Si j'achète une MG ou une BYD, combien vaudra-t-elle dans 3 ans ?" La décote — la perte de valeur d'un véhicule au fil du temps — est un critère souvent négligé au moment de l'achat mais qui pèse lourd sur le coût total de possession. Les marques chinoises décotent-elles vraiment plus vite que leurs concurrentes européennes ? Les chiffres réels apportent des réponses nuancées.</p>
+
+<h2>La décote moyenne du marché : un rappel</h2>
+<p>En France, une voiture neuve perd en moyenne :</p>
+<ul>
+  <li><strong>20-25 %</strong> la première année</li>
+  <li><strong>35-40 %</strong> après 2 ans</li>
+  <li><strong>45-55 %</strong> après 3 ans</li>
+</ul>
+<p>Les véhicules électriques décotent généralement plus vite que les thermiques en raison de l'évolution rapide de la technologie (autonomie, recharge). Les Tesla constituent l'exception avec une décote inférieure au marché grâce à la force de la marque.</p>
+
+<h2>MG : une décote forte mais logique</h2>
+<p>Les MG (MG4, MG ZS EV, MG ZS Hybrid+) affichent une décote de <strong>40 à 50 % après 2 ans</strong>. C'est supérieur à la moyenne du marché. Plusieurs facteurs l'expliquent :</p>
+<ul>
+  <li><strong>Prix neuf très bas</strong> : une MG4 à 28 000 € neuve ne peut pas conserver autant de valeur qu'une VW ID.3 à 42 000 €</li>
+  <li><strong>Renouvellement rapide</strong> : MG sort de nouvelles versions fréquemment, rendant les modèles précédents moins attractifs</li>
+  <li><strong>Image de marque en construction</strong> : MG n'a pas encore la notoriété qui soutient les prix de revente</li>
+</ul>
+<p>Cependant, en <strong>valeur absolue</strong>, la perte est souvent comparable ou inférieure à celle d'une Renault ou Peugeot. Une MG4 achetée 28 000 € qui vaut 16 000 € après 2 ans a coûté 12 000 € de décote. Une VW ID.3 achetée 42 000 € qui vaut 25 000 € après 2 ans a coûté 17 000 € de décote. En euros sonnants et trébuchants, la MG fait mieux.</p>
+
+<h2>BYD : des premiers signes encourageants</h2>
+<p>BYD est plus récent sur le marché européen, mais les premières données sont encourageantes. La BYD Atto 3, commercialisée en France depuis fin 2022, affiche une décote de <strong>35-40 % après 2 ans</strong> — dans la moyenne du marché électrique. La BYD Seal, plus premium, semble mieux résister avec <strong>30-35 %</strong> de décote estimée.</p>
+<p>Plusieurs facteurs jouent en faveur de BYD : la <strong>durabilité de la batterie Blade</strong> (LFP, 3 000+ cycles), la montée en notoriété de la marque et la garantie longue (6 ans véhicule, 8 ans batterie).</p>
+
+<h2>Comment minimiser la décote ?</h2>
+<ul>
+  <li><strong>Acheter via LOA/LLD</strong> : la décote est intégrée dans les mensualités, pas de mauvaise surprise à la revente</li>
+  <li><strong>Choisir les couleurs et finitions les plus demandées</strong> : blanc, noir ou gris se revendent mieux</li>
+  <li><strong>Maintenir un carnet d'entretien complet</strong> chez le réseau officiel</li>
+  <li><strong>Garder le véhicule 4-5 ans</strong> : la décote ralentit fortement après la 3ᵉ année</li>
+  <li><strong>Privilégier les modèles avec la meilleure autonomie</strong> : elle vieillit mieux</li>
+</ul>
+
+<h2>Verdict : un risque calculé, pas un danger</h2>
+<p>Oui, les voitures chinoises décotent plus vite en pourcentage. Non, ce n'est pas un risque majeur — car le <strong>prix d'achat inférieur</strong> compense largement la décote supérieure. Le coût total de possession (achat + décote + énergie + entretien) d'une MG ou BYD reste inférieur à celui d'une européenne comparable. La vraie question n'est pas "combien vais-je perdre ?" mais "combien vais-je dépenser au total ?" Et sur ce calcul, les chinoises gagnent presque toujours.</p>
+`,
     author: 'Rédaction Véhicules Chinois',
   },
   {
