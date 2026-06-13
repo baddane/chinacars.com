@@ -10,6 +10,7 @@ const navigation = [
   { name: 'Actualités', href: '/actualites' },
   { name: 'Marques', href: '/marques' },
   { name: 'Comparatifs', href: '/comparatifs' },
+  { name: 'Comparateur', href: '/comparateur' },
   { name: 'Guides', href: '/guides' },
   { name: 'Électrique', href: '/electrique' },
   { name: 'Maroc', href: '/maroc' },
