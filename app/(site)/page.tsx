@@ -6,6 +6,8 @@ import { resolveArticleImage } from '@/src/lib/images';
 import ArticleCard from '@/src/components/articles/ArticleCard';
 import { articles } from '@/src/data/articles';
 import { BRANDS } from '@/src/lib/constants';
+import AdSlot from '@/src/components/ads/AdSlot';
+import NewsletterPopup from '@/src/components/ads/NewsletterPopup';
 
 export const metadata: Metadata = {
   title: "L'actualité des voitures chinoises au Maroc",
@@ -99,6 +101,12 @@ export default function Home() {
           </div>
         </div>
       </section>
+
+      <AdSlot
+        slot={process.env.NEXT_PUBLIC_ADSENSE_HOME_SLOT || ''}
+        format="horizontal"
+        className="bg-white py-4"
+      />
 
       <section className="py-24 bg-gray-50">
         <div className="mx-auto max-w-7xl px-6 lg:px-8">
@@ -213,6 +221,7 @@ export default function Home() {
           </div>
         </div>
       </section>
+      <NewsletterPopup />
     </>
   );
 }

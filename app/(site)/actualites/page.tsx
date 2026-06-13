@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import Breadcrumb from '@/src/components/layout/Breadcrumb';
 import ArticleCard from '@/src/components/articles/ArticleCard';
 import Pagination from '@/src/components/ui/Pagination';
+import AdSlot from '@/src/components/ads/AdSlot';
 import { articles } from '@/src/data/articles';
 
 const PAGE_SIZE = 9;
@@ -53,6 +54,12 @@ export default function NewsPage({ searchParams }: PageProps) {
             />
           ))}
         </div>
+
+        <AdSlot
+          slot={process.env.NEXT_PUBLIC_ADSENSE_LISTING_SLOT || ''}
+          format="horizontal"
+          className="mt-12"
+        />
 
         <Pagination
           currentPage={safePage}

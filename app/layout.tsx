@@ -2,6 +2,9 @@ import type { Metadata, Viewport } from 'next';
 import { Inter } from 'next/font/google';
 import { SITE } from '@/src/lib/constants';
 import { absoluteUrl } from '@/src/lib/seo/metadata';
+import Analytics from '@/src/components/ads/Analytics';
+import AdSenseScript from '@/src/components/ads/AdSenseScript';
+import CookieConsent from '@/src/components/ads/CookieConsent';
 import './globals.css';
 
 const inter = Inter({
@@ -68,7 +71,12 @@ export const viewport: Viewport = {
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang={SITE.defaultLanguage} className={inter.variable}>
-      <body>{children}</body>
+      <body>
+        <Analytics />
+        <AdSenseScript />
+        {children}
+        <CookieConsent />
+      </body>
     </html>
   );
 }

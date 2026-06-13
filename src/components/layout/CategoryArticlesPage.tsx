@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import Breadcrumb from '@/src/components/layout/Breadcrumb';
 import ArticleCard from '@/src/components/articles/ArticleCard';
+import AdSlot from '@/src/components/ads/AdSlot';
 import type { ArticleSeed } from '@/src/data/articles';
 
 interface Props {
@@ -32,11 +33,18 @@ export default function CategoryArticlesPage({
         </div>
 
         {articles.length > 0 ? (
-          <div className="grid grid-cols-1 gap-x-8 gap-y-16 sm:grid-cols-2 lg:grid-cols-3">
-            {articles.map((article, index) => (
-              <ArticleCard key={article.slug} article={article} priority={index < 3} />
-            ))}
-          </div>
+          <>
+            <div className="grid grid-cols-1 gap-x-8 gap-y-16 sm:grid-cols-2 lg:grid-cols-3">
+              {articles.map((article, index) => (
+                <ArticleCard key={article.slug} article={article} priority={index < 3} />
+              ))}
+            </div>
+            <AdSlot
+              slot={process.env.NEXT_PUBLIC_ADSENSE_LISTING_SLOT || ''}
+              format="horizontal"
+              className="mt-12"
+            />
+          </>
         ) : (
           <div className="text-center py-20">
             <p className="text-gray-500 text-lg">Aucun article dans cette catégorie pour l&apos;instant.</p>

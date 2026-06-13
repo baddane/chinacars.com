@@ -7,6 +7,9 @@ import { articles, formatArticleDate, type ArticleSeed } from '@/src/data/articl
 import { newsArticleSchema, breadcrumbSchema } from '@/src/lib/seo/schemas';
 import { truncateDescription } from '@/src/lib/seo/metadata';
 import { resolveArticleImage } from '@/src/lib/images';
+import AdSlot from '@/src/components/ads/AdSlot';
+import InArticleAd from '@/src/components/ads/InArticleAd';
+import LeadCTA from '@/src/components/ads/LeadCTA';
 
 interface PageProps {
   params: { slug: string };
@@ -114,6 +117,12 @@ export default function ArticlePage({ params }: PageProps) {
           />
         </div>
 
+        <AdSlot
+          slot={process.env.NEXT_PUBLIC_ADSENSE_TOP_SLOT || ''}
+          format="horizontal"
+          className="mt-10"
+        />
+
         {article.body ? (
           <div
             className="prose prose-gray mt-12 max-w-none prose-headings:text-gray-900 prose-a:text-red-600 prose-strong:text-gray-900"
@@ -128,13 +137,17 @@ export default function ArticlePage({ params }: PageProps) {
               optimisée via <code>next/image</code>, fil d&apos;Ariane accessible
               et temps de lecture.
             </p>
-            <p>
-              Quand le CMS sera peuplé, remplacez l&apos;appel à{' '}
-              <code>articles</code> par <code>sanityFetch(articleBySlugQuery)</code> et
-              utilisez <code>@portabletext/react</code> pour rendre le corps.
-            </p>
           </div>
         )}
+
+        <InArticleAd />
+        <LeadCTA />
+
+        <AdSlot
+          slot={process.env.NEXT_PUBLIC_ADSENSE_BOTTOM_SLOT || ''}
+          format="rectangle"
+          className="mt-6"
+        />
       </div>
     </article>
   );
