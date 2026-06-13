@@ -52,18 +52,35 @@ export default function LegalNoticePage() {
 
           <h2 className="mt-10 text-xl font-bold text-gray-900">Données personnelles</h2>
           <p>
-            Conformément à la loi 09-08 relative à la protection des personnes
-            physiques à l&apos;égard du traitement des données à caractère
-            personnel, vous disposez d&apos;un droit d&apos;accès, de rectification et
-            de suppression des données vous concernant. Pour l&apos;exercer,
-            contactez-nous à l&apos;adresse indiquée ci-dessus.
+            Conformément au RGPD et à la loi marocaine 09-08 relative à la
+            protection des personnes physiques à l&apos;égard du traitement des
+            données à caractère personnel, vous disposez d&apos;un droit
+            d&apos;accès, de rectification et de suppression des données vous
+            concernant. Pour l&apos;exercer, contactez-nous à l&apos;adresse
+            indiquée ci-dessus.
+          </p>
+          <p>
+            Pour en savoir plus, consultez notre{' '}
+            <a href="/politique-de-confidentialite" className="text-red-600 hover:underline">
+              politique de confidentialité
+            </a>.
           </p>
 
-          <h2 className="mt-10 text-xl font-bold text-gray-900">Cookies</h2>
+          <h2 className="mt-10 text-xl font-bold text-gray-900">Cookies et publicité</h2>
           <p>
-            Le site utilise des cookies à des fins de mesure d&apos;audience et
-            d&apos;affichage publicitaire. Vous pouvez configurer vos préférences
-            directement via votre navigateur.
+            Le site utilise <strong>Google Analytics 4</strong> pour la mesure
+            d&apos;audience et <strong>Google AdSense</strong> pour l&apos;affichage
+            de publicités. Ces services déposent des cookies uniquement après
+            votre consentement explicite via le bandeau de cookies affiché lors
+            de votre première visite.
+          </p>
+          <p>
+            Vous pouvez modifier vos préférences à tout moment en supprimant
+            vos cookies de navigateur. Consultez notre{' '}
+            <a href="/politique-de-confidentialite" className="text-red-600 hover:underline">
+              politique de confidentialité
+            </a>{' '}
+            pour la liste complète des cookies utilisés.
           </p>
         </div>
       </div>
