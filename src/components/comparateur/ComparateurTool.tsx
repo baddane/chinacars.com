@@ -468,8 +468,8 @@ export default function ComparateurTool() {
   const bothSelected = carA && carB;
 
   const verdict = bothSelected ? getVerdict(carA, carB, profile) : null;
-  const winnerIsA = verdict?.winner?.slug === carA?.slug;
-  const winnerIsB = verdict?.winner?.slug === carB?.slug;
+  const winnerIsA = !!verdict && verdict.winner?.slug === carA?.slug;
+  const winnerIsB = !!verdict && verdict.winner?.slug === carB?.slug;
 
   return (
     <div className="space-y-12">
@@ -539,7 +539,7 @@ export default function ComparateurTool() {
             <div className="grid grid-cols-[1fr_auto_1fr] items-center gap-4 mb-6">
               <div className="flex flex-col items-center gap-3">
                 <p className="text-xs font-bold text-red-600 uppercase tracking-widest">{carA.name}</p>
-                <ScoreGauge score={verdict.scoreA} color="red" isWinner={winnerIsA} />
+                <ScoreGauge score={verdict!.scoreA} color="red" isWinner={winnerIsA} />
               </div>
               <div className="flex flex-col items-center gap-2">
                 <div className="w-px h-16 bg-gray-200" />
@@ -548,27 +548,27 @@ export default function ComparateurTool() {
               </div>
               <div className="flex flex-col items-center gap-3">
                 <p className="text-xs font-bold text-blue-600 uppercase tracking-widest">{carB.name}</p>
-                <ScoreGauge score={verdict.scoreB} color="blue" isWinner={winnerIsB} />
+                <ScoreGauge score={verdict!.scoreB} color="blue" isWinner={winnerIsB} />
               </div>
             </div>
 
             {/* Verdict banner */}
             <div className={`rounded-2xl p-5 mb-8 border ${
-              verdict.winner
+              verdict!.winner
                 ? 'bg-gradient-to-r from-amber-50 to-yellow-50 border-amber-300'
                 : 'bg-gray-50 border-gray-200'
             }`}>
               <div className="flex items-start gap-3">
-                {verdict.winner ? (
+                {verdict!.winner ? (
                   <Trophy className="h-6 w-6 text-amber-500 shrink-0 mt-0.5" />
                 ) : (
                   <span className="text-xl shrink-0">⚖️</span>
                 )}
                 <div>
                   <p className="font-bold text-gray-900 mb-1">
-                    {verdict.winner ? `Notre recommandation : ${verdict.winner.name}` : 'Match nul sur ce profil'}
+                    {verdict!.winner ? `Notre recommandation : ${verdict!.winner.name}` : 'Match nul sur ce profil'}
                   </p>
-                  <p className="text-sm text-gray-600">{verdict.reason}</p>
+                  <p className="text-sm text-gray-600">{verdict!.reason}</p>
                 </div>
               </div>
             </div>
