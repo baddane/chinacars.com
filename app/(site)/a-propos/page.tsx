@@ -23,10 +23,17 @@ const values = [
 ];
 
 export const metadata: Metadata = {
-  title: 'À propos',
+  title: 'À propos — Véhicules Chinois',
   description:
-    "Véhicules Chinois est le média indépendant de référence sur l'automobile chinoise en France et en Europe.",
+    "Véhicules Chinois est le premier média francophone dédié à l'automobile chinoise au Maroc et en Europe : essais, comparatifs et guides d'achat indépendants.",
   alternates: { canonical: '/a-propos' },
+  openGraph: {
+    title: 'À propos de Véhicules Chinois',
+    description:
+      "Le média indépendant de référence sur les voitures chinoises au Maroc et en Europe.",
+    url: '/a-propos',
+    type: 'website',
+  },
 };
 
 export default function AboutPage() {

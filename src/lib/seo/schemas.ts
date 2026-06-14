@@ -36,6 +36,14 @@ export function websiteSchema(): Thing {
     name: SITE.name,
     url: SITE.url,
     inLanguage: SITE.defaultLanguage,
+    potentialAction: {
+      '@type': 'SearchAction',
+      target: {
+        '@type': 'EntryPoint',
+        urlTemplate: `${SITE.url}/actualites?q={search_term_string}`,
+      },
+      'query-input': 'required name=search_term_string',
+    },
   };
 }
 
@@ -143,6 +151,35 @@ export function carSchema(input: CarSchemaInput): Thing {
         reviewCount: input.rating.count,
       },
     }),
+  };
+}
+
+export interface CollectionPageInput {
+  name: string;
+  description: string;
+  url: string;
+  items?: Array<{ name: string; url: string; image?: string }>;
+}
+
+export function collectionPageSchema(input: CollectionPageInput): Thing {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: input.name,
+    description: input.description,
+    url: absoluteUrl(input.url),
+    mainEntity: input.items?.length
+      ? {
+          '@type': 'ItemList',
+          itemListElement: input.items.map((item, i) => ({
+            '@type': 'ListItem',
+            position: i + 1,
+            name: item.name,
+            url: absoluteUrl(item.url),
+            ...(item.image && { image: item.image }),
+          })),
+        }
+      : undefined,
   };
 }
 

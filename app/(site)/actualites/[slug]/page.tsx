@@ -27,9 +27,15 @@ export function generateMetadata({ params }: PageProps): Metadata {
   const article = findArticle(params.slug);
   if (!article) return { title: 'Article introuvable' };
   const canonical = `/actualites/${article.slug}`;
+  const keywords = [
+    'voiture chinoise',
+    article.category.toLowerCase(),
+    ...article.slug.split('-').filter((w) => w.length > 3),
+  ].join(', ');
   return {
     title: article.title,
     description: truncateDescription(article.excerpt),
+    keywords,
     alternates: { canonical },
     openGraph: {
       type: 'article',

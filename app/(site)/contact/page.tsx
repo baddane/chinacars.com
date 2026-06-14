@@ -4,10 +4,17 @@ import Breadcrumb from '@/src/components/layout/Breadcrumb';
 import ContactForm from '@/src/components/contact/ContactForm';
 
 export const metadata: Metadata = {
-  title: 'Contact',
+  title: 'Contact — Véhicules Chinois',
   description:
     'Contactez la rédaction Véhicules Chinois pour toute question, suggestion ou demande de partenariat.',
   alternates: { canonical: '/contact' },
+  openGraph: {
+    title: 'Contactez Véhicules Chinois',
+    description:
+      'Questions, partenariats, suggestions : contactez notre rédaction.',
+    url: '/contact',
+    type: 'website',
+  },
 };
 
 export default function ContactPage() {

@@ -7,6 +7,13 @@ export const metadata: Metadata = {
   description:
     "L'essentiel sur les voitures électriques chinoises : autonomie réelle, recharge rapide, prix et disponibilité.",
   alternates: { canonical: '/electrique' },
+  openGraph: {
+    title: 'Voitures électriques chinoises — Autonomie, prix, recharge',
+    description:
+      "BYD, NIO, Zeekr, XPeng : toute l'actualité des voitures électriques chinoises en Europe.",
+    url: '/electrique',
+    type: 'website',
+  },
 };
 
 const EV_KEYWORDS = [

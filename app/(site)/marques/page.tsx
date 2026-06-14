@@ -3,6 +3,8 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { ExternalLink, Info } from 'lucide-react';
 import Breadcrumb from '@/src/components/layout/Breadcrumb';
+import JsonLd from '@/src/components/seo/JsonLd';
+import { breadcrumbSchema, collectionPageSchema } from '@/src/lib/seo/schemas';
 import { BRANDS } from '@/src/lib/constants';
 
 const brandsContent = BRANDS.slice(0, 6).map((brand, index) => ({
@@ -31,11 +33,38 @@ export const metadata: Metadata = {
   description:
     'Découvrez toutes les marques de voitures chinoises disponibles au Maroc : BYD, MG, Chery, Geely, GWM, Zeekr.',
   alternates: { canonical: '/marques' },
+  openGraph: {
+    title: 'Toutes les marques de voitures chinoises — BYD, MG, Chery, Geely, Zeekr',
+    description:
+      'Fiches complètes des constructeurs chinois présents au Maroc et en Europe.',
+    url: '/marques',
+    type: 'website',
+  },
 };
 
 export default function BrandsPage() {
   return (
-    <div className="bg-white pt-32 pb-24">
+    <>
+      <JsonLd
+        data={[
+          breadcrumbSchema([
+            { name: 'Accueil', url: '/' },
+            { name: 'Marques', url: '/marques' },
+          ]),
+          collectionPageSchema({
+            name: 'Marques de voitures chinoises',
+            description: 'Toutes les marques chinoises présentes au Maroc et en Europe.',
+            url: '/marques',
+            items: brandsContent.map((b) => ({
+              name: b.name,
+              url: `/marques/${b.slug}`,
+              image: b.logo,
+            })),
+          }),
+        ]}
+        id="marques"
+      />
+      <div className="bg-white pt-32 pb-24">
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <Breadcrumb items={[{ name: 'Marques', url: '/marques' }]} className="mb-8" />
 
@@ -97,5 +126,6 @@ export default function BrandsPage() {
         </div>
       </div>
     </div>
+    </>
   );
 }

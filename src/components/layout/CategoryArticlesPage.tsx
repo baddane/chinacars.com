@@ -2,6 +2,8 @@ import Link from 'next/link';
 import Breadcrumb from '@/src/components/layout/Breadcrumb';
 import ArticleCard from '@/src/components/articles/ArticleCard';
 import AdSlot from '@/src/components/ads/AdSlot';
+import JsonLd from '@/src/components/seo/JsonLd';
+import { breadcrumbSchema, collectionPageSchema } from '@/src/lib/seo/schemas';
 import type { ArticleSeed } from '@/src/data/articles';
 
 interface Props {
@@ -21,9 +23,28 @@ export default function CategoryArticlesPage({
   articles,
 }: Props) {
   return (
-    <div className="bg-white pt-32 pb-24">
-      <div className="mx-auto max-w-7xl px-6 lg:px-8">
-        <Breadcrumb items={[{ name: breadcrumbLabel, url: canonical }]} className="mb-8" />
+    <>
+      <JsonLd
+        data={[
+          breadcrumbSchema([
+            { name: 'Accueil', url: '/' },
+            { name: breadcrumbLabel, url: canonical },
+          ]),
+          collectionPageSchema({
+            name: title,
+            description,
+            url: canonical,
+            items: articles.slice(0, 20).map((a) => ({
+              name: a.title,
+              url: `/actualites/${a.slug}`,
+            })),
+          }),
+        ]}
+        id={`cat-${canonical.replace(/\//g, '-')}`}
+      />
+      <div className="bg-white pt-32 pb-24">
+        <div className="mx-auto max-w-7xl px-6 lg:px-8">
+          <Breadcrumb items={[{ name: breadcrumbLabel, url: canonical }]} className="mb-8" />
 
         <div className="mx-auto max-w-2xl lg:mx-0 mb-16">
           <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl">
@@ -58,5 +79,6 @@ export default function CategoryArticlesPage({
         )}
       </div>
     </div>
+    </>
   );
 }

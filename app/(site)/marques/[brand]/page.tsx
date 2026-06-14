@@ -3,6 +3,8 @@ import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import { ArrowRight } from 'lucide-react';
 import Breadcrumb from '@/src/components/layout/Breadcrumb';
+import JsonLd from '@/src/components/seo/JsonLd';
+import { breadcrumbSchema, organizationSchema } from '@/src/lib/seo/schemas';
 import { BRANDS } from '@/src/lib/constants';
 
 interface PageProps {
@@ -24,6 +26,12 @@ export function generateMetadata({ params }: PageProps): Metadata {
     title: `${brand.name} — Modèles, prix et actualités au Maroc`,
     description: `Découvrez tous les modèles ${brand.name} disponibles au Maroc, leurs prix, leurs caractéristiques et les dernières actualités.`,
     alternates: { canonical: `/marques/${brand.slug}` },
+    openGraph: {
+      title: `${brand.name} — Modèles et prix au Maroc`,
+      description: `Tous les modèles ${brand.name} : prix, caractéristiques et disponibilité au Maroc.`,
+      url: `/marques/${brand.slug}`,
+      type: 'website',
+    },
   };
 }
 
@@ -32,9 +40,18 @@ export default function BrandPage({ params }: PageProps) {
   if (!brand) notFound();
 
   return (
-    <div className="bg-white pt-32 pb-24">
-      <div className="mx-auto max-w-5xl px-6 lg:px-8">
-        <Breadcrumb
+    <>
+      <JsonLd
+        data={breadcrumbSchema([
+          { name: 'Accueil', url: '/' },
+          { name: 'Marques', url: '/marques' },
+          { name: brand.name, url: `/marques/${brand.slug}` },
+        ])}
+        id={`brand-${brand.slug}`}
+      />
+      <div className="bg-white pt-32 pb-24">
+        <div className="mx-auto max-w-5xl px-6 lg:px-8">
+          <Breadcrumb
           items={[
             { name: 'Marques', url: '/marques' },
             { name: brand.name, url: `/marques/${brand.slug}` },
@@ -71,5 +88,6 @@ export default function BrandPage({ params }: PageProps) {
         </div>
       </div>
     </div>
+    </>
   );
 }

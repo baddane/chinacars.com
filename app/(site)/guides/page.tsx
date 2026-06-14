@@ -7,6 +7,13 @@ export const metadata: Metadata = {
   description:
     "Importation, homologation, assurance, entretien, leasing : nos guides complets pour tout savoir sur l'achat d'une voiture chinoise.",
   alternates: { canonical: '/guides' },
+  openGraph: {
+    title: "Guides d'achat voitures chinoises",
+    description:
+      "Importation, homologation, assurance, entretien : tous les guides pour acheter une voiture chinoise sereinement.",
+    url: '/guides',
+    type: 'website',
+  },
 };
 
 const guides = articles.filter((a) => a.categorySlug === 'guide');

@@ -3,10 +3,17 @@ import CategoryArticlesPage from '@/src/components/layout/CategoryArticlesPage';
 import { articles } from '@/src/data/articles';
 
 export const metadata: Metadata = {
-  title: 'Voitures chinoises au Maroc',
+  title: 'Voitures chinoises au Maroc — Prix, importation et SAV',
   description:
     "Actualité, prix, importation et SAV des voitures chinoises sur le marché marocain : tout ce qu'il faut savoir avant d'acheter.",
   alternates: { canonical: '/maroc' },
+  openGraph: {
+    title: 'Voitures chinoises au Maroc — Prix en dirhams et disponibilité',
+    description:
+      "Prix, concessionnaires, homologation et garanties des voitures chinoises au Maroc.",
+    url: '/maroc',
+    type: 'website',
+  },
 };
 
 const MAROC_KEYWORDS = [

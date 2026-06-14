@@ -7,6 +7,13 @@ export const metadata: Metadata = {
   description:
     'Retrouvez tous nos comparatifs détaillés entre les voitures chinoises et leurs rivales : performances, autonomie, prix, équipements.',
   alternates: { canonical: '/comparatifs' },
+  openGraph: {
+    title: 'Comparatifs voitures chinoises vs européennes',
+    description:
+      'Face-à-face détaillés entre BYD, MG, Zeekr et leurs rivales européennes : performances, autonomie, prix.',
+    url: '/comparatifs',
+    type: 'website',
+  },
 };
 
 const comparatifs = articles.filter((a) => a.categorySlug === 'comparatif');

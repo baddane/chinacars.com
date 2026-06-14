@@ -3,6 +3,8 @@ import Breadcrumb from '@/src/components/layout/Breadcrumb';
 import ArticleCard from '@/src/components/articles/ArticleCard';
 import Pagination from '@/src/components/ui/Pagination';
 import AdSlot from '@/src/components/ads/AdSlot';
+import JsonLd from '@/src/components/seo/JsonLd';
+import { breadcrumbSchema, collectionPageSchema } from '@/src/lib/seo/schemas';
 import { articles } from '@/src/data/articles';
 
 const PAGE_SIZE = 9;
@@ -20,6 +22,13 @@ export function generateMetadata({ searchParams }: PageProps): Metadata {
     description:
       "Toute l'actualité des voitures chinoises au Maroc : nouveautés, essais, prix et guides d'achat.",
     alternates: { canonical },
+    openGraph: {
+      title: 'Actualités voitures chinoises — Essais, prix, nouveautés',
+      description:
+        "Toute l'actualité des voitures chinoises : BYD, MG, Chery, Zeekr, NIO, XPeng.",
+      url: canonical,
+      type: 'website',
+    },
   };
 }
 
@@ -31,9 +40,28 @@ export default function NewsPage({ searchParams }: PageProps) {
   const pageArticles = articles.slice(start, start + PAGE_SIZE);
 
   return (
-    <div className="bg-white pt-32 pb-24">
-      <div className="mx-auto max-w-7xl px-6 lg:px-8">
-        <Breadcrumb items={[{ name: 'Actualités', url: '/actualites' }]} className="mb-8" />
+    <>
+      <JsonLd
+        data={[
+          breadcrumbSchema([
+            { name: 'Accueil', url: '/' },
+            { name: 'Actualités', url: '/actualites' },
+          ]),
+          collectionPageSchema({
+            name: 'Actualités voitures chinoises',
+            description: "Toute l'actualité des voitures chinoises au Maroc et en Europe.",
+            url: '/actualites',
+            items: pageArticles.map((a) => ({
+              name: a.title,
+              url: `/actualites/${a.slug}`,
+            })),
+          }),
+        ]}
+        id="actualites-list"
+      />
+      <div className="bg-white pt-32 pb-24">
+        <div className="mx-auto max-w-7xl px-6 lg:px-8">
+          <Breadcrumb items={[{ name: 'Actualités', url: '/actualites' }]} className="mb-8" />
 
         <div className="mx-auto max-w-2xl lg:mx-0">
           <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
@@ -69,5 +97,6 @@ export default function NewsPage({ searchParams }: PageProps) {
         />
       </div>
     </div>
+    </>
   );
 }
