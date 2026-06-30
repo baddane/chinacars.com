@@ -1251,6 +1251,29 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-10-27T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>La fin de l'hégémonie française ?</h2>
+<p>La Renault Clio E-Tech régnait sur la citadine hybride : française, rassurante, sobre, elle semblait intouchable sur son terrain. Puis MG a sorti la MG3 Hybrid+, une citadine full hybride affichant plus de puissance et, surtout, un tarif d'entrée qui défie toute concurrence. La reine de la citadine hexagonale est-elle réellement en danger ?</p>
+
+<h2>Motorisation : la MG3 frappe fort</h2>
+<ul>
+  <li><strong>MG3 Hybrid+</strong> : 1,5 L essence cycle Atkinson de 102 ch + moteur électrique de 136 ch (250 Nm) pour 195 ch combinés. 0 à 100 km/h en 8 s, reprise 80-120 km/h en 5 s. Batterie de 1,83 kWh en 350 V.</li>
+  <li><strong>Renault Clio E-Tech</strong> : moteur essence de 94 ch + bloc électrique de 49 ch et boîte à crabots. Batterie plus modeste (1,2 kWh).</li>
+</ul>
+<p>La différence de puissance est spectaculaire : la MG3 dispose d'un moteur électrique bien plus costaud, ce qui se traduit par des accélérations et des reprises nettement supérieures. En ville comme sur voie rapide, la MG3 est la plus vive des deux.</p>
+
+<h2>Consommation : la Clio garde un petit avantage</h2>
+<p>Sur la sobriété, Renault conserve son savoir-faire : la Clio E-Tech consomme environ 4,1 L/100 km contre 4,4 L/100 km pour la MG3 — un écart minime de 0,3 L. La MG3, malgré sa puissance supérieure, reste donc remarquablement économe. Match quasi nul, léger avantage Clio.</p>
+
+<h2>Le prix : l'argument qui change tout</h2>
+<p>C'est ici que l'hégémonie française vacille. La MG3 Hybrid+ démarre à <strong>16 990 €</strong> (Standard), 18 490 € en Confort et 20 490 € en Luxury haut de gamme. La Renault Clio E-Tech, elle, débute autour de <strong>23 800 €</strong> — soit le prix de la MG3 la mieux équipée. Pour le tarif d'une Clio E-Tech d'entrée, vous repartez avec une MG3 plus puissante et tout équipée. L'écart est tout simplement énorme.</p>
+
+<h2>Équipement et vie à bord</h2>
+<p>La MG3 profite de son positionnement agressif pour offrir une dotation généreuse dès l'entrée de gamme. La Clio réplique avec une qualité de finition reconnue, une ergonomie maîtrisée et l'image rassurante d'une marque française au réseau dense. Sur ce terrain de la maturité hybride, la MG3 partage d'ailleurs son architecture avec d'autres modèles MG efficients, comme nous l'analysons dans <a href="/actualites/gwm-ora-03-vs-mg3-hybrid-design-retro-efficacite">GWM Ora 03 vs MG3 Hybrid+</a>.</p>
+
+<h2>Verdict</h2>
+<p>La Renault Clio E-Tech reste une excellente citadine, légèrement plus sobre et portée par la confiance d'une marque établie. Mais sur le critère décisif du rapport prix/prestations, la <strong>MG3 Hybrid+ est imbattable</strong> : plus puissante, presque aussi économe, et surtout bien moins chère. L'hégémonie française n'est pas terminée, mais elle est sérieusement entamée : pour la première fois, une citadine hybride offre davantage pour beaucoup moins cher. Et ça, c'est une révolution pour le segment.</p>
+`,
   },
   {
     slug: 'byd-seal-vs-tesla-model-3-highland-berline-ultime-2026',
@@ -1263,6 +1286,28 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-10-20T09:00:00+02:00',
     readingTime: 9,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>La berline électrique ultime en 2026 ?</h2>
+<p>C'est le duel que tout le monde attendait : la BYD Seal, fer de lance de la marque chinoise, contre la Tesla Model 3 Highland, référence mondiale de la berline électrique. Deux philosophies, deux écosystèmes, et un même objectif : être LA berline électrique de référence. Laquelle mérite votre argent en 2026 ?</p>
+
+<h2>Autonomie et efficience : avantage Tesla</h2>
+<p>Tesla conserve un atout maître : l'efficience. La Model 3 Highland Long Range AWD revendique jusqu'à environ 678 km WLTP, là où la BYD Seal (batterie de 82,5 kWh) plafonne autour de 520 à 570 km. En conditions réelles — autoroute, froid — la Tesla va plus loin grâce à sa pompe à chaleur et à son aérodynamisme optimisé. Pour le gros rouleur, c'est un argument décisif.</p>
+
+<h2>Recharge : Tesla devant, mais le Seal n'est pas ridicule</h2>
+<p>La Model 3 Highland accepte jusqu'à 250 kW en pointe et bénéficie surtout du réseau Superchargeur, dense et fiable. La BYD Seal plafonne à 150 kW : rapide, mais en retrait. Sur les longs trajets fréquents, l'écosystème Tesla garde l'avantage.</p>
+
+<h2>Performances</h2>
+<p>Les deux sont largement assez rapides. La Seal Excellence AWD ajoute un moteur avant pour environ 523 ch et un 0 à 100 km/h en 3,8 s, quand la Model 3 décline aussi des versions très performantes. Sur la dynamique pure et le toucher de conduite, Tesla conserve une légère avance ; mais la Seal n'a rien à envier en accélération. Pour situer la Seal face à l'élite chinoise, voir notre comparatif <a href="/actualites/byd-seal-vs-xiaomi-su7-ultra-2026">BYD Seal vs Xiaomi SU7 Ultra</a>.</p>
+
+<h2>Intérieur et technologie : le Seal surprend</h2>
+<p>C'est là que BYD marque de gros points. La Seal propose un intérieur d'une qualité supérieure à son prix : matériaux doux au toucher, toit panoramique, vraie place à l'arrière, et un écran central rotatif de 15,6 pouces (qui pivote entre paysage et portrait). Surtout, la Seal offre <strong>Apple CarPlay et Android Auto</strong>, que la Tesla refuse obstinément au profit de son seul système maison (excellent, mais fermé). Pour beaucoup d'acheteurs, c'est un argument concret du quotidien.</p>
+
+<h2>Prix et garantie</h2>
+<p>Tesla l'emporte sur le tarif d'entrée (la Model 3 RWD démarre plus bas que la Seal). Mais à équipement comparable, la Seal rattrape l'écart grâce à sa dotation de série plus riche et à une garantie plus généreuse. Le rapport contenu/prix penche vers BYD ; le tarif d'accès, vers Tesla.</p>
+
+<h2>Verdict</h2>
+<p>La <strong>Tesla Model 3 Highland</strong> reste la référence pour qui privilégie l'autonomie, la recharge et le réseau : c'est la berline électrique la plus aboutie pour les longs trajets. Mais la <strong>BYD Seal</strong> s'impose comme une alternative redoutable là où le confort, l'équipement, la qualité perçue et la valeur priment — sans oublier CarPlay/Android Auto. « Ultime » dépend donc de vous : Tesla pour le voyageur exigeant, Seal pour qui veut le meilleur rapport confort/prix. Et le simple fait que le débat soit aussi serré en dit long sur le chemin parcouru par BYD.</p>
+`,
   },
   {
     slug: 'jaecoo-5-vs-volkswagen-tiguan-menace-chinoise',
@@ -1275,6 +1320,29 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-10-13T09:00:00+02:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le SUV allemand face à la menace chinoise</h2>
+<p>Le Volkswagen Tiguan n'est pas n'importe quel SUV : c'est l'un des best-sellers européens, une référence de qualité et de polyvalence qui a bâti sa réputation sur des millions d'exemplaires. Alors quand Jaecoo, jeune marque du groupe Chery, ose pointer son SUV face au Tiguan avec un tarif cassé, la provocation est claire. L'Allemagne peut-elle encore dormir tranquille ?</p>
+
+<h2>Deux catégories, une même cible</h2>
+<p>Soyons précis : le Jaecoo 5 est un SUV compact, plus petit que le Tiguan, qui appartient à la catégorie supérieure des SUV familiaux. Ils ne jouent pas exactement dans la même cour en termes de gabarit. Mais ils visent les mêmes acheteurs : des familles qui veulent un SUV bien équipé, et qui hésitent entre la sécurité d'une marque établie et l'attrait d'un prix imbattable.</p>
+
+<h2>Motorisations</h2>
+<p>Le Volkswagen Tiguan déploie une gamme large et éprouvée : 2,0 L TSI jusqu'à 195 kW/400 Nm, micro-hybridation 1,5 eTSI (130 ou 150 ch), et hybride rechargeable eHybrid (204 ou 272 ch) avec une batterie de 19,7 kWh pour une belle autonomie électrique. C'est une mécanique mature, raffinée et déclinée pour tous les usages.</p>
+<p>Le Jaecoo 5 répond avec des motorisations modernes et électrifiées, à un positionnement bien plus agressif. Le groupe Chery a fait de l'électrification et de l'équipement généreux ses arguments — la même recette que celle observée dans notre comparatif <a href="/actualites/jaecoo-7-vs-chery-tiggo-8-pro-suv-familial-chery">Jaecoo 7 vs Chery Tiggo 8 Pro</a>.</p>
+
+<h2>Équipement : le Jaecoo en met plein la vue</h2>
+<p>C'est l'arme classique des nouveaux venus chinois : offrir de série ce qui se paie en option chez les Allemands. Le Jaecoo 5 mise sur de grands écrans, une dotation technologique riche et une présentation valorisante pour un tarif d'entrée très bas. Le Tiguan, lui, fait payer son standing et sa finition, mais offre en retour une qualité de fabrication et une cohérence d'ensemble que les nouveaux venus doivent encore prouver dans la durée.</p>
+
+<h2>Le prix : l'écart est béant</h2>
+<p>C'est là que la menace devient sérieuse. Là où un Tiguan correctement équipé franchit allègrement les 38 000 à 40 000 €, le Jaecoo se positionne plusieurs milliers d'euros en dessous à équipement comparable. Pour une famille au budget serré, l'économie est considérable.</p>
+
+<h2>Les vraies questions : durée et revente</h2>
+<p>L'argument du prix a toutefois une contrepartie. Le Tiguan bénéficie d'un réseau dense, d'une valeur de revente solide et d'une fiabilité documentée sur des années. Le Jaecoo, marque jeune, doit encore faire ses preuves sur la longévité, le SAV et la décote. C'est le pari classique du challenger chinois : économiser beaucoup à l'achat, en acceptant une part d'incertitude sur le long terme.</p>
+
+<h2>Verdict</h2>
+<p>Le Volkswagen Tiguan reste la valeur sûre : raffinement, gamme de motorisations complète, réseau et revente maîtrisée. Mais le <strong>Jaecoo 5</strong> incarne parfaitement la menace chinoise : il offre énormément d'équipement pour beaucoup moins cher, au prix d'une marque encore à prouver. Pour la tranquillité et la valeur résiduelle : Tiguan. Pour maximiser son budget aujourd'hui : Jaecoo. L'Allemagne ne perd pas encore, mais elle ne peut plus se permettre de dormir.</p>
+`,
   },
   {
     slug: 'nio-et5-vs-bmw-i4-alternative-premium-chinoise',
@@ -1287,6 +1355,32 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-10-06T09:00:00+02:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>L'alternative chinoise est-elle vraiment premium ?</h2>
+<p>La BMW i4 incarne le premium électrique allemand : dynamique, raffinée, statutaire. En face, la NIO ET5 débarque avec l'ambition de redéfinir le luxe électrique à coups de technologie et de services inédits. Mais une marque chinoise peut-elle réellement prétendre au statut « premium » face à une icône de Munich ? Confrontons-les.</p>
+
+<h2>Performances : la NIO surprend</h2>
+<ul>
+  <li><strong>NIO ET5</strong> : moteur électrique d'environ 490 ch (360 kW), 0 à 100 km/h en 4,0 secondes.</li>
+  <li><strong>BMW i4</strong> : de 286 ch (eDrive35) à 340 ch (eDrive40, 0 à 100 km/h en 5,7 s), jusqu'à 544 ch sur la M50.</li>
+</ul>
+<p>À tarif comparable, la NIO ET5 est plus puissante et plus rapide que l'i4 eDrive40. La BMW reprend toutefois l'avantage sur le toucher de conduite et l'équilibre du châssis, son terrain historique.</p>
+
+<h2>Autonomie</h2>
+<p>La NIO ET5 propose 460 km WLTP (batterie 75 kWh) ou 560 km (100 kWh). La BMW i4 atteint jusqu'à environ 590 km WLTP sur l'eDrive40. Léger avantage à BMW sur l'autonomie homologuée maximale, mais les deux offrent une polyvalence comparable au quotidien.</p>
+
+<h2>L'arme secrète de NIO : le battery swap</h2>
+<p>C'est ce qui distingue radicalement la NIO. Plutôt que de recharger, l'ET5 peut échanger sa batterie vide contre une pleine en quelques minutes dans une station dédiée. Mieux : la formule « Battery as a Service » permet d'acheter la voiture environ 10 000 € moins cher en louant la batterie (autour de 150 €/mois). C'est une approche que la BMW i4, fidèle au modèle classique, ne propose pas. Là où le réseau de stations existe, c'est un atout majeur — une philosophie que nous explorons aussi dans <a href="/actualites/zeekr-001-vs-nio-et7-luxe-technologique-chinois">Zeekr 001 vs NIO ET7</a>.</p>
+
+<h2>Premium : oui, mais différemment</h2>
+<p>La NIO ET5 est-elle premium ? Sur la qualité perçue, la dotation technologique, l'assistant IA Nomi et l'expérience de service (NIO Houses), oui, indéniablement. Mais c'est un premium d'un genre nouveau, tourné vers la technologie et le service plutôt que vers l'héritage et le prestige de la marque. La BMW i4, elle, offre le premium « classique » : un blason qui en impose, une valeur de revente solide et un réseau mondial.</p>
+
+<h2>Prix</h2>
+<p>Les deux se situent dans une fourchette voisine (environ 50 000 à 68 000 € selon versions et options). La NIO devient nettement plus accessible avec la formule BaaS, au prix d'un loyer de batterie mensuel.</p>
+
+<h2>Verdict</h2>
+<p>La <strong>BMW i4</strong> reste la référence du premium électrique « à l'allemande » : dynamique, statutaire, rassurante sur la revente. Mais la <strong>NIO ET5</strong> prouve que l'alternative chinoise est bel et bien premium — autrement. Plus puissante, dotée du battery swap et d'un écosystème de services unique, elle séduira ceux qui voient le luxe dans l'innovation plutôt que dans le blason. Pour le prestige et la conduite : i4. Pour la technologie et la flexibilité : ET5. Le premium n'est plus un monopole allemand.</p>
+`,
   },
   {
     slug: 'xpeng-g6-vs-tesla-model-y-recharge-rapide',
@@ -1299,6 +1393,30 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-09-29T09:00:00+02:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Pourquoi le G6 gagne sur la recharge rapide</h2>
+<p>La Tesla Model Y est le SUV électrique le plus vendu au monde. Difficile de faire plus référence. Pourtant, sur un critère précis et de plus en plus décisif — la vitesse de recharge — le XPeng G6 ne se contente pas de rivaliser : il humilie la Tesla. Voici pourquoi, et ce que cela change vraiment.</p>
+
+<h2>La recharge : le KO technique du G6</h2>
+<p>Le XPeng G6 2026 repose sur une architecture <strong>800 volts</strong> avec une batterie compatible charge 5C, acceptant jusqu'à environ 451 kW en pointe. Résultat mesuré : un 10-80 % en environ 12 minutes, et sur une borne 400 kW, un passage de 12 à 78 % en à peine 11 minutes. La Tesla Model Y, elle, plafonne autour de 175 kW et demande environ 24 minutes pour le même exercice.</p>
+<p>Concrètement, sur un long trajet, le conducteur du G6 passe deux fois moins de temps à la borne. C'est un avantage massif et tangible, qui place XPeng à la pointe de la technologie de recharge — un atout que l'on retrouve dans notre comparatif <a href="/actualites/xpeng-g6-vs-byd-atto-3-evo-autonomie-reelle">XPeng G6 vs BYD Atto 3 Evo</a>.</p>
+
+<h2>Performances et autonomie</h2>
+<ul>
+  <li><strong>XPeng G6</strong> : version AWD Performance de 480 ch et 660 Nm, 0 à 100 km/h en 4,1 s. Batterie 66 kWh LFP (~435 km) ou grande batterie NMC (~570 km WLTP).</li>
+  <li><strong>Tesla Model Y</strong> : performances solides et autonomie réelle d'environ 380 km en usage mixte selon les versions, avec l'efficience reconnue de Tesla.</li>
+</ul>
+<p>Sur l'autonomie réelle, les deux sont proches. Sur la puissance, le G6 Performance a l'avantage.</p>
+
+<h2>Le réseau Supercharger : la riposte de Tesla</h2>
+<p>Tesla n'est pas battu sur tout. Son réseau de Superchargeurs reste un atout considérable : densité, fiabilité, intégration parfaite à la planification d'itinéraire. Le G6 recharge plus vite, mais dépend de l'infrastructure publique tierce, plus inégale. Pour qui voyage beaucoup, l'écosystème Tesla compense en partie sa vitesse de charge inférieure.</p>
+
+<h2>Prix</h2>
+<p>Le XPeng G6 enfonce le clou : sa version longue autonomie est facturée bien en dessous du haut de gamme Model Y (un écart pouvant atteindre près de 16 000 € sur certains marchés). À équipement comparable, le G6 offre plus de technologie de recharge pour moins cher.</p>
+
+<h2>Verdict</h2>
+<p>Sur le critère mis en avant — la recharge rapide — le <strong>XPeng G6 gagne haut la main</strong> : son architecture 800V divise par deux le temps passé à la borne, et son prix enfonce le clou. La <strong>Tesla Model Y</strong> conserve l'avantage du réseau Supercharger et d'un logiciel mature, qui restent décisifs pour le grand voyageur. Mais pour qui recharge sur le réseau public et veut la techno la plus avancée au meilleur prix, le G6 est tout simplement plus moderne. Le best-seller mondial a trouvé un rival qui le dépasse sur l'un des terrains qui comptent le plus.</p>
+`,
   },
   {
     slug: 'mg4-xpower-vs-volkswagen-id3-gtx-compactes-sportives',
