@@ -438,6 +438,34 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2026-03-24T09:00:00+01:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le SUV compact électrique, segment roi</h2>
+<p>Le SUV compact électrique est le cœur du marché : c'est le format que la majorité des familles regardent en premier. XPeng et BYD y alignent deux poids lourds. Le XPeng G6, technophile et taillé pour la recharge ultra-rapide, contre le BYD Atto 3 Evo, valeur sûre remise au goût du jour. Tous deux promettent une autonomie réelle solide — le critère qui compte le plus pour qui veut vraiment vivre en électrique. Mais leur recette diffère.</p>
+
+<h2>Autonomie réelle : le match serré</h2>
+<p>Sur le papier, les deux se tiennent dans un mouchoir :</p>
+<ul>
+  <li><strong>XPeng G6</strong> : jusqu'à environ 525 km WLTP, pour une consommation d'environ 17,3 kWh/100 km.</li>
+  <li><strong>BYD Atto 3 Evo</strong> : jusqu'à environ 510 km WLTP, avec une efficience légèrement meilleure (environ 16 kWh/100 km).</li>
+</ul>
+<p>L'Atto 3 est donc un poil plus sobre, ce qui compense son léger déficit d'autonomie homologuée. Dans la vraie vie, sur des trajets mixtes, les deux offrent une autonomie réelle très comparable, de l'ordre de 400 à 430 km par temps clément. La différence se fait ailleurs.</p>
+
+<h2>La recharge : le coup de massue du G6</h2>
+<p>C'est l'argument décisif du XPeng. Le G6 2026 repose sur une architecture <strong>800 volts</strong> capable d'accepter jusqu'à environ 451 kW en pointe (charge 5C). Résultat : un 10-80 % en à peine 12 minutes, et un 50-80 % en 6 minutes dans les meilleures conditions. C'est tout simplement le meilleur matériel de recharge de tout le segment des électriques chinoises vendues en Europe.</p>
+<p>Le BYD Atto 3, lui, plafonne autour de 70 à 88 kW selon les versions. Sur un long trajet ponctué d'arrêts de recharge, l'écart est énorme : là où le G6 reprend l'essentiel de son autonomie le temps d'un café, l'Atto 3 demande une pause nettement plus longue. Pour un usage urbain et périurbain avec recharge à domicile, cette différence s'efface ; pour les gros rouleurs, elle est rédhibitoire.</p>
+
+<h2>Performances et agrément</h2>
+<p>Le XPeng G6 se montre plus musclé, avec environ 487 ch et 660 Nm dans ses versions hautes, contre une chaîne de traction plus mesurée pour l'Atto 3 (orientée usage familial, propulsion douce). Le G6 est aussi plus généreux côté coffre (environ 571 litres contre 440), un atout familial concret.</p>
+
+<h2>Vie à bord et finition</h2>
+<p>L'Atto 3 a fait de son intérieur un argument : présentation originale, matériaux valorisants et dotation de série riche, à un prix qui met la pression sur les rivales européennes. Le G6 répond par une ambiance plus high-tech, de grands écrans et une intégration logicielle moderne. Le choix dépend de votre sensibilité : convivialité et générosité d'équipement chez BYD, modernité technologique chez XPeng.</p>
+
+<h2>Prix</h2>
+<p>Le BYD Atto 3 reste le plus abordable, démarrant nettement sous le G6 (un écart d'environ 4 000 € sur les marchés européens). Le XPeng facture sa technologie de recharge et sa puissance, mais le rapport prestations/prix demeure agressif face aux références allemandes.</p>
+
+<h2>Verdict</h2>
+<p>Pour le critère mis en avant — l'autonomie réelle — les deux sont quasiment à égalité. Mais c'est la <strong>recharge qui départage</strong> : si vous roulez loin et souvent, le <strong>XPeng G6</strong> et son architecture 800V changent la vie et justifient son surcoût. Si votre usage est surtout quotidien, avec recharge à la maison, le <strong>BYD Atto 3 Evo</strong> offre le meilleur rapport contenu/prix et une sobriété exemplaire. Gros rouleur : G6. Budget et quotidien : Atto 3.</p>
+`,
   },
   {
     slug: 'jaecoo-7-vs-chery-tiggo-8-pro-suv-familial-chery',
@@ -450,6 +478,35 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2026-03-17T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux SUV, une même maison mère</h2>
+<p>Jaecoo et Chery appartiennent au même groupe (Chery), et leurs SUV familiaux partagent une partie de leur ingénierie. Pourtant, le Jaecoo 7 et le Chery Tiggo 8 Pro ne s'adressent pas au même acheteur. Choisir entre les deux, c'est d'abord répondre à une question de mode de vie : avez-vous besoin de sept places, ou cherchez-vous un cinq-places plus raffiné et plus technologique ?</p>
+
+<h2>Gabarit et places : le critère qui tranche</h2>
+<p>Le <strong>Chery Tiggo 8 Pro</strong> est un grand SUV proposé en configuration <strong>7 places</strong>, idéal pour les familles nombreuses ou ceux qui transportent régulièrement plus de cinq personnes. Le <strong>Jaecoo 7</strong>, lui, est un SUV <strong>5 places</strong> plus compact, qui mise sur la qualité de vie à bord plutôt que sur le nombre de sièges. Si la troisième rangée est non négociable pour vous, le choix est déjà fait : ce sera le Tiggo 8 Pro.</p>
+
+<h2>Motorisations</h2>
+<p>Les deux misent sur l'hybride rechargeable (PHEV), mais avec des philosophies différentes :</p>
+<ul>
+  <li><strong>Chery Tiggo 8 Pro</strong> : bloc plus généreux (autour de 2,0 L associé à l'électrique) pour une puissance combinée élevée, de l'ordre de 256 ch et 390 Nm. C'est le plus performant et le plus apte à tracter ou à emmener une pleine charge.</li>
+  <li><strong>Jaecoo 7</strong> : architecture PHEV autour d'un 1,5 L, orientée efficience et douceur plutôt que performance pure. Parfait pour un usage familial apaisé avec une vraie capacité à rouler en électrique au quotidien.</li>
+</ul>
+
+<h2>Technologie et présentation intérieure</h2>
+<p>Le Jaecoo 7 prend sa revanche sur le terrain du raffinement. Il propose un grand écran central (jusqu'à environ 14,8 pouces) et une ambiance plus premium, dans l'esprit d'un SUV plus haut de gamme que ne le suggère son prix. Le Tiggo 8 Pro, plus orienté praticité familiale, dispose d'une dotation moderne mais d'une présentation un cran en dessous en matière de sophistication perçue.</p>
+
+<h2>Prix</h2>
+<p>C'est là que le match devient piquant : les deux modèles s'affichent à des tarifs quasiment identiques selon les marchés. Vous ne choisissez donc pas vraiment selon le budget, mais selon vos priorités : <strong>plus d'espace et de puissance</strong> (Tiggo 8 Pro) ou <strong>plus de raffinement et d'efficience</strong> (Jaecoo 7), pour le même prix.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>Chery Tiggo 8 Pro</strong> : familles nombreuses, besoin de 7 places, usages exigeants (pleine charge, longs trajets), recherche de puissance.</li>
+  <li><strong>Jaecoo 7</strong> : familles de 4-5 personnes valorisant le confort, la techno embarquée et une image plus premium.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Il n'y a pas de mauvais choix ici, seulement deux profils. Si vous avez besoin de modularité et de places, le <strong>Chery Tiggo 8 Pro</strong> est imbattable au sein de la gamme. Si vous privilégiez le raffinement, la technologie et une consommation maîtrisée sans sacrifier l'espace pour cinq, le <strong>Jaecoo 7</strong> est le choix le plus séduisant — et, à prix égal, souvent le plus valorisant au quotidien.</p>
+`,
   },
   {
     slug: 'mg-cyberster-vs-byd-seal-06-gt-plaisir-conduite',
@@ -462,6 +519,33 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2026-03-10T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le plaisir de conduire, version chinoise</h2>
+<p>On a longtemps reproché aux voitures chinoises d'être efficaces mais dénuées d'âme. La MG Cyberster et la BYD Seal 06 GT prouvent le contraire : ce sont deux objets pensés pour le plaisir, mais selon deux interprétations opposées. D'un côté, un roadster décapotable assumé, héritier de la tradition MG. De l'autre, une GT compacte plus accessible et plus polyvalente. Deux façons de répondre à la même question : peut-on s'amuser au volant d'une électrique chinoise ?</p>
+
+<h2>MG Cyberster : le roadster pur et dur</h2>
+<p>La Cyberster est une déclaration d'intention. Roadster deux places à toit ouvrant et portes en élytre, elle renoue avec l'ADN sportif de MG tout en passant au tout-électrique. Sa version <strong>GT bi-moteur</strong> ne fait pas semblant :</p>
+<ul>
+  <li><strong>Puissance</strong> : environ 503 ch (transmission intégrale).</li>
+  <li><strong>0 à 100 km/h</strong> : environ 3,2 secondes.</li>
+  <li><strong>Batterie</strong> : environ 77 kWh pour une autonomie d'environ 580 km.</li>
+</ul>
+<p>Une version propulsion plus accessible (environ 340 ch, 0 à 100 km/h en 5,0 s) existe également. Dans tous les cas, la Cyberster privilégie l'émotion : le vent dans les cheveux, une accélération brutale et une silhouette qui ne laisse personne indifférent. C'est une voiture-plaisir au sens le plus classique du terme.</p>
+
+<h2>BYD Seal 06 GT : la sportivité du quotidien</h2>
+<p>La Seal 06 GT adopte une approche radicalement différente. Compacte dynamique cinq places issue de la gamme Ocean de BYD, elle vise le plaisir <strong>utilisable tous les jours</strong> : châssis affûté, look GT, mais avec un coffre, des places arrière et une polyvalence que le roadster MG ne peut offrir. Là où la Cyberster est une seconde voiture passion, la Seal 06 GT veut être la seule voiture du foyer — tout en restant amusante à conduire.</p>
+<p>Son positionnement tarifaire est aussi nettement plus doux que celui de la Cyberster, ce qui en fait une porte d'entrée bien plus large vers la « sportivité électrique » chinoise.</p>
+
+<h2>Deux clientèles, deux usages</h2>
+<p>Comparer ces deux modèles revient à comparer le désir et la raison :</p>
+<ul>
+  <li>La <strong>MG Cyberster</strong> s'adresse à l'amateur de sensations qui accepte les compromis d'un roadster (deux places, habitabilité limitée, prix élevé) en échange d'une expérience unique et d'un style spectaculaire.</li>
+  <li>La <strong>BYD Seal 06 GT</strong> vise celui qui veut du plaisir de conduite sans renoncer à la praticité ni exploser son budget.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Si votre cœur bat pour la sensation pure, le soleil et le style, la <strong>MG Cyberster</strong> est l'une des propositions les plus excitantes du marché électrique, toutes origines confondues — un vrai roadster moderne à un prix qui reste inférieur à celui des rares concurrents européens. Mais si vous cherchez une voiture qui mette du sourire au quotidien tout en restant rationnelle, la <strong>BYD Seal 06 GT</strong> offre 90 % du plaisir pour une fraction des contraintes. La Cyberster fait rêver ; la Seal 06 GT fait rouler.</p>
+`,
   },
   {
     slug: 'nio-el6-vs-xpeng-g9-grands-suv-electriques-premium',
@@ -474,6 +558,33 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2026-03-03T09:00:00+01:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le duel des grands SUV électriques premium</h2>
+<p>Au-dessus des SUV compacts trône un segment plus exclusif : celui des grands SUV électriques premium, ces vaisseaux familiaux qui rivalisent avec les BMW iX et autres Mercedes EQE SUV. NIO et XPeng y placent deux champions aux personnalités fortes : le NIO EL6, performant et porté par l'écosystème de services NIO, et le XPeng G9, roi incontesté de la recharge. Lequel mérite votre confiance ?</p>
+
+<h2>Performances</h2>
+<p>Le NIO EL6 frappe fort : transmission intégrale, jusqu'à environ 653 ch, et un 0 à 100 km/h abattu en environ 4,5 secondes. C'est une vraie machine, capable d'emmener sa masse avec autorité. Le XPeng G9 propose lui aussi des versions musclées, mais il met davantage l'accent sur l'équilibre et le confort que sur la performance brute. Avantage NIO sur le chrono.</p>
+
+<h2>Autonomie et batterie</h2>
+<ul>
+  <li><strong>NIO EL6</strong> : autonomie WLTP jusqu'à environ 513 km, avec plusieurs capacités de batterie disponibles (et l'option d'une grosse batterie via le réseau d'échange).</li>
+  <li><strong>XPeng G9</strong> : autonomie WLTP de l'ordre de 540 km sur les versions longue autonomie.</li>
+</ul>
+<p>Les deux offrent une autonomie confortable pour de longs trajets. Mais c'est sur la <strong>vitesse de recharge</strong> que tout se joue.</p>
+
+<h2>La recharge : G9 intouchable, EL6 a une autre arme</h2>
+<p>Le XPeng G9 embarque une architecture 800V à la pointe, acceptant jusqu'à environ 525 kW : un 10-80 % en 12 minutes, sur toutes les versions. C'est une référence absolue du marché. Le NIO EL6, lui, plafonne autour de 140 kW en recharge rapide classique — bien plus lent.</p>
+<p>Mais NIO a sa botte secrète : le <strong>battery swap</strong>. Plutôt que de recharger, l'EL6 peut échanger sa batterie vide contre une pleine en quelques minutes dans une station dédiée, et même louer la batterie via la formule « Battery as a Service » pour réduire le prix d'achat. Là où le réseau de stations existe, c'est un avantage énorme sur les longs trajets ; là où il n'existe pas, l'EL6 souffre de sa recharge filaire lente face au G9.</p>
+
+<h2>Habitabilité et finition</h2>
+<p>Les deux sont de grands SUV cinq places spacieux et richement dotés. Le NIO EL6 cultive l'ambiance « cocon » et l'expérience de service (assistant Nomi, lounges NIO), tandis que le G9 mise sur une présentation technologique rigoureuse et une grande qualité de fabrication. Sur la qualité perçue, les deux n'ont rien à envier au premium allemand.</p>
+
+<h2>Prix</h2>
+<p>Le NIO EL6 démarre autour de 65 500 € en Europe (hors formule BaaS, qui peut abaisser le ticket d'entrée moyennant un loyer de batterie). Le XPeng G9 se positionne dans une fourchette comparable. À ce niveau, le choix se fait sur la philosophie d'usage plus que sur quelques milliers d'euros.</p>
+
+<h2>Verdict</h2>
+<p>Le <strong>XPeng G9</strong> est le choix le plus simple et le plus universel : sa recharge 800V est imbattable et résout le principal point faible de l'électrique pour les longs trajets, sans dépendre d'une infrastructure spécifique. Le <strong>NIO EL6</strong> est plus performant et propose, avec l'échange de batterie, une expérience unique — mais sa pertinence dépend entièrement de la présence des stations NIO dans votre région. En zone bien couverte par NIO, l'EL6 est fascinant ; partout ailleurs, le G9 est le pari le plus sûr.</p>
+`,
   },
   {
     slug: 'gwm-ora-03-vs-mg3-hybrid-design-retro-efficacite',
@@ -486,6 +597,40 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2026-02-24T09:00:00+01:00',
     readingTime: 6,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Rétro-chic contre efficience : deux visions de la citadine</h2>
+<p>La GWM Ora 03 et la MG3 Hybrid+ partagent une ambition — séduire les conducteurs urbains — mais empruntent des chemins opposés. L'Ora 03 joue la carte du charme rétro et du tout-électrique ; la MG3 Hybrid+ celle de l'hybride malin et sans contrainte de recharge. Au-delà du style, c'est une question de mode de vie : êtes-vous prêt(e) à passer au 100 % électrique, ou préférez-vous la souplesse de l'hybride ?</p>
+
+<h2>GWM Ora 03 : le charme au service de l'électrique</h2>
+<p>L'Ora 03 (anciennement Funky Cat) est avant tout une affaire de design : lignes rondes, regard expressif, ambiance vintage assumée. C'est une vraie citadine 100 % électrique :</p>
+<ul>
+  <li><strong>Puissance</strong> : environ 171 ch, 0 à 100 km/h en environ 8,2 s.</li>
+  <li><strong>Autonomie</strong> : de l'ordre de 310 à 340 km WLTP selon la batterie (45 à 59 kWh).</li>
+  <li><strong>Recharge</strong> : jusqu'à environ 64 kW en courant continu.</li>
+</ul>
+<p>Son point fort : le style et l'agrément urbain silencieux. Ses limites : une autonomie qui impose une vraie réflexion sur la recharge (idéalement à domicile) et une vitesse de charge modeste qui pénalise les trajets plus longs.</p>
+
+<h2>MG3 Hybrid+ : l'efficience sans prise</h2>
+<p>La MG3 Hybrid+ répond avec une chaîne <strong>full hybride</strong> (non rechargeable) particulièrement aboutie :</p>
+<ul>
+  <li><strong>Puissance combinée</strong> : environ 195 ch (bloc essence 1,5 L de 102 ch + moteur électrique de 136 ch), 0 à 100 km/h en environ 8 s.</li>
+  <li><strong>Consommation</strong> : homologuée autour de 4,4 L/100 km WLTP, soit environ 4,8 à 5,3 L/100 km en usage réel mixte.</li>
+  <li><strong>Autonomie pratique</strong> : 600 km et plus avec un plein, sans jamais brancher la voiture.</li>
+</ul>
+<p>Son moteur électrique inhabituellement puissant pour le segment lui donne un démarrage vif et une vraie sensation d'électrique en ville, mais sans aucune contrainte de recharge. C'est l'argument massue pour qui n'a pas de borne à domicile.</p>
+
+<h2>Prix : avantage net MG</h2>
+<p>La MG3 Hybrid+ démarre autour de 16 990 € (et grimpe vers 20 490 € en finition haute), là où l'Ora 03 s'échelonne plutôt de 25 000 à 33 000 €. À budget égal, la MG offre donc beaucoup plus de voiture — et zéro souci de borne. L'Ora facture son style et sa motorisation électrique.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>GWM Ora 03</strong> : pour qui craque sur le design, roule surtout en ville et peut recharger facilement à domicile.</li>
+  <li><strong>MG3 Hybrid+</strong> : pour qui veut une citadine économe, polyvalente, sans contrainte de recharge et au meilleur prix.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>L'Ora 03 est la plus attachante et la plus valorisante esthétiquement : si le coup de cœur opère et que votre quotidien se prête au 100 % électrique, elle a de vrais arguments de séduction. Mais pour la rationalité pure — prix, polyvalence, absence de contrainte de recharge — la <strong>MG3 Hybrid+ est imbattable</strong>. C'est le choix de la tête ; l'Ora 03, celui du cœur. Et sur ce segment où chaque euro compte, la tête l'emporte le plus souvent.</p>
+`,
   },
   {
     slug: 'zeekr-x-vs-volvo-ex30-cousins-chinois',
