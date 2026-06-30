@@ -186,6 +186,49 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2026-04-28T09:00:00+02:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux philosophies de la berline électrique chinoise</h2>
+<p>Opposer la BYD Seal et la Xiaomi SU7 Ultra, c'est presque comparer deux catégories différentes. D'un côté, une berline premium accessible qui veut séduire le plus grand nombre ; de l'autre, une supercar à quatre portes dont la fiche technique fait pâlir des Porsche. Pourtant, les deux portent le même drapeau : celui d'une Chine qui ne se contente plus de copier, mais qui impose son tempo sur le segment des berlines électriques rapides.</p>
+<p>La question « laquelle est la plus rapide ? » a une réponse évidente sur le papier. Mais la vraie question, pour un acheteur réel — au Maroc comme en Europe — est ailleurs : à quel prix, pour quel usage, et avec quelle disponibilité ? C'est ce que nous allons décortiquer.</p>
+
+<h2>Xiaomi SU7 Ultra : le rouleau compresseur des chiffres</h2>
+<p>Commençons par le morceau le plus spectaculaire. La SU7 Ultra n'est pas une simple déclinaison sportive : c'est le porte-étendard technologique de Xiaomi dans l'automobile.</p>
+<ul>
+  <li><strong>Puissance</strong> : architecture tri-moteur développant jusqu'à <strong>1 548 ch</strong> (1 154 kW). Ce n'est pas une faute de frappe.</li>
+  <li><strong>0 à 100 km/h</strong> : annoncé en <strong>1,98 seconde</strong>, soit le territoire des hypercars électriques les plus extrêmes.</li>
+  <li><strong>Vitesse maximale</strong> : jusqu'à 350 km/h.</li>
+  <li><strong>Batterie</strong> : 93,7 kWh à cellules CATL Qilin 2.0 (NMC), pour une autonomie CLTC pouvant atteindre 700 km.</li>
+  <li><strong>Recharge</strong> : architecture haute tension acceptant jusqu'à 490 kW, soit un 10-80 % en environ 11 minutes.</li>
+</ul>
+<p>Ces chiffres placent la SU7 Ultra dans une catégorie à part. Mais deux nuances s'imposent. D'abord, l'autonomie de 700 km est mesurée selon le cycle chinois CLTC, beaucoup plus optimiste que le WLTP européen : comptez plutôt 550 à 580 km dans des conditions réalistes. Ensuite, exploiter 1 548 ch fait fondre la batterie à une vitesse stupéfiante. La performance maximale est une démonstration de force, pas un mode d'usage quotidien.</p>
+
+<h2>BYD Seal : la performance au service de l'usage</h2>
+<p>Face à ce monstre, la BYD Seal joue une partition différente, et plus pragmatique. Sa version la plus accessible (Design) revendique environ 313 ch et un 0 à 100 km/h en 5,9 secondes — déjà largement suffisant pour la quasi-totalité des conducteurs. La version haut de gamme <strong>Excellence AWD</strong> monte à environ 530 ch et abat le 0 à 100 km/h en <strong>3,8 secondes</strong>.</p>
+<p>Sur le plan de l'autonomie, la Seal embarque une batterie de 82,5 kWh (technologie Blade LFP, réputée pour sa longévité et sa sécurité) offrant une autonomie WLTP — donc directement comparable aux standards européens — d'environ <strong>570 km en version Design</strong> et 520 km en Excellence. La recharge rapide plafonne à 150 kW, soit un 10-80 % en environ 37 minutes : honnête, mais clairement en retrait face aux 490 kW de la Xiaomi.</p>
+<p>La Seal n'a pas vocation à battre la SU7 Ultra au chrono. Son objectif est d'offrir une berline confortable, bien finie, performante et endurante, à un tarif maîtrisé.</p>
+
+<h2>Le match de la vitesse : verdict sans appel… mais à relativiser</h2>
+<p>Si la seule question est « laquelle accélère le plus fort ? », la réponse est limpide : la <strong>Xiaomi SU7 Ultra écrase la BYD Seal</strong>. Avec près de trois fois la puissance et un 0 à 100 km/h presque deux fois plus rapide, il n'y a pas match.</p>
+<p>Mais cette supériorité a un contexte. La SU7 Ultra est une voiture conçue pour la piste et la démonstration technologique. Sur route ouverte, au-delà de la sensation grisante du démarrage, la différence avec une Seal Excellence à 3,8 secondes devient largement théorique : aucune des deux ne pourra exploiter son potentiel sur une autoroute marocaine ou un boulevard urbain. La vraie fracture est ailleurs.</p>
+
+<h2>Prix et disponibilité : le facteur décisif</h2>
+<p>C'est ici que le rapport de force s'inverse. La BYD Seal est officiellement distribuée dans de nombreux marchés, avec un réseau, un SAV et une garantie. Ses tarifs européens débutent autour de 45 000 € pour la Design.</p>
+<p>La Xiaomi SU7 Ultra, elle, est facturée environ 529 900 yuans en Chine (soit grossièrement 68 000 €), mais sa <strong>disponibilité hors de Chine reste extrêmement limitée</strong>. Pour un acheteur marocain ou européen, l'obtenir relève du parcours d'importateur spécialisé, avec les incertitudes que cela implique en matière d'homologation, de garantie et de pièces détachées.</p>
+<p>Autrement dit : la voiture la plus rapide sur le papier est aussi la plus difficile à posséder et à entretenir sereinement.</p>
+
+<h2>Tableau de synthèse</h2>
+<ul>
+  <li><strong>Puissance max</strong> : SU7 Ultra ≈ 1 548 ch / Seal Excellence ≈ 530 ch.</li>
+  <li><strong>0 à 100 km/h</strong> : SU7 Ultra 1,98 s / Seal Excellence 3,8 s.</li>
+  <li><strong>Autonomie</strong> : SU7 Ultra ~700 km CLTC (≈ 550-580 km réels) / Seal ~570 km WLTP.</li>
+  <li><strong>Recharge</strong> : SU7 Ultra jusqu'à 490 kW / Seal jusqu'à 150 kW.</li>
+  <li><strong>Réseau & garantie</strong> : Seal largement distribuée / SU7 Ultra confidentielle hors Chine.</li>
+</ul>
+
+<h2>Verdict : la plus rapide n'est pas forcément la plus pertinente</h2>
+<p>La Xiaomi SU7 Ultra remporte haut la main le titre de berline électrique chinoise la plus rapide de 2026. C'est une vitrine technologique impressionnante qui prouve que Xiaomi peut jouer dans la cour des très grands. Mais pour 99 % des acheteurs, c'est un objet de fantasme plus qu'une voiture du quotidien.</p>
+<p>La BYD Seal, elle, propose une équation bien plus rationnelle : des performances déjà excellentes, une autonomie WLTP solide, une batterie Blade réputée durable, un réseau structuré et un prix accessible. Pour qui cherche une vraie berline électrique à vivre tous les jours, c'est elle qu'il faut regarder. La SU7 Ultra gagne la course ; la Seal gagne la vie réelle.</p>
+`,
   },
   {
     slug: 'mg4-vs-byd-dolphin-compactes-electriques',
@@ -198,6 +241,52 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2026-04-21T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le duel des compactes électriques accessibles</h2>
+<p>Pendant longtemps, l'électrique abordable se résumait à des citadines spartiates et à courte autonomie. La MG4 et la BYD Dolphin ont changé la donne : deux compactes chinoises bien équipées, dotées de vraies batteries et de finitions soignées, vendues sous la barre des 25 000 € après aides dans plusieurs marchés. Elles incarnent ce qui se fait de mieux dans le segment de l'électrique « pour tous ».</p>
+<p>Mais elles ne visent pas exactement le même conducteur. L'une joue la carte du dynamisme et de la rigueur, l'autre celle du confort et de l'astuce. Voici comment les départager.</p>
+
+<h2>Gabarit et positionnement</h2>
+<p>La MG4 est une berline compacte au style anguleux, à la silhouette basse et au châssis à propulsion (roues arrière motrices sur la plupart des versions) — une rareté à ce tarif qui trahit une ambition dynamique. La BYD Dolphin, plus haute et plus arrondie, adopte une posture de mini-monospace : elle privilégie l'habitabilité et la praticité urbaine. Dès le premier coup d'œil, les intentions sont claires.</p>
+
+<h2>Motorisation et performances</h2>
+<p>Sur le papier, les deux rivales sont étonnamment proches dans leurs versions hautes :</p>
+<ul>
+  <li><strong>Puissance</strong> : environ 204 ch pour les deux dans leurs déclinaisons les plus généreuses.</li>
+  <li><strong>0 à 100 km/h</strong> : la Dolphin annonce environ 7,0 s, la MG4 environ 7,1 s — un écart imperceptible.</li>
+  <li><strong>Couple</strong> : avantage à la Dolphin avec environ 310 Nm contre 250 Nm pour la MG4.</li>
+</ul>
+<p>Dans les faits, la MG4 se distingue par un comportement routier plus affûté grâce à sa propulsion et à une répartition des masses favorable : elle est plus joueuse, plus précise sur route sinueuse. La Dolphin, elle, mise sur une conduite douce et apaisée, idéale en ville et sur trajets pendulaires.</p>
+
+<h2>Batterie et autonomie</h2>
+<p>Les deux modèles existent en plusieurs capacités. Dans leurs versions grande autonomie :</p>
+<ul>
+  <li><strong>MG4</strong> : batterie d'environ 64 kWh pour une autonomie WLTP d'environ 450 km.</li>
+  <li><strong>BYD Dolphin</strong> : batterie d'environ 60,4 kWh (technologie Blade LFP) pour environ 427 km WLTP.</li>
+</ul>
+<p>La MG4 prend donc un léger avantage théorique sur l'autonomie. Mais la batterie Blade de la BYD a ses propres atouts : chimie LFP réputée endurante (plus de 5 000 cycles annoncés), bonne tolérance à la charge complète au quotidien et excellent niveau de sécurité.</p>
+
+<h2>Recharge : l'écart qui compte sur les longs trajets</h2>
+<p>C'est l'un des points de divergence les plus concrets. La MG4 accepte une puissance de recharge rapide en courant continu d'environ <strong>135 kW</strong>, contre environ <strong>88 kW</strong> pour la Dolphin. Sur un trajet autoroutier avec arrêts de recharge — un Casablanca-Marrakech, par exemple — la MG4 reprendra des kilomètres nettement plus vite. Pour une utilisation strictement urbaine et périurbaine, l'écart est en revanche sans conséquence.</p>
+
+<h2>Consommation et coût d'usage</h2>
+<p>La Dolphin affiche une consommation homologuée autour de 15,9 kWh/100 km, là où la MG4 oscille plutôt entre 16 et 18,7 kWh/100 km selon les versions. Sur l'année, la Dolphin sera donc légèrement plus économe à recharger — un argument à pondérer selon votre kilométrage et le prix de l'électricité.</p>
+
+<h2>Habitabilité et vie à bord</h2>
+<p>La Dolphin tire parti de sa carrosserie plus haute pour offrir une habitabilité arrière et un volume de chargement perçus comme plus généreux, avec une présentation intérieure colorée et ludique. La MG4 propose un habitacle plus sobre et orienté conducteur, avec une position de conduite plus basse. Le choix dépend ici de vos priorités : espace et convivialité d'un côté, dynamisme et sobriété de l'autre.</p>
+
+<h2>Prix : le nerf de la guerre</h2>
+<p>Les deux modèles se tiennent dans un mouchoir de poche sur l'entrée de gamme. Selon les marchés, la MG4 et la Dolphin démarrent à des tarifs très voisins, autour de 26 000 € avant aides en Europe. La MG4 tend toutefois à proposer un meilleur tarif sur ses finitions hautes, tandis que la Dolphin Design la plus équipée grimpe davantage. Au Maroc, les positionnements dépendent de l'importateur, mais la logique reste la même : deux rivales au coude-à-coude.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>Choisissez la MG4</strong> si vous valorisez le plaisir de conduite, l'autonomie, la recharge rapide et les longs trajets.</li>
+  <li><strong>Choisissez la BYD Dolphin</strong> si vous privilégiez l'espace, le confort, la sobriété énergétique et un usage majoritairement urbain.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Il n'y a pas de perdant dans ce duel : ce sont deux excellentes compactes électriques qui, il y a cinq ans, n'auraient eu aucun équivalent à ce prix. La <strong>MG4</strong> s'impose comme le choix le plus polyvalent et le plus dynamique, mieux armé pour les conducteurs qui roulent loin. La <strong>BYD Dolphin</strong> séduira ceux qui cherchent avant tout une voiture pratique, douce et économe pour la ville et les trajets du quotidien. Le meilleur rapport « plaisir/kilomètres » penche vers la MG4 ; le meilleur rapport « espace/sérénité » vers la Dolphin.</p>
+`,
   },
   {
     slug: 'zeekr-001-vs-nio-et7-luxe-technologique-chinois',
@@ -210,6 +299,47 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2026-04-14T09:00:00+02:00',
     readingTime: 9,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le luxe technologique chinois cherche son roi</h2>
+<p>Il y a encore peu, parler de « luxe chinois » faisait sourire. En 2026, ce n'est plus le cas. Zeekr et NIO incarnent une nouvelle génération de constructeurs qui ne se contentent pas de rivaliser sur le prix, mais qui revendiquent un haut de gamme assumé : matériaux soignés, technologies de pointe, et services inédits. La Zeekr 001 et la NIO ET7 sont les deux porte-drapeaux de cette ambition. Mais elles l'expriment de façons radicalement différentes.</p>
+
+<h2>Deux carrosseries, deux visions</h2>
+<p>La Zeekr 001 est un « shooting brake » — un break de chasse au profil fastback, aussi élégant que pratique. La NIO ET7, elle, est une grande berline tricorps classique, dans l'esprit des limousines premium allemandes. Ce choix de carrosserie en dit long : Zeekr vise une clientèle qui veut du style et de la polyvalence, NIO une clientèle attachée au statut de la berline statutaire.</p>
+<p>L'écart se confirme côté coffre : la Zeekr 001 offre un volume de chargement nettement supérieur (environ 539 litres), là où l'ET7 se limite à environ 363 litres, pénalisée par son architecture de berline.</p>
+
+<h2>Motorisation et performances</h2>
+<p>Les deux jouent dans la catégorie des grandes routières puissantes :</p>
+<ul>
+  <li><strong>NIO ET7</strong> : jusqu'à environ 653 ch en version bi-moteur intégrale.</li>
+  <li><strong>Zeekr 001</strong> : jusqu'à environ 544 ch selon les versions.</li>
+  <li><strong>0 à 100 km/h</strong> : les deux se tiennent autour de 3,8 secondes dans leurs déclinaisons les plus performantes.</li>
+</ul>
+<p>Sur la puissance pure, la NIO prend l'avantage. Mais dans l'usage, les deux délivrent des accélérations qui dépassent largement les besoins quotidiens. La différence se ressent davantage dans le tempérament : la 001 cultive une rigueur sportive (Zeekr appartient au groupe Geely et partage des gènes avec Lotus côté châssis), tandis que l'ET7 privilégie le confort feutré et l'isolation.</p>
+
+<h2>Batterie, autonomie et la carte maîtresse de NIO</h2>
+<p>La Zeekr 001 embarque des batteries pouvant atteindre 94 kWh, pour une autonomie WLTP autour de 505 à 620 km selon les versions, avec une excellente efficience (environ 18,2 kWh/100 km). La NIO ET7 propose, avec sa batterie de 90 kWh, une autonomie d'environ 584 km, pour une consommation légèrement supérieure (environ 19 kWh/100 km).</p>
+<p>Mais NIO a un atout que personne d'autre ne possède à ce niveau : le <strong>battery swap</strong>. Plutôt que d'attendre une recharge, l'ET7 peut entrer dans une station d'échange et repartir avec une batterie pleine en quelques minutes. Mieux encore, le modèle économique « Battery as a Service » permet d'acheter la voiture sans la batterie, louée à l'usage. Pour qui parcourt de longues distances ou veut limiter le risque lié au vieillissement de la batterie, c'est un argument considérable — à condition que le réseau de stations existe sur votre territoire, ce qui reste le point faible hors de Chine et de quelques marchés européens.</p>
+
+<h2>Technologie embarquée et conduite assistée</h2>
+<p>C'est le terrain de jeu favori des deux marques. La NIO ET7 mise sur sa plateforme Aquila, riche en capteurs (dont un lidar) et sur l'assistant vocal/IA « Nomi », véritable signature de la marque. La Zeekr 001 répond avec une dotation technologique haut de gamme, des écrans de grande taille et une architecture électronique moderne taillée pour les mises à jour à distance.</p>
+<p>Dans les deux cas, on est face à des intérieurs qui rivalisent sans complexe avec le premium allemand sur la qualité perçue, avec un avantage à NIO sur l'expérience « cocon » et l'écosystème de services, et un avantage à Zeekr sur la sensation de robustesse et la finition de série.</p>
+
+<h2>Prix : Zeekr casse la barrière</h2>
+<p>Sur le plan tarifaire, la Zeekr 001 démarre autour de 61 000 € quand la NIO ET7 réclame plutôt 71 000 € (hors formule BaaS qui peut réduire le ticket d'entrée mais ajoute un loyer mensuel). À prestations comparables, la Zeekr offre donc un meilleur rapport contenu/prix, surtout si l'on tient compte de sa polyvalence de break.</p>
+
+<h2>Tableau de synthèse</h2>
+<ul>
+  <li><strong>Carrosserie</strong> : Zeekr 001 break de chasse / NIO ET7 berline.</li>
+  <li><strong>Puissance max</strong> : ET7 ≈ 653 ch / Zeekr 001 ≈ 544 ch.</li>
+  <li><strong>Autonomie WLTP</strong> : Zeekr jusqu'à ~620 km / ET7 ~584 km.</li>
+  <li><strong>Atout unique</strong> : ET7 = échange de batterie (BaaS) ; Zeekr = polyvalence + prix.</li>
+  <li><strong>Prix indicatif</strong> : Zeekr ~61 000 € / ET7 ~71 000 €.</li>
+</ul>
+
+<h2>Verdict : un nouveau roi, mais lequel ?</h2>
+<p>Si le « luxe technologique chinois » a un nouveau roi, le titre se partage selon vos priorités. La <strong>NIO ET7</strong> est la championne de l'innovation d'usage : son écosystème de services, son assistant Nomi et surtout son échange de batterie en font une proposition unique, presque visionnaire — là où le réseau le permet. La <strong>Zeekr 001</strong>, elle, est la plus rationnelle et la plus aboutie au quotidien : plus polyvalente, mieux finie de série, plus efficiente et surtout moins chère.</p>
+<p>Notre cœur penche pour la Zeekr 001 comme meilleur achat global. Mais si vous habitez une zone couverte par les stations d'échange NIO, l'ET7 offre une expérience que rien d'autre ne propose sur le marché. Deux rois, deux royaumes.</p>
+`,
   },
   {
     slug: 'omoda-5-vs-mg-zs-hybrid-suv-urbains-abordables',
@@ -222,6 +352,42 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2026-04-07T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le segment le plus disputé du marché</h2>
+<p>Le SUV urbain abordable est devenu le champ de bataille principal des constructeurs chinois en Europe et au Maroc. C'est là que se jouent les volumes, et c'est là que MG et Omoda (marque export du groupe Chery) s'affrontent frontalement. D'un côté, le MG ZS Hybrid+, best-seller installé et redoutablement bien tarifé. De l'autre, l'Omoda 5, outsider au design plus tape-à-l'œil qui veut bousculer la hiérarchie. Qui offre le meilleur compromis ?</p>
+
+<h2>Deux approches du style</h2>
+<p>L'Omoda 5 assume un design spectaculaire, presque concept-car : calandre pleine, feux effilés, ligne de toit fuyante. Elle veut séduire au premier regard et capter une clientèle jeune. Le MG ZS, plus consensuel, joue la carte de la sobriété rassurante et de l'habitabilité. Deux philosophies : l'audace contre la raison.</p>
+
+<h2>Motorisations : hybride contre hybride</h2>
+<p>Les deux rivales misent sur l'hybride pour séduire des acheteurs encore frileux face au tout-électrique :</p>
+<ul>
+  <li><strong>MG ZS Hybrid+</strong> : chaîne hybride d'environ 194 ch combinés, associant un bloc essence 1,5 L (102 ch) et un moteur électrique de 136 ch. 0 à 100 km/h en environ 8,7 s, consommation homologuée autour de 5,1 L/100 km.</li>
+  <li><strong>Omoda 5 SHS-H</strong> : système hybride plus puissant, autour de 224 ch combinés, pour une consommation homologuée voisine (environ 5,3 L/100 km).</li>
+</ul>
+<p>Sur le papier, l'Omoda affiche plus de puissance ; le MG répond par une consommation légèrement meilleure et un démarrage vif en ville, là où son moteur électrique de 136 ch fait merveille. Attention toutefois : comme nous l'avons documenté par ailleurs, la chaîne hybride du ZS peut connaître des creux de puissance en côte d'autoroute sur sa calibration d'origine — un point à vérifier (mise à jour logicielle PD052) selon votre usage.</p>
+
+<h2>Habitabilité et présentation intérieure</h2>
+<p>Le MG ZS marque des points sur l'habitabilité : son gabarit est exploité de façon généreuse, avec un bon espace aux places arrière et un coffre pratique. L'Omoda 5 réplique avec une présentation intérieure plus moderne et plus technologique, mais une habitabilité parfois en retrait à cause de sa ligne de toit plongeante. Là encore : praticité contre style.</p>
+
+<h2>Équipement et technologie</h2>
+<p>L'Omoda 5 soigne sa dotation pour justifier son positionnement : grands écrans, ambiance numérique, finitions valorisantes sur les versions hautes. Le MG ZS adopte une approche plus pragmatique, avec l'essentiel bien présent et une ergonomie sans surprise. Le choix dépendra de votre sensibilité à la « démonstration technologique » à bord.</p>
+
+<h2>Le prix : l'argument massue du MG</h2>
+<p>C'est ici que le match bascule. Le MG ZS Hybrid+ démarre nettement plus bas que l'Omoda 5 SHS-H — un écart qui peut atteindre l'équivalent de 7 000 € sur les marchés européens en faveur du MG. Pour un même usage (un SUV urbain hybride sobre et bien équipé), le MG propose donc une facture sensiblement plus douce. Au Maroc, le MG ZS Hybrid+ s'affiche d'ailleurs à des tarifs très agressifs qui expliquent son succès.</p>
+
+<h2>Tableau de synthèse</h2>
+<ul>
+  <li><strong>Puissance combinée</strong> : Omoda 5 ≈ 224 ch / MG ZS ≈ 194 ch.</li>
+  <li><strong>Consommation</strong> : MG ZS ~5,1 L/100 km / Omoda 5 ~5,3 L/100 km.</li>
+  <li><strong>Habitabilité</strong> : avantage MG ZS.</li>
+  <li><strong>Style & techno intérieure</strong> : avantage Omoda 5.</li>
+  <li><strong>Prix</strong> : avantage net MG ZS.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>L'Omoda 5 est la plus séduisante au premier regard et la plus puissante, un bon choix pour qui veut se démarquer et soigner l'effet à bord. Mais sur le critère décisif de ce segment — le rapport prestations/prix — le <strong>MG ZS Hybrid+ reste le choix de la raison</strong> : moins cher, plus habitable, légèrement plus sobre et porté par un réseau déjà bien implanté. Tant que vous vérifiez la mise à jour de sa gestion hybride pour les trajets vallonnés, il demeure la valeur sûre du segment. L'Omoda séduit ; le MG convainc.</p>
+`,
   },
   {
     slug: 'leapmotor-t03-vs-byd-seagull-micro-citadines',
@@ -234,6 +400,32 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2026-03-31T09:00:00+02:00',
     readingTime: 6,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>La micro-citadine électrique, nouveau terrain de bataille</h2>
+<p>Rendre l'électrique réellement accessible : c'est la promesse des micro-citadines. Le Leapmotor T03 et le BYD Seagull (commercialisé en Europe sous l'appellation Dolphin Surf) incarnent cette nouvelle vague de petites électriques sous les 20 000 €. Elles ne cherchent pas à impressionner par leurs chiffres, mais à répondre à une question simple : peut-on rouler électrique en ville sans se ruiner ? La réponse est oui — mais ces deux-là n'y répondent pas de la même manière.</p>
+
+<h2>Gabarit et habitabilité</h2>
+<p>Le Leapmotor T03 est une vraie micro-citadine : environ 3,62 m de long, format idéal pour se faufiler et se garer partout, mais avec quatre places et un espace arrière limité pour les adultes (coffre d'environ 210 litres). Le BYD Seagull/Dolphin Surf est plus grand (environ 3,99 m), ce qui lui permet d'offrir cinq places et un empattement généreux (2,70 m) pour un coffre d'environ 308 litres. Si l'habitabilité et la polyvalence comptent, le BYD prend l'avantage d'entrée.</p>
+
+<h2>Motorisation et autonomie</h2>
+<ul>
+  <li><strong>Leapmotor T03</strong> : moteur d'environ 95 ch, batterie de 37,3 kWh, autonomie d'environ 265 km WLTP.</li>
+  <li><strong>BYD Dolphin Surf (Seagull)</strong> : gamme à trois niveaux — Active (88 ch, ~220 km, le moins cher), Boost (autonomie maximisée à ~322 km WLTP) et Comfort (156 ch, 0 à 100 km/h en ~9,1 s).</li>
+</ul>
+<p>Le BYD offre donc plus de choix et, sur sa version Boost, une autonomie nettement supérieure au T03. Pour un usage strictement urbain, les 265 km du Leapmotor suffisent amplement ; mais dès que l'on s'aventure au-delà de la ville, la flexibilité du BYD fait la différence.</p>
+
+<h2>Prix : le combat des centimes</h2>
+<p>C'est le terrain où tout se joue sur ce segment. Le BYD Dolphin Surf Active débute autour de 19 990 €, le Leapmotor T03 autour de 19 500 € — et Leapmotor a même lancé des prix promotionnels agressifs (jusqu'à 16 900 € avant aides dans certains marchés français) pour répondre à l'arrivée du BYD. Autrement dit, l'offensive BYD a directement tiré les prix vers le bas, au bénéfice de l'acheteur.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>Le Leapmotor T03</strong> vise le minimalisme et le prix plancher : une seconde voiture, un usage 100 % urbain, un budget serré. Sa simplicité est une force.</li>
+  <li><strong>Le BYD Dolphin Surf/Seagull</strong> vise la polyvalence : cinq places, plus d'autonomie disponible, plusieurs versions. C'est la micro-citadine que l'on peut aussi utiliser comme voiture principale d'un foyer.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Si votre besoin se résume à se déplacer en ville au coût le plus bas, le <strong>Leapmotor T03</strong> est imbattable sur le ticket d'entrée, surtout en promotion. Mais pour quelques centaines d'euros de plus, le <strong>BYD Dolphin Surf (Seagull)</strong> offre davantage de tout : plus d'espace, plus d'autonomie, plus de choix et une technologie de batterie Blade rassurante. Pour la majorité des acheteurs, c'est le BYD qui représente le meilleur investissement à long terme ; le Leapmotor reste l'arme absolue du budget minimal.</p>
+`,
   },
   {
     slug: 'xpeng-g6-vs-byd-atto-3-evo-autonomie-reelle',
