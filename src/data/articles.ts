@@ -1988,6 +1988,31 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-06-09T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Quand le smartphone monte à bord</h2>
+<p>Xiaomi n'est pas un constructeur automobile comme les autres : c'est d'abord le numéro 3 mondial du smartphone, à la tête d'un écosystème tentaculaire d'objets connectés. Avec HyperOS embarqué dans la SU7, la marque applique à la voiture ce qu'elle maîtrise depuis quinze ans : faire dialoguer tous vos appareils. Résultat, une intégration smartphone-voiture-maison d'un niveau inédit. Comment ça marche, et pourquoi c'est un atout que peu de constructeurs peuvent égaler ?</p>
+
+<h2>Un système pensé comme un smartphone géant</h2>
+<p>Au centre de la SU7 trône un écran de 16,1 pouces en définition 3K, animé par une puce Qualcomm Snapdragon 8295 et le système <strong>HyperOS</strong>, dérivé d'Android. La logique d'usage est délibérément calquée sur celle du téléphone : interface familière, navigation fluide dans les menus, et surtout la possibilité de recopier les applications mobiles directement sur l'écran de la voiture. Pour un utilisateur Xiaomi, l'apprentissage est quasi nul.</p>
+
+<h2>L'écosystème : le vrai super-pouvoir</h2>
+<p>C'est là que Xiaomi écrase la concurrence. HyperOS fait de la voiture un nœud de l'écosystème de la marque :</p>
+<ul>
+  <li><strong>Continuité avec le smartphone</strong> : vos contenus, contacts et applications suivent, et la transition téléphone-voiture est transparente.</li>
+  <li><strong>Maison connectée</strong> : depuis la voiture, vous pilotez vos objets Xiaomi — éclairage, aspirateur, climatisation — et déclenchez des routines domotiques (par exemple, allumer le chauffage de la maison à l'approche).</li>
+  <li><strong>Accessoires embarqués</strong> : des appareils Xiaomi peuvent se connecter physiquement dans l'habitacle, prolongeant l'expérience.</li>
+</ul>
+<p>Cette intégration s'appuie sur la même puissance d'interface que nous comparons dans <a href="/actualites/xiaomi-su7-vs-xpeng-p7i-interface-logicielle">Xiaomi SU7 vs XPeng P7i</a>.</p>
+
+<h2>Pourquoi les constructeurs classiques ne peuvent pas suivre</h2>
+<p>Un constructeur historique peut copier un écran et une interface, mais il ne possède pas l'écosystème : ni les centaines de millions de smartphones, ni la galaxie d'objets connectés, ni l'habitude des utilisateurs. C'est l'avantage structurel de Xiaomi (et, dans une moindre mesure, de Huawei). La voiture devient un accessoire de plus dans une vie numérique déjà unifiée — un argument que ni Volkswagen ni Renault ne peuvent répliquer du jour au lendemain.</p>
+
+<h2>Les limites à garder en tête</h2>
+<p>Cet écosystème ne déploie tout son potentiel que si vous êtes déjà équipé en produits Xiaomi. Pour un utilisateur d'iPhone ou d'un autre univers, une partie de la magie s'évapore. Et hors de Chine, la disponibilité de la SU7 et de certaines fonctions reste limitée — un frein réel pour l'acheteur européen ou marocain aujourd'hui.</p>
+
+<h2>Verdict</h2>
+<p>HyperOS illustre parfaitement pourquoi l'arrivée des géants de la tech bouleverse l'automobile : l'intégration smartphone-voiture-maison de Xiaomi est tout simplement la plus aboutie du marché, et elle découle d'un savoir-faire que les constructeurs traditionnels n'ont pas. Pour qui vit dans l'écosystème Xiaomi, c'est un confort numérique inédit. Le cockpit connecté de demain ne sera pas dessiné par les seuls constructeurs automobiles — et la SU7 en est la démonstration éclatante.</p>
+`,
   },
   {
     slug: 'charge-800v-zeekr-xpeng-humilient-constructeurs-historiques',
@@ -2000,6 +2025,30 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-06-02T09:00:00+02:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>800 volts : la recharge qui change tout</h2>
+<p>Sur une voiture électrique, deux chiffres comptent vraiment au quotidien : l'autonomie, et le temps qu'il faut pour la récupérer. Sur ce second point, une fracture technologique s'est ouverte. D'un côté, Zeekr et XPeng et leur architecture <strong>800 volts</strong>, capables de récupérer des centaines de kilomètres en quelques minutes. De l'autre, des constructeurs historiques comme Volkswagen ou Renault, encore largement sur du 400 volts. L'écart est devenu gênant. Explications.</p>
+
+<h2>Pourquoi le 800V est si supérieur</h2>
+<p>La puissance de recharge dépend de la tension multipliée par l'intensité. En doublant la tension (de 400 à 800 V), on peut faire passer beaucoup plus de puissance sans surchauffer les câbles. Concrètement :</p>
+<ul>
+  <li>Le <strong>XPeng G6</strong> accepte jusqu'à environ 451 kW en pointe (charge 5C), soit un 10-80 % en environ 12 minutes.</li>
+  <li>Le <strong>Zeekr 001</strong> récupère environ 350 km d'autonomie en moins de 30 minutes grâce à son architecture 800V.</li>
+</ul>
+<p>Certaines de ces voitures reprennent jusqu'à 300 km en une dizaine de minutes — le temps d'un café. On retrouve cet avantage décisif dans nos comparatifs <a href="/actualites/xpeng-g6-vs-tesla-model-y-recharge-rapide">XPeng G6 vs Tesla Model Y</a> et Zeekr 001 vs Tesla Model S.</p>
+
+<h2>Le retard des constructeurs historiques</h2>
+<p>Pendant ce temps, les plateformes électriques de Volkswagen (MEB) et de Renault restent majoritairement en 400 V, plafonnant souvent autour de 135 à 175 kW. Sur un long trajet, cela se traduit par des arrêts de recharge nettement plus longs. Pourquoi ce retard ? Parce que migrer vers le 800V suppose de revoir toute l'architecture électrique du véhicule (onduleurs, câblage, gestion thermique) — un investissement lourd que les groupes historiques, engagés sur des plateformes 400V amorties, n'ont pas encore généralisé.</p>
+
+<h2>Une avance qui en dit long</h2>
+<p>Que des marques aussi jeunes que Zeekr et XPeng dament le pion à des géants centenaires sur un point aussi structurant que la recharge est révélateur. Les constructeurs chinois, partis d'une feuille blanche, ont pu adopter d'emblée les meilleures technologies, là où l'industrie historique traîne le poids de ses plateformes existantes. C'est l'un des avantages clés de l'« avantage du retardataire » : on construit directement avec la dernière génération de matériel.</p>
+
+<h2>Les conditions pour en profiter</h2>
+<p>Attention toutefois : exploiter une recharge à 450 kW suppose une borne capable de délivrer cette puissance. Or le réseau public n'est pas encore uniformément équipé en bornes très haute puissance. L'avantage du 800V est donc maximal sur les axes bien équipés, et plus théorique ailleurs — un point à garder en tête selon vos trajets.</p>
+
+<h2>Verdict</h2>
+<p>L'architecture 800V de Zeekr et XPeng n'est pas un gadget : c'est l'un des progrès les plus tangibles de la voiture électrique récente, et il place les constructeurs chinois en tête sur la recharge rapide. Les marques historiques rattraperont leur retard — certaines y travaillent déjà — mais en 2026, le constat est sans appel : sur ce terrain précis, la Chine humilie l'establishment. Et pour le gros rouleur, c'est exactement le critère qui transforme l'expérience électrique au quotidien.</p>
+`,
   },
   {
     slug: 'v2l-vehicle-to-load-byd-alimenter-maison',
@@ -2012,6 +2061,31 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-05-26T09:00:00+02:00',
     readingTime: 6,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Votre voiture, centrale électrique mobile</h2>
+<p>Et si votre BYD pouvait alimenter votre maison, votre barbecue ou votre matériel de camping ? C'est précisément ce que permet le <strong>V2L</strong> (Vehicle-to-Load), une fonction que BYD intègre sur la plupart de ses modèles électriques. Concrètement, la batterie de la voiture devient une énorme power bank capable de fournir du courant 220 V à n'importe quel appareil. Voici le guide pratique de cette fonction aussi méconnue qu'utile.</p>
+
+<h2>Comment ça marche</h2>
+<p>Le principe est simple. La voiture est livrée (ou équipée en option) d'un adaptateur qui se branche sur la prise de recharge du véhicule et offre, à l'autre extrémité, une prise domestique classique. La batterie de traction alimente alors cet adaptateur, délivrant une puissance pouvant atteindre environ 3,3 kW selon les modèles — largement de quoi faire fonctionner des appareils électriques courants.</p>
+<p>Avec la grande capacité d'une batterie automobile (souvent 60 à 90 kWh), l'autonomie en mode « générateur » est considérable : de quoi alimenter des équipements pendant des heures, voire des jours, sans vider significativement la voiture.</p>
+
+<h2>Les usages concrets</h2>
+<ul>
+  <li><strong>Camping et plein air</strong> : réfrigérateur portable, plaque de cuisson, éclairage, recharge d'appareils — la voiture devient le cœur électrique du bivouac.</li>
+  <li><strong>Barbecue et événements</strong> : alimenter une sono, des lumières ou un appareil de cuisson loin de toute prise.</li>
+  <li><strong>Coupure de courant</strong> : en cas de panne secteur, le V2L peut faire tenir le réfrigérateur, quelques lampes et la box internet — un secours appréciable.</li>
+  <li><strong>Bricolage</strong> : faire fonctionner des outils électroportatifs sur un terrain non raccordé.</li>
+</ul>
+
+<h2>Pourquoi c'est un argument BYD</h2>
+<p>BYD, fort de son expertise dans les batteries (la fameuse technologie Blade que nous décortiquons dans <a href="/actualites/batterie-byd-blade-vs-tesla-4680-durabilite">Batterie BYD Blade vs Tesla 4680</a>), a généralisé le V2L sur sa gamme. C'est une fonction qui transforme la perception de la voiture électrique : elle n'est plus seulement un moyen de transport, mais aussi une réserve d'énergie polyvalente. Un atout différenciant face à des concurrents qui ne la proposent pas toujours.</p>
+
+<h2>Les précautions à connaître</h2>
+<p>Le V2L consomme évidemment l'énergie de la batterie de traction : un usage intensif réduit d'autant votre autonomie de conduite. Il est donc malin de surveiller le niveau de charge et de garder une marge pour rentrer. Par ailleurs, la puissance disponible (environ 3,3 kW) suffit pour la plupart des appareils domestiques, mais pas pour alimenter simultanément de gros équipements très gourmands (chauffage électrique principal d'une maison, par exemple).</p>
+
+<h2>Verdict</h2>
+<p>Le V2L est l'une de ces fonctions dont on ne soupçonne l'utilité qu'une fois qu'on l'a essayée. Camping, événements, secours en cas de coupure : votre BYD devient une véritable centrale électrique mobile, disponible partout. C'est un argument concret et différenciant en faveur de l'électrique en général, et de BYD en particulier. Si votre modèle en est équipé, procurez-vous l'adaptateur : vous trouverez vite des occasions de l'utiliser.</p>
+`,
   },
   {
     slug: 'batteries-solid-state-nio-1000-km-2026',
@@ -2024,6 +2098,31 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-05-19T09:00:00+02:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>1 000 km d'autonomie : promesse tenue ou mirage ?</h2>
+<p>La barre symbolique des 1 000 km d'autonomie hante l'industrie électrique. NIO a affirmé l'avoir franchie avec sa batterie de 150 kWh à électrolyte semi-solide. Révolution ou coup de communication ? La réalité, en 2026, est plus nuancée — et instructive sur l'état réel des batteries « solid state ».</p>
+
+<h2>Semi-solide, pas tout-solide</h2>
+<p>Première précision essentielle : la batterie de NIO n'est pas une vraie batterie « solid state » (à électrolyte 100 % solide), mais une <strong>semi-solide</strong>, à électrolyte gélifié. C'est une étape intermédiaire vers le tout-solide, pas l'aboutissement. Cette nuance est importante : le Graal de la batterie entièrement solide, plus dense et plus sûre encore, n'est pas encore atteint en production de masse.</p>
+
+<h2>Les chiffres impressionnants</h2>
+<p>Cela dit, les performances annoncées forcent le respect :</p>
+<ul>
+  <li><strong>Capacité</strong> : 150 kWh, soit bien plus que les 75 à 100 kWh habituels.</li>
+  <li><strong>Densité énergétique</strong> : environ 260 Wh/kg, un excellent niveau.</li>
+  <li><strong>Autonomie</strong> : jusqu'à environ 1 055 km en cycle chinois CLTC, et un test réel a dépassé les 550 miles (environ 890 km).</li>
+</ul>
+<p>Sur le plan technique, la démonstration est réussie : oui, une batterie capable d'environ 1 000 km existe et a roulé.</p>
+
+<h2>Le revers : la production a été stoppée</h2>
+<p>Mais voici le rebondissement que les annonces marketing passent sous silence. <strong>NIO a arrêté la production de cette batterie après seulement quelques centaines d'unités</strong>, faute de demande. La raison est révélatrice : grâce à son réseau d'échange de batteries, les clients NIO n'ont pas besoin de posséder une énorme batterie au quotidien — ils peuvent en louer une grande ponctuellement pour un long trajet, via le système de swap que nous détaillons dans <a href="/actualites/nio-echange-batterie-vs-tesla-superchargeur-voyage">Station d'échange NIO vs Superchargeurs Tesla</a>. Acheter (ou même louer en permanence) un pack de 150 kWh très coûteux n'avait donc, pour la plupart, aucun intérêt.</p>
+
+<h2>La leçon : l'autonomie n'est pas qu'une affaire de batterie</h2>
+<p>Cet épisode est riche d'enseignements. Il montre que la course à la méga-batterie n'est pas forcément la bonne réponse au problème de l'autonomie. Une grosse batterie, c'est plus de poids, plus de coût, plus de ressources — pour un bénéfice que l'infrastructure (recharge rapide ou échange) peut souvent rendre superflu. NIO l'a constaté de la manière la plus concrète : la technologie fonctionnait, mais le marché n'en voulait pas.</p>
+
+<h2>Verdict</h2>
+<p>Alors, 1 000 km d'autonomie réelle en 2026 ? <strong>Techniquement, oui — la batterie semi-solide de NIO l'a prouvé.</strong> Mais commercialement, l'aventure a tourné court, faute de demande. C'est un rappel salutaire : le futur de l'électrique ne se jouera pas seulement sur la taille des batteries, mais sur l'équilibre entre densité, coût, ressources et infrastructure de recharge. La vraie batterie tout-solide, elle, reste à venir — et c'est elle, plus que les méga-packs, qui marquera la prochaine rupture.</p>
+`,
   },
   {
     slug: 'moteurs-roue-xiaomi-revolution-technologique',
@@ -2036,6 +2135,30 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-05-12T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>La vraie révolution moteur de Xiaomi</h2>
+<p>Quand Xiaomi a lancé la SU7, beaucoup ont parlé de « moteurs de roue » et de prouesses techniques. Démêlons le vrai du fantasme : la révolution Xiaomi est bien réelle, mais elle ne se situe pas exactement là où on l'imagine. Le cœur de l'innovation, ce sont les moteurs <strong>HyperEngine</strong> développés en interne — et ils méritent qu'on s'y arrête.</p>
+
+<h2>Mise au point : moteurs d'essieu, pas moteurs-roues</h2>
+<p>Commençons par couper court à une confusion répandue. La SU7 et la SU7 Ultra <strong>n'utilisent pas de moteurs intégrés dans les roues</strong> (moteurs-moyeux). Elles emploient des moteurs électriques classiques montés sur les essieux et reliés aux roues par la transmission. Le moteur-roue, qui supprimerait l'arbre de transmission, reste un sujet de recherche dans l'industrie, mais ce n'est pas ce qui équipe les Xiaomi de série. Le présenter autrement serait inexact.</p>
+
+<h2>Le vrai exploit : les HyperEngine maison</h2>
+<p>La véritable prouesse de Xiaomi, c'est d'avoir développé ses propres moteurs ultra-performants :</p>
+<ul>
+  <li><strong>HyperEngine V8s</strong> : un moteur capable de tourner à un régime extrême (autour de 27 200 tr/min), un record qui permet d'extraire énormément de puissance d'un bloc compact. La SU7 Ultra en embarque deux à l'arrière.</li>
+  <li><strong>HyperEngine V6s</strong> : un second type de moteur, sur l'essieu avant de l'Ultra, complétant la transmission intégrale.</li>
+</ul>
+<p>Cette montée en régime extrême est la clé : plus un moteur électrique tourne vite, plus il peut être petit et léger à puissance donnée. C'est ce qui permet à la SU7 Ultra d'atteindre ses 1 548 ch — une débauche que nous mettons en perspective dans <a href="/actualites/byd-seal-vs-xiaomi-su7-ultra-2026">BYD Seal vs Xiaomi SU7 Ultra</a>.</p>
+
+<h2>Pourquoi développer ses moteurs en interne ?</h2>
+<p>La plupart des nouveaux entrants achètent leurs moteurs à des fournisseurs. Xiaomi a choisi de concevoir les siens, comme Tesla. L'intérêt : maîtriser la performance, l'intégration (gestion thermique, électronique de puissance maison) et différencier son produit. C'est un investissement lourd qui signe l'ambition de Xiaomi de jouer dans la cour des très grands, et non de se contenter d'assembler des composants tiers.</p>
+
+<h2>Ce que ça change pour le conducteur</h2>
+<p>Des moteurs à très haut régime et développés sur mesure, c'est plus de puissance dans un volume réduit, une meilleure réactivité et une intégration optimisée avec le reste de la chaîne de traction. Pour le conducteur, cela se traduit par des accélérations foudroyantes et une cohérence d'ensemble — la marque d'un constructeur qui maîtrise sa technologie de bout en bout.</p>
+
+<h2>Verdict</h2>
+<p>La révolution moteur de Xiaomi est authentique, mais il faut la nommer correctement : ce ne sont pas des moteurs-roues, ce sont des <strong>HyperEngine maison à régime extrême</strong>. En développant ses propres moteurs ultra-performants plutôt que de les acheter, Xiaomi prouve qu'un nouvel entrant peut rivaliser avec les meilleurs sur le terrain le plus exigeant : celui de la motorisation. C'est cette maîtrise technique, plus que les mythes qui circulent, qui fait de Xiaomi un acteur à prendre très au sérieux.</p>
+`,
   },
 
   // --- Budget, Achat & Revente (articles.md #51-60) ---
