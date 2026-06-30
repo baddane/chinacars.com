@@ -2396,6 +2396,28 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-03-31T09:00:00+02:00',
     readingTime: 6,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Une voiture pas chère, mais un entretien cher ?</h2>
+<p>L'argument du prix d'achat bas perd de sa force si l'entretien et les réparations coûtent une fortune. C'est l'une des inquiétudes les plus répandues à propos des marques chinoises : MG est-il plus cher que Renault sur les pièces détachées et l'après-vente ? La réponse est plus nuancée qu'on ne le croit. Décryptage poste par poste.</p>
+
+<h2>Les pièces d'usure courantes : match serré</h2>
+<p>Sur les consommables et pièces d'usure les plus fréquents — plaquettes et disques de frein, filtres, balais d'essuie-glace, batterie 12 V — les écarts entre une MG et une Renault équivalente sont généralement faibles. Beaucoup de ces composants sont standardisés ou proviennent d'équipementiers internationaux communs à toute l'industrie. Sur ce terrain, MG n'est pas spécifiquement plus cher.</p>
+
+<h2>Là où l'écart peut se creuser</h2>
+<p>La différence se joue plutôt sur :</p>
+<ul>
+  <li><strong>Les pièces spécifiques et électroniques</strong> : modules, capteurs, éléments propres au modèle peuvent être plus chers ou plus longs à approvisionner sur une marque à la chaîne logistique plus jeune.</li>
+  <li><strong>Les éléments de carrosserie</strong> : sur un modèle récent et moins diffusé, une pièce de carrosserie peut coûter plus cher et mettre plus de temps à arriver que sur une Renault produite en masse depuis des années.</li>
+  <li><strong>La disponibilité</strong> : c'est souvent le vrai sujet, plus que le prix. Un réseau dense et un stock de pièces bien dimensionné réduisent les délais d'immobilisation — un domaine où Renault, fort de décennies d'implantation, garde l'avantage.</li>
+</ul>
+<p>Ce point de la disponibilité rejoint directement la question du réseau, traitée dans <a href="/actualites/entretien-voiture-chinoise-france-reseaux-sav">notre article sur l'entretien et les réseaux SAV</a>.</p>
+
+<h2>L'effet de la maturité du réseau</h2>
+<p>Plus une marque est installée, plus ses pièces se démocratisent : montée en puissance des stocks, arrivée de pièces de réemploi et d'équivalents adaptables, concurrence entre fournisseurs. MG, présent depuis plusieurs années avec un large réseau, bénéficie déjà de cette dynamique. Les marques plus récentes (NIO, XPeng) sont encore au début de cette courbe, ce qui peut peser sur les coûts et délais à court terme.</p>
+
+<h2>Verdict</h2>
+<p>Non, MG n'est pas globalement plus cher que Renault en après-vente : sur les pièces d'usure courantes, les tarifs sont comparables. L'écart se concentre sur les pièces spécifiques et surtout sur la <strong>disponibilité</strong>, où les marques chinoises restent un cran derrière les généralistes historiques. Notre conseil : avant l'achat, renseignez-vous sur le prix de quelques pièces courantes de votre modèle et sur les délais d'approvisionnement du réseau local. Pour un modèle MG bien diffusé, vous ne devriez pas avoir de mauvaise surprise — l'entretien d'une chinoise populaire n'est plus le gouffre que certains imaginent.</p>
+`,
   },
   {
     slug: 'leasing-loa-lld-meilleures-offres-marques-chinoises',
@@ -2408,6 +2430,34 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-03-24T09:00:00+01:00',
     readingTime: 6,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le leasing, la voie royale vers les chinoises ?</h2>
+<p>LOA (location avec option d'achat) et LLD (location longue durée) ont explosé en popularité — et elles s'avèrent particulièrement intéressantes sur les marques chinoises. Pourquoi ? Parce que la location transfère au loueur le principal risque associé à ces marques : l'incertitude sur la valeur de revente. Décryptage des mécanismes et des bonnes pratiques pour dénicher les meilleures offres.</p>
+
+<h2>Pourquoi le leasing protège l'acheteur de chinoise</h2>
+<p>Le talon d'Achille des marques jeunes, c'est la décote imprévisible, comme nous l'analysons dans <a href="/actualites/decote-voitures-chinoises-risque-mg-byd-2026">notre article sur la décote des chinoises</a>. Or, en LOA ou LLD, c'est le loueur qui assume cette valeur résiduelle : vous payez l'usage, pas la dépréciation. Si la cote du modèle s'effondre, ce n'est plus votre problème en fin de contrat. C'est un argument de poids pour des marques dont la revente reste incertaine.</p>
+
+<h2>LOA ou LLD : quelle différence ?</h2>
+<ul>
+  <li><strong>LOA</strong> : vous louez avec la possibilité d'acheter le véhicule en fin de contrat à une valeur fixée d'avance. Souple : vous décidez à la fin de garder ou de rendre.</li>
+  <li><strong>LLD</strong> : pure location, sans option d'achat. Souvent tout compris (entretien, parfois assurance), idéale pour ne se soucier de rien et changer régulièrement de voiture.</li>
+</ul>
+
+<h2>Ce qui rend une offre attractive</h2>
+<p>Pour comparer les offres de leasing, ne regardez pas seulement la mensualité :</p>
+<ul>
+  <li><strong>Le premier loyer (apport)</strong> : certaines offres se font « sans apport », d'autres exigent un dépôt initial qui réduit la mensualité. Comparez le coût total, pas la seule mensualité.</li>
+  <li><strong>Le kilométrage inclus</strong> : un dépassement se facture cher ; choisissez un forfait réaliste.</li>
+  <li><strong>Les services inclus</strong> : entretien, assistance, parfois assurance — leur présence change la comparaison.</li>
+  <li><strong>L'impact du bonus</strong> : avec la perte du bonus écologique sur de nombreuses chinoises en 2026, les mensualités peuvent remonter ; vérifiez si l'offre intègre encore une aide.</li>
+</ul>
+
+<h2>Les bons réflexes</h2>
+<p>Les constructeurs chinois, désireux de conquérir des parts de marché, proposent régulièrement des conditions de leasing agressives, parfois sans apport. Pour en profiter : comparez plusieurs offres, négociez le premier loyer, calculez toujours le coût total sur la durée du contrat, et méfiez-vous des mensualités « vitrine » qui cachent un gros apport ou un kilométrage faible.</p>
+
+<h2>Verdict</h2>
+<p>Le leasing est sans doute la manière la plus sereine d'accéder à une marque chinoise : il neutralise le risque de décote, lisse le budget et profite des offres commerciales agressives des constructeurs en conquête. La LOA convient si vous voulez garder l'option d'acheter ; la LLD si vous préférez changer régulièrement sans vous soucier de la revente. Dans les deux cas, raisonnez en coût total et non en mensualité affichée — c'est la clé pour transformer une bonne offre apparente en vraie bonne affaire.</p>
+`,
   },
   {
     slug: 'assurance-auto-marques-chinoises-assureurs-francais',
@@ -2420,6 +2470,32 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-03-17T09:00:00+01:00',
     readingTime: 6,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Les assureurs sont-ils frileux avec les chinoises ?</h2>
+<p>Vous avez trouvé la voiture chinoise idéale au bon prix… et l'assurance vient tempérer l'enthousiasme. Certains conducteurs constatent des tarifs plus élevés, voire des refus, sur les marques chinoises. Mythe ou réalité ? Et surtout, comment obtenir le meilleur tarif ? Le point sur un sujet qui pèse dans le budget total.</p>
+
+<h2>Pourquoi certains assureurs majorent</h2>
+<p>Quelques facteurs expliquent la prudence d'une partie des assureurs face aux marques récentes :</p>
+<ul>
+  <li><strong>L'incertitude sur le coût des réparations</strong> : sans historique de sinistres long, les assureurs manquent de données pour évaluer précisément le risque, et la prudence pousse parfois à majorer.</li>
+  <li><strong>La disponibilité et le prix des pièces</strong> : si une réparation prend plus de temps (pièces à approvisionner), le coût d'un sinistre — y compris véhicule de remplacement — augmente. Un sujet lié à <a href="/actualites/prix-pieces-detachees-mg-vs-renault-apres-vente">la question des pièces détachées</a>.</li>
+  <li><strong>La technologie embarquée</strong> : capteurs, écrans, aides à la conduite coûtent cher à remplacer en cas de choc, ce qui renchérit les véhicules très équipés — un trait commun aux chinoises.</li>
+</ul>
+
+<h2>Mais la situation s'améliore vite</h2>
+<p>Cette frilosité tend à s'estomper à mesure que les marques se diffusent. Les modèles populaires comme les MG accumulent de l'historique de sinistralité, ce qui permet aux assureurs d'affiner leurs tarifs. De plus, les bons scores de sécurité (5 étoiles Euro NCAP pour la plupart des chinoises récentes) jouent en faveur de primes raisonnables, car une voiture sûre protège mieux ses occupants et réduit certains coûts.</p>
+
+<h2>Comment obtenir le meilleur tarif</h2>
+<ul>
+  <li><strong>Comparez largement</strong> : les écarts entre assureurs sont importants sur ces marques. Sollicitez plusieurs devis, y compris des assureurs spécialisés ou en ligne souvent plus agiles.</li>
+  <li><strong>Mettez en avant la sécurité</strong> : le score Euro NCAP et les équipements d'aide à la conduite sont des arguments.</li>
+  <li><strong>Jouez sur la formule</strong> : franchise, garanties optionnelles, usage déclaré (kilométrage) influencent fortement la prime.</li>
+  <li><strong>Vérifiez avant d'acheter</strong> : demandez un devis d'assurance <em>avant</em> de signer pour le modèle exact, afin d'intégrer ce coût dans votre décision.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Oui, certains assureurs se montrent encore prudents — voire appliquent des surprimes — sur les marques chinoises, principalement par manque de recul et à cause du coût potentiel des réparations. Mais ce n'est ni général ni définitif : la concurrence entre assureurs et l'accumulation de données font baisser les tarifs, surtout sur les modèles répandus. Le bon réflexe reste de <strong>comparer plusieurs devis avant l'achat</strong>. Dans la plupart des cas, on trouve une offre compétitive — et la frilosité d'hier appartient déjà en partie au passé.</p>
+`,
   },
   {
     slug: 'mandataires-vs-concessions-acheter-byd-meilleur-prix',
@@ -2432,6 +2508,42 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-03-10T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Mandataire ou concession : où acheter sa BYD ?</h2>
+<p>Une fois le modèle choisi, reste à décider <em>où</em> l'acheter. Les mandataires automobiles promettent parfois 10 à 15 % de remise sur les véhicules chinois par rapport au tarif des concessions officielles. Une économie alléchante, mais qui n'est pas sans contreparties. Concession officielle ou mandataire : on compare les risques et les avantages pour votre BYD.</p>
+
+<h2>Le mandataire : l'argument du prix</h2>
+<p>Un mandataire achète des véhicules en volume (souvent à l'étranger ou via des canaux d'import) et les revend avec une marge réduite. Les avantages :</p>
+<ul>
+  <li><strong>Des remises significatives</strong>, parfois 10 à 15 % sous le tarif concession.</li>
+  <li><strong>Des délais parfois plus courts</strong> sur les modèles en stock.</li>
+</ul>
+<p>Mais aussi des points de vigilance :</p>
+<ul>
+  <li><strong>L'origine du véhicule</strong> : un modèle importé d'un autre pays peut avoir des spécifications légèrement différentes ; vérifiez la conformité au marché français.</li>
+  <li><strong>La relation après-vente</strong> : le mandataire vend mais ne répare pas forcément. La garantie reste assurée par le réseau de la marque, mais il faut s'en assurer par écrit.</li>
+  <li><strong>Le bonus et les aides</strong> : selon l'origine et la facturation, l'éligibilité aux aides peut différer — un point à clarifier avant de signer.</li>
+</ul>
+
+<h2>La concession officielle : l'argument de la sérénité</h2>
+<p>Acheter en concession BYD officielle coûte généralement plus cher, mais offre :</p>
+<ul>
+  <li><strong>Un interlocuteur unique</strong> pour la vente, la garantie et l'entretien.</li>
+  <li><strong>Une conformité garantie</strong> au marché français et une gestion simple des aides éligibles.</li>
+  <li><strong>Une relation de proximité</strong> précieuse en cas de problème (reprise, geste commercial, suivi).</li>
+</ul>
+<p>Cette tranquillité est d'autant plus précieuse que le réseau et le SAV restent des sujets sensibles sur les marques chinoises, comme nous l'expliquons dans <a href="/actualites/entretien-voiture-chinoise-france-reseaux-sav">notre article sur les réseaux SAV</a>.</p>
+
+<h2>Comment décider</h2>
+<ul>
+  <li>Si l'écart de prix est important <em>et</em> que vous avez vérifié garantie, conformité et SAV : le mandataire peut être une excellente affaire.</li>
+  <li>Si vous privilégiez la simplicité, la proximité et la sécurité de la relation, ou si l'écart est faible : la concession officielle vaut son surcoût.</li>
+  <li>Dans tous les cas, faites jouer la concurrence : un devis mandataire est aussi un levier de négociation en concession.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Le mandataire est une vraie piste d'économie sur une BYD, à condition de faire ses vérifications : garantie confirmée par écrit, conformité au marché français, et clarté sur les aides. La concession officielle, plus chère, achète de la sérénité et un interlocuteur unique du premier jour à la revente. Notre conseil : obtenez les deux devis, vérifiez les conditions de garantie du mandataire, et tranchez selon l'ampleur réelle de l'économie. Sur un véhicule chinois, la tranquillité de l'après-vente a une valeur — assurez-vous simplement que le prix le plus bas ne se paie pas en tracas plus tard.</p>
+`,
   },
   {
     slug: 'fiabilite-long-terme-mg4-2023-premiers-retours',
@@ -2444,6 +2556,38 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-03-03T09:00:00+01:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Trois ans plus tard : que valent vraiment les premières MG4 ?</h2>
+<p>La MG4 a été le symbole de l'irruption chinoise sur le marché européen de l'électrique abordable. Lancée en 2022-2023, elle a maintenant suffisamment de recul pour qu'on juge non plus ses promesses, mais sa réalité. Pannes, usure, satisfaction : que disent les premiers propriétaires après trois ans et plusieurs dizaines de milliers de kilomètres ? Compilation des retours.</p>
+
+<h2>La fiabilité mécanique : globalement rassurante</h2>
+<p>Sur l'essentiel — la chaîne de traction électrique — les retours sont majoritairement positifs. Le moteur, l'électronique de puissance et la batterie n'ont pas généré de vague de pannes graves. La simplicité intrinsèque d'une motorisation électrique (peu de pièces mobiles) joue en faveur de la MG4, qui s'est révélée fiable sur ce plan, à l'image de ce que l'on observe sur d'autres modèles de la marque évoqués dans <a href="/actualites/mg4-vs-byd-dolphin-compactes-electriques">MG4 vs BYD Dolphin</a>.</p>
+
+<h2>La tenue de la batterie</h2>
+<p>C'est la grande inquiétude des acheteurs d'occasion. Les premiers retours sur la dégradation de la batterie des MG4 sont plutôt rassurants : une perte de capacité modérée et progressive, conforme à ce que l'on attend d'une batterie moderne sur ce kilométrage. La garantie longue (7 ans) couvre par ailleurs ce composant, ce qui sécurise l'achat d'une occasion encore sous garantie.</p>
+
+<h2>Les points qui agacent</h2>
+<p>Tout n'est pas parfait, et les critiques se concentrent sur des aspects périphériques plutôt que sur la mécanique :</p>
+<ul>
+  <li><strong>Le logiciel et l'infodivertissement</strong> : c'est le reproche le plus fréquent. Interface parfois lente, ergonomie perfectible, bugs occasionnels. Les mises à jour ont amélioré les choses, mais l'expérience logicielle reste en retrait face aux meilleures références.</li>
+  <li><strong>Les aides à la conduite</strong> : certaines alertes jugées trop intrusives, des réglages à refaire à chaque démarrage sur les premières versions.</li>
+  <li><strong>Des petits défauts de finition</strong> : bruits parasites, plastiques perfectibles — sans gravité, mais notables.</li>
+</ul>
+
+<h2>La satisfaction globale</h2>
+<p>Malgré ces bémols, la satisfaction des propriétaires reste élevée. La raison est simple : rapportée à son prix, la MG4 offre un niveau de prestation, d'autonomie et d'agrément qui était inaccessible à ce tarif avant son arrivée. Les défauts logiciels passent au second plan face à l'équation économique imbattable. La plupart des propriétaires rachèteraient une MG.</p>
+
+<h2>Conseils pour une MG4 d'occasion</h2>
+<ul>
+  <li>Vérifiez l'état de santé de la batterie (SOH) et l'historique des mises à jour logicielles.</li>
+  <li>Assurez-vous que la garantie constructeur est toujours active et transférable.</li>
+  <li>Testez l'infodivertissement et les aides à la conduite lors de l'essai pour juger du niveau logiciel.</li>
+  <li>Contrôlez les éléments de finition et l'absence de bruits parasites.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Trois ans après, la MG4 confirme l'essentiel : c'est une électrique fiable sur sa mécanique et sa batterie, dont les défauts se concentrent sur le logiciel et la finition — gênants mais pas rédhibitoires. La satisfaction des propriétaires reste forte, portée par un rapport prix/prestations exceptionnel. Pour un achat d'occasion, la MG4 est un choix rationnel et rassurant, à condition de vérifier la batterie et la garantie. La première vague chinoise a tenu ses promesses de fiabilité — et c'est une excellente nouvelle pour la confiance dans ces marques.</p>
+`,
   },
 
   // --- Top 10 & Sélections Thématiques (articles.md #61-70) ---
