@@ -643,6 +643,32 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2026-02-17T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Mêmes gènes, deux marques</h2>
+<p>Voici un cas d'école : deux SUV compacts qui partagent la même plateforme — l'architecture SEA du groupe Geely — mais portent des blasons différents. Le Zeekr X et le Volvo EX30 sont, techniquement, des cousins germains. Pourtant, leur positionnement, leur finition et leur prix racontent deux histoires distinctes. Acheter l'un ou l'autre, c'est choisir ce que l'on paie : la réputation d'une marque historique, ou le contenu d'un challenger.</p>
+
+<h2>Plateforme commune, exécutions différentes</h2>
+<p>Les deux reposent sur la base technique SEA. Le Zeekr X est légèrement plus grand (environ 4 432 mm, soit près de 20 cm de plus que l'EX30), ce qui se traduit par un habitacle perçu comme plus spacieux et mieux fini. Plusieurs essais notent d'ailleurs que le Zeekr X paraît <strong>plus cossu et plus abouti que le Volvo</strong> avec lequel il partage pourtant l'essentiel de sa mécanique — un comble pour la marque suédoise.</p>
+
+<h2>Batterie, autonomie et recharge</h2>
+<ul>
+  <li><strong>Zeekr X</strong> : batteries de 61 à 69 kWh, autonomie WLTP allant jusqu'à environ 540 km en propulsion (jusqu'à ~470 km en version intégrale). Surtout, il accepte jusqu'à <strong>230 kW</strong> en recharge rapide, soit un 10-80 % en environ 18 minutes.</li>
+  <li><strong>Volvo EX30</strong> : batterie d'environ 69 kWh, autonomie WLTP autour de 417 à 480 km. Sa recharge plafonne à environ 175 kW, soit un 10-80 % en environ 30 minutes.</li>
+</ul>
+<p>Avantage net au Zeekr sur la vitesse de recharge, un atout concret sur les longs trajets.</p>
+
+<h2>Performances</h2>
+<p>Le Volvo EX30 propose une version bi-moteur très musclée (jusqu'à environ 422 ch) qui en fait l'un des petits SUV les plus rapides du marché. Le Zeekr X mise davantage sur l'équilibre, avec des versions propulsion (environ 268 ch) et intégrale bien calibrées. Si la performance brute est votre priorité, l'EX30 Twin Motor a l'avantage ; pour l'usage quotidien, le Zeekr offre une autonomie supérieure en propulsion.</p>
+
+<h2>Sécurité : un argument massue pour Zeekr</h2>
+<p>Le Zeekr X s'est distingué en devenant l'un des véhicules électriques les mieux notés aux crash-tests Euro NCAP, surpassant des rivales bien plus chères. Pour un acheteur soucieux de sécurité, c'est un argument de poids qui balaie l'idée reçue d'une moindre robustesse des marques chinoises.</p>
+
+<h2>Prix</h2>
+<p>Historiquement, le Zeekr X était positionné comme la version la plus chère de cette plateforme. Mais des baisses de tarifs récentes l'ont ramené au niveau du Volvo EX30 sur la plupart des marchés. À prix comparable, le Zeekr offre alors plus d'espace, une meilleure finition et une recharge plus rapide.</p>
+
+<h2>Verdict</h2>
+<p>C'est l'un des comparatifs les plus instructifs du marché. Si vous tenez à l'image et au réseau Volvo, l'<strong>EX30</strong> reste une valeur sûre, et sa version bi-moteur est un vrai petit missile. Mais sur le plan rationnel — espace, finition, recharge, sécurité, et désormais prix — le <strong>Zeekr X</strong> domine son cousin suédois sur presque tous les tableaux. Pour qui regarde le contenu plutôt que le blason, le Zeekr X est tout simplement le meilleur achat des deux.</p>
+`,
   },
   {
     slug: 'avatr-11-vs-hiphi-z-design-chinois-futuriste',
@@ -655,6 +681,32 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2026-02-10T09:00:00+01:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Quand le design chinois devient futuriste</h2>
+<p>Pendant des années, le design automobile chinois a été synonyme d'imitation. Avatr et HiPhi ont fait voler cette idée en éclats. Ces deux marques incarnent une avant-garde stylistique assumée, où la voiture devient un objet de design radical autant qu'un moyen de transport. L'Avatr 11 et la HiPhi Z sont les manifestes de cette nouvelle audace — mais avec des partis pris, des formats et des prix très différents.</p>
+
+<h2>Deux objets, deux formats</h2>
+<p>L'Avatr 11 est un grand SUV coupé au design fluide et minimaliste, fruit d'une alliance entre Changan, CATL et Huawei. La HiPhi Z, elle, est une berline/shooting brake aux lignes taillées à la serpe : capot plongeant, phares verticaux, immense aileron arrière, portières à ouverture spectaculaire. Là où l'Avatr cultive une élégance technologique, la HiPhi Z assume une excentricité quasi science-fiction.</p>
+
+<h2>Motorisations : deux monstres de puissance</h2>
+<ul>
+  <li><strong>Avatr 11</strong> : double moteur, environ 600 ch et 650 Nm, 0 à 100 km/h en moins de 4 secondes, vitesse de pointe 200 km/h.</li>
+  <li><strong>HiPhi Z</strong> : environ 600 ch (440 kW) et un couple massif de 820 Nm, 0 à 100 km/h en 3,9 secondes.</li>
+</ul>
+<p>Les deux jouent dans la cour des électriques très performantes. La HiPhi Z, plus basse et au couple supérieur, offre des sensations plus « sportives » ; l'Avatr 11, en SUV, privilégie la polyvalence sans rien céder sur l'accélération.</p>
+
+<h2>Batterie et autonomie</h2>
+<p>L'Avatr 11 propose deux packs (90 et 117 kWh) pour des autonomies respectives d'environ 555 et 680 km. La HiPhi Z embarque une batterie d'environ 120 kWh au format Cell-to-Pack, pour une autonomie annoncée à 705 km en cycle chinois CLTC (comptez plutôt 550-600 km en conditions réalistes). Sur l'autonomie utilisable, les deux se tiennent dans la même fourchette haute du segment.</p>
+
+<h2>Technologie embarquée</h2>
+<p>C'est la signature de ces deux modèles. L'Avatr 11 bénéficie de l'apport de Huawei : jusqu'à 34 capteurs dont trois lidars pour une conduite semi-autonome avancée, et un habitacle ultra-technologique. La HiPhi Z transforme son intérieur en spectacle, avec un robot d'affichage mobile (« HiPhi Bot ») et une mise en scène numérique inédite. Deux approches du « wahou » technologique.</p>
+
+<h2>Prix : un gouffre</h2>
+<p>C'est là que les deux se séparent nettement. L'Avatr 11 démarre autour de 50 000 € (batterie 90 kWh) et grimpe vers 60 000 € (117 kWh). La HiPhi Z, elle, joue dans une catégorie supérieure, à partir d'environ 105 000 €. La HiPhi est donc une vitrine d'exception, presque une pièce de collection ; l'Avatr 11 reste, malgré son statut premium, bien plus accessible.</p>
+
+<h2>Verdict</h2>
+<p>Si l'on parle de design pur et d'audace décomplexée, la <strong>HiPhi Z</strong> est la plus spectaculaire des deux — un objet fascinant qui ne ressemble à rien d'autre, mais dont le tarif la réserve à une élite. L'<strong>Avatr 11</strong>, lui, est le choix de la raison futuriste : presque aussi technologique et performant, tout aussi marquant esthétiquement, mais à la moitié du prix. Pour rêver, la HiPhi Z ; pour rouler dans le futur sans se ruiner, l'Avatr 11.</p>
+`,
   },
   {
     slug: 'byd-shark-vs-maxus-t90-ev-pickup-chinois-pros',
@@ -667,6 +719,34 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2026-02-03T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le pick-up chinois entre dans l'arène des pros</h2>
+<p>Longtemps chasse gardée des Toyota Hilux et Ford Ranger, le segment du pick-up s'ouvre à l'électrification chinoise. BYD et Maxus y proposent deux visions opposées : le BYD Shark, hybride rechargeable musclé, et le Maxus T90 EV, 100 % électrique. Pour un professionnel — artisan, exploitant, gestionnaire de flotte — le choix se joue sur des critères très concrets : charge utile, autonomie, capacité de remorquage et coût.</p>
+
+<h2>Motorisation : deux philosophies</h2>
+<ul>
+  <li><strong>BYD Shark (6)</strong> : hybride rechargeable associant un 1,5 L turbo (135 kW) à deux moteurs électriques, pour un total d'environ 430 ch et 650 Nm. 0 à 100 km/h en 5,7 s. Batterie Blade LFP de 29,58 kWh offrant environ 85 km en électrique pur (WLTP) et jusqu'à 670 km en autonomie combinée.</li>
+  <li><strong>Maxus T90 EV</strong> : 100 % électrique, moteur arrière de 177 ch, batterie de 88,55 kWh pour environ 354 km en usage mixte (jusqu'à 471 km en ville) WLTP. Vitesse de pointe modeste (environ 105 km/h).</li>
+</ul>
+<p>Le Shark écrase le T90 sur les performances et l'autonomie totale grâce à son hybride : il peut rouler en électrique en ville et basculer sur l'essence pour les longues distances, sans angoisse de recharge. Le T90 EV, zéro émission à l'usage, dépend en revanche d'un accès à la recharge et accuse une vitesse de pointe limitée.</p>
+
+<h2>Charge utile et remorquage : le nerf du métier</h2>
+<p>Pour un pro, ces chiffres priment :</p>
+<ul>
+  <li><strong>BYD Shark</strong> : charge utile d'environ 835 kg, capacité de remorquage de 2,5 tonnes.</li>
+  <li><strong>Maxus T90 EV</strong> : charge utile d'environ 1 tonne, mais remorquage limité à environ 1 tonne.</li>
+</ul>
+<p>Le T90 EV emporte plus de charge dans sa benne, mais le Shark remorque 2,5 fois plus lourd — décisif pour qui tracte une remorque, un bateau ou du matériel.</p>
+
+<h2>Recharge</h2>
+<p>La petite batterie du Shark se recharge vite (30-80 % en environ 20 minutes), mais l'essentiel de son autonomie vient de l'essence. Le T90 EV, avec sa grosse batterie, demande environ 45 minutes pour atteindre 80 % en courant continu, ou près de 9 heures en charge lente — à planifier dans une journée de travail.</p>
+
+<h2>Prix et disponibilité</h2>
+<p>Le BYD Shark est nettement plus abordable (estimé autour de 32 000 à 40 000 €) que le Maxus T90 EV (environ 59 880 €). <strong>Attention toutefois</strong> : le Shark a d'abord été développé pour les marchés sud-américain et océanien, et sa disponibilité en Europe reste incertaine, là où le Maxus T90 EV est déjà commercialisé sur le Vieux Continent. Pour un acheteur européen, cette nuance peut renverser le verdict.</p>
+
+<h2>Verdict</h2>
+<p>Sur le pur rapport prestations/prix, le <strong>BYD Shark</strong> est imbattable : plus puissant, plus polyvalent grâce à son hybride, capable de tracter lourd et moins cher. Mais c'est le <strong>Maxus T90 EV</strong> qui a, aujourd'hui, l'avantage décisif de la disponibilité et du réseau en Europe, avec une charge utile supérieure et le bénéfice du 100 % électrique pour les flottes soumises à des contraintes d'émissions. Pour un pro qui roule beaucoup et tracte : Shark (si disponible) ; pour une flotte urbaine zéro émission, accessible dès maintenant : T90 EV.</p>
+`,
   },
   {
     slug: 'lynk-co-01-vs-mg-ehs-hybride-rechargeable-partage',
@@ -679,6 +759,30 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2026-01-27T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>L'hybride rechargeable, mais pas la même façon de le posséder</h2>
+<p>Le Lynk & Co 01 et le MG EHS sont deux SUV hybrides rechargeables (PHEV) chinois aux fiches techniques étonnamment proches. Mais leur vraie différence n'est pas sous le capot : elle est dans la <strong>manière de les acquérir</strong>. MG joue la carte de l'achat classique au meilleur prix ; Lynk & Co a bâti son identité sur l'abonnement, le partage et un modèle de consommation flexible. Comparer les deux, c'est comparer deux époques de l'automobile.</p>
+
+<h2>Mécanique : un quasi match nul</h2>
+<ul>
+  <li><strong>MG EHS PHEV</strong> : chaîne hybride rechargeable d'environ 258 ch autour d'un 1,5 L turbo.</li>
+  <li><strong>Lynk & Co 01 PHEV</strong> : environ 261 ch, sur la base d'un 1,5 L turbo trois cylindres (180 ch) épaulé par l'électrique, avec une batterie d'environ 17,6 kWh pour une autonomie électrique de l'ordre de 70 km.</li>
+</ul>
+<p>Sur la puissance, le gabarit (les deux mesurent environ 4,55 à 4,57 m) et même le tarif (autour de 35 000 €), les deux SUV se tiennent dans un mouchoir. Le Lynk & Co dispose d'une batterie un peu plus généreuse, intéressante pour rouler davantage en électrique au quotidien.</p>
+
+<h2>Le vrai sujet : posséder ou partager ?</h2>
+<p>C'est ici que tout change. Le <strong>MG EHS</strong> s'achète comme une voiture traditionnelle : vous payez, c'est à vous, point final. Une approche simple, lisible, et au tarif agressif typique de MG.</p>
+<p>Le <strong>Lynk & Co 01</strong>, lui, a popularisé un modèle alternatif : l'abonnement mensuel tout compris (assurance, entretien, etc.), résiliable, et même la possibilité de <strong>partager sa voiture</strong> avec d'autres membres de la communauté Lynk & Co pour amortir les coûts. La voiture devient un service flexible plutôt qu'un bien que l'on immobilise. Pour un urbain qui roule peu ou qui déteste l'engagement long, c'est séduisant.</p>
+
+<h2>Avantages et limites de chaque modèle</h2>
+<ul>
+  <li><strong>MG EHS</strong> : simplicité, propriété pleine, prix d'achat doux, réseau MG bien implanté. En revanche, aucune flexibilité une fois acheté.</li>
+  <li><strong>Lynk & Co 01</strong> : flexibilité maximale, pas d'engagement, mutualisation possible des coûts. Mais sur la durée, l'abonnement peut revenir plus cher que l'achat, et le concept du partage suppose d'être à l'aise avec l'idée de prêter sa voiture.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Mécaniquement, c'est un match nul : deux bons SUV PHEV équivalents. Le choix dépend donc entièrement de votre rapport à la propriété. Si vous voulez une voiture à vous, au meilleur prix, le <strong>MG EHS</strong> est imbattable de pragmatisme. Si vous cherchez la souplesse, l'absence d'engagement et une expérience moderne de mobilité partagée, le <strong>Lynk & Co 01</strong> propose quelque chose que personne d'autre n'offre vraiment. La question n'est pas « quelle voiture ? » mais « quel mode de vie ? ».</p>
+`,
   },
   {
     slug: 'hongqi-e-hs9-vs-nio-el7-luxe-presidentiel-technologie',
@@ -691,6 +795,31 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2026-01-20T09:00:00+01:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le luxe présidentiel face à la technologie</h2>
+<p>Deux conceptions du grand SUV électrique de luxe s'affrontent ici. D'un côté, le Hongqi E-HS9, vaisseau amiral de la marque officielle de l'État chinois — celle qui transporte les chefs d'État, dans une tradition de luxe ostentatoire et de présence imposante. De l'autre, le NIO EL7 (ES7 en Chine), qui mise tout sur la technologie, l'innovation d'usage et l'écosystème de services. Le faste contre le futur.</p>
+
+<h2>Gabarit et présence</h2>
+<p>Le Hongqi E-HS9 est un mastodonte : environ 5,21 m de long pour un empattement de 3,11 m, proposé en configuration 7 places. Sa calandre verticale chromée et ses lignes monumentales en font un objet de prestige, dessiné sous la houlette d'un ancien designer en chef de Rolls-Royce. Le NIO EL7, plus compact (environ 4,91 m) et 5 places, adopte une silhouette plus contemporaine et discrète. D'un côté l'apparat, de l'autre la sobriété technologique.</p>
+
+<h2>Performances</h2>
+<ul>
+  <li><strong>Hongqi E-HS9</strong> : selon les versions, de 430 ch (bi-moteur d'entrée) à 544 ch en haut de gamme, 0 à 100 km/h en environ 4,9 s. Une puissance au service du confort et de la majesté plus que de la sportivité.</li>
+  <li><strong>NIO EL7</strong> : transmission intégrale bi-moteur d'environ 644 ch, 0 à 100 km/h en environ 3,7 s. Nettement plus vif malgré son gabarit.</li>
+</ul>
+
+<h2>Batterie, autonomie et l'atout NIO</h2>
+<p>Le E-HS9 propose des batteries de 84, 99 ou 120 kWh, le modèle 99 kWh offrant environ 465 km WLTP. Le NIO EL7 décline des packs de 75 et 100 kWh pour une autonomie WLTP d'environ 486 à 513 km. Les deux acceptent jusqu'à 140 kW en recharge rapide. Mais le NIO dispose de son arme exclusive : le <strong>battery swap</strong>, qui permet d'échanger la batterie vide contre une pleine en quelques minutes — un atout précieux sur longs trajets, là où le réseau de stations existe.</p>
+
+<h2>Ambiance à bord</h2>
+<p>Le Hongqi E-HS9 mise sur le luxe traditionnel : cuir Nappa, Alcantara, surpiqûres en losange, chromes à profusion. C'est un salon roulant pensé pour être conduit… ou pour s'y faire conduire. Le NIO EL7 privilégie l'innovation : matériaux durables, assistant vocal/IA Nomi, ambiance « lounge » et un écosystème de services (NIO Houses, mises à jour) qui prolonge l'expérience au-delà de la voiture.</p>
+
+<h2>Prix</h2>
+<p>Les deux jouent dans le haut du marché. Le Hongqi E-HS9 affiche un tarif de départ élevé (de l'ordre de 80 000 € équivalent), à la hauteur de son statut. Le NIO EL7 se positionne dans une fourchette comparable (autour de 78 000 USD), avec l'option d'abaisser le ticket d'entrée via la location de batterie (BaaS).</p>
+
+<h2>Verdict</h2>
+<p>Le choix est presque philosophique. Le <strong>Hongqi E-HS9</strong> s'adresse à qui veut une présence et un luxe « à l'ancienne », statutaires et imposants — une limousine SUV d'apparat unique sur le marché. Le <strong>NIO EL7</strong> séduira ceux qui voient le luxe dans la technologie, la performance et l'expérience de service plutôt que dans le chrome. Plus rapide, plus innovant, plus tourné vers l'avenir, l'EL7 est le choix moderne ; le E-HS9, celui de la grandeur classique. Deux rois, deux royaumes — encore une fois.</p>
+`,
   },
   {
     slug: 'byd-tang-2026-vs-mg-s9-suv-7-places',
