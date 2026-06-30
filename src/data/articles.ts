@@ -1046,6 +1046,38 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-12-01T09:00:00+01:00',
     readingTime: 9,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>L'élève a-t-il dépassé le maître ?</h2>
+<p>Quand Xiaomi a dévoilé la SU7, la marque ne s'est pas cachée : sa berline électrique visait ouvertement la Porsche Taycan, référence absolue de la berline sportive électrique. Provocation marketing ou véritable menace ? En 2026, les chiffres et les chronos commencent à donner une réponse troublante pour Stuttgart.</p>
+
+<h2>La gamme Taycan : la maîtrise allemande</h2>
+<p>La Porsche Taycan reste une œuvre d'ingénierie remarquable, déclinée en plusieurs niveaux :</p>
+<ul>
+  <li><strong>Taycan</strong> de base : environ 408 ch, 0 à 100 km/h en 5,4 s.</li>
+  <li><strong>Taycan 4S</strong> : environ 530 ch, 0 à 100 km/h en 4,0 s.</li>
+  <li><strong>Taycan Turbo S</strong> : environ 761 ch, 0 à 100 km/h en 2,8 s.</li>
+</ul>
+<p>Au-delà des chiffres, la Taycan brille par sa maturité : châssis d'exception, gestion thermique éprouvée, recharge ultra-rapide fiable et un agrément de conduite que Porsche peaufine depuis des décennies. C'est une voiture aboutie, mais à un tarif premium (souvent au-delà de 100 000 €).</p>
+
+<h2>La SU7 : la démesure technologique de Xiaomi</h2>
+<p>Face à elle, la Xiaomi SU7 décline elle aussi plusieurs niveaux, jusqu'à la version <strong>SU7 Ultra et ses 1 527 ch</strong> en configuration tri-moteur, capable d'un 0 à 96 km/h en 1,98 seconde. Sur le circuit international de Shanghai, la SU7 Ultra a même signé un temps au tour supérieur de plus de deux secondes à celui de la Porsche Taycan Turbo GT — un camouflet symbolique.</p>
+<p>La SU7 2026 pousse aussi l'autonomie à des sommets (jusqu'à 902 km en cycle chinois CLTC pour certaines versions) et embarque une débauche technologique : conduite assistée avancée, lidar, 700 TOPS de puissance de calcul. Le tout à un prix qui, en Chine, démarre autour de 30 000 USD — une fraction du tarif Porsche. Pour mieux situer la SU7 Ultra face à la concurrence chinoise, voir notre comparatif <a href="/actualites/byd-seal-vs-xiaomi-su7-ultra-2026">BYD Seal vs Xiaomi SU7 Ultra</a>.</p>
+
+<h2>Performance brute : l'élève dépasse le maître</h2>
+<p>Sur le terrain des chiffres et du rapport performance/prix, le verdict est sans appel : la SU7 Ultra <strong>surpasse la Taycan</strong> en puissance, en accélération, et l'a battue sur piste. Pour qui ne regarde que la feuille de chiffres et le ticket de caisse, Xiaomi humilie Porsche.</p>
+
+<h2>Mais le maître garde des atouts décisifs</h2>
+<p>La domination de la SU7 a toutefois des limites importantes pour un acheteur réel :</p>
+<ul>
+  <li><strong>L'agrément et le toucher</strong> : la Taycan reste une référence du plaisir de conduite, fruit d'un savoir-faire châssis que les chiffres ne mesurent pas.</li>
+  <li><strong>La maturité</strong> : fiabilité, gestion thermique sur circuit, qualité de fabrication — Porsche a des décennies d'avance.</li>
+  <li><strong>La disponibilité</strong> : la SU7 reste difficile à acquérir et à entretenir hors de Chine, là où Porsche dispose d'un réseau mondial.</li>
+  <li><strong>L'image</strong> : un blason Porsche conserve une valeur statutaire et une décote maîtrisée que Xiaomi doit encore construire.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>L'élève a-t-il dépassé le maître ? <strong>Sur la performance pure et le rapport prix/puissance, oui, sans contestation.</strong> La Xiaomi SU7 Ultra est une prouesse qui force le respect et marque un tournant historique. Mais la Porsche Taycan conserve ce que les chiffres ne disent pas : l'âme, la maturité, le réseau et l'image. Xiaomi a prouvé qu'elle pouvait battre Porsche sur un tableur et sur un chrono ; il lui reste à le faire sur la durée, la confiance et l'expérience. Le maître est bousculé comme jamais — mais pas encore détrôné.</p>
+`,
   },
   {
     slug: 'mg-zs-hybrid-vs-dacia-duster-hybrid-low-cost',
@@ -1058,6 +1090,38 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-11-24T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le trône du low-cost est-il menacé ?</h2>
+<p>Pendant des années, le Dacia Duster a régné sans partage sur le segment du SUV abordable. Robuste, simple, imbattable sur le prix, il était la réponse évidente à qui voulait un vrai SUV sans se ruiner. Puis MG est arrivé avec le ZS Hybrid+, un SUV urbain hybride bardé de technologie et agressif sur le tarif. Le roi Dacia peut-il encore dormir tranquille ?</p>
+
+<h2>Deux philosophies du SUV abordable</h2>
+<p>Le Duster assume sa nature de baroudeur : design rugueux, robustesse, capacités tout-terrain et une simplicité revendiquée. Le MG ZS Hybrid+, lui, joue la carte de la modernité urbaine : présentation soignée, grand écran, dotation technologique et une chaîne hybride plus puissante. Dès le départ, ce ne sont pas les mêmes intentions.</p>
+
+<h2>Motorisation et performances</h2>
+<ul>
+  <li><strong>Dacia Duster Hybrid</strong> : 1,6 L essence + deux moteurs électriques pour 140 ch combinés. Une chaîne hybride empruntée à Renault, éprouvée et efficace.</li>
+  <li><strong>MG ZS Hybrid+</strong> : 1,5 L essence + moteur électrique pour environ 197 ch combinés, 0 à 100 km/h en environ 8,7 s — nettement plus vif que le Duster.</li>
+</ul>
+<p>Le MG l'emporte largement sur la puissance et les performances. À noter : sa gestion hybride a connu des creux de puissance en côte sur sa première calibration, corrigés depuis par une mise à jour — un sujet que nous détaillons dans <a href="/actualites/mg-zs-hybrid-plus-perte-de-puissance-cause-solution">notre analyse de la perte de puissance du MG ZS Hybrid+</a>.</p>
+
+<h2>Consommation : le match serré</h2>
+<p>Sur le papier, le MG annonce environ 5,5 L/100 km contre 5,8 pour le Duster. Mais dans la vraie vie, le Dacia s'est montré plus capable d'approcher ses chiffres homologués. Sur la sobriété réelle, les deux sont donc très proches, avec un léger avantage pratique au Duster.</p>
+
+<h2>Habitabilité, coffre et polyvalence</h2>
+<p>Les deux SUV sont quasiment jumeaux côté gabarit (environ 4,33 m) et coffre (environ 445-448 litres). Le Duster reprend l'avantage sur la capacité de remorquage (1 500 kg contre 1 000 kg pour le MG) et sur l'aptitude au tout-chemin, fidèle à son ADN baroudeur. Le MG, lui, soigne davantage l'ambiance à bord et l'équipement technologique.</p>
+
+<h2>Prix</h2>
+<p>Le Duster reste la référence du tarif plancher, avec une entrée de gamme parmi les plus basses du marché. Le MG ZS Hybrid+ se positionne juste au-dessus, mais offre en contrepartie plus de puissance et d'équipement pour l'argent. L'écart s'est resserré au point que le choix ne se fait plus uniquement sur le prix.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>Dacia Duster Hybrid</strong> : pour qui veut le prix le plus bas, la robustesse, la capacité de remorquage et un esprit baroudeur.</li>
+  <li><strong>MG ZS Hybrid+</strong> : pour qui privilégie la puissance, la technologie embarquée et une ambiance plus moderne, en usage majoritairement urbain.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Le trône du Duster est <strong>sérieusement bousculé, mais pas renversé</strong>. Sur le pur rapport prix/robustesse et la polyvalence baroudeuse, le Dacia conserve une longueur d'avance qui justifie encore son statut. Mais le MG ZS Hybrid+ prouve qu'on peut avoir bien plus de puissance, de technologie et de modernité pour quelques centaines d'euros de plus. Pour l'aventurier économe : Duster. Pour l'urbain qui veut du contenu : ZS Hybrid+. Le règne sans partage de Dacia, lui, appartient désormais au passé.</p>
+`,
   },
   {
     slug: 'byd-atto-3-evo-vs-renault-scenic-e-tech-suv-annee',
@@ -1070,6 +1134,39 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-11-17T09:00:00+01:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le match des SUV de l'année</h2>
+<p>D'un côté, le Renault Scénic E-Tech, élu Voiture de l'Année en Europe et fierté du renouveau électrique français. De l'autre, le BYD Atto 3 Evo, version remise à niveau du best-seller mondial de BYD. Deux SUV compacts électriques aux ambitions familiales qui se disputent les mêmes acheteurs. Le champion européen peut-il résister au rouleau compresseur chinois ?</p>
+
+<h2>Autonomie : l'atout maître du Scénic</h2>
+<p>C'est le point le plus tranché du comparatif :</p>
+<ul>
+  <li><strong>Renault Scénic E-Tech</strong> : jusqu'à environ 598 km WLTP avec sa grande batterie de 87 kWh.</li>
+  <li><strong>BYD Atto 3 Evo</strong> : autour de 420 km WLTP (jusqu'à ~500 km sur les versions Extended), pour une consommation d'environ 16 kWh/100 km.</li>
+</ul>
+<p>Le Scénic prend un avantage net sur l'autonomie homologuée — un argument fort pour les gros rouleurs. Le BYD reste cependant compétitif sur l'efficience.</p>
+
+<h2>Recharge : le BYD Evo comble son retard</h2>
+<p>La grande faiblesse historique de l'Atto 3 était sa lenteur de recharge. La version Evo 2026 corrige le tir : elle récupère environ 135 km d'autonomie en 15 minutes (200 km en 30 minutes), des performances désormais comparables à celles du Scénic E-Tech. Sur ce point longtemps rédhibitoire, BYD a rattrapé son retard — un progrès que l'on retrouve aussi face à d'autres rivales, comme dans notre comparatif <a href="/actualites/xpeng-g6-vs-byd-atto-3-evo-autonomie-reelle">XPeng G6 vs BYD Atto 3 Evo</a>.</p>
+
+<h2>Performances et conduite</h2>
+<p>Le Scénic développe environ 220 ch, l'Atto 3 environ 204 ch (0 à 100 km/h en 7,3 s). Les deux privilégient le confort et la douceur à la sportivité, dans le pur esprit du SUV familial. Match quasi nul, avec un léger avantage de puissance au Renault.</p>
+
+<h2>Espace et vie à bord</h2>
+<p>Le Scénic propose un coffre plus généreux (environ 545 litres contre 440 pour le BYD) et une habitabilité pensée pour les familles. L'Atto 3 réplique avec un intérieur original et une dotation de série riche, ainsi que sa batterie Blade LFP réputée pour sa durabilité et sa sécurité. Praticité au Renault, générosité d'équipement et technologie de batterie au BYD.</p>
+
+<h2>Prix</h2>
+<p>Les deux se tiennent dans un mouchoir : le BYD Atto 3 Evo démarre autour de 38 990 €, le Renault Scénic E-Tech autour de 38 370 €. À tarif quasi identique, le choix se fait sur les priorités plutôt que sur le budget.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>Renault Scénic E-Tech</strong> : pour qui veut un maximum d'autonomie, un grand coffre et la sécurité d'un réseau et d'un label européen.</li>
+  <li><strong>BYD Atto 3 Evo</strong> : pour qui privilégie l'équipement de série, la batterie Blade et une recharge désormais au niveau.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Le Renault Scénic E-Tech mérite son titre : autonomie supérieure, espace, et la confiance d'un constructeur établi en font un choix très solide. Mais le <strong>BYD Atto 3 Evo</strong> a comblé son principal défaut — la recharge — et reste imbattable sur l'équipement et la techno de batterie pour le même prix. Le champion européen garde l'avantage sur l'autonomie et la praticité ; le challenger chinois, sur le contenu. Un match bien plus serré qu'il ne l'aurait été il y a deux ans — et c'est tout sauf une bonne nouvelle pour Renault.</p>
+`,
   },
   {
     slug: 'zeekr-001-vs-tesla-model-s-silicon-valley-tremble-2026',
@@ -1082,6 +1179,28 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-11-10T09:00:00+01:00',
     readingTime: 9,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Pourquoi la Silicon Valley tremble</h2>
+<p>La Tesla Model S a longtemps incarné l'avenir : la berline électrique qui a rendu l'EV désirable et qui a humilié l'establishment automobile. Mais en 2026, c'est au tour de Tesla d'être pris en chasse. Le Zeekr 001, break de chasse électrique du groupe Geely, propose des performances et une technologie de pointe à un tarif qui ferait passer la Model S pour un produit de luxe. Le chasseur est devenu la proie.</p>
+
+<h2>Performances : le Zeekr joue dans la cour des grands</h2>
+<p>Le Zeekr 001, dans sa version Performance AWD, abat le 0 à 100 km/h en environ 3,8 secondes — un chrono digne d'une supercar, qui le place au niveau des références sportives du segment, Tesla Model S et Porsche Taycan d'entrée de gamme incluses. Pour une marque que l'Europe découvre à peine, c'est une démonstration.</p>
+
+<h2>Autonomie et recharge 800V</h2>
+<p>La version européenne du Zeekr 001 embarque une batterie de 100 kWh pour une autonomie WLTP de 580 à 620 km selon les versions. Surtout, son <strong>architecture 800 volts</strong> lui permet de récupérer environ 350 km d'autonomie en moins de 30 minutes (10-80 % en 30 minutes, jusqu'à 200 kW en pointe). Sur la recharge, le Zeekr rivalise avec ce qui se fait de mieux — un terrain où Tesla s'appuyait jusqu'ici sur la supériorité de son réseau plus que sur la techno embarquée.</p>
+
+<h2>Le réseau Supercharger : l'argument qui reste à Tesla</h2>
+<p>Car c'est là que Tesla conserve son avantage le plus solide : le réseau de Superchargeurs, dense, fiable et parfaitement intégré à l'expérience de voyage. Le Zeekr a beau recharger vite, il dépend de l'infrastructure publique tierce, plus hétérogène. Pour le gros rouleur qui traverse l'Europe, l'écosystème Tesla reste un atout concret. Sur la philosophie « recharge contre échange/réseau », le débat rappelle celui que nous explorons dans <a href="/actualites/zeekr-001-vs-nio-et7-luxe-technologique-chinois">Zeekr 001 vs NIO ET7</a>.</p>
+
+<h2>Polyvalence et style</h2>
+<p>Le Zeekr 001 a un atout que la Model S n'a pas : son format de break de chasse, qui marie l'élégance d'un coupé à la praticité d'un grand coffre. Pour une famille qui veut du style sans renoncer au volume, c'est un argument séduisant. La Model S, berline pure, mise davantage sur sa ligne intemporelle et son logiciel.</p>
+
+<h2>Le prix : l'arme fatale</h2>
+<p>Le Zeekr 001 arrive en France à partir d'environ 59 990 € avec sa batterie de 100 kWh et jusqu'à 620 km d'autonomie. La Tesla Model S, elle, se positionne nettement plus haut (souvent au-delà de 90 000 €). À performances et autonomie comparables, l'écart de prix est tout simplement énorme — et c'est précisément ce qui fait trembler la Silicon Valley.</p>
+
+<h2>Verdict</h2>
+<p>La Tesla Model S conserve deux atouts majeurs : son réseau Supercharger et la maturité de son logiciel. Mais sur tout le reste — performance, autonomie, recharge 800V, polyvalence et surtout prix — le <strong>Zeekr 001</strong> rivalise frontalement, voire dépasse, une icône facturée bien plus cher. La Model S n'est pas battue, mais elle n'est plus intouchable. Et c'est bien le signe d'un basculement : le futur de la berline électrique premium ne s'écrit plus seulement en Californie.</p>
+`,
   },
   {
     slug: 'omoda-5-shs-h-vs-toyota-yaris-cross-hybride',
@@ -1094,6 +1213,32 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-11-03T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>L'hybride japonais face au nouveau venu</h2>
+<p>Sur le segment des SUV urbains hybrides, la Toyota Yaris Cross a longtemps fait figure de valeur sûre : la fiabilité japonaise, une technologie hybride éprouvée et une sobriété exemplaire. Mais Omoda, la marque export du groupe Chery, débarque avec le 5 SHS-H et sa technologie hybride maison, bien décidée à bousculer cet ordre établi. Le savoir-faire japonais peut-il être pris de vitesse ?</p>
+
+<h2>Deux gabarits, deux philosophies</h2>
+<p>Première nuance importante : la Yaris Cross est un petit SUV du segment B (citadine surélevée), tandis que l'Omoda 5 SHS-H joue dans la catégorie supérieure, celle des SUV compacts du segment C. L'Omoda est donc plus grande, plus spacieuse et mieux dotée — mais aussi un peu plus chère. Ce n'est pas tout à fait le même produit, même s'ils se disputent les mêmes acheteurs.</p>
+
+<h2>Puissance et performances</h2>
+<ul>
+  <li><strong>Omoda 5 SHS-H</strong> : système hybride puissant, de l'ordre de 204 à 224 ch, 0 à 100 km/h en environ 7,8 s. C'est l'un des SUV hybrides non rechargeables les plus puissants de sa catégorie.</li>
+  <li><strong>Toyota Yaris Cross</strong> : environ 130 ch, 0 à 100 km/h en environ 10,7 s. Calibrée pour la sobriété plus que pour la performance.</li>
+</ul>
+<p>L'Omoda écrase la Toyota sur la puissance et le dynamisme. Mais sur ce segment, la performance n'est pas toujours la priorité numéro un.</p>
+
+<h2>Consommation : Toyota garde l'avantage</h2>
+<p>C'est le terrain de prédilection de Toyota. En consommation réelle, la Yaris Cross descend autour de 3,55 L/100 km, là où l'Omoda 5 SHS-H Premium s'en approche avec environ 3,95 L/100 km — un excellent résultat pour l'Omoda, mais la Toyota conserve un léger avantage, fruit de décennies d'optimisation hybride. L'écart s'est néanmoins considérablement réduit.</p>
+
+<h2>Équipement et vie à bord</h2>
+<p>L'Omoda 5 SHS-H mise sur une présentation moderne, de grands écrans et une dotation généreuse, profitant de son gabarit supérieur pour offrir plus d'espace. La Yaris Cross joue la carte de la qualité de finition, de l'ergonomie sans faille et de la réputation de fiabilité Toyota. Pour situer l'Omoda 5 face à la concurrence chinoise, voir aussi notre comparatif <a href="/actualites/omoda-5-vs-mg-zs-hybrid-suv-urbains-abordables">Omoda 5 vs MG ZS Hybrid+</a>.</p>
+
+<h2>Prix</h2>
+<p>L'Omoda 5 SHS-H s'échelonne d'environ 29 400 à 32 400 € selon la finition. La Yaris Cross, plus petite, se positionne dans une fourchette comparable voire légèrement inférieure à finition équivalente — mais avec moins d'espace et de puissance. L'Omoda offre donc « plus de voiture » pour le prix.</p>
+
+<h2>Verdict</h2>
+<p>La Toyota Yaris Cross reste la championne de la sobriété, de la fiabilité et de la tranquillité d'esprit — des arguments décisifs pour beaucoup d'acheteurs. Mais l'<strong>Omoda 5 SHS-H</strong> prouve que le nouveau venu n'a plus rien d'un amateur : plus grande, bien plus puissante, richement équipée et désormais presque aussi sobre, elle offre un rapport contenu/prix redoutable. Pour la sécurité d'une valeur sûre : Yaris Cross. Pour en avoir plus pour son argent : Omoda 5 SHS-H. Le savoir-faire japonais n'est plus intouchable.</p>
+`,
   },
   {
     slug: 'mg3-hybrid-vs-renault-clio-e-tech-hegemonie-francaise',
