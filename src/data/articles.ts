@@ -1808,6 +1808,34 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-07-14T09:00:00+02:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux philosophies de la batterie</h2>
+<p>La batterie est le cœur — et le poste le plus cher — d'une voiture électrique. Deux technologies dominent le débat : la Blade de BYD, à chimie LFP (lithium-fer-phosphate), et la cellule cylindrique 4680 de Tesla, à chimie NMC (nickel-cobalt-manganèse). Elles incarnent deux visions opposées : la longévité et la sécurité d'un côté, la densité énergétique de l'autre. Laquelle dure vraiment le plus longtemps ? Décryptage.</p>
+
+<h2>Densité énergétique : l'avantage Tesla</h2>
+<p>Sur le pur stockage d'énergie au kilo et au litre, la 4680 domine. La cellule Tesla affiche environ 241 Wh/kg (643 Wh/L) grâce à sa chimie NMC811 et à son architecture « tabless », contre environ 160 Wh/kg (355 Wh/L) pour la Blade LFP. Concrètement, la 4680 stocke environ 1,5 fois plus d'énergie au poids et 1,8 fois plus au volume. À taille et masse égales, une batterie 4680 offre donc potentiellement plus d'autonomie.</p>
+
+<h2>Durée de vie : la Blade gagne haut la main</h2>
+<p>Mais sur la question de la longévité — celle qui détermine combien d'années votre batterie restera fiable — la Blade renverse la table :</p>
+<ul>
+  <li><strong>Cycles de charge</strong> : la Blade LFP encaisse plus de 3 000 cycles, contre 1 500 à 2 000 pour la 4680. Soit grossièrement le double de durée de vie.</li>
+  <li><strong>Dégradation</strong> : la chimie LFP se dégrade très lentement. Mieux : vous pouvez la charger à 100 % chaque nuit sans l'abîmer, là où une NMC supporte mal la charge complète répétée.</li>
+  <li><strong>Chaleur</strong> : la Blade génère environ deux fois moins de chaleur que la 4680 sous charge, ce qui réduit les contraintes thermiques et améliore la sécurité.</li>
+</ul>
+<p>Cette robustesse explique pourquoi BYD met en avant la durabilité de ses batteries, un atout que l'on retrouve dans tous ses modèles, comme la berline analysée dans <a href="/actualites/byd-seal-vs-tesla-model-3-highland-berline-ultime-2026">BYD Seal vs Tesla Model 3 Highland</a>.</p>
+
+<h2>Sécurité et coût : encore des points pour la Blade</h2>
+<p>La chimie LFP est intrinsèquement plus stable thermiquement, ce qui réduit le risque d'emballement. La Blade est aussi moins chère à produire (environ 10 €/kWh de moins) car elle se passe de nickel et de cobalt, métaux coûteux et géopolitiquement sensibles. Pour un constructeur comme pour un acheteur, c'est un double avantage.</p>
+
+<h2>Le bon compromis dépend de l'usage</h2>
+<ul>
+  <li>La <strong>4680 de Tesla</strong> brille si la priorité est l'autonomie maximale et la performance, au prix d'une dégradation plus rapide et d'un besoin de refroidissement plus poussé.</li>
+  <li>La <strong>Blade de BYD</strong> l'emporte sur la durée de vie, la sécurité, la tolérance à la charge quotidienne à 100 % et le coût.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>À la question « laquelle dure vraiment le plus longtemps ? », la réponse est nette : la <strong>batterie Blade de BYD</strong>. Avec environ le double de cycles, une dégradation minimale et une meilleure tolérance à l'usage quotidien, elle est conçue pour durer. La <strong>4680 de Tesla</strong> reste supérieure en densité énergétique — donc en autonomie potentielle — mais paie cet avantage par une longévité moindre. Pour qui garde sa voiture longtemps et veut une batterie qu'on oublie, la LFP Blade est le choix de la sérénité.</p>
+`,
   },
   {
     slug: 'nio-echange-batterie-vs-tesla-superchargeur-voyage',
@@ -1820,6 +1848,26 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-07-07T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux réponses au problème du temps de recharge</h2>
+<p>Le talon d'Achille de la voiture électrique sur long trajet, c'est le temps passé à « faire le plein ». Deux géants y répondent de façon radicalement différente. Tesla mise sur la recharge ultra-rapide via son réseau de Superchargeurs. NIO, lui, a fait un pari fou : ne pas recharger du tout, mais <strong>échanger</strong> la batterie vide contre une pleine en quelques minutes. Quelle est la meilleure solution pour voyager ?</p>
+
+<h2>L'échange de batterie NIO : la vitesse pure</h2>
+<p>Le concept est spectaculaire. Vous entrez dans une station NIO, et un système automatisé remplace votre batterie vide par une batterie pleine en <strong>environ 3 minutes</strong> — sans même sortir de la voiture. NIO a déjà réalisé plus de 500 000 échanges, preuve que la technologie fonctionne à grande échelle. En temps par arrêt, c'est imbattable : aucune recharge filaire ne rivalise avec 3 minutes pour repartir avec 100 % d'énergie.</p>
+<p>Bonus : ce système permet aussi de séparer l'achat de la voiture de celui de la batterie (formule « Battery as a Service »), un modèle que nous détaillons dans <a href="/actualites/nio-el6-vs-xpeng-g9-grands-suv-electriques-premium">NIO EL6 vs XPeng G9</a>.</p>
+
+<h2>Le Superchargeur Tesla : la couverture</h2>
+<p>Tesla joue une autre carte : une recharge rapide (80 % en une dizaine de minutes sur les meilleures bornes) adossée à un réseau dense, fiable et parfaitement intégré à la planification d'itinéraire. Un arrêt Tesla est plus long qu'un échange NIO, mais il est possible presque partout en Europe et en Amérique du Nord, ce qui change tout sur un long voyage transfrontalier.</p>
+
+<h2>La vraie différence : la couverture géographique</h2>
+<p>C'est là que tout se joue. L'échange NIO est plus rapide <em>par arrêt</em>, mais son réseau de stations reste concentré en Chine et sur quelques marchés européens. Hors de ces zones, l'avantage s'évapore : sans station d'échange à proximité, l'ET ou l'EL doit se rabattre sur une recharge filaire classique, plus lente. Le Superchargeur Tesla, lui, est beaucoup plus largement déployé — un atout décisif pour qui parcourt de longues distances dans des régions variées.</p>
+
+<h2>Coût et logistique</h2>
+<p>L'échange de batterie suppose une infrastructure lourde et coûteuse (stocks de batteries, automatisation), ce qui limite sa vitesse de déploiement. La recharge filaire, plus simple à installer, se densifie plus vite. C'est le dilemme stratégique : la solution la plus rapide à l'usage est aussi la plus difficile à généraliser.</p>
+
+<h2>Verdict</h2>
+<p>Pour un arrêt isolé, l'<strong>échange de batterie NIO</strong> est imbattable : 3 minutes, sans descendre de voiture, c'est l'expérience la plus proche du plein d'essence. Mais pour le voyage au sens large — traverser un pays, partir loin sans planifier — le <strong>réseau de Superchargeurs Tesla</strong> reste plus pratique grâce à sa couverture supérieure. La meilleure solution dépend donc d'où vous roulez : en zone couverte par NIO, l'échange est magique ; partout ailleurs, la densité Tesla l'emporte. À terme, c'est l'infrastructure, plus que la technologie, qui désignera le vainqueur.</p>
+`,
   },
   {
     slug: 'lidar-xpeng-vs-vision-tesla-conduite-autonome-france',
@@ -1832,6 +1880,28 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-06-30T09:00:00+02:00',
     readingTime: 9,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Lidar contre caméras : la guerre des capteurs</h2>
+<p>La conduite assistée est devenue un argument de vente majeur, et deux écoles s'affrontent. Tesla mise tout sur la <strong>vision</strong> : uniquement des caméras, comme un œil humain, traitées par l'intelligence artificielle. XPeng, longtemps pionnier du <strong>lidar</strong> (un capteur laser qui mesure les distances en 3D), incarne l'approche « ceinture et bretelles ». Mais qui propose réellement la meilleure assistance à la conduite… en France ?</p>
+
+<h2>L'approche Tesla : tout par la caméra</h2>
+<p>Tesla a fait un choix radical : supprimer radar et capteurs à ultrasons pour ne garder que des caméras, alimentant son système FSD (Full Self-Driving, « supervisé »). La logique : si un humain conduit avec ses yeux, une IA suffisamment entraînée le peut aussi. Cette approche, mûrie sur des millions de kilomètres, est l'une des plus avancées au monde — mais elle reste controversée, notamment dans les situations de faible visibilité.</p>
+
+<h2>L'approche XPeng : du lidar à la vision</h2>
+<p>XPeng a d'abord équipé ses voitures de lidars pour fiabiliser la détection d'obstacles. Mais le constructeur a depuis fait évoluer sa stratégie : ses systèmes les plus récents s'appuient eux aussi majoritairement sur les caméras et l'IA, le radar servant de filet de sécurité. XPeng investit massivement — plusieurs dizaines de millions d'euros par mois — dans l'entraînement de son intelligence artificielle, et ses tests en Chine le placent au coude-à-coude avec le FSD de Tesla. Cette débauche technologique se retrouve dans ses modèles, comme le SUV de notre comparatif <a href="/actualites/xpeng-g6-vs-tesla-model-y-recharge-rapide">XPeng G6 vs Tesla Model Y</a>.</p>
+
+<h2>Le grand bémol : la réglementation européenne</h2>
+<p>Voici le point que beaucoup oublient. En Chine, ces systèmes déploient des fonctions de conduite quasi autonome en ville. <strong>En France et en Europe, la réglementation est bien plus stricte.</strong> La conduite réellement autonome n'y est pas autorisée pour le grand public : les systèmes Tesla comme XPeng y fonctionnent en mode « aide à la conduite de niveau 2 », où le conducteur doit garder les mains sur le volant et rester responsable à tout instant. Les démonstrations chinoises spectaculaires ne sont donc <em>pas</em> représentatives de ce que vous pourrez légalement faire sur une route française.</p>
+
+<h2>Que vaut chaque système au quotidien en France ?</h2>
+<ul>
+  <li><strong>Tesla</strong> : un régulateur adaptatif et un maintien de voie parmi les plus aboutis, une interface mature, mais des fonctions avancées bridées par la réglementation européenne.</li>
+  <li><strong>XPeng</strong> : une dotation matérielle généreuse et des aides à la conduite performantes, avec une approche historiquement prudente en Europe — le lidar, quand il est présent, apporte une sécurité supplémentaire en conditions difficiles.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Sur le papier et en Chine, le débat lidar contre vision fait rage, et XPeng a prouvé qu'il pouvait rivaliser avec Tesla. Mais <strong>en France, la vraie limite n'est pas le capteur : c'est la loi.</strong> Les deux systèmes y sont ramenés à des aides à la conduite supervisées, où ils se valent globalement, avec un léger avantage à Tesla sur la maturité logicielle et à XPeng sur la redondance matérielle. Le meilleur conseil reste donc de tester soi-même chaque système sur ses trajets habituels — et de ne jamais oublier que, sur une route française, c'est toujours vous qui conduisez.</p>
+`,
   },
 
   // --- Focus Technologie suite (articles.md #44-50) ---
@@ -1846,6 +1916,30 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-06-23T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>SHS-H : la technologie hybride qui veut changer les règles</h2>
+<p>Omoda et Jaecoo, les marques export du groupe Chery, mettent en avant une technologie hybride baptisée <strong>SHS-H</strong> (Super Hybrid System). La promesse est ambitieuse : une consommation record en ville et plus de 1 000 km d'autonomie totale, le tout sans la complexité d'un hybride rechargeable. Comment ça marche, et pourquoi c'est présenté comme révolutionnaire ?</p>
+
+<h2>Le principe : un hybride « série-parallèle » intelligent</h2>
+<p>Le système SHS-H combine un moteur thermique conçu spécifiquement pour l'hybridation (à très haut rendement) et un ou plusieurs moteurs électriques, gérés par une transmission dédiée. Son intelligence réside dans sa capacité à choisir en permanence le mode le plus efficient :</p>
+<ul>
+  <li><strong>En ville et à basse vitesse</strong> : la voiture roule majoritairement en électrique. Le moteur thermique, quand il tourne, sert souvent de générateur pour alimenter l'électrique (mode « série »), à son régime de rendement optimal.</li>
+  <li><strong>Sur route et à vitesse stabilisée</strong> : le thermique peut entraîner directement les roues (mode « parallèle »), là où il est le plus efficace, épaulé par l'électrique lors des accélérations.</li>
+</ul>
+<p>Le conducteur n'a rien à gérer : le système bascule seul entre ces modes, des dizaines de fois par trajet, pour minimiser la consommation.</p>
+
+<h2>Pourquoi c'est efficace</h2>
+<p>La clé, c'est le rendement du moteur thermique dédié et l'usage massif de l'électrique en ville — précisément là où un moteur thermique classique consomme le plus. Résultat : sur l'Omoda 5 SHS-H, des tests de consommation réelle sont descendus autour de 3,95 L/100 km, un chiffre remarquable pour un SUV compact. Et comme il n'y a pas besoin de brancher la voiture, on profite de l'efficience hybride sans contrainte de recharge.</p>
+
+<h2>L'avantage sur l'hybride rechargeable</h2>
+<p>Contrairement à un PHEV, le SHS-H n'exige aucune prise ni borne : on fait le plein d'essence, et le système recharge seul sa petite batterie via le moteur et la récupération au freinage. On évite ainsi le principal défaut du PHEV (devoir brancher pour rester sobre) tout en gardant une grande partie de ses bénéfices en ville. C'est ce qui permet à l'Omoda 5 SHS-H de tenir tête à des références établies, comme nous le montrons dans <a href="/actualites/omoda-5-shs-h-vs-toyota-yaris-cross-hybride">Omoda 5 SHS-H vs Toyota Yaris Cross</a>.</p>
+
+<h2>Les limites à connaître</h2>
+<p>Le SHS-H n'est pas magique. Sur autoroute à vitesse soutenue, où l'électrique aide moins, la consommation remonte, comme pour tout hybride non rechargeable. Et la puissance disponible dépend de l'état de charge de la batterie — un point de vigilance commun à cette famille de motorisations. Mais pour un usage majoritairement urbain et périurbain, le bénéfice est bien réel.</p>
+
+<h2>Verdict</h2>
+<p>La technologie SHS-H d'Omoda n'invente pas l'hybride série-parallèle, déjà popularisé par d'autres, mais elle l'exécute avec brio et la rend accessible. Sa vraie force : offrir une consommation urbaine proche des meilleures références japonaises, plus de 1 000 km d'autonomie totale, et zéro contrainte de recharge. « Révolutionnaire » est un grand mot, mais pour qui veut rouler sobre sans jamais brancher sa voiture, le SHS-H est une réponse particulièrement convaincante — et un signe de plus de la montée en maturité technologique des constructeurs chinois.</p>
+`,
   },
   {
     slug: 'mg3-hybrid-moteur-electrique-plus-puissant-concurrents',
@@ -1858,6 +1952,30 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-06-16T09:00:00+02:00',
     readingTime: 6,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Un moteur électrique hors normes pour une citadine</h2>
+<p>La MG3 Hybrid+ cache un secret technique sous sa carrosserie de sage citadine : un moteur électrique de <strong>136 ch (100 kW)</strong>, une puissance électrique très inhabituelle sur ce segment. Là où ses concurrentes se contentent de moteurs électriques modestes, la MG3 en fait son atout maître. Pourquoi ce choix, et qu'est-ce que ça change concrètement ?</p>
+
+<h2>L'architecture : l'électrique d'abord</h2>
+<p>La chaîne hybride de la MG3 associe un moteur thermique 1,5 L essence à cycle Atkinson de 102 ch et ce fameux moteur électrique de 136 ch (250 Nm), pour une puissance combinée de 195 ch. La batterie, d'une capacité de 1,83 kWh sous une tension de 350 V, alimente cet électrique généreux.</p>
+<p>La philosophie est claire : faire de l'électrique le moteur principal en usage urbain, le thermique venant en renfort ou en générateur. C'est l'inverse de beaucoup d'hybrides légers, où l'électrique ne fait qu'assister un thermique dominant.</p>
+
+<h2>Pourquoi 100 kW, c'est beaucoup pour le segment</h2>
+<p>Pour mesurer l'écart, il suffit de comparer aux références de la catégorie : le moteur électrique d'une Renault Clio E-Tech tourne autour de quelques dizaines de kW, celui d'une Toyota Yaris hybride également. La MG3, avec ses 100 kW, dispose donc d'un moteur électrique presque deux à trois fois plus puissant que la moyenne de ses rivales. Cette générosité explique en partie pourquoi elle bouscule l'ordre établi, comme nous le détaillons dans <a href="/actualites/mg3-hybrid-vs-renault-clio-e-tech-hegemonie-francaise">MG3 Hybrid+ vs Renault Clio E-Tech</a>.</p>
+
+<h2>Ce que ça change au volant</h2>
+<ul>
+  <li><strong>Des démarrages francs</strong> : en ville, la MG3 s'élance avec la vivacité et le silence d'une électrique, sans temps mort.</li>
+  <li><strong>De vraies reprises</strong> : la réserve de puissance électrique permet des relances énergiques (80-120 km/h en environ 5 s), rare pour une citadine hybride.</li>
+  <li><strong>Une conduite apaisée</strong> : le thermique se fait discret, n'intervenant que lorsque c'est nécessaire, ce qui réduit le bruit et les vibrations en usage urbain.</li>
+</ul>
+
+<h2>La contrepartie</h2>
+<p>Un moteur électrique puissant a besoin d'être alimenté : la petite batterie de 1,83 kWh se vide vite en sollicitation intense (montée soutenue, autoroute), et le thermique doit alors travailler à la fois pour avancer et pour recharger. C'est la limite classique de ce type d'architecture à petite batterie — un compromis assumé pour privilégier l'efficience et l'agrément en ville plutôt que la performance autoroutière.</p>
+
+<h2>Verdict</h2>
+<p>Le moteur électrique de 100 kW de la MG3 Hybrid+ n'est pas un gadget marketing : c'est un vrai choix d'ingénierie qui donne à cette citadine un agrément et une vivacité supérieurs à la moyenne du segment, tout en restant sobre en ville. C'est précisément ce qui lui permet de défier des références bien installées. Pour qui roule surtout en ville et veut une hybride à la fois douce, vive et économe, cette générosité électrique est un argument concret — et l'une des plus belles réussites techniques de MG sur ce segment.</p>
+`,
   },
   {
     slug: 'hyperos-xiaomi-voiture-integration-smartphone',
