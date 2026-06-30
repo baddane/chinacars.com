@@ -1429,6 +1429,35 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-09-22T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le combat des compactes sportives électriques</h2>
+<p>La compacte sportive électrique est un terrain où l'on n'attendait pas forcément les Chinois. Et pourtant : la MG4 XPower débarque avec une fiche technique qui ridiculise des sportives bien plus chères, face à la Volkswagen ID.3 GTX, version musclée de la compacte de Wolfsburg. Puissance brute contre rigueur allemande : à qui le plaisir électrique démocratique ?</p>
+
+<h2>Puissance : la MG4 XPower est démesurée</h2>
+<ul>
+  <li><strong>MG4 XPower</strong> : 435 ch (320 kW), 600 Nm, transmission intégrale. 0 à 100 km/h en 3,8 secondes, vitesse maximale 200 km/h.</li>
+  <li><strong>Volkswagen ID.3 GTX</strong> : autour de 326 ch sur la version Performance, pour un 0 à 100 km/h aux alentours de 5,6 secondes.</li>
+</ul>
+<p>L'écart est saisissant : la MG4 XPower abat le 0 à 100 km/h près de deux secondes plus vite que l'ID.3 GTX, avec une puissance qui rivalise avec des sportives premium à plus de 80 000 €. Sur la performance pure, il n'y a pas match.</p>
+
+<h2>Autonomie et efficience : la VW reprend la main</h2>
+<p>La rançon de la performance, c'est la consommation. La MG4 XPower affiche une autonomie WLTP d'environ 405 km pour une consommation de 19 kWh/100 km, là où l'ID.3 GTX, plus sobre (environ 13,9 kWh/100 km), pousse l'autonomie nettement plus loin (jusqu'à 600 km selon les versions de la gamme). Pour rouler loin, l'allemande est mieux née.</p>
+
+<h2>Comportement routier</h2>
+<p>La MG4 XPower mise sur sa transmission intégrale et son couple massif pour des départs canon. L'ID.3 GTX, propulsion, privilégie l'équilibre et la cohérence d'ensemble, dans la tradition Volkswagen. La MG impressionne en ligne droite ; la VW rassure par sa rigueur. Pour situer la MG4 dans sa version « civile », voir notre comparatif <a href="/actualites/mg4-vs-byd-dolphin-compactes-electriques">MG4 vs BYD Dolphin</a>.</p>
+
+<h2>Le prix : l'argument fatal de MG</h2>
+<p>C'est le coup de grâce. La MG4 XPower est affichée autour de 38 990 €, souvent ramenée à environ 32 990 € avec les remises de lancement. La Volkswagen ID.3 GTX, elle, démarre autour de 46 990 € avant bonus. Pour 14 000 € de moins, la MG offre plus de 100 ch supplémentaires et près de deux secondes de mieux au 0 à 100 km/h. Le rapport performance/prix est tout simplement imbattable.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>MG4 XPower</strong> : pour l'amateur de sensations fortes qui veut un maximum de performance pour un minimum de budget.</li>
+  <li><strong>Volkswagen ID.3 GTX</strong> : pour qui privilégie l'autonomie, l'efficience et la cohérence d'une compacte premium polyvalente.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Sur la performance et le prix, la <strong>MG4 XPower humilie l'ID.3 GTX</strong> : une telle puissance à ce tarif relève de l'anomalie de marché, au bon sens du terme pour l'acheteur. La <strong>Volkswagen ID.3 GTX</strong> garde l'avantage sur l'autonomie, l'efficience et la maturité d'ensemble. Si vous cherchez la sportive électrique la plus rationnelle et endurante, la VW reste pertinente. Mais si vous voulez le plus de frissons par euro dépensé, la MG4 XPower est, tout simplement, l'affaire de la décennie.</p>
+`,
   },
   {
     slug: 'leapmotor-t03-vs-dacia-spring-electrique-15000',
@@ -1441,6 +1470,29 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-09-15T09:00:00+02:00',
     readingTime: 6,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>L'électrique à 15 000 €, c'est encore possible ?</h2>
+<p>La Dacia Spring a inventé un segment : celui de l'électrique vraiment abordable, sous la barre symbolique des 15 000 € aides déduites. Pendant des années, elle a régné sans rivale. Puis Leapmotor est arrivé avec la T03, fabriquée en Europe et vendue à un tarif quasi identique, mais avec bien plus à offrir. Le pari du « moins de 15 000 € » tient-il toujours la route, et qui le réussit le mieux ?</p>
+
+<h2>Prix : le match au cordeau</h2>
+<p>La Dacia Spring démarre autour de 18 790 € avant aides. La Leapmotor T03 s'affiche autour de 19 900 € (et descend à environ 16 900 € avec les primes, voire 12 900 € avec le bonus maximal). L'écart de tarif est donc minime — de l'ordre de 1 000 € — entre les deux. La vraie question n'est pas le prix, mais ce que vous obtenez pour ce prix.</p>
+
+<h2>Motorisation et autonomie : avantage T03</h2>
+<ul>
+  <li><strong>Leapmotor T03</strong> : 95 ch (70 kW), 158 Nm, batterie de 37,3 kWh pour 265 km WLTP (près de 400 km en usage purement urbain).</li>
+  <li><strong>Dacia Spring</strong> : environ 65 ch, autonomie d'environ 225 km.</li>
+</ul>
+<p>La T03 est nettement plus puissante et plus endurante. Sur le papier comme sur la route, elle offre une polyvalence supérieure pour un tarif quasi identique. Pour la situer face à une autre micro-citadine chinoise, voir notre comparatif <a href="/actualites/leapmotor-t03-vs-byd-seagull-micro-citadines">Leapmotor T03 vs BYD Seagull</a>.</p>
+
+<h2>Équipement : la T03 en donne beaucoup plus</h2>
+<p>C'est là que la T03 creuse l'écart. Là où la Dacia Spring d'entrée de gamme fait l'impasse sur l'écran multimédia ou les vitres arrière électriques, la Leapmotor T03 inclut de série un toit panoramique, des phares et feux à LED, l'accès sans clé, la climatisation automatique, une caméra de recul, des capteurs de stationnement, les vitres électriques avant et arrière, et deux écrans (instrumentation 8 pouces + tactile 10,1 pouces). Pour le même budget, la dotation n'a rien à voir.</p>
+
+<h2>Fabriquée en Europe</h2>
+<p>Argument non négligeable : la T03 est assemblée en Europe (via l'alliance Leapmotor-Stellantis), ce qui peut rassurer sur la disponibilité du réseau et du SAV, et lui éviter une partie des surtaxes douanières frappant les modèles importés de Chine.</p>
+
+<h2>Verdict</h2>
+<p>Oui, l'électrique à moins de 15 000 € (aides déduites) reste possible — et la concurrence l'a rendu meilleur. La <strong>Dacia Spring</strong> conserve l'image rassurante d'une marque européenne établie et un tarif d'accès plancher. Mais la <strong>Leapmotor T03</strong> la bat sur presque tout : pour seulement 1 000 € de plus, elle offre plus de puissance, plus d'autonomie et infiniment plus d'équipement. À ce niveau de prix, la T03 est tout simplement l'achat le plus malin. La Spring a ouvert la voie ; la T03 montre où elle mène.</p>
+`,
   },
   {
     slug: 'byd-han-vs-mercedes-eqe-luxe-chinois-confort-allemand',
@@ -1453,6 +1505,28 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-09-08T09:00:00+02:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le luxe chinois face au confort allemand</h2>
+<p>La Mercedes EQE est l'une des berlines électriques de luxe les plus respectées : confort feutré, raffinement, prestige de l'étoile. En face, la BYD Han veut prouver que le luxe électrique chinois est arrivé à maturité, avec une berline imposante facturée bien moins cher. Deux visions du haut de gamme s'affrontent : l'audace tarifaire chinoise contre la tradition du confort allemand.</p>
+
+<h2>Motorisation : la Han ne fait pas semblant</h2>
+<p>BYD n'importe la Han que dans sa version la plus puissante : 517 ch et 700 Nm, de quoi propulser cette berline de 2,25 tonnes de 0 à 100 km/h en 3,9 secondes. Côté Mercedes, la concurrente directe en performance est l'AMG EQE 43 4MATIC (environ 476 ch) — mais à un tarif qui s'envole bien au-delà de 100 000 €. À puissance comparable, l'écart de prix avec la Han devient vertigineux.</p>
+
+<h2>Autonomie : avantage Mercedes</h2>
+<p>La BYD Han embarque une batterie Blade LFP de 85,4 kWh pour une autonomie WLTP de 521 km. La Mercedes EQE, avec sa plus grande batterie, pousse jusqu'à environ 659 km. Sur l'autonomie pure, l'Allemande conserve un avantage net, appréciable pour les gros rouleurs.</p>
+
+<h2>Équipement : la Han joue le tout-compris</h2>
+<p>C'est l'argument massue de BYD. La Han, dans sa finition Executive, arrive quasiment tout équipée pour le prix affiché, là où l'EQE propose un équipement de série plus chiche, avec une longue liste d'options qui font grimper la facture. Pour qui compare à équipement réel, l'écart se creuse encore en faveur de la Han. On retrouve cette générosité de dotation dans tout le positionnement BYD, comme nous l'évoquons dans <a href="/actualites/mg5-vs-byd-han-break-vs-berline">MG5 vs BYD Han</a>.</p>
+
+<h2>Confort et raffinement : le terrain de Mercedes</h2>
+<p>Mais Mercedes n'a pas volé sa réputation. L'EQE excelle sur le filtrage des suspensions, l'insonorisation, la qualité des matériaux et cette sensation de cocon haut de gamme que la marque peaufine depuis des décennies. La Han est confortable et bien finie, mais l'EQE conserve une longueur d'avance sur le raffinement perçu et l'agrément de conduite feutré.</p>
+
+<h2>Prix</h2>
+<p>La BYD Han démarre autour de 71 390 €, la Mercedes EQE autour de 77 576 € en version de base — et bien davantage dès que l'on vise des performances équivalentes à celles de la Han. À puissance et équipement comparables, la Han est nettement moins chère.</p>
+
+<h2>Verdict</h2>
+<p>La <strong>Mercedes EQE</strong> reste la référence du confort et du prestige : autonomie supérieure, raffinement abouti et valeur de l'étoile. Pour qui veut le luxe « classique » et la tranquillité d'une marque établie, elle se justifie. Mais la <strong>BYD Han</strong> prouve que le luxe chinois est une réalité : presque aussi confortable, bien plus puissante que l'EQE de base, tout équipée et sensiblement moins chère. Pour le standing et le confort ultime : EQE. Pour 90 % du luxe à un prix bien plus doux : Han. L'étoile n'a plus le monopole du haut de gamme électrique.</p>
+`,
   },
   {
     slug: 'omoda-e5-vs-hyundai-kona-electric-design-futuriste',
@@ -1465,6 +1539,32 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-09-01T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le design futuriste face à la polyvalence</h2>
+<p>Sur le segment très disputé des SUV compacts électriques, deux philosophies s'opposent. L'Omoda E5 (groupe Chery) mise sur un design spectaculaire et une débauche d'équipement pour séduire au premier regard. Le Hyundai Kona Electric, lui, capitalise sur la polyvalence, l'efficience et la réputation de fiabilité du constructeur coréen. Le style chinois peut-il faire vaciller la valeur sûre coréenne ?</p>
+
+<h2>Gabarit et design</h2>
+<p>L'Omoda E5 est la plus imposante des deux (environ 4,42 m de long contre 4,21 m pour le Kona) et affiche un style audacieux, presque concept-car, pensé pour capter les regards. Le Kona, restylé, adopte un design futuriste plus mesuré, mais reste très réussi. Avantage à l'Omoda sur l'effet « wahou » et l'espace intérieur perçu.</p>
+
+<h2>Motorisation et performances</h2>
+<ul>
+  <li><strong>Omoda E5</strong> : 201 ch et 340 Nm, batterie LFP de 61 kWh, autonomie d'environ 430 km, consommation d'environ 15,5 kWh/100 km.</li>
+  <li><strong>Hyundai Kona Electric</strong> : selon les versions, une puissance plus mesurée mais une efficience et une autonomie réelle supérieures, surtout en version Long Range (batterie 65 kWh).</li>
+</ul>
+<p>L'Omoda l'emporte sur la puissance ; le Kona sur l'efficience et l'autonomie réelle.</p>
+
+<h2>Recharge : avantage Hyundai</h2>
+<p>Le Kona Electric Long Range accepte jusqu'à 100 kW en courant continu et dispose d'un chargeur embarqué de 11 kW en alternatif, là où l'Omoda E5 plafonne à 80 kW (DC) et 9,9 kW (AC). Sur les longs trajets et la recharge à domicile, le Hyundai reprend l'avantage, fidèle à sa réputation de polyvalence.</p>
+
+<h2>Équipement et vie à bord</h2>
+<p>L'Omoda E5 mise sur une dotation généreuse et une présentation moderne pour justifier son positionnement. Le Kona répond par une ergonomie éprouvée, une qualité de finition rassurante et la tranquillité d'esprit d'un réseau Hyundai dense. Pour situer l'Omoda dans sa déclinaison hybride, voir aussi <a href="/actualites/omoda-5-vs-mg-zs-hybrid-suv-urbains-abordables">Omoda 5 vs MG ZS Hybrid+</a>.</p>
+
+<h2>Prix : l'argument de l'Omoda</h2>
+<p>L'Omoda E5 démarre autour de 39 610 €, quand le Hyundai Kona Electric Long Range réclame plutôt 47 840 €. Soit plus de 8 000 € d'écart en faveur de l'Omoda, qui offre en prime plus de puissance et un gabarit supérieur. Pour le budget, le Chinois frappe fort.</p>
+
+<h2>Verdict</h2>
+<p>Le <strong>Hyundai Kona Electric</strong> reste le choix de la polyvalence et de la sérénité : meilleure efficience, recharge plus rapide, autonomie réelle supérieure et fiabilité reconnue. Mais l'<strong>Omoda E5</strong> a des arguments redoutables : plus spectaculaire, plus puissant, plus grand et surtout bien moins cher. Pour la tranquillité et les longs trajets : Kona. Pour le style et le rapport contenu/prix : Omoda E5. Le design chinois ne fait plus seulement illusion — il devient un vrai argument d'achat.</p>
+`,
   },
   {
     slug: 'gwm-wey-05-vs-volvo-xc60-recharge-phev-autonomie',
@@ -1477,6 +1577,33 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-08-25T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Quel hybride rechargeable offre le plus d'autonomie électrique ?</h2>
+<p>L'hybride rechargeable (PHEV) ne vaut que par son autonomie électrique : c'est elle qui détermine combien de kilomètres vous roulerez sans brûler une goutte d'essence. Sur ce critère précis, le GWM Wey 05 affiche une ambition rare face au Volvo XC60 Recharge, référence premium du segment. Les chiffres réservent une surprise de taille.</p>
+
+<h2>Autonomie électrique : le Wey 05 écrase la concurrence</h2>
+<p>C'est le cœur du sujet, et le verdict est sans appel :</p>
+<ul>
+  <li><strong>GWM Wey 05 PHEV</strong> : autonomie électrique d'environ <strong>158 km</strong> en cycle WLTP.</li>
+  <li><strong>Volvo XC60 Recharge (T8)</strong> : autonomie électrique d'environ 70 à 80 km WLTP (environ 35 miles en mesure EPA).</li>
+</ul>
+<p>Le Wey 05 offre donc grossièrement le double d'autonomie électrique du Volvo. Concrètement, la plupart des conducteurs pourraient couvrir leurs trajets quotidiens — y compris des navettes domicile-travail conséquentes — entièrement en électrique avec le GWM, ne sollicitant le thermique que pour les longs voyages. C'est un avantage décisif sur le coût d'usage.</p>
+
+<h2>Puissance et performances</h2>
+<p>Le Wey 05 ne sacrifie rien à la performance : son 2,0 L associé à deux moteurs électriques développe environ 476 ch en transmission intégrale, pour une vitesse de pointe de 235 km/h. Le Volvo XC60 Recharge T8 répond avec environ 455 ch, lui aussi en intégrale. Les deux sont donc très performants ; le GWM a même un léger ascendant sur la puissance.</p>
+
+<h2>Le terrain du Volvo : raffinement et image</h2>
+<p>Mais le XC60 conserve des atouts de poids. Le raffinement scandinave, la qualité de finition, la sécurité légendaire de Volvo, un réseau dense et une valeur de revente solide : autant d'arguments que le Wey 05, marque encore méconnue en Europe, doit construire. Le débat « hybride rechargeable et flexibilité » rejoint celui que nous explorons dans <a href="/actualites/lynk-co-01-vs-mg-ehs-hybride-rechargeable-partage">Lynk & Co 01 vs MG EHS</a>.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>GWM Wey 05</strong> : pour qui veut maximiser les kilomètres en électrique au quotidien et profite d'une grosse puissance, sans payer le premium d'une marque établie.</li>
+  <li><strong>Volvo XC60 Recharge</strong> : pour qui privilégie le raffinement, la sécurité, l'image et la valeur de revente d'une marque premium reconnue.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Sur la question posée — quel PHEV offre le plus d'autonomie électrique — le <strong>GWM Wey 05 gagne haut la main</strong>, avec environ le double de celle du Volvo. Pour qui veut réellement rouler électrique au quotidien tout en gardant un thermique de secours, c'est l'argument numéro un, et il pèse lourd sur le budget carburant. Le <strong>Volvo XC60 Recharge</strong> garde l'avantage du raffinement, de la sécurité et de l'image. Pour le portefeuille et l'usage électrique maximal : Wey 05. Pour le standing et la sérénité : XC60. Mais sur le terrain qu'il a choisi, le challenger chinois domine.</p>
+`,
   },
   {
     slug: 'mg-zs-ev-vs-peugeot-e2008-suv-urbain-electrique',
