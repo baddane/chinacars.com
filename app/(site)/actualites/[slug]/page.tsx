@@ -122,18 +122,13 @@ export default function ArticlePage({ params }: PageProps) {
             dangerouslySetInnerHTML={{ __html: article.body }}
           />
         ) : (
-          <div className="prose prose-gray mt-12 max-w-none">
-            <p>
-              Le contenu éditorial complet sera chargé depuis Sanity CMS. Cette
-              page de démonstration montre la structure SEO : balises meta
-              dynamiques, Schema.org <code>NewsArticle</code>, image principale
-              optimisée via <code>next/image</code>, fil d&apos;Ariane accessible
-              et temps de lecture.
+          <div className="mt-12 rounded-2xl border border-gray-200 bg-gray-50 p-8 text-center">
+            <p className="text-lg font-semibold text-gray-900">
+              Article en cours de rédaction
             </p>
-            <p>
-              Quand le CMS sera peuplé, remplacez l&apos;appel à{' '}
-              <code>articles</code> par <code>sanityFetch(articleBySlugQuery)</code> et
-              utilisez <code>@portabletext/react</code> pour rendre le corps.
+            <p className="mt-3 text-base leading-7 text-gray-600">
+              Notre équipe rédige actuellement ce dossier en détail. En attendant,
+              retrouvez ci-dessous nos articles sur des sujets similaires.
             </p>
           </div>
         )}
