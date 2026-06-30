@@ -2173,6 +2173,41 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-05-05T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>La décote, le vrai coût caché d'une voiture</h2>
+<p>On regarde le prix d'achat, rarement le prix de revente. Pourtant, la décote — la perte de valeur au fil des ans — est souvent le premier poste de dépense d'une voiture, devant le carburant et l'entretien. Alors, acheter une MG ou une BYD en 2026, est-ce risqué de ce point de vue ? Les marques chinoises se déprécient-elles plus vite que les européennes ? Analyse lucide.</p>
+
+<h2>Pourquoi on craint la décote chinoise</h2>
+<p>Plusieurs facteurs alimentent l'inquiétude :</p>
+<ul>
+  <li><strong>La nouveauté des marques</strong> : sans historique de revente établi, le marché de l'occasion peine à fixer une valeur de référence, ce qui crée de l'incertitude.</li>
+  <li><strong>La baisse des prix du neuf</strong> : quand un constructeur casse les prix ou lance des promotions agressives, la valeur des modèles d'occasion s'effondre mécaniquement.</li>
+  <li><strong>Le renouvellement rapide des gammes</strong> : les constructeurs chinois sortent de nouveaux modèles à un rythme effréné, ce qui peut faire vieillir prématurément les versions précédentes aux yeux des acheteurs.</li>
+  <li><strong>La perte du bonus écologique</strong> : depuis 2026, la plupart des électriques chinoises ne sont plus éligibles au bonus, ce qui complique la comparaison neuf/occasion.</li>
+</ul>
+
+<h2>Mais des atouts atténuent le risque</h2>
+<p>Tout n'est pas noir, loin de là :</p>
+<ul>
+  <li><strong>Des garanties longues et transférables</strong> : une MG bénéficie de 7 ans de garantie, une BYD de 6 ans (8 ans sur la batterie). Une occasion encore couverte rassure l'acheteur et soutient sa valeur. Nous détaillons ces couvertures dans <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties chinoises</a>.</li>
+  <li><strong>Une fiabilité qui se confirme</strong> : les premiers retours sur les modèles arrivés depuis 2022-2023 sont globalement rassurants, ce qui crédibilise leur valeur résiduelle.</li>
+  <li><strong>Un prix d'achat déjà bas</strong> : on perd un pourcentage sur une somme de départ inférieure, donc la perte en euros absolus peut rester contenue.</li>
+</ul>
+
+<h2>Le verdict des chiffres réels</h2>
+<p>Dans les faits, les premières MG4 et BYD Atto 3 ont relativement bien tenu leur valeur sur les deux premières années, portées par une forte demande et des délais de livraison. Mais la pression est montée d'un cran avec les baisses de prix du neuf et la fin du bonus : un modèle dont le tarif catalogue chute entraîne sa cote d'occasion vers le bas. La décote chinoise n'est donc ni catastrophique ni anodine — elle est <em>volatile</em>, très dépendante de la politique tarifaire du constructeur.</p>
+
+<h2>Comment limiter le risque</h2>
+<ul>
+  <li>Privilégier les modèles à fort succès commercial (meilleure liquidité à la revente).</li>
+  <li>Négocier fort à l'achat : une remise initiale est une décote que vous ne subirez pas.</li>
+  <li>Conserver la voiture suffisamment longtemps pour amortir la phase de dépréciation la plus forte (les premières années).</li>
+  <li>Vérifier que la garantie constructeur sera encore active à la revente.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Acheter une MG ou une BYD en 2026 n'est pas un pari perdu sur la revente, mais il faut être lucide : la décote des marques chinoises est plus <strong>imprévisible</strong> que risquée, car elle dépend largement des futures baisses de prix du neuf. Les longues garanties et la fiabilité croissante jouent en leur faveur. Le bon réflexe : négocier au maximum à l'achat, choisir un best-seller, et raisonner sur une possession longue. Dans ces conditions, le risque de décote est tout à fait maîtrisable.</p>
+`,
   },
   {
     slug: 'garantie-7-ans-10-ans-constructeurs-chinois-comparatif',
@@ -2185,6 +2220,37 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-04-28T09:00:00+02:00',
     readingTime: 6,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>La garantie, l'arme secrète des Chinois</h2>
+<p>Face à la méfiance des acheteurs européens, les constructeurs chinois ont sorti une arme redoutable : des garanties exceptionnellement longues. Là où les marques historiques se contentent souvent de 2 à 5 ans, BYD, MG, Zeekr ou NIO affichent des couvertures qui rassurent et qui, mine de rien, soutiennent aussi la valeur de revente. Mais qui protège vraiment le mieux ? Comparatif.</p>
+
+<h2>Le détail des garanties par marque</h2>
+<ul>
+  <li><strong>MG Motor</strong> : 7 ans ou 150 000 km sur le véhicule <em>et</em> sur la batterie, transférable au second propriétaire. C'est l'une des plus généreuses du marché, et la transférabilité est un vrai plus à la revente.</li>
+  <li><strong>BYD</strong> : 6 ans ou 150 000 km sur le véhicule, et surtout <strong>8 ans ou 250 000 km sur la batterie</strong> — l'une des meilleures couvertures batterie du marché.</li>
+  <li><strong>Zeekr (groupe Geely)</strong> : 5 ans de garantie véhicule, 8 ans sur la batterie.</li>
+  <li><strong>NIO</strong> : 5 ans de garantie véhicule, avec la particularité de l'abonnement batterie possible (la batterie n'étant alors pas un poste de souci pour le propriétaire).</li>
+</ul>
+
+<h2>Comment lire ces chiffres</h2>
+<p>Deux dimensions comptent : la durée/kilométrage <strong>véhicule</strong>, et la couverture <strong>batterie</strong> (le composant le plus coûteux d'une électrique).</p>
+<ul>
+  <li>Sur le <strong>véhicule</strong>, MG mène avec ses 7 ans, devant BYD (6 ans), puis Zeekr et NIO (5 ans).</li>
+  <li>Sur la <strong>batterie</strong>, BYD impressionne avec 8 ans/250 000 km, devant la plupart des rivaux. MG se distingue en couvrant 7 ans batterie comme véhicule.</li>
+</ul>
+<p>Ces durées dépassent généralement les standards européens, ce qui constitue un argument de réassurance majeur — et un atout pour la décote, comme nous l'expliquons dans <a href="/actualites/decote-voitures-chinoises-risque-mg-byd-2026">notre analyse de la décote des chinoises</a>.</p>
+
+<h2>Au-delà de la durée : les conditions</h2>
+<p>Une garantie longue ne vaut que si elle est utilisable. Quelques points de vigilance :</p>
+<ul>
+  <li><strong>La transférabilité</strong> (comme chez MG) augmente la valeur de revente : l'acheteur d'occasion hérite de la couverture restante.</li>
+  <li><strong>Le réseau</strong> : encore faut-il un atelier agréé près de chez soi pour faire jouer la garantie (MG est bien implanté, d'autres marques moins).</li>
+  <li><strong>Les exclusions et l'entretien</strong> : respecter le carnet d'entretien dans le réseau est généralement obligatoire pour conserver la garantie.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Sur la couverture pure, <strong>MG</strong> (7 ans véhicule et batterie, transférable) et <strong>BYD</strong> (8 ans/250 000 km batterie) se détachent comme les plus protecteurs. Zeekr et NIO restent solides avec 8 ans de batterie. Mais n'oubliez pas que la meilleure garantie est celle que vous pouvez réellement faire jouer : vérifiez la présence du réseau près de chez vous. À couverture comparable, c'est l'accessibilité du SAV qui fera la différence au quotidien.</p>
+`,
   },
   {
     slug: 'bonus-ecologique-2026-voitures-chinoises-eligibles',
@@ -2197,6 +2263,45 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-04-21T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le bonus écologique a changé de logique en 2026</h2>
+<p>Pendant des années, le bonus écologique a aidé les acheteurs d'électriques sans distinction d'origine. Ce n'est plus le cas. Depuis janvier 2026, la France a durci ses critères pour favoriser les véhicules produits en Europe — et la grande majorité des électriques chinoises se retrouvent exclues. Quelles voitures chinoises y ont encore droit, et lesquelles l'ont perdu ? Le point complet.</p>
+
+<h2>Les trois conditions cumulatives</h2>
+<p>Pour toucher le bonus écologique en 2026, un véhicule doit remplir <strong>trois conditions à la fois</strong> :</p>
+<ul>
+  <li>Un <strong>prix inférieur à 47 000 €</strong>.</li>
+  <li>Une <strong>masse sous 2,4 tonnes</strong>.</li>
+  <li>Un <strong>score environnemental ADEME supérieur ou égal à 60 points</strong>.</li>
+</ul>
+<p>C'est ce troisième critère, le score environnemental, qui change tout.</p>
+
+<h2>Le score environnemental : le piège pour les chinoises</h2>
+<p>Le score ADEME mesure l'empreinte carbone du véhicule sur tout son cycle de production : extraction des matières premières, fabrication de la batterie, assemblage, et transport jusqu'en France. Deux postes pénalisent lourdement les voitures fabriquées en Chine :</p>
+<ul>
+  <li><strong>Le mix électrique chinois</strong>, encore largement carboné, alourdit l'empreinte de la fabrication et de la batterie.</li>
+  <li><strong>Le transport maritime</strong> depuis l'Asie retire entre 5 et 8 points selon la distance.</li>
+</ul>
+<p>Résultat : la plupart des électriques chinoises ne franchissent plus la barre des 60 points.</p>
+
+<h2>Les modèles exclus</h2>
+<p>Concrètement, depuis le 1er janvier 2026, sont notamment exclus du bonus :</p>
+<ul>
+  <li><strong>MG4 et MG5</strong> : une MG4 affichée 29 990 € le reste désormais, sans bonus — ce qui a fait chuter ses ventes.</li>
+  <li><strong>BYD Dolphin, Seal, Sealion 7</strong> : exclus en raison de leur empreinte carbone amont.</li>
+</ul>
+<p>Pour ces modèles, le prix payé est désormais le prix catalogue, sans coup de pouce de l'État.</p>
+
+<h2>Les exceptions qui conservent le bonus</h2>
+<p>Deux cas de figure permettent de récupérer le bonus :</p>
+<ul>
+  <li><strong>La co-entreprise avec un groupe européen</strong> : Leapmotor, via son alliance avec Stellantis, ajuste son score grâce à des composants et une logistique européens. Sa citadine <strong>T03</strong> (à partir d'environ 15 900 € catalogue) reste éligible au bonus en 2026 — un avantage décisif que nous évoquons dans <a href="/actualites/leapmotor-t03-vs-dacia-spring-electrique-15000">Leapmotor T03 vs Dacia Spring</a>.</li>
+  <li><strong>La production rapatriée en Europe</strong> : les modèles assemblés sur le sol européen (usines en Hongrie, en Espagne…) peuvent franchir le seuil. À mesure que les constructeurs chinois localisent leur production, davantage de modèles redeviendront éligibles.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>En 2026, le bonus écologique est devenu un outil de protection industrielle : il favorise la production européenne et exclut de fait la majorité des électriques importées de Chine. Pour l'acheteur, la règle est simple : un modèle chinois <em>fabriqué en Chine</em> (MG4, BYD Dolphin/Seal…) n'a généralement plus droit au bonus, tandis que les modèles issus d'une co-entreprise européenne (comme la Leapmotor T03) ou produits en Europe le conservent. Avant d'acheter, vérifiez impérativement l'éligibilité du modèle exact : l'écart de prix final peut atteindre plusieurs milliers d'euros.</p>
+`,
   },
   {
     slug: 'location-vs-achat-lynk-co-nouvelle-consommation',
@@ -2209,6 +2314,38 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-04-14T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Et si vous n'achetiez plus votre voiture ?</h2>
+<p>Posséder sa voiture a longtemps été une évidence. Lynk & Co, marque du groupe Geely, remet en question ce réflexe avec un modèle d'abonnement mensuel tout compris, résiliable et partageable. Une vraie alternative à l'achat, ou un gadget marketing ? Décryptons quand la location à la Lynk & Co a réellement du sens — et quand l'achat reste plus malin.</p>
+
+<h2>Le modèle Lynk & Co en bref</h2>
+<p>Plutôt que d'acheter ou de signer un crédit classique, vous souscrivez un abonnement mensuel tout inclus : la voiture, l'assurance, l'entretien, parfois plus. L'engagement est court et résiliable, à l'opposé d'un crédit sur plusieurs années. Mieux : Lynk & Co encourage le <strong>partage</strong> de la voiture entre membres de sa communauté, pour mutualiser les coûts quand vous ne l'utilisez pas. C'est une approche que nous comparons à l'achat classique dans <a href="/actualites/lynk-co-01-vs-mg-ehs-hybride-rechargeable-partage">Lynk & Co 01 vs MG EHS</a>.</p>
+
+<h2>Les avantages de la formule</h2>
+<ul>
+  <li><strong>Flexibilité</strong> : pas d'engagement long, on arrête quand on veut. Idéal en période de vie incertaine (déménagement, changement de travail).</li>
+  <li><strong>Budget lisible</strong> : un seul prélèvement mensuel couvre presque tout, sans mauvaise surprise (réparation imprévue, etc.).</li>
+  <li><strong>Zéro souci de revente</strong> : pas de décote à subir, pas de voiture à revendre.</li>
+  <li><strong>Mutualisation possible</strong> : le partage peut réduire encore la facture pour les petits rouleurs.</li>
+</ul>
+
+<h2>Les limites à connaître</h2>
+<ul>
+  <li><strong>Le coût sur la durée</strong> : comme toute location, l'abonnement peut revenir plus cher que l'achat si vous gardez la voiture longtemps. La flexibilité se paie.</li>
+  <li><strong>Pas de capital</strong> : vous ne possédez jamais rien, contrairement à un achat où la voiture reste un actif revendable.</li>
+  <li><strong>Le partage suppose un état d'esprit</strong> : prêter sa voiture à d'autres membres ne convient pas à tout le monde.</li>
+  <li><strong>La disponibilité du modèle</strong> : l'offre dépend des marchés et de la gamme proposée.</li>
+</ul>
+
+<h2>Pour qui chaque solution est-elle faite ?</h2>
+<ul>
+  <li><strong>L'abonnement</strong> convient aux urbains qui roulent peu, valorisent la flexibilité, détestent l'engagement, ou traversent une période de vie incertaine.</li>
+  <li><strong>L'achat</strong> reste plus rationnel pour les gros rouleurs et ceux qui gardent leur voiture longtemps : sur la durée, posséder revient généralement moins cher au kilomètre.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Lynk & Co n'a pas inventé la location, mais l'a rendue plus souple et plus moderne, en y ajoutant la dimension communautaire du partage. Est-ce la fin de la propriété automobile ? Non — pour qui roule beaucoup et garde sa voiture des années, l'achat reste le choix le plus économique. Mais pour une part croissante d'urbains en quête de flexibilité et de simplicité, l'abonnement est une vraie alternative, qui change effectivement notre façon de consommer la voiture. La bonne question n'est plus « quelle voiture acheter ? », mais « ai-je vraiment besoin de la posséder ? ».</p>
+`,
   },
   {
     slug: 'entretien-voiture-chinoise-france-reseaux-sav',
@@ -2221,6 +2358,32 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-04-07T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le SAV, le vrai talon d'Achille des chinoises ?</h2>
+<p>On achète une voiture chinoise pour son prix et son équipement. Mais une question revient toujours : « Et si elle tombe en panne, qui la répare ? » Le réseau après-vente est le critère le plus déterminant — et le plus inégal — entre les marques chinoises présentes en France. Voici la cartographie réelle des réseaux SAV en 2026.</p>
+
+<h2>Les réseaux par marque</h2>
+<ul>
+  <li><strong>MG Motor</strong> : c'est le mieux loti, avec environ 150 points de vente et de service en France en 2026. C'est ce maillage qui explique en grande partie le succès de la marque : on trouve un atelier MG sans grande difficulté.</li>
+  <li><strong>BYD</strong> : un réseau plus limité, autour de 80 points en 2026, en cours d'expansion. Suffisant dans les grandes agglomérations, plus tendu en zone rurale.</li>
+  <li><strong>NIO et XPeng</strong> : encore peu présents en dehors des grandes métropoles. Pour ces marques, l'accès au SAV peut imposer des trajets, un point à vérifier impérativement selon votre lieu de résidence.</li>
+  <li><strong>Leapmotor</strong> : grâce à son alliance avec Stellantis, la marque s'appuie sur un réseau potentiellement immense (les concessions du groupe), un atout que nous détaillons dans <a href="/actualites/leapmotor-alliance-stellantis-sav-europe">notre article sur l'alliance Leapmotor-Stellantis</a>.</li>
+</ul>
+
+<h2>Qui répare concrètement ces voitures ?</h2>
+<p>Derrière les marques, ce sont souvent de grands groupes de distribution français qui opèrent les concessions et les ateliers : des acteurs comme Faurie, Jean Rouyer Automobiles ou des distributeurs spécialisés (type EMGroup) ont pris des panneaux chinois. C'est une bonne nouvelle : ces professionnels expérimentés apportent un savoir-faire et une organisation rodés au service après-vente.</p>
+
+<h2>Les points à vérifier avant d'acheter</h2>
+<ul>
+  <li><strong>La distance au point SAV le plus proche</strong> : un atelier à 15 minutes ou à 1h30 ne donne pas la même tranquillité.</li>
+  <li><strong>Les délais de prise en charge</strong> : sur les marques à réseau jeune, les délais de rendez-vous et d'approvisionnement en pièces peuvent être plus longs.</li>
+  <li><strong>La disponibilité des pièces détachées</strong> : un sujet à part entière, que nous traitons dans <a href="/actualites/prix-pieces-detachees-mg-vs-renault-apres-vente">notre comparatif des prix des pièces MG vs Renault</a>.</li>
+  <li><strong>Les véhicules de courtoisie</strong> et la qualité de l'accueil, variables selon les groupes.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Le SAV reste le critère qui sépare le plus nettement les marques chinoises en France. <strong>MG</strong>, avec environ 150 points, offre une tranquillité comparable à celle d'une marque généraliste établie. <strong>BYD</strong> progresse vite mais reste plus dense en ville. <strong>NIO et XPeng</strong> demandent une vraie vigilance hors des grandes métropoles, tandis que <strong>Leapmotor</strong> profite du réseau Stellantis. Notre conseil : avant de signer, repérez précisément le point SAV le plus proche de chez vous et renseignez-vous sur ses délais. Un excellent prix d'achat ne vaut rien si la moindre réparation devient un casse-tête.</p>
+`,
   },
   {
     slug: 'prix-pieces-detachees-mg-vs-renault-apres-vente',
