@@ -365,7 +365,7 @@ export const articles: ArticleSeed[] = [
   <li><strong>MG ZS Hybrid+</strong> : chaîne hybride d'environ 194 ch combinés, associant un bloc essence 1,5 L (102 ch) et un moteur électrique de 136 ch. 0 à 100 km/h en environ 8,7 s, consommation homologuée autour de 5,1 L/100 km.</li>
   <li><strong>Omoda 5 SHS-H</strong> : système hybride plus puissant, autour de 224 ch combinés, pour une consommation homologuée voisine (environ 5,3 L/100 km).</li>
 </ul>
-<p>Sur le papier, l'Omoda affiche plus de puissance ; le MG répond par une consommation légèrement meilleure et un démarrage vif en ville, là où son moteur électrique de 136 ch fait merveille. Attention toutefois : comme nous l'avons documenté par ailleurs, la chaîne hybride du ZS peut connaître des creux de puissance en côte d'autoroute sur sa calibration d'origine — un point à vérifier (mise à jour logicielle PD052) selon votre usage.</p>
+<p>Sur le papier, l'Omoda affiche plus de puissance ; le MG répond par une consommation légèrement meilleure et un démarrage vif en ville, là où son moteur électrique de 136 ch fait merveille. Attention toutefois : comme nous l'avons détaillé dans <a href="/actualites/mg-zs-hybrid-plus-perte-de-puissance-cause-solution">notre analyse de la perte de puissance du MG ZS Hybrid+</a>, sa chaîne hybride peut connaître des creux de puissance en côte d'autoroute sur sa calibration d'origine — un point à vérifier (mise à jour logicielle PD052) selon votre usage.</p>
 
 <h2>Habitabilité et présentation intérieure</h2>
 <p>Le MG ZS marque des points sur l'habitabilité : son gabarit est exploité de façon généreuse, avec un bon espace aux places arrière et un coffre pratique. L'Omoda 5 réplique avec une présentation intérieure plus moderne et plus technologique, mais une habitabilité parfois en retrait à cause de sa ligne de toit plongeante. Là encore : praticité contre style.</p>
@@ -2019,4 +2019,42 @@ export function formatArticleDate(iso: string): string {
     month: 'long',
     year: 'numeric',
   });
+}
+
+/**
+ * Marques/constructeurs détectables dans les slugs, pour le maillage interne.
+ * Sert à rapprocher les articles partageant une même marque.
+ */
+const BRAND_TOKENS = [
+  'byd', 'mg', 'mg3', 'mg4', 'mg5', 'chery', 'geely', 'gwm', 'ora', 'wey',
+  'zeekr', 'nio', 'xpeng', 'leapmotor', 'xiaomi', 'omoda', 'jaecoo', 'hongqi',
+  'avatr', 'hiphi', 'maxus', 'lynk', 'seres', 'voyah', 'tesla', 'volvo',
+];
+
+function brandTokens(slug: string): string[] {
+  const segments = slug.split('-');
+  return BRAND_TOKENS.filter((token) =>
+    segments.some((seg) => seg === token || seg.startsWith(token)),
+  );
+}
+
+/**
+ * Sélectionne les articles les plus pertinents à proposer en lien depuis
+ * un article donné (maillage interne). Score : marque commune (poids fort),
+ * puis catégorie commune, avec repli sur les articles les plus récents.
+ */
+export function getRelatedArticles(current: ArticleSeed, limit = 3): ArticleSeed[] {
+  const currentBrands = brandTokens(current.slug);
+
+  return articles
+    .filter((a) => a.slug !== current.slug)
+    .map((a) => {
+      const sharedBrands = brandTokens(a.slug).filter((b) => currentBrands.includes(b));
+      let score = sharedBrands.length * 3;
+      if (a.categorySlug === current.categorySlug) score += 2;
+      return { article: a, score, time: new Date(a.publishedAt).getTime() };
+    })
+    .sort((x, y) => y.score - x.score || y.time - x.time)
+    .slice(0, limit)
+    .map((entry) => entry.article);
 }

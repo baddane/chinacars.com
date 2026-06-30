@@ -3,7 +3,8 @@ import Image from 'next/image';
 import { notFound } from 'next/navigation';
 import Breadcrumb from '@/src/components/layout/Breadcrumb';
 import JsonLd from '@/src/components/seo/JsonLd';
-import { articles, formatArticleDate, type ArticleSeed } from '@/src/data/articles';
+import { articles, formatArticleDate, getRelatedArticles, type ArticleSeed } from '@/src/data/articles';
+import RelatedArticles from '@/src/components/articles/RelatedArticles';
 import { newsArticleSchema, breadcrumbSchema } from '@/src/lib/seo/schemas';
 import { truncateDescription } from '@/src/lib/seo/metadata';
 import { resolveArticleImage } from '@/src/lib/images';
@@ -50,6 +51,7 @@ export default function ArticlePage({ params }: PageProps) {
   const article = findArticle(params.slug);
   if (!article) notFound();
   const imageSrc = resolveArticleImage(article.image, article.slug, article.categorySlug);
+  const relatedArticles = getRelatedArticles(article);
 
   return (
     <article className="bg-white pt-32 pb-24">
@@ -136,6 +138,8 @@ export default function ArticlePage({ params }: PageProps) {
           </div>
         )}
       </div>
+
+      <RelatedArticles articles={relatedArticles} />
     </article>
   );
 }
