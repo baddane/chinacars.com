@@ -832,6 +832,42 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2026-01-13T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le match des grands SUV 7 places</h2>
+<p>Transporter sept personnes sans renoncer à la modernité : c'est la promesse de ces deux grands SUV chinois. Mais ils répondent à la demande avec deux technologies opposées. Le BYD Tang 2026 est un mastodonte 100 % électrique ; le MG S9 est un hybride rechargeable plus accessible. Pour une famille nombreuse, le choix se joue autant sur le mode de propulsion que sur le budget.</p>
+
+<h2>BYD Tang 2026 : le vaisseau électrique</h2>
+<p>Le Tang ne fait pas dans la demi-mesure : 4,87 m de long, 7 places, transmission intégrale et une batterie géante de 108,8 kWh.</p>
+<ul>
+  <li><strong>Autonomie</strong> : environ 530 km WLTP avec le grand pack (des versions à batterie plus petite descendent vers 460 km).</li>
+  <li><strong>Performances</strong> : jusqu'à 380 kW, 0 à 100 km/h en 4,9 s.</li>
+  <li><strong>Recharge</strong> : jusqu'à 170 kW en courant continu, soit 80 % en moins de 30 minutes.</li>
+  <li><strong>Garanties</strong> : 6 ans/150 000 km véhicule, 8 ans/200 000 km batterie, 5 étoiles Euro NCAP.</li>
+</ul>
+<p>C'est un SUV familial premium, puissant et rassurant, mais lourd et au tarif conséquent.</p>
+
+<h2>MG S9 PHEV : le pragmatique hybride</h2>
+<p>Le MG S9 prend le contre-pied avec une chaîne hybride rechargeable. Encore plus long (4,98 m), il propose lui aussi 7 places :</p>
+<ul>
+  <li><strong>Motorisation</strong> : 1,5 L turbo (143 ch) + moteur électrique de 231 ch, pour 272 ch combinés.</li>
+  <li><strong>Batterie</strong> : 24,7 kWh offrant environ 100 km d'autonomie électrique WLTP — assez pour la plupart des trajets quotidiens en mode zéro émission.</li>
+  <li><strong>Polyvalence</strong> : au-delà de l'autonomie électrique, le bloc essence prend le relais sans aucune contrainte de recharge sur les longs trajets.</li>
+  <li><strong>Coffre</strong> : plus de 1 000 litres sièges rabattus, 332 litres avec sept à bord.</li>
+</ul>
+
+<h2>Le prix : un écart décisif</h2>
+<p>Voilà le point qui tranche le match. Le MG S9 PHEV démarre autour de <strong>39 990 €</strong>, là où le BYD Tang électrique se situe nettement plus haut. Pour une famille qui veut 7 vraies places, une centaine de kilomètres en électrique au quotidien et la liberté de partir loin sans planifier de recharge, le MG S9 offre un rapport prix/usage redoutable.</p>
+<p>Le BYD Tang, lui, justifie son surcoût par le 100 % électrique, une puissance supérieure, une grande autonomie zéro émission et des garanties généreuses.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>BYD Tang 2026</strong> : pour qui veut basculer totalement à l'électrique, dispose d'une solution de recharge et privilégie la puissance et le statut.</li>
+  <li><strong>MG S9 PHEV</strong> : pour la famille pragmatique qui veut 7 places, des trajets quotidiens électriques et zéro angoisse d'autonomie, au meilleur prix.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Le <strong>BYD Tang</strong> est techniquement le plus impressionnant : c'est un grand SUV électrique abouti et bien garanti. Mais pour l'immense majorité des familles, le <strong>MG S9 PHEV</strong> est le choix le plus malin : presque aussi spacieux, sans contrainte de recharge sur longue distance, et bien moins cher. À moins de tenir absolument au tout-électrique, le MG S9 remporte ce match des 7 places sur le terrain qui compte le plus : le rapport usage/prix.</p>
+`,
   },
   {
     slug: 'xiaomi-su7-vs-xpeng-p7i-interface-logicielle',
@@ -844,6 +880,32 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2026-01-06T09:00:00+01:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le logiciel, nouveau champ de bataille</h2>
+<p>Dans la voiture moderne, le moteur ne fait plus la différence : c'est le logiciel. L'écran central, la fluidité de l'interface, l'intelligence vocale et les mises à jour à distance déterminent désormais l'expérience au quotidien. Sur ce terrain, deux écoles chinoises s'affrontent. Xiaomi, géant du smartphone qui applique son savoir-faire à l'automobile avec HyperOS. Et XPeng, pionnier de la conduite assistée, dont le Xmart OS mise sur l'intelligence embarquée. Lequel offre l'expérience la plus fluide ?</p>
+
+<h2>Xiaomi SU7 : l'écosystème avant tout</h2>
+<p>La SU7 bénéficie de l'atout maître de Xiaomi : un écosystème mondial de smartphones et d'objets connectés. Son interface s'appuie sur :</p>
+<ul>
+  <li>Un écran central de 16,1 pouces en définition 3K, animé par une puce Qualcomm Snapdragon 8295.</li>
+  <li><strong>HyperOS</strong>, un système dérivé d'Android, pensé pour fonctionner comme un smartphone géant : recopie des applications mobiles, continuité entre le téléphone, la maison connectée et la voiture, collaboration multi-écrans.</li>
+</ul>
+<p>Pour un utilisateur déjà équipé en produits Xiaomi, l'intégration est bluffante : la voiture devient un prolongement naturel de l'écosystème. De nombreux observateurs considèrent HyperOS comme l'une des meilleures interfaces du marché, seul HarmonyOS de Huawei pouvant réellement rivaliser.</p>
+
+<h2>XPeng P7i : l'intelligence au volant</h2>
+<p>XPeng aborde le logiciel par un autre angle : non pas l'écosystème grand public, mais l'intelligence de conduite. Le Xmart OS du P7i propose une interface 3D soignée et s'appuie sur une puissante base matérielle (puces Qualcomm 8295P sur les versions récentes). Surtout, XPeng est reconnu comme l'un des leaders mondiaux des systèmes d'aide à la conduite, avec une intégration logicielle pensée pour l'autonomie et des mises à jour régulières qui font évoluer la voiture dans le temps.</p>
+<p>Là où Xiaomi excelle dans la connectivité « lifestyle », XPeng brille dans l'intelligence embarquée et la conduite assistée.</p>
+
+<h2>Deux fluidités, deux usages</h2>
+<p>La « fluidité » ne signifie pas la même chose pour les deux :</p>
+<ul>
+  <li>Chez <strong>Xiaomi</strong>, c'est la fluidité de l'expérience numérique : navigation dans les menus aussi rapide qu'un smartphone, applications familières, intégration des objets connectés.</li>
+  <li>Chez <strong>XPeng</strong>, c'est la fluidité de l'intelligence : assistance à la conduite avancée, réactions du système, évolutivité par mises à jour.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Si votre priorité est l'<strong>expérience numérique au quotidien</strong> — un cockpit qui réagit comme votre téléphone et dialogue avec votre maison connectée — la <strong>Xiaomi SU7</strong> et son HyperOS sont difficiles à battre, surtout dans l'écosystème Xiaomi. Si vous accordez plus d'importance à l'<strong>intelligence de conduite</strong> et à une voiture qui progresse au fil des mises à jour, le <strong>XPeng P7i</strong> a l'avantage de l'expérience et de la maturité sur l'assistance. Xiaomi gagne le salon connecté ; XPeng gagne la route intelligente. Le système « le plus fluide » dépend donc de ce que vous attendez vraiment d'une voiture logicielle.</p>
+`,
   },
   {
     slug: 'leapmotor-c11-vs-byd-seal-u-suv-familial-prix',
@@ -856,6 +918,35 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-12-22T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux SUV familiaux, une obsession : le rapport qualité-prix</h2>
+<p>Le Leapmotor C11 et le BYD Seal U se disputent la même clientèle : les familles qui veulent un grand SUV bien équipé sans payer le prix des marques premium. Tous deux mesurent environ 4,75 m, offrent un habitacle généreux et une dotation technologique riche. Mais leurs approches diffèrent, notamment sur un point clé : la flexibilité des motorisations.</p>
+
+<h2>Gabarit et habitabilité</h2>
+<p>Le Leapmotor C11 (environ 4,75 m) et le BYD Seal U (environ 4,77 m, empattement de 2,76 m) jouent dans la même cour. Les deux offrent un bon espace aux cinq places et un coffre exploitable (de l'ordre de 400 à 500 litres selon les configurations). Match nul sur l'habitabilité : ce sont de vrais SUV familiaux.</p>
+
+<h2>Motorisations : la grande différence</h2>
+<p>C'est ici que les deux se séparent.</p>
+<ul>
+  <li><strong>Leapmotor C11</strong> : proposé en 100 % électrique, avec sur les versions hautes une architecture 800V permettant une recharge de 30 à 80 % en environ 22 minutes — un vrai atout sur longs trajets.</li>
+  <li><strong>BYD Seal U</strong> : décliné à la fois en électrique (moteur de 218 ch, batteries de 71,8 ou 87 kWh pour 420 à 500 km) et en <strong>hybride rechargeable DM-i</strong> (1,5 L essence + électrique, batterie de 18,3 kWh pour ~80 km électriques, ou 26,6 kWh pour ~125 km). Cette double offre est un argument fort : l'acheteur choisit entre le tout-électrique et la souplesse du PHEV.</li>
+</ul>
+
+<h2>Technologie embarquée</h2>
+<p>Le Leapmotor C11 soigne sa dotation : grand écran central de 14,6 pouces, instrumentation numérique, puce Qualcomm Snapdragon 8295P pour une interface fluide, et sur les versions hautes un capteur lidar et jusqu'à 12 caméras pour des aides à la conduite avancées. Le BYD Seal U répond avec ses deux écrans (instrumentation 12,3" et un central 15,6" rotatif, signature de la marque) et l'écosystème BYD. Avantage techno « brute » au Leapmotor sur le lidar et l'ADAS ; avantage écosystème et fiabilité de série au BYD.</p>
+
+<h2>Prix</h2>
+<p>Les deux se tiennent dans un mouchoir. Le BYD Seal U PHEV démarre autour de 39 800 € et la version électrique vers 43 600 €. Le Leapmotor se positionne de façon agressive, souvent légèrement sous le BYD à équipement comparable. À ce niveau, le choix se fait moins sur le tarif que sur la motorisation souhaitée.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>Leapmotor C11</strong> : pour qui veut le tout-électrique, une recharge rapide (800V) et une dotation techno généreuse (lidar, ADAS) au meilleur prix.</li>
+  <li><strong>BYD Seal U</strong> : pour qui veut le choix entre électrique et hybride rechargeable, et la solidité de l'écosystème BYD.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Si vous êtes décidé pour le 100 % électrique, le <strong>Leapmotor C11</strong> offre un contenu technologique impressionnant et une recharge rapide pour un tarif plancher : excellent rapport prestations-prix. Mais si vous hésitez encore à franchir le pas du tout-électrique, le <strong>BYD Seal U</strong> et sa version DM-i hybride rechargeable apportent une flexibilité que le Leapmotor n'a pas — la possibilité de rouler électrique au quotidien tout en partant loin sans contrainte. Le meilleur rapport prix-prestations dépend donc de votre rapport à la recharge : Leapmotor pour les convaincus de l'électrique, Seal U pour les prudents.</p>
+`,
   },
   {
     slug: 'seres-5-vs-voyah-free-outsiders-chinois',
@@ -868,6 +959,32 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-12-15T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Les outsiders chinois qui veulent percer</h2>
+<p>Derrière les noms désormais connus — BYD, MG, Zeekr — avance une seconde vague de marques chinoises aux ambitions immenses mais à la notoriété encore confidentielle. Seres et Voyah en font partie. Toutes deux proposent de grands SUV haut de gamme, souvent en technologie à autonomie prolongée (un moteur thermique servant uniquement de générateur), pour séduire une clientèle premium en quête d'alternatives. Le Seres 5 et le Voyah Free incarnent ce pari audacieux. Lequel a le plus d'arguments pour percer ?</p>
+
+<h2>Performances : avantage Seres</h2>
+<ul>
+  <li><strong>Seres 5</strong> : environ 585 ch, 940 Nm de couple, 0 à 100 km/h en 4,1 s.</li>
+  <li><strong>Voyah Free</strong> : environ 490 ch, 720 Nm, 0 à 100 km/h en 4,4 s.</li>
+</ul>
+<p>Le Seres 5 est le plus musclé des deux, avec un couple nettement supérieur qui se traduit par des reprises plus franches. Mais les deux offrent des performances largement suffisantes pour le segment.</p>
+
+<h2>Autonomie et efficience</h2>
+<p>Le Voyah Free prend sa revanche sur l'autonomie : jusqu'à environ 500 km en électrique, soit près de 70 km de plus que le Seres 5 (environ 430 km). En revanche, le Seres 5 est plus sobre, avec une consommation d'environ 18,6 kWh/100 km contre 20,2 kWh/100 km pour le Voyah. Match partagé : plus d'autonomie chez Voyah, plus d'efficience chez Seres.</p>
+
+<h2>Praticité et habitabilité</h2>
+<p>Le Voyah Free se montre nettement plus pratique au quotidien : coffre d'environ 560 litres contre 367 pour le Seres 5, poids contenu (2 150 kg contre 2 360 kg) et une capacité de charge utile bien supérieure (605 kg contre 375 kg). Pour une famille ou un usage chargé, le Voyah a un avantage concret.</p>
+
+<h2>Prix</h2>
+<p>Le Voyah Free démarre autour de 60 000 €, le Seres 5 autour de 65 000 €. Le Voyah est donc à la fois moins cher, plus autonome et plus pratique — tandis que le Seres mise sur la performance et l'efficience pour justifier son positionnement.</p>
+
+<h2>Le vrai défi : la notoriété et le réseau</h2>
+<p>Au-delà des chiffres, ces deux marques affrontent le même obstacle : se faire connaître et bâtir un réseau de distribution et de SAV fiable. C'est là, plus que sur la fiche technique, que se jouera leur succès. Un grand SUV à 60 000 € d'une marque inconnue représente un pari pour l'acheteur, qui devra s'assurer de la disponibilité des pièces et de la qualité du service après-vente sur son territoire.</p>
+
+<h2>Verdict</h2>
+<p>Sur le pur produit, le <strong>Voyah Free</strong> est le plus convaincant des deux outsiders : moins cher, plus autonome, plus pratique et plus polyvalent. Le <strong>Seres 5</strong> séduira les amateurs de performance et d'efficience, mais son tarif plus élevé et son habitabilité en retrait le pénalisent. Reste l'inconnue commune : pour ces marques émergentes, la vraie bataille n'est pas technique mais commerciale. Avant de craquer, vérifiez impérativement la présence d'un réseau près de chez vous — c'est ce qui transformera ces outsiders prometteurs en achats sereins.</p>
+`,
   },
   {
     slug: 'mg5-vs-byd-han-break-vs-berline',
@@ -880,6 +997,41 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-12-08T09:00:00+01:00',
     readingTime: 6,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Break pratique ou berline statutaire ?</h2>
+<p>Voici un comparatif qui n'oppose pas seulement deux voitures, mais deux personnalités d'acheteur. La MG5 est l'un des rares breaks 100 % électriques du marché : sobre, pratique, abordable. La BYD Han est une berline premium puissante et statutaire, vitrine technologique de BYD. Entre l'utilitaire familial malin et la limousine électrique, lequel vous ressemble ?</p>
+
+<h2>MG5 : le break qui pense à tout</h2>
+<p>La MG5 a un mérite rare : c'est un vrai break électrique, format quasi disparu sur ce marché.</p>
+<ul>
+  <li><strong>Motorisation</strong> : 184 ch (135 kW), 280 Nm.</li>
+  <li><strong>Batterie</strong> : 50,3 kWh (jusqu'à 320 km WLTP) ou 61,1 kWh (jusqu'à 400 km).</li>
+  <li><strong>Recharge</strong> : la version 61,1 kWh accepte 87 kW en courant continu, soit un 0-80 % en environ 40 minutes.</li>
+  <li><strong>Dimensions</strong> : 4,60 m, avec un vrai coffre de break.</li>
+  <li><strong>Prix</strong> : à partir d'environ 34 490 € avant bonus.</li>
+</ul>
+<p>C'est une voiture rationnelle, pensée pour la famille, les bagages et le quotidien, à un tarif contenu.</p>
+
+<h2>BYD Han : la berline qui impose le respect</h2>
+<p>La Han joue dans une tout autre catégorie. Berline premium de près de 5 m, elle revendique :</p>
+<ul>
+  <li><strong>Motorisation</strong> : deux moteurs synchrones pour 517 ch (380 kW) et 700 Nm, 0 à 100 km/h en 3,9 s, vitesse maximale 180 km/h.</li>
+  <li><strong>Batterie</strong> : 85,4 kWh LFP Blade pour 521 km WLTP (jusqu'à 662 km en usage urbain), consommation d'environ 18,5 kWh/100 km, recharge 30-80 % en environ 30 minutes.</li>
+  <li><strong>Équipement</strong> : grand écran tactile rotatif de 15,6", système audio Dynaudio, finition soignée.</li>
+  <li><strong>Prix</strong> : à partir d'environ 72 000 € en finition Executive.</li>
+</ul>
+<p>C'est une voiture de standing, performante et confortable, qui affiche une réussite sociale.</p>
+
+<h2>Deux usages, deux budgets</h2>
+<p>L'écart de prix (du simple à plus du double) résume tout. La MG5 et la BYD Han ne s'adressent pas au même acheteur :</p>
+<ul>
+  <li>La <strong>MG5</strong> vise l'efficacité : une électrique familiale, polyvalente, économique à l'achat comme à l'usage.</li>
+  <li>La <strong>BYD Han</strong> vise le statut et la performance : une berline premium pour qui veut rouler vite, confortablement et avec prestance.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Il n'y a pas de gagnant absolu, seulement deux philosophies. Si vous cherchez la voiture la plus utile et la plus rationnelle pour votre argent, la <strong>MG5</strong> est un choix presque unique sur le marché — un break électrique abordable, c'est rare et précieux. Si vous voulez une électrique qui en impose, puissante et raffinée, et que le budget le permet, la <strong>BYD Han</strong> offre un niveau de prestation premium à un tarif qui reste inférieur aux références allemandes. Le cœur pratique penchera pour la MG5 ; le cœur statutaire, pour la Han. À vous de savoir lequel bat le plus fort.</p>
+`,
   },
 
   // --- Défis aux Européennes (articles.md #21-40) ---
