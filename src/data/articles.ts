@@ -1616,6 +1616,35 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-08-18T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le SUV urbain électrique le plus rationnel</h2>
+<p>Le SUV urbain électrique doit cocher des cases très concrètes : assez d'autonomie pour ne pas stresser, un prix raisonnable, et un usage quotidien sans accroc. Le MG ZS EV et le Peugeot e-2008 incarnent deux réponses à ce cahier des charges : l'efficacité chinoise contre le savoir-faire français. Lequel est le choix le plus rationnel ?</p>
+
+<h2>Autonomie : l'avantage MG</h2>
+<ul>
+  <li><strong>MG ZS EV Long Range</strong> : environ 440 km WLTP, pour 143 ch et 260 Nm.</li>
+  <li><strong>Peugeot e-2008</strong> : environ 328 à 406 km WLTP selon la batterie, pour 134 ch.</li>
+</ul>
+<p>Le MG offre plus d'autonomie et un peu plus de puissance, ce qui le rend plus serein sur les trajets un peu plus longs. Pour un SUV urbain censé aussi s'aventurer sur voie rapide, c'est un vrai atout.</p>
+
+<h2>Efficience : Peugeot reprend la main</h2>
+<p>Le e-2008 est plus sobre, avec une consommation homologuée d'environ 14,5 kWh/100 km contre 17,7 pour le MG ZS EV. Sur la facture d'électricité à l'année, le Peugeot est donc plus économe — un point à pondérer selon votre kilométrage.</p>
+
+<h2>Conduite et finition</h2>
+<p>Le Peugeot e-2008 marque des points sur l'agrément et la qualité perçue : son i-Cockpit, sa finition soignée et son comportement routier plus flatteur séduisent les amateurs de conduite. Le MG ZS EV, plus pragmatique, privilégie l'espace, la simplicité et le rapport prix/équipement. Pour situer le MG ZS dans sa déclinaison hybride face à un autre rival abordable, voir <a href="/actualites/mg-zs-hybrid-vs-dacia-duster-hybrid-low-cost">MG ZS Hybrid+ vs Dacia Duster Hybrid</a>.</p>
+
+<h2>Le prix : l'argument décisif du MG</h2>
+<p>C'est là que la rationalité penche nettement. Le MG ZS EV démarre autour de 25 500 €, là où le Peugeot e-2008 en finition haute dépasse les 34 000 €. Près de 9 000 € d'écart, en faveur du MG, qui offre en prime plus d'autonomie. Pour l'acheteur qui raisonne en euros par kilomètre, le calcul est vite fait.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>MG ZS EV</strong> : pour qui veut un maximum d'autonomie et d'espace au meilleur prix, sans se soucier du superflu.</li>
+  <li><strong>Peugeot e-2008</strong> : pour qui privilégie l'efficience, l'agrément de conduite et la finition d'une marque française.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Le Peugeot e-2008 est le plus séduisant à conduire et le plus sobre, des qualités réelles pour qui y est sensible. Mais sur le critère du « SUV urbain le plus rationnel », le <strong>MG ZS EV s'impose</strong> : plus d'autonomie, plus d'espace, et surtout un prix bien plus doux. Pour le plaisir et l'efficience : e-2008. Pour le portefeuille et la polyvalence : ZS EV. Et quand on parle de rationalité, c'est généralement le portefeuille qui tranche.</p>
+`,
   },
   {
     slug: 'byd-seagull-vs-citroen-ec3-guerre-petites-electriques',
@@ -1628,6 +1657,29 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-08-11T09:00:00+02:00',
     readingTime: 6,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>La guerre des petites électriques est lancée</h2>
+<p>Le segment de la citadine électrique abordable est devenu un champ de bataille. Le BYD Seagull (commercialisé en Europe sous le nom Dolphin Surf) affronte la Citroën ë-C3, fer de lance du renouveau électrique accessible de la marque aux chevrons. Deux philosophies, un même objectif : démocratiser l'électrique sous les 22 000 €. Qui fabrique la meilleure petite électrique ?</p>
+
+<h2>Motorisation et autonomie</h2>
+<ul>
+  <li><strong>BYD Dolphin Surf (Seagull) Comfort</strong> : moteur de 156 ch, 220 Nm, batterie de 43,2 kWh pour 310 km WLTP (jusqu'à 460 km en cycle urbain), consommation de 16 kWh/100 km.</li>
+  <li><strong>Citroën ë-C3</strong> : 113 ch, 120 Nm, batterie de 44 kWh pour 326 km WLTP, consommation de 17,4 kWh/100 km.</li>
+</ul>
+<p>Le BYD est plus puissant et un peu plus efficient ; la Citroën affiche une autonomie homologuée très voisine. Sur la performance pure, avantage BYD.</p>
+
+<h2>Recharge : la Citroën plus rapide</h2>
+<p>La Citroën ë-C3 accepte jusqu'à 100 kW en courant continu (10-80 % en environ 25 minutes), contre 85 kW pour le BYD (30 minutes). Sur les trajets plus longs, la française reprend un léger avantage. Pour situer le Seagull face à une autre micro-citadine chinoise, voir <a href="/actualites/leapmotor-t03-vs-byd-seagull-micro-citadines">Leapmotor T03 vs BYD Seagull</a>.</p>
+
+<h2>Qualité perçue et vie à bord</h2>
+<p>La Citroën ë-C3 marque des points sur la qualité perçue, l'intérieur pratique et le confort de conduite — l'ADN « confort » de la marque. Le BYD réplique avec une dotation de série plus riche et, surtout, une garantie de 6 ans contre 3 ans pour la Citroën : un argument de sérénité non négligeable sur la durée.</p>
+
+<h2>Prix</h2>
+<p>Les deux se tiennent dans un mouchoir : la Citroën ë-C3 démarre autour de 21 200 €, le BYD Dolphin Surf autour de 21 990 € (aides déduites selon les conditions). L'écart de tarif est minime ; le choix se fait sur les priorités.</p>
+
+<h2>Verdict</h2>
+<p>C'est un match très serré. La <strong>Citroën ë-C3</strong> séduit par sa qualité perçue, son confort, son intérieur pratique et sa recharge plus rapide — un excellent choix pour qui valorise l'agrément et l'image d'une marque française. Le <strong>BYD Dolphin Surf (Seagull)</strong> riposte avec plus de puissance, une meilleure efficience, une dotation plus généreuse et une garantie deux fois plus longue. Pour le confort et la marque : ë-C3. Pour le contenu et la tranquillité longue durée : Seagull. La guerre des petites électriques ne fait que commencer, et c'est l'acheteur qui gagne.</p>
+`,
   },
   {
     slug: 'zeekr-x-vs-audi-q4-etron-style-sobriete',
@@ -1640,6 +1692,35 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-08-04T09:00:00+02:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le style face à la sobriété</h2>
+<p>Sur le segment des SUV compacts électriques premium, deux écoles s'affrontent. Le Zeekr X assume un design audacieux et une personnalité affirmée, là où l'Audi Q4 e-tron cultive la sobriété élégante et le prestige de l'anneau. L'un veut se faire remarquer, l'autre rassurer. Mais derrière le style, c'est aussi une question de contenu et de prix.</p>
+
+<h2>Performances et autonomie</h2>
+<ul>
+  <li><strong>Audi Q4 e-tron (2026)</strong> : du mono-moteur propulsion (150 kW / 350 Nm) au bi-moteur (250 kW), avec deux batteries — 63 kWh (jusqu'à 451 km) et 82 kWh (jusqu'à 578 km). Recharge portée à 185 kW (10-80 % en 27 minutes).</li>
+  <li><strong>Zeekr X</strong> : versions propulsion et intégrale bien dotées, avec une recharge rapide performante et une autonomie compétitive (jusqu'à environ 540 km en propulsion).</li>
+</ul>
+<p>L'Audi prend l'avantage sur l'autonomie maximale (578 km), le Zeekr sur le rapport équipement/prix. Pour le comparer à son cousin de plateforme, voir <a href="/actualites/zeekr-x-vs-volvo-ex30-cousins-chinois">Zeekr X vs Volvo EX30</a>.</p>
+
+<h2>Design et personnalité</h2>
+<p>Le Zeekr X ne passe pas inaperçu : lignes tendues, face avant expressive, ambiance intérieure travaillée et originale. L'Audi Q4 e-tron, fidèle à la marque, joue la carte de la retenue élégante et de la cohérence stylistique. C'est un choix de tempérament : l'audace du Zeekr contre la discrétion premium de l'Audi.</p>
+
+<h2>Sécurité et finition</h2>
+<p>Le Zeekr X a marqué les esprits en s'illustrant parmi les véhicules électriques les mieux notés aux crash-tests Euro NCAP, balayant l'idée d'une moindre robustesse. L'Audi répond par une qualité de fabrication éprouvée et la réputation de sérieux de la marque. Sur la sécurité comme sur la finition, les deux jouent à très haut niveau.</p>
+
+<h2>Le prix : l'écart qui pèse</h2>
+<p>C'est l'argument massue du Zeekr. Là où l'Audi Q4 e-tron démarre autour de 47 500 € en Europe (et grimpe vite avec les options), le Zeekr X se positionne nettement en dessous à équipement comparable. Pour un acheteur qui regarde le contenu plutôt que le blason, l'économie est substantielle.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>Zeekr X</strong> : pour qui veut du style, une dotation généreuse et une sécurité de pointe, sans payer le premium de marque.</li>
+  <li><strong>Audi Q4 e-tron</strong> : pour qui privilégie l'autonomie maximale, la sobriété élégante et le prestige de l'anneau.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>L'<strong>Audi Q4 e-tron</strong> reste un choix premium solide : autonomie supérieure, finition sérieuse et image rassurante. Mais le <strong>Zeekr X</strong> propose plus de caractère, une sécurité exemplaire et un bien meilleur rapport contenu/prix. Pour le prestige et l'autonomie : Q4 e-tron. Pour le style, la sécurité et la valeur : Zeekr X. Le challenger chinois ne se contente plus d'imiter le premium — il le défie sur son propre terrain, avec un atout prix décisif.</p>
+`,
   },
   {
     slug: 'lynk-co-02-vs-renault-megane-e-tech-crossover-compacte',
@@ -1652,6 +1733,35 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-07-28T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le crossover contre la compacte</h2>
+<p>Sous les 40 000 €, le segment des électriques compactes est l'un des plus disputés d'Europe. Le Lynk & Co 02, crossover-coupé richement équipé, y affronte la Renault Mégane E-Tech, compacte électrique de référence et symbole du renouveau de la marque au losange. Deux carrosseries, deux approches : laquelle convient le mieux au quotidien ?</p>
+
+<h2>Motorisation et performances</h2>
+<ul>
+  <li><strong>Lynk & Co 02</strong> : moteur de 272 ch (200 kW), 323 Nm, 0 à 100 km/h en 5,5 s. Batterie NMC de 66 kWh pour 435 à 445 km WLTP.</li>
+  <li><strong>Renault Mégane E-Tech</strong> : de 130 ch (batterie 40 kWh) à 220 ch (batterie 60 kWh, EV60), cette dernière offrant jusqu'à 470 km WLTP.</li>
+</ul>
+<p>Le Lynk & Co est nettement plus puissant (272 ch contre 220 pour la Mégane la mieux motorisée) et plus vif. La Mégane reprend l'avantage sur l'autonomie maximale (470 km contre 445).</p>
+
+<h2>Recharge</h2>
+<p>Le Lynk & Co 02 accepte jusqu'à 150 kW en courant continu (10-80 % en environ 30 minutes), un bon niveau pour le segment. La Mégane se défend également bien. Match assez équilibré sur la recharge rapide.</p>
+
+<h2>Style et positionnement</h2>
+<p>Le Lynk & Co 02 adopte un style de crossover-coupé moderne et une dotation très généreuse, dans l'esprit « tout inclus » de la marque — qui propose aussi des formules d'abonnement flexibles, comme nous l'expliquons dans <a href="/actualites/lynk-co-01-vs-mg-ehs-hybride-rechargeable-partage">Lynk & Co 01 vs MG EHS</a>. La Mégane E-Tech, plus classique dans son format de compacte surélevée, mise sur l'agrément de conduite, la finition française et un réseau dense.</p>
+
+<h2>Équipement</h2>
+<p>C'est un point fort du Lynk & Co : ses finitions Core (à partir d'environ 35 995 €) et More (environ 39 995 €) arrivent très complètes, avec une dotation technologique riche de série. La Mégane propose une gamme plus étagée, où les équipements haut de gamme se paient en montant en finition.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>Lynk & Co 02</strong> : pour qui veut de la puissance, un équipement complet de série, un style affirmé et éventuellement la flexibilité de l'abonnement.</li>
+  <li><strong>Renault Mégane E-Tech</strong> : pour qui privilégie l'autonomie, l'agrément de conduite et la sérénité d'une marque française au réseau étendu.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>La <strong>Renault Mégane E-Tech</strong> reste une valeur sûre : autonomie légèrement supérieure, conduite soignée et réseau rassurant. Mais le <strong>Lynk & Co 02</strong> offre plus de puissance, un équipement plus généreux et une approche commerciale innovante, pour un tarif comparable. Pour la tranquillité française : Mégane. Pour le contenu et l'originalité : Lynk & Co 02. À budget égal, le crossover chinois en donne objectivement davantage — à condition d'accepter une marque encore jeune en Europe.</p>
+`,
   },
   {
     slug: 'hongqi-l5-vs-rolls-royce-ghost-ultra-luxe-chinois',
@@ -1664,6 +1774,26 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-07-21T09:00:00+02:00',
     readingTime: 9,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Quand la Chine s'attaque à l'ultra-luxe</h2>
+<p>On a vu les marques chinoises bousculer la citadine, le SUV, la berline premium. Mais l'ultra-luxe, le saint des saints de Rolls-Royce et Bentley ? C'est le pari fou de la Hongqi L5, la limousine d'apparat de l'État chinois, qui ose se mesurer à une référence comme la Rolls-Royce Ghost. Spoiler : ce duel réserve une surprise que personne n'attend.</p>
+
+<h2>La Hongqi L5 : la limousine des milliardaires chinois</h2>
+<p>La L5 est un monument roulant : plus de 5,5 m de long, plus de 3 tonnes, et une présence inspirée des limousines d'État des années 1950. Sous le capot, un V8 de 4,0 litres développant 382 ch (les générations précédentes ont même connu un V12 de 6,0 litres), envoyé aux quatre roues, pour une vitesse de pointe de 220 km/h.</p>
+<p>L'intérieur ne lésine sur rien : triple écran, cuir cousu main, boiseries, toit panoramique, vision nocturne, fonction massage, réfrigérateur. C'est la réponse de la Chine à l'infusion d'ultra-luxe réservée jusqu'ici à l'Occident — un objet de prestige national autant qu'une automobile.</p>
+
+<h2>La surprise : la Chinoise est plus chère que la Rolls</h2>
+<p>Voici le retournement que l'on n'attend pas. La Hongqi L5 démarre autour de <strong>5 000 000 yuans, soit près de 700 000 dollars</strong> — un tarif qui la place <em>au-dessus</em> de la Rolls-Royce Ghost. Contrairement à toute la logique habituelle des marques chinoises (offrir plus pour moins cher), la L5 ne joue pas la carte du prix : elle revendique le statut d'objet ultra-exclusif, produit en très petites séries pour une élite.</p>
+
+<h2>La Rolls-Royce Ghost : la maîtrise absolue</h2>
+<p>Face à elle, la Ghost incarne des décennies d'artisanat : silence de roulement quasi absolu, V12 d'une onctuosité légendaire, finitions exécutées à la main selon des standards inégalés, et surtout une aura de marque que l'argent seul ne peut acheter. La Ghost n'est pas qu'une voiture : c'est l'aboutissement d'une culture du luxe automobile.</p>
+
+<h2>Prestige national contre prestige universel</h2>
+<p>C'est là que tout se joue. La Hongqi L5 possède un prestige immense… en Chine, où elle symbolise le pouvoir et la réussite suprême. Mais hors de ses frontières, elle souffre d'une absence de reconnaissance, d'un réseau confidentiel et d'une valeur de revente incertaine. La Rolls-Royce Ghost, elle, jouit d'un prestige universel, instantanément reconnu et désiré sur tous les continents. Cette différence d'aura est, dans l'ultra-luxe, déterminante. Pour voir comment Hongqi aborde le luxe plus « accessible », lire <a href="/actualites/hongqi-e-hs9-vs-nio-el7-luxe-presidentiel-technologie">Hongqi E-HS9 vs NIO EL7</a>.</p>
+
+<h2>Verdict</h2>
+<p>La Hongqi L5 est une prouesse symbolique : la Chine se dote enfin d'une limousine d'apparat capable de rivaliser, sur le papier et dans l'habitacle, avec les icônes occidentales. Mais s'agit-il d'une réelle concurrente de la <strong>Rolls-Royce Ghost</strong> ? Honnêtement, non — pas encore. Plus chère, sans l'héritage ni la reconnaissance mondiale de Rolls, la <strong>L5</strong> est un objet de prestige national plus qu'un rival universel. Elle prouve que la Chine peut <em>construire</em> de l'ultra-luxe ; il lui faudra des décennies pour en bâtir la <em>légende</em>. Et c'est précisément cette légende que l'on achète avec une Rolls.</p>
+`,
   },
 
   // --- Focus Technologie (articles.md #41-43) ---
