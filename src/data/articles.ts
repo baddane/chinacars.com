@@ -2602,6 +2602,33 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-02-24T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Les championnes chinoises de l'autonomie</h2>
+<p>L'autonomie reste le premier critère d'achat d'une électrique. Bonne nouvelle : les constructeurs chinois figurent désormais parmi les meilleurs élèves du marché. Voici notre classement des 10 voitures chinoises offrant la plus grande autonomie réelle en 2026, de la citadine au grand SUV. Les chiffres cités sont en cycle WLTP (ou précisés en CLTC, plus optimiste).</p>
+
+<h2>Notre Top 10</h2>
+<ol>
+  <li><strong>Zeekr 001</strong> — jusqu'à environ 620 km WLTP. Le break de chasse premium mène le bal grâce à sa batterie de 100 kWh et son architecture 800V (voir <a href="/actualites/zeekr-001-vs-tesla-model-s-silicon-valley-tremble-2026">Zeekr 001 vs Tesla Model S</a>).</li>
+  <li><strong>Xiaomi SU7</strong> — jusqu'à plus de 800 km en cycle CLTC (comptez ~580 km réels), un sommet pour la berline.</li>
+  <li><strong>XPeng G6</strong> (grande batterie) — environ 570 km WLTP, avec une recharge 800V records.</li>
+  <li><strong>BYD Tang</strong> — environ 530 km WLTP pour ce grand SUV 7 places (voir <a href="/actualites/byd-tang-2026-vs-mg-s9-suv-7-places">BYD Tang vs MG S9</a>).</li>
+  <li><strong>BYD Seal</strong> — environ 520 à 570 km WLTP selon la version.</li>
+  <li><strong>BYD Han</strong> — environ 521 km WLTP pour la berline premium.</li>
+  <li><strong>NIO EL6/EL7</strong> — environ 500 à 513 km WLTP, avec en prime l'échange de batterie.</li>
+  <li><strong>Voyah Free</strong> — jusqu'à environ 500 km d'autonomie électrique.</li>
+  <li><strong>Zeekr X</strong> — jusqu'à environ 540 km WLTP en propulsion.</li>
+  <li><strong>Hongqi E-HS9</strong> — environ 465 km WLTP pour le grand SUV de luxe (batterie 99 kWh).</li>
+</ol>
+
+<h2>Comment lire ce classement</h2>
+<p>Deux précautions s'imposent. D'abord, l'autonomie WLTP est une base de comparaison, mais l'autonomie <em>réelle</em> dépend fortement de la vitesse, de la température et du style de conduite : comptez souvent 20 à 30 % de moins sur autoroute en hiver. Ensuite, méfiez-vous des chiffres en cycle CLTC (chinois), plus flatteurs que le WLTP européen : pour comparer équitablement, ramenez-les à environ 80 % de la valeur annoncée.</p>
+
+<h2>L'autonomie n'est pas tout</h2>
+<p>Une grande autonomie compte moins si la recharge est lente : mieux vaut parfois une batterie moyenne qui se recharge en 12 minutes (comme sur les XPeng et Zeekr en 800V) qu'une énorme batterie lente à remplir. Sur les longs trajets, c'est le couple autonomie + vitesse de recharge qui fait la vraie différence.</p>
+
+<h2>Verdict</h2>
+<p>En 2026, les constructeurs chinois trustent le haut du panier de l'autonomie, du break Zeekr 001 aux grands SUV BYD et NIO. Pour un usage quotidien, la plupart de ces modèles offrent une marge confortable ; pour les gros rouleurs, privilégiez ceux qui combinent grande autonomie <em>et</em> recharge rapide 800V. Notre trio de tête (Zeekr 001, Xiaomi SU7, XPeng G6) coche justement les deux cases — la meilleure garantie de sérénité sur la route.</p>
+`,
   },
   {
     slug: 'suv-chinois-famille-3-enfants-quel-choisir',
@@ -2614,6 +2641,35 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-02-17T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Un SUV chinois pour une famille nombreuse</h2>
+<p>Trois enfants, ça change tout : il faut de la place, des points d'ancrage Isofix, un grand coffre, et idéalement sept places pour emmener aussi les copains ou les grands-parents. Les constructeurs chinois proposent justement plusieurs SUV taillés pour les familles nombreuses, à des tarifs souvent bien plus doux que la concurrence. Voici comment choisir.</p>
+
+<h2>Les critères qui comptent vraiment</h2>
+<ul>
+  <li><strong>Le nombre de places</strong> : 5 vraies places suffisent souvent pour 3 enfants, mais 7 places apportent une flexibilité précieuse.</li>
+  <li><strong>Les points Isofix</strong> : vérifiez qu'il y en a assez, et bien espacés (installer trois sièges enfants de front est un vrai casse-tête).</li>
+  <li><strong>Le volume de coffre</strong> : avec une poussette et les bagages de cinq personnes, chaque litre compte.</li>
+  <li><strong>Le budget total</strong> : prix d'achat, mais aussi consommation et entretien sur des trajets familiaux chargés.</li>
+</ul>
+
+<h2>Notre sélection</h2>
+<ul>
+  <li><strong>BYD Tang</strong> : grand SUV électrique 7 places, spacieux et bien garanti. Le choix premium tout-électrique (voir <a href="/actualites/byd-tang-2026-vs-mg-s9-suv-7-places">BYD Tang vs MG S9</a>).</li>
+  <li><strong>MG S9 PHEV</strong> : 7 places lui aussi, hybride rechargeable, sans contrainte de recharge sur les longs trajets et à un tarif très compétitif.</li>
+  <li><strong>Chery Tiggo 8 Pro</strong> : 7 places, puissant, un excellent rapport espace/prix (voir <a href="/actualites/jaecoo-7-vs-chery-tiggo-8-pro-suv-familial-chery">Jaecoo 7 vs Chery Tiggo 8 Pro</a>).</li>
+  <li><strong>Leapmotor C11 / BYD Seal U</strong> : de grands SUV 5 places très spacieux, parfaits si la 3<sup>e</sup> rangée n'est pas indispensable (voir <a href="/actualites/leapmotor-c11-vs-byd-seal-u-suv-familial-prix">Leapmotor C11 vs BYD Seal U</a>).</li>
+</ul>
+
+<h2>7 places ou 5 grandes places ?</h2>
+<p>C'est la première question à trancher. Pour une famille de 3 enfants au quotidien, un grand SUV 5 places (type C11 ou Seal U) offre souvent plus de confort réel que la 3<sup>e</sup> rangée d'un 7 places, généralement étriquée et réservée aux enfants sur les trajets courts. En revanche, si vous transportez régulièrement plus de cinq personnes, le 7 places (Tang, MG S9, Tiggo 8 Pro) devient incontournable.</p>
+
+<h2>Électrique, hybride ou PHEV ?</h2>
+<p>Pour une famille qui part souvent loin, l'hybride rechargeable (MG S9) ou une électrique à grande autonomie et recharge rapide évite le stress. Si vos trajets sont surtout locaux avec recharge à domicile, un grand SUV 100 % électrique (Tang, C11) est idéal et économique à l'usage.</p>
+
+<h2>Verdict</h2>
+<p>Pour une famille de 3 enfants, notre recommandation dépend de votre usage : le <strong>MG S9 PHEV</strong> pour la polyvalence 7 places sans angoisse d'autonomie et au meilleur prix ; le <strong>BYD Tang</strong> pour le tout-électrique premium 7 places ; le <strong>Leapmotor C11</strong> ou <strong>BYD Seal U</strong> si cinq grandes places suffisent et que vous visez le meilleur rapport espace/prix. Dans tous les cas, allez essayer l'installation de vos sièges enfants avant d'acheter : c'est le test décisif.</p>
+`,
   },
   {
     slug: '5-meilleures-citadines-chinoises-ville',
@@ -2626,6 +2682,36 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-02-10T09:00:00+01:00',
     readingTime: 6,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Les reines chinoises de la ville</h2>
+<p>Pour rouler en ville sans stress, une voiture doit être compacte, facile à garer, agile et — de plus en plus — sobre voire électrique. Les constructeurs chinois excellent sur ce terrain, avec des citadines bien équipées à des prix imbattables. Voici nos 5 préférées pour affronter la jungle urbaine au quotidien.</p>
+
+<h2>1. MG3 Hybrid+</h2>
+<p>La citadine full hybride idéale pour qui n'a pas de borne : sobre (environ 4,4 L/100 km), vive grâce à son généreux moteur électrique de 100 kW, et sans aucune contrainte de recharge. Un excellent compromis ville/polyvalence (voir <a href="/actualites/mg3-hybrid-vs-renault-clio-e-tech-hegemonie-francaise">MG3 Hybrid+ vs Renault Clio E-Tech</a>).</p>
+
+<h2>2. BYD Dolphin</h2>
+<p>Compacte électrique douce et spacieuse, la Dolphin brille par son confort urbain, son habitabilité et sa batterie Blade endurante. Parfaite pour la ville et les trajets périurbains (voir <a href="/actualites/mg4-vs-byd-dolphin-compactes-electriques">MG4 vs BYD Dolphin</a>).</p>
+
+<h2>3. Leapmotor T03</h2>
+<p>La vraie micro-citadine du lot : à peine 3,62 m, elle se faufile et se gare partout, tout en offrant un équipement étonnamment complet et un prix plancher. L'arme absolue du centre-ville (voir <a href="/actualites/leapmotor-t03-vs-byd-seagull-micro-citadines">Leapmotor T03 vs BYD Seagull</a>).</p>
+
+<h2>4. BYD Seagull (Dolphin Surf)</h2>
+<p>Un peu plus grande que la T03, elle offre cinq places, plus d'autonomie et plusieurs versions. La citadine électrique polyvalente qui peut aussi servir de voiture principale d'un foyer.</p>
+
+<h2>5. GWM Ora 03</h2>
+<p>Pour celles et ceux qui veulent du style : son design rétro-futuriste attachant en fait une citadine électrique qui sort du lot, agréable et silencieuse en ville (voir <a href="/actualites/gwm-ora-03-vs-mg3-hybrid-design-retro-efficacite">GWM Ora 03 vs MG3 Hybrid+</a>).</p>
+
+<h2>Comment choisir la vôtre</h2>
+<ul>
+  <li><strong>Pas de borne à domicile ?</strong> La MG3 Hybrid+ (hybride, aucun branchement nécessaire) est la plus sereine.</li>
+  <li><strong>Budget minimal et usage 100 % urbain ?</strong> La Leapmotor T03 est imbattable.</li>
+  <li><strong>Besoin d'espace et de polyvalence ?</strong> BYD Dolphin ou Seagull.</li>
+  <li><strong>Envie de style ?</strong> La GWM Ora 03.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>La meilleure citadine chinoise pour la ville dépend surtout de votre accès à la recharge et de votre budget. Notre coup de cœur polyvalent va à la <strong>MG3 Hybrid+</strong> (aucune contrainte, sobre, vive), et notre championne du budget et de la maniabilité à la <strong>Leapmotor T03</strong>. Dans tous les cas, ces cinq citadines prouvent qu'on peut rouler en ville malin, moderne et sans se ruiner — un domaine où l'offre chinoise est devenue incontournable.</p>
+`,
   },
   {
     slug: 'top-7-voitures-chinoises-plus-sures-ncap-2026',
@@ -2638,6 +2724,33 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-02-03T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>La sécurité, argument devenu chinois</h2>
+<p>Longtemps, on a douté de la sécurité des voitures chinoises. Cette époque est révolue : en 2026, les constructeurs chinois raflent les 5 étoiles Euro NCAP, le standard de référence des crash-tests européens. Mieux, certains modèles décrochent des scores parmi les plus élevés jamais enregistrés. Voici notre Top 7 des voitures chinoises les plus sûres.</p>
+
+<h2>Comment fonctionne Euro NCAP</h2>
+<p>Le programme Euro NCAP évalue quatre domaines : protection des adultes, protection des enfants, protection des usagers vulnérables (piétons, cyclistes) et aides à la sécurité (freinage d'urgence, maintien de voie…). Un modèle 5 étoiles excelle dans les quatre. C'est exigeant — et de plus en plus de chinoises y parviennent.</p>
+
+<h2>Notre Top 7</h2>
+<ol>
+  <li><strong>Zeekr X</strong> — l'un des véhicules électriques les mieux notés jamais testés, dépassant des rivales premium bien plus chères (voir <a href="/actualites/zeekr-x-vs-volvo-ex30-cousins-chinois">Zeekr X vs Volvo EX30</a>).</li>
+  <li><strong>BYD Seal</strong> — 5 étoiles avec d'excellents scores en protection des occupants.</li>
+  <li><strong>NIO EL6/EL7</strong> — structure robuste et suite complète d'aides à la conduite.</li>
+  <li><strong>XPeng G6</strong> — 5 étoiles, avec une dotation d'aides à la sécurité généreuse.</li>
+  <li><strong>BYD Atto 3</strong> — 5 étoiles, l'un des SUV compacts les plus sûrs de sa catégorie.</li>
+  <li><strong>MG4</strong> — 5 étoiles, preuve qu'une électrique abordable peut être très sûre.</li>
+  <li><strong>Omoda 5</strong> — 5 étoiles, avec une bonne protection et des aides modernes.</li>
+</ol>
+
+<h2>Pourquoi les chinoises cartonnent en sécurité</h2>
+<p>Trois raisons expliquent cette réussite. D'abord, partant d'une feuille blanche, ces constructeurs conçoivent d'emblée leurs plateformes selon les standards NCAP les plus récents. Ensuite, l'électrification favorise une structure rigide (le plancher-batterie renforce la caisse) et un centre de gravité bas. Enfin, la sécurité est devenue un argument marketing majeur pour rassurer les acheteurs occidentaux — les marques y investissent donc massivement.</p>
+
+<h2>Au-delà des étoiles</h2>
+<p>Une bonne note NCAP est essentielle, mais regardez aussi la <strong>dotation de série</strong> : certains équipements de sécurité peuvent être réservés aux finitions hautes. Vérifiez que le freinage d'urgence automatique, le maintien de voie et l'alerte d'angle mort sont bien présents sur la version que vous visez. Nous approfondissons ce sujet dans <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre analyse sur la sécurité des voitures chinoises</a>.</p>
+
+<h2>Verdict</h2>
+<p>En 2026, la sécurité n'est plus un point faible des voitures chinoises — c'est devenu l'un de leurs atouts. Du Zeekr X, référence absolue, aux abordables MG4 et Omoda 5, les 5 étoiles Euro NCAP sont désormais la norme. Pour l'acheteur, c'est une excellente nouvelle : on peut choisir une chinoise pour son prix <em>et</em> dormir tranquille côté sécurité. Vérifiez simplement la dotation de série de votre finition — c'est le dernier réflexe à avoir.</p>
+`,
   },
   {
     slug: 'voitures-chinoises-meilleur-infodivertissement-2026',
@@ -2650,6 +2763,36 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-01-27T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>L'infodivertissement, nouveau champ de bataille</h2>
+<p>Écrans géants, IA vocale, intégration des applications, mises à jour à distance : l'infodivertissement est devenu un critère d'achat majeur, et les constructeurs chinois y ont pris une longueur d'avance. Beaucoup viennent du monde de la tech ou s'en inspirent directement. Voici quelles marques chinoises proposent les meilleurs systèmes en 2026.</p>
+
+<h2>Xiaomi — HyperOS, l'écosystème roi</h2>
+<p>Sans surprise, le géant du smartphone place la barre très haut. HyperOS transforme la SU7 en prolongement de l'écosystème Xiaomi : recopie des applications, continuité avec le téléphone et la maison connectée. C'est probablement l'intégration la plus aboutie du marché (voir <a href="/actualites/hyperos-xiaomi-voiture-integration-smartphone">HyperOS de Xiaomi en voiture</a>).</p>
+
+<h2>XPeng — Xmart OS et l'intelligence</h2>
+<p>XPeng mise sur l'intelligence embarquée : interface 3D soignée, assistant vocal performant et une orientation forte vers les aides à la conduite évolutives. Le système le plus tourné vers l'IA (voir <a href="/actualites/xiaomi-su7-vs-xpeng-p7i-interface-logicielle">Xiaomi SU7 vs XPeng P7i</a>).</p>
+
+<h2>NIO — Nomi, l'assistant attachant</h2>
+<p>NIO se distingue par Nomi, son assistant vocal doté d'une petite « tête » animée sur le tableau de bord, qui personnifie l'IA de bord. Au-delà du gadget, l'expérience utilisateur NIO est cohérente et haut de gamme.</p>
+
+<h2>BYD — l'écran rotatif signature</h2>
+<p>BYD a popularisé son grand écran central rotatif (paysage/portrait), un élément à la fois pratique et spectaculaire, associé à une interface claire et à des fonctions comme le V2L. Un système mature et bien intégré.</p>
+
+<h2>Zeekr et Leapmotor — la puissance de calcul</h2>
+<p>Zeekr et Leapmotor équipent leurs modèles de puces performantes (type Qualcomm Snapdragon 8295), gage d'une interface fluide et réactive, avec de grands écrans et des mises à jour régulières.</p>
+
+<h2>Ce qui fait un bon système en 2026</h2>
+<ul>
+  <li><strong>La fluidité</strong> : une interface qui ne rame pas, condition de base.</li>
+  <li><strong>La connectivité</strong> : Apple CarPlay / Android Auto (présents chez beaucoup de chinoises, absents chez Tesla), et intégration de l'écosystème.</li>
+  <li><strong>Les mises à jour à distance</strong> : une voiture qui s'améliore dans le temps.</li>
+  <li><strong>L'ergonomie</strong> : attention aux fonctions essentielles noyées dans les menus tactiles.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Sur l'infodivertissement, les constructeurs chinois dominent, chacun avec sa signature : <strong>Xiaomi</strong> pour l'écosystème, <strong>XPeng</strong> pour l'intelligence, <strong>NIO</strong> pour l'expérience, <strong>BYD</strong> pour l'écran rotatif pratique. Le « meilleur » dépend de votre usage : privilégiez la connectivité (CarPlay/Android Auto) si vous vivez dans votre smartphone, ou l'écosystème Xiaomi si vous y êtes déjà. Une certitude : sur ce terrain, l'establishment européen a du retard à rattraper.</p>
+`,
   },
   {
     slug: 'top-5-electriques-chinoises-moins-30000-euros',
