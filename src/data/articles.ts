@@ -3926,6 +3926,29 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-06-17T09:00:00+02:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Quand un géant de la tech débarque dans l'auto</h2>
+<p>L'arrivée de Xiaomi dans l'automobile n'est pas un événement comme les autres. Quand le numéro 3 mondial du smartphone lance une voiture — la SU7 — et qu'elle devient immédiatement un carton, tout le secteur tremble. Pourquoi cet événement marque-t-il un tournant historique pour l'industrie automobile ? Analyse.</p>
+
+<h2>Un nouvel entrant hors norme</h2>
+<p>Xiaomi n'est pas un constructeur classique qui se lance dans l'électrique : c'est un géant de la technologie grand public, riche de centaines de millions d'utilisateurs et d'un écosystème d'objets connectés colossal. Il aborde la voiture non comme un objet mécanique, mais comme un produit électronique et logiciel — une rupture de méthode et de culture.</p>
+
+<h2>Ce qui change avec Xiaomi</h2>
+<ul>
+  <li><strong>L'écosystème comme arme</strong> : HyperOS connecte la voiture au smartphone et à la maison connectée, une intégration qu'aucun constructeur traditionnel ne peut égaler (voir <a href="/actualites/hyperos-xiaomi-voiture-integration-smartphone">HyperOS en voiture</a>).</li>
+  <li><strong>La maîtrise technique</strong> : Xiaomi développe ses propres moteurs hautes performances, prouvant qu'il ne se contente pas d'assembler (voir <a href="/actualites/moteurs-roue-xiaomi-revolution-technologique">les moteurs Xiaomi</a>).</li>
+  <li><strong>La vitesse d'exécution</strong> : passer de l'annonce à un produit crédible et désirable en un temps record a sidéré l'industrie.</li>
+</ul>
+
+<h2>Pourquoi le secteur tremble</h2>
+<p>L'arrivée de Xiaomi (et, dans une autre mesure, de Huawei) signale que la barrière à l'entrée de l'automobile s'effondre pour les géants de la tech. Ces acteurs apportent ce qui manque le plus aux constructeurs historiques : la maîtrise du logiciel, de l'IA et de l'expérience utilisateur numérique. Le risque pour l'industrie établie, c'est de devenir un simple « fabricant de châssis » pendant que la valeur migre vers le logiciel et les services. Xiaomi a une carte de plus : elle sait déjà vendre du rêve technologique au grand public (voir <a href="/actualites/xiaomi-auto-peut-on-acheter-voiture-fabricant-telephones">Xiaomi Auto</a>).</p>
+
+<h2>Les limites à ne pas oublier</h2>
+<p>Reste que fabriquer une voiture fiable à grande échelle, bâtir un réseau de SAV et gérer la sécurité sur des millions de kilomètres sont des métiers exigeants que Xiaomi doit encore maîtriser dans la durée. Le succès de la SU7 est éclatant, mais une marque automobile se juge sur des années, pas sur un lancement.</p>
+
+<h2>Verdict</h2>
+<p>L'arrivée de Xiaomi dans l'automobile est bien un tournant historique : elle démontre que les géants de la tech peuvent entrer dans le jeu et y réussir vite, en apportant leur maîtrise du logiciel et de l'expérience utilisateur. Le secteur tremble parce que la valeur se déplace vers ce terrain où les constructeurs traditionnels sont les plus faibles. Xiaomi devra encore prouver sa solidité industrielle sur le long terme, mais le message est reçu : les règles du jeu automobile ont changé, et plus rien ne sera tout à fait comme avant.</p>
+`,
   },
   {
     slug: 'mg-motor-marque-preferee-jeunes-conducteurs',
@@ -3938,6 +3961,29 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-06-10T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>MG, la marque qui séduit les jeunes</h2>
+<p>Un phénomène générationnel se dessine : MG est devenu l'une des marques préférées des conducteurs de moins de 35 ans. Comment une marque centenaire renée sous pavillon chinois est-elle parvenue à conquérir une clientèle jeune, réputée exigeante et volatile ? Décryptage d'un succès qui en dit long sur l'évolution du marché.</p>
+
+<h2>Le prix, argument décisif pour les jeunes</h2>
+<p>Les jeunes conducteurs ont souvent un budget contraint. MG l'a parfaitement compris en cassant les prix sur des modèles désirables : une MG4 électrique ou une MG3 Hybrid+ offrent un accès à des technologies modernes pour un tarif qui reste dans leurs moyens (voir <a href="/actualites/mg3-hybrid-vs-renault-clio-e-tech-hegemonie-francaise">MG3 Hybrid+ vs Renault Clio</a>). Pour cette génération, le rapport prix/technologie prime sur le prestige de marque.</p>
+
+<h2>Un design et une techno dans l'air du temps</h2>
+<ul>
+  <li><strong>Le design moderne</strong> : les MG récentes ont un style dynamique qui plaît, loin de l'image poussiéreuse.</li>
+  <li><strong>La technologie embarquée</strong> : grands écrans, connectivité, aides à la conduite — des attributs auxquels les jeunes sont particulièrement sensibles.</li>
+  <li><strong>L'électrification</strong> : une clientèle jeune souvent plus ouverte à l'électrique et à l'hybride, que MG propose à prix accessible.</li>
+</ul>
+
+<h2>Le poids du blason et du réseau</h2>
+<p>MG bénéficie aussi d'un atout psychologique : son héritage anglais (voir <a href="/actualites/mg-motor-heritage-anglais-domination-chinoise">l'histoire de MG</a>) le rend plus familier et rassurant qu'une marque 100 % nouvelle. Ajoutez un réseau dense (environ 150 points en France) et une garantie de 7 ans, et vous obtenez une proposition qui rassure les parents autant qu'elle séduit les jeunes acheteurs.</p>
+
+<h2>Un changement de rapport à la marque</h2>
+<p>Ce succès révèle une évolution profonde : pour les jeunes générations, la valeur d'une voiture se mesure de plus en plus à son contenu technologique et à son prix, moins au prestige historique de la marque. MG, sans le lourd héritage d'attentes des marques premium, coche parfaitement ces nouvelles cases. La voiture devient un outil connecté et rationnel plutôt qu'un marqueur social.</p>
+
+<h2>Verdict</h2>
+<p>Si MG est devenu la marque préférée de nombreux jeunes conducteurs, c'est qu'elle a aligné toutes les cases de cette génération : prix accessible, design moderne, technologie généreuse, électrification et réseau rassurant. Ce succès générationnel illustre un basculement des valeurs — le contenu et le prix l'emportent désormais sur le seul prestige. Pour les constructeurs historiques, c'est un signal d'alarme : la fidélité à la marque ne se transmet plus automatiquement, et une nouvelle génération d'acheteurs a déjà tourné la page.</p>
+`,
   },
   {
     slug: 'byd-vs-volkswagen-bataille-numero-1-mondial',
@@ -3950,6 +3996,31 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-06-03T09:00:00+02:00',
     readingTime: 9,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le duel industriel du siècle</h2>
+<p>BYD contre Volkswagen : ce n'est pas un simple comparatif de voitures, mais une bataille pour le titre de numéro 1 mondial de l'automobile. Le géant chinois a dépassé Volkswagen sur certains indicateurs de ventes, un événement qui aurait paru impensable il y a dix ans. Analyse des forces en présence dans une guerre industrielle sans précédent.</p>
+
+<h2>L'ascension fulgurante de BYD</h2>
+<p>BYD (Build Your Dreams) a bâti son empire sur une intégration verticale unique : la marque produit ses propres batteries (Blade), ses semi-conducteurs et une grande partie de ses composants (voir <a href="/actualites/batterie-byd-blade-vs-tesla-4680-durabilite">Batterie BYD Blade vs Tesla 4680</a>). Cette maîtrise de la chaîne, combinée au gigantesque marché chinois, lui a permis de produire à grande échelle et à bas coût, puis de conquérir l'international avec une gamme complète (voir <a href="/actualites/guide-achat-byd-2026-quel-modele-quel-profil">guide d'achat BYD</a>).</p>
+
+<h2>Les forces de Volkswagen</h2>
+<p>Volkswagen n'a pas dit son dernier mot. Le groupe allemand dispose d'atouts considérables :</p>
+<ul>
+  <li><strong>Un portefeuille de marques</strong> immense (VW, Audi, Porsche, Skoda, Seat…) couvrant tous les segments.</li>
+  <li><strong>Une réputation et une valeur de revente</strong> solides, fruit de décennies de confiance.</li>
+  <li><strong>Un réseau mondial</strong> dense et une expertise industrielle éprouvée.</li>
+  <li><strong>Une transition électrique</strong> engagée, même si elle a pris du retard sur certains points technologiques (comme la recharge 800V).</li>
+</ul>
+
+<h2>Les faiblesses de chacun</h2>
+<p>BYD doit encore bâtir sa notoriété et son réseau hors de Chine, et affronter les taxes européennes (voir <a href="/actualites/taxes-europeennes-impact-prix-voitures-chinoises-2026">l'impact des taxes</a>). Volkswagen, de son côté, souffre de coûts de production élevés, d'une transition électrique coûteuse et d'un retard sur le logiciel et certaines technologies clés — précisément les terrains où les Chinois excellent.</p>
+
+<h2>Une bataille aux multiples fronts</h2>
+<p>Le duel se joue partout à la fois : en Chine (où VW perd du terrain face aux marques locales), en Europe (où BYD attaque et où VW défend son bastion), et dans le reste du monde. C'est aussi une bataille technologique (batteries, logiciel, recharge) et industrielle (coûts, localisation de la production). Aucun des deux n'a encore gagné la guerre.</p>
+
+<h2>Verdict</h2>
+<p>La bataille BYD contre Volkswagen symbolise le basculement de l'industrie automobile mondiale. BYD a prouvé qu'un constructeur chinois pouvait rivaliser avec les plus grands, porté par son intégration verticale et son avance technologique. Volkswagen conserve des atouts majeurs — marques, réputation, réseau — mais doit accélérer sa mue pour ne pas se laisser distancer. Le titre de numéro 1 mondial se jouera sur la capacité de chacun à combiner échelle, technologie et confiance des acheteurs. Une chose est sûre : l'époque où l'issue était acquise d'avance en faveur des constructeurs historiques est définitivement révolue.</p>
+`,
   },
   {
     slug: 'voitures-chinoises-occasion-marche-en-expansion',
@@ -3962,6 +4033,33 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-05-27T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>L'occasion chinoise, un marché qui décolle</h2>
+<p>Les premières MG4 et BYD Atto 3 arrivées en 2022-2023 débarquent aujourd'hui sur le marché de l'occasion. Un phénomène nouveau qui crée des opportunités… et soulève des questions. Prix, garantie constructeur restante, fiabilité : voici tout ce qu'il faut savoir avant d'acheter une chinoise de seconde main.</p>
+
+<h2>Pourquoi ce marché explose maintenant</h2>
+<p>C'est mécanique : les premières vagues de ventes significatives datent de 2022-2023, et ces voitures arrivent en fin de première période de détention (leasing, premiers propriétaires qui changent). L'offre d'occasion s'étoffe donc rapidement, créant un marché naissant mais en forte croissance.</p>
+
+<h2>L'atout prix</h2>
+<p>Les voitures chinoises subissant une décote parfois marquée (voir <a href="/actualites/decote-voitures-chinoises-risque-mg-byd-2026">la décote des chinoises</a>), l'occasion peut offrir de très belles affaires : une électrique récente et bien équipée à un prix cassé. Pour l'acheteur d'occasion, cette décote — mauvaise nouvelle pour le vendeur — devient une opportunité.</p>
+
+<h2>L'atout garantie</h2>
+<p>Point crucial et souvent sous-estimé : les longues garanties chinoises (7 ans chez MG, 6 ans + 8 ans batterie chez BYD) sont généralement <strong>transférables</strong>. Une occasion de 2-3 ans est donc souvent encore couverte plusieurs années, ce qui réduit considérablement le risque (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">le comparatif des garanties</a>). C'est un avantage majeur par rapport à une occasion de marque à garantie courte.</p>
+
+<h2>Les points à vérifier absolument</h2>
+<ul>
+  <li><strong>L'état de santé de la batterie (SOH)</strong> : le composant clé d'une électrique. Demandez un contrôle et comparez à la capacité d'origine.</li>
+  <li><strong>La garantie restante</strong> : vérifiez sa durée, son kilométrage et sa transférabilité effective.</li>
+  <li><strong>L'historique d'entretien et de mises à jour</strong> : logiciel à jour, campagnes de rappel effectuées.</li>
+  <li><strong>La fiabilité du modèle</strong> : les premiers retours sont rassurants sur la mécanique, avec des bémols côté logiciel (voir <a href="/actualites/fiabilite-long-terme-mg4-2023-premiers-retours">fiabilité de la MG4</a>).</li>
+</ul>
+
+<h2>Les précautions spécifiques</h2>
+<p>Sur une marque encore jeune, assurez-vous de la disponibilité du réseau et des pièces pour le modèle visé. Une bonne affaire à l'achat peut se gâter si la moindre réparation devient un casse-tête faute d'atelier ou de pièces à proximité.</p>
+
+<h2>Verdict</h2>
+<p>Le marché de l'occasion chinoise est une opportunité réelle : des voitures récentes, bien équipées et souvent encore sous garantie longue, à des prix attractifs grâce à la décote. Les premiers retours de fiabilité sont rassurants, surtout sur la partie mécanique. Les clés d'un bon achat : vérifier la santé de la batterie, la garantie restante et la disponibilité du réseau. À ces conditions, une chinoise d'occasion peut être l'une des meilleures affaires du marché de seconde main — un segment à surveiller de près dans les années à venir.</p>
+`,
   },
   {
     slug: '2026-chine-conquete-coeur-europeens',
@@ -3974,6 +4072,30 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-05-20T09:00:00+02:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>2026, l'année du basculement ?</h2>
+<p>Part de marché en forte hausse, 5 étoiles Euro NCAP généralisées, réseaux de SAV qui se structurent : 2026 marque-t-elle le point de non-retour dans l'adoption des voitures chinoises en Europe ? Après des années de méfiance, les signaux d'une conquête durable se multiplient. Bilan d'une année charnière.</p>
+
+<h2>Les signaux d'une adoption durable</h2>
+<ul>
+  <li><strong>La part de marché grimpe</strong> : les marques chinoises captent une fraction croissante des ventes européennes, portées par MG, BYD et les nouveaux venus.</li>
+  <li><strong>La sécurité n'est plus un frein</strong> : les 5 étoiles Euro NCAP sont devenues la norme (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">la sécurité des chinoises</a>).</li>
+  <li><strong>Les réseaux se déploient</strong> : MG dépasse les 150 points en France, Leapmotor s'appuie sur Stellantis (voir <a href="/actualites/leapmotor-alliance-stellantis-sav-europe">Leapmotor et Stellantis</a>), la question du SAV recule.</li>
+  <li><strong>La confiance s'installe</strong> : les premiers retours de fiabilité rassurent, et le marché de l'occasion se structure (voir <a href="/actualites/voitures-chinoises-occasion-marche-en-expansion">l'occasion chinoise</a>).</li>
+</ul>
+
+<h2>Les obstacles qui subsistent</h2>
+<p>Le tableau n'est pas sans nuages. Les taxes européennes renchérissent les modèles importés (voir <a href="/actualites/taxes-europeennes-impact-prix-voitures-chinoises-2026">l'impact des taxes</a>), la perte du bonus pénalise de nombreuses électriques, et une part des acheteurs reste méfiante par habitude. La conquête n'est donc ni totale ni définitivement acquise.</p>
+
+<h2>La riposte des constructeurs chinois</h2>
+<p>Face à ces obstacles, les marques chinoises s'adaptent avec agilité : production en Europe pour contourner les taxes (voir <a href="/actualites/marques-chinoises-production-europe-hongrie-espagne">la production en Europe</a>), retour au thermique et à l'hybride moins taxés, co-entreprises avec des groupes européens. Cette capacité d'adaptation est peut-être leur atout le plus sous-estimé.</p>
+
+<h2>Un basculement culturel autant qu'industriel</h2>
+<p>Au-delà des chiffres, c'est un changement de perception qui s'opère : la voiture chinoise n'est plus vue comme un pis-aller, mais comme un choix rationnel, voire désirable, notamment chez les jeunes générations (voir <a href="/actualites/mg-motor-marque-preferee-jeunes-conducteurs">MG et les jeunes conducteurs</a>). Quand une catégorie de produits gagne la bataille de l'image, l'adoption devient difficilement réversible.</p>
+
+<h2>Verdict</h2>
+<p>2026 ressemble bien à une année charnière : les voitures chinoises ont franchi les seuils critiques de la sécurité, du réseau et de la confiance, et leur part de marché progresse durablement. Des obstacles demeurent — taxes, bonus, méfiance résiduelle — mais les constructeurs chinois y répondent avec une agilité remarquable. La Chine a-t-elle définitivement conquis le cœur des Européens ? Peut-être pas totalement. Mais elle a franchi le point où son succès n'est plus une hypothèse, mais une tendance de fond. Et cela, c'est sans doute l'histoire automobile majeure de la décennie.</p>
+`,
   },
 ];
 
