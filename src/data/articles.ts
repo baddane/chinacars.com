@@ -117,6 +117,26 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-04-12T09:00:00+01:00',
     readingTime: 6,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>La BYD Seal débarque au Maroc</h2>
+<p>Avec son design fluide et ses performances de haut vol, la BYD Seal s'apprête à conquérir le marché marocain des véhicules électriques. Cette berline, qui a fait ses preuves face à la Tesla Model 3 à l'international, arrive dans un Royaume où l'électrique gagne du terrain, porté par le développement des bornes et l'intérêt croissant des automobilistes. Que faut-il en attendre ?</p>
+
+<h2>Une berline électrique séduisante</h2>
+<p>La Seal marque les esprits par sa ligne basse et élégante, digne d'une berline premium. Sous la carrosserie, une batterie Blade LFP (technologie maison de BYD, réputée durable et sûre) d'environ 82,5 kWh, pour une autonomie WLTP de l'ordre de 520 à 570 km selon la version. La version haut de gamme Excellence AWD développe environ 523 ch et abat le 0 à 100 km/h en 3,8 secondes — des performances de sportive (voir <a href="/actualites/byd-seal-vs-tesla-model-3-highland-berline-ultime-2026">BYD Seal vs Tesla Model 3 Highland</a>).</p>
+
+<h2>Des atouts pour le marché marocain</h2>
+<ul>
+  <li><strong>La batterie Blade</strong> : sa robustesse et sa tolérance à la chaleur sont des atouts sous le climat marocain, où les fortes températures peuvent solliciter les batteries.</li>
+  <li><strong>L'équipement</strong> : la Seal arrive richement dotée, avec notamment l'écran rotatif signature de BYD et la compatibilité Apple CarPlay / Android Auto.</li>
+  <li><strong>La sécurité</strong> : 5 étoiles Euro NCAP, un gage de sérieux.</li>
+</ul>
+
+<h2>Les questions à surveiller</h2>
+<p>Comme pour toute électrique au Maroc, deux points méritent attention : le <strong>réseau de recharge</strong> (en développement, surtout sur les grands axes comme Casablanca-Rabat ou Casablanca-Marrakech) et le <strong>réseau de SAV</strong> BYD dans le Royaume. Le prix en dirhams et l'éligibilité aux éventuels avantages locaux seront aussi déterminants pour son succès. Pour situer la Seal face à l'élite chinoise, voir <a href="/actualites/byd-seal-vs-xiaomi-su7-ultra-2026">BYD Seal vs Xiaomi SU7 Ultra</a>.</p>
+
+<h2>Verdict</h2>
+<p>La BYD Seal a de sérieux arguments pour séduire les automobilistes marocains tentés par l'électrique premium : design réussi, autonomie solide, performances élevées et batterie Blade adaptée au climat. Son succès dépendra de son positionnement tarifaire en dirhams et de la solidité du réseau BYD au Maroc. Mais sur le produit, il n'y a pas de doute : la Seal est l'une des berlines électriques les plus abouties à débarquer dans le Royaume. À surveiller de très près.</p>
+`,
   },
   {
     slug: 'mg-cyberster-roadster-electrique',
@@ -128,6 +148,22 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'essai',
     publishedAt: '2024-04-10T09:00:00+01:00',
     readingTime: 5,
+    body: `
+<h2>MG renoue avec son ADN sportif</h2>
+<p>MG, ce n'était pas toujours des berlines et des SUV : la marque anglaise a bâti sa légende sur des roadsters accessibles et joueurs. Avec la Cyberster, MG ressuscite cet héritage — mais à l'heure de l'électrique. Un cabriolet 100 % électrique aux performances décoiffantes, qui prouve que passer à la batterie ne signifie pas renoncer au plaisir.</p>
+
+<h2>Un roadster qui ne fait pas semblant</h2>
+<p>La Cyberster est un vrai roadster deux places, avec un toit ouvrant et des portes en élytre spectaculaires. Sous la carrosserie, la version GT bi-moteur ne plaisante pas : environ 503 ch, un 0 à 100 km/h en 3,2 secondes, et une batterie d'environ 77 kWh pour près de 580 km d'autonomie. Une version propulsion plus accessible (environ 340 ch) existe également, pour ceux qui privilégient l'équilibre à la puissance brute.</p>
+
+<h2>Le plaisir avant tout</h2>
+<p>Là où la plupart des électriques cherchent l'efficience, la Cyberster assume l'émotion : le vent dans les cheveux, une accélération foudroyante et une silhouette qui attire tous les regards. C'est une voiture-passion, conçue pour le plaisir de conduire plus que pour la raison — un positionnement rare sur le marché électrique (voir <a href="/actualites/mg-cyberster-vs-byd-seal-06-gt-plaisir-conduite">MG Cyberster vs BYD Seal 06 GT</a>).</p>
+
+<h2>Un symbole pour MG</h2>
+<p>Au-delà de ses qualités propres, la Cyberster est un manifeste : elle démontre que MG, sous pavillon chinois, n'a pas oublié son histoire et sait aussi construire des voitures désirables et émotionnelles, pas seulement rationnelles. C'est un formidable outil d'image pour la marque, qui rappelle ses racines de constructeur de roadsters (voir <a href="/actualites/mg-motor-heritage-anglais-domination-chinoise">l'histoire de MG</a>).</p>
+
+<h2>Verdict</h2>
+<p>La MG Cyberster est l'une des propositions les plus excitantes du marché électrique : un vrai roadster moderne, performant et spectaculaire, à un tarif qui reste inférieur à celui des rares concurrents. Elle ne sera pas la voiture de tout le monde — deux places, usage plaisir — mais elle prouve avec panache que l'électrique peut faire rêver. En ressuscitant son ADN sportif, MG signe un retour aux sources aussi audacieux que réussi.</p>
+`,
   },
   {
     slug: 'importer-voiture-chinoise-maroc-2024',
@@ -139,6 +175,34 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'guide',
     publishedAt: '2024-04-08T09:00:00+01:00',
     readingTime: 8,
+    body: `
+<h2>Importer sa voiture de Chine au Maroc : le guide</h2>
+<p>Face à la richesse de l'offre chinoise, certains automobilistes marocains envisagent l'importation directe. Mais entre les taxes, le dédouanement et l'homologation, le parcours peut vite devenir un labyrinthe. Voici les grandes étapes et les points de vigilance pour importer une voiture de Chine au Maroc, sans mauvaise surprise.</p>
+
+<h2>Étape 1 : bien choisir son véhicule</h2>
+<p>Avant tout, assurez-vous que le modèle visé pourra être homologué au Maroc. Vérifiez la disponibilité des pièces détachées et l'existence (ou non) d'un réseau de la marque dans le Royaume. Un véhicule sans SAV local peut devenir un casse-tête au moindre problème — c'est le premier critère à considérer, avant même le prix.</p>
+
+<h2>Étape 2 : les droits et taxes à l'importation</h2>
+<p>L'importation au Maroc implique plusieurs prélèvements qu'il faut anticiper dans son budget :</p>
+<ul>
+  <li><strong>Les droits de douane</strong>, dont le taux varie selon l'origine et le type de véhicule.</li>
+  <li><strong>La TVA à l'importation</strong>, appliquée sur la valeur du véhicule.</li>
+  <li><strong>La taxe spéciale annuelle et les frais liés à la première immatriculation.</strong></li>
+</ul>
+<p>Ces montants peuvent représenter une part importante du prix final : il est essentiel de les calculer précisément <em>avant</em> de s'engager, car ils peuvent annuler l'économie réalisée à l'achat en Chine.</p>
+
+<h2>Étape 3 : le dédouanement</h2>
+<p>À l'arrivée au port (souvent Casablanca ou Tanger Med), le véhicule doit être dédouané. Cette étape administrative exige un dossier complet (facture, documents de transport, certificats). Passer par un transitaire agréé est vivement recommandé pour éviter les erreurs et les retards, qui peuvent engendrer des frais de stationnement portuaire.</p>
+
+<h2>Étape 4 : l'homologation</h2>
+<p>C'est souvent l'étape la plus délicate. Le véhicule doit être conforme aux normes marocaines et obtenir sa réception par les services compétents (contrôle technique, conformité). Un modèle non prévu pour le marché marocain peut nécessiter des adaptations, voire se voir refuser l'homologation. Renseignez-vous impérativement en amont sur la faisabilité pour le modèle exact.</p>
+
+<h2>Import individuel ou passer par un professionnel ?</h2>
+<p>Pour la plupart des acheteurs, importer soi-même est risqué : complexité administrative, incertitude sur l'homologation, absence de garantie et de SAV. Acheter un modèle chinois déjà distribué officiellement au Maroc (BYD, MG, Chery…) est souvent plus sûr et, une fois tous les frais d'importation pris en compte, pas forcément plus cher. Le réseau officiel apporte garantie et sérénité.</p>
+
+<h2>Verdict</h2>
+<p>Importer une voiture de Chine au Maroc est possible, mais c'est un parcours semé d'embûches : taxes lourdes, dédouanement complexe et homologation incertaine. Avant de vous lancer, calculez le coût total (achat + transport + droits + TVA + homologation) et comparez-le à celui d'un modèle chinois vendu officiellement au Maroc, garantie et SAV compris. Dans bien des cas, la voie officielle s'avère plus économique et infiniment plus sereine que l'importation individuelle. L'aventure de l'import se réserve aux modèles introuvables localement — et aux acheteurs avertis.</p>
+`,
   },
   {
     slug: 'chery-tiggo-8-pro-suv-7-places',
@@ -150,6 +214,29 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'essai',
     publishedAt: '2024-04-05T09:00:00+01:00',
     readingTime: 7,
+    body: `
+<h2>Le Chery Tiggo 8 Pro, un 7 places bien né</h2>
+<p>Confort, technologie et espace : le Chery Tiggo 8 Pro arrive avec des arguments solides pour séduire les familles nombreuses. Ce grand SUV 7 places bouscule les codes d'un segment longtemps dominé par des références plus chères, en proposant beaucoup d'espace et d'équipement pour un tarif contenu. Tour du propriétaire.</p>
+
+<h2>Un vrai 7 places familial</h2>
+<p>La grande force du Tiggo 8 Pro, c'est sa configuration à 7 places, précieuse pour les familles nombreuses ou pour transporter occasionnellement plus de cinq personnes. Comme sur la plupart des SUV de ce gabarit, la troisième rangée convient surtout aux enfants ou aux trajets courts, mais elle apporte une flexibilité que peu de rivaux offrent à ce prix (voir <a href="/actualites/chery-tiggo-8-voyage-famille-test-habitabilite">notre test d'habitabilité en famille</a>).</p>
+
+<h2>Motorisation et confort</h2>
+<p>Le Tiggo 8 Pro mise sur des motorisations généreuses (dont une version hybride rechargeable performante, autour de 256 ch) et un châssis orienté confort. Sur la route, il privilégie la douceur et le silence, des qualités appréciables sur les longs trajets familiaux. C'est un SUV pensé pour avaler les kilomètres sans fatigue.</p>
+
+<h2>Équipement et technologie</h2>
+<p>Fidèle à la recette chinoise, le Tiggo 8 Pro soigne sa dotation : grands écrans, présentation moderne et équipements de confort qui, sur des références européennes, se paient souvent en option. Le rapport équipement/prix est l'un de ses arguments majeurs, dans la lignée de ce que propose le groupe Chery (voir <a href="/actualites/jaecoo-7-vs-chery-tiggo-8-pro-suv-familial-chery">Jaecoo 7 vs Chery Tiggo 8 Pro</a>).</p>
+
+<h2>Les points de vigilance</h2>
+<ul>
+  <li><strong>Le coffre en configuration 7 places</strong> : logiquement réduit quand la 3<sup>e</sup> rangée est déployée — un compromis commun à la catégorie.</li>
+  <li><strong>Le gabarit</strong> : imposant, il demande un peu d'attention en ville et au stationnement (les aides à la manœuvre sont bienvenues).</li>
+  <li><strong>Le réseau et le SAV</strong> : à vérifier selon votre localisation, comme pour toute marque en développement.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Le Chery Tiggo 8 Pro est une proposition très sérieuse pour les familles en quête d'un grand SUV 7 places : espace, confort, équipement généreux et tarif maîtrisé. Ses compromis — coffre réduit en 7 places, gabarit encombrant — sont ceux de toute la catégorie, et largement compensés par sa polyvalence. Pour une famille nombreuse qui veut de la place sans se ruiner, le Tiggo 8 Pro coche beaucoup de cases. Un des SUV familiaux chinois les plus convaincants du moment.</p>
+`,
   },
   {
     slug: 'geely-geometry-c-autonomie-autoroute-casa-rabat',
@@ -161,6 +248,29 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'essai',
     publishedAt: '2024-04-01T09:00:00+01:00',
     readingTime: 9,
+    body: `
+<h2>La Geely Geometry C sur l'axe Casa-Rabat</h2>
+<p>Les chiffres d'autonomie d'un catalogue, c'est bien. La réalité de l'autoroute marocaine, c'est mieux. Nous avons pris le volant de la Geely Geometry C pour un aller-retour sur l'axe Casablanca-Rabat, l'un des trajets les plus fréquentés du Royaume, afin de vérifier si cette compacte électrique tient ses promesses d'autonomie en conditions réelles.</p>
+
+<h2>Le contexte du test</h2>
+<p>L'autoroute A3 entre Casablanca et Rabat, c'est environ 90 km à parcourir à vitesse soutenue (jusqu'à 120 km/h), un profil relativement plat mais exigeant pour une électrique — car l'autoroute est son terrain le moins favorable. Nous avons roulé climatisation en marche, dans des conditions de circulation normales : bref, un trajet représentatif du quotidien de nombreux Marocains.</p>
+
+<h2>La consommation réelle</h2>
+<p>Comme toute électrique, la Geometry C consomme davantage à vitesse stabilisée élevée que dans le cycle mixte homologué. Sur l'autoroute Casa-Rabat, l'autonomie réelle s'établit sensiblement en dessous des chiffres annoncés au catalogue — un écart normal et observé sur <em>toutes</em> les électriques (l'aérodynamisme pénalise à haute vitesse). Concrètement, l'aller-retour Casa-Rabat (environ 180 km) reste largement dans les cordes de la Geometry C sans recharge intermédiaire, avec de la marge.</p>
+
+<h2>Les enseignements pour le conducteur marocain</h2>
+<ul>
+  <li><strong>Le trajet quotidien type est couvert sans stress</strong> : un aller-retour Casa-Rabat, ou plusieurs trajets urbains, se font sans angoisse d'autonomie.</li>
+  <li><strong>La vitesse compte</strong> : rouler à 110 plutôt qu'à 120-130 km/h améliore nettement l'autonomie et repousse le besoin de recharge.</li>
+  <li><strong>La recharge à domicile est idéale</strong> : brancher la nuit permet de repartir chaque matin avec une batterie pleine, l'usage le plus économique et le plus serein au Maroc.</li>
+</ul>
+
+<h2>Et pour les plus longs trajets ?</h2>
+<p>Pour des trajets plus ambitieux (Casablanca-Marrakech, Casablanca-Tanger), il faudra planifier un arrêt de recharge et repérer les bornes rapides sur l'itinéraire — le réseau marocain se développe, surtout sur les grands axes. La Geometry C n'est pas une grande routière, mais elle couvre parfaitement les trajets pendulaires et urbains, cœur de son usage.</p>
+
+<h2>Verdict</h2>
+<p>Notre test sur l'axe Casa-Rabat confirme que la Geely Geometry C tient ses promesses pour un usage quotidien : l'aller-retour se fait sans difficulté, avec de la marge, à condition d'adapter sa vitesse et de privilégier la recharge à domicile. Comme toute électrique, elle consomme plus sur autoroute qu'en ville, et les très longs trajets demandent un peu de planification. Mais pour le navetteur marocain type, entre Casablanca et Rabat, la Geometry C est une compagne sereine et économique. Une électrique compacte qui a passé notre test grandeur nature avec succès.</p>
+`,
   },
   {
     slug: 'voiture-chinoise-occasion-fiabilite',
@@ -172,6 +282,31 @@ export const articles: ArticleSeed[] = [
     categorySlug: 'guide',
     publishedAt: '2024-03-28T09:00:00+01:00',
     readingTime: 6,
+    body: `
+<h2>Faut-il acheter une chinoise d'occasion ?</h2>
+<p>Les premiers modèles chinois arrivés sur nos routes commencent à peupler le marché de l'occasion. L'occasion est tentante : des voitures récentes et bien équipées à prix cassé. Mais que valent-elles à la revente, et surtout, sont-elles fiables sur la durée ? Analyse de la décote et de la fiabilité à long terme pour décider en connaissance de cause.</p>
+
+<h2>La décote : une opportunité pour l'acheteur</h2>
+<p>Les voitures chinoises subissent parfois une décote marquée, notamment à cause des baisses de prix du neuf et de la jeunesse des marques (voir <a href="/actualites/decote-voitures-chinoises-risque-mg-byd-2026">la décote des chinoises</a>). Pour le vendeur, c'est une mauvaise nouvelle ; pour l'acheteur d'occasion, c'est une aubaine : on accède à une voiture récente et technologique pour un prix nettement inférieur au neuf.</p>
+
+<h2>La fiabilité à long terme : rassurante sur l'essentiel</h2>
+<p>Les premiers retours sur les modèles arrivés depuis 2022-2023 sont globalement rassurants. La mécanique (surtout sur les électriques, à la conception simple) se montre fiable, avec des défauts concentrés davantage sur le logiciel et la finition que sur les organes vitaux (voir <a href="/actualites/fiabilite-long-terme-mg4-2023-premiers-retours">fiabilité de la MG4</a>). La principale inconnue d'une électrique, la batterie, tient bien et bénéficie de longues garanties.</p>
+
+<h2>L'atout des garanties transférables</h2>
+<p>C'est un point décisif souvent ignoré : les garanties chinoises sont longues (7 ans chez MG, 6 ans + 8 ans batterie chez BYD) et généralement transférables. Une occasion de 2-3 ans est donc souvent encore couverte plusieurs années — un filet de sécurité rare sur le marché de l'occasion (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">le comparatif des garanties</a>).</p>
+
+<h2>Les vérifications indispensables</h2>
+<ul>
+  <li><strong>La santé de la batterie (SOH)</strong> sur une électrique : le critère numéro un.</li>
+  <li><strong>La garantie restante</strong> : durée, kilométrage, transférabilité effective.</li>
+  <li><strong>L'historique d'entretien et des mises à jour logicielles.</strong></li>
+  <li><strong>La disponibilité du réseau et des pièces</strong> pour le modèle, selon votre région.</li>
+</ul>
+<p>Le marché de l'occasion chinoise étant en pleine expansion, l'offre s'élargit rapidement (voir <a href="/actualites/voitures-chinoises-occasion-marche-en-expansion">l'occasion chinoise, marché en expansion</a>).</p>
+
+<h2>Verdict</h2>
+<p>Acheter une chinoise de seconde main est une option intelligente, à condition de faire ses vérifications. Vous profitez d'une décote favorable pour accéder à une voiture récente, souvent encore sous garantie longue, et dont la fiabilité mécanique est rassurante. Les points de vigilance — santé de la batterie, garantie restante, réseau — sont simples à contrôler. À ces conditions, l'occasion chinoise offre l'un des meilleurs rapports qualité-prix du marché de seconde main. La méfiance d'hier laisse place à une vraie opportunité pour l'acheteur avisé.</p>
+`,
   },
 
   // --- Comparatifs Chinoises entre elles (articles.md #1-20) ---
