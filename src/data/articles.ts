@@ -2986,6 +2986,34 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-12-09T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Hybride ou 100 % électrique : le dilemme MG</h2>
+<p>MG propose deux philosophies dans sa gamme accessible : la MG3 Hybrid+, citadine full hybride, et la MG4, compacte 100 % électrique. Même marque, deux mondes. Le choix ne dépend pas de laquelle est « meilleure », mais de votre usage réel et de votre accès à la recharge. Faisons le point pour vous aider à trancher.</p>
+
+<h2>MG3 Hybrid+ : l'électrifiée sans contrainte</h2>
+<p>La MG3 est une hybride non rechargeable : elle se recharge seule via son moteur et le freinage, et ne se branche jamais. Ses atouts : environ 4,4 L/100 km, un moteur électrique généreux qui la rend vive en ville, et un tarif d'entrée très bas. Idéale pour qui n'a pas de borne à domicile (voir <a href="/actualites/mg3-hybrid-vs-renault-clio-e-tech-hegemonie-francaise">MG3 Hybrid+ vs Renault Clio E-Tech</a>).</p>
+
+<h2>MG4 : le plaisir électrique</h2>
+<p>La MG4 est 100 % électrique : jusqu'à environ 450 km d'autonomie, une conduite dynamique (propulsion), un silence total et un coût au kilomètre imbattable si vous rechargez à domicile. En contrepartie, il faut accepter la logistique de la recharge et l'investissement dans une borne pour en tirer le meilleur (voir <a href="/actualites/mg4-vs-byd-dolphin-compactes-electriques">MG4 vs BYD Dolphin</a>).</p>
+
+<h2>Le critère décisif : la recharge</h2>
+<p>Tout se joue là. Si vous pouvez recharger facilement (garage, box, borne au travail), la MG4 sera moins chère à l'usage et plus agréable. Si vous vivez en appartement sans solution de recharge pratique, la MG3 Hybrid+ vous évitera bien des tracas tout en réduisant votre consommation.</p>
+
+<h2>Coût d'usage</h2>
+<ul>
+  <li><strong>MG4</strong> : recharge à domicile très économique, entretien réduit (pas de vidange, freinage régénératif qui épargne les plaquettes). Mais recharge sur bornes publiques plus chère.</li>
+  <li><strong>MG3 Hybrid+</strong> : carburant certes, mais sobre ; entretien d'un thermique (plus fréquent qu'une électrique), sans dépendre d'aucune infrastructure.</li>
+</ul>
+
+<h2>Quel profil pour quelle MG ?</h2>
+<ul>
+  <li><strong>MG3 Hybrid+</strong> : pas de borne, trajets variés et imprévisibles, envie de simplicité et de budget d'achat minimal.</li>
+  <li><strong>MG4</strong> : accès à la recharge, trajets majoritairement domicile-travail prévisibles, envie de conduite électrique et de coût au km le plus bas.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Il n'y a pas de gagnant universel, seulement le bon choix pour <em>vous</em>. La <strong>MG4</strong> est le choix idéal si vous pouvez recharger facilement : plus agréable, plus économique à l'usage. La <strong>MG3 Hybrid+</strong> est la réponse pragmatique pour qui n'a pas de borne ou fait des trajets imprévisibles, sans jamais renoncer à la sobriété. Posez-vous une seule question avant de choisir : « Où et comment vais-je recharger ? » Votre réponse désignera la MG qu'il vous faut.</p>
+`,
   },
   {
     slug: 'byd-seal-u-phev-vs-byd-seal-u-ev-hybride-rechargeable',
@@ -2998,6 +3026,32 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-12-02T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Même carrosserie, deux âmes</h2>
+<p>Le BYD Seal U existe en deux motorisations radicalement différentes sous une carrosserie identique : une version 100 % électrique (EV) et une version hybride rechargeable (DM-i, PHEV). Ce cas d'école est parfait pour comprendre lequel de ces deux mondes colle à votre quotidien. Décryptage.</p>
+
+<h2>Seal U EV : le tout-électrique</h2>
+<p>La version électrique embarque un moteur avant de 218 ch et une batterie de 71,8 ou 87 kWh pour une autonomie de 420 à 500 km. Zéro émission à l'usage, silence total, coût au kilomètre très bas si vous rechargez à domicile. Le choix idéal pour qui a une solution de recharge et roule surtout sur des distances prévisibles (voir <a href="/actualites/leapmotor-c11-vs-byd-seal-u-suv-familial-prix">Leapmotor C11 vs BYD Seal U</a>).</p>
+
+<h2>Seal U DM-i : l'hybride rechargeable</h2>
+<p>La version PHEV associe un 1,5 L essence à un moteur électrique et une batterie de 18,3 kWh (environ 80 km électriques) ou 26,6 kWh (jusqu'à environ 125 km électriques). L'idée : rouler en électrique au quotidien, et basculer sur l'essence pour les longs trajets, sans aucune angoisse d'autonomie.</p>
+
+<h2>Le match des usages</h2>
+<ul>
+  <li><strong>Trajets quotidiens courts + recharge facile</strong> : les deux conviennent, mais l'EV est plus simple et plus économique.</li>
+  <li><strong>Longs trajets fréquents, pas toujours de borne</strong> : le DM-i PHEV est plus serein — l'essence prend le relais partout.</li>
+  <li><strong>Pas de recharge à domicile du tout</strong> : le PHEV reste utilisable (il roule comme un hybride), là où l'EV deviendrait contraignant.</li>
+</ul>
+
+<h2>Le piège du PHEV</h2>
+<p>Attention : un hybride rechargeable n'est vraiment sobre que si vous le <strong>rechargez régulièrement</strong>. Si vous ne branchez jamais un PHEV, vous trimballez une grosse batterie pour rien et la consommation grimpe. Le DM-i n'a donc de sens que si vous exploitez son autonomie électrique au quotidien. Nous détaillons cette logique dans <a href="/actualites/hybride-vs-phev-comparatif-mg-byd">notre comparatif hybride vs PHEV</a>.</p>
+
+<h2>Coffre et détails pratiques</h2>
+<p>La version PHEV sacrifie un peu de volume de coffre à cause du réservoir et de la mécanique thermique (environ 425 litres), là où l'EV optimise l'espace. Un point mineur, mais à noter pour les familles.</p>
+
+<h2>Verdict</h2>
+<p>Le choix Seal U EV ou DM-i se résume à votre rapport à la recharge et à vos trajets. Prenez l'<strong>EV</strong> si vous rechargez facilement et roulez sur des distances prévisibles : c'est plus simple, plus silencieux et moins cher à l'usage. Prenez le <strong>DM-i PHEV</strong> si vous partez souvent loin sans garantie de borne, tout en pouvant recharger au quotidien pour profiter de ses 80-125 km électriques. Le pire choix serait un PHEV jamais rechargé — dans ce cas, autant prendre l'électrique ou un simple hybride.</p>
+`,
   },
   {
     slug: 'omoda-5-thermique-vs-omoda-5-ev-duel-interne',
@@ -3010,6 +3064,31 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-11-25T09:00:00+01:00',
     readingTime: 6,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le duel interne de l'Omoda 5</h2>
+<p>L'Omoda 5 joue une carte astucieuse : proposer un même SUV compact au design séduisant en deux motorisations — une version thermique (essence) et une version 100 % électrique (l'Omoda E5). Même look, même habitacle, mais deux expériences et deux budgets. Lequel choisir ? Ce duel interne éclaire un choix que beaucoup d'acheteurs se posent.</p>
+
+<h2>Omoda 5 thermique : la simplicité accessible</h2>
+<p>La version essence mise sur un prix d'achat plus bas et une simplicité totale : on fait le plein, on roule, sans se soucier de recharge ni d'autonomie. C'est le choix rassurant pour qui n'est pas prêt à passer à l'électrique, ou qui parcourt de longues distances dans des zones mal équipées en bornes.</p>
+
+<h2>Omoda E5 : le passage à l'électrique</h2>
+<p>La version électrique (E5) offre environ 430 km d'autonomie WLTP, 201 ch, le silence et un coût au kilomètre réduit si vous rechargez à domicile. Elle représente un investissement initial plus élevé, mais des économies à l'usage et une conduite plus moderne (voir <a href="/actualites/omoda-e5-vs-hyundai-kona-electric-design-futuriste">Omoda E5 vs Hyundai Kona Electric</a>).</p>
+
+<h2>Le calcul économique</h2>
+<p>L'électrique coûte plus cher à l'achat mais moins à l'usage (énergie et entretien). Le seuil de rentabilité dépend de votre kilométrage annuel et du prix de votre électricité : plus vous roulez et plus vous rechargez à domicile, plus l'E5 devient avantageuse sur la durée. À faible kilométrage, l'écart de prix d'achat peut ne jamais être amorti. Sans oublier la question du bonus, désormais réservé à certains modèles (voir <a href="/actualites/bonus-ecologique-2026-voitures-chinoises-eligibles">bonus écologique 2026</a>).</p>
+
+<h2>Design et équipement : match nul</h2>
+<p>C'est tout l'intérêt de ce duel : les deux versions partagent le même design spectaculaire et une présentation intérieure moderne. Vous ne « sacrifiez » donc rien esthétiquement en choisissant l'une ou l'autre — le choix est purement une affaire de motorisation et d'usage.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>Omoda 5 thermique</strong> : budget d'achat serré, pas de recharge à domicile, longs trajets dans des zones peu équipées.</li>
+  <li><strong>Omoda E5</strong> : accès à la recharge, fort kilométrage quotidien, envie de rouler électrique et d'économiser à l'usage.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Le duel interne de l'Omoda 5 illustre parfaitement le choix de motorisation actuel. L'<strong>Omoda E5</strong> électrique est le choix d'avenir, plus économique à l'usage et plus agréable — à condition d'avoir une solution de recharge et de rouler suffisamment pour amortir son surcoût. La version <strong>thermique</strong> reste pertinente pour les budgets serrés et les usages incompatibles avec l'électrique. Même voiture, même style : à vous de choisir le moteur qui correspond à votre vie.</p>
+`,
   },
   {
     slug: 'hybride-vs-phev-comparatif-mg-byd',
@@ -3022,6 +3101,35 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-11-18T09:00:00+01:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>HEV ou PHEV : deux hybrides à ne pas confondre</h2>
+<p>« Hybride », le mot recouvre deux technologies très différentes : l'hybride classique (HEV, non rechargeable) et l'hybride rechargeable (PHEV). MG et BYD proposent les deux, et le choix a de vraies conséquences sur votre budget et votre usage. Ce guide clarifie la différence et vous aide à choisir la bonne architecture.</p>
+
+<h2>L'hybride classique (HEV) : l'électrifié qui ne se branche pas</h2>
+<p>Un HEV (comme le MG ZS Hybrid+ ou la MG3 Hybrid+) associe un moteur thermique à un petit moteur et une petite batterie électriques, rechargés par le moteur et le freinage. On ne le branche jamais. Bénéfices : une consommation réduite (surtout en ville) et zéro contrainte. Limite : l'autonomie 100 % électrique est quasi nulle (quelques centaines de mètres à basse vitesse).</p>
+
+<h2>L'hybride rechargeable (PHEV) : le meilleur des deux mondes… si on branche</h2>
+<p>Un PHEV (comme le BYD Seal U DM-i ou le MG EHS) embarque une bien plus grosse batterie, rechargeable sur prise, offrant 50 à 125 km d'autonomie électrique selon les modèles. On roule électrique au quotidien, et l'essence prend le relais pour les longs trajets. Bénéfice : zéro essence sur les petits trajets si on recharge. Limite : plus cher, plus lourd, et inutilement gourmand si on ne branche jamais (voir <a href="/actualites/byd-seal-u-phev-vs-byd-seal-u-ev-hybride-rechargeable">BYD Seal U PHEV vs EV</a>).</p>
+
+<h2>Chez MG et BYD, concrètement</h2>
+<ul>
+  <li><strong>MG</strong> : le ZS Hybrid+ et la MG3 Hybrid+ sont des HEV (aucun branchement), tandis que le MG EHS est un PHEV rechargeable.</li>
+  <li><strong>BYD</strong> : la technologie DM-i équipe des PHEV comme le Seal U DM-i, avec de grandes autonomies électriques ; BYD propose aussi une vaste gamme 100 % électrique.</li>
+</ul>
+
+<h2>Comment choisir la bonne architecture</h2>
+<ul>
+  <li><strong>Pas de recharge possible</strong> → HEV. Vous profitez de l'électrification sans contrainte, et vous n'avez pas à trimballer une grosse batterie inutile.</li>
+  <li><strong>Recharge à domicile + trajets quotidiens courts + longs trajets occasionnels</strong> → PHEV. C'est le scénario idéal : électrique au quotidien, essence pour partir loin.</li>
+  <li><strong>Recharge facile + gros kilométrage électrique</strong> → envisagez carrément le 100 % électrique, souvent plus logique.</li>
+</ul>
+
+<h2>L'erreur à éviter</h2>
+<p>Acheter un PHEV pour ne jamais le brancher est le pire choix : vous payez plus cher, vous transportez une grosse batterie, et votre consommation réelle explose. Un PHEV non rechargé consomme souvent <em>plus</em> qu'un bon HEV. La règle d'or : ne prenez un PHEV que si vous êtes certain de le recharger régulièrement.</p>
+
+<h2>Verdict</h2>
+<p>HEV et PHEV ne s'adressent pas au même conducteur. Le <strong>HEV</strong> (MG ZS/MG3 Hybrid+) est la solution simple et sobre pour qui ne peut pas recharger. Le <strong>PHEV</strong> (BYD Seal U DM-i, MG EHS) est brillant pour qui recharge à domicile et alterne petits et longs trajets — à condition de vraiment brancher la voiture. Identifiez d'abord votre accès à la recharge : c'est lui qui doit dicter le choix de la motorisation, pas l'inverse.</p>
+`,
   },
   {
     slug: 'moteurs-thermiques-chinois-retour-en-force-europe',
@@ -3034,6 +3142,30 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-11-11T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le retour inattendu du thermique chinois</h2>
+<p>On croyait les constructeurs chinois tout-électriques. La réalité de 2026 est plus subtile : Chery, MG et d'autres relancent des modèles thermiques (essence) et hybrides compétitifs en Europe. Loin d'être un retour en arrière, c'est une stratégie calculée, dictée par le contexte réglementaire et commercial. Analyse d'un mouvement qui surprend.</p>
+
+<h2>Pourquoi ce retour au thermique ?</h2>
+<p>Plusieurs facteurs convergents expliquent ce virage :</p>
+<ul>
+  <li><strong>La fin (ou le recul) des aides à l'électrique</strong> : avec l'exclusion de nombreuses électriques chinoises du bonus en 2026, l'écart de prix avec le thermique se creuse à nouveau en défaveur de l'EV importé (voir <a href="/actualites/bonus-ecologique-2026-voitures-chinoises-eligibles">bonus écologique 2026</a>).</li>
+  <li><strong>Les droits de douane sur les électriques chinoises</strong> : l'Union européenne a alourdi la fiscalité sur les EV importés de Chine, rendant les modèles thermiques (moins taxés) relativement plus attractifs.</li>
+  <li><strong>La demande réelle</strong> : une partie des acheteurs, faute de recharge ou par prudence, préfère encore le thermique ou l'hybride. Les constructeurs répondent à ce marché bien réel.</li>
+</ul>
+
+<h2>Des thermiques modernes et bien équipés</h2>
+<p>Ces modèles thermiques n'ont rien de dépassé : ils reprennent le design séduisant, la dotation technologique généreuse et le rapport prix/équipement qui font la force des chinoises. L'Omoda 5 thermique, les Jaecoo et Chery essence en sont de bons exemples — souvent moins chers que leurs équivalents électriques et sans contrainte de recharge (voir <a href="/actualites/omoda-5-thermique-vs-omoda-5-ev-duel-interne">Omoda 5 thermique vs EV</a>).</p>
+
+<h2>Une stratégie de contournement intelligente</h2>
+<p>Ce retour au thermique est aussi une manière de contourner les barrières douanières visant spécifiquement l'électrique, tout en maintenant une présence commerciale et en fidélisant les acheteurs. En parallèle, les constructeurs chinois localisent leur production en Europe (Hongrie, Espagne) pour, à terme, ramener l'électrique dans le jeu à des conditions favorables. Le thermique joue donc un rôle de transition.</p>
+
+<h2>Bon ou mauvais signe ?</h2>
+<p>Pour l'acheteur, c'est une bonne nouvelle : plus de choix, et des modèles thermiques modernes à prix contenu. Sur le plan environnemental, c'est plus ambigu, puisque cela prolonge la vente de thermiques. Mais il s'agit avant tout d'une réponse pragmatique et temporaire à un contexte fiscal défavorable à l'EV importé — pas d'un abandon de l'électrique.</p>
+
+<h2>Verdict</h2>
+<p>Le retour en force des moteurs thermiques chinois en Europe n'est pas un recul technologique, mais une manœuvre stratégique face aux taxes sur l'électrique et au recul des aides. Chery et MG offrent ainsi des modèles thermiques et hybrides séduisants, bien équipés et abordables, qui élargissent le choix des acheteurs prudents ou sans solution de recharge. C'est un pari de transition : le temps que la production s'européanise et que l'électrique redevienne fiscalement avantageux. En attendant, le thermique chinois a de beaux jours devant lui — et c'est l'acheteur qui en profite.</p>
+`,
   },
 
   // --- Marque par Marque : Guides d'Achat (articles.md #76-85) ---
