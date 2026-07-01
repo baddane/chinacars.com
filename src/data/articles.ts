@@ -3180,6 +3180,44 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-11-04T09:00:00+01:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>BYD, une gamme devenue immense</h2>
+<p>Devenu l'un des plus grands constructeurs mondiaux, BYD (Build Your Dreams) propose désormais une gamme si large qu'elle en devient difficile à décrypter. Seagull, Dolphin, Seal, Atto 3, Tang, Han, Seal U… quel modèle pour quel profil ? Ce guide d'achat 2026 vous aide à trouver la BYD faite pour vous, en quelques questions.</p>
+
+<h2>La force de BYD : la maîtrise de la batterie</h2>
+<p>Avant les modèles, rappelons l'atout maître de BYD : la marque produit ses propres batteries Blade (LFP), réputées durables et sûres, et garanties jusqu'à 8 ans/250 000 km. C'est un gage de sérénité qui traverse toute la gamme (voir <a href="/actualites/batterie-byd-blade-vs-tesla-4680-durabilite">Batterie BYD Blade vs Tesla 4680</a>).</p>
+
+<h2>La gamme par segment</h2>
+<ul>
+  <li><strong>BYD Seagull / Dolphin Surf</strong> : la micro-citadine, pour un premier prix et un usage urbain.</li>
+  <li><strong>BYD Dolphin</strong> : la compacte électrique confortable et pratique, idéale au quotidien (voir <a href="/actualites/mg4-vs-byd-dolphin-compactes-electriques">MG4 vs BYD Dolphin</a>).</li>
+  <li><strong>BYD Atto 3</strong> : le SUV compact familial, désormais bien meilleur en recharge dans sa version Evo.</li>
+  <li><strong>BYD Seal</strong> : la berline premium performante, rivale de la Tesla Model 3 (voir <a href="/actualites/byd-seal-vs-tesla-model-3-highland-berline-ultime-2026">BYD Seal vs Tesla Model 3</a>).</li>
+  <li><strong>BYD Seal U</strong> : le SUV familial, disponible en électrique ou hybride rechargeable (DM-i).</li>
+  <li><strong>BYD Tang</strong> : le grand SUV 7 places, pour les familles nombreuses (voir <a href="/actualites/byd-tang-2026-vs-mg-s9-suv-7-places">BYD Tang vs MG S9</a>).</li>
+  <li><strong>BYD Han</strong> : la berline statutaire haut de gamme, puissante et raffinée (voir <a href="/actualites/mg5-vs-byd-han-break-vs-berline">MG5 vs BYD Han</a>).</li>
+</ul>
+
+<h2>Quel modèle pour quel profil ?</h2>
+<ul>
+  <li><strong>Petit budget, usage urbain</strong> : Seagull/Dolphin Surf.</li>
+  <li><strong>Couple ou petite famille en ville et périurbain</strong> : Dolphin ou Atto 3.</li>
+  <li><strong>Amateur de berline performante</strong> : Seal (ou Han pour le statut).</li>
+  <li><strong>Famille nombreuse</strong> : Tang (7 places) ou Seal U.</li>
+  <li><strong>Pas de recharge facile mais envie d'électrifié</strong> : Seal U DM-i (hybride rechargeable).</li>
+</ul>
+
+<h2>Les questions à se poser avant d'acheter</h2>
+<ol>
+  <li>Ai-je une solution de recharge à domicile ? (oriente vers l'EV ou le PHEV)</li>
+  <li>Combien de personnes dois-je transporter régulièrement ?</li>
+  <li>Quel est mon budget, aides comprises (attention au bonus 2026) ?</li>
+  <li>Y a-t-il un point de vente/SAV BYD près de chez moi ?</li>
+</ol>
+
+<h2>Verdict</h2>
+<p>La gamme BYD couvre aujourd'hui presque tous les besoins, de la micro-citadine au grand SUV 7 places, avec la sécurité de la batterie Blade en fil rouge. Pour bien choisir, partez de votre usage réel (recharge, nombre de places, budget) plutôt que du modèle « à la mode ». Nos best-sellers polyvalents — Dolphin, Seal et Atto 3 — conviennent au plus grand nombre, tandis que Tang et Han répondent aux besoins spécifiques. Une certitude : il existe une BYD pour presque chaque profil.</p>
+`,
   },
   {
     slug: 'mg-motor-heritage-anglais-domination-chinoise',
@@ -3192,6 +3230,32 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-10-28T09:00:00+01:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>MG, un destin hors du commun</h2>
+<p>Peu de marques ont connu un tel retournement de l'histoire. Née à Oxford en 1924, MG (Morris Garages) fut l'emblème du roadster anglais avant de sombrer, puis de renaître sous pavillon chinois pour devenir aujourd'hui la marque chinoise la plus vendue en Europe. Retour sur un siècle d'aventures et sur les raisons de son succès actuel.</p>
+
+<h2>Les racines anglaises (1924-2005)</h2>
+<p>MG naît en 1924 à Oxford, fondée sur l'idée de rendre le sport automobile accessible. Pendant des décennies, la marque incarne le roadster britannique abordable — MGB, MG Midget — vendu dans le monde entier. Mais les difficultés financières de l'industrie automobile anglaise ont raison de MG : après plusieurs restructurations, l'entreprise (alors MG Rover) fait faillite en 2005.</p>
+
+<h2>La renaissance chinoise (SAIC)</h2>
+<p>C'est là qu'intervient SAIC (Shanghai Automotive Industry Corporation), l'un des géants automobiles chinois, qui rachète la marque. SAIC conserve le nom, l'héritage et le logo octogonal de MG, mais y injecte les moyens industriels chinois : plateformes modernes, électrification massive, et surtout une politique de prix agressive. MG renaît, mais transformée.</p>
+
+<h2>Pourquoi MG cartonne en Europe</h2>
+<p>Le succès actuel de MG repose sur une équation limpide :</p>
+<ul>
+  <li><strong>Des prix imbattables</strong> : MG casse les tarifs sur des segments clés, de la citadine hybride au SUV électrique (voir <a href="/actualites/mg3-hybrid-vs-renault-clio-e-tech-hegemonie-francaise">MG3 Hybrid+ vs Renault Clio</a>).</li>
+  <li><strong>Une gamme électrifiée cohérente</strong> : MG4, MG3 Hybrid+, ZS, MG5… une offre qui couvre les besoins essentiels (voir <a href="/actualites/mg4-vs-byd-dolphin-compactes-electriques">MG4 vs BYD Dolphin</a>).</li>
+  <li><strong>Un réseau dense</strong> : environ 150 points de vente et service en France, un atout décisif pour la confiance et le SAV.</li>
+  <li><strong>Une garantie longue</strong> : 7 ans, transférable, qui rassure.</li>
+  <li><strong>Un capital sympathie</strong> : le blason historique anglais donne à MG une image plus familière et rassurante que celle d'une marque 100 % nouvelle.</li>
+</ul>
+
+<h2>Un héritage habilement exploité</h2>
+<p>MG joue subtilement sur son passé : le nom et le logo évoquent une marque européenne centenaire, ce qui atténue la méfiance parfois associée aux constructeurs purement chinois. C'est un avantage marketing considérable — MG n'est pas « une marque chinoise de plus », mais « MG, de retour ». La Cyberster, roadster électrique, ravive même directement l'ADN sportif d'origine.</p>
+
+<h2>Verdict</h2>
+<p>MG illustre parfaitement la stratégie chinoise en Europe : reprendre un blason familier, y injecter des moyens industriels modernes, et attaquer par le prix et le réseau. De l'héritage anglais d'Oxford à la domination chinoise sous SAIC, la marque a su transformer un siècle d'histoire en atout commercial. Résultat : MG est aujourd'hui la porte d'entrée la plus rassurante vers l'automobile chinoise — et l'une de ses plus belles réussites.</p>
+`,
   },
   {
     slug: 'zeekr-france-prix-modeles-reseau-2026',
@@ -3204,6 +3268,29 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-10-21T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Zeekr, le premium chinois débarque en France</h2>
+<p>Zeekr, la marque haut de gamme du groupe Geely (qui possède aussi Volvo, Polestar et Lotus), s'installe en France avec l'ambition claire de rivaliser avec le premium allemand. Prix, modèles, réseau : voici tout ce qu'il faut savoir avant de s'intéresser à cette marque qui a fait forte impression.</p>
+
+<h2>Une marque premium, pas low-cost</h2>
+<p>Contrairement à d'autres arrivants chinois qui attaquent par le bas, Zeekr se positionne d'emblée sur le premium : finition soignée, technologies de pointe, design affirmé. La marque bénéficie de l'ingénierie du groupe Geely, ce qui se ressent sur la qualité de fabrication et la sécurité — le Zeekr X figure d'ailleurs parmi les véhicules les mieux notés aux crash-tests Euro NCAP.</p>
+
+<h2>Les modèles disponibles</h2>
+<ul>
+  <li><strong>Zeekr 001</strong> : le break de chasse électrique, vaisseau amiral performant et endurant, rival des Tesla Model S et Porsche Taycan (voir <a href="/actualites/zeekr-001-vs-tesla-model-s-silicon-valley-tremble-2026">Zeekr 001 vs Tesla Model S</a>).</li>
+  <li><strong>Zeekr X</strong> : le SUV compact premium au style audacieux, cousin technique du Volvo EX30 (voir <a href="/actualites/zeekr-x-vs-volvo-ex30-cousins-chinois">Zeekr X vs Volvo EX30</a>).</li>
+  <li><strong>Zeekr 7X</strong> et autres modèles : la gamme s'étoffe, avec des SUV et berlines visant frontalement le premium établi.</li>
+</ul>
+
+<h2>Prix et positionnement</h2>
+<p>Zeekr n'est pas donné, mais reste nettement moins cher que les références premium allemandes à prestations comparables. Le Zeekr 001 démarre autour de 60 000 €, le Zeekr X plus bas. La proposition de valeur : du premium technologique et bien fini, pour moins cher que Audi, BMW ou Mercedes. C'est le cœur de sa stratégie.</p>
+
+<h2>Le point sensible : le réseau</h2>
+<p>Comme toutes les marques chinoises récentes, l'enjeu numéro un de Zeekr en France est le déploiement de son réseau de vente et de SAV. Encore concentré sur les grandes métropoles, il devra s'étoffer pour rassurer les acheteurs en région. Avant d'acheter, vérifiez la présence d'un point de service accessible depuis chez vous — un conseil valable pour toute marque chinoise émergente, comme nous l'expliquons dans <a href="/actualites/entretien-voiture-chinoise-france-reseaux-sav">notre article sur les réseaux SAV</a>.</p>
+
+<h2>Verdict</h2>
+<p>Zeekr arrive en France avec une proposition solide : du vrai premium, techniquement abouti et bien fini, à un tarif inférieur aux références allemandes. Le 001 et le X sont des produits convaincants, portés par l'ingénierie Geely. Le principal frein reste la jeunesse du réseau : Zeekr devra prouver sa capacité à assurer un SAV de qualité partout. Si un point de service existe près de chez vous, la marque mérite clairement d'être considérée par tout amateur de premium électrique.</p>
+`,
   },
   {
     slug: 'omoda-jaecoo-nouveau-geant-marche-automobile',
@@ -3216,6 +3303,33 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-10-14T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Omoda et Jaecoo, les nouveaux venus qui montent</h2>
+<p>Vous les croisez de plus en plus dans nos villes : Omoda et Jaecoo, deux marques au nom encore méconnu il y a peu, multiplient les concessions et les publicités. Derrière elles se cache un géant : Chery, l'un des plus grands constructeurs chinois. Qui sont vraiment ces nouveaux venus, et pourquoi montent-ils si vite ?</p>
+
+<h2>Deux marques, un même groupe : Chery</h2>
+<p>Omoda et Jaecoo sont les deux marques créées par Chery spécifiquement pour l'export et la conquête des marchés occidentaux. L'idée : proposer des produits au design plus moderne et au positionnement plus premium que la marque Chery elle-même, pour séduire une clientèle internationale. Elles partagent une grande partie de leur ingénierie, comme on le voit dans <a href="/actualites/jaecoo-7-vs-chery-tiggo-8-pro-suv-familial-chery">Jaecoo 7 vs Chery Tiggo 8 Pro</a>.</p>
+
+<h2>Omoda : le design avant tout</h2>
+<p>Omoda mise sur un style spectaculaire, presque concept-car, pour capter une clientèle jeune. L'Omoda 5 (thermique, hybride SHS-H ou électrique E5) est le fer de lance : design audacieux, dotation généreuse et prix agressif (voir <a href="/actualites/omoda-5-vs-mg-zs-hybrid-suv-urbains-abordables">Omoda 5 vs MG ZS Hybrid+</a>).</p>
+
+<h2>Jaecoo : le premium accessible</h2>
+<p>Jaecoo vise un positionnement plus « baroudeur chic » et premium, avec des SUV au style plus statutaire (Jaecoo 7, Jaecoo 5). L'ambition : offrir une image valorisante et une finition soignée pour un tarif inférieur aux références établies, comme dans notre comparatif <a href="/actualites/jaecoo-5-vs-volkswagen-tiguan-menace-chinoise">Jaecoo 5 vs Volkswagen Tiguan</a>.</p>
+
+<h2>Pourquoi ça marche</h2>
+<ul>
+  <li><strong>Le poids de Chery</strong> : derrière ces jeunes marques, un immense groupe industriel avec des moyens de R&D considérables.</li>
+  <li><strong>Le design</strong> : des voitures qui attirent l'œil, un argument différenciant fort.</li>
+  <li><strong>Les prix</strong> : un positionnement systématiquement sous les références européennes à équipement comparable.</li>
+  <li><strong>L'électrification à la carte</strong> : thermique, hybride SHS-H ou électrique selon les besoins et les marchés (voir <a href="/actualites/omoda-shs-h-hybride-comment-ca-marche">l'hybride SHS-H expliqué</a>).</li>
+</ul>
+
+<h2>Les défis qui restent</h2>
+<p>Comme tout nouvel entrant, Omoda et Jaecoo doivent bâtir leur réputation, leur réseau et leur valeur de revente. La notoriété se construit, et la confiance sur le long terme (fiabilité, SAV, décote) reste à démontrer. Mais l'appui de Chery leur donne des moyens que peu de nouveaux venus possèdent.</p>
+
+<h2>Verdict</h2>
+<p>Omoda et Jaecoo ne sont pas des marques de garage : ce sont les fers de lance export d'un géant, Chery, doté de moyens considérables. Leur recette — design séduisant, équipement généreux, prix agressifs, motorisations variées — explique leur montée rapide. Il leur reste à prouver leur solidité dans la durée (réseau, revente), mais elles sont clairement à surveiller de près. Pour l'acheteur curieux et attentif au style, elles méritent déjà un essai.</p>
+`,
   },
   {
     slug: 'xiaomi-auto-peut-on-acheter-voiture-fabricant-telephones',
@@ -3228,6 +3342,31 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-10-07T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Acheter la voiture du fabricant de smartphones ?</h2>
+<p>La Xiaomi SU7 a fait sensation : une berline électrique performante, magnifiquement finie, signée par le numéro 3 mondial du smartphone. Forcément, la question fuse : peut-on vraiment acheter une Xiaomi en France ? Et si oui, à quelles conditions ? On répond aux vraies questions, sans survendre le rêve.</p>
+
+<h2>Le produit fait rêver</h2>
+<p>Commençons par le positif : la SU7 est un objet impressionnant. Performances de haut vol (jusqu'à 1 548 ch sur la version Ultra), autonomie généreuse, et surtout une intégration logicielle unique grâce à HyperOS, qui connecte la voiture à tout l'écosystème Xiaomi (voir <a href="/actualites/hyperos-xiaomi-voiture-integration-smartphone">HyperOS de Xiaomi en voiture</a>). Sur le plan technique, Xiaomi joue déjà dans la cour des grands (voir <a href="/actualites/xiaomi-su7-vs-xpeng-p7i-interface-logicielle">Xiaomi SU7 vs XPeng P7i</a>).</p>
+
+<h2>La vraie question : la disponibilité</h2>
+<p>C'est là que le rêve rencontre la réalité. La SU7 est un carton en Chine, mais sa <strong>disponibilité officielle hors de Chine reste très limitée</strong>. En France, l'acheter relève aujourd'hui du parcours d'importateur spécialisé, avec tout ce que cela implique. Xiaomi a annoncé des ambitions européennes, mais un déploiement commercial structuré prend du temps.</p>
+
+<h2>Les points à vérifier absolument</h2>
+<p>Avant de se lancer dans l'importation d'une SU7, il faut mesurer les contraintes :</p>
+<ul>
+  <li><strong>L'homologation</strong> : le véhicule est-il homologué pour circuler en France ? Une importation individuelle peut être un casse-tête administratif.</li>
+  <li><strong>La garantie</strong> : sera-t-elle valable et applicable en France ? Souvent non, hors réseau officiel.</li>
+  <li><strong>Le SAV et les pièces</strong> : qui répare la voiture, et où trouver les pièces ? Sans réseau officiel, c'est le point noir.</li>
+  <li><strong>La recharge et le logiciel</strong> : compatibilité des connecteurs et des services logiciels avec l'infrastructure européenne.</li>
+</ul>
+
+<h2>Faut-il craquer ?</h2>
+<p>Pour la plupart des acheteurs, la réponse raisonnable en 2026 est : <strong>pas encore</strong>. Aussi séduisante soit-elle, une SU7 importée sans réseau officiel expose à des risques réels (garantie, SAV, pièces) qui peuvent transformer le rêve en cauchemar au moindre pépin. Mieux vaut attendre un déploiement officiel de Xiaomi en Europe, qui apporterait réseau, garantie et sérénité.</p>
+
+<h2>Verdict</h2>
+<p>Oui, la voiture du fabricant de téléphones existe et elle est excellente — mais non, on ne peut pas encore l'acheter sereinement en France. La Xiaomi SU7 reste, pour l'instant, un objet de fascination plus qu'une option d'achat raisonnable pour l'Européen moyen, faute de réseau officiel, de garantie applicable et de SAV. Le conseil : gardez un œil sur Xiaomi, dont l'arrivée officielle en Europe pourrait tout changer. En attendant, admirez… et patientez.</p>
+`,
   },
   {
     slug: 'nio-battery-as-a-service-louer-ou-acheter-batterie',
