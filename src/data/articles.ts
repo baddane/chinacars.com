@@ -3743,6 +3743,33 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-07-22T09:00:00+02:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Pourquoi si peu cher ? Et pour combien de temps ?</h2>
+<p>La première chose qui frappe avec les voitures chinoises, c'est le prix. À équipement comparable, elles coûtent souvent nettement moins cher que leurs rivales européennes. Miracle, dumping, ou vraie efficacité industrielle ? Et surtout : cet avantage tarifaire est-il durable ? Décryptons les vraies raisons derrière ces étiquettes cassées.</p>
+
+<h2>Les raisons structurelles</h2>
+<ul>
+  <li><strong>Les économies d'échelle</strong> : le marché intérieur chinois est colossal. Produire en très grand volume fait chuter le coût unitaire, un avantage que les constructeurs répercutent à l'export.</li>
+  <li><strong>L'intégration verticale</strong> : des acteurs comme BYD produisent leurs propres batteries, semi-conducteurs et composants. En maîtrisant toute la chaîne, ils compriment les coûts et les marges des intermédiaires (voir <a href="/actualites/batterie-byd-blade-vs-tesla-4680-durabilite">Batterie BYD Blade vs Tesla 4680</a>).</li>
+  <li><strong>Le coût de production</strong> : main-d'œuvre, énergie et automatisation avancée réduisent les coûts d'assemblage.</li>
+  <li><strong>Le soutien de l'État</strong> : subventions, infrastructures et politique industrielle ont massivement soutenu la filière électrique chinoise pendant des années.</li>
+</ul>
+
+<h2>Est-ce du « dumping » ?</h2>
+<p>La question fait débat. L'Union européenne a estimé que certaines aides publiques faussaient la concurrence, ce qui a justifié des droits de douane additionnels (voir <a href="/actualites/taxes-europeennes-impact-prix-voitures-chinoises-2026">l'impact des taxes européennes</a>). Mais réduire le prix bas des chinoises au seul dumping serait une erreur : une grande partie de l'avantage vient d'une réelle efficacité industrielle et d'économies d'échelle que l'Europe peine à égaler.</p>
+
+<h2>Cet avantage est-il durable ?</h2>
+<p>Plusieurs forces vont éroder l'écart :</p>
+<ul>
+  <li><strong>Les taxes européennes</strong> renchérissent les modèles importés de Chine.</li>
+  <li><strong>La relocalisation en Europe</strong> (usines en Hongrie, en Espagne) augmentera les coûts mais supprimera les surtaxes (voir <a href="/actualites/marques-chinoises-production-europe-hongrie-espagne">la production en Europe</a>).</li>
+  <li><strong>La montée en gamme</strong> : à mesure que les marques chinoises visent le premium, leurs prix montent.</li>
+</ul>
+<p>À l'inverse, les économies d'échelle et l'intégration verticale resteront des avantages de fond.</p>
+
+<h2>Verdict</h2>
+<p>Le prix bas des voitures chinoises n'est ni un mirage ni un simple dumping : il repose surtout sur des économies d'échelle massives, une intégration verticale poussée et un soutien industriel de long terme. Cet avantage va se réduire — taxes, relocalisation, montée en gamme — sans pour autant disparaître, car ses fondations structurelles demeurent. Pour l'acheteur, le message est clair : les bonnes affaires actuelles pourraient se raréfier à mesure que le marché se normalise. Autrement dit, le rapport qualité-prix exceptionnel d'aujourd'hui ne durera pas éternellement.</p>
+`,
   },
   {
     slug: 'taxes-europeennes-impact-prix-voitures-chinoises-2026',
@@ -3755,6 +3782,30 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-07-15T09:00:00+02:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Les taxes européennes rebattent les cartes</h2>
+<p>Pour protéger son industrie, l'Union européenne a instauré des droits de douane additionnels sur les voitures électriques importées de Chine. Objectif : compenser ce qu'elle considère comme des subventions faussant la concurrence. Résultat concret pour l'acheteur : des prix qui ont augmenté sur de nombreux modèles. Mesurons l'impact réel de ces taxes en 2026.</p>
+
+<h2>Le principe des droits additionnels</h2>
+<p>Ces droits de douane s'ajoutent aux taxes existantes et varient selon les constructeurs, en fonction de leur niveau de coopération avec l'enquête européenne et des subventions estimées. Certaines marques sont plus lourdement taxées que d'autres, ce qui crée des écarts de compétitivité au sein même de l'offre chinoise.</p>
+
+<h2>L'impact sur les prix</h2>
+<p>Concrètement, plusieurs modèles électriques chinois ont vu leur tarif grimper pour absorber (au moins partiellement) ces surtaxes. L'ampleur dépend de la stratégie de chaque marque : certaines ont répercuté la hausse sur le client, d'autres ont rogné leurs marges pour préserver leur prix d'attaque. À cela s'ajoute, en France, la perte du bonus écologique pour beaucoup de modèles (voir <a href="/actualites/bonus-ecologique-2026-voitures-chinoises-eligibles">bonus écologique 2026</a>) — un double effet qui alourdit la facture de l'électrique importé.</p>
+
+<h2>Les stratégies de contournement</h2>
+<p>Face à ces barrières, les constructeurs chinois ripostent intelligemment :</p>
+<ul>
+  <li><strong>Le retour au thermique et à l'hybride</strong> : moins taxés que l'électrique, ces modèles redeviennent attractifs (voir <a href="/actualites/moteurs-thermiques-chinois-retour-en-force-europe">le retour des thermiques chinois</a>).</li>
+  <li><strong>La production en Europe</strong> : fabriquer sur le sol européen supprime les droits de douane à l'import.</li>
+  <li><strong>Les co-entreprises</strong> : s'allier à un groupe européen (comme Leapmotor avec Stellantis) permet de contourner une partie des obstacles.</li>
+</ul>
+
+<h2>Qui gagne, qui perd ?</h2>
+<p>Les taxes protègent temporairement l'industrie européenne, mais elles pénalisent aussi l'acheteur, privé de prix plus bas. Et elles sont contournables : à terme, la relocalisation de la production chinoise en Europe pourrait annuler leur effet, tout en créant des emplois locaux. C'est donc une mesure de transition, pas une barrière définitive.</p>
+
+<h2>Verdict</h2>
+<p>Les taxes européennes ont bel et bien renchéri les voitures électriques chinoises en 2026, avec un impact variable selon les marques et amplifié, en France, par la perte du bonus. Mais cet effet est en partie temporaire : les constructeurs contournent l'obstacle par le thermique, les co-entreprises et surtout la production locale. Pour l'acheteur, le conseil est de comparer le prix <em>final</em> (taxes et aides comprises) modèle par modèle, car les écarts se sont creusés. Et de garder à l'esprit que la relocalisation à venir pourrait, demain, ramener des prix plus doux.</p>
+`,
   },
   {
     slug: 'design-chinois-identite-visuelle-marques-auto',
@@ -3767,6 +3818,31 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-07-08T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le design, nouvelle arme des marques chinoises</h2>
+<p>On a longtemps reproché aux voitures chinoises de copier. Cette époque est révolue : en quelques années, les constructeurs chinois ont fait du design une arme stratégique, développant chacun une identité visuelle forte et reconnaissable. BYD, NIO, Zeekr, HiPhi… comment ces marques créent-elles leur signature, et pourquoi est-ce devenu si important ?</p>
+
+<h2>De la copie à la création</h2>
+<p>Les premières générations de voitures chinoises s'inspiraient (parfois lourdement) des modèles occidentaux. Mais les constructeurs ont vite compris qu'on ne bâtit pas une marque désirable en imitant : ils ont recruté des designers de renom, souvent débauchés chez les grandes marques européennes, et leur ont donné les moyens de créer. Résultat : des styles originaux et assumés.</p>
+
+<h2>Des identités visuelles distinctes</h2>
+<ul>
+  <li><strong>BYD</strong> : un langage « Dragon Face » cohérent sur toute la gamme, qui rend les modèles immédiatement identifiables.</li>
+  <li><strong>NIO</strong> : une élégance épurée et technologique, tournée vers le premium et l'expérience.</li>
+  <li><strong>Zeekr</strong> : un style à la fois moderne et rigoureux, bénéficiant de l'héritage design du groupe Geely (Volvo, Lotus).</li>
+  <li><strong>HiPhi et Avatr</strong> : l'avant-garde pure, avec des lignes futuristes qui repoussent les codes (voir <a href="/actualites/avatr-11-vs-hiphi-z-design-chinois-futuriste">Avatr 11 vs HiPhi Z</a>).</li>
+  <li><strong>GWM Ora</strong> : le parti pris rétro-futuriste et ludique (voir <a href="/actualites/gwm-ora-citadines-electriques-design-audacieux">GWM Ora</a>).</li>
+</ul>
+
+<h2>Pourquoi le design est devenu stratégique</h2>
+<p>Sur un marché saturé où les fiches techniques se ressemblent, le design est un différenciateur émotionnel puissant. Il crée le désir, justifie un positionnement premium, et surtout construit une <strong>identité de marque</strong> durable. Pour des constructeurs qui doivent se faire un nom en Occident, un style fort est un raccourci vers la reconnaissance et la mémorisation. C'est aussi une manière d'effacer l'image de « copie » qui leur collait à la peau.</p>
+
+<h2>L'électrique, une page blanche stylistique</h2>
+<p>L'électrification a libéré les designers : sans les contraintes d'un grand moteur thermique à l'avant, ils peuvent repenser les proportions (empattement allongé, capots courts, habitacle avancé). Les marques chinoises, nées largement avec l'électrique, ont exploité cette liberté à fond, là où les constructeurs historiques restaient parfois prisonniers de leurs codes.</p>
+
+<h2>Verdict</h2>
+<p>Le design est devenu l'une des plus belles réussites des marques chinoises, et un pilier de leur stratégie de conquête. De la cohérence de BYD à l'avant-garde de HiPhi, chacune a forgé une identité visuelle distincte qui crée le désir et efface l'image d'antan. Cette maîtrise stylistique est un signal fort : les constructeurs chinois ne se battent plus seulement sur le prix, mais sur l'émotion et la marque. Et c'est peut-être là leur évolution la plus impressionnante.</p>
+`,
   },
   {
     slug: 'marques-chinoises-production-europe-hongrie-espagne',
@@ -3779,6 +3855,30 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-07-01T09:00:00+02:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Les chinoises se mettent à produire en Europe</h2>
+<p>C'est un tournant majeur : les constructeurs chinois ne se contentent plus d'exporter vers l'Europe, ils commencent à y produire. Usines BYD en Hongrie, projets en Espagne, partenariats un peu partout : cette localisation change la donne pour l'industrie, l'emploi et… le prix de vos futures voitures. Focus sur un mouvement de fond.</p>
+
+<h2>Pourquoi produire en Europe ?</h2>
+<ul>
+  <li><strong>Contourner les droits de douane</strong> : une voiture fabriquée en Europe échappe aux surtaxes visant les importations chinoises (voir <a href="/actualites/taxes-europeennes-impact-prix-voitures-chinoises-2026">l'impact des taxes européennes</a>).</li>
+  <li><strong>Récupérer le bonus et les aides</strong> : la production locale améliore le score environnemental et peut redonner accès au bonus écologique français (voir <a href="/actualites/bonus-ecologique-2026-voitures-chinoises-eligibles">bonus écologique 2026</a>).</li>
+  <li><strong>Réduire les délais et le transport</strong> : produire près du marché raccourcit la logistique et améliore la réactivité.</li>
+  <li><strong>Soigner l'image</strong> : « fabriqué en Europe » crée de l'emploi local et rassure les acheteurs et les pouvoirs publics.</li>
+</ul>
+
+<h2>Où en est-on ?</h2>
+<p>BYD a lancé la construction d'une usine en Hongrie, pays devenu porte d'entrée industrielle privilégiée. D'autres acteurs (dont des fabricants de batteries comme CATL) implantent des sites en Allemagne, en Hongrie ou ailleurs. L'Espagne, forte de sa tradition automobile, attire également des projets. Le mouvement est engagé, même s'il prendra plusieurs années pour monter en cadence.</p>
+
+<h2>Les conséquences pour l'acheteur</h2>
+<p>À terme, la production européenne pourrait <strong>faire baisser les prix</strong> des modèles concernés (plus de surtaxes, retour possible du bonus), tout en améliorant la disponibilité et le SAV. C'est donc une bonne nouvelle pour le consommateur. Le modèle Leapmotor-Stellantis illustre déjà cette logique de rapprochement industriel (voir <a href="/actualites/leapmotor-alliance-stellantis-sav-europe">Leapmotor et Stellantis</a>).</p>
+
+<h2>Les enjeux plus larges</h2>
+<p>Cette relocalisation crée des emplois européens et un transfert de savoir-faire, mais soulève aussi des questions : concurrence pour les constructeurs historiques, dépendance à des acteurs chinois pour des sites stratégiques, équilibre de la balance commerciale. C'est un sujet industriel et politique majeur, au-delà de la simple question du prix de la voiture.</p>
+
+<h2>Verdict</h2>
+<p>Oui, les marques chinoises produisent désormais en Europe, et ce n'est qu'un début. Motivée par les taxes, les aides et l'image, cette localisation devrait, à terme, rendre les modèles concernés plus abordables et mieux distribués — une bonne nouvelle pour l'acheteur. Elle transforme aussi le paysage industriel européen en profondeur. Pour le consommateur, un réflexe utile dès aujourd'hui : vérifier où est produit le modèle qui l'intéresse, car cela influence de plus en plus son prix final et son éligibilité aux aides.</p>
+`,
   },
   {
     slug: 'securite-voitures-chinoises-niveau-europeen-2026',
@@ -3791,6 +3891,29 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-06-24T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>La sécurité, de la méfiance à la référence</h2>
+<p>« Une voiture chinoise, est-ce vraiment sûr ? » Cette question, longtemps légitime, ne l'est plus guère en 2026. Les constructeurs chinois raflent désormais les 5 étoiles Euro NCAP, et certains décrochent des scores parmi les meilleurs jamais enregistrés. Comment ont-ils rattrapé — puis parfois dépassé — les standards occidentaux ? Analyse d'un rattrapage spectaculaire.</p>
+
+<h2>Le point de départ : un vrai retard</h2>
+<p>Il y a une quinzaine d'années, les premières voitures chinoises échouaient lamentablement aux crash-tests, avec des structures déformables et peu d'équipements de sécurité. Cette image a durablement marqué les esprits — et elle explique la méfiance persistante de certains acheteurs, aujourd'hui largement dépassée par la réalité.</p>
+
+<h2>Comment ils ont rattrapé leur retard</h2>
+<ul>
+  <li><strong>Concevoir selon les normes NCAP</strong> : partant d'une feuille blanche, les nouvelles plateformes intègrent d'emblée les exigences les plus récentes des crash-tests.</li>
+  <li><strong>L'atout de l'électrique</strong> : le lourd plancher-batterie rigidifie la structure et abaisse le centre de gravité, ce qui améliore mécaniquement la sécurité (structure et tenue de route).</li>
+  <li><strong>La sécurité comme argument</strong> : pour rassurer les acheteurs occidentaux, les marques ont fait de la sécurité une priorité marketing, investissant massivement dans les aides à la conduite et la résistance des caisses.</li>
+</ul>
+
+<h2>Les preuves concrètes</h2>
+<p>Les résultats sont là : BYD, MG, NIO, XPeng, Omoda… la plupart des modèles récents décrochent les 5 étoiles Euro NCAP. Le Zeekr X s'est même illustré parmi les véhicules les mieux notés jamais testés, devançant des rivales premium bien plus chères (voir <a href="/actualites/zeekr-x-vs-volvo-ex30-cousins-chinois">Zeekr X vs Volvo EX30</a>). Nous en avons fait un classement dans <a href="/actualites/top-7-voitures-chinoises-plus-sures-ncap-2026">notre Top 7 des chinoises les plus sûres</a>.</p>
+
+<h2>Le point de vigilance : la dotation de série</h2>
+<p>Une réserve demeure : une excellente note NCAP ne garantit pas que <em>votre</em> version soit aussi bien équipée. Certains dispositifs de sécurité peuvent être réservés aux finitions hautes. Avant d'acheter, vérifiez la présence, de série, du freinage d'urgence automatique, du maintien de voie et de l'alerte d'angle mort sur la version visée.</p>
+
+<h2>Verdict</h2>
+<p>La sécurité n'est plus un point faible des voitures chinoises : c'est devenu, pour beaucoup, un argument de vente. Parties d'un vrai retard, elles ont rattrapé puis parfois dépassé les standards occidentaux, portées par des plateformes modernes, l'électrification et un investissement volontariste. Les 5 étoiles Euro NCAP y sont désormais la norme, et le Zeekr X prouve qu'une chinoise peut même être une référence absolue. Le seul réflexe à conserver : vérifier la dotation de sécurité de série de votre finition. La méfiance d'hier, elle, n'a plus lieu d'être.</p>
+`,
   },
   {
     slug: 'arrivee-xiaomi-tournant-historique-industrie-automobile',
