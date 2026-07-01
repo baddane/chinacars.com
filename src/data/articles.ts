@@ -2805,6 +2805,33 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-01-20T09:00:00+01:00',
     readingTime: 6,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>L'électrique accessible, spécialité chinoise</h2>
+<p>Rouler électrique sans exploser son budget, c'est possible — et ce sont largement les constructeurs chinois qui ont rendu ça réel. Voici notre Top 5 des voitures électriques chinoises sous la barre des 30 000 € (prix catalogue), avec un avertissement de taille sur les aides en 2026.</p>
+
+<h2>L'avertissement bonus 2026</h2>
+<p>Depuis 2026, la plupart des électriques fabriquées en Chine ne sont plus éligibles au bonus écologique français. Les prix ci-dessous sont donc à considérer <em>tels quels</em>, sans déduction d'aide pour les modèles concernés — un changement majeur détaillé dans <a href="/actualites/bonus-ecologique-2026-voitures-chinoises-eligibles">notre article sur le bonus écologique 2026</a>.</p>
+
+<h2>Notre Top 5</h2>
+<ol>
+  <li><strong>Leapmotor T03</strong> — la moins chère, et l'une des rares encore éligibles au bonus (grâce à l'alliance Stellantis). Micro-citadine idéale pour la ville (voir <a href="/actualites/leapmotor-t03-vs-dacia-spring-electrique-15000">Leapmotor T03 vs Dacia Spring</a>).</li>
+  <li><strong>BYD Seagull (Dolphin Surf)</strong> — cinq places, batterie Blade, plusieurs versions : la petite polyvalente autour de 20 000 €.</li>
+  <li><strong>MG4</strong> — la compacte de référence : dynamique, autonome, bien équipée. Le meilleur rapport plaisir/prix du lot (voir <a href="/actualites/mg4-vs-byd-dolphin-compactes-electriques">MG4 vs BYD Dolphin</a>).</li>
+  <li><strong>BYD Dolphin</strong> — confortable et spacieuse, la compacte électrique douce et pratique par excellence.</li>
+  <li><strong>MG ZS EV</strong> — pour ceux qui veulent un SUV : de l'autonomie et de l'espace autour de 25 000 € (voir <a href="/actualites/mg-zs-ev-vs-peugeot-e2008-suv-urbain-electrique">MG ZS EV vs Peugeot e-2008</a>).</li>
+</ol>
+
+<h2>Comment choisir</h2>
+<ul>
+  <li><strong>Budget minimal, usage urbain</strong> : Leapmotor T03 (et bonus encore possible).</li>
+  <li><strong>Polyvalence citadine</strong> : BYD Seagull ou Dolphin.</li>
+  <li><strong>Plaisir de conduite et autonomie</strong> : MG4.</li>
+  <li><strong>Besoin d'un SUV</strong> : MG ZS EV.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Sous 30 000 €, l'offre électrique chinoise est la plus riche du marché. Notre coup de cœur global va à la <strong>MG4</strong> pour son équilibre imbattable, et à la <strong>Leapmotor T03</strong> pour le budget le plus serré (avec, en prime, le bonus encore accessible). Attention toutefois : vérifiez toujours l'éligibilité au bonus du modèle exact, car elle change tout sur le prix final en 2026. À ce niveau de tarif, rouler électrique n'a jamais été aussi accessible.</p>
+`,
   },
   {
     slug: 'suv-chinois-confortables-longs-trajets-autoroute',
@@ -2817,6 +2844,34 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-01-13T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Avaler les kilomètres en douceur</h2>
+<p>Sur un long trajet autoroutier, ce qui compte, c'est le confort : suspension qui gomme les imperfections, silence à bord, sièges accueillants, et bien sûr autonomie et recharge pour espacer les arrêts. Les grands SUV chinois excellent souvent sur ces critères, à des tarifs inférieurs au premium allemand. Voici notre sélection des plus confortables pour dévorer l'autoroute.</p>
+
+<h2>Les critères du confort autoroutier</h2>
+<ul>
+  <li><strong>La suspension</strong> : idéalement pilotée ou pneumatique, pour filtrer la route.</li>
+  <li><strong>L'insonorisation</strong> : bruits d'air et de roulement maîtrisés à 130 km/h.</li>
+  <li><strong>Les sièges</strong> : maintien, réglages, chauffage/ventilation, voire massage.</li>
+  <li><strong>Autonomie + recharge</strong> : pour limiter et raccourcir les pauses.</li>
+</ul>
+
+<h2>Notre sélection</h2>
+<ul>
+  <li><strong>NIO EL7 / EL6</strong> : confort feutré, ambiance « cocon », et l'échange de batterie qui rend les pauses ultra-courtes là où le réseau existe (voir <a href="/actualites/nio-el6-vs-xpeng-g9-grands-suv-electriques-premium">NIO EL6 vs XPeng G9</a>).</li>
+  <li><strong>Hongqi E-HS9</strong> : un salon roulant, cuir Nappa et suspension pneumatique, pour voyager comme un chef d'État (voir <a href="/actualites/hongqi-e-hs9-vs-nio-el7-luxe-presidentiel-technologie">Hongqi E-HS9 vs NIO EL7</a>).</li>
+  <li><strong>Zeekr 001</strong> : break de chasse confortable et efficient, avec recharge 800V pour des pauses éclair.</li>
+  <li><strong>XPeng G9</strong> : confort, grand espace et surtout la recharge la plus rapide du marché, idéale sur long trajet.</li>
+  <li><strong>BYD Tang</strong> : grand SUV 7 places cossu, parfait pour les longs voyages en famille.</li>
+  <li><strong>Voyah Free</strong> : outsider confortable et bien équipé, avec une belle autonomie électrique.</li>
+</ul>
+
+<h2>Le bon réflexe : autonomie ET recharge</h2>
+<p>Sur autoroute, l'autonomie chute (vitesse soutenue) : un SUV annoncé à 500 km WLTP en fera plutôt 350-380 à 130 km/h. La vraie sérénité vient donc de la <em>combinaison</em> d'une bonne autonomie et d'une recharge rapide. C'est là que les modèles 800V (XPeng G9, Zeekr 001) et l'échange de batterie NIO font la différence, en réduisant drastiquement le temps de pause.</p>
+
+<h2>Verdict</h2>
+<p>Pour dévorer l'autoroute dans le confort, notre podium : le <strong>NIO EL7</strong> pour son cocon et son échange de batterie, le <strong>XPeng G9</strong> pour sa recharge imbattable, et le <strong>Hongqi E-HS9</strong> pour le luxe pur. Le choix dépend de votre priorité — luxe, rapidité de recharge, ou espace familial — mais tous prouvent qu'on peut voyager loin, confortablement et à moindre coût au volant d'un grand SUV chinois.</p>
+`,
   },
   {
     slug: '3-voitures-chinoises-pour-oublier-tesla-2026',
@@ -2829,6 +2884,25 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2025-01-06T09:00:00+01:00',
     readingTime: 6,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Trois chinoises pour tourner la page Tesla</h2>
+<p>Tesla a converti des millions de conducteurs à l'électrique. Mais en 2026, la marque n'est plus seule, loin de là. Trois voitures chinoises cochent toutes les cases qui ont fait le succès de Tesla — autonomie, performance, technologie, prix — et parfois font mieux. Voici trois modèles capables de vous faire oublier la marque d'Elon Musk, chacun face à sa Tesla de référence.</p>
+
+<h2>1. BYD Seal — pour oublier la Model 3</h2>
+<p>La berline de BYD offre un intérieur d'une qualité supérieure à son prix, une batterie Blade endurante, et surtout Apple CarPlay / Android Auto que Tesla refuse. Elle rivalise sur la performance et le confort, souvent pour moins cher à équipement comparable. La vraie alternative à la Model 3 (voir <a href="/actualites/byd-seal-vs-tesla-model-3-highland-berline-ultime-2026">BYD Seal vs Tesla Model 3 Highland</a>).</p>
+
+<h2>2. XPeng G6 — pour oublier la Model Y</h2>
+<p>Le SUV compact de XPeng dispose d'un atout massue : son architecture 800V qui recharge deux fois plus vite que la Model Y, pour un prix nettement inférieur. Sur le critère qui fâche le plus en électrique — le temps de recharge — il humilie la référence (voir <a href="/actualites/xpeng-g6-vs-tesla-model-y-recharge-rapide">XPeng G6 vs Tesla Model Y</a>).</p>
+
+<h2>3. Zeekr 001 — pour oublier la Model S</h2>
+<p>Le break de chasse Zeekr propose des performances et une autonomie dignes de la Model S, avec une recharge 800V et une polyvalence supérieure, à un tarif qui fait passer la Tesla pour un produit de luxe. De quoi reconsidérer sérieusement le haut de gamme (voir <a href="/actualites/zeekr-001-vs-tesla-model-s-silicon-valley-tremble-2026">Zeekr 001 vs Tesla Model S</a>).</p>
+
+<h2>Ce que Tesla garde pour lui</h2>
+<p>Soyons honnêtes : Tesla conserve deux atouts que ces chinoises ne peuvent pas encore égaler — le réseau de Superchargeurs, dense et parfaitement intégré, et la maturité de son logiciel. Pour le grand voyageur qui traverse l'Europe, l'écosystème Tesla reste un argument. Mais pour l'usage quotidien et le rapport qualité-prix, l'écart s'est inversé.</p>
+
+<h2>Verdict</h2>
+<p>Oui, trois voitures chinoises peuvent aujourd'hui vous faire oublier Tesla : la <strong>BYD Seal</strong> (confort et équipement), le <strong>XPeng G6</strong> (recharge éclair) et le <strong>Zeekr 001</strong> (performance premium abordable). Chacune bat sa Tesla de référence sur des critères concrets, tout en coûtant souvent moins cher. Tesla garde l'avantage du réseau et du logiciel — mais pour de plus en plus d'acheteurs, ce n'est plus suffisant pour justifier la différence. La concurrence chinoise a définitivement rebattu les cartes.</p>
+`,
   },
   {
     slug: 'voitures-chinoises-plus-attendues-fin-2026',
@@ -2841,6 +2915,28 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-12-23T09:00:00+01:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Les nouveautés chinoises qui font envie</h2>
+<p>Le rythme de lancement des constructeurs chinois donne le tournis. Après une année déjà riche, la fin 2026 s'annonce brûlante, avec des modèles très attendus qui pourraient bousculer encore un peu plus le marché. Tour d'horizon des lancements chinois les plus excitants à venir — sous réserve, comme toujours, des calendriers officiels et des disponibilités par marché.</p>
+
+<h2>BYD : la déferlante continue</h2>
+<p>BYD ne ralentit pas. La marque enrichit sans cesse sa gamme (segment Ocean, déclinaisons Dynasty, versions restylées) et pousse ses technologies maison — batterie Blade, plateforme e-Platform, V2L. Chaque nouveau modèle vise à densifier une offre déjà pléthorique, de la citadine au grand SUV. Pour comprendre la logique de gamme BYD, voir <a href="/actualites/guide-achat-byd-2026-quel-modele-quel-profil">notre guide d'achat BYD</a>.</p>
+
+<h2>Xiaomi : après la SU7, l'expansion</h2>
+<p>Fort du succès retentissant de la SU7, Xiaomi élargit son offensive automobile avec de nouveaux modèles (dont un SUV électrique très attendu). L'enjeu pour la marque : confirmer que le coup d'éclat de la SU7 n'était pas un feu de paille et bâtir une vraie gamme, portée par son écosystème HyperOS.</p>
+
+<h2>NIO : le haut de gamme et les sous-marques</h2>
+<p>NIO poursuit sur deux fronts : le très haut de gamme (avec des berlines et SUV vaisseaux amiraux) et ses sous-marques plus accessibles (Onvo, Firefly) destinées à démocratiser sa technologie et son réseau d'échange de batteries. De quoi élargir considérablement son audience potentielle.</p>
+
+<h2>Zeekr, XPeng et les autres</h2>
+<p>Zeekr continue d'étoffer sa gamme premium (nouveaux SUV, berlines), XPeng pousse ses modèles technologiques à recharge 800V, et des marques comme Leapmotor (portée par Stellantis) ou Omoda/Jaecoo multiplient les lancements en Europe. Le point commun : une électrification massive et une montée en gamme technologique constante.</p>
+
+<h2>Comment aborder ces nouveautés</h2>
+<p>Face à ce flot de lancements, un conseil : ne vous précipitez pas sur la toute dernière annonce. Un modèle fraîchement lancé a parfois des réglages logiciels à affiner (comme l'ont montré certaines premières séries), et le réseau de SAV met du temps à suivre. Attendre les premiers retours ou une mise à jour peut être plus sage — surtout sur une marque encore jeune en Europe.</p>
+
+<h2>Verdict</h2>
+<p>La fin 2026 confirme une tendance de fond : les constructeurs chinois innovent et lancent à un rythme qu'aucun acteur historique n'égale, de BYD à Xiaomi en passant par NIO et Zeekr. Pour l'acheteur, c'est une profusion de choix réjouissante, mais qui invite aussi à la patience : laissez les nouveautés se roder et le réseau se déployer avant de craquer. La meilleure voiture chinoise de la fin d'année sera peut-être celle qu'on jugera vraiment… début 2027.</p>
+`,
   },
   {
     slug: 'classement-marques-chinoises-fiabilite-2026',
@@ -2853,6 +2949,29 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-12-16T09:00:00+01:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Quelle marque chinoise est la plus fiable ?</h2>
+<p>La fiabilité est LA question qui freine encore les acheteurs face aux marques chinoises. Pour y répondre sans a priori, il faut croiser plusieurs sources : études indépendantes (JD Power, TÜV), recul du réseau, et surtout les témoignages de propriétaires. Voici notre lecture du classement de fiabilité des marques chinoises en 2026 — avec les précautions qui s'imposent.</p>
+
+<h2>Une méthode, des limites</h2>
+<p>Attention : beaucoup de marques chinoises sont trop récentes en Europe pour figurer dans les classements historiques (comme le contrôle technique allemand TÜV, qui juge des voitures de plusieurs années). Ce classement combine donc données disponibles, retours propriétaires et maturité de la marque — il est indicatif, pas gravé dans le marbre.</p>
+
+<h2>Le peloton de tête</h2>
+<ul>
+  <li><strong>MG</strong> : c'est la marque chinoise avec le plus de recul en Europe. Les premiers modèles (MG4, ZS) affichent une fiabilité mécanique rassurante, avec des défauts concentrés sur le logiciel plus que sur la mécanique (voir <a href="/actualites/fiabilite-long-terme-mg4-2023-premiers-retours">notre bilan fiabilité de la MG4</a>). Son large réseau renforce la tranquillité.</li>
+  <li><strong>BYD</strong> : le géant mise sur sa maîtrise verticale (batteries Blade produites en interne) et offre une garantie batterie de 8 ans. Les premiers retours sont solides ; sa taille industrielle est un gage de sérieux.</li>
+  <li><strong>Geely / Zeekr</strong> : le groupe (qui possède aussi Volvo, Lotus, Polestar) apporte un savoir-faire d'ingénierie qui bénéficie à ses marques, avec des standards de fabrication élevés (le Zeekr X en est l'illustration côté sécurité).</li>
+</ul>
+
+<h2>Les marques à surveiller</h2>
+<p>NIO, XPeng, Omoda/Jaecoo, Leapmotor ou GWM sont prometteuses mais manquent encore de recul et de densité de réseau en Europe. Cela ne signifie pas qu'elles sont peu fiables — souvent au contraire sur le plan mécanique — mais l'écosystème (pièces, SAV, historique) est moins mature, ce qui pèse sur la sérénité globale.</p>
+
+<h2>Le facteur clé : l'électrique aide la fiabilité</h2>
+<p>Un point rassurant : la motorisation électrique, avec très peu de pièces mobiles, est intrinsèquement moins sujette aux pannes qu'un thermique complexe. Sur les modèles 100 % électriques, la principale inconnue est la batterie — précisément le composant le mieux garanti (jusqu'à 8 ans/250 000 km chez BYD), comme détaillé dans <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties</a>.</p>
+
+<h2>Verdict</h2>
+<p>En tête de la fiabilité chinoise en 2026, on trouve les marques les plus matures et les mieux structurées : <strong>MG</strong> (recul et réseau), <strong>BYD</strong> (intégration industrielle et garantie batterie) et le groupe <strong>Geely/Zeekr</strong> (savoir-faire d'ingénierie). Les autres sont prometteuses mais demandent encore du recul. Le meilleur conseil reste pragmatique : au-delà du classement, choisissez une marque au réseau dense près de chez vous et vérifiez la garantie — c'est ce qui transformera une bonne fiabilité mécanique en tranquillité réelle au quotidien.</p>
+`,
   },
 
   // --- Comparaison des Motorisations (articles.md #71-75) ---
