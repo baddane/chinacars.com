@@ -3379,6 +3379,33 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-09-30T09:00:00+02:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le concept qui bouscule la propriété de la batterie</h2>
+<p>NIO a inventé un modèle inédit : le « Battery as a Service » (BaaS). L'idée est simple mais radicale — vous achetez la voiture <em>sans</em> la batterie, moins chère, et vous louez cette dernière à l'usage. Faut-il louer ou acheter sa batterie ? Le calcul mérite qu'on s'y arrête, car il change la donne économique de l'électrique.</p>
+
+<h2>Comment fonctionne le BaaS</h2>
+<p>Concrètement, le prix d'achat de la voiture est amputé du coût de la batterie (souvent autour de 10 000 €), et vous payez en échange un abonnement mensuel (de l'ordre de 150 € selon la capacité). La batterie appartient à NIO, ce qui va de pair avec le système d'échange : vous pouvez la remplacer par une pleine en quelques minutes en station (voir <a href="/actualites/nio-echange-batterie-vs-tesla-superchargeur-voyage">échange NIO vs Superchargeur Tesla</a>).</p>
+
+<h2>Les avantages du BaaS</h2>
+<ul>
+  <li><strong>Prix d'achat réduit</strong> : la voiture coûte nettement moins cher à l'acquisition.</li>
+  <li><strong>Fin de l'angoisse du vieillissement</strong> : la batterie n'est pas votre problème ; si elle se dégrade, NIO la remplace. C'est un argument fort face à la crainte de la décote liée à la batterie.</li>
+  <li><strong>Accès à l'échange et aux upgrades</strong> : vous pouvez louer ponctuellement une plus grosse batterie pour un long trajet, et bénéficier des futures évolutions.</li>
+</ul>
+
+<h2>Les inconvénients</h2>
+<ul>
+  <li><strong>Un loyer à vie</strong> : tant que vous avez la voiture, vous payez la batterie. Sur de longues années, le cumul peut dépasser le coût d'un achat.</li>
+  <li><strong>Dépendance au réseau NIO</strong> : le modèle n'a de sens que là où les stations et le service existent.</li>
+  <li><strong>La revente</strong> : revendre une voiture dont la batterie est louée demande d'expliquer le montage à l'acheteur.</li>
+</ul>
+
+<h2>Louer ou acheter : le calcul</h2>
+<p>La rentabilité dépend surtout de la <strong>durée de possession</strong>. Si vous gardez la voiture peu de temps, le BaaS est très avantageux (faible prix d'entrée, aucun risque batterie). Si vous la gardez très longtemps, l'achat de la batterie peut finir par coûter moins cher que le cumul des loyers. Votre kilométrage et votre usage des stations d'échange entrent aussi dans l'équation (voir <a href="/actualites/nio-et5-vs-bmw-i4-alternative-premium-chinoise">NIO ET5 vs BMW i4</a>).</p>
+
+<h2>Verdict</h2>
+<p>Le Battery as a Service de NIO est une vraie innovation qui répond à deux peurs de l'électrique : le prix d'achat et le vieillissement de la batterie. Il est particulièrement pertinent si vous gardez votre voiture quelques années et vivez dans une zone couverte par les stations NIO. Pour une possession très longue, l'achat de la batterie peut redevenir plus économique. Le bon réflexe : faites le calcul sur votre durée de détention prévue — et vérifiez d'abord la présence du réseau NIO près de chez vous, car sans lui, tout le modèle perd de son intérêt.</p>
+`,
   },
   {
     slug: 'xpeng-marque-intelligence-artificielle-automobile',
@@ -3391,6 +3418,25 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-09-23T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>XPeng, le constructeur qui pense « logiciel d'abord »</h2>
+<p>Parmi les marques chinoises, XPeng occupe une place à part : c'est celle qui mise le plus sur l'intelligence artificielle. Là où d'autres se battent sur le prix ou le design, XPeng fait de la technologie de conduite et du logiciel son cœur d'identité. Une stratégie « tech-first » qui lui donne une longueur d'avance sur certains terrains — et qui mérite d'être décryptée.</p>
+
+<h2>L'IA au centre de tout</h2>
+<p>XPeng investit des sommes considérables — plusieurs dizaines de millions d'euros par mois — dans l'entraînement de son intelligence artificielle dédiée à la conduite assistée. L'objectif affiché est ambitieux : rivaliser avec le FSD de Tesla, voire le dépasser en Chine. Les tests placent effectivement XPeng au coude-à-coude avec la référence américaine (voir <a href="/actualites/lidar-xpeng-vs-vision-tesla-conduite-autonome-france">Lidar XPeng vs Vision Tesla</a>).</p>
+
+<h2>Une approche matérielle généreuse</h2>
+<p>XPeng a longtemps été pionnier du lidar (capteur laser 3D) pour fiabiliser ses aides à la conduite, même s'il fait désormais évoluer sa stratégie vers des systèmes davantage basés sur les caméras et l'IA. Cette débauche technologique se retrouve dans ses véhicules, comme le G6 et son architecture 800V (voir <a href="/actualites/xpeng-g6-vs-tesla-model-y-recharge-rapide">XPeng G6 vs Tesla Model Y</a>).</p>
+
+<h2>Le logiciel comme produit évolutif</h2>
+<p>La philosophie XPeng, à l'image de Tesla, est de traiter la voiture comme un produit logiciel : des mises à jour à distance régulières font évoluer les fonctions, l'interface et les aides à la conduite au fil du temps. La voiture que vous achetez s'améliore après l'achat — un changement de paradigme par rapport à l'automobile traditionnelle.</p>
+
+<h2>Les limites de la stratégie tech-first</h2>
+<p>Cette avance technologique se heurte toutefois à des réalités : en Europe, la réglementation bride les fonctions de conduite autonome (elles restent au niveau « aide à la conduite supervisée »). Et comme toute marque récente, XPeng doit encore densifier son réseau et sa notoriété. La meilleure IA du monde ne compense pas un SAV difficile d'accès.</p>
+
+<h2>Verdict</h2>
+<p>XPeng est le constructeur chinois le plus « tech », celui qui parie tout sur l'intelligence artificielle et le logiciel. Cette stratégie lui donne une vraie longueur d'avance sur la conduite assistée et l'évolutivité de ses voitures, incarnée par des modèles comme le G6. Ses limites tiennent moins à sa technologie qu'au contexte (réglementation européenne, réseau en construction). Pour l'amateur de technologie et de conduite assistée, XPeng est sans doute la marque chinoise la plus excitante à suivre — à condition de vérifier, comme toujours, l'accès au réseau près de chez soi.</p>
+`,
   },
   {
     slug: 'leapmotor-alliance-stellantis-sav-europe',
@@ -3403,6 +3449,25 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-09-16T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Leapmotor et Stellantis : l'alliance qui change tout</h2>
+<p>Le principal frein à l'achat d'une voiture chinoise, c'est le SAV : qui la répare, où, et avec quelles pièces ? Leapmotor a trouvé une réponse redoutable en s'alliant à Stellantis (Peugeot, Citroën, Fiat, Opel…). Cette alliance résout-elle enfin l'équation du service après-vente en Europe ? Analyse d'un modèle qui pourrait faire école.</p>
+
+<h2>Le principe de l'alliance</h2>
+<p>Stellantis a pris une participation dans Leapmotor et distribue ses véhicules via l'entité Leapmotor International. Concrètement, les Leapmotor peuvent être vendues et entretenues dans le vaste réseau de concessions Stellantis, qui compte des milliers de points en Europe. C'est un avantage colossal pour une marque chinoise récente.</p>
+
+<h2>Pourquoi c'est un game-changer pour le SAV</h2>
+<p>Le point faible historique des marques chinoises — un réseau clairsemé — s'efface d'un coup. Là où NIO ou XPeng doivent bâtir leur réseau point par point, Leapmotor accède immédiatement à une infrastructure de distribution et de service massive et rodée. Pour l'acheteur, cela signifie un atelier accessible, des pièces mieux disponibles et une garantie plus facile à faire jouer — le sujet que nous détaillons dans <a href="/actualites/entretien-voiture-chinoise-france-reseaux-sav">notre article sur les réseaux SAV</a>.</p>
+
+<h2>Un autre bénéfice : le bonus et la production</h2>
+<p>L'alliance a un second effet précieux : elle permet à Leapmotor d'ajuster son empreinte industrielle (composants, assemblage) pour rester éligible au bonus écologique français, là où la plupart des chinoises l'ont perdu en 2026. La citadine T03 en profite pleinement (voir <a href="/actualites/leapmotor-t03-vs-dacia-spring-electrique-15000">Leapmotor T03 vs Dacia Spring</a> et <a href="/actualites/bonus-ecologique-2026-voitures-chinoises-eligibles">bonus écologique 2026</a>).</p>
+
+<h2>Les nuances à garder en tête</h2>
+<p>Tout n'est pas parfait pour autant : l'intégration des modèles chinois dans un réseau conçu pour des marques européennes demande de la formation (techniciens, outillage spécifique), et la montée en compétence prend un peu de temps. Mais la trajectoire est clairement favorable, et l'écart avec les autres marques chinoises sur le SAV est réel.</p>
+
+<h2>Verdict</h2>
+<p>L'alliance Leapmotor-Stellantis est probablement le modèle le plus intelligent pour une marque chinoise qui veut percer en Europe : elle résout d'emblée le problème numéro un — le réseau et le SAV — tout en préservant l'éligibilité au bonus. Pour l'acheteur, cela transforme Leapmotor en l'une des marques chinoises les plus rassurantes à l'achat, malgré sa jeunesse. Si le SAV est votre principale crainte face aux chinoises, Leapmotor apporte une réponse concrète que peu de rivales peuvent égaler.</p>
+`,
   },
   {
     slug: 'gwm-ora-citadines-electriques-design-audacieux',
@@ -3415,6 +3480,29 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-09-09T09:00:00+02:00',
     readingTime: 6,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>GWM Ora, la marque qui ose le style</h2>
+<p>Dans un monde de citadines électriques souvent sages, GWM Ora détonne. La marque, issue du géant chinois Great Wall Motors, mise tout sur un design rétro-futuriste audacieux pour séduire une clientèle urbaine en quête d'originalité. Tour d'horizon d'une marque qui prouve que l'électrique accessible peut aussi avoir du caractère.</p>
+
+<h2>Great Wall Motors, la maison mère</h2>
+<p>Ora est la marque dédiée aux citadines électriques de GWM (Great Wall Motors), l'un des grands constructeurs chinois, également connu pour ses SUV et pick-up (marque Wey, notamment). Cette assise industrielle donne à Ora des moyens réels et un sérieux technique, derrière son image ludique.</p>
+
+<h2>Un design assumé</h2>
+<p>La signature d'Ora, c'est le style. L'Ora 03 (anciennement Funky Cat) affiche des lignes rondes, un regard expressif et une ambiance vintage qui rappellent certaines icônes du passé, tout en étant 100 % électriques. C'est une proposition rare : une citadine électrique qu'on choisit d'abord pour son look (voir <a href="/actualites/gwm-ora-03-vs-mg3-hybrid-design-retro-efficacite">GWM Ora 03 vs MG3 Hybrid+</a>).</p>
+
+<h2>Au-delà du look : que vaut Ora ?</h2>
+<ul>
+  <li><strong>Habitacle</strong> : une ambiance intérieure soignée et originale, dans le prolongement du style extérieur.</li>
+  <li><strong>Autonomie</strong> : de l'ordre de 310 à 340 km WLTP selon la batterie — correct pour un usage urbain et périurbain.</li>
+  <li><strong>Positionnement</strong> : plus haut de gamme (et plus cher) que les citadines chinoises les plus abordables, Ora facture son style et sa finition.</li>
+</ul>
+
+<h2>Pour qui est faite une Ora ?</h2>
+<p>Ora s'adresse à l'acheteur urbain qui veut se démarquer, qui privilégie le design et l'ambiance à bord, et qui dispose d'une solution de recharge. Ce n'est pas la citadine électrique la moins chère ni la plus autonome, mais c'est l'une des plus attachantes. Pour qui cherche avant tout la rationalité, d'autres modèles (MG3 Hybrid+, Leapmotor T03) seront plus pertinents.</p>
+
+<h2>Verdict</h2>
+<p>GWM Ora occupe une niche précieuse : celle de la citadine électrique à forte personnalité. Portée par la puissance industrielle de Great Wall Motors, la marque prouve que l'électrique abordable n'est pas condamné à la banalité. L'Ora 03 séduira ceux qui craquent sur son style rétro-futuriste et acceptent de payer un peu plus pour ce supplément d'âme. Un coup de cœur assumé plus qu'un achat de raison — et c'est exactement ce qu'Ora revendique.</p>
+`,
   },
   {
     slug: 'lynk-co-abonnement-ne-pas-acheter-voiture',
@@ -3427,6 +3515,34 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-09-02T09:00:00+02:00',
     readingTime: 7,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Et si posséder sa voiture n'avait plus de sens ?</h2>
+<p>Lynk & Co, marque du groupe Geely, a bâti son identité sur une idée provocante : vous ne devriez peut-être pas « acheter » votre voiture. À la place, un abonnement mensuel tout compris, résiliable, et même partageable avec d'autres membres. Gadget ou vraie révolution des usages ? Décryptage d'un modèle qui interroge notre rapport à l'automobile.</p>
+
+<h2>Le modèle Lynk & Co</h2>
+<p>Plutôt que l'achat ou le crédit classique, Lynk & Co propose un abonnement mensuel (à partir de quelques centaines d'euros) incluant l'essentiel : assurance, entretien, assistance. L'engagement est court et résiliable, à l'opposé d'un crédit sur plusieurs années. Et la marque encourage le <strong>partage</strong> de sa voiture entre membres, pour amortir les coûts quand on ne l'utilise pas (voir <a href="/actualites/lynk-co-01-vs-mg-ehs-hybride-rechargeable-partage">Lynk & Co 01 vs MG EHS</a>).</p>
+
+<h2>Pourquoi ne pas acheter, selon Lynk & Co</h2>
+<p>L'argument de la marque repose sur un constat : une voiture personnelle passe l'immense majorité de son temps à l'arrêt, immobilisant un capital important pour un usage réel limité. L'abonnement flexible et le partage visent à optimiser cette réalité — payer pour l'usage, pas pour la possession d'un actif qui dort. Nous développons ce calcul dans <a href="/actualites/location-vs-achat-lynk-co-nouvelle-consommation">Location vs Achat</a>.</p>
+
+<h2>Les vrais avantages</h2>
+<ul>
+  <li><strong>Zéro engagement long</strong> : on arrête quand on veut, idéal en période de vie incertaine.</li>
+  <li><strong>Budget prévisible</strong> : un prélèvement unique couvre presque tout.</li>
+  <li><strong>Aucun souci de revente ni de décote</strong>.</li>
+  <li><strong>Mutualisation</strong> : le partage peut réduire encore la facture pour les petits rouleurs.</li>
+</ul>
+
+<h2>Les limites du concept</h2>
+<ul>
+  <li><strong>Le coût sur la durée</strong> : comme toute location, l'abonnement peut revenir plus cher que l'achat si l'on garde la voiture longtemps.</li>
+  <li><strong>Pas de capital constitué</strong> : on ne possède jamais rien.</li>
+  <li><strong>Le partage demande un état d'esprit</strong> : prêter sa voiture ne convient pas à tout le monde.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Lynk & Co ne prétend pas que personne ne devrait acheter de voiture : la marque cible une clientèle précise — urbains, petits rouleurs, allergiques à l'engagement — pour qui la propriété a effectivement moins de sens. Pour les gros rouleurs qui gardent leur voiture des années, l'achat reste plus économique. Mais en posant la question « avez-vous vraiment besoin de posséder ? », Lynk & Co bouscule utilement nos réflexes. C'est moins une révolution universelle qu'une alternative moderne et pertinente pour une part croissante de conducteurs.</p>
+`,
   },
 
   // --- Essais Longue Durée & Vie Quotidienne (articles.md #86-90) ---
