@@ -3557,6 +3557,32 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-08-26T09:00:00+02:00',
     readingTime: 9,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>1 000 km en MG4 : le test de vérité</h2>
+<p>Les chiffres d'autonomie WLTP, c'est bien. La réalité de l'autoroute, c'est mieux. Nous avons parcouru 1 000 km en MG4 sur autoroute pour répondre à la seule question qui compte vraiment : combien consomme-t-elle réellement, et combien d'arrêts faut-il prévoir ? Verdict sans langue de bois.</p>
+
+<h2>Le contexte du test</h2>
+<p>Autoroute à vitesse stabilisée (110-130 km/h), climatisation en marche, chargement normal : bref, un vrai trajet de vacances, pas un exercice d'éco-conduite. C'est dans ces conditions que l'électrique est la plus sollicitée, l'autoroute étant son terrain le moins favorable (l'aérodynamisme pénalise à haute vitesse).</p>
+
+<h2>La consommation réelle</h2>
+<p>Là où la MG4 annonce environ 16 kWh/100 km en cycle mixte, la réalité autoroutière à vitesse soutenue fait grimper la consommation nettement au-dessus — souvent autour de 20 à 22 kWh/100 km selon la vitesse et le vent. Conséquence directe : l'autonomie réelle sur autoroute chute par rapport aux 450 km WLTP annoncés, pour se situer plutôt autour de 280 à 330 km entre deux charges. C'est logique et conforme à ce qu'on observe sur toutes les électriques (voir <a href="/actualites/mg4-vs-byd-dolphin-compactes-electriques">MG4 vs BYD Dolphin</a>).</p>
+
+<h2>Le rythme des arrêts</h2>
+<p>Sur 1 000 km, il faut donc prévoir environ 3 arrêts de recharge. La MG4 acceptant jusqu'à environ 135 kW en courant continu, une recharge de 10 à 80 % prend une trentaine de minutes sur une borne rapide adaptée — le temps d'une pause déjeuner ou café. Le trajet reste donc tout à fait faisable, mais demande un peu de planification (repérer les bornes en amont).</p>
+
+<h2>Les enseignements</h2>
+<ul>
+  <li><strong>La vitesse est l'ennemie de l'autonomie</strong> : rouler à 120 plutôt qu'à 130 km/h fait une vraie différence sur la consommation et espace les arrêts.</li>
+  <li><strong>La planification est clé</strong> : anticiper les bornes rapides sur l'itinéraire évite le stress.</li>
+  <li><strong>Le confort suit</strong> : sur longue distance, la MG4 se montre saine et agréable, sans fatigue particulière.</li>
+</ul>
+
+<h2>Faut-il en avoir peur ?</h2>
+<p>Non. Un long trajet en MG4 est parfaitement réalisable, à condition d'accepter une pause toutes les 300 km environ — ce qui, sur le plan de la sécurité, correspond justement aux recommandations de pause régulière. La MG4 n'est pas une routière au sens des grandes berlines à 600 km d'autonomie, mais elle fait le job pour des trajets de vacances occasionnels, en plus d'être imbattable au quotidien.</p>
+
+<h2>Verdict</h2>
+<p>Notre test de 1 000 km confirme l'essentiel : sur autoroute, la MG4 consomme réellement autour de 20-22 kWh/100 km et demande environ 3 arrêts de recharge, chacun d'une trentaine de minutes. C'est le prix de l'autoroute pour une électrique compacte à ce tarif — ni un exploit, ni un problème. Si vos longs trajets sont occasionnels, la MG4 les avale sans difficulté moyennant un peu de planification. Et pour tout le reste (ville, périurbain, domicile-travail), elle reste l'une des meilleures affaires du marché.</p>
+`,
   },
   {
     slug: 'byd-atto-3-quotidien-5-details-qui-changent-tout',
@@ -3569,6 +3595,31 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-08-19T09:00:00+02:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le BYD Atto 3 à l'épreuve du quotidien</h2>
+<p>Une fiche technique ne dit pas tout. Ce sont les détails du quotidien qui font qu'on aime — ou qu'on subit — sa voiture. Après trois mois de vie commune avec le BYD Atto 3, voici les 5 détails qui changent vraiment la donne, en bien comme en moins bien. Le genre de choses qu'on ne découvre qu'à l'usage.</p>
+
+<h2>1. La batterie Blade, la tranquillité au quotidien</h2>
+<p>Le premier détail qui change tout est invisible : la chimie LFP de la batterie Blade tolère la charge à 100 % chaque nuit sans se dégrader. Fini le casse-tête de « ne pas dépasser 80 % » : on branche, on remplit, on oublie. C'est un confort mental réel (voir <a href="/actualites/batterie-byd-blade-vs-tesla-4680-durabilite">Batterie BYD Blade vs Tesla 4680</a>).</p>
+
+<h2>2. L'écran rotatif : gadget qui devient utile</h2>
+<p>On croit à un gadget, puis on l'adopte : l'écran central qui pivote entre paysage et portrait s'avère pratique au quotidien — format portrait pour la navigation (on voit la route plus loin devant), paysage pour le reste. Un petit plaisir récurrent.</p>
+
+<h2>3. Le V2L : la prise qui dépanne</h2>
+<p>La fonction Vehicle-to-Load transforme l'Atto 3 en source d'électricité mobile. Un pique-nique, un appareil à brancher loin d'une prise, un dépannage : on finit par s'en servir plus souvent qu'on ne l'imaginait (voir <a href="/actualites/v2l-vehicle-to-load-byd-alimenter-maison">V2L expliqué</a>).</p>
+
+<h2>4. La recharge (le point à surveiller)</h2>
+<p>Côté moins reluisant : sur la version d'origine, la vitesse de recharge rapide était modeste, ce qui allongeait les pauses sur long trajet. La version Evo a nettement corrigé ce défaut, mais c'est le détail à vérifier selon le millésime (voir <a href="/actualites/xpeng-g6-vs-byd-atto-3-evo-autonomie-reelle">XPeng G6 vs BYD Atto 3 Evo</a>).</p>
+
+<h2>5. L'intérieur atypique : on adhère ou pas</h2>
+<p>L'habitacle de l'Atto 3 assume une présentation très originale (formes, matériaux, détails « fun »). Au quotidien, c'est rafraîchissant et convivial pour la plupart, mais certains lui préféreront une ambiance plus classique. Un détail de goût qui influence pourtant le plaisir de monter à bord chaque jour.</p>
+
+<h2>Le bilan de trois mois</h2>
+<p>Au-delà de ces cinq points, l'Atto 3 s'est révélé une compagne du quotidien facile à vivre : habitable, confortable, bien équipée et rassurante grâce à sa batterie. Ses défauts sont mineurs et, pour le principal (la recharge), corrigés sur les versions récentes.</p>
+
+<h2>Verdict</h2>
+<p>Ce sont les détails qui font l'attachement à une voiture, et le BYD Atto 3 en accumule plus de bons que de mauvais : batterie sereine, écran rotatif malin, V2L pratique, intérieur convivial. Le seul vrai bémol historique — la recharge — appartient largement au passé avec la version Evo. Après trois mois, le verdict est clair : l'Atto 3 est un SUV compact électrique facile à vivre, dont on apprécie chaque jour les petites attentions. Exactement ce qu'on demande à une voiture du quotidien.</p>
+`,
   },
   {
     slug: 'xiaomi-su7-conditions-hivernales-batterie-promesses',
@@ -3581,6 +3632,30 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-08-12T09:00:00+02:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>La Xiaomi SU7 face au froid</h2>
+<p>L'hiver est le juge de paix des voitures électriques. Par grand froid, l'autonomie peut fondre de 30 à 40 %, la recharge ralentit et le chauffage pompe dans la batterie. La Xiaomi SU7, star technologique aux chiffres flatteurs, tient-elle ses promesses quand le thermomètre plonge ? Test en conditions hivernales.</p>
+
+<h2>Pourquoi le froid pénalise l'électrique</h2>
+<p>Deux phénomènes se combinent. D'abord, la chimie de la batterie est moins performante à basse température : sa capacité utile diminue et elle accepte moins bien la charge rapide. Ensuite, le chauffage de l'habitacle (et le préchauffage de la batterie) consomme de l'énergie qui ne va pas aux roues. Résultat : l'autonomie réelle chute, parfois brutalement.</p>
+
+<h2>La SU7 à l'épreuve</h2>
+<p>Sur une berline aussi technologique que la SU7, deux éléments jouent en sa faveur : une pompe à chaleur efficace (qui chauffe l'habitacle en consommant peu) et une gestion thermique sophistiquée de la batterie. Ces équipements limitent la casse par rapport à une électrique plus rudimentaire, mais ne l'annulent pas : par grand froid, comptez tout de même une baisse d'autonomie significative par rapport aux chiffres annoncés (souvent en cycle CLTC très optimiste, voir <a href="/actualites/byd-seal-vs-xiaomi-su7-ultra-2026">BYD Seal vs Xiaomi SU7 Ultra</a>).</p>
+
+<h2>Les bons réflexes hiver</h2>
+<ul>
+  <li><strong>Préconditionner la batterie</strong> avant une recharge rapide : une batterie à température accepte bien mieux la charge. La SU7, via HyperOS, permet de programmer ce préchauffage (voir <a href="/actualites/hyperos-xiaomi-voiture-integration-smartphone">HyperOS en voiture</a>).</li>
+  <li><strong>Préchauffer l'habitacle branché</strong> : chauffer la voiture pendant qu'elle est encore sur la prise économise la batterie pour rouler.</li>
+  <li><strong>Utiliser les sièges et le volant chauffants</strong> plutôt que de pousser le chauffage général : c'est bien plus économe en énergie.</li>
+  <li><strong>Adapter ses attentes</strong> : sur un long trajet hivernal, prévoyez une marge d'autonomie et un arrêt de recharge de plus.</li>
+</ul>
+
+<h2>Le verdict du thermomètre</h2>
+<p>La SU7 s'en sort mieux que la moyenne grâce à sa technologie, mais elle n'échappe pas aux lois de la physique : par grand froid, son autonomie réelle recule nettement. La bonne nouvelle, c'est que ses équipements (pompe à chaleur, préconditionnement piloté par le logiciel) permettent d'en limiter l'impact si on adopte les bons réflexes.</p>
+
+<h2>Verdict</h2>
+<p>La Xiaomi SU7 tient globalement ses promesses en hiver… à condition de relativiser les chiffres d'autonomie annoncés (souvent en CLTC) et d'adopter les bons gestes : préconditionnement, préchauffage branché, chauffages ciblés. Comme toute électrique, elle perd de l'autonomie par grand froid, mais sa technologie amortit le choc mieux que la moyenne. La leçon vaut pour toutes les électriques : en hiver, ce ne sont pas les chiffres du catalogue qui comptent, mais votre capacité à adapter votre conduite et votre recharge.</p>
+`,
   },
   {
     slug: 'chery-tiggo-8-voyage-famille-test-habitabilite',
@@ -3593,6 +3668,32 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-08-05T09:00:00+02:00',
     readingTime: 8,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Une semaine en famille dans un Chery Tiggo 8</h2>
+<p>Les tests statiques ont leurs limites : rien ne vaut une vraie semaine de vacances en famille pour juger de l'habitabilité d'un SUV. Deux adultes, trois enfants et un coffre plein pour sept jours : nous avons pris la route en Chery Tiggo 8 Pro pour éprouver son espace et son confort dans les conditions réelles d'une famille nombreuse.</p>
+
+<h2>L'atout maître : les 7 places</h2>
+<p>Le Tiggo 8 Pro joue la carte des 7 places, un vrai plus pour une famille de trois enfants (ou pour embarquer les copains et les grands-parents). La troisième rangée, comme souvent, convient surtout aux enfants sur des trajets de durée modérée, mais elle offre une flexibilité précieuse au quotidien (voir <a href="/actualites/jaecoo-7-vs-chery-tiggo-8-pro-suv-familial-chery">Jaecoo 7 vs Chery Tiggo 8 Pro</a>).</p>
+
+<h2>Le coffre à l'épreuve des bagages</h2>
+<p>C'est le nerf de la guerre en vacances. Avec la troisième rangée repliée (configuration 5 places), le volume de chargement s'avère généreux et avale sans peine les bagages d'une famille de cinq pour une semaine. En configuration 7 places pleine, le coffre se réduit logiquement — il faut alors jouer les Tetris ou installer un coffre de toit. Un compromis classique sur les 7 places de ce gabarit.</p>
+
+<h2>Le confort sur les longs trajets</h2>
+<ul>
+  <li><strong>Aux places arrière</strong> : bon espace aux jambes et à la tête pour les enfants, avec des aérateurs et prises USB appréciés pour occuper les petits.</li>
+  <li><strong>La suspension</strong> : orientée confort, elle filtre correctement les imperfections, ce qui compte sur de longues étapes.</li>
+  <li><strong>Le silence</strong> : à vitesse stabilisée, l'ambiance reste sereine, propice à la sieste des enfants.</li>
+</ul>
+
+<h2>Les points pratiques qui comptent en famille</h2>
+<p>Au-delà des chiffres, ce sont les détails qui font la différence : rangements nombreux, points d'ancrage Isofix accessibles, ouvertures larges pour installer les sièges enfants, et une dotation technologique qui aide (caméras, aides au stationnement pour manœuvrer ce grand gabarit). Pour approfondir le choix d'un SUV familial, voir <a href="/actualites/suv-chinois-famille-3-enfants-quel-choisir">Quel SUV chinois pour une famille de 3 enfants</a>.</p>
+
+<h2>Les limites constatées</h2>
+<p>Le grand gabarit, atout pour l'espace, devient un léger handicap en ville et au stationnement — les aides à la manœuvre sont donc les bienvenues. Et comme sur tout 7 places de cette catégorie, il faut choisir entre la 3<sup>e</sup> rangée <em>et</em> un grand coffre : on ne peut pas tout avoir en même temps.</p>
+
+<h2>Verdict</h2>
+<p>Après une semaine de vacances à cinq, le Chery Tiggo 8 Pro convainc sur l'essentiel : de l'espace, une modularité 7 places précieuse, un bon confort sur long trajet et une dotation pratique qui facilite la vie de famille. Ses compromis (coffre réduit en 7 places, gabarit encombrant en ville) sont ceux de toute la catégorie. Pour une famille nombreuse cherchant un grand SUV spacieux à prix contenu, c'est une proposition très sérieuse — et notre semaine de test l'a confirmé sur le terrain.</p>
+`,
   },
   {
     slug: 'navigation-byd-vs-google-maps-fiabilite',
@@ -3605,6 +3706,29 @@ export const articles: ArticleSeed[] = [
     publishedAt: '2024-07-29T09:00:00+02:00',
     readingTime: 6,
     author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>GPS natif ou Google Maps : lequel croire ?</h2>
+<p>Sur une électrique, la navigation ne se contente plus d'indiquer la route : elle planifie les recharges, estime l'autonomie restante et adapte l'itinéraire. Le système natif de BYD, qui intègre ces données de recharge, est-il vraiment plus fiable que l'incontournable Google Maps ? Nous avons comparé les deux sur une dizaine de trajets réels.</p>
+
+<h2>L'avantage théorique du GPS natif BYD</h2>
+<p>Le système embarqué de BYD connaît des données que Google Maps ignore : l'état de charge exact de la batterie, la consommation réelle en temps réel, les caractéristiques de recharge du véhicule. En théorie, il peut donc planifier des arrêts de recharge plus pertinents et estimer l'autonomie restante avec plus de précision. C'est l'atout majeur d'une navigation intégrée à la voiture.</p>
+
+<h2>Là où Google Maps garde l'avantage</h2>
+<ul>
+  <li><strong>La qualité de la cartographie et du trafic</strong> : Google Maps reste une référence sur la précision des cartes, la fraîcheur des données de trafic et la gestion des incidents en temps réel.</li>
+  <li><strong>La recherche de points d'intérêt</strong> : trouver un restaurant, un commerce ou lire des avis, Google Maps est imbattable.</li>
+  <li><strong>La familiarité</strong> : l'interface est connue de tous, sans temps d'adaptation.</li>
+</ul>
+
+<h2>Le résultat sur nos trajets</h2>
+<p>Le bilan est nuancé. Pour la <strong>planification de recharge</strong> et l'estimation d'autonomie, le système natif BYD s'est montré souvent plus juste, car il intègre les données réelles du véhicule. Pour la <strong>navigation pure</strong> (trafic, itinéraires alternatifs, POI), Google Maps a conservé l'avantage de sa base de données et de son ergonomie. Aucun des deux n'écrase l'autre : ils excellent sur des terrains différents.</p>
+
+<h2>La bonne nouvelle : pas besoin de choisir</h2>
+<p>La plupart des BYD offrant Apple CarPlay et Android Auto (contrairement à certaines rivales), vous pouvez utiliser Google Maps à l'écran quand vous le souhaitez, et basculer sur le système natif pour les longs trajets nécessitant une planification de recharge fine. C'est le meilleur des deux mondes — un atout que nous soulignons dans <a href="/actualites/guide-achat-byd-2026-quel-modele-quel-profil">notre guide d'achat BYD</a>.</p>
+
+<h2>Verdict</h2>
+<p>Ni l'un ni l'autre ne l'emporte totalement. Le <strong>système natif BYD</strong> est plus fiable pour planifier les recharges et estimer l'autonomie, grâce à son accès aux données du véhicule. <strong>Google Maps</strong> reste supérieur pour la navigation quotidienne, le trafic et la recherche de lieux. Le vrai bon plan : utiliser les deux selon le contexte, ce que permet la présence de CarPlay/Android Auto sur les BYD. En clair, gardez Google Maps pour le quotidien, et faites confiance au GPS natif quand la recharge devient l'enjeu principal.</p>
+`,
   },
 
   // --- Analyses & Tendances du Marché (articles.md #91-100) ---
