@@ -61,7 +61,7 @@ export default function ArticlePage({ params }: PageProps) {
             title: article.title,
             description: article.excerpt,
             url: `/actualites/${article.slug}`,
-            image: article.image,
+            image: imageSrc,
             datePublished: article.publishedAt,
             authorName: article.author,
             section: article.category,

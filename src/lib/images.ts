@@ -119,19 +119,31 @@ const MODEL_IMAGE_MAP: [string, string][] = [
   ['maxus', 'gwm-poer-dc.jpg'],
 ];
 
-const CATEGORY_KEYWORDS: Record<string, string> = {
-  comparatif: 'electric,car,comparison,road',
-  technologie: 'electric,car,technology,battery',
-  guide: 'car,showroom,dealership,automotive',
-  selection: 'luxury,electric,car,lineup',
-  analyse: 'automotive,cars,road,industry',
-  essai: 'car,test,drive,road,speed',
-  nouveaute: 'new,electric,car,launch',
-  electrique: 'electric,car,charging,EV',
-  hybride: 'hybrid,car,eco,drive',
-  maroc: 'electric,car,road,sunny',
-  conseil: 'car,advice,dealership',
-};
+/**
+ * Pool de repli 100 % sur-thème : de vraies photos de voitures chinoises
+ * (wandaloo.com), utilisé pour les articles génériques (guides, sélections,
+ * analyses) qui ne citent pas un modèle précis dans leur slug. Choisi de
+ * façon déterministe par slug pour garantir de la variété.
+ */
+const THEME_FALLBACK_IMAGES = [
+  'byd-seal.jpg',
+  'byd-atto-3.jpg',
+  'byd-tang.jpg',
+  'mg-zs-ev.jpg',
+  'mg-mg3.jpg',
+  'zeekr-001.jpg',
+  'zeekr-x.jpg',
+  'zeekr-7x.jpg',
+  'xpeng-g6.jpg',
+  'xpeng-g9.jpg',
+  'omoda-5-shs-h.jpg',
+  'omoda-e5.jpg',
+  'chery-tiggo-8-pro-phev.jpg',
+  'geely-coolray.jpg',
+  'gwm-ora-03.jpg',
+  'gwm-wey-05.jpg',
+  'jaecoo-j7.jpg',
+];
 
 function slugToLock(slug: string): number {
   return Math.abs(slug.split('').reduce((acc, c) => (acc * 31 + c.charCodeAt(0)) | 0, 0)) % 10000;
@@ -145,22 +157,24 @@ function findWandaloo(slug: string): string | null {
 }
 
 /**
- * Resolves the best available image for an article:
- * 1. Real Sanity CMS URL → pass through
- * 2. Slug matches a known model → wandaloo.com vehicle photo
- * 3. Category keyword match → loremflickr keyword search
+ * Résout la meilleure image pour un article :
+ * 1. Vraie URL (CMS ou photo wandaloo déjà renseignée) → conservée
+ * 2. Image placeholder (loremflickr / picsum, hors-thème) → remplacée :
+ *    a. par la photo wandaloo du modèle si le slug matche une marque/modèle
+ *    b. sinon par une photo de voiture chinoise du pool sur-thème
  */
 export function resolveArticleImage(
   image: string,
   slug: string,
-  categorySlug: string,
-  width = 1200,
-  height = 800,
+  _categorySlug?: string,
 ): string {
-  if (!image.includes('picsum.photos')) return image;
+  const isPlaceholder =
+    image.includes('loremflickr.com') || image.includes('picsum.photos');
+  if (!isPlaceholder) return image;
+
   const wandaloo = findWandaloo(slug);
   if (wandaloo) return wandaloo;
-  const keywords = CATEGORY_KEYWORDS[categorySlug] ?? 'electric,car,automotive,road';
-  const lock = slugToLock(slug);
-  return `https://loremflickr.com/${width}/${height}/${keywords}?lock=${lock}`;
+
+  const idx = slugToLock(slug) % THEME_FALLBACK_IMAGES.length;
+  return WANDALOO_BASE + THEME_FALLBACK_IMAGES[idx];
 }
