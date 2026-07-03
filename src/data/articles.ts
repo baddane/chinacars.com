@@ -167,7 +167,7 @@ export const articles: ArticleSeed[] = [
   },
   {
     slug: 'importer-voiture-chinoise-maroc-2024',
-    title: 'Guide : comment importer sa voiture de Chine en 2024 ?',
+    title: 'Guide : comment importer sa voiture de Chine au Maroc ?',
     excerpt:
       "Tout ce qu'il faut savoir sur les taxes, le dédouanement et l'homologation pour le marché marocain.",
     image: 'https://loremflickr.com/1200/800/car,showroom,dealership?lock=3230',
