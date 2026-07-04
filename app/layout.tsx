@@ -1,8 +1,11 @@
 import type { Metadata, Viewport } from 'next';
 import { Inter } from 'next/font/google';
+import Script from 'next/script';
 import { SITE } from '@/src/lib/constants';
 import { absoluteUrl } from '@/src/lib/seo/metadata';
 import './globals.css';
+
+const ADSENSE_CLIENT = 'ca-pub-1436679935240248';
 
 const inter = Inter({
   subsets: ['latin'],
@@ -57,6 +60,9 @@ export const metadata: Metadata = {
       'max-video-preview': -1,
     },
   },
+  other: {
+    'google-adsense-account': ADSENSE_CLIENT,
+  },
 };
 
 export const viewport: Viewport = {
@@ -68,7 +74,16 @@ export const viewport: Viewport = {
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang={SITE.defaultLanguage} className={inter.variable}>
-      <body>{children}</body>
+      <body>
+        {children}
+        <Script
+          id="google-adsense"
+          async
+          strategy="afterInteractive"
+          crossOrigin="anonymous"
+          src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${ADSENSE_CLIENT}`}
+        />
+      </body>
     </html>
   );
 }
