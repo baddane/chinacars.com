@@ -51,6 +51,52 @@ export const COMPARISON_DUELS: Array<[string, string]> = [
   ['chery-tiggo-8-pro', 'toyota-rav4'],
   ['gwm-wey-05', 'toyota-rav4'],
   ['xpeng-g9', 'byd-tang'],
+
+  // --- Chinoises vs Dacia (le mètre-étalon du rapport prix) ---
+  ['omoda-e5', 'dacia-duster'],
+  ['byd-atto-3', 'dacia-duster'],
+  ['byd-seagull', 'dacia-sandero'],
+  ['mg3-hybrid', 'dacia-sandero-stepway'],
+  ['jaecoo-7', 'dacia-bigster'],
+  ['mg-zs-hybrid', 'dacia-bigster-hybrid'],
+
+  // --- Chinoises vs Toyota (référence fiabilité/hybride) ---
+  ['omoda-5-shs-h', 'toyota-c-hr'],
+  ['byd-atto-3', 'toyota-c-hr'],
+  ['jaecoo-7', 'toyota-rav4'],
+  ['byd-seal-u', 'toyota-rav4'],
+
+  // --- Chinoises vs Renault ---
+  ['byd-seagull', 'renault-clio'],
+  ['mg-zs-hybrid', 'renault-captur'],
+  ['omoda-5-shs-h', 'renault-captur'],
+
+  // --- Chinoises vs Peugeot ---
+  ['byd-seagull', 'peugeot-208'],
+  ['omoda-e5', 'peugeot-2008'],
+  ['xpeng-g6', 'peugeot-3008'],
+  ['byd-atto-3', 'peugeot-2008'],
+
+  // --- Chinoises vs VW / Hyundai / Citroën ---
+  ['mg-zs-hybrid', 'vw-t-cross'],
+  ['byd-atto-3', 'vw-t-roc'],
+  ['omoda-5-shs-h', 'hyundai-kona'],
+  ['byd-seal-u', 'hyundai-tucson'],
+  ['byd-seagull', 'citroen-c3'],
+
+  // --- Chinoises entre elles ---
+  ['byd-atto-3', 'omoda-e5'],
+  ['byd-atto-3', 'mg-zs-ev'],
+  ['mg-zs-hybrid', 'omoda-5-shs-h'],
+  ['gwm-wey-05', 'byd-seal-u'],
+  ['byd-seagull', 'gwm-ora-03'],
+  ['xpeng-g6', 'byd-sealion-7'],
+
+  // --- Rivales entre elles (fort volume de recherche) ---
+  ['dacia-duster', 'toyota-yaris-cross'],
+  ['toyota-rav4', 'hyundai-tucson'],
+  ['dacia-spring', 'renault-5-e-tech'],
+  ['renault-clio-e-tech', 'toyota-yaris'],
 ];
 
 export function duelSlug(a: string, b: string): string {
