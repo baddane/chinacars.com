@@ -1,10 +1,17 @@
 'use client';
 
 import { useMemo, useState } from 'react';
-import Image from 'next/image';
 import { Trophy, Check } from 'lucide-react';
+import ImageWithFallback from '@/src/components/ui/ImageWithFallback';
 import { cn } from '@/src/lib/utils';
-import { CARS, getCar, POWERTRAIN_LABELS, type Car } from '@/src/data/cars';
+import { CARS, getCar, carLabel, POWERTRAIN_LABELS, type Car } from '@/src/data/cars';
+
+/** Nom du modèle sans la marque (pour l'afficher sous le libellé de marque). */
+function modelName(car: Car): string {
+  return car.name.toLowerCase().startsWith(car.brand.toLowerCase())
+    ? car.name.slice(car.brand.length).trim()
+    : car.name;
+}
 import {
   CRITERIA,
   DRIVER_PROFILES,
@@ -65,7 +72,7 @@ function CarSelect({
           <optgroup key={brand} label={brand}>
             {cars.map((car) => (
               <option key={car.slug} value={car.slug} disabled={car.slug === exclude}>
-                {car.brand} {car.name}
+                {carLabel(car)}
               </option>
             ))}
           </optgroup>
@@ -237,9 +244,9 @@ export default function Comparateur() {
                         </div>
                       )}
                       <div className="relative aspect-[16/10] bg-gray-100">
-                        <Image
+                        <ImageWithFallback
                           src={car.image}
-                          alt={`${car.brand} ${car.name}`}
+                          alt={carLabel(car)}
                           fill
                           sizes="(min-width: 768px) 400px, 100vw"
                           className="object-cover"
@@ -249,7 +256,7 @@ export default function Comparateur() {
                         <p className="text-xs font-semibold uppercase tracking-wide text-red-600">
                           {car.brand}
                         </p>
-                        <p className="text-lg font-bold text-gray-900">{car.name}</p>
+                        <p className="text-lg font-bold text-gray-900">{modelName(car)}</p>
                         <p className="text-sm text-gray-500">{car.segment}</p>
                         <div className="mt-4 flex items-end gap-2">
                           <span
@@ -281,7 +288,7 @@ export default function Comparateur() {
                 <Trophy className="mt-0.5 h-6 w-6 flex-shrink-0 text-red-600" aria-hidden="true" />
                 <div>
                   <p className="text-sm font-bold uppercase tracking-wide text-gray-500">
-                    Pourquoi {winnerCar ? `la ${winnerCar.brand} ${winnerCar.name}` : 'ce choix'} ?
+                    Pourquoi {winnerCar ? `la ${carLabel(winnerCar)}` : 'ce choix'} ?
                   </p>
                   <p
                     className="mt-2 text-base leading-7 text-gray-700"
@@ -335,8 +342,8 @@ export default function Comparateur() {
                   <thead>
                     <tr className="border-b border-gray-200 text-left">
                       <th className="py-3 pr-4 font-semibold text-gray-500">Caractéristique</th>
-                      <th className="px-4 py-3 font-bold text-gray-900">{carA.brand} {carA.name}</th>
-                      <th className="px-4 py-3 font-bold text-gray-900">{carB.brand} {carB.name}</th>
+                      <th className="px-4 py-3 font-bold text-gray-900">{carLabel(carA)}</th>
+                      <th className="px-4 py-3 font-bold text-gray-900">{carLabel(carB)}</th>
                     </tr>
                   </thead>
                   <tbody>

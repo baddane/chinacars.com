@@ -6,7 +6,7 @@
  * Pur (pas de React) → utilisable côté client comme serveur.
  */
 
-import { CARS, type Car } from '@/src/data/cars';
+import { CARS, carLabel, type Car } from '@/src/data/cars';
 
 export type CriterionId =
   | 'budget'
@@ -220,7 +220,7 @@ function buildSummary(
   breakdown: CriterionBreakdown[],
 ): string {
   if (winner === 'tie') {
-    return `Match nul ! La ${a.brand} ${a.name} et la ${b.brand} ${b.name} obtiennent le même score pour votre profil. Départagez-les sur le détail ci-dessous ou sur un coup de cœur.`;
+    return `Match nul ! La ${carLabel(a)} et la ${carLabel(b)} obtiennent le même score pour votre profil. Départagez-les sur le détail ci-dessous ou sur un coup de cœur.`;
   }
   const win = winner === 'a' ? a : b;
   const lose = winner === 'a' ? b : a;
@@ -243,7 +243,7 @@ function buildSummary(
     .filter((c) => c.gap > 0.05)
     .sort((x, y) => y.gap - x.gap)[0];
 
-  let sentence = `Pour votre profil, la <strong>${win.brand} ${win.name}</strong> l'emporte`;
+  let sentence = `Pour votre profil, la <strong>${carLabel(win)}</strong> l'emporte`;
   if (strengths.length === 1) {
     sentence += ` grâce à son avantage sur « ${strengths[0]} »`;
   } else if (strengths.length >= 2) {
@@ -254,7 +254,7 @@ function buildSummary(
   }
   sentence += '.';
   if (loserEdge) {
-    sentence += ` La ${lose.brand} ${lose.name} conserve toutefois l'avantage sur « ${loserEdge.label} » — à vous de juger si ce point est décisif.`;
+    sentence += ` La ${carLabel(lose)} conserve toutefois l'avantage sur « ${loserEdge.label} » — à vous de juger si ce point est décisif.`;
   }
   return sentence;
 }
@@ -285,10 +285,12 @@ export function compareCars(
 
 /** Duels populaires proposés en accès rapide. */
 export const POPULAR_DUELS: Array<{ a: string; b: string; label: string }> = [
+  { a: 'mg-zs-hybrid', b: 'dacia-duster', label: 'MG ZS Hybrid+ vs Dacia Duster' },
+  { a: 'byd-seagull', b: 'dacia-spring', label: 'BYD Dolphin Surf vs Dacia Spring' },
+  { a: 'omoda-5-shs-h', b: 'toyota-yaris-cross', label: 'Omoda 5 SHS-H vs Toyota Yaris Cross' },
+  { a: 'dacia-bigster-hybrid', b: 'mg-hs-hybrid', label: 'Dacia Bigster Hybrid vs MG HS Hybrid+' },
+  { a: 'mg3-hybrid', b: 'renault-clio-e-tech', label: 'MG3 Hybrid+ vs Renault Clio E-Tech' },
   { a: 'byd-seal', b: 'zeekr-001', label: 'BYD Seal vs Zeekr 001' },
-  { a: 'mg3-hybrid', b: 'byd-seagull', label: 'MG3 Hybrid+ vs BYD Dolphin Surf' },
   { a: 'xpeng-g6', b: 'byd-atto-3', label: 'XPeng G6 vs BYD Atto 3' },
-  { a: 'byd-tang', b: 'chery-tiggo-8-pro', label: 'BYD Tang vs Chery Tiggo 8 Pro' },
-  { a: 'omoda-5-shs-h', b: 'mg-zs-hybrid', label: 'Omoda 5 SHS-H vs MG ZS Hybrid+' },
-  { a: 'zeekr-x', b: 'xpeng-g6', label: 'Zeekr X vs XPeng G6' },
+  { a: 'dacia-jogger', b: 'chery-tiggo-8-pro', label: 'Dacia Jogger vs Chery Tiggo 8 Pro' },
 ];
