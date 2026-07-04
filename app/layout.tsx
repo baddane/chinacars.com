@@ -3,9 +3,27 @@ import { Inter } from 'next/font/google';
 import Script from 'next/script';
 import { SITE } from '@/src/lib/constants';
 import { absoluteUrl } from '@/src/lib/seo/metadata';
+import CookieConsent from '@/src/components/legal/CookieConsent';
 import './globals.css';
 
 const ADSENSE_CLIENT = 'ca-pub-1436679935240248';
+
+// Google Consent Mode v2 : cookies publicitaires refusés par défaut, tant que
+// l'utilisateur n'a pas donné son accord via le bandeau (conformité EEE/RGPD).
+const CONSENT_DEFAULT_SCRIPT = `
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+window.gtag = gtag;
+var c = 'denied';
+try { if (localStorage.getItem('cookie-consent') === 'granted') c = 'granted'; } catch (e) {}
+gtag('consent', 'default', {
+  ad_storage: c,
+  ad_user_data: c,
+  ad_personalization: c,
+  analytics_storage: c,
+  wait_for_update: 500
+});
+`;
 
 const inter = Inter({
   subsets: ['latin'],
@@ -75,7 +93,13 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang={SITE.defaultLanguage} className={inter.variable}>
       <body>
+        <Script
+          id="consent-default"
+          strategy="beforeInteractive"
+          dangerouslySetInnerHTML={{ __html: CONSENT_DEFAULT_SCRIPT }}
+        />
         {children}
+        <CookieConsent />
         <Script
           id="google-adsense"
           async

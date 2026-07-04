@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import { Car, Facebook, Twitter, Instagram, Youtube } from 'lucide-react';
+import CookieSettingsButton from '@/src/components/legal/CookieSettingsButton';
 
 const footerNavigation = {
   marques: [
@@ -20,6 +21,7 @@ const footerNavigation = {
     { name: 'À propos', href: '/a-propos' },
     { name: 'Contact', href: '/contact' },
     { name: 'Mentions légales', href: '/mentions-legales' },
+    { name: 'Confidentialité', href: '/confidentialite' },
   ],
   social: [
     { name: 'Facebook', href: '#', icon: Facebook },
@@ -112,6 +114,9 @@ export default function Footer() {
                       </Link>
                     </li>
                   ))}
+                  <li>
+                    <CookieSettingsButton className="text-left text-sm leading-6 text-gray-300 hover:text-white" />
+                  </li>
                 </ul>
               </div>
             </div>

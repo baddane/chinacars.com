@@ -26,7 +26,7 @@ export default function LegalNoticePage() {
           <p>
             Le site <strong>vehiculeschinois.com</strong> est édité par Véhicules Chinois.
             <br />
-            Directeur de la publication : à renseigner.
+            Directeur de la publication : le représentant légal de Véhicules Chinois.
             <br />
             Contact :{' '}
             <a href="mailto:contact@vehiculeschinois.com" className="text-red-600 hover:underline">
@@ -59,11 +59,16 @@ export default function LegalNoticePage() {
             contactez-nous à l&apos;adresse indiquée ci-dessus.
           </p>
 
-          <h2 className="mt-10 text-xl font-bold text-gray-900">Cookies</h2>
+          <h2 className="mt-10 text-xl font-bold text-gray-900">Cookies et publicité</h2>
           <p>
             Le site utilise des cookies à des fins de mesure d&apos;audience et
-            d&apos;affichage publicitaire. Vous pouvez configurer vos préférences
-            directement via votre navigateur.
+            d&apos;affichage publicitaire (via Google AdSense). Les cookies non essentiels
+            ne sont déposés qu&apos;après votre consentement. Pour le détail des données
+            traitées, des cookies utilisés et de vos droits, consultez notre{' '}
+            <a href="/confidentialite" className="text-red-600 hover:underline">
+              politique de confidentialité
+            </a>
+            .
           </p>
         </div>
       </div>
