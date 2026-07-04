@@ -2,10 +2,11 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 import Image from 'next/image';
 import { ArrowRight, Zap, Shield, TrendingUp, ChevronRight } from 'lucide-react';
-import { resolveArticleImage } from '@/src/lib/images';
 import ArticleCard from '@/src/components/articles/ArticleCard';
 import { articles } from '@/src/data/articles';
 import { BRANDS } from '@/src/lib/constants';
+import { carLabel } from '@/src/data/cars';
+import { VALID_DUELS } from '@/src/data/duels';
 
 export const metadata: Metadata = {
   title: "L'actualité des voitures chinoises au Maroc",
@@ -17,6 +18,16 @@ export const metadata: Metadata = {
 const featuredArticles = articles.slice(0, 3);
 const latestArticle = articles[0];
 const brandLogos = BRANDS.slice(0, 6);
+
+const featuredDuels = [
+  'byd-seal-vs-zeekr-001',
+  'mg-zs-hybrid-vs-dacia-duster',
+  'byd-atto-3-vs-xpeng-g6',
+  'byd-tang-vs-chery-tiggo-8-pro',
+  'mg3-hybrid-vs-renault-clio-e-tech',
+]
+  .map((slug) => VALID_DUELS.find((d) => d.slug === slug))
+  .filter((d): d is NonNullable<typeof d> => Boolean(d));
 
 export default function Home() {
   return (
@@ -122,6 +133,53 @@ export default function Home() {
             {featuredArticles.map((article, index) => (
               <ArticleCard key={article.slug} article={article} priority={index === 0} />
             ))}
+          </div>
+        </div>
+      </section>
+
+      <section className="bg-gray-900 py-24">
+        <div className="mx-auto max-w-7xl px-6 lg:px-8">
+          <div className="grid grid-cols-1 items-center gap-x-12 gap-y-12 lg:grid-cols-2">
+            <div>
+              <h2 className="text-base font-semibold leading-7 text-red-500">
+                Comparateur intelligent
+              </h2>
+              <p className="mt-2 text-3xl font-bold tracking-tight text-white sm:text-4xl">
+                Quelle voiture est faite pour vous ?
+              </p>
+              <p className="mt-6 text-lg leading-8 text-gray-300">
+                Dites-nous quel conducteur vous êtes et ce que vous recherchez :
+                notre comparateur note deux modèles selon <em>vos</em> priorités,
+                désigne le gagnant et détaille tout — prix, autonomie, sécurité,
+                coût d&apos;usage.
+              </p>
+              <Link
+                href="/comparateur"
+                className="mt-8 inline-flex items-center gap-2 rounded-md bg-red-600 px-5 py-3 text-sm font-semibold text-white shadow-sm hover:bg-red-500"
+              >
+                Lancer le comparateur <ArrowRight className="h-4 w-4" aria-hidden="true" />
+              </Link>
+            </div>
+            <div>
+              <p className="text-sm font-semibold uppercase tracking-wide text-gray-400">
+                Comparaisons populaires
+              </p>
+              <ul className="mt-4 space-y-3">
+                {featuredDuels.map((d) => (
+                  <li key={d.slug}>
+                    <Link
+                      href={`/comparateur/${d.slug}`}
+                      className="flex items-center justify-between gap-3 rounded-xl border border-white/10 bg-white/5 px-4 py-3 text-sm font-medium text-gray-200 transition-colors hover:border-red-500/50 hover:text-white"
+                    >
+                      <span>
+                        {carLabel(d.a)} <span className="text-gray-500">vs</span> {carLabel(d.b)}
+                      </span>
+                      <ChevronRight className="h-4 w-4 flex-shrink-0 text-gray-500" aria-hidden="true" />
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+            </div>
           </div>
         </div>
       </section>
