@@ -5,6 +5,8 @@ import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { Menu, X, Car, Search, Globe } from 'lucide-react';
 import { cn } from '@/src/lib/utils';
+import SearchModal from '@/src/components/search/SearchModal';
+import type { SearchItem } from '@/src/lib/searchTypes';
 
 const navigation = [
   { name: 'Actualités', href: '/actualites' },
@@ -16,8 +18,9 @@ const navigation = [
   { name: 'Maroc', href: '/maroc' },
 ];
 
-export default function Header() {
+export default function Header({ searchIndex = [] }: { searchIndex?: SearchItem[] }) {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+  const [searchOpen, setSearchOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
   const pathname = usePathname();
   const isHome = pathname === '/';
@@ -109,6 +112,7 @@ export default function Header() {
           <button
             type="button"
             aria-label="Rechercher"
+            onClick={() => setSearchOpen(true)}
             className={cn(
               'p-2 transition-colors',
               transparent ? 'text-white hover:text-red-400' : 'text-gray-700 hover:text-red-600',
@@ -168,10 +172,23 @@ export default function Header() {
                   {item.name}
                 </Link>
               ))}
+              <button
+                type="button"
+                onClick={() => {
+                  setMobileMenuOpen(false);
+                  setSearchOpen(true);
+                }}
+                className="flex w-full items-center gap-2 rounded-lg px-3 py-2 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-50"
+              >
+                <Search className="h-5 w-5" aria-hidden="true" />
+                Rechercher
+              </button>
             </div>
           </div>
         </div>
       </div>
+
+      <SearchModal open={searchOpen} onClose={() => setSearchOpen(false)} index={searchIndex} />
     </header>
   );
 }
