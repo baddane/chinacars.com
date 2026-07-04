@@ -23,7 +23,7 @@ export default function Home() {
     <>
       <section className="relative isolate overflow-hidden bg-gray-900 pt-14">
         <Image
-          src="https://loremflickr.com/1920/1080/electric,car,sedan,modern,road?lock=888"
+          src="https://www.wandaloo.com/files/Voiture-Neuve/zeekr-001.jpg"
           alt=""
           aria-hidden="true"
           fill
@@ -205,7 +205,7 @@ export default function Home() {
               Consulter nos guides
             </Link>
             <Link
-              href="/comparatifs"
+              href="/comparateur"
               className="text-sm font-semibold leading-6 text-white flex items-center gap-1"
             >
               Comparer les modèles <ChevronRight className="h-4 w-4" />

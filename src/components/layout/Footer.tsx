@@ -10,6 +10,12 @@ const footerNavigation = {
     { name: 'GWM', href: '/marques/gwm' },
     { name: 'Zeekr', href: '/marques/zeekr' },
   ],
+  explorer: [
+    { name: 'Actualités', href: '/actualites' },
+    { name: 'Comparateur', href: '/comparateur' },
+    { name: 'Comparatifs', href: '/comparatifs' },
+    { name: 'Guides', href: '/guides' },
+  ],
   support: [
     { name: 'À propos', href: '/a-propos' },
     { name: 'Contact', href: '/contact' },
@@ -56,8 +62,25 @@ export default function Footer() {
             </div>
           </div>
           <div className="mt-16 grid grid-cols-2 gap-8 xl:col-span-2 xl:mt-0">
-            <div className="md:grid md:grid-cols-2 md:gap-8">
+            <div className="md:grid md:grid-cols-3 md:gap-8">
               <div>
+                <h3 className="text-sm font-semibold leading-6 text-white">
+                  Explorer
+                </h3>
+                <ul className="mt-6 space-y-4">
+                  {footerNavigation.explorer.map((item) => (
+                    <li key={item.name}>
+                      <Link
+                        href={item.href}
+                        className="text-sm leading-6 text-gray-300 hover:text-white"
+                      >
+                        {item.name}
+                      </Link>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+              <div className="mt-10 md:mt-0">
                 <h3 className="text-sm font-semibold leading-6 text-white">
                   Marques populaires
                 </h3>
