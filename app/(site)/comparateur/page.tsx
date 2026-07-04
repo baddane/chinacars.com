@@ -2,7 +2,10 @@ import type { Metadata } from 'next';
 import Breadcrumb from '@/src/components/layout/Breadcrumb';
 import JsonLd from '@/src/components/seo/JsonLd';
 import { breadcrumbSchema } from '@/src/lib/seo/schemas';
+import Link from 'next/link';
 import Comparateur from '@/src/components/compare/Comparateur';
+import { carLabel } from '@/src/data/cars';
+import { VALID_DUELS } from '@/src/data/duels';
 
 export const metadata: Metadata = {
   title: 'Comparateur intelligent de voitures chinoises',
@@ -61,6 +64,28 @@ export default function ComparateurPage() {
         <div className="mt-14">
           <Comparateur />
         </div>
+
+        {/* Comparaisons populaires (pages dédiées, maillage interne + SEO) */}
+        <section className="mt-20 border-t border-gray-200 pt-12">
+          <h2 className="text-2xl font-bold tracking-tight text-gray-900">
+            Comparaisons populaires
+          </h2>
+          <p className="mt-2 text-sm text-gray-600">
+            Des duels prêts à consulter, avec verdict et comparatif technique détaillé.
+          </p>
+          <ul className="mt-6 grid grid-cols-1 gap-3 sm:grid-cols-2">
+            {VALID_DUELS.map((d) => (
+              <li key={d.slug}>
+                <Link
+                  href={`/comparateur/${d.slug}`}
+                  className="block rounded-xl border border-gray-200 px-4 py-3 text-sm font-medium text-gray-700 hover:border-red-400 hover:text-red-600"
+                >
+                  {carLabel(d.a)} <span className="text-gray-400">vs</span> {carLabel(d.b)}
+                </Link>
+              </li>
+            ))}
+          </ul>
+        </section>
       </div>
     </div>
   );

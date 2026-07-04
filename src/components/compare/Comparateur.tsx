@@ -4,7 +4,8 @@ import { useMemo, useState } from 'react';
 import { Trophy, Check } from 'lucide-react';
 import ImageWithFallback from '@/src/components/ui/ImageWithFallback';
 import { cn } from '@/src/lib/utils';
-import { CARS, getCar, carLabel, POWERTRAIN_LABELS, type Car } from '@/src/data/cars';
+import { CARS, getCar, carLabel, type Car } from '@/src/data/cars';
+import { SPEC_ROWS, betterOnRow } from '@/src/lib/carSpecRows';
 
 /** Nom du modèle sans la marque (pour l'afficher sous le libellé de marque). */
 function modelName(car: Car): string {
@@ -25,29 +26,6 @@ const carsByBrand = CARS.reduce<Record<string, Car[]>>((acc, car) => {
   (acc[car.brand] ??= []).push(car);
   return acc;
 }, {});
-
-interface SpecRow {
-  label: string;
-  value: (car: Car) => string;
-  better?: 'higher' | 'lower';
-  raw?: (car: Car) => number | null;
-}
-
-const SPEC_ROWS: SpecRow[] = [
-  { label: 'Prix indicatif', value: (c) => `${c.price.toLocaleString('fr-FR')} €`, better: 'lower', raw: (c) => c.price },
-  { label: 'Motorisation', value: (c) => POWERTRAIN_LABELS[c.powertrain] },
-  { label: 'Puissance', value: (c) => `${c.powerHp} ch`, better: 'higher', raw: (c) => c.powerHp },
-  { label: '0 à 100 km/h', value: (c) => `${c.accel0to100.toFixed(1)} s`, better: 'lower', raw: (c) => c.accel0to100 },
-  { label: 'Autonomie totale', value: (c) => `${c.autonomyKm} km`, better: 'higher', raw: (c) => c.autonomyKm },
-  { label: 'Recharge rapide', value: (c) => (c.chargingKw ? `${c.chargingKw} kW` : 'Plein essence'), better: 'higher', raw: (c) => c.chargingKw },
-  { label: 'Batterie', value: (c) => (c.batteryKwh ? `${c.batteryKwh} kWh` : '—') },
-  { label: 'Coût / 100 km', value: (c) => `≈ ${c.energyCostPer100.toFixed(1)} €`, better: 'lower', raw: (c) => c.energyCostPer100 },
-  { label: 'Coffre', value: (c) => `${c.bootLiters} L`, better: 'higher', raw: (c) => c.bootLiters },
-  { label: 'Places', value: (c) => `${c.seats}`, better: 'higher', raw: (c) => c.seats },
-  { label: 'Longueur', value: (c) => `${(c.lengthMm / 1000).toFixed(2)} m` },
-  { label: 'Sécurité Euro NCAP', value: (c) => `${c.safetyStars} ★`, better: 'higher', raw: (c) => c.safetyStars },
-  { label: 'Garantie', value: (c) => `${c.warrantyYears} ans`, better: 'higher', raw: (c) => c.warrantyYears },
-];
 
 function CarSelect({
   label,
@@ -348,13 +326,7 @@ export default function Comparateur() {
                   </thead>
                   <tbody>
                     {SPEC_ROWS.map((row) => {
-                      const rawA = row.raw?.(carA) ?? null;
-                      const rawB = row.raw?.(carB) ?? null;
-                      let betterKey: 'a' | 'b' | null = null;
-                      if (row.better && rawA != null && rawB != null && rawA !== rawB) {
-                        const aWins = row.better === 'higher' ? rawA > rawB : rawA < rawB;
-                        betterKey = aWins ? 'a' : 'b';
-                      }
+                      const betterKey = betterOnRow(row, carA, carB);
                       return (
                         <tr key={row.label} className="border-b border-gray-100">
                           <td className="py-3 pr-4 font-medium text-gray-500">{row.label}</td>

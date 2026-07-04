@@ -1,6 +1,7 @@
 import type { MetadataRoute } from 'next';
 import { SITE, BRANDS } from '@/src/lib/constants';
 import { articles } from '@/src/data/articles';
+import { VALID_DUELS } from '@/src/data/duels';
 
 const staticRoutes: Array<{
   path: string;
@@ -46,5 +47,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.6,
   }));
 
-  return [...staticEntries, ...brandEntries, ...articleEntries];
+  const duelEntries: MetadataRoute.Sitemap = VALID_DUELS.map((duel) => ({
+    url: `${base}/comparateur/${duel.slug}`,
+    lastModified: now,
+    changeFrequency: 'monthly',
+    priority: 0.6,
+  }));
+
+  return [...staticEntries, ...brandEntries, ...articleEntries, ...duelEntries];
 }
