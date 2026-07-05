@@ -21,6 +21,7 @@ const staticRoutes: Array<{
   { path: '/contact', changeFrequency: 'yearly', priority: 0.3, lastModified: new Date('2025-05-01') },
   { path: '/mentions-legales', changeFrequency: 'yearly', priority: 0.1, lastModified: new Date('2025-05-01') },
   { path: '/confidentialite', changeFrequency: 'yearly', priority: 0.2 },
+  { path: '/credits-images', changeFrequency: 'monthly', priority: 0.1 },
 ];
 
 export default function sitemap(): MetadataRoute.Sitemap {

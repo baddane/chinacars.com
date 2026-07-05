@@ -73,13 +73,13 @@ function CarSelect({
 function CarPreview({ car }: { car: Car }) {
   return (
     <div className="flex items-center gap-3 rounded-xl border border-gray-200 bg-white p-3">
-      <div className="relative h-14 w-20 flex-shrink-0 overflow-hidden rounded-lg bg-white">
+      <div className="relative h-14 w-20 flex-shrink-0 overflow-hidden rounded-lg bg-gray-100">
         <ImageWithFallback
           src={car.image}
           alt={carLabel(car)}
           fill
           sizes="80px"
-          className="object-contain p-1"
+          className="object-cover"
         />
       </div>
       <div className="min-w-0">
@@ -405,13 +405,13 @@ export default function Comparateur() {
                           Recommandée
                         </div>
                       )}
-                      <div className="relative aspect-[16/10] bg-white">
+                      <div className="relative aspect-[16/10] bg-gray-100">
                         <ImageWithFallback
                           src={car.image}
                           alt={carLabel(car)}
                           fill
                           sizes="(min-width: 768px) 400px, 100vw"
-                          className="object-contain p-2"
+                          className="object-cover"
                         />
                       </div>
                       <div className="flex flex-1 flex-col p-6">

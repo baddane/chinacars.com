@@ -23,6 +23,7 @@ const footerNavigation = {
     { name: 'Contact', href: '/contact' },
     { name: 'Mentions légales', href: '/mentions-legales' },
     { name: 'Confidentialité', href: '/confidentialite' },
+    { name: 'Crédits photos', href: '/credits-images' },
   ],
   social: [
     { name: 'Facebook', href: '#', icon: Facebook },
