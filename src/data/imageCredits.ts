@@ -1,113 +1,81 @@
 /**
- * Crédits des photos de véhicules hébergées localement (public/cars/…).
- *
- * Ces images proviennent de Wikimedia Commons sous licence CC BY-SA 4.0, qui
- * impose de créditer l'auteur, d'indiquer la licence et de lier vers la source.
- * La page /credits-images affiche ces mentions ; ne pas retirer une entrée sans
+ * Credits des photos de vehicules hebergees localement (public/cars/).
+ * Images issues de Wikimedia Commons sous licences libres (CC BY-SA / CC BY / CC0).
+ * La page /credits-images affiche ces mentions (obligation d'attribution).
+ * Genere depuis les metadonnees Commons ; ne pas retirer une entree sans
  * retirer l'image correspondante.
  */
 
 export interface ImageCredit {
-  /** slug de la voiture (src/data/cars.ts) */
   slug: string;
-  /** Modèle affiché */
   model: string;
-  /** Auteur de la photo (tel que crédité sur Wikimedia Commons) */
   author: string;
-  /** Licence courte */
   license: string;
-  /** Lien vers le texte de licence */
   licenseUrl: string;
-  /** Page source (fichier Wikimedia Commons) */
   sourceUrl: string;
 }
 
-const CC_BY_SA_4 = 'https://creativecommons.org/licenses/by-sa/4.0/';
-
 export const IMAGE_CREDITS: ImageCredit[] = [
-  {
-    slug: 'byd-seal',
-    model: 'BYD Seal',
-    author: 'User3204',
-    license: 'CC BY-SA 4.0',
-    licenseUrl: CC_BY_SA_4,
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:2022_BYD_Seal.jpg',
-  },
-  {
-    slug: 'byd-atto-3',
-    model: 'BYD Atto 3',
-    author: 'Alexander Migl',
-    license: 'CC BY-SA 4.0',
-    licenseUrl: CC_BY_SA_4,
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:BYD_Atto_3_1X7A6491.jpg',
-  },
-  {
-    slug: 'byd-han',
-    model: 'BYD Han',
-    author: 'Kevauto',
-    license: 'CC BY-SA 4.0',
-    licenseUrl: CC_BY_SA_4,
-    sourceUrl:
-      'https://commons.wikimedia.org/wiki/File:2023_BYD_Han_DM-i_(facelift),_front_8.17.23.jpg',
-  },
-  {
-    slug: 'byd-tang',
-    model: 'BYD Tang',
-    author: 'Taylormilan3216 / Mariordo',
-    license: 'CC BY-SA 4.0',
-    licenseUrl: CC_BY_SA_4,
-    sourceUrl:
-      'https://commons.wikimedia.org/wiki/File:BYD_Tang_DM-p_front_quarter_trimmed_2.jpg',
-  },
-  {
-    slug: 'mg-zs-ev',
-    model: 'MG ZS EV',
-    author: 'Cannonball walk',
-    license: 'CC BY-SA 4.0',
-    licenseUrl: CC_BY_SA_4,
-    sourceUrl:
-      'https://commons.wikimedia.org/wiki/File:MG_ZS_EV_in_France_(front_left_quarter).jpg',
-  },
-  {
-    slug: 'zeekr-001',
-    model: 'Zeekr 001',
-    author: 'User3204',
-    license: 'CC BY-SA 4.0',
-    licenseUrl: CC_BY_SA_4,
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:2022_Zeekr_001_(front).jpg',
-  },
-  {
-    slug: 'zeekr-x',
-    model: 'Zeekr X',
-    author: 'User3204',
-    license: 'CC BY-SA 4.0',
-    licenseUrl: CC_BY_SA_4,
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:2023_Zeekr_X_(front).jpg',
-  },
-  {
-    slug: 'xpeng-g6',
-    model: 'XPeng G6',
-    author: 'Alexander Migl',
-    license: 'CC BY-SA 4.0',
-    licenseUrl: CC_BY_SA_4,
-    sourceUrl:
-      'https://commons.wikimedia.org/wiki/File:XPeng_G6_(2025)_IAA_2025_DSC_1710.jpg',
-  },
-  {
-    slug: 'xpeng-g9',
-    model: 'XPeng G9',
-    author: 'Alexander-93',
-    license: 'CC BY-SA 4.0',
-    licenseUrl: CC_BY_SA_4,
-    sourceUrl:
-      'https://commons.wikimedia.org/wiki/File:XPeng_G9_(2025)_IAA_2025_DSC_2054.jpg',
-  },
-  {
-    slug: 'byd-seagull',
-    model: 'BYD Dolphin Surf (Seagull)',
-    author: 'User3204',
-    license: 'CC BY-SA 4.0',
-    licenseUrl: CC_BY_SA_4,
-    sourceUrl: 'https://commons.wikimedia.org/wiki/File:2023_%D0%92YD_Seagull_(front).jpg',
-  },
+  { slug: 'byd-seal', model: 'BYD Seal', author: 'User3204', license: 'CC BY-SA 4.0', licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/', sourceUrl: 'https://commons.wikimedia.org/wiki/File:2022_BYD_Seal.jpg' },
+  { slug: 'byd-atto-3', model: 'BYD Atto 3', author: 'Alexander Migl', license: 'CC BY-SA 4.0', licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/', sourceUrl: 'https://commons.wikimedia.org/wiki/File:BYD_Atto_3_1X7A6491.jpg' },
+  { slug: 'byd-seagull', model: 'BYD Dolphin Surf (Seagull)', author: 'User3204', license: 'CC BY-SA 4.0', licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/', sourceUrl: 'https://commons.wikimedia.org/wiki/File:2023_%D0%92YD_Seagull_(front).jpg' },
+  { slug: 'byd-tang', model: 'BYD Tang', author: 'BYD Tang DM-p front quarter.jpg: Taylormilan3216 derivative work: Mariordo (Mario Roberto Durán Ortiz)', license: 'CC BY-SA 4.0', licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/', sourceUrl: 'https://commons.wikimedia.org/wiki/File:BYD_Tang_DM-p_front_quarter_trimmed_2.jpg' },
+  { slug: 'byd-han', model: 'BYD Han', author: 'Kevauto', license: 'CC BY-SA 4.0', licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/', sourceUrl: 'https://commons.wikimedia.org/wiki/File:2023_BYD_Han_DM-i_(facelift),_front_8.17.23.jpg' },
+  { slug: 'byd-seal-u', model: 'BYD Seal U', author: 'User3204', license: 'CC BY-SA 4.0', licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/', sourceUrl: 'https://commons.wikimedia.org/wiki/File:2023_BYD_Song_Plus_DM-i_(front).jpg' },
+  { slug: 'mg-zs-ev', model: 'MG ZS EV', author: 'Cannonball walk', license: 'CC BY-SA 4.0', licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/', sourceUrl: 'https://commons.wikimedia.org/wiki/File:MG_ZS_EV_in_France_(front_left_quarter).jpg' },
+  { slug: 'mg5', model: 'MG5', author: 'User3204', license: 'CC BY-SA 4.0', licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/', sourceUrl: 'https://commons.wikimedia.org/wiki/File:2020_SAIC_MG_5_(front).jpg' },
+  { slug: 'mg3-hybrid', model: 'MG3 Hybrid+', author: 'Alexander-93', license: 'CC BY-SA 4.0', licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/', sourceUrl: 'https://commons.wikimedia.org/wiki/File:MG_3_(3rd_generation)_Automesse_Ludwigsburg_2024_IMG_1571_(cropped).jpg' },
+  { slug: 'mg-zs-hybrid', model: 'MG ZS Hybrid+', author: 'Kevauto', license: 'CC BY-SA 4.0', licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/', sourceUrl: 'https://commons.wikimedia.org/wiki/File:2018_SAIC-MG_ZS,_front_8.11.18.jpg' },
+  { slug: 'mg-hs-hybrid', model: 'MG HS Hybrid+', author: 'M 93', license: 'CC BY-SA 3.0 de', licenseUrl: 'https://creativecommons.org/licenses/by-sa/3.0/de/deed.fr', sourceUrl: 'https://commons.wikimedia.org/wiki/File:MG_HS_Hybrid%2B_Luxury_(II)_%E2%80%93_f_12032026.jpg' },
+  { slug: 'zeekr-001', model: 'Zeekr 001', author: 'User3204', license: 'CC BY-SA 4.0', licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/', sourceUrl: 'https://commons.wikimedia.org/wiki/File:2022_Zeekr_001_(front).jpg' },
+  { slug: 'zeekr-x', model: 'Zeekr X', author: 'User3204', license: 'CC BY-SA 4.0', licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/', sourceUrl: 'https://commons.wikimedia.org/wiki/File:2023_Zeekr_X_(front).jpg' },
+  { slug: 'xpeng-g6', model: 'XPeng G6', author: 'Alexander Migl', license: 'CC BY-SA 4.0', licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/', sourceUrl: 'https://commons.wikimedia.org/wiki/File:XPeng_G6_(2025)_IAA_2025_DSC_1710.jpg' },
+  { slug: 'xpeng-g9', model: 'XPeng G9', author: 'Alexander-93', license: 'CC BY-SA 4.0', licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/', sourceUrl: 'https://commons.wikimedia.org/wiki/File:XPeng_G9_(2025)_IAA_2025_DSC_2054.jpg' },
+  { slug: 'omoda-e5', model: 'Omoda E5', author: 'Calreyn88', license: 'CC BY-SA 4.0', licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/', sourceUrl: 'https://commons.wikimedia.org/wiki/File:2024_Omoda_5_Comfort_290T.jpg' },
+  { slug: 'omoda-5-shs-h', model: 'Omoda 5 SHS-H', author: 'Calreyn88', license: 'CC BY-SA 4.0', licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/', sourceUrl: 'https://commons.wikimedia.org/wiki/File:2024_Omoda_5_Comfort_290T_2.jpg' },
+  { slug: 'chery-tiggo-8-pro', model: 'Chery Tiggo 8 Pro', author: 'JustAnotherCarDesigner', license: 'CC0', licenseUrl: 'https://creativecommons.org/publicdomain/zero/1.0/', sourceUrl: 'https://commons.wikimedia.org/wiki/File:Chery_Tiggo_8_Plus_018_(cropped).jpg' },
+  { slug: 'jaecoo-7', model: 'Jaecoo 7', author: 'Calreyn88', license: 'CC BY-SA 4.0', licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/', sourceUrl: 'https://commons.wikimedia.org/wiki/File:2024_Jaecoo_J7.jpg' },
+  { slug: 'geely-geometry-c', model: 'Geely Geometry C', author: 'Jengtingchen', license: 'CC BY-SA 4.0', licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/', sourceUrl: 'https://commons.wikimedia.org/wiki/File:Geometry_C_004.jpg' },
+  { slug: 'gwm-ora-03', model: 'GWM Ora 03', author: 'M 93', license: 'CC BY-SA 3.0 de', licenseUrl: 'https://creativecommons.org/licenses/by-sa/3.0/de/deed.fr', sourceUrl: 'https://commons.wikimedia.org/wiki/File:GWM_Ora_03_%E2%80%93_f_12102025.jpg' },
+  { slug: 'gwm-wey-05', model: 'GWM Wey 05', author: 'Trop86', license: 'CC0', licenseUrl: 'https://creativecommons.org/publicdomain/zero/1.0/', sourceUrl: 'https://commons.wikimedia.org/wiki/File:GWM_Wey_05_140347.jpg' },
+  { slug: 'byd-sealion-7', model: 'BYD Sealion 7', author: 'LuvsMG481', license: 'CC BY-SA 4.0', licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/', sourceUrl: 'https://commons.wikimedia.org/wiki/File:2025_BYD_Sealion_7_Performance_front.jpg' },
+  { slug: 'byd-atto-3-evo', model: 'BYD Atto 3 Evo', author: 'Alexander Migl', license: 'CC BY-SA 4.0', licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/', sourceUrl: 'https://commons.wikimedia.org/wiki/File:BYD_Atto_3_1X7A6491.jpg' },
+  { slug: 'byd-seal-5-dmi', model: 'BYD Seal 5 DM-i', author: 'JustAnotherCarDesigner', license: 'CC0', licenseUrl: 'https://creativecommons.org/publicdomain/zero/1.0/', sourceUrl: 'https://commons.wikimedia.org/wiki/File:BYD_Seal_05_DM-i_(cropped).jpg' },
+  { slug: 'byd-atto-2', model: 'BYD Atto 2', author: 'Alexander-93', license: 'CC BY-SA 4.0', licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/', sourceUrl: 'https://commons.wikimedia.org/wiki/File:BYD_Atto_2_IAA_2025_DSC_2131.jpg' },
+  { slug: 'mg-marvel-r', model: 'MG Marvel R', author: 'Alexander Migl', license: 'CC BY-SA 4.0', licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/', sourceUrl: 'https://commons.wikimedia.org/wiki/File:MG_Marvel_R_1X7A0397.jpg' },
+  { slug: 'mg-cyberster', model: 'MG Cyberster', author: 'MrWalkr', license: 'CC BY-SA 4.0', licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/', sourceUrl: 'https://commons.wikimedia.org/wiki/File:2024_MG_Cyberster.jpg' },
+  { slug: 'mg-hs', model: 'MG HS', author: 'M 93', license: 'CC BY-SA 3.0 de', licenseUrl: 'https://creativecommons.org/licenses/by-sa/3.0/de/deed.fr', sourceUrl: 'https://commons.wikimedia.org/wiki/File:MG_HS_Hybrid%2B_Luxury_(II)_%E2%80%93_f_12032026.jpg' },
+  { slug: 'dacia-logan', model: 'Dacia Logan', author: 'Mihnea Lazăr', license: 'CC BY-SA 4.0', licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/', sourceUrl: 'https://commons.wikimedia.org/wiki/File:Dacia_Logan_2023_Front_2_(cropped).jpg' },
+  { slug: 'dacia-sandero', model: 'Dacia Sandero Streetway', author: 'Alexander-93', license: 'CC BY-SA 4.0', licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/', sourceUrl: 'https://commons.wikimedia.org/wiki/File:2023_Dacia_Sandero_III_DSC_6012.jpg' },
+  { slug: 'dacia-sandero-stepway', model: 'Dacia Sandero Stepway', author: 'Vauxford', license: 'CC BY-SA 4.0', licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/', sourceUrl: 'https://commons.wikimedia.org/wiki/File:2021_Dacia_Sandero_Stepway_Prestige_TCE_1.0_Front.jpg' },
+  { slug: 'dacia-jogger', model: 'Dacia Jogger', author: 'Alexander Migl', license: 'CC BY-SA 4.0', licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/', sourceUrl: 'https://commons.wikimedia.org/wiki/File:2023_Dacia_Jogger_DSC_7288.jpg' },
+  { slug: 'dacia-jogger-hybrid', model: 'Dacia Jogger Hybrid', author: 'Calreyn88', license: 'CC BY-SA 4.0', licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/', sourceUrl: 'https://commons.wikimedia.org/wiki/File:2022_Dacia_Jogger.jpg' },
+  { slug: 'dacia-duster', model: 'Dacia Duster', author: 'M 93', license: 'CC BY-SA 3.0 de', licenseUrl: 'https://creativecommons.org/licenses/by-sa/3.0/de/deed.fr', sourceUrl: 'https://commons.wikimedia.org/wiki/File:Dacia_Duster_TCe_130_Extreme_(III)_%E2%80%93_f_13102024.jpg' },
+  { slug: 'dacia-spring', model: 'Dacia Spring', author: 'Alexander Migl', license: 'CC BY-SA 4.0', licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/', sourceUrl: 'https://commons.wikimedia.org/wiki/File:Dacia_Spring_IAA_2021_1X7A0215.jpg' },
+  { slug: 'dacia-bigster', model: 'Dacia Bigster', author: 'Alexander Migl', license: 'CC BY-SA 4.0', licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/', sourceUrl: 'https://commons.wikimedia.org/wiki/File:Dacia_Bigster_DSC_8686.jpg' },
+  { slug: 'dacia-bigster-hybrid', model: 'Dacia Bigster Hybrid', author: 'Trop86', license: 'CC0', licenseUrl: 'https://creativecommons.org/publicdomain/zero/1.0/', sourceUrl: 'https://commons.wikimedia.org/wiki/File:Dacia_Bigster_135818.jpg' },
+  { slug: 'renault-clio', model: 'Renault Clio', author: 'M 93', license: 'CC BY-SA 3.0 de', licenseUrl: 'https://creativecommons.org/licenses/by-sa/3.0/de/deed.fr', sourceUrl: 'https://commons.wikimedia.org/wiki/File:Renault_Clio_(V,_Facelift)_%E2%80%93_f_02092025.jpg' },
+  { slug: 'renault-clio-e-tech', model: 'Renault Clio E-Tech', author: 'M 93', license: 'CC BY-SA 3.0 de', licenseUrl: 'https://creativecommons.org/licenses/by-sa/3.0/de/deed.fr', sourceUrl: 'https://commons.wikimedia.org/wiki/File:Renault_Clio_(V,_Facelift)_%E2%80%93_f_02092025.jpg' },
+  { slug: 'renault-captur', model: 'Renault Captur', author: 'Alexander-93', license: 'CC BY-SA 4.0', licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/', sourceUrl: 'https://commons.wikimedia.org/wiki/File:2024_Renault_Captur_II_Automesse_Ludwigsburg_2024_IMG_1506.jpg' },
+  { slug: 'renault-megane-e-tech', model: 'Renault Mégane E-Tech', author: 'Alexander-93', license: 'CC BY-SA 4.0', licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/', sourceUrl: 'https://commons.wikimedia.org/wiki/File:Renault_M%C3%A9gane_E-Tech_IMG_4064.jpg' },
+  { slug: 'renault-5-e-tech', model: 'Renault 5 E-Tech', author: 'Alexander Migl', license: 'CC BY-SA 4.0', licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/', sourceUrl: 'https://commons.wikimedia.org/wiki/File:Renault_5_E-Tech_Electric_DSC_7279.jpg' },
+  { slug: 'peugeot-208', model: 'Peugeot 208', author: 'M 93', license: 'CC BY-SA 3.0 de', licenseUrl: 'https://creativecommons.org/licenses/by-sa/3.0/de/deed.fr', sourceUrl: 'https://commons.wikimedia.org/wiki/File:Peugeot_208_PureTech_130_EAT8_Allure_GT-Line_(II)_%E2%80%93_f_17102021.jpg' },
+  { slug: 'peugeot-e-208', model: 'Peugeot e-208', author: 'Calreyn88', license: 'CC BY-SA 4.0', licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/', sourceUrl: 'https://commons.wikimedia.org/wiki/File:2019_Peugeot_208_Tech_Edition.jpg' },
+  { slug: 'peugeot-2008', model: 'Peugeot 2008', author: 'Cutlass', license: 'CC0', licenseUrl: 'https://creativecommons.org/publicdomain/zero/1.0/', sourceUrl: 'https://commons.wikimedia.org/wiki/File:2023_Peugeot_2008_in_Vertigo_Blue,_front_left,_06-08-2025.jpg' },
+  { slug: 'peugeot-3008', model: 'Peugeot 3008', author: 'Alexander-93', license: 'CC BY-SA 4.0', licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/', sourceUrl: 'https://commons.wikimedia.org/wiki/File:Peugeot_e-3008_Automesse_Ludwigsburg_2024_IMG_1537.jpg' },
+  { slug: 'toyota-yaris', model: 'Toyota Yaris Hybride', author: 'Vauxford', license: 'CC BY-SA 4.0', licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/', sourceUrl: 'https://commons.wikimedia.org/wiki/File:2020_Toyota_Yaris_Design_HEV_CVT_1.5_Front.jpg' },
+  { slug: 'toyota-yaris-cross', model: 'Toyota Yaris Cross', author: 'Alexander-93', license: 'CC BY-SA 4.0', licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/', sourceUrl: 'https://commons.wikimedia.org/wiki/File:Toyota_Yaris_Cross_Hybrid_(XP210)_1X7A1846.jpg' },
+  { slug: 'toyota-corolla', model: 'Toyota Corolla Hybride', author: 'EurovisionNim', license: 'CC BY-SA 4.0', licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/', sourceUrl: 'https://commons.wikimedia.org/wiki/File:2018_Toyota_Corolla_(MZEA12R)_Ascent_Sport_hatchback_(2018-11-02)_01.jpg' },
+  { slug: 'toyota-c-hr', model: 'Toyota C-HR Hybride', author: 'Alexander Migl', license: 'CC BY-SA 4.0', licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/', sourceUrl: 'https://commons.wikimedia.org/wiki/File:Toyota_C-HR_Hybrid_(AX20)_DSC_7239.jpg' },
+  { slug: 'toyota-rav4', model: 'Toyota RAV4 Hybride', author: 'Mr.choppers', license: 'CC BY-SA 4.0', licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/', sourceUrl: 'https://commons.wikimedia.org/wiki/File:2024_Toyota_RAV4_Prime_XSE_Premium_in_Silver_Sky_with_Midnight_Black_roof,_front_left.jpg' },
+  { slug: 'vw-golf', model: 'Volkswagen Golf', author: 'Vauxford', license: 'CC BY-SA 4.0', licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/', sourceUrl: 'https://commons.wikimedia.org/wiki/File:2020_Volkswagen_Golf_Style_1.5_Front.jpg' },
+  { slug: 'vw-t-roc', model: 'Volkswagen T-Roc', author: 'M 93', license: 'CC BY-SA 3.0 de', licenseUrl: 'https://creativecommons.org/licenses/by-sa/3.0/de/deed.fr', sourceUrl: 'https://commons.wikimedia.org/wiki/File:VW_T-Roc_1.5_eTSI_Style_(II)_%E2%80%93_f_05052026.jpg' },
+  { slug: 'vw-tiguan', model: 'Volkswagen Tiguan', author: 'Alexander-93', license: 'CC BY-SA 4.0', licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/', sourceUrl: 'https://commons.wikimedia.org/wiki/File:Volkswagen_Tiguan_III_IMG_8823_(cropped).jpg' },
+  { slug: 'vw-t-cross', model: 'Volkswagen T-Cross', author: 'M 93', license: 'CC BY-SA 3.0 de', licenseUrl: 'https://creativecommons.org/licenses/by-sa/3.0/de/deed.fr', sourceUrl: 'https://commons.wikimedia.org/wiki/File:VW_T-Cross_Style_(Facelift)_%E2%80%93_f_22022025.jpg' },
+  { slug: 'hyundai-kona', model: 'Hyundai Kona Hybride', author: 'Alexander Migl', license: 'CC BY-SA 4.0', licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/', sourceUrl: 'https://commons.wikimedia.org/wiki/File:Hyundai_Kona_N_Line_(SX2)_DSC_8250.jpg' },
+  { slug: 'hyundai-tucson', model: 'Hyundai Tucson Hybride', author: 'SsmIntrigue', license: 'CC BY-SA 4.0', licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/', sourceUrl: 'https://commons.wikimedia.org/wiki/File:2022_Hyundai_Tucson_Preferred,_Front_Right,_05-24-2021.jpg' },
+  { slug: 'hyundai-i20', model: 'Hyundai i20', author: 'M 93', license: 'CC BY-SA 3.0 de', licenseUrl: 'https://creativecommons.org/licenses/by-sa/3.0/de/deed.fr', sourceUrl: 'https://commons.wikimedia.org/wiki/File:Hyundai_i20_(III,_Facelift)_%E2%80%93_f_11102025.jpg' },
+  { slug: 'citroen-c3', model: 'Citroën C3', author: 'M 93', license: 'CC BY-SA 3.0 de', licenseUrl: 'https://creativecommons.org/licenses/by-sa/3.0/de/deed.fr', sourceUrl: 'https://commons.wikimedia.org/wiki/File:Citro%C3%ABn_C3_Hybrid_110_%C3%AB-DSC6_Max_(IV)_%E2%80%93_f_05042026.jpg' },
+  { slug: 'citroen-c3-aircross', model: 'Citroën C3 Aircross', author: 'Alexander Migl', license: 'CC BY-SA 4.0', licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/', sourceUrl: 'https://commons.wikimedia.org/wiki/File:Citro%C3%ABn_%C3%AB-C3_Aircross_IMG_3525.jpg' },
+  { slug: 'citroen-c5-aircross', model: 'Citroën C5 Aircross Hybride', author: 'Alexander-93', license: 'CC BY-SA 4.0', licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/', sourceUrl: 'https://commons.wikimedia.org/wiki/File:2022_Citro%C3%ABn_C5_Aircross_Automesse_Ludwigsburg_2024_IMG_1342.jpg' },
 ];
