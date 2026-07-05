@@ -41,13 +41,13 @@ export default function StaticComparison({ a, b }: { a: Car; b: Car }) {
                   Notre choix
                 </div>
               )}
-              <div className="relative aspect-[16/10] bg-gray-100">
+              <div className="relative aspect-[16/10] bg-white">
                 <Image
                   src={car.image}
                   alt={carLabel(car)}
                   fill
                   sizes="(min-width: 768px) 400px, 100vw"
-                  className="object-cover"
+                  className="object-contain p-2"
                 />
               </div>
               <div className="flex flex-1 flex-col p-6">

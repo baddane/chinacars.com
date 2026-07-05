@@ -221,13 +221,13 @@ export default function Comparateur() {
                           Recommandée
                         </div>
                       )}
-                      <div className="relative aspect-[16/10] bg-gray-100">
+                      <div className="relative aspect-[16/10] bg-white">
                         <ImageWithFallback
                           src={car.image}
                           alt={carLabel(car)}
                           fill
                           sizes="(min-width: 768px) 400px, 100vw"
-                          className="object-cover"
+                          className="object-contain p-2"
                         />
                       </div>
                       <div className="flex flex-1 flex-col p-6">
