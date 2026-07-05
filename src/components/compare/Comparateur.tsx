@@ -1,18 +1,11 @@
 'use client';
 
 import { useMemo, useState } from 'react';
-import { Trophy, Check } from 'lucide-react';
+import { Trophy, Check, ArrowRight, ArrowLeft, RotateCcw, Zap } from 'lucide-react';
 import ImageWithFallback from '@/src/components/ui/ImageWithFallback';
 import { cn } from '@/src/lib/utils';
 import { CARS, getCar, carLabel, type Car } from '@/src/data/cars';
 import { SPEC_ROWS, betterOnRow } from '@/src/lib/carSpecRows';
-
-/** Nom du modèle sans la marque (pour l'afficher sous le libellé de marque). */
-function modelName(car: Car): string {
-  return car.name.toLowerCase().startsWith(car.brand.toLowerCase())
-    ? car.name.slice(car.brand.length).trim()
-    : car.name;
-}
 import {
   CRITERIA,
   DRIVER_PROFILES,
@@ -22,10 +15,26 @@ import {
   type CriterionId,
 } from '@/src/lib/compare';
 
+/** Nom du modèle sans la marque (pour l'afficher sous le libellé de marque). */
+function modelName(car: Car): string {
+  return car.name.toLowerCase().startsWith(car.brand.toLowerCase())
+    ? car.name.slice(car.brand.length).trim()
+    : car.name;
+}
+
 const carsByBrand = CARS.reduce<Record<string, Car[]>>((acc, car) => {
   (acc[car.brand] ??= []).push(car);
   return acc;
 }, {});
+
+const STEPS = [
+  { id: 1, label: 'Profil' },
+  { id: 2, label: 'Priorités' },
+  { id: 3, label: 'Voitures' },
+  { id: 4, label: 'Résultat' },
+] as const;
+
+type StepId = (typeof STEPS)[number]['id'];
 
 function CarSelect({
   label,
@@ -60,7 +69,91 @@ function CarSelect({
   );
 }
 
+/** Aperçu compact d'une voiture choisie (photo + libellé). */
+function CarPreview({ car }: { car: Car }) {
+  return (
+    <div className="flex items-center gap-3 rounded-xl border border-gray-200 bg-white p-3">
+      <div className="relative h-14 w-20 flex-shrink-0 overflow-hidden rounded-lg bg-white">
+        <ImageWithFallback
+          src={car.image}
+          alt={carLabel(car)}
+          fill
+          sizes="80px"
+          className="object-contain p-1"
+        />
+      </div>
+      <div className="min-w-0">
+        <p className="text-xs font-semibold uppercase tracking-wide text-red-600">{car.brand}</p>
+        <p className="truncate text-sm font-bold text-gray-900">{modelName(car)}</p>
+        <p className="truncate text-xs text-gray-500">{car.segment}</p>
+      </div>
+    </div>
+  );
+}
+
+function Stepper({
+  step,
+  canReach,
+  onGo,
+}: {
+  step: StepId;
+  canReach: (target: StepId) => boolean;
+  onGo: (target: StepId) => void;
+}) {
+  return (
+    <ol className="flex items-center">
+      {STEPS.map((s, i) => {
+        const state = s.id < step ? 'done' : s.id === step ? 'current' : 'todo';
+        const reachable = canReach(s.id);
+        return (
+          <li key={s.id} className={cn('flex items-center', i < STEPS.length - 1 && 'flex-1')}>
+            <button
+              type="button"
+              onClick={() => reachable && onGo(s.id)}
+              disabled={!reachable}
+              aria-current={state === 'current' ? 'step' : undefined}
+              className={cn(
+                'group flex items-center gap-2 rounded-full',
+                reachable ? 'cursor-pointer' : 'cursor-not-allowed',
+              )}
+            >
+              <span
+                className={cn(
+                  'flex h-9 w-9 flex-shrink-0 items-center justify-center rounded-full text-sm font-bold transition-colors',
+                  state === 'done' && 'bg-red-600 text-white',
+                  state === 'current' && 'bg-red-600 text-white ring-4 ring-red-500/20',
+                  state === 'todo' && 'bg-gray-100 text-gray-400',
+                )}
+              >
+                {state === 'done' ? <Check className="h-4 w-4" aria-hidden="true" /> : s.id}
+              </span>
+              <span
+                className={cn(
+                  'hidden text-sm font-semibold sm:inline',
+                  state === 'todo' ? 'text-gray-400' : 'text-gray-900',
+                )}
+              >
+                {s.label}
+              </span>
+            </button>
+            {i < STEPS.length - 1 && (
+              <span
+                className={cn(
+                  'mx-2 h-0.5 flex-1 rounded-full transition-colors',
+                  s.id < step ? 'bg-red-600' : 'bg-gray-200',
+                )}
+                aria-hidden="true"
+              />
+            )}
+          </li>
+        );
+      })}
+    </ol>
+  );
+}
+
 export default function Comparateur() {
+  const [step, setStep] = useState<StepId>(1);
   const [profileId, setProfileId] = useState<string | null>(null);
   const [criteria, setCriteria] = useState<CriterionId[]>([]);
   const [carAId, setCarAId] = useState('byd-seal');
@@ -76,11 +169,14 @@ export default function Comparateur() {
     [carA, carB, criteria, ranges, sameCar],
   );
 
+  const winnerCar = result?.winner === 'a' ? carA : result?.winner === 'b' ? carB : null;
+
   function selectProfile(id: string) {
     const profile = DRIVER_PROFILES.find((p) => p.id === id);
     if (!profile) return;
     setProfileId(id);
     setCriteria(profile.criteria);
+    setStep(2);
   }
 
   function toggleCriterion(id: CriterionId) {
@@ -89,118 +185,206 @@ export default function Comparateur() {
     );
   }
 
-  const winnerCar = result?.winner === 'a' ? carA : result?.winner === 'b' ? carB : null;
+  function startDuel(a: string, b: string) {
+    setCarAId(a);
+    setCarBId(b);
+    setStep(4);
+  }
+
+  function restart() {
+    setProfileId(null);
+    setCriteria([]);
+    setStep(1);
+  }
+
+  // On peut atteindre l'étape 4 seulement avec deux modèles différents.
+  const canReach = (target: StepId) => (target === 4 ? !sameCar : true);
+
+  function goTo(target: StepId) {
+    if (canReach(target)) setStep(target);
+  }
 
   return (
-    <div className="space-y-12">
-      {/* Étape 1 : profil conducteur */}
-      <section>
-        <h2 className="text-xl font-bold text-gray-900">
-          <span className="mr-2 text-red-600">1.</span>Quel conducteur êtes-vous ?
-        </h2>
-        <p className="mt-1 text-sm text-gray-600">
-          Choisissez le profil qui vous ressemble — il pré-sélectionne vos priorités.
-        </p>
-        <div className="mt-5 grid grid-cols-2 gap-3 sm:grid-cols-3">
-          {DRIVER_PROFILES.map((profile) => (
-            <button
-              key={profile.id}
-              type="button"
-              onClick={() => selectProfile(profile.id)}
-              aria-pressed={profileId === profile.id}
-              className={cn(
-                'flex flex-col items-start rounded-2xl border p-4 text-left transition-all',
-                profileId === profile.id
-                  ? 'border-red-500 bg-red-50 ring-2 ring-red-500/30'
-                  : 'border-gray-200 bg-white hover:border-gray-300',
-              )}
-            >
-              <span className="text-2xl" aria-hidden="true">{profile.emoji}</span>
-              <span className="mt-2 text-sm font-bold text-gray-900">{profile.label}</span>
-              <span className="mt-1 text-xs leading-5 text-gray-500">{profile.description}</span>
-            </button>
-          ))}
-        </div>
-      </section>
+    <div>
+      {/* Barre de progression */}
+      <div className="rounded-2xl border border-gray-200 bg-gray-50/60 p-4 sm:p-5">
+        <Stepper step={step} canReach={canReach} onGo={goTo} />
+      </div>
 
-      {/* Étape 2 : préférences */}
-      <section>
-        <h2 className="text-xl font-bold text-gray-900">
-          <span className="mr-2 text-red-600">2.</span>Qu'est-ce qui compte pour vous ?
-        </h2>
-        <p className="mt-1 text-sm text-gray-600">
-          Cochez ce que vous recherchez (ajustez librement la sélection du profil).
-        </p>
-        <div className="mt-5 flex flex-wrap gap-3">
-          {CRITERIA.map((crit) => {
-            const active = criteria.includes(crit.id);
-            return (
+      <div className="mt-10">
+        {/* ÉTAPE 1 — Profil conducteur */}
+        {step === 1 && (
+          <section>
+            <h2 className="text-xl font-bold text-gray-900">
+              <span className="mr-2 text-red-600">1.</span>Quel conducteur êtes-vous ?
+            </h2>
+            <p className="mt-1 text-sm text-gray-600">
+              Choisissez le profil qui vous ressemble — il pré-sélectionne vos priorités.
+              Vous pourrez tout ajuster ensuite.
+            </p>
+            <div className="mt-6 grid grid-cols-2 gap-3 sm:grid-cols-3">
+              {DRIVER_PROFILES.map((profile) => (
+                <button
+                  key={profile.id}
+                  type="button"
+                  onClick={() => selectProfile(profile.id)}
+                  aria-pressed={profileId === profile.id}
+                  className={cn(
+                    'flex flex-col items-start rounded-2xl border p-4 text-left transition-all',
+                    profileId === profile.id
+                      ? 'border-red-500 bg-red-50 ring-2 ring-red-500/30'
+                      : 'border-gray-200 bg-white hover:border-red-300 hover:shadow-sm',
+                  )}
+                >
+                  <span className="text-2xl" aria-hidden="true">{profile.emoji}</span>
+                  <span className="mt-2 text-sm font-bold text-gray-900">{profile.label}</span>
+                  <span className="mt-1 text-xs leading-5 text-gray-500">{profile.description}</span>
+                </button>
+              ))}
+            </div>
+            <div className="mt-8 flex justify-end">
               <button
-                key={crit.id}
                 type="button"
-                onClick={() => toggleCriterion(crit.id)}
-                aria-pressed={active}
-                title={crit.description}
-                className={cn(
-                  'inline-flex items-center gap-2 rounded-full border px-4 py-2 text-sm font-semibold transition-colors',
-                  active
-                    ? 'border-red-600 bg-red-600 text-white'
-                    : 'border-gray-300 bg-white text-gray-700 hover:border-red-400 hover:text-red-600',
-                )}
+                onClick={() => setStep(2)}
+                className="inline-flex items-center gap-2 text-sm font-semibold text-gray-500 hover:text-red-600"
               >
-                {active && <Check className="h-4 w-4" aria-hidden="true" />}
-                {crit.label}
+                Passer cette étape
+                <ArrowRight className="h-4 w-4" aria-hidden="true" />
               </button>
-            );
-          })}
-        </div>
-        {criteria.length === 0 && (
-          <p className="mt-3 text-xs text-gray-500">
-            Aucune priorité sélectionnée : le score est calculé sur l'ensemble des critères.
-          </p>
+            </div>
+          </section>
         )}
-      </section>
 
-      {/* Étape 3 : choix des voitures */}
-      <section>
-        <h2 className="text-xl font-bold text-gray-900">
-          <span className="mr-2 text-red-600">3.</span>Choisissez deux voitures
-        </h2>
-        <div className="mt-5 grid grid-cols-1 gap-4 sm:grid-cols-2">
-          <CarSelect label="Voiture A" value={carAId} exclude={carBId} onChange={setCarAId} />
-          <CarSelect label="Voiture B" value={carBId} exclude={carAId} onChange={setCarBId} />
-        </div>
-        <div className="mt-4">
-          <p className="mb-2 text-xs font-semibold uppercase tracking-wide text-gray-500">
-            Duels populaires
-          </p>
-          <div className="flex flex-wrap gap-2">
-            {POPULAR_DUELS.map((duel) => (
-              <button
-                key={duel.label}
-                type="button"
-                onClick={() => {
-                  setCarAId(duel.a);
-                  setCarBId(duel.b);
-                }}
-                className="rounded-full border border-gray-200 bg-gray-50 px-3 py-1.5 text-xs font-medium text-gray-700 hover:border-red-400 hover:text-red-600"
-              >
-                {duel.label}
-              </button>
-            ))}
-          </div>
-        </div>
-      </section>
+        {/* ÉTAPE 2 — Priorités */}
+        {step === 2 && (
+          <section>
+            <h2 className="text-xl font-bold text-gray-900">
+              <span className="mr-2 text-red-600">2.</span>Qu&apos;est-ce qui compte pour vous ?
+            </h2>
+            <p className="mt-1 text-sm text-gray-600">
+              Cochez ce que vous recherchez. Ajustez librement la sélection issue de votre profil.
+            </p>
+            <div className="mt-6 flex flex-wrap gap-3">
+              {CRITERIA.map((crit) => {
+                const active = criteria.includes(crit.id);
+                return (
+                  <button
+                    key={crit.id}
+                    type="button"
+                    onClick={() => toggleCriterion(crit.id)}
+                    aria-pressed={active}
+                    title={crit.description}
+                    className={cn(
+                      'inline-flex items-center gap-2 rounded-full border px-4 py-2 text-sm font-semibold transition-colors',
+                      active
+                        ? 'border-red-600 bg-red-600 text-white'
+                        : 'border-gray-300 bg-white text-gray-700 hover:border-red-400 hover:text-red-600',
+                    )}
+                  >
+                    {active && <Check className="h-4 w-4" aria-hidden="true" />}
+                    {crit.label}
+                  </button>
+                );
+              })}
+            </div>
+            {criteria.length === 0 && (
+              <p className="mt-3 text-xs text-gray-500">
+                Aucune priorité sélectionnée : le score sera calculé sur l&apos;ensemble des critères.
+              </p>
+            )}
+            <NavButtons
+              onBack={() => setStep(1)}
+              onNext={() => setStep(3)}
+              nextLabel="Choisir les voitures"
+            />
+          </section>
+        )}
 
-      {/* Résultat */}
-      {sameCar ? (
-        <p className="rounded-2xl border border-amber-200 bg-amber-50 p-6 text-center text-sm font-medium text-amber-800">
-          Choisissez deux modèles différents pour lancer la comparaison.
-        </p>
-      ) : (
-        result && (
-          <section aria-live="polite" className="scroll-mt-24">
-            <h2 className="text-2xl font-bold text-gray-900">Le verdict pour votre profil</h2>
+        {/* ÉTAPE 3 — Choix des voitures */}
+        {step === 3 && (
+          <section>
+            <h2 className="text-xl font-bold text-gray-900">
+              <span className="mr-2 text-red-600">3.</span>Choisissez deux voitures
+            </h2>
+            <p className="mt-1 text-sm text-gray-600">
+              Sélectionnez les deux modèles à départager, ou lancez un duel populaire.
+            </p>
+            <div className="mt-6 grid grid-cols-1 gap-4 sm:grid-cols-2">
+              <div className="space-y-3">
+                <CarSelect label="Voiture A" value={carAId} exclude={carBId} onChange={setCarAId} />
+                <CarPreview car={carA} />
+              </div>
+              <div className="space-y-3">
+                <CarSelect label="Voiture B" value={carBId} exclude={carAId} onChange={setCarBId} />
+                <CarPreview car={carB} />
+              </div>
+            </div>
+
+            {sameCar && (
+              <p className="mt-4 rounded-xl border border-amber-200 bg-amber-50 px-4 py-3 text-sm font-medium text-amber-800">
+                Choisissez deux modèles différents pour lancer la comparaison.
+              </p>
+            )}
+
+            <div className="mt-6">
+              <p className="mb-2 text-xs font-semibold uppercase tracking-wide text-gray-500">
+                Duels populaires
+              </p>
+              <div className="flex flex-wrap gap-2">
+                {POPULAR_DUELS.map((duel) => (
+                  <button
+                    key={duel.label}
+                    type="button"
+                    onClick={() => startDuel(duel.a, duel.b)}
+                    className="inline-flex items-center gap-1.5 rounded-full border border-gray-200 bg-gray-50 px-3 py-1.5 text-xs font-medium text-gray-700 hover:border-red-400 hover:text-red-600"
+                  >
+                    <Zap className="h-3.5 w-3.5" aria-hidden="true" />
+                    {duel.label}
+                  </button>
+                ))}
+              </div>
+            </div>
+
+            <NavButtons
+              onBack={() => setStep(2)}
+              onNext={() => setStep(4)}
+              nextLabel="Voir le verdict"
+              nextIcon={<Trophy className="h-4 w-4" aria-hidden="true" />}
+              nextDisabled={sameCar}
+            />
+          </section>
+        )}
+
+        {/* ÉTAPE 4 — Résultat */}
+        {step === 4 && result && (
+          <section aria-live="polite">
+            <div className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
+              <h2 className="text-2xl font-bold text-gray-900">Le verdict pour votre profil</h2>
+              <div className="flex flex-wrap gap-2">
+                <button
+                  type="button"
+                  onClick={() => setStep(2)}
+                  className="inline-flex items-center gap-1.5 rounded-full border border-gray-200 bg-white px-3 py-1.5 text-xs font-semibold text-gray-700 hover:border-red-400 hover:text-red-600"
+                >
+                  Modifier mes priorités
+                </button>
+                <button
+                  type="button"
+                  onClick={() => setStep(3)}
+                  className="inline-flex items-center gap-1.5 rounded-full border border-gray-200 bg-white px-3 py-1.5 text-xs font-semibold text-gray-700 hover:border-red-400 hover:text-red-600"
+                >
+                  Changer de voitures
+                </button>
+                <button
+                  type="button"
+                  onClick={restart}
+                  className="inline-flex items-center gap-1.5 rounded-full border border-gray-200 bg-white px-3 py-1.5 text-xs font-semibold text-gray-700 hover:border-red-400 hover:text-red-600"
+                >
+                  <RotateCcw className="h-3.5 w-3.5" aria-hidden="true" />
+                  Recommencer
+                </button>
+              </div>
+            </div>
 
             {/* Cartes des deux voitures */}
             <div className="mt-6 grid grid-cols-1 gap-6 md:grid-cols-2">
@@ -290,7 +474,6 @@ export default function Comparateur() {
                         {(['scoreA', 'scoreB'] as const).map((k) => {
                           const val = b[k];
                           const isBetter = b.scoreA === b.scoreB ? false : (k === 'scoreA' ? b.scoreA > b.scoreB : b.scoreB > b.scoreA);
-                          const car = k === 'scoreA' ? carA : carB;
                           return (
                             <div key={k} className="flex items-center gap-2">
                               <div className="h-2 flex-1 overflow-hidden rounded-full bg-gray-100">
@@ -352,9 +535,60 @@ export default function Comparateur() {
                 Valeurs indicatives (fiches wandaloo.com et constructeurs), variables selon finitions et marchés.
               </p>
             </div>
+
+            <div className="mt-10 flex justify-start">
+              <button
+                type="button"
+                onClick={() => setStep(3)}
+                className="inline-flex items-center gap-2 rounded-xl border border-gray-300 bg-white px-5 py-3 text-sm font-semibold text-gray-700 hover:border-red-400 hover:text-red-600"
+              >
+                <ArrowLeft className="h-4 w-4" aria-hidden="true" />
+                Retour aux voitures
+              </button>
+            </div>
           </section>
-        )
-      )}
+        )}
+      </div>
+    </div>
+  );
+}
+
+/** Barre de navigation Retour / Continuer réutilisée entre les étapes. */
+function NavButtons({
+  onBack,
+  onNext,
+  nextLabel,
+  nextIcon,
+  nextDisabled,
+}: {
+  onBack: () => void;
+  onNext: () => void;
+  nextLabel: string;
+  nextIcon?: React.ReactNode;
+  nextDisabled?: boolean;
+}) {
+  return (
+    <div className="mt-8 flex items-center justify-between border-t border-gray-100 pt-6">
+      <button
+        type="button"
+        onClick={onBack}
+        className="inline-flex items-center gap-2 rounded-xl px-4 py-2.5 text-sm font-semibold text-gray-600 hover:text-red-600"
+      >
+        <ArrowLeft className="h-4 w-4" aria-hidden="true" />
+        Retour
+      </button>
+      <button
+        type="button"
+        onClick={onNext}
+        disabled={nextDisabled}
+        className={cn(
+          'inline-flex items-center gap-2 rounded-xl px-6 py-3 text-sm font-bold text-white shadow-sm transition-colors',
+          nextDisabled ? 'cursor-not-allowed bg-gray-300' : 'bg-red-600 hover:bg-red-500',
+        )}
+      >
+        {nextLabel}
+        {nextIcon ?? <ArrowRight className="h-4 w-4" aria-hidden="true" />}
+      </button>
     </div>
   );
 }
