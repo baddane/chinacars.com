@@ -357,7 +357,7 @@ function CarSelector({
                 <span className={`text-[10px] font-bold px-2 py-0.5 rounded-full ${selected.origin === 'chinoise' ? 'bg-red-100 text-red-700' : 'bg-blue-100 text-blue-700'}`}>{selected.origin}</span>
                 <span className="text-[10px] font-medium bg-gray-100 text-gray-600 px-2 py-0.5 rounded-full">{selected.type}</span>
               </div>
-              <p className="text-base font-bold text-gray-900">{fmt(selected.price)} DH</p>
+              <p className="text-base font-bold text-gray-900">{fmt(selected.price)}€</p>
             </div>
             <p className="text-center text-xs text-gray-400 group-hover:text-gray-600 pb-2 transition-colors">Changer →</p>
           </div>
@@ -365,7 +365,7 @@ function CarSelector({
           <div className="border-2 border-dashed border-gray-300 group-hover:border-red-400 rounded-2xl flex flex-col items-center justify-center min-h-[200px] transition-colors bg-white">
             <Plus className="h-10 w-10 text-gray-300 group-hover:text-red-400 transition-colors" />
             <p className="mt-3 text-sm font-semibold text-gray-400 group-hover:text-red-500">Choisir un véhicule</p>
-            <p className="text-xs text-gray-300 mt-1">23 modèles disponibles</p>
+            <p className="text-xs text-gray-300 mt-1">28 modèles disponibles</p>
           </div>
         )}
       </button>
@@ -407,7 +407,7 @@ function CarSelector({
             </div>
             <div className="flex-1 min-w-0">
               <p className="text-sm font-semibold text-gray-900 truncate">{car.name}</p>
-              <p className="text-xs text-gray-500">{car.segment} · {fmt(car.price)} DH</p>
+              <p className="text-xs text-gray-500">{car.segment} · {fmt(car.price)}€</p>
             </div>
             <span className={`shrink-0 text-[10px] font-bold px-2 py-0.5 rounded-full ${car.origin === 'chinoise' ? 'bg-red-100 text-red-700' : 'bg-blue-100 text-blue-700'}`}>
               {car.origin}
@@ -509,7 +509,7 @@ export default function ComparateurTool() {
           <span className="flex h-7 w-7 items-center justify-center rounded-full bg-red-600 text-white text-xs font-black">2</span>
           <h2 className="text-lg font-bold text-gray-900">Choisissez deux véhicules</h2>
         </div>
-        <p className="text-sm text-gray-500 ml-9 mb-5">23 modèles disponibles — chinois et japonais.</p>
+        <p className="text-sm text-gray-500 ml-9 mb-5">28 modèles disponibles.</p>
         <div className="grid grid-cols-1 md:grid-cols-[1fr_auto_1fr] gap-4 items-start">
           <CarSelector selected={carA} onSelect={setCarA} exclude={carB ? [carB.slug] : []} sideLabel="Véhicule A" sideColor="red" />
           <div className="hidden md:flex flex-col items-center gap-2 self-center pt-6">
@@ -637,17 +637,17 @@ export default function ComparateurTool() {
             <div className="bg-gray-50 rounded-2xl p-5 mb-4">
               <div className="grid grid-cols-3 items-center">
                 <p className={`text-right text-2xl font-black pr-4 ${carA.price < carB.price ? 'text-green-600' : 'text-gray-900'}`}>
-                  {fmt(carA.price)} <span className="text-base font-normal text-gray-400">DH</span>
+                  {fmt(carA.price)} <span className="text-base font-normal text-gray-400">€</span>
                 </p>
                 <div className="text-center">
                   <p className="text-xs text-gray-400 uppercase tracking-wide mb-1">Prix</p>
                   <p className={`text-sm font-bold ${carA.price !== carB.price ? 'text-green-600' : 'text-gray-500'}`}>
-                    {carA.price < carB.price ? `A moins cher de ${fmt(carB.price - carA.price)} DH` :
-                     carA.price > carB.price ? `B moins cher de ${fmt(carA.price - carB.price)} DH` : 'Prix identique'}
+                    {carA.price < carB.price ? `A moins cher de ${fmt(carB.price - carA.price)}€` :
+                     carA.price > carB.price ? `B moins cher de ${fmt(carA.price - carB.price)}€` : 'Prix identique'}
                   </p>
                 </div>
                 <p className={`text-left text-2xl font-black pl-4 ${carB.price < carA.price ? 'text-green-600' : 'text-gray-900'}`}>
-                  {fmt(carB.price)} <span className="text-base font-normal text-gray-400">DH</span>
+                  {fmt(carB.price)} <span className="text-base font-normal text-gray-400">€</span>
                 </p>
               </div>
             </div>
@@ -701,7 +701,7 @@ export default function ComparateurTool() {
                       <p className={`text-base font-bold ${color === 'red' ? 'text-red-700' : 'text-blue-700'}`}>
                         {isWin && '🏆 '}{car.name}
                       </p>
-                      <p className="text-xs text-gray-500">{car.brand} · {car.origin} · {fmt(car.price)} DH</p>
+                      <p className="text-xs text-gray-500">{car.brand} · {car.origin} · {fmt(car.price)}€</p>
                     </div>
                     {isWin && <span className="text-xs font-bold text-amber-600 bg-amber-100 px-2 py-1 rounded-full">Gagnant</span>}
                   </div>
