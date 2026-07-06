@@ -1,5 +1,4 @@
 import type { Metadata } from 'next';
-import { Mail, MessageSquare } from 'lucide-react';
 import Breadcrumb from '@/src/components/layout/Breadcrumb';
 import ContactForm from '@/src/components/contact/ContactForm';
 
@@ -23,34 +22,6 @@ export default function ContactPage() {
           Une question, une info, une suggestion d&apos;article ou une demande de
           partenariat ? Écrivez-nous.
         </p>
-
-        <div className="mt-12 grid gap-8 md:grid-cols-2">
-          <a
-            href="mailto:contact@vehiculeschinois.com"
-            className="flex items-start gap-4 rounded-2xl border border-gray-200 p-6 hover:border-red-500 transition-colors"
-          >
-            <Mail className="h-6 w-6 shrink-0 text-red-600" aria-hidden="true" />
-            <div>
-              <h2 className="text-base font-semibold text-gray-900">Email</h2>
-              <p className="mt-1 text-sm text-gray-600">contact@vehiculeschinois.com</p>
-            </div>
-          </a>
-          <a
-            href="mailto:redaction@vehiculeschinois.com"
-            className="flex items-start gap-4 rounded-2xl border border-gray-200 p-6 hover:border-red-500 transition-colors"
-          >
-            <MessageSquare
-              className="h-6 w-6 shrink-0 text-red-600"
-              aria-hidden="true"
-            />
-            <div>
-              <h2 className="text-base font-semibold text-gray-900">Rédaction</h2>
-              <p className="mt-1 text-sm text-gray-600">
-                redaction@vehiculeschinois.com
-              </p>
-            </div>
-          </a>
-        </div>
 
         <ContactForm />
       </div>
