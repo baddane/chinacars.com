@@ -45,7 +45,6 @@ export const CATEGORIES = [
   { name: 'Analyse', slug: 'analyse' },
   { name: 'Électrique', slug: 'electrique' },
   { name: 'Hybride', slug: 'hybride' },
-  { name: 'Maroc', slug: 'maroc' },
 ] as const;
 
 export const CAR_SEGMENTS = [

@@ -15,7 +15,6 @@ const navigation = [
   { name: 'Comparateur', href: '/comparateur' },
   { name: 'Guides', href: '/guides' },
   { name: 'Électrique', href: '/electrique' },
-  { name: 'Maroc', href: '/maroc' },
 ];
 
 export default function Header({ searchIndex = [] }: { searchIndex?: SearchItem[] }) {

@@ -50,7 +50,7 @@ export default function Footer() {
             </Link>
             <p className="text-sm leading-6 text-gray-300 max-w-xs">
               Votre source n°1 d&apos;actualités, de tests et de prix sur les voitures
-              chinoises au Maroc et dans le monde.
+              chinoises, pour toute l&apos;audience francophone.
             </p>
             <div className="flex space-x-6">
               {footerNavigation.social.map((item) => (

@@ -13,7 +13,7 @@ interface HubSectionProps {
 
 /**
  * Generic landing/hub layout used for sections whose detailed content is
- * still being produced (Comparatifs, Guides, Électrique, Maroc).
+ * still being produced (Comparatifs, Guides, Électrique).
  */
 export default function HubSection({
   title,

@@ -16,7 +16,6 @@ const staticRoutes: Array<{
   { path: '/comparateur', changeFrequency: 'monthly', priority: 0.8 },
   { path: '/guides', changeFrequency: 'weekly', priority: 0.7 },
   { path: '/electrique', changeFrequency: 'weekly', priority: 0.7 },
-  { path: '/maroc', changeFrequency: 'weekly', priority: 0.7 },
   { path: '/a-propos', changeFrequency: 'monthly', priority: 0.3, lastModified: new Date('2025-05-01') },
   { path: '/contact', changeFrequency: 'yearly', priority: 0.3, lastModified: new Date('2025-05-01') },
   { path: '/mentions-legales', changeFrequency: 'yearly', priority: 0.1, lastModified: new Date('2025-05-01') },
