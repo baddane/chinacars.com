@@ -34,7 +34,7 @@ const inter = Inter({
 export const metadata: Metadata = {
   metadataBase: new URL(SITE.url),
   title: {
-    default: `${SITE.name} | L'actualité des voitures chinoises au Maroc`,
+    default: `${SITE.name} | L'actualité des voitures chinoises`,
     template: `%s | ${SITE.name}`,
   },
   description: SITE.description,
@@ -55,7 +55,7 @@ export const metadata: Metadata = {
     type: 'website',
     locale: SITE.locale,
     siteName: SITE.name,
-    title: `${SITE.name} | L'actualité des voitures chinoises au Maroc`,
+    title: `${SITE.name} | L'actualité des voitures chinoises`,
     description: SITE.description,
     url: SITE.url,
     images: [{ url: absoluteUrl(SITE.defaultOgImage), width: 1200, height: 630 }],

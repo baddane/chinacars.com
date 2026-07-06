@@ -17,7 +17,7 @@ export function generateMetadata({ searchParams }: PageProps): Metadata {
   return {
     title,
     description:
-      "Toute l'actualité des voitures chinoises au Maroc : nouveautés, essais, prix et guides d'achat.",
+      "Toute l'actualité des voitures chinoises : nouveautés, essais, prix et guides d'achat.",
     alternates: { canonical },
   };
 }
@@ -40,7 +40,7 @@ export default function NewsPage({ searchParams }: PageProps) {
           </h1>
           <p className="mt-6 text-lg leading-8 text-gray-600">
             Restez informé des derniers lancements, des essais détaillés et
-            des évolutions du marché automobile chinois au Maroc.
+            des évolutions du marché automobile chinois.
           </p>
         </div>
 

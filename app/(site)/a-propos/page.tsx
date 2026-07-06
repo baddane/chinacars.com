@@ -13,12 +13,12 @@ const values = [
   {
     icon: Newspaper,
     title: 'Expertise terrain',
-    text: "Essais, visites d'usines et rencontres avec les importateurs marocains.",
+    text: "Essais, visites d'usines et rencontres avec les constructeurs et importateurs.",
   },
   {
     icon: Users,
-    title: 'Pensé pour le Maroc',
-    text: 'Prix, homologation, pièces, SAV : nos guides répondent aux réalités locales.',
+    title: "Pensé pour l'acheteur",
+    text: 'Prix, autonomie, équipements, garanties : nos guides répondent aux vraies questions.',
   },
 ];
 

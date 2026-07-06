@@ -8,7 +8,7 @@ import { BRANDS } from '@/src/lib/constants';
 const brandsContent = BRANDS.slice(0, 6).map((brand, index) => ({
   ...brand,
   description: [
-    "Build Your Dreams est le leader mondial des véhicules électrifiés. Présent au Maroc avec une gamme complète.",
+    "Build Your Dreams est le leader mondial des véhicules électrifiés, avec une gamme complète et en pleine expansion.",
     "Marque d'origine britannique sous pavillon chinois (SAIC), MG propose des véhicules au design dynamique.",
     "L'un des plus grands exportateurs chinois, Chery se distingue par ses SUV technologiques.",
     "Propriétaire de Volvo et Lotus, Geely insuffle une rigueur européenne à ses modèles.",
@@ -27,9 +27,9 @@ const brandsContent = BRANDS.slice(0, 6).map((brand, index) => ({
 }));
 
 export const metadata: Metadata = {
-  title: 'Marques de voitures chinoises au Maroc',
+  title: 'Marques de voitures chinoises',
   description:
-    'Découvrez toutes les marques de voitures chinoises disponibles au Maroc : BYD, MG, Chery, Geely, GWM, Zeekr.',
+    'Découvrez toutes les grandes marques de voitures chinoises : BYD, MG, Chery, Geely, GWM, Zeekr.',
   alternates: { canonical: '/marques' },
 };
 

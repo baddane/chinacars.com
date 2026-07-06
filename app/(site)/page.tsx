@@ -9,9 +9,9 @@ import { carLabel } from '@/src/data/cars';
 import { VALID_DUELS } from '@/src/data/duels';
 
 export const metadata: Metadata = {
-  title: "L'actualité des voitures chinoises au Maroc",
+  title: "L'actualité des voitures chinoises",
   description:
-    "Actualités, essais et guides d'achat sur les voitures chinoises (BYD, MG, Chery, Geely, GWM) au Maroc.",
+    "Actualités, essais et guides d'achat sur les voitures chinoises (BYD, MG, Chery, Geely, GWM) pour l'audience francophone.",
   alternates: { canonical: '/' },
 };
 
@@ -57,7 +57,7 @@ export default function Home() {
               </div>
             </div>
             <h1 className="text-4xl font-bold tracking-tight text-white sm:text-6xl">
-              L&apos;avenir de l&apos;automobile chinoise au Maroc
+              L&apos;avenir de l&apos;automobile chinoise
             </h1>
             <p className="mt-6 text-lg leading-8 text-gray-300">
               Expertise, actualités et guides complets sur les marques qui

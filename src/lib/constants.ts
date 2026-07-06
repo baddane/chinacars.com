@@ -10,7 +10,7 @@ export const SITE = {
   defaultLanguage: 'fr',
   supportedLanguages: ['fr', 'ar', 'en'] as const,
   description:
-    "Actualités, essais, comparatifs et guides d'achat sur les voitures chinoises (BYD, MG, Chery, Geely, GWM, Zeekr, NIO, XPeng) en France et en Europe.",
+    "Actualités, essais, comparatifs et guides d'achat sur les voitures chinoises (BYD, MG, Chery, Geely, GWM, Zeekr, NIO, XPeng) pour toute l'audience francophone.",
   twitterHandle: '@vehiculeschinois',
   defaultOgImage: '/opengraph-image',
 } as const;
