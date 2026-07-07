@@ -19,6 +19,56 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'bilan-ventes-voitures-chinoises-europe-premier-semestre-2026',
+    title: 'Voitures chinoises en Europe : le bilan chiffré du premier semestre 2026',
+    excerpt:
+      "MG, BYD, Omoda/Jaecoo, Xiaomi : où en est la percée chinoise à mi-année ? Part de marché, modèles qui cartonnent, taxes qui freinent — le point complet sur les six premiers mois de 2026.",
+    image: 'https://www.wandaloo.com/files/Voiture-Neuve/byd-seal.jpg',
+    category: 'Analyse',
+    categorySlug: 'analyse',
+    publishedAt: '2026-07-07T09:00:00+02:00',
+    readingTime: 9,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Un premier semestre qui confirme la tendance de fond</h2>
+<p>Six mois après le début de l'année, un constat s'impose : la progression des marques chinoises sur le marché automobile européen ne s'est pas essoufflée, elle s'est structurée. Après plusieurs années où l'on parlait encore de "percée" ou de "vague", le premier semestre 2026 ressemble davantage à une installation durable. Les volumes progressent, mais surtout la gamme s'élargit, les réseaux se densifient et les nouveaux entrants trouvent enfin leur public.</p>
+<p>Voici ce qu'il faut retenir de ces six premiers mois, marque par marque, segment par segment.</p>
+
+<h2>MG et BYD, toujours en tête mais plus vraiment seuls</h2>
+<p>Sans surprise, <strong>MG</strong> reste la marque chinoise la plus vendue en Europe sur la période, portée par le duo ZS / ZS Hybrid+ et par une MG3 Hybrid+ qui continue de cannibaliser les compactes historiques (voir <a href="/actualites/mg-motor-marque-preferee-jeunes-conducteurs">pourquoi MG séduit les jeunes conducteurs</a>). Son ancienneté sur le marché européen — plus de dix ans de recul pour la marque sous pavillon SAIC — reste un atout commercial de poids face à des concurrents encore inconnus du grand public il y a deux ans.</p>
+<p><strong>BYD</strong> confirme sa deuxième place et continue de grimper vite, surtout sur l'électrique pur où la Seal, l'Atto 3 et la petite Seagull/Dolphin Surf tirent les volumes vers le haut. La marque profite aussi d'un effet d'image : la comparaison avec Tesla, longtemps théorique, est désormais une réalité commerciale sur certains segments (voir <a href="/actualites/byd-vs-volkswagen-bataille-numero-1-mondial">BYD vs Volkswagen, la bataille du numéro 1 mondial</a>).</p>
+<p>Derrière ce duo de tête, l'écart se resserre. C'est la vraie nouveauté de ce semestre.</p>
+
+<h2>Omoda/Jaecoo et Xiaomi, les progressions les plus spectaculaires</h2>
+<p>Le groupe <strong>Omoda &amp; Jaecoo</strong> (Chery) réalise l'une des plus fortes progressions relatives du semestre, porté par le succès de l'Omoda 5 SHS-H et par un réseau de distribution qui s'est étoffé plus vite que prévu dans plusieurs pays d'Europe de l'Ouest. La marque a clairement trouvé sa cible : des acheteurs qui veulent un SUV bien équipé, hybride ou électrique, sans payer le ticket d'entrée d'une marque premium.</p>
+<p><strong>Xiaomi</strong>, de son côté, poursuit sa montée en puissance sur le segment premium avec la SU7, dont les livraisons européennes s'accélèrent. Les volumes restent modestes en valeur absolue comparés à MG ou BYD, mais l'effet d'entraînement sur l'image de toute la catégorie "voiture chinoise" est réel — la marque continue de servir de vitrine technologique pour l'ensemble du secteur (voir <a href="/actualites/arrivee-xiaomi-tournant-historique-industrie-automobile">l'arrivée de Xiaomi, un tournant pour l'industrie</a>).</p>
+<p><strong>Zeekr</strong> et <strong>XPeng</strong> consolident plutôt qu'ils n'explosent, sur un segment premium électrique où la concurrence des marques allemandes reste rude, mais les deux marques gagnent du terrain trimestre après trimestre grâce à leur avance technologique sur la recharge rapide et les architectures 800V.</p>
+
+<h2>Ce qui freine encore la progression</h2>
+<p>Le tableau n'est pas uniformément positif. Deux obstacles continuent de peser sur les ventes chinoises en ce milieu d'année :</p>
+<ul>
+  <li><strong>Les taxes à l'importation</strong>, qui renchérissent mécaniquement les modèles fabriqués en Chine et compliquent le calcul pour les acheteurs les plus sensibles au prix (voir <a href="/actualites/taxes-europeennes-impact-prix-voitures-chinoises-2026">l'impact des taxes européennes</a>).</li>
+  <li><strong>La disparition progressive des bonus écologiques</strong> sur plusieurs modèles électriques, qui rebat les cartes du rapport qualité-prix qui faisait jusque-là la force de nombreuses citadines chinoises (voir <a href="/actualites/bonus-ecologique-2026-voitures-chinoises-eligibles">le point sur le bonus écologique 2026</a>).</li>
+</ul>
+<p>La réponse des constructeurs à ces deux contraintes est déjà visible dans les chiffres du semestre : accélération de la production locale en Europe pour plusieurs modèles (voir <a href="/actualites/marques-chinoises-production-europe-hongrie-espagne">la production chinoise en Europe</a>), et retour en force d'offres hybrides ou thermiques moins pénalisées fiscalement que le tout électrique.</p>
+
+<h2>La confiance progresse aussi vite que les volumes</h2>
+<p>Un chiffre compte souvent plus que les autres pour juger de la solidité d'une percée commerciale : celui de la fidélisation et du réachat. Sur ce point, le semestre confirme une amélioration nette. Les scores Euro NCAP désormais alignés sur les standards européens (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">la sécurité des voitures chinoises</a>) et les premiers retours rassurants sur la fiabilité mécanique des modèles les plus anciens (voir <a href="/actualites/fiabilite-long-terme-mg4-2023-premiers-retours">le bilan fiabilité de la MG4</a>) achèvent de lever les dernières réticences d'une partie des acheteurs.</p>
+<p>Le marché de l'occasion, encore anecdotique il y a deux ans, commence lui aussi à se structurer, avec une décote qui reste favorable à l'achat mais qui se stabilise à mesure que la confiance s'installe (voir <a href="/actualites/decote-voitures-chinoises-risque-mg-byd-2026">la décote des voitures chinoises</a>).</p>
+
+<h2>Ce qu'il faut surveiller pour la deuxième moitié de l'année</h2>
+<p>Trois points seront décisifs d'ici la fin de l'année :</p>
+<ol>
+  <li><strong>Le rythme des lancements</strong> : plusieurs modèles attendus doivent arriver en concession d'ici la fin 2026, et leur accueil commercial pèsera lourd dans le bilan annuel.</li>
+  <li><strong>L'évolution des barrières tarifaires</strong>, qui reste le principal facteur exogène capable de freiner ou d'accélérer la dynamique en cours.</li>
+  <li><strong>La capacité des réseaux SAV</strong> à suivre le rythme des livraisons, sur laquelle plusieurs marques ont encore une marge de progression pour transformer l'essai commercial en satisfaction durable.</li>
+</ol>
+
+<h2>Verdict</h2>
+<p>Ce premier semestre 2026 ne marque pas de rupture spectaculaire, mais il confirme ce que l'on pressentait depuis quelques trimestres : la présence chinoise sur le marché automobile européen n'est plus un phénomène de niche porté par deux ou trois marques pionnières, c'est un mouvement de fond qui se diversifie, se structure et gagne en crédibilité mois après mois. MG et BYD restent en tête, mais Omoda/Jaecoo et Xiaomi montrent que la place est loin d'être figée. Rendez-vous en fin d'année pour le bilan complet.</p>
+`,
+  },
+  {
     slug: 'mg-zs-hybrid-plus-perte-de-puissance-cause-solution',
     title: 'MG ZS Hybrid+ : le problème de perte de puissance expliqué (197 ch → 55 ch)',
     excerpt:
