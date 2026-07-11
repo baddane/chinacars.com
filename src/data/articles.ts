@@ -19,6 +19,65 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'prix-voitures-chinoises-maroc-2026-guide-complet',
+    title: 'Prix des voitures chinoises au Maroc en 2026 : le guide complet par marque',
+    excerpt:
+      "BYD, MG, Chery, Omoda, Jaecoo, GWM… combien coûtent vraiment les voitures chinoises au Maroc en 2026 ? Fourchettes de prix, positionnement par segment et conseils pour bien négocier.",
+    image: 'https://www.wandaloo.com/files/Voiture-Neuve/byd-seal.jpg',
+    category: 'Guide',
+    categorySlug: 'guide',
+    publishedAt: '2026-07-11T09:00:00+01:00',
+    readingTime: 11,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Un marché marocain transformé par l'offre chinoise</h2>
+<p>Il y a cinq ans, les marques chinoises se comptaient sur les doigts d'une main dans les concessions marocaines. En 2026, c'est l'inverse : difficile de trouver un segment — de la citadine au grand SUV familial — où BYD, MG, Chery, Omoda, Jaecoo ou GWM ne proposent pas une alternative sérieuse aux références japonaises, coréennes et européennes. Le principal argument reste le même depuis le début : un rapport équipement/prix que les constructeurs historiques peinent à égaler.</p>
+<p>Mais "moins cher" ne veut pas dire la même chose selon la marque, le modèle et la motorisation. Ce guide fait le point, marque par marque, sur les fourchettes de prix pratiquées au Maroc mi-2026, pour vous aider à situer votre budget avant de passer en concession.</p>
+
+<h2>Pourquoi les prix varient autant d'une marque à l'autre</h2>
+<p>Avant les chiffres, quelques repères utiles. Les prix affichés au Maroc dépendent de plusieurs facteurs propres au marché local :</p>
+<ul>
+  <li><strong>Le mode d'importation</strong> : les modèles distribués par un importateur officiel avec réseau SAV structuré sont généralement mieux positionnés en fiabilité perçue, mais pas toujours moins chers que les véhicules proposés par des mandataires (voir <a href="/actualites/mandataires-vs-concessions-acheter-byd-meilleur-prix">mandataires vs concessions</a>).</li>
+  <li><strong>La motorisation</strong> : un même modèle peut exister en version thermique, hybride ou 100 % électrique, avec des écarts de prix de 30 à 60 % entre les déclinaisons.</li>
+  <li><strong>Le niveau de finition</strong> : les marques chinoises multiplient les niveaux d'équipement (Comfort, Luxury, Style, Ultra…), et l'écart entre l'entrée et le haut de gamme peut représenter plusieurs dizaines de milliers de dirhams.</li>
+  <li><strong>La disponibilité locale</strong> : certains modèles très demandés, comme la Xiaomi SU7, restent encore difficiles à trouver au Maroc en 2026, ce qui tire leur prix réel vers le haut par rapport au tarif catalogue.</li>
+</ul>
+<p>Les montants ci-dessous sont des ordres de grandeur observés en concession et chez les mandataires marocains à la mi-2026 ; ils évoluent régulièrement au gré des promotions et des arrivages, donc vérifiez toujours le tarif du jour avant de vous engager (voir aussi notre <a href="/actualites/importer-voiture-chinoise-maroc-2024">guide sur l'importation directe depuis la Chine</a> pour les acheteurs qui envisagent cette voie).</p>
+
+<h2>MG : le point d'entrée le plus accessible</h2>
+<p>MG reste la référence du segment abordable au Maroc, avec une gamme qui démarre autour de <strong>190 000 à 220 000 MAD</strong> pour une MG3 essence bien équipée. La MG ZS (thermique ou hybride ZS Hybrid+) se positionne entre <strong>230 000 et 300 000 MAD</strong> selon la finition, tandis que la ZS EV, 100 % électrique, grimpe vers <strong>320 000 à 360 000 MAD</strong>. Pour les familles, la MG5 (berline) et la MG HS (SUV plus cossu) se négocient plutôt entre <strong>260 000 et 380 000 MAD</strong>. C'est cette accessibilité, combinée à une décennie de présence sur le marché européen, qui explique pourquoi MG reste la marque chinoise la plus vendue (voir <a href="/actualites/mg-motor-heritage-anglais-domination-chinoise">l'histoire de MG Motor</a>).</p>
+
+<h2>BYD : la montée en gamme électrique</h2>
+<p>BYD couvre désormais presque tous les budgets grâce à une gamme très étagée. La citadine Dolphin démarre autour de <strong>280 000 MAD</strong>, le SUV compact Atto 3 se situe entre <strong>350 000 et 400 000 MAD</strong>, et la berline Seal — la plus regardée du catalogue — débute vers <strong>480 000 MAD</strong> et peut dépasser <strong>600 000 MAD</strong> en version Excellence AWD (voir <a href="/actualites/byd-seal-prix-maroc-2024">notre dossier sur l'arrivée de la Seal au Maroc</a>). Le grand SUV 7 places Tang, positionné en haut de gamme, franchit généralement la barre des <strong>650 000 MAD</strong>. Pour s'y retrouver dans une gamme aussi large, notre <a href="/actualites/guide-achat-byd-2026-quel-modele-quel-profil">guide d'achat BYD 2026</a> reste le point de départ le plus utile.</p>
+
+<h2>Chery, Omoda et Jaecoo : la percée du groupe Chery</h2>
+<p>Le trio Chery/Omoda/Jaecoo (même groupe industriel, positionnements différents) s'est imposé très vite sur le marché marocain grâce à des tarifs agressifs. La Chery Tiggo 4 Pro, citadine surélevée, se trouve autour de <strong>210 000 à 240 000 MAD</strong>. L'Omoda 5, SUV compact au design plus premium, se situe entre <strong>270 000 et 320 000 MAD</strong> selon la motorisation (thermique ou hybride SHS-H). Le Jaecoo 7, plus cossu, dépasse rarement <strong>350 000 MAD</strong> même en finition haute. Enfin, le grand SUV familial Tiggo 8 Pro, souvent proposé en 7 places, se négocie généralement entre <strong>320 000 et 400 000 MAD</strong> — un positionnement qui en fait l'une des références du segment (voir <a href="/actualites/jaecoo-7-vs-chery-tiggo-8-pro-suv-familial-chery">Jaecoo 7 vs Chery Tiggo 8 Pro</a>).</p>
+
+<h2>GWM et les autres marques : des tarifs encore mouvants</h2>
+<p>GWM (Haval, Ora, Tank) et les marques plus récentes comme Geely restent moins implantées au Maroc, avec une disponibilité et des tarifs qui varient davantage d'un mandataire à l'autre. La citadine électrique Ora 03 se situe généralement entre <strong>260 000 et 300 000 MAD</strong> lorsqu'elle est disponible, tandis que les SUV Haval démarrent autour de <strong>230 000 MAD</strong> pour les versions thermiques. Ces marques restant en phase d'implantation, mieux vaut vérifier la présence effective d'un réseau après-vente local avant de se laisser séduire par un tarif attractif.</p>
+
+<h2>Le coût ne s'arrête pas au prix d'achat</h2>
+<p>Le prix catalogue n'est qu'une partie de l'équation. Trois postes méritent une attention particulière au Maroc :</p>
+<ul>
+  <li><strong>La garantie</strong>, souvent plus longue chez les marques chinoises (5 à 7 ans selon les constructeurs) — un vrai argument de revente, à condition de bien vérifier les conditions (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties</a>).</li>
+  <li><strong>L'entretien et les pièces détachées</strong>, dont le coût dépend fortement de la maturité du réseau SAV local (voir <a href="/actualites/prix-pieces-detachees-mg-vs-renault-apres-vente">MG est-il plus cher que Renault en après-vente ?</a> et <a href="/actualites/entretien-voiture-chinoise-france-reseaux-sav">le point sur les réseaux SAV</a>).</li>
+  <li><strong>La décote à la revente</strong>, encore plus marquée sur les marques récentes que sur les valeurs sûres du marché — un critère à intégrer dans le calcul du coût total de possession (voir <a href="/actualites/decote-voitures-chinoises-risque-mg-byd-2026">la décote des voitures chinoises en 2026</a>).</li>
+</ul>
+<p>Pour les acheteurs qui envisagent le financement plutôt que le comptant, il existe désormais des offres de LOA/LLD sur plusieurs marques chinoises, à comparer soigneusement (voir <a href="/actualites/leasing-loa-lld-meilleures-offres-marques-chinoises">notre sélection des meilleures offres de leasing</a>), tout comme l'assurance auto, où certains assureurs restent encore prudents sur ces marques (voir <a href="/actualites/assurance-auto-marques-chinoises-assureurs-francais">assurance et marques chinoises</a>).</p>
+
+<h2>Nos conseils pour bien négocier</h2>
+<ol>
+  <li><strong>Comparez plusieurs finitions</strong> avant de vous focaliser sur un modèle : l'écart entre deux niveaux d'équipement peut parfois justifier de monter en gamme pour un delta de prix limité.</li>
+  <li><strong>Vérifiez la disponibilité immédiate</strong> : les modèles en tension (forte demande, stock limité) se négocient nettement moins bien que ceux disponibles en stock.</li>
+  <li><strong>Renseignez-vous sur le réseau SAV local</strong> avant de signer, en particulier pour les marques arrivées récemment au Maroc.</li>
+  <li><strong>Anticipez la revente</strong> : privilégiez, à budget égal, les modèles et marques qui affichent déjà un historique de fiabilité rassurant plutôt que la toute dernière nouveauté.</li>
+</ol>
+
+<h2>Verdict</h2>
+<p>En 2026, le marché marocain des voitures chinoises offre un choix inédit à tous les budgets : environ 190 000 MAD pour entrer en gamme avec une MG3, et jusqu'à plus de 650 000 MAD pour un grand SUV BYD Tang haut de gamme. L'essentiel n'est plus de savoir "si" une marque chinoise correspond à votre budget — la réponse est presque toujours oui — mais de bien comparer garantie, réseau après-vente et décote avant de signer, pour transformer un prix d'achat attractif en une expérience de possession satisfaisante sur la durée.</p>
+`,
+  },
+  {
     slug: 'bilan-ventes-voitures-chinoises-europe-premier-semestre-2026',
     title: 'Voitures chinoises en Europe : le bilan chiffré du premier semestre 2026',
     excerpt:
