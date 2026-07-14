@@ -19,6 +19,56 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'byd-atto-2-vs-citroen-c3-aircross-suv-urbain-phev-francais',
+    title: "BYD Atto 2 vs Citroën C3 Aircross : le SUV urbain hybride rechargeable chinois peut-il détrôner le champion français ?",
+    excerpt:
+      "177 ch contre 130, une autonomie totale de 1 000 km sans jamais brancher : le petit hybride rechargeable de BYD s'attaque à la citadine surélevée la plus vendue de France. Verdict chiffré, sans concession.",
+    image: 'https://www.wandaloo.com/files/Voiture-Neuve/byd-atto-2-phev.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-07-14T09:00:00+02:00',
+    readingTime: 8,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux réponses opposées au même problème : le SUV urbain abordable</h2>
+<p>D'un côté, la Citroën C3 Aircross : une citadine surélevée devenue en quelques mois l'une des références de son segment en France, portée par un tarif d'entrée agressif et l'image rassurante d'une marque historique. De l'autre, le BYD Atto 2 : un SUV urbain de gabarit comparable, mais qui mise sur une motorisation hybride rechargeable pour offrir près de 50 ch de plus, sans jamais imposer le passage par une borne de recharge publique. Sur le papier, l'écart de prix reste net — mais l'écart de technologie embarquée l'est tout autant.</p>
+
+<h2>Gabarit et style : deux SUV urbains presque jumeaux</h2>
+<p>Les deux voitures visent exactement la même clientèle. La C3 Aircross (4,39 m) et le BYD Atto 2 (4,31 m) affichent une longueur quasi identique, avec la même vocation : une garde au sol relevée, une position de conduite haute, et un gabarit pensé pour se faufiler en ville tout en restant à l'aise sur route. Le Citroën joue la carte du style rassurant et familier, tandis que le BYD adopte une silhouette plus anguleuse, clairement héritée du design maison de la marque (voir <a href="/actualites/design-chinois-identite-visuelle-marques-auto">notre article sur l'identité visuelle du design chinois</a>).</p>
+
+<h2>Motorisation : hybride rechargeable contre thermique pur</h2>
+<p>C'est là que les deux SUV divergent le plus radicalement. Le BYD Atto 2 est un <strong>hybride rechargeable (PHEV)</strong> : une petite batterie de 7,8 kWh permet de couvrir les trajets urbains du quotidien en mode tout électrique, avant que le moteur thermique ne prenne le relais sur les plus longs trajets — sans jamais nécessiter de recharge rapide, puisque le véhicule n'en propose pas. La C3 Aircross, elle, reste sur une motorisation 100 % thermique classique, sans prise ni batterie de traction. Résultat concret au quotidien : pour un usage majoritairement urbain, l'Atto 2 peut afficher une consommation très inférieure à celle de son rival tant que la batterie est rechargée sur une prise domestique ou une wallbox ; sur autoroute, l'écart se resserre nettement, le PHEV roulant alors surtout en mode thermique avec le poids supplémentaire de sa batterie.</p>
+
+<h2>Performances : l'avantage chinois</h2>
+<ul>
+  <li><strong>BYD Atto 2</strong> : 177 ch, 0 à 100 km/h en 8,5 s.</li>
+  <li><strong>Citroën C3 Aircross</strong> : 130 ch, 0 à 100 km/h en 9,9 s.</li>
+</ul>
+<p>Avec 47 ch de plus et 1,4 seconde d'avance au 0 à 100 km/h, l'Atto 2 se montre nettement plus vif que la citadine surélevée française, un écart qui se ressent surtout en reprise et en insertion sur voie rapide. Un résultat logique : la combinaison moteur thermique + moteur électrique d'un PHEV délivre presque toujours plus de couple immédiat qu'un petit bloc essence seul.</p>
+
+<h2>Autonomie et coût à l'usage</h2>
+<p>Sur l'autonomie totale, les deux voitures se tiennent : environ 1 000 km pour l'Atto 2 (réservoir + batterie) contre 1 050 km pour la C3 Aircross (réservoir seul), un écart négligeable à l'usage. La vraie différence se joue sur le coût énergétique : 5,5 €/100 km annoncés pour le BYD contre 8,1 €/100 km pour le Citroën, soit un écart de près de 30 % en faveur du PHEV chinois — à condition de recharger régulièrement sa batterie plutôt que de rouler exclusivement en mode thermique, ce qui annulerait une bonne partie de l'avantage.</p>
+
+<h2>Habitabilité et coffre</h2>
+<p>Sur ce terrain, la C3 Aircross reprend l'avantage : 460 litres de coffre contre 400 litres pour l'Atto 2, la batterie de traction du BYD grignotant une partie du volume utile malgré une longueur extérieure inférieure de 8 cm. Pour une famille qui voyage souvent avec des bagages volumineux, l'écart reste sensible sans être rédhibitoire.</p>
+
+<h2>Prix et garantie : l'équation s'inverse</h2>
+<p>Côté tarif, la Citroën C3 Aircross garde une longueur d'avance nette : environ 20 000 € contre 30 000 € pour le BYD Atto 2, soit 10 000 € d'écart pour une puissance et une technologie embarquée bien supérieures côté chinois. Mais l'écart se resserre sur la garantie : <strong>6 ans</strong> chez BYD contre une garantie constructeur standard de <strong>2 ans</strong> chez Citroën — un différentiel qui pèse lourd sur le coût total de possession et qui s'inscrit dans la tendance de fond des marques chinoises sur ce terrain (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties constructeurs chinois</a>).</p>
+
+<h2>Sécurité et technologie</h2>
+<p>Sur la sécurité, l'écart tourne à l'avantage du BYD : 5 étoiles Euro NCAP pour l'Atto 2 contre 4 étoiles pour la C3 Aircross, une différence qui confirme la mise à niveau générale des voitures chinoises sur ce critère longtemps considéré comme leur point faible (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point complet sur la sécurité des voitures chinoises</a>). Côté technologie embarquée, l'Atto 2 propose également une dotation plus généreuse en aides à la conduite et un écran central plus généreux, sans surprise pour une voiture positionnée 50 % plus cher à l'achat.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>BYD Atto 2</strong> : pour qui roule surtout en ville, peut recharger régulièrement sur une prise ou une wallbox, et veut plus de puissance, une meilleure note de sécurité et une garantie longue durée qui rassure sur la revente (voir aussi <a href="/actualites/decote-voitures-chinoises-risque-mg-byd-2026">notre analyse de la décote des voitures chinoises</a>).</li>
+  <li><strong>Citroën C3 Aircross</strong> : pour qui privilégie un budget d'achat serré, un réseau après-vente dense partout en France, et un usage majoritairement autoroutier où l'avantage du PHEV s'estompe.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Ce duel oppose deux logiques d'achat difficilement comparables sur le seul critère du prix. Pour un budget contraint et un usage mixte ville/route sans possibilité de recharge à domicile, la <strong>Citroën C3 Aircross</strong> reste un choix pragmatique et éprouvé, porté par un réseau après-vente sans équivalent en France. Mais pour qui peut recharger régulièrement et cherche à faire baisser durablement sa facture de carburant tout en gagnant en puissance, en sécurité et en garantie, le <strong>BYD Atto 2</strong> propose une équation étonnamment convaincante — à condition d'accepter un ticket d'entrée 50 % plus élevé, largement compensé sur la durée pour les gros rouleurs urbains.</p>
+`,
+  },
+  {
     slug: 'mg-marvel-r-vs-renault-megane-e-tech-duel-electrique',
     title: 'MG Marvel R vs Renault Mégane E-Tech : le SUV coupé chinois peut-il détrôner la compacte électrique française ?',
     excerpt:

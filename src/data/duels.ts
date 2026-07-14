@@ -84,6 +84,7 @@ export const COMPARISON_DUELS: Array<[string, string]> = [
   ['omoda-5-shs-h', 'hyundai-kona'],
   ['byd-seal-u', 'hyundai-tucson'],
   ['byd-seagull', 'citroen-c3'],
+  ['byd-atto-2', 'citroen-c3-aircross'],
 
   // --- Chinoises entre elles ---
   ['byd-atto-3', 'omoda-e5'],
