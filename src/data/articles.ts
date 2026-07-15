@@ -19,6 +19,56 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'mg-hs-vs-citroen-c5-aircross-suv-familial-essence-hybride',
+    title: 'MG HS vs Citroën C5 Aircross Hybride : le grand SUV familial chinois peut-il détrôner le champion français ?',
+    excerpt:
+      "507 litres de coffre, garantie 7 ans et 10 000 € d'écart de prix : le SUV familial de MG s'attaque à la référence hybride de Citroën. Verdict chiffré, sans concession.",
+    image: 'https://www.wandaloo.com/files/Voiture-Neuve/mg-hs.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-07-15T09:00:00+02:00',
+    readingTime: 7,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux réponses opposées au même problème : le grand SUV familial abordable</h2>
+<p>D'un côté, le Citroën C5 Aircross Hybride : un SUV familial devenu une référence en France, porté par le confort de suspension propre à la marque et un réseau après-vente dense. De l'autre, le MG HS : un SUV de gabarit comparable, mais qui joue la carte du moteur essence classique plutôt que l'hybridation, pour un ticket d'entrée nettement plus accessible. Sur le papier, l'écart de prix reste net — mais l'écart de technologie embarquée l'est tout autant, et pas dans le sens qu'on pourrait attendre.</p>
+
+<h2>Gabarit et style : deux SUV familiaux, deux philosophies</h2>
+<p>Les deux voitures visent la même clientèle, mais pas avec le même gabarit. Le MG HS (4,67 m) dépasse le C5 Aircross (4,50 m) de 17 cm, avec une silhouette plus massive et un empattement clairement pensé pour l'habitabilité. Le Citroën, lui, mise sur son style arrondi et rassurant, hérité d'une décennie de succès commercial en France, tandis que le MG adopte une ligne plus anguleuse, dans la continuité du langage stylistique de la marque (voir <a href="/actualites/design-chinois-identite-visuelle-marques-auto">notre article sur l'identité visuelle du design chinois</a>).</p>
+
+<h2>Motorisation : essence pur contre hybride auto-rechargeable</h2>
+<p>C'est là que les deux SUV divergent le plus nettement. Le Citroën C5 Aircross Hybride embarque une petite batterie de 1,5 kWh qui se recharge uniquement au freinage et en décélération, sans jamais nécessiter de prise ni de borne — un hybride « auto-rechargeant » classique, qui optimise surtout les phases de ville et de démarrage. Le MG HS, lui, reste sur une motorisation 100 % essence, sans aucune assistance électrique. Résultat concret au quotidien : le Citroën affiche un coût énergétique nettement inférieur (7,0 €/100 km contre 9,5 €/100 km pour le MG), un écart de plus de 25 % qui se creuse encore en usage urbain, terrain de prédilection de l'hybridation légère.</p>
+
+<h2>Performances : un léger avantage français</h2>
+<ul>
+  <li><strong>Citroën C5 Aircross Hybride</strong> : 180 ch, 0 à 100 km/h en 8,7 s.</li>
+  <li><strong>MG HS</strong> : 170 ch, 0 à 100 km/h en 9,5 s.</li>
+</ul>
+<p>Avec 10 ch de plus et 0,8 seconde d'avance au 0 à 100 km/h, le C5 Aircross se montre un peu plus vif que le SUV chinois, un écart qui reste toutefois modéré et peu perceptible dans un usage quotidien classique. Le renfort électrique du Citroën en sortie de virage et au démarrage explique l'essentiel de cette avance.</p>
+
+<h2>Autonomie et coût à l'usage</h2>
+<p>Sur l'autonomie totale (réservoir seul pour les deux modèles, aucun n'étant rechargeable sur secteur), les deux voitures affichent le même chiffre : environ 1 000 km. La vraie différence se joue donc uniquement sur le coût énergétique aux 100 km, nettement à l'avantage du Citroën grâce à son hybridation, un point qui pèse sur la durée pour les gros rouleurs urbains malgré le tarif d'achat plus élevé.</p>
+
+<h2>Habitabilité et coffre : l'avantage chinois</h2>
+<p>Sur ce terrain, le MG HS reprend l'avantage malgré son motorisation plus simple : 507 litres de coffre contre 580 litres pour le C5 Aircross — un résultat qui semble à première vue favorable au Citroën, mais qui s'inverse une fois ramené à la longueur hors-tout : le MG, plus long de 17 cm, offre un habitacle globalement plus généreux à l'arrière pour les passagers, tandis que le Citroën conserve un léger avantage sur le seul volume de coffre. Les deux SUV affichent 5 places.</p>
+
+<h2>Prix et garantie : l'équation s'inverse nettement</h2>
+<p>Côté tarif, le MG HS garde une avance considérable : environ 26 000 € contre 36 000 € pour le Citroën C5 Aircross Hybride, soit <strong>10 000 € d'écart</strong> en faveur du SUV chinois pour un gabarit supérieur. L'écart se creuse encore sur la garantie : <strong>7 ans</strong> chez MG contre une garantie constructeur standard de <strong>2 ans</strong> chez Citroën — un différentiel qui pèse lourd sur le coût total de possession, dans la lignée de la tendance de fond des marques chinoises sur ce terrain (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties constructeurs chinois</a>).</p>
+
+<h2>Sécurité et technologie</h2>
+<p>Sur la sécurité, aucun écart : les deux modèles affichent 5 étoiles Euro NCAP, confirmant la mise à niveau générale des voitures chinoises sur ce critère longtemps considéré comme leur point faible (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point complet sur la sécurité des voitures chinoises</a>). Côté technologie embarquée, les deux SUV se tiennent dans un mouchoir de poche, avec une dotation d'aides à la conduite comparable de série.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>MG HS</strong> : pour qui veut le plus grand gabarit et l'habitabilité la plus généreuse au meilleur prix, avec une garantie longue durée qui rassure sur la revente (voir aussi <a href="/actualites/decote-voitures-chinoises-risque-mg-byd-2026">notre analyse de la décote des voitures chinoises</a>).</li>
+  <li><strong>Citroën C5 Aircross Hybride</strong> : pour qui privilégie un usage majoritairement urbain où l'hybridation fait baisser la facture de carburant, et un réseau après-vente dense partout en France.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Ce duel oppose deux logiques d'achat difficilement comparables sur le seul critère du prix. Pour un usage urbain où l'hybridation auto-rechargeante tire pleinement parti de ses atouts, le <strong>Citroën C5 Aircross Hybride</strong> reste un choix pragmatique, porté par un réseau après-vente sans équivalent en France. Mais pour qui cherche le SUV familial le plus spacieux au budget le plus serré, avec une garantie qui sécurise l'achat sur la durée, le <strong>MG HS</strong> propose une équation étonnamment convaincante — 10 000 € d'économie à l'achat, un gabarit supérieur, au prix d'une facture de carburant un peu plus salée.</p>
+`,
+  },
+  {
     slug: 'byd-atto-2-vs-citroen-c3-aircross-suv-urbain-phev-francais',
     title: "BYD Atto 2 vs Citroën C3 Aircross : le SUV urbain hybride rechargeable chinois peut-il détrôner le champion français ?",
     excerpt:
