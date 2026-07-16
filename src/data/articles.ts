@@ -19,6 +19,56 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'chery-tiggo-8-pro-vs-dacia-jogger-hybrid-suv-7-places-familial',
+    title: 'Chery Tiggo 8 Pro vs Dacia Jogger Hybrid : le SUV 7 places chinois peut-il détrôner le roi du familial low-cost ?',
+    excerpt:
+      "326 ch contre 140, garantie 7 ans contre 3 : le SUV hybride rechargeable de Chery s'attaque au monospace le plus vendu de France pour les familles nombreuses. Verdict chiffré, sans concession.",
+    image: 'https://www.wandaloo.com/files/Voiture-Neuve/chery-tiggo-8-pro-phev.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-07-16T09:00:00+02:00',
+    readingTime: 8,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux réponses opposées au même problème : la famille nombreuse au budget serré</h2>
+<p>D'un côté, le Dacia Jogger Hybrid : le monospace 7 places devenu la référence absolue des familles nombreuses en France, porté par un tarif d'entrée imbattable et la réputation de sobriété de la marque roumaine. De l'autre, le Chery Tiggo 8 Pro : un SUV 7 places hybride rechargeable nettement plus cher, mais qui promet plus du double de la puissance et une dotation technologique sans commune mesure. Sur le papier, l'écart de prix est vertigineux — reste à savoir s'il se justifie une fois les fiches techniques posées côte à côte.</p>
+
+<h2>Gabarit et style : SUV massif contre monospace pratique</h2>
+<p>Les deux voitures visent la même clientèle — 7 places, budget familial — mais avec deux philosophies opposées. Le Tiggo 8 Pro (4,72 m) dépasse le Jogger Hybrid (4,55 m) de 17,5 cm, avec une silhouette de SUV imposante et une calandre chromée pensée pour en mettre plein la vue sur le parking de l'école. Le Dacia, lui, assume sa carrosserie de monospace haut, moins flatteuse mais redoutablement efficace pour optimiser chaque centimètre cube d'habitacle (voir <a href="/actualites/design-chinois-identite-visuelle-marques-auto">notre article sur l'identité visuelle du design chinois</a>).</p>
+
+<h2>Motorisation : hybride rechargeable contre hybride simple</h2>
+<p>C'est là que les deux 7 places divergent le plus nettement. Le Chery Tiggo 8 Pro est un <strong>hybride rechargeable (PHEV)</strong> : une batterie de 18,3 kWh permet de couvrir une bonne partie des trajets du quotidien en mode tout électrique, avant que le moteur thermique ne prenne le relais sur autoroute — sans jamais imposer le passage par une borne rapide, la recharge DC plafonnant à 40 kW. Le Dacia Jogger Hybrid, lui, reste sur un hybride auto-rechargeant classique, avec une toute petite batterie de 1,2 kWh qui se recharge uniquement au freinage, sans jamais nécessiter de prise. Résultat concret au quotidien : pour un usage majoritairement urbain avec une recharge régulière sur wallbox, le Tiggo 8 Pro peut afficher une facture d'énergie très inférieure ; sur autoroute, l'écart se resserre nettement, le PHEV roulant alors surtout en mode thermique avec le poids supplémentaire de sa batterie.</p>
+
+<h2>Performances : l'écart est immense</h2>
+<ul>
+  <li><strong>Chery Tiggo 8 Pro</strong> : 326 ch, 0 à 100 km/h en 8,0 s.</li>
+  <li><strong>Dacia Jogger Hybrid</strong> : 140 ch, 0 à 100 km/h en 10,1 s.</li>
+</ul>
+<p>Avec plus du double de la puissance et 2,1 secondes d'avance au 0 à 100 km/h, le Tiggo 8 Pro n'a tout simplement pas de rival sur ce terrain : c'est l'un des SUV 7 places les plus véloces de sa catégorie de prix, loin devant la plupart des monospaces généralistes. La combinaison moteur thermique + moteur électrique d'un PHEV délivre un couple immédiat que le petit hybride auto-rechargeant du Jogger ne peut égaler, chargé de tracter jusqu'à sept occupants.</p>
+
+<h2>Autonomie et coût à l'usage</h2>
+<p>Sur l'autonomie totale, le Jogger Hybrid garde un léger avantage : environ 1 100 km (réservoir seul) contre 1 000 km pour le Tiggo 8 Pro (réservoir + batterie), un écart modéré qui ne pénalise pas vraiment les longs trajets côté chinois. La différence se joue surtout sur le coût énergétique : 6,0 €/100 km annoncés pour le Chery contre 6,8 €/100 km pour le Dacia, à condition de recharger régulièrement la batterie du PHEV plutôt que de rouler exclusivement en mode thermique, ce qui annulerait une bonne partie de l'avantage.</p>
+
+<h2>Habitabilité et coffre : le Jogger reprend l'avantage</h2>
+<p>Sur ce terrain, le Dacia inverse complètement la tendance malgré son gabarit extérieur plus compact : 565 litres de coffre contre 400 litres pour le Tiggo 8 Pro, la batterie de traction du PHEV chinois grignotant une bonne partie du volume utile malgré une longueur supérieure de 17,5 cm. Pour une famille de sept qui voyage avec des bagages et des poussettes, le Jogger reste redoutablement plus pratique au quotidien — l'argument massue qui a fait sa réputation.</p>
+
+<h2>Prix et garantie : l'équation s'inverse nettement</h2>
+<p>Côté tarif, le Dacia Jogger Hybrid garde une avance colossale : environ 22 000 € contre 40 000 € pour le Chery Tiggo 8 Pro, soit <strong>18 000 € d'écart</strong> — près du double — en faveur du monospace low-cost. L'écart se resserre en revanche nettement sur la garantie : <strong>7 ans</strong> chez Chery contre une garantie constructeur standard de <strong>3 ans</strong> chez Dacia, une différence qui pèse sur le coût total de possession et qui s'inscrit dans la tendance de fond des marques chinoises sur ce terrain (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties constructeurs chinois</a>).</p>
+
+<h2>Sécurité et technologie</h2>
+<p>Sur la sécurité, l'écart tourne nettement à l'avantage du Chery : 5 étoiles Euro NCAP pour le Tiggo 8 Pro contre 3 étoiles pour le Jogger Hybrid, une différence qui confirme la mise à niveau générale des voitures chinoises sur ce critère longtemps considéré comme leur point faible (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point complet sur la sécurité des voitures chinoises</a>). Côté technologie embarquée, le Tiggo 8 Pro propose également une dotation nettement plus généreuse en aides à la conduite et en écrans, sans surprise pour une voiture positionnée près de deux fois plus cher à l'achat.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>Chery Tiggo 8 Pro</strong> : pour qui peut recharger régulièrement, veut nettement plus de puissance, une meilleure note de sécurité et une garantie longue durée qui rassure sur la revente (voir aussi <a href="/actualites/decote-voitures-chinoises-risque-mg-byd-2026">notre analyse de la décote des voitures chinoises</a>).</li>
+  <li><strong>Dacia Jogger Hybrid</strong> : pour qui privilégie avant tout le volume de coffre et un budget d'achat aussi serré que possible, sans compromis sur l'espace utile pour une famille nombreuse.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Ce duel oppose deux logiques d'achat difficilement comparables sur le seul critère du prix. Pour une famille nombreuse au budget contraint qui privilégie le volume de coffre avant tout, le <strong>Dacia Jogger Hybrid</strong> reste imbattable et justifie pleinement sa réputation. Mais pour qui peut mettre 18 000 € de plus sur la table et cherche nettement plus de puissance, une meilleure sécurité et une garantie qui sécurise l'achat sur la durée, le <strong>Chery Tiggo 8 Pro</strong> propose une équation étonnamment convaincante — au prix d'un compromis net sur le volume de coffre.</p>
+`,
+  },
+  {
     slug: 'mg-hs-vs-citroen-c5-aircross-suv-familial-essence-hybride',
     title: 'MG HS vs Citroën C5 Aircross Hybride : le grand SUV familial chinois peut-il détrôner le champion français ?',
     excerpt:
