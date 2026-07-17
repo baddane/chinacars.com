@@ -19,6 +19,56 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'byd-atto-3-evo-vs-hyundai-kona-hybride-suv-urbain-electrique-hybride',
+    title: 'BYD Atto 3 Evo vs Hyundai Kona Hybride : le SUV urbain 100 % électrique chinois peut-il détrôner l’hybride coréen ?',
+    excerpt:
+      "500 km d'autonomie sans jamais passer par une pompe, contre un plein en 5 minutes : le SUV électrique de BYD s'attaque à la référence hybride de Hyundai. Verdict chiffré, sans concession.",
+    image: 'https://www.wandaloo.com/files/Voiture-Neuve/byd-atto-3-evo.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-07-17T09:00:00+02:00',
+    readingTime: 8,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux réponses opposées au même problème : le SUV urbain sans compromis</h2>
+<p>D'un côté, le Hyundai Kona Hybride : un SUV urbain hybride devenu une valeur sûre en France, porté par la réputation de fiabilité du constructeur coréen et un réseau après-vente dense. De l'autre, le BYD Atto 3 Evo : un SUV de gabarit comparable, mais 100 % électrique, qui mise sur une autonomie confortable et une recharge rapide pour effacer l'angoisse de la panne. Sur le papier, l'écart de prix reste net — mais l'écart de philosophie mécanique l'est encore plus.</p>
+
+<h2>Gabarit et style : deux SUV urbains presque jumeaux</h2>
+<p>Les deux voitures visent la même clientèle et affichent un gabarit très proche. Le BYD Atto 3 Evo (4,46 m) dépasse le Kona Hybride (4,36 m) de 10 cm, une différence à peine perceptible au quotidien pour se garer en ville. Le Hyundai joue la carte du style anguleux et technique qui a fait sa réputation, tandis que le BYD adopte une silhouette plus ronde et organique, revendiquée par la marque comme un clin d'œil à la nature (voir <a href="/actualites/design-chinois-identite-visuelle-marques-auto">notre article sur l'identité visuelle du design chinois</a>).</p>
+
+<h2>Motorisation : tout électrique contre hybride auto-rechargeable</h2>
+<p>C'est là que les deux SUV divergent le plus radicalement. Le BYD Atto 3 Evo est un <strong>véhicule 100 % électrique</strong> : une batterie de 60 kWh alimente un moteur de 204 ch, avec une recharge rapide DC plafonnée à 150 kW qui permet de récupérer une bonne partie de l'autonomie en une trentaine de minutes sur borne rapide. Le Kona Hybride, lui, reste sur un hybride auto-rechargeant classique, avec une toute petite batterie de 1,3 kWh qui se recharge uniquement au freinage, sans jamais nécessiter de prise ni de borne. Résultat concret au quotidien : le Kona ne demande aucune organisation particulière et se ravitaille en 5 minutes sur n'importe quelle station-service, tandis que l'Atto 3 Evo impose une recharge régulière à domicile ou sur borne publique, en échange d'un coût à l'usage nettement inférieur.</p>
+
+<h2>Performances : l'avantage chinois</h2>
+<ul>
+  <li><strong>BYD Atto 3 Evo</strong> : 204 ch, 0 à 100 km/h en 7,3 s.</li>
+  <li><strong>Hyundai Kona Hybride</strong> : 141 ch, 0 à 100 km/h en 10,6 s.</li>
+</ul>
+<p>Avec 63 ch de plus et 3,3 secondes d'avance au 0 à 100 km/h, l'Atto 3 Evo n'a tout simplement pas de rival sur ce terrain : le couple immédiat du moteur électrique se ressent dès les premiers mètres, en ville comme en insertion sur voie rapide, là où le petit moteur hybride du Kona doit composer avec la mécanique thermique pour délivrer sa puissance.</p>
+
+<h2>Autonomie et coût à l'usage</h2>
+<p>Sur l'autonomie totale, le Kona Hybride garde un net avantage grâce à son réservoir : environ 1 000 km contre 500 km pour l'Atto 3 Evo (recharge complète), un écart qui pèse surtout sur les longs trajets et impose davantage de pauses recharge côté BYD. La différence se joue en revanche nettement sur le coût énergétique : 3,4 €/100 km annoncés pour l'Atto 3 Evo contre 6,5 €/100 km pour le Kona, soit quasiment le double en faveur de l'électrique chinois pour qui peut recharger à domicile.</p>
+
+<h2>Habitabilité et coffre : léger avantage coréen</h2>
+<p>Sur ce terrain, le Kona Hybride reprend un léger avantage malgré son gabarit plus compact : 466 litres de coffre contre 440 litres pour l'Atto 3 Evo, la batterie de traction du BYD grignotant une partie du volume utile. L'écart reste toutefois modéré et les deux SUV affichent 5 places, largement suffisantes pour un usage familial classique.</p>
+
+<h2>Prix et garantie : l'équation s'inverse nettement</h2>
+<p>Côté tarif, le Hyundai Kona Hybride garde une avance nette : environ 30 000 € contre 39 000 € pour le BYD Atto 3 Evo, soit <strong>9 000 € d'écart</strong> en faveur du SUV coréen. L'écart se resserre en revanche sur la garantie : <strong>6 ans</strong> chez BYD contre <strong>5 ans</strong> chez Hyundai, un différentiel plus modeste que sur d'autres duels chinois-européens mais qui reste à l'avantage de BYD, dans la lignée de la tendance de fond des marques chinoises sur ce terrain (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties constructeurs chinois</a>).</p>
+
+<h2>Sécurité et technologie</h2>
+<p>Sur la sécurité, aucun écart : les deux modèles affichent 5 étoiles Euro NCAP, confirmant la mise à niveau générale des voitures chinoises sur ce critère longtemps considéré comme leur point faible (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point complet sur la sécurité des voitures chinoises</a>). Côté technologie embarquée, l'Atto 3 Evo propose une dotation légèrement plus généreuse en écrans et en aides à la conduite, sans que l'écart soit décisif pour la majorité des usages.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>BYD Atto 3 Evo</strong> : pour qui peut recharger régulièrement à domicile, veut nettement plus de puissance et une facture d'énergie divisée par deux, sans être gêné par une autonomie plus courte (voir aussi <a href="/actualites/decote-voitures-chinoises-risque-mg-byd-2026">notre analyse de la décote des voitures chinoises</a>).</li>
+  <li><strong>Hyundai Kona Hybride</strong> : pour qui privilégie la simplicité d'usage, l'autonomie totale et un budget d'achat plus serré, sans jamais avoir à organiser sa recharge.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Ce duel oppose deux logiques d'achat difficilement comparables sur le seul critère du prix. Pour qui roule beaucoup sur autoroute et veut la simplicité d'un plein en 5 minutes, le <strong>Hyundai Kona Hybride</strong> reste un choix pragmatique et 9 000 € moins cher à l'achat. Mais pour qui peut recharger à domicile et cherche nettement plus de puissance avec une facture d'énergie divisée par deux, le <strong>BYD Atto 3 Evo</strong> propose une équation étonnamment convaincante — au prix d'une autonomie totale deux fois plus courte.</p>
+`,
+  },
+  {
     slug: 'chery-tiggo-8-pro-vs-dacia-jogger-hybrid-suv-7-places-familial',
     title: 'Chery Tiggo 8 Pro vs Dacia Jogger Hybrid : le SUV 7 places chinois peut-il détrôner le roi du familial low-cost ?',
     excerpt:
