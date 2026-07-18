@@ -5,7 +5,7 @@
 export const SITE = {
   name: 'Véhicules Chinois',
   shortName: 'VéhiculeschinoisCOM',
-  url: process.env.NEXT_PUBLIC_SITE_URL || 'https://vehiculeschinois.com',
+  url: process.env.NEXT_PUBLIC_SITE_URL || 'https://www.vehiculeschinois.com',
   locale: 'fr_FR',
   defaultLanguage: 'fr',
   supportedLanguages: ['fr', 'ar', 'en'] as const,
