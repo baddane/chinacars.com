@@ -19,6 +19,56 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'mg-hs-hybrid-vs-toyota-rav4-suv-familial-hybride',
+    title: 'MG HS Hybrid+ vs Toyota RAV4 Hybride : le SUV familial chinois peut-il détrôner la référence hybride japonaise ?',
+    excerpt:
+      "214 ch, garantie 7 ans et 10 000 € d'écart de prix : l'hybride familial de MG s'attaque à la référence japonaise du genre. Verdict chiffré, sans concession.",
+    image: 'https://www.wandaloo.com/files/Voiture-Neuve/mg-hs-hev.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-07-18T09:00:00+02:00',
+    readingTime: 7,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux réponses opposées au même problème : le grand SUV familial hybride</h2>
+<p>D'un côté, le Toyota RAV4 Hybride : le SUV familial hybride devenu la référence mondiale du genre depuis trois décennies, porté par la réputation de fiabilité du constructeur japonais et un réseau après-vente sans équivalent. De l'autre, le MG HS Hybrid+ : un SUV de gabarit comparable, qui reprend la même recette d'hybridation auto-rechargeante mais pour un ticket d'entrée nettement plus accessible. Sur le papier, l'écart de prix est net — reste à savoir ce qu'il en coûte réellement une fois les fiches techniques posées côte à côte.</p>
+
+<h2>Gabarit et style : deux SUV familiaux, un léger avantage chinois</h2>
+<p>Les deux voitures visent la même clientèle et affichent un gabarit très proche. Le MG HS Hybrid+ (4,67 m) dépasse le RAV4 Hybride (4,60 m) de 7 cm, un écart discret qui se traduit surtout par un empattement un peu plus généreux à l'arrière. Le Toyota mise sur son style anguleux et technique, hérité de plusieurs générations de succès commercial, tandis que le MG adopte une ligne plus fluide, dans la continuité du langage stylistique récent de la marque (voir <a href="/actualites/design-chinois-identite-visuelle-marques-auto">notre article sur l'identité visuelle du design chinois</a>).</p>
+
+<h2>Motorisation : deux hybrides auto-rechargeants, un écart de rendement</h2>
+<p>Sur le papier, les deux SUV partagent la même philosophie mécanique : un hybride « auto-rechargeant » classique, sans prise ni borne, avec une petite batterie qui se recharge uniquement au freinage et en décélération (2 kWh chez MG, 1,6 kWh chez Toyota). La différence se joue donc surtout sur le rendement du système. Résultat concret au quotidien : le RAV4 affiche un coût énergétique nettement inférieur (6,8 €/100 km contre 8,5 €/100 km pour le MG), un écart d'un quart qui traduit près de trente ans d'affinage de la technologie hybride maison de Toyota.</p>
+
+<h2>Performances : un match quasiment nul</h2>
+<ul>
+  <li><strong>Toyota RAV4 Hybride</strong> : 218 ch, 0 à 100 km/h en 8,1 s.</li>
+  <li><strong>MG HS Hybrid+</strong> : 214 ch, 0 à 100 km/h en 8,0 s.</li>
+</ul>
+<p>Avec seulement 4 ch d'écart et un dixième de seconde de différence au 0 à 100 km/h, les deux SUV se neutralisent totalement sur ce terrain. Aucun des deux constructeurs ne peut revendiquer un avantage décisif en dynamique pure, un résultat suffisamment rare dans ces duels chinois-occidentaux pour être souligné.</p>
+
+<h2>Autonomie et coût à l'usage</h2>
+<p>Sur l'autonomie totale, le RAV4 Hybride garde un avantage confortable : environ 1 050 km contre 950 km pour le MG HS Hybrid+, un écart de 100 km qui limite légèrement le nombre de pauses ravitaillement sur les longs trajets côté japonais. Cet avantage se double du meilleur coût énergétique déjà cité : sur la durée, le RAV4 se montre à la fois plus économique et plus endurant, deux arguments qui pèsent lourd pour les gros rouleurs.</p>
+
+<h2>Habitabilité et coffre : l'avantage japonais</h2>
+<p>Sur ce terrain, le RAV4 Hybride confirme sa vocation familiale : 580 litres de coffre contre 507 litres pour le MG HS Hybrid+, soit 73 litres d'écart malgré un gabarit extérieur pourtant plus compact de 7 cm. Un résultat qui s'explique par une meilleure optimisation du volume utile côté Toyota. Les deux SUV affichent 5 places.</p>
+
+<h2>Prix et garantie : l'équation s'inverse nettement</h2>
+<p>Côté tarif, le MG HS Hybrid+ garde une avance nette : environ 32 000 € contre 42 000 € pour le Toyota RAV4 Hybride, soit <strong>10 000 € d'écart</strong> en faveur du SUV chinois pour des performances quasiment identiques. L'écart se creuse encore sur la garantie : <strong>7 ans</strong> chez MG contre une garantie constructeur standard de <strong>5 ans</strong> chez Toyota — un différentiel plus modeste que face à d'autres marques européennes, mais qui reste à l'avantage de MG, dans la lignée de la tendance de fond des marques chinoises sur ce terrain (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties constructeurs chinois</a>).</p>
+
+<h2>Sécurité et technologie</h2>
+<p>Sur la sécurité, aucun écart : les deux modèles affichent 5 étoiles Euro NCAP, confirmant la mise à niveau générale des voitures chinoises sur ce critère longtemps considéré comme leur point faible (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point complet sur la sécurité des voitures chinoises</a>). Côté technologie embarquée, le RAV4 conserve une légère avance, portée par la maturité de l'écosystème multimédia Toyota, sans que l'écart soit décisif pour la majorité des usages.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>MG HS Hybrid+</strong> : pour qui veut économiser 10 000 € à l'achat sur un SUV aux performances quasiment identiques, avec une garantie plus longue qui rassure sur la revente (voir aussi <a href="/actualites/decote-voitures-chinoises-risque-mg-byd-2026">notre analyse de la décote des voitures chinoises</a>).</li>
+  <li><strong>Toyota RAV4 Hybride</strong> : pour qui privilégie l'autonomie totale, le volume de coffre et la facture d'énergie la plus basse, sans être gêné par un budget d'achat plus élevé.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Ce duel est l'un des plus serrés de cette série de comparatifs : les deux SUV affichent des performances quasiment jumelles, et l'écart se joue presque entièrement sur le prix, l'autonomie et le coffre. Pour qui roule beaucoup et veut le meilleur coût à l'usage sur la durée, le <strong>Toyota RAV4 Hybride</strong> reste la référence éprouvée du segment. Mais pour qui cherche une mécanique quasiment aussi performante à 10 000 € de moins, avec une garantie plus longue à la clé, le <strong>MG HS Hybrid+</strong> propose une équation redoutablement convaincante — au prix d'un coffre plus modeste et d'une facture d'énergie un peu plus salée.</p>
+`,
+  },
+  {
     slug: 'byd-atto-3-evo-vs-hyundai-kona-hybride-suv-urbain-electrique-hybride',
     title: 'BYD Atto 3 Evo vs Hyundai Kona Hybride : le SUV urbain 100 % électrique chinois peut-il détrôner l’hybride coréen ?',
     excerpt:
