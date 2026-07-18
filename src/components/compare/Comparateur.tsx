@@ -410,6 +410,7 @@ export default function Comparateur() {
                           src={car.image}
                           alt={carLabel(car)}
                           fill
+                          priority
                           sizes="(min-width: 768px) 400px, 100vw"
                           className="object-cover"
                         />
