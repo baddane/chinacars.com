@@ -26,6 +26,7 @@ export const COMPARISON_DUELS: Array<[string, string]> = [
   ['byd-seal-u', 'vw-tiguan'],
 
   // Citadines
+  ['byd-seagull', 'hyundai-i20'],
   ['byd-seagull', 'dacia-spring'],
   ['byd-seagull', 'renault-5-e-tech'],
   ['peugeot-e-208', 'byd-seagull'],

@@ -19,6 +19,56 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'byd-seagull-vs-hyundai-i20-citadine-electrique-essence',
+    title: 'BYD Dolphin Surf (Seagull) vs Hyundai i20 : la citadine électrique chinoise peut-elle remplacer la citadine essence coréenne ?',
+    excerpt:
+      "3,2 €/100 km contre 7,8 €/100 km, mais 310 km d'autonomie contre 1 050 km : la citadine 100 % électrique de BYD affronte la référence essence de Hyundai. Verdict chiffré, sans concession.",
+    image: 'https://www.wandaloo.com/files/Voiture-Neuve/byd-seagull.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-07-19T09:00:00+02:00',
+    readingTime: 7,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux réponses opposées au même problème : la citadine du quotidien</h2>
+<p>D'un côté, la Hyundai i20 : une citadine essence devenue une valeur sûre en Europe, portée par la réputation de fiabilité du constructeur coréen et un réseau après-vente dense. De l'autre, la BYD Dolphin Surf (Seagull) : une citadine de gabarit quasiment identique, mais 100 % électrique, qui mise sur un coût à l'usage imbattable pour séduire les citadins. Sur le papier, l'écart de prix à l'achat est minime — c'est sur la mécanique et l'usage au quotidien que tout se joue.</p>
+
+<h2>Gabarit et style : deux citadines presque jumelles</h2>
+<p>Les deux voitures visent la même clientèle et affichent un gabarit quasiment identique. La Hyundai i20 (4,04 m) dépasse la BYD Seagull (3,99 m) de seulement 5 cm, un écart imperceptible pour se garer en ville ou se faufiler dans le trafic urbain. La Hyundai joue la carte du style anguleux et technique qui a fait sa réputation, tandis que la BYD adopte une silhouette plus ronde et compacte, pensée pour l'agilité citadine (voir <a href="/actualites/design-chinois-identite-visuelle-marques-auto">notre article sur l'identité visuelle du design chinois</a>).</p>
+
+<h2>Motorisation : tout électrique contre essence classique</h2>
+<p>C'est là que les deux citadines divergent radicalement. La BYD Seagull est un <strong>véhicule 100 % électrique</strong> : une batterie de 43 kWh alimente un moteur de 156 ch, avec une recharge rapide DC plafonnée à 85 kW qui permet de récupérer une bonne partie de l'autonomie en une trentaine de minutes sur borne rapide. La Hyundai i20, elle, reste sur un moteur essence classique de 100 ch, sans aucune électrification, qui se ravitaille en quelques minutes sur n'importe quelle station-service. Résultat concret au quotidien : l'i20 ne demande aucune organisation particulière, tandis que la Seagull impose une recharge régulière à domicile ou sur borne publique, en échange d'un coût à l'usage nettement inférieur.</p>
+
+<h2>Performances : l'avantage chinois</h2>
+<ul>
+  <li><strong>BYD Seagull</strong> : 156 ch, 0 à 100 km/h en 9,1 s.</li>
+  <li><strong>Hyundai i20</strong> : 100 ch, 0 à 100 km/h en 10,4 s.</li>
+</ul>
+<p>Avec 56 ch de plus et 1,3 seconde d'avance au 0 à 100 km/h, la Seagull profite du couple immédiat du moteur électrique dès les premiers mètres, un agrément particulièrement appréciable dans le trafic urbain où la plupart des accélérations se jouent à basse vitesse. L'i20, plus modeste en puissance, reste néanmoins suffisante pour un usage citadin classique.</p>
+
+<h2>Autonomie et coût à l'usage</h2>
+<p>Sur l'autonomie totale, l'i20 garde un net avantage grâce à son réservoir : environ 1 050 km contre 310 km pour la Seagull (recharge complète), un écart qui pèse surtout sur les trajets longue distance et impose des pauses recharge plus fréquentes côté BYD. La différence se joue en revanche nettement sur le coût énergétique : 3,2 €/100 km annoncés pour la Seagull contre 7,8 €/100 km pour l'i20, soit plus du double en faveur de l'électrique chinoise pour qui peut recharger à domicile — un argument de poids pour un usage majoritairement urbain.</p>
+
+<h2>Habitabilité et coffre : l'avantage coréen</h2>
+<p>Sur ce terrain, l'i20 confirme sa vocation polyvalente : 352 litres de coffre contre 308 litres pour la Seagull, soit 44 litres d'écart malgré un gabarit extérieur pourtant très proche. Un résultat qui s'explique par l'emprise mécanique plus légère d'un petit moteur thermique face à une batterie logée sous le plancher. Les deux citadines affichent 5 places.</p>
+
+<h2>Prix et garantie : l'équation penche du côté chinois</h2>
+<p>Côté tarif, l'écart à l'achat reste modeste : environ 20 000 € pour la BYD Seagull contre 19 000 € pour la Hyundai i20, soit à peine <strong>1 000 €</strong> d'écart — largement compensé par le coût énergétique bien plus faible de l'électrique sur la durée. L'écart se creuse en revanche sur la garantie : <strong>6 ans</strong> chez BYD contre une garantie constructeur standard de <strong>5 ans</strong> chez Hyundai, dans la lignée de la tendance de fond des marques chinoises sur ce terrain (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties constructeurs chinois</a>).</p>
+
+<h2>Sécurité et technologie</h2>
+<p>Sur la sécurité, les deux modèles affichent 4 étoiles Euro NCAP, un score identique qui confirme la mise à niveau générale des voitures chinoises sur ce critère longtemps considéré comme leur point faible (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point complet sur la sécurité des voitures chinoises</a>). Côté technologie embarquée, la Seagull garde une légère avance, portée par un écran central plus généreux et une dotation connectée plus complète de série.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>BYD Seagull</strong> : pour qui roule principalement en ville, peut recharger à domicile ou au travail, et veut diviser sa facture d'énergie par deux pour un surcoût à l'achat quasi nul (voir aussi <a href="/actualites/decote-voitures-chinoises-risque-mg-byd-2026">notre analyse de la décote des voitures chinoises</a>).</li>
+  <li><strong>Hyundai i20</strong> : pour qui multiplie les longs trajets, ne dispose pas de solution de recharge simple, et privilégie la souplesse d'un plein en 5 minutes n'importe où.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Ce duel illustre parfaitement le dilemme des citadines en 2026 : à budget d'achat quasiment identique, la BYD Seagull impose une nouvelle donne sur le coût d'usage, avec une facture d'énergie divisée par plus de deux. Pour qui roule beaucoup et n'a pas de solution de recharge simple, la <strong>Hyundai i20</strong> reste le choix le plus rationnel, sans compromis sur l'autonomie. Mais pour qui roule principalement en ville et peut recharger sereinement, la <strong>BYD Dolphin Surf</strong> propose une équation redoutablement convaincante — au prix d'une autonomie totale trois fois plus courte et d'un coffre légèrement plus modeste.</p>
+`,
+  },
+  {
     slug: 'mg-hs-hybrid-vs-toyota-rav4-suv-familial-hybride',
     title: 'MG HS Hybrid+ vs Toyota RAV4 Hybride : le SUV familial chinois peut-il détrôner la référence hybride japonaise ?',
     excerpt:
