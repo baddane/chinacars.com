@@ -19,6 +19,56 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'byd-atto-2-vs-peugeot-2008-suv-urbain-phev-essence',
+    title: 'BYD Atto 2 vs Peugeot 2008 : le SUV urbain hybride rechargeable chinois peut-il détrôner le champion des ventes français ?',
+    excerpt:
+      "47 ch et une garantie doublée pour 5 000 € de plus : le SUV urbain PHEV de BYD s'attaque à l'un des best-sellers du segment en France. Verdict chiffré, sans concession.",
+    image: 'https://www.wandaloo.com/files/Voiture-Neuve/byd-atto-2-phev.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-07-20T09:00:00+02:00',
+    readingTime: 7,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux réponses opposées au même problème : le SUV urbain accessible</h2>
+<p>D'un côté, le Peugeot 2008 : l'un des SUV urbains les plus vendus en France, porté par un réseau de concessions dense et une image de marque bien installée. De l'autre, le BYD Atto 2 : un SUV de gabarit quasiment identique, mais hybride rechargeable, qui promet de rouler en mode tout électrique pour l'essentiel des trajets du quotidien. Sur le papier, l'écart de prix reste modéré — reste à savoir ce qu'il achète réellement une fois les fiches techniques posées côte à côte.</p>
+
+<h2>Gabarit et style : deux SUV urbains quasiment jumeaux</h2>
+<p>Les deux voitures visent la même clientèle et affichent un gabarit presque identique au centimètre près : le BYD Atto 2 (4,31 m) contre le Peugeot 2008 (4,30 m), un écart de 6 mm totalement anecdotique pour se garer en ville. Le Peugeot mise sur ses griffes lumineuses et son cockpit i-Cockpit devenus la signature de la marque au lion, tandis que le BYD adopte une ligne plus arrondie et discrète, dans la continuité du langage stylistique récent du constructeur (voir <a href="/actualites/design-chinois-identite-visuelle-marques-auto">notre article sur l'identité visuelle du design chinois</a>).</p>
+
+<h2>Motorisation : hybride rechargeable contre tout-essence</h2>
+<p>C'est là que les deux SUV divergent le plus nettement. Le BYD Atto 2 est un <strong>hybride rechargeable (PHEV)</strong> : une batterie de 7,8 kWh permet de couvrir une bonne partie des trajets urbains en mode tout électrique, avant que le moteur thermique ne prenne le relais sur les trajets plus longs, sans jamais imposer le passage par une borne rapide. Le Peugeot 2008, lui, reste sur une motorisation essence classique, sans aucune assistance électrique. Résultat concret au quotidien : pour qui recharge régulièrement sur une prise à domicile, l'Atto 2 peut afficher une facture d'énergie nettement inférieure ; sans recharge, l'écart se resserre fortement, le PHEV roulant alors surtout en mode thermique avec le poids supplémentaire de sa batterie.</p>
+
+<h2>Performances : l'avantage chinois</h2>
+<ul>
+  <li><strong>BYD Atto 2</strong> : 177 ch, 0 à 100 km/h en 8,5 s.</li>
+  <li><strong>Peugeot 2008</strong> : 130 ch, 0 à 100 km/h en 9,6 s.</li>
+</ul>
+<p>Avec 47 ch de plus et 1,1 seconde d'avance au 0 à 100 km/h, l'Atto 2 prend un avantage net sur ce terrain : le renfort électrique se ressent dès les premiers mètres, en ville comme en insertion sur voie rapide, là où le petit trois ou quatre cylindres essence du 2008 doit composer seul avec la masse du véhicule.</p>
+
+<h2>Autonomie et coût à l'usage</h2>
+<p>Sur l'autonomie totale, le Peugeot 2008 garde un léger avantage grâce à son réservoir : environ 1 050 km contre 1 000 km pour l'Atto 2 (réservoir + batterie), un écart modéré qui ne pénalise pas vraiment les longs trajets côté chinois. La différence se joue surtout sur le coût énergétique : 5,5 €/100 km annoncés pour le BYD contre 8,0 €/100 km pour le Peugeot, à condition de recharger régulièrement la batterie du PHEV plutôt que de rouler exclusivement en mode thermique, ce qui annulerait une bonne partie de l'avantage.</p>
+
+<h2>Habitabilité et coffre : léger avantage français</h2>
+<p>Sur ce terrain, le Peugeot 2008 reprend un léger avantage malgré un gabarit quasiment identique : 434 litres de coffre contre 400 litres pour l'Atto 2, la batterie de traction du BYD grignotant une partie du volume utile. L'écart reste toutefois modéré et les deux SUV affichent 5 places, largement suffisantes pour un usage familial classique.</p>
+
+<h2>Prix et garantie : l'équation s'inverse nettement</h2>
+<p>Côté tarif, le Peugeot 2008 garde une avance nette : environ 25 000 € contre 30 000 € pour le BYD Atto 2, soit <strong>5 000 € d'écart</strong> en faveur du SUV français. L'écart se creuse largement sur la garantie en revanche : <strong>6 ans</strong> chez BYD contre <strong>3 ans</strong> seulement chez Peugeot — un différentiel double, dans la lignée de la tendance de fond des marques chinoises sur ce terrain (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties constructeurs chinois</a>).</p>
+
+<h2>Sécurité et technologie</h2>
+<p>Sur la sécurité, l'écart est net : 5 étoiles Euro NCAP pour l'Atto 2 contre 4 étoiles pour le Peugeot 2008, confirmant la mise à niveau générale des voitures chinoises sur ce critère longtemps considéré comme leur point faible (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point complet sur la sécurité des voitures chinoises</a>). Côté technologie embarquée, le BYD conserve également une légère avance, avec une dotation plus généreuse en écrans et en aides à la conduite de série.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>BYD Atto 2</strong> : pour qui peut recharger régulièrement à domicile, veut plus de puissance, une garantie doublée et une meilleure note de sécurité, sans être gêné par un budget d'achat un peu plus élevé (voir aussi <a href="/actualites/decote-voitures-chinoises-risque-mg-byd-2026">notre analyse de la décote des voitures chinoises</a>).</li>
+  <li><strong>Peugeot 2008</strong> : pour qui privilégie un budget d'achat plus serré, un réseau de concessions dense et un coffre légèrement plus grand, sans avoir à se soucier de la recharge.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Ce duel oppose deux logiques d'achat assez proches sur le papier, mais qui divergent nettement à l'usage. Pour qui veut le ticket d'entrée le plus bas et la simplicité d'un plein classique, le <strong>Peugeot 2008</strong> reste un choix pragmatique et 5 000 € moins cher à l'achat. Mais pour qui peut recharger à domicile et cherche plus de puissance, une meilleure sécurité et une garantie deux fois plus longue, le <strong>BYD Atto 2</strong> propose une équation étonnamment convaincante — au prix d'un coffre légèrement plus modeste.</p>
+`,
+  },
+  {
     slug: 'mg-hs-hybrid-vs-toyota-rav4-suv-familial-hybride',
     title: 'MG HS Hybrid+ vs Toyota RAV4 Hybride : le SUV familial chinois peut-il détrôner la référence hybride japonaise ?',
     excerpt:
