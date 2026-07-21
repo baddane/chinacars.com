@@ -19,6 +19,56 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'mg3-hybrid-vs-hyundai-i20-citadine-hybride-essence',
+    title: 'MG3 Hybrid+ vs Hyundai i20 : la citadine hybride chinoise peut-elle détrôner la référence essence coréenne ?',
+    excerpt:
+      "195 ch et une garantie deux ans plus longue pour un prix quasiment identique : la citadine hybride de MG s'attaque à l'une des citadines essence les plus répandues d'Europe. Verdict chiffré, sans concession.",
+    image: 'https://www.wandaloo.com/files/Voiture-Neuve/mg-mg3.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-07-21T09:00:00+02:00',
+    readingTime: 7,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux réponses opposées au même problème : la citadine accessible</h2>
+<p>D'un côté, la Hyundai i20 : une citadine essence installée depuis trois générations sur le segment, portée par la réputation de fiabilité du constructeur coréen et un réseau après-vente dense. De l'autre, la MG3 Hybrid+ : une citadine de gabarit comparable, mais hybride non rechargeable, qui promet plus de puissance et une facture de carburant allégée sans jamais imposer le passage par une borne. Sur le papier, les deux tarifs sont presque identiques — reste à savoir ce que chacune offre réellement une fois les fiches techniques posées côte à côte.</p>
+
+<h2>Gabarit et style : deux citadines proches, un léger avantage chinois</h2>
+<p>Les deux voitures visent la même clientèle et affichent un gabarit très proche. La MG3 Hybrid+ (4,11 m) dépasse l'i20 (4,04 m) de 7 cm, un écart discret qui se traduit surtout par un peu plus d'espace à bord. Le Hyundai mise sur ses lignes anguleuses désormais familières et un habitacle sobre, tandis que le MG adopte un style plus affirmé, dans la continuité du langage stylistique récent de la marque (voir <a href="/actualites/design-chinois-identite-visuelle-marques-auto">notre article sur l'identité visuelle du design chinois</a>).</p>
+
+<h2>Motorisation : hybride sans prise contre essence classique</h2>
+<p>C'est là que les deux citadines divergent le plus nettement. La MG3 Hybrid+ associe un 1,5 L essence à cycle Atkinson de 102 ch à un moteur électrique de 136 ch, pour 195 ch combinés, le tout épaulé par une petite batterie de 1,83 kWh qui se recharge uniquement au freinage, sans jamais nécessiter de prise ni de borne. L'i20, elle, reste sur une motorisation essence classique de 100 ch, sans aucune assistance électrique. Résultat concret au quotidien : les deux se ravitaillent en 5 minutes sur n'importe quelle station-service, mais la MG3 le fait avec près du double de puissance sous le capot.</p>
+
+<h2>Performances : l'avantage chinois</h2>
+<ul>
+  <li><strong>MG3 Hybrid+</strong> : 195 ch, 0 à 100 km/h en 8,0 s.</li>
+  <li><strong>Hyundai i20</strong> : 100 ch, 0 à 100 km/h en 10,4 s.</li>
+</ul>
+<p>Avec 95 ch de plus et 2,4 secondes d'avance au 0 à 100 km/h, la MG3 n'a tout simplement pas de rival sur ce terrain : le renfort électrique se ressent dès les premiers mètres, en ville comme en insertion sur voie rapide, là où le petit moteur essence de l'i20 doit composer seul avec la masse du véhicule.</p>
+
+<h2>Autonomie et coût à l'usage</h2>
+<p>Sur l'autonomie totale, l'i20 garde un léger avantage grâce à son réservoir : environ 1 050 km contre 1 000 km pour la MG3 Hybrid+, un écart modéré qui ne pénalise pas vraiment les longs trajets côté chinois. La différence se joue surtout sur le coût énergétique : 7,5 €/100 km annoncés pour la MG3 contre 7,8 €/100 km pour l'i20, un écart resserré mais tout de même à l'avantage de l'hybride, malgré sa puissance très supérieure.</p>
+
+<h2>Habitabilité et coffre : l'avantage coréen</h2>
+<p>Sur ce terrain, l'i20 reprend l'avantage malgré un gabarit extérieur plus compact : 352 litres de coffre contre 293 litres pour la MG3 Hybrid+, la batterie et le moteur électrique du MG grignotant une partie du volume utile. Les deux citadines affichent 5 places, largement suffisantes pour un usage quotidien classique.</p>
+
+<h2>Prix et garantie : l'équation penche du côté chinois</h2>
+<p>Côté tarif, les deux citadines se tiennent dans un mouchoir de poche : environ 18 500 € pour la MG3 Hybrid+ contre 19 000 € pour l'Hyundai i20, un écart minime de 500 € en faveur du MG. L'écart se creuse en revanche sur la garantie : <strong>7 ans</strong> chez MG contre <strong>5 ans</strong> chez Hyundai — un différentiel plus modeste que face à d'autres marques européennes, mais qui reste à l'avantage de MG, dans la lignée de la tendance de fond des marques chinoises sur ce terrain (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties constructeurs chinois</a>).</p>
+
+<h2>Sécurité et technologie</h2>
+<p>Sur la sécurité, aucun écart : les deux citadines affichent 4 étoiles Euro NCAP, un résultat qui confirme la mise à niveau générale des voitures chinoises sur ce critère longtemps considéré comme leur point faible (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point complet sur la sécurité des voitures chinoises</a>). Côté technologie embarquée, la MG3 conserve également une légère avance, avec une dotation plus généreuse en écrans et en aides à la conduite de série.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>MG3 Hybrid+</strong> : pour qui veut nettement plus de puissance et une garantie plus longue sans payer plus cher, sans être gêné par un coffre plus modeste (voir aussi <a href="/actualites/decote-voitures-chinoises-risque-mg-byd-2026">notre analyse de la décote des voitures chinoises</a>).</li>
+  <li><strong>Hyundai i20</strong> : pour qui privilégie un plus grand volume de coffre et la simplicité d'une mécanique essence connue de longue date, sans chercher un surcroît de puissance.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Ce duel oppose deux logiques d'achat presque identiques sur le prix, mais qui divergent nettement sur la fiche technique. Pour qui privilégie le volume de coffre et une mécanique éprouvée, l'<strong>Hyundai i20</strong> reste un choix pragmatique. Mais pour qui cherche près du double de puissance et une garantie plus longue au même tarif, la <strong>MG3 Hybrid+</strong> propose une équation redoutablement convaincante — au prix d'un coffre plus modeste.</p>
+`,
+  },
+  {
     slug: 'byd-atto-2-vs-peugeot-2008-suv-urbain-phev-essence',
     title: 'BYD Atto 2 vs Peugeot 2008 : le SUV urbain hybride rechargeable chinois peut-il détrôner le champion des ventes français ?',
     excerpt:
