@@ -19,6 +19,56 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'gwm-ora-03-vs-peugeot-e-208-citadine-electrique-prix-autonomie',
+    title: "GWM Ora 03 vs Peugeot e-208 : la citadine électrique chinoise peut-elle détrôner l'icône du segment en France ?",
+    excerpt:
+      "15 ch de plus, une garantie plus que doublée et 4 000 € d'économie à l'achat, mais 70 km d'autonomie en moins : la citadine électrique de GWM affronte l'une des références du segment en France. Verdict chiffré, sans concession.",
+    image: 'https://www.wandaloo.com/files/Voiture-Neuve/gwm-ora-03.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-07-22T09:00:00+02:00',
+    readingTime: 7,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux réponses opposées au même problème : la citadine électrique accessible</h2>
+<p>D'un côté, la Peugeot e-208 : l'une des citadines électriques les plus répandues en France, portée par un réseau de concessions dense et une image de marque bien installée. De l'autre, la GWM Ora 03 : une citadine électrique au style rétro assumé, qui promet plus de puissance et une garantie nettement plus longue pour un ticket d'entrée inférieur. Sur le papier, l'écart de prix est loin d'être anecdotique — reste à savoir ce qu'il coûte réellement une fois les fiches techniques posées côte à côte.</p>
+
+<h2>Gabarit et style : un net avantage chinois</h2>
+<p>Les deux citadines ne visent pas tout à fait le même gabarit : la GWM Ora 03 (4,24 m) dépasse la Peugeot e-208 (4,06 m) de 18 cm, un écart significatif qui se traduit par un habitacle et un empattement plus généreux côté chinois. La Peugeot mise sur ses griffes lumineuses et son cockpit i-Cockpit devenus la signature de la marque au lion, tandis que la GWM adopte un style rétro-futuriste très marqué, dans la continuité du langage stylistique récent des marques chinoises (voir <a href="/actualites/design-chinois-identite-visuelle-marques-auto">notre article sur l'identité visuelle du design chinois</a>).</p>
+
+<h2>Motorisation : deux citadines 100 % électriques</h2>
+<p>Sur ce terrain, les deux citadines jouent la même partition : ni l'une ni l'autre n'a besoin de station-service, les deux se rechargent exclusivement sur prise ou borne. La GWM Ora 03 embarque une batterie de 63 kWh contre 51 kWh pour la Peugeot e-208, un écart de capacité en faveur du GWM qui ne se traduit pourtant pas par plus d'autonomie une fois sur la route, la Ora 03 se montrant nettement moins efficiente au kilomètre.</p>
+
+<h2>Performances : l'avantage chinois sur la puissance</h2>
+<ul>
+  <li><strong>GWM Ora 03</strong> : 171 ch, 0 à 100 km/h en 8,2 s.</li>
+  <li><strong>Peugeot e-208</strong> : 156 ch, 0 à 100 km/h en 8,1 s.</li>
+</ul>
+<p>Avec 15 ch de plus, la Ora 03 prend l'avantage sur le papier, mais cela ne se traduit pas au chronomètre : la Peugeot e-208, plus légère, conserve un très léger avantage au 0 à 100 km/h malgré sa puissance inférieure. Deux citadines donc globalement proches à l'accélération, malgré l'écart de puissance affiché.</p>
+
+<h2>Autonomie et coût à l'usage : la Peugeot reprend la main</h2>
+<p>Sur l'autonomie, la Peugeot e-208 garde une avance nette malgré sa plus petite batterie : environ 410 km contre 340 km pour la GWM Ora 03, soit 70 km d'écart en faveur du modèle français — une conséquence directe de l'efficience supérieure de la Peugeot. Le coût énergétique reste en revanche très proche : 3,5 €/100 km annoncés pour l'e-208 contre 3,6 €/100 km pour la Ora 03, un écart minime qui ne pèse pas vraiment dans la balance. Côté recharge rapide, la Peugeot conserve aussi l'avantage avec une puissance DC de 100 kW contre 64 kW pour le GWM, un écart qui se ressent surtout sur les longs trajets.</p>
+
+<h2>Habitabilité et coffre : avantage français</h2>
+<p>Malgré son gabarit extérieur plus compact, la Peugeot e-208 l'emporte nettement sur le volume utile : 311 litres de coffre contre 228 litres pour la GWM Ora 03, la batterie plus volumineuse du GWM grignotant une bonne partie de l'espace disponible. Les deux citadines affichent 5 places, largement suffisantes pour un usage quotidien classique.</p>
+
+<h2>Prix et garantie : l'équation penche nettement du côté chinois</h2>
+<p>Côté tarif, l'écart est net : environ 30 000 € pour la GWM Ora 03 contre 34 000 € pour la Peugeot e-208, soit <strong>4 000 € d'économie</strong> en faveur du modèle chinois. L'écart se creuse encore davantage sur la garantie : <strong>7 ans</strong> chez GWM contre <strong>3 ans</strong> seulement chez Peugeot — plus du double, dans la lignée de la tendance de fond des marques chinoises sur ce terrain (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties constructeurs chinois</a>).</p>
+
+<h2>Sécurité et technologie</h2>
+<p>Sur la sécurité, l'écart est net : 5 étoiles Euro NCAP pour la Ora 03 contre 4 étoiles pour l'e-208, confirmant la mise à niveau générale des voitures chinoises sur ce critère longtemps considéré comme leur point faible (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point complet sur la sécurité des voitures chinoises</a>). Côté technologie embarquée, les deux citadines se tiennent en revanche dans un mouchoir de poche, avec une dotation comparable en écrans et en aides à la conduite de série.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>GWM Ora 03</strong> : pour qui veut un budget d'achat plus serré, une garantie plus du double et une meilleure note de sécurité, sans être gêné par un coffre plus modeste et une autonomie inférieure (voir aussi <a href="/actualites/decote-voitures-chinoises-risque-mg-byd-2026">notre analyse de la décote des voitures chinoises</a>).</li>
+  <li><strong>Peugeot e-208</strong> : pour qui privilégie l'autonomie, une recharge rapide plus performante et un coffre nettement plus grand, sans chercher le ticket d'entrée le plus bas.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Ce duel oppose deux logiques d'achat qui divergent nettement, à la fois sur le tarif et sur l'usage. Pour qui privilégie l'autonomie et les longs trajets, la <strong>Peugeot e-208</strong> reste la valeur sûre, plus efficiente sur la route et plus pratique au quotidien. Mais pour qui cherche à payer 4 000 € de moins tout en gagnant une garantie plus du double et une meilleure sécurité, la <strong>GWM Ora 03</strong> propose une équation redoutablement convaincante — au prix d'une autonomie et d'un coffre plus modestes.</p>
+`,
+  },
+  {
     slug: 'mg3-hybrid-vs-hyundai-i20-citadine-hybride-essence',
     title: 'MG3 Hybrid+ vs Hyundai i20 : la citadine hybride chinoise peut-elle détrôner la référence essence coréenne ?',
     excerpt:
