@@ -120,6 +120,9 @@ export const COMPARISON_DUELS: Array<[string, string]> = [
 
   // --- Chinoises vs Peugeot (suite) ---
   ['gwm-ora-03', 'peugeot-e-208'],
+
+  // --- Chinoises vs Volkswagen (suite) ---
+  ['mg-zs-hybrid', 'vw-t-roc'],
 ];
 
 export function duelSlug(a: string, b: string): string {

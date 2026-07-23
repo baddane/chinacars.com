@@ -19,6 +19,56 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'mg-zs-hybrid-vs-vw-t-roc-suv-urbain-hybride-essence',
+    title: 'MG ZS Hybrid+ vs Volkswagen T-Roc : le SUV urbain hybride chinois peut-il détrôner le compact allemand ?',
+    excerpt:
+      "45 ch de plus, une garantie trois fois et demie plus longue et 8 000 € d'économie à l'achat : le SUV hybride de MG affronte l'un des SUV compacts les plus vendus d'Allemagne. Verdict chiffré, sans concession.",
+    image: 'https://www.wandaloo.com/files/Voiture-Neuve/mg-zs-hev.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-07-23T09:00:00+02:00',
+    readingTime: 7,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux réponses opposées au même problème : le SUV urbain accessible</h2>
+<p>D'un côté, le Volkswagen T-Roc : l'un des SUV compacts les plus vendus en Europe, porté par un réseau de concessions dense et l'image de sérieux de la marque à l'anneau. De l'autre, le MG ZS Hybrid+ : un SUV de gabarit très proche, mais hybride auto-rechargeant, qui promet nettement plus de puissance et une garantie bien plus longue pour un ticket d'entrée très inférieur. Sur le papier, l'écart de prix est loin d'être anecdotique — reste à savoir ce qu'il coûte réellement une fois les fiches techniques posées côte à côte.</p>
+
+<h2>Gabarit et style : deux SUV urbains presque jumeaux</h2>
+<p>Les deux voitures visent la même clientèle et affichent un gabarit très proche. Le MG ZS Hybrid+ (4,32 m) dépasse le T-Roc (4,23 m) de 9 cm, un écart discret qui se traduit surtout par un peu plus d'espace à bord. Le Volkswagen mise sur ses lignes sobres et sa qualité de finition perçue, désormais familières, tandis que le MG adopte une présentation plus généreuse en écrans, dans la continuité du langage stylistique récent de la marque (voir <a href="/actualites/design-chinois-identite-visuelle-marques-auto">notre article sur l'identité visuelle du design chinois</a>).</p>
+
+<h2>Motorisation : hybride auto-rechargeant contre essence classique</h2>
+<p>C'est là que les deux SUV divergent le plus nettement. Le MG ZS Hybrid+ reprend la même architecture hybride « auto-rechargeante » que la MG3 Hybrid+ : un 1,5 L essence à cycle Atkinson de 102 ch associé à un moteur électrique de 136 ch, pour 195 ch combinés, le tout épaulé par une petite batterie de 1,8 kWh qui se recharge uniquement au freinage, sans jamais nécessiter de prise ni de borne. Le T-Roc, lui, reste sur une motorisation essence turbo classique de 150 ch, sans aucune assistance électrique. Résultat concret au quotidien : les deux se ravitaillent en 5 minutes sur n'importe quelle station-service, mais le MG le fait avec 45 ch de plus sous le capot. À noter : sur sa calibration d'origine, la gestion hybride du ZS Hybrid+ peut connaître des creux de puissance en côte d'autoroute, un point corrigé depuis par une mise à jour logicielle et que nous détaillons dans <a href="/actualites/mg-zs-hybrid-plus-perte-de-puissance-cause-solution">notre analyse dédiée</a>.</p>
+
+<h2>Performances : la puissance ne fait pas tout</h2>
+<ul>
+  <li><strong>MG ZS Hybrid+</strong> : 195 ch, 0 à 100 km/h en 8,7 s.</li>
+  <li><strong>Volkswagen T-Roc</strong> : 150 ch, 0 à 100 km/h en 8,4 s.</li>
+</ul>
+<p>Malgré 45 ch de moins, le T-Roc conserve un léger avantage au chronomètre : plus léger, il devance le MG de 0,3 seconde au 0 à 100 km/h. Un résultat qui rappelle que la puissance affichée ne se traduit pas mécaniquement en performances pures une fois le poids de la batterie et du moteur électrique ajouté à la balance côté chinois.</p>
+
+<h2>Autonomie et coût à l'usage : un match nul surprenant</h2>
+<p>Sur l'autonomie totale, les deux SUV se tiennent en un mouchoir de poche : environ 1 000 km entre deux pleins pour chacun. La différence se joue sur le coût énergétique, et c'est le T-Roc qui l'emporte de justesse : 7,6 €/100 km contre 8,0 €/100 km pour le MG, un écart resserré mais réel malgré le renfort électrique du ZS Hybrid+, qui pâtit d'un poids supérieur à combustion égale.</p>
+
+<h2>Habitabilité et coffre : un quasi-ex æquo</h2>
+<p>Sur ce terrain, les deux SUV affichent un volume de coffre quasiment identique : 445 litres pour le T-Roc contre 443 litres pour le MG ZS Hybrid+, soit 2 litres d'écart totalement anecdotique. Les deux modèles proposent 5 places, largement suffisantes pour un usage familial classique.</p>
+
+<h2>Prix et garantie : l'équation penche nettement du côté chinois</h2>
+<p>Côté tarif, l'écart est net : environ 24 000 € pour le MG ZS Hybrid+ contre 32 000 € pour le Volkswagen T-Roc, soit <strong>8 000 € d'économie</strong> en faveur du modèle chinois. L'écart se creuse de façon spectaculaire sur la garantie : <strong>7 ans</strong> chez MG contre seulement <strong>2 ans</strong> chez Volkswagen — plus de trois fois plus longue, dans la lignée de la tendance de fond des marques chinoises sur ce terrain (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties constructeurs chinois</a>).</p>
+
+<h2>Sécurité et technologie</h2>
+<p>Sur la sécurité, aucun écart : les deux SUV affichent 5 étoiles Euro NCAP, confirmant la mise à niveau générale des voitures chinoises sur ce critère longtemps considéré comme leur point faible (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point complet sur la sécurité des voitures chinoises</a>). Côté technologie embarquée, les deux SUV se tiennent également dans un mouchoir de poche, avec une dotation comparable en écrans et en aides à la conduite de série.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>MG ZS Hybrid+</strong> : pour qui veut économiser 8 000 € à l'achat, plus de puissance et une garantie plus de trois fois supérieure, sans être gêné par un léger déficit au chronomètre et une facture d'énergie un peu plus salée (voir aussi <a href="/actualites/decote-voitures-chinoises-risque-mg-byd-2026">notre analyse de la décote des voitures chinoises</a>).</li>
+  <li><strong>Volkswagen T-Roc</strong> : pour qui privilégie la réputation de la marque, un réseau de concessions dense et un coût à l'usage marginalement inférieur, sans chercher le ticket d'entrée le plus bas.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Ce duel oppose deux logiques d'achat qui divergent nettement, surtout sur le tarif et la garantie. Pour qui privilégie la réputation installée et un très léger avantage au chronomètre et à l'usage, le <strong>Volkswagen T-Roc</strong> reste un choix pragmatique. Mais pour qui cherche à payer 8 000 € de moins tout en gagnant 45 ch et une garantie plus de trois fois plus longue, le <strong>MG ZS Hybrid+</strong> propose une équation redoutablement convaincante — au prix d'un léger déficit de performances pures et d'une facture d'énergie un peu plus élevée.</p>
+`,
+  },
+  {
     slug: 'gwm-ora-03-vs-peugeot-e-208-citadine-electrique-prix-autonomie',
     title: "GWM Ora 03 vs Peugeot e-208 : la citadine électrique chinoise peut-elle détrôner l'icône du segment en France ?",
     excerpt:
