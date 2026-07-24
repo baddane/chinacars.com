@@ -123,6 +123,9 @@ export const COMPARISON_DUELS: Array<[string, string]> = [
 
   // --- Chinoises vs Volkswagen (suite) ---
   ['mg-zs-hybrid', 'vw-t-roc'],
+
+  // --- Chinoises vs Citroën (suite) ---
+  ['jaecoo-7', 'citroen-c5-aircross'],
 ];
 
 export function duelSlug(a: string, b: string): string {

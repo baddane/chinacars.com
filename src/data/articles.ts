@@ -19,6 +19,56 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'jaecoo-7-vs-citroen-c5-aircross-suv-familial-phev-hybride',
+    title: 'Jaecoo 7 vs Citroën C5 Aircross Hybride : le SUV familial hybride rechargeable chinois peut-il détrôner la référence française ?',
+    excerpt:
+      "24 ch de plus, une batterie rechargeable sur prise et une garantie trois fois et demie plus longue pour 1 000 € d'économie à l'achat : le SUV familial hybride rechargeable de Jaecoo affronte la référence hybride de Citroën, au gabarit rigoureusement identique. Verdict chiffré, sans concession.",
+    image: 'https://www.wandaloo.com/files/Voiture-Neuve/jaecoo-j7.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-07-24T09:00:00+02:00',
+    readingTime: 7,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux réponses opposées au même problème : le grand SUV familial abordable</h2>
+<p>D'un côté, le Citroën C5 Aircross Hybride : un SUV familial devenu une référence en France, porté par le confort de suspension propre à la marque et un réseau après-vente dense. De l'autre, le Jaecoo 7 : un SUV de gabarit rigoureusement identique au millimètre près, mais hybride rechargeable, qui promet plus de puissance, une autonomie supérieure et une garantie nettement plus longue pour un ticket d'entrée légèrement inférieur. Sur le papier, l'écart de prix reste modeste — reste à savoir ce qu'il cache une fois les fiches techniques posées côte à côte.</p>
+
+<h2>Gabarit et style : deux SUV familiaux au format identique</h2>
+<p>Cas suffisamment rare pour être signalé : les deux SUV affichent exactement la même longueur, 4,50 m, un gabarit familial pensé pour 5 occupants et un grand coffre. Le Citroën mise sur ses lignes arrondies et son confort de suspension emblématique, hérités d'une décennie de succès commercial en France, tandis que le Jaecoo adopte une présentation plus statutaire, dans la continuité du langage stylistique récent des marques chinoises (voir <a href="/actualites/design-chinois-identite-visuelle-marques-auto">notre article sur l'identité visuelle du design chinois</a>).</p>
+
+<h2>Motorisation : hybride rechargeable contre hybride auto-rechargeant</h2>
+<p>C'est là que les deux SUV divergent le plus nettement. Le Jaecoo 7 embarque une véritable batterie rechargeable de 18,3 kWh, compatible avec une recharge rapide DC de 40 kW, qui permet de parcourir plusieurs dizaines de kilomètres en 100 % électrique avant de solliciter le moteur essence — de quoi couvrir l'essentiel des trajets du quotidien sans une goutte de carburant. Le Citroën C5 Aircross Hybride, lui, se contente d'une petite batterie de 1,5 kWh qui se recharge uniquement au freinage, sans jamais accepter de prise. Résultat concret : le Jaecoo peut se recharger sur borne comme un véhicule électrique, quand le Citroën reste, comme les hybrides classiques, cantonné à la station-service.</p>
+
+<h2>Performances : l'avantage chinois</h2>
+<ul>
+  <li><strong>Jaecoo 7</strong> : 204 ch, 0 à 100 km/h en 8,5 s.</li>
+  <li><strong>Citroën C5 Aircross Hybride</strong> : 180 ch, 0 à 100 km/h en 8,7 s.</li>
+</ul>
+<p>Avec 24 ch de plus et 0,2 seconde d'avance au 0 à 100 km/h, le Jaecoo 7 prend un léger avantage sur le terrain des performances pures, porté par le renfort de sa motorisation hybride rechargeable, plus généreuse que l'hybridation légère du Citroën.</p>
+
+<h2>Autonomie et coût à l'usage : un net avantage chinois</h2>
+<p>Sur l'autonomie totale, le Jaecoo 7 devance nettement le C5 Aircross : environ 1 200 km entre deux pleins (réservoir et batterie combinés) contre 1 000 km pour le Citroën, soit 200 km d'écart en faveur du SUV chinois. Le coût énergétique confirme cette avance : 5,5 €/100 km annoncés pour le Jaecoo contre 7,0 €/100 km pour le Citroën, un écart de plus de 20 % qui se creuse encore pour qui recharge régulièrement sur secteur, un usage impossible côté français.</p>
+
+<h2>Habitabilité et coffre : l'avantage français</h2>
+<p>Sur ce terrain, le Citroën C5 Aircross Hybride reprend l'avantage malgré un gabarit rigoureusement identique : 580 litres de coffre contre 500 litres pour le Jaecoo 7, la batterie rechargeable du modèle chinois grignotant une partie du volume utile. Les deux SUV affichent 5 places, largement suffisantes pour un usage familial classique.</p>
+
+<h2>Prix et garantie : l'équation penche du côté chinois</h2>
+<p>Côté tarif, l'écart reste modeste : environ 35 000 € pour le Jaecoo 7 contre 36 000 € pour le Citroën C5 Aircross Hybride, soit <strong>1 000 € d'économie</strong> en faveur du modèle chinois, batterie rechargeable comprise. L'écart se creuse en revanche de façon spectaculaire sur la garantie : <strong>7 ans</strong> chez Jaecoo contre seulement <strong>2 ans</strong> chez Citroën — trois fois et demie plus longue, dans la lignée de la tendance de fond des marques chinoises sur ce terrain (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties constructeurs chinois</a>).</p>
+
+<h2>Sécurité et technologie</h2>
+<p>Sur la sécurité, aucun écart : les deux SUV affichent 5 étoiles Euro NCAP, confirmant la mise à niveau générale des voitures chinoises sur ce critère longtemps considéré comme leur point faible (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point complet sur la sécurité des voitures chinoises</a>). Côté technologie embarquée, les deux SUV se tiennent également dans un mouchoir de poche, avec une dotation comparable en écrans et en aides à la conduite de série.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>Jaecoo 7</strong> : pour qui veut la possibilité de rouler en 100 % électrique au quotidien, plus de puissance et une garantie trois fois et demie plus longue, sans être gêné par un coffre plus modeste (voir aussi <a href="/actualites/decote-voitures-chinoises-risque-mg-byd-2026">notre analyse de la décote des voitures chinoises</a>).</li>
+  <li><strong>Citroën C5 Aircross Hybride</strong> : pour qui privilégie le plus grand volume de coffre et un réseau après-vente dense partout en France, sans chercher à brancher son SUV sur une prise.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Ce duel oppose deux logiques d'achat qui divergent surtout sur la motorisation, à gabarit rigoureusement égal. Pour qui privilégie le plus grand coffre et la tranquillité d'un réseau après-vente installé, le <strong>Citroën C5 Aircross Hybride</strong> reste un choix pragmatique. Mais pour qui cherche à rouler à l'électrique sur les trajets courts, gagner en puissance et bénéficier d'une garantie trois fois et demie plus longue pour 1 000 € de moins, le <strong>Jaecoo 7</strong> propose une équation redoutablement convaincante — au prix d'un coffre un peu plus modeste.</p>
+`,
+  },
+  {
     slug: 'mg-zs-hybrid-vs-vw-t-roc-suv-urbain-hybride-essence',
     title: 'MG ZS Hybrid+ vs Volkswagen T-Roc : le SUV urbain hybride chinois peut-il détrôner le compact allemand ?',
     excerpt:
