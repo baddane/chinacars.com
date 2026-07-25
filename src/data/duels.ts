@@ -66,6 +66,7 @@ export const COMPARISON_DUELS: Array<[string, string]> = [
   ['byd-atto-3', 'toyota-c-hr'],
   ['jaecoo-7', 'toyota-rav4'],
   ['byd-seal-u', 'toyota-rav4'],
+  ['byd-seal-5-dmi', 'toyota-corolla'],
 
   // --- Chinoises vs Renault ---
   ['byd-seagull', 'renault-clio'],

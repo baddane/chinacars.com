@@ -19,6 +19,56 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'byd-seal-5-dmi-vs-toyota-corolla-hybride-berline-hybride-rechargeable',
+    title: 'BYD Seal 5 DM-i vs Toyota Corolla Hybride : la berline hybride rechargeable chinoise peut-elle détrôner la référence japonaise ?',
+    excerpt:
+      "60 ch de plus, 89 litres de coffre supplémentaires et une prise pour rouler à l'électrique au quotidien, mais 4 000 € plus cher à l'achat : la berline hybride rechargeable de BYD affronte la référence mondiale de l'hybride autorechargeant. Verdict chiffré, sans concession.",
+    image: 'https://www.wandaloo.com/files/Voiture-Neuve/byd-seal-5-phev.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-07-25T09:00:00+02:00',
+    readingTime: 7,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux réponses opposées au même problème : la berline hybride abordable</h2>
+<p>D'un côté, la Toyota Corolla Hybride : la référence mondiale de l'hybride autorechargeant, portée par une réputation de fiabilité construite sur près de trente ans et un réseau après-vente sans égal. De l'autre, la BYD Seal 5 DM-i : une berline de gabarit supérieur, mais hybride rechargeable sur prise, qui promet nettement plus de puissance, un coffre plus généreux et une garantie plus longue pour un ticket d'entrée cette fois supérieur. Sur le papier, c'est la Toyota qui reste la moins chère à l'achat — reste à savoir ce que cet écart cache une fois les fiches techniques posées côte à côte.</p>
+
+<h2>Gabarit et style : l'avantage chinois</h2>
+<p>Les deux berlines ne visent pas tout à fait le même gabarit : la BYD Seal 5 DM-i (4,78 m) dépasse la Toyota Corolla Hybride (4,63 m) de 15 cm, un écart qui se traduit par un habitacle et un empattement plus généreux côté chinois. La Toyota mise sur ses lignes sobres et sa réputation de qualité de fabrication, construite sur des décennies de succès commercial, tandis que la BYD adopte une présentation plus statutaire, dans la continuité du langage stylistique récent des marques chinoises (voir <a href="/actualites/design-chinois-identite-visuelle-marques-auto">notre article sur l'identité visuelle du design chinois</a>).</p>
+
+<h2>Motorisation : hybride rechargeable contre hybride auto-rechargeant</h2>
+<p>C'est là que les deux berlines divergent le plus nettement. La BYD Seal 5 DM-i embarque une batterie rechargeable de 8,3 kWh, compatible avec une recharge sur prise ou borne, qui permet de parcourir une partie des trajets du quotidien en 100 % électrique avant de solliciter le moteur essence. La Toyota Corolla Hybride, elle, se contente d'une petite batterie de 1,0 kWh qui se recharge uniquement au freinage et à la décélération, sans jamais accepter de prise — la même philosophie qui a fait le succès du système hybride Toyota depuis la première Prius (voir <a href="/actualites/hybride-vs-phev-comparatif-mg-byd">notre comparatif hybride vs hybride rechargeable</a>). Résultat concret : la BYD peut se brancher comme un véhicule électrique sur les trajets courts, quand la Toyota reste, comme tous les hybrides classiques, alimentée uniquement par sa propre régénération.</p>
+
+<h2>Performances : l'avantage chinois</h2>
+<ul>
+  <li><strong>BYD Seal 5 DM-i</strong> : 200 ch, 0 à 100 km/h en 8,0 s.</li>
+  <li><strong>Toyota Corolla Hybride</strong> : 140 ch, 0 à 100 km/h en 9,1 s.</li>
+</ul>
+<p>Avec 60 ch de plus et 1,1 seconde d'avance au 0 à 100 km/h, la BYD Seal 5 DM-i prend un avantage net sur le terrain des performances pures, portée par le renfort de sa motorisation hybride rechargeable, nettement plus généreuse que le système hybride historique de la Corolla.</p>
+
+<h2>Autonomie et coût à l'usage : un match nul à l'autonomie, un avantage chinois au coût</h2>
+<p>Sur l'autonomie totale, les deux berlines se tiennent en un mouchoir de poche : environ 1 100 km entre deux pleins (réservoir et batterie combinés) pour chacune. La différence se joue sur le coût énergétique, où la BYD prend l'avantage : 5,5 €/100 km annoncés contre 6,4 €/100 km pour la Toyota, un écart de plus de 15 % qui se creuse encore pour qui recharge régulièrement sur secteur, un usage impossible côté japonais faute de prise.</p>
+
+<h2>Habitabilité et coffre : un net avantage chinois</h2>
+<p>Sur ce terrain, la BYD Seal 5 DM-i devance nettement la Corolla Hybride malgré sa batterie rechargeable : 450 litres de coffre contre 361 litres pour la Toyota, soit 89 litres d'écart en faveur du modèle chinois. Les deux berlines affichent 5 places, largement suffisantes pour un usage familial classique.</p>
+
+<h2>Prix et garantie : l'équation se complique côté chinois</h2>
+<p>Côté tarif, c'est cette fois la Toyota qui l'emporte : environ 28 000 € pour la Corolla Hybride contre 32 000 € pour la BYD Seal 5 DM-i, soit <strong>4 000 € de plus</strong> à débourser pour le modèle chinois, batterie rechargeable comprise (voir aussi <a href="/actualites/decote-voitures-chinoises-risque-mg-byd-2026">notre analyse de la décote des voitures chinoises</a>). L'écart se resserre en revanche sur la garantie, où BYD conserve l'avantage sans être spectaculaire : <strong>6 ans</strong> contre <strong>5 ans</strong> chez Toyota — une seule année d'écart, loin des différentiels habituels observés face aux constructeurs européens (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties constructeurs chinois</a>).</p>
+
+<h2>Sécurité et technologie</h2>
+<p>Sur la sécurité, aucun écart : les deux berlines affichent 5 étoiles Euro NCAP, confirmant la mise à niveau générale des voitures chinoises sur ce critère longtemps considéré comme leur point faible (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point complet sur la sécurité des voitures chinoises</a>). Côté technologie embarquée, la BYD conserve un léger avantage en dotation d'écrans et d'aides à la conduite de série, quand la Toyota mise avant tout sur la simplicité et la robustesse éprouvée de son système hybride.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>BYD Seal 5 DM-i</strong> : pour qui veut la possibilité de rouler en 100 % électrique sur les trajets courts, plus de puissance et un plus grand coffre, sans être gêné par un ticket d'entrée supérieur de 4 000 €.</li>
+  <li><strong>Toyota Corolla Hybride</strong> : pour qui privilégie le tarif le plus bas, la réputation de fiabilité la plus établie du marché et un réseau après-vente sans équivalent, sans chercher à brancher sa berline sur une prise.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Ce duel oppose deux logiques d'achat qui divergent nettement, cette fois au bénéfice du tarif japonais. Pour qui privilégie le prix le plus bas et la tranquillité d'une réputation de fiabilité inégalée, la <strong>Toyota Corolla Hybride</strong> reste un choix pragmatique et éprouvé. Mais pour qui cherche à rouler à l'électrique sur les trajets courts, gagner 60 ch et profiter d'un coffre nettement plus grand, la <strong>BYD Seal 5 DM-i</strong> propose une équation séduisante — au prix, cette fois, d'un ticket d'entrée plus élevé.</p>
+`,
+  },
+  {
     slug: 'jaecoo-7-vs-citroen-c5-aircross-suv-familial-phev-hybride',
     title: 'Jaecoo 7 vs Citroën C5 Aircross Hybride : le SUV familial hybride rechargeable chinois peut-il détrôner la référence française ?',
     excerpt:
