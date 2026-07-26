@@ -19,6 +19,56 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'geely-geometry-c-vs-toyota-c-hr-suv-compact-electrique-hybride',
+    title: 'Geely Geometry C vs Toyota C-HR Hybride : le SUV compact électrique chinois peut-il détrôner la référence hybride japonaise ?',
+    excerpt:
+      "64 ch de plus, 3 secondes d'avance au 0 à 100 km/h et un coût énergétique quasi divisé par deux, mais 650 km d'autonomie totale en moins : le SUV compact électrique de Geely affronte la référence hybride de Toyota, à prix quasi identique. Verdict chiffré, sans concession.",
+    image: 'https://www.wandaloo.com/files/Voiture-Neuve/geely-geometry-c.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-07-26T09:00:00+02:00',
+    readingTime: 7,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux réponses opposées au même problème : le SUV compact abordable</h2>
+<p>D'un côté, le Toyota C-HR Hybride : un SUV compact au style affirmé, porté par la fiabilité légendaire du système hybride auto-rechargeant de la marque et un réseau après-vente sans égal. De l'autre, le Geely Geometry C : un SUV 100 % électrique de gabarit très proche, qui promet nettement plus de puissance et un coût à l'usage bien plus faible, pour un ticket d'entrée quasi identique. Sur le papier, l'écart de prix est anecdotique — reste à savoir ce que chaque motorisation implique une fois les fiches techniques posées côte à côte.</p>
+
+<h2>Gabarit et style : deux SUV compacts presque jumeaux</h2>
+<p>Les deux voitures visent la même clientèle et affichent un gabarit très proche. Le Geely Geometry C (4,43 m) dépasse le Toyota C-HR (4,36 m) de 7 cm, un écart discret qui se traduit surtout par un peu plus d'espace à bord. Le Toyota mise sur ses lignes anguleuses désormais familières et sa réputation de fiabilité construite sur des décennies de succès commercial, tandis que le Geely adopte une présentation plus épurée, dans la continuité du langage stylistique récent des marques chinoises (voir <a href="/actualites/design-chinois-identite-visuelle-marques-auto">notre article sur l'identité visuelle du design chinois</a>).</p>
+
+<h2>Motorisation : 100 % électrique contre hybride auto-rechargeant</h2>
+<p>C'est là que les deux SUV divergent le plus nettement. Le Geely Geometry C embarque une batterie de 53 kWh, rechargeable en courant continu jusqu'à 100 kW, sans jamais consommer une goutte de carburant. Le Toyota C-HR Hybride, lui, se contente d'une petite batterie de 1,0 kWh qui se recharge uniquement au freinage et à la décélération, sans jamais accepter de prise — la même philosophie qui a fait le succès du système hybride Toyota depuis la première Prius. Résultat concret : le Geely se recharge sur borne comme n'importe quel véhicule électrique, quand le Toyota reste, comme tous les hybrides classiques, alimenté uniquement à la pompe.</p>
+
+<h2>Performances : l'avantage chinois</h2>
+<ul>
+  <li><strong>Geely Geometry C</strong> : 204 ch, 0 à 100 km/h en 6,9 s.</li>
+  <li><strong>Toyota C-HR Hybride</strong> : 140 ch, 0 à 100 km/h en 9,9 s.</li>
+</ul>
+<p>Avec 64 ch de plus et 3 secondes d'avance au 0 à 100 km/h, le Geely Geometry C prend une avance nette sur le terrain des performances pures, porté par le couple immédiat de son moteur électrique, loin devant l'agrément plus feutré mais moins vif du système hybride Toyota.</p>
+
+<h2>Autonomie et coût à l'usage : l'électrique contre l'hybride, un match sans surprise</h2>
+<p>Sur l'autonomie totale, le Toyota C-HR Hybride prend une avance considérable : environ 1 050 km entre deux pleins contre 400 km pour le Geely Geometry C, soit 650 km d'écart en faveur du modèle japonais — un classique de la confrontation entre électrique et hybride, sans prise à recharger sur les longs trajets (voir <a href="/actualites/top-10-voitures-chinoises-meilleure-autonomie-2026">notre classement des voitures chinoises à la meilleure autonomie</a>). Le rapport s'inverse totalement sur le coût énergétique : 3,4 €/100 km pour le Geely contre 6,5 €/100 km pour le Toyota, un coût quasiment divisé par deux pour qui recharge à domicile — nous avions d'ailleurs mesuré une autonomie réelle solide sur autoroute pour ce modèle (voir <a href="/actualites/geely-geometry-c-autonomie-autoroute-casa-rabat">notre test d'autonomie Casa-Rabat</a>).</p>
+
+<h2>Habitabilité et coffre : un quasi match nul</h2>
+<p>Sur ce terrain, les deux SUV se tiennent en un mouchoir de poche : 388 litres de coffre pour le Toyota C-HR contre 380 litres pour le Geely Geometry C, un écart de seulement 8 litres à peine perceptible à l'usage. Les deux SUV affichent 5 places, largement suffisantes pour un usage familial classique.</p>
+
+<h2>Prix et garantie : l'écart s'efface</h2>
+<p>Côté tarif, l'écart est quasi nul : environ 33 000 € pour le Geely Geometry C contre 32 000 € pour le Toyota C-HR Hybride, soit seulement <strong>1 000 € d'écart</strong> entre les deux motorisations. Même parité du côté de la garantie, où les deux constructeurs alignent <strong>5 ans</strong> chacun — une égalité suffisamment rare face à un constructeur japonais pour être soulignée (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties constructeurs chinois</a>).</p>
+
+<h2>Sécurité et technologie</h2>
+<p>Sur la sécurité, aucun écart : les deux SUV affichent 5 étoiles Euro NCAP, confirmant la mise à niveau générale des voitures chinoises sur ce critère longtemps considéré comme leur point faible (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point complet sur la sécurité des voitures chinoises</a>). Côté technologie embarquée, le Toyota conserve un léger avantage en dotation d'aides à la conduite de série, quand le Geely mise avant tout sur un grand écran central et une expérience plus proche du véhicule 100 % électrique.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>Geely Geometry C</strong> : pour qui roule majoritairement en ville et en périurbain, peut recharger à domicile ou au travail, et veut plus de puissance pour un coût à l'usage divisé par deux.</li>
+  <li><strong>Toyota C-HR Hybride</strong> : pour qui multiplie les longs trajets sans accès simple à une recharge, et privilégie la tranquillité d'une motorisation hybride éprouvée depuis plus de vingt ans.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Ce duel oppose deux logiques d'achat qui divergent uniquement sur la motorisation, à gabarit et à prix quasiment identiques. Pour qui multiplie les longs trajets et n'a pas un accès simple à une recharge, le <strong>Toyota C-HR Hybride</strong> reste le choix le plus rassurant. Mais pour qui roule surtout au quotidien et peut recharger régulièrement à domicile, le <strong>Geely Geometry C</strong> propose une équation redoutable : plus de puissance, un coût à l'usage deux fois plus faible, pour à peine 1 000 € de plus.</p>
+`,
+  },
+  {
     slug: 'byd-seal-5-dmi-vs-toyota-corolla-hybride-berline-hybride-rechargeable',
     title: 'BYD Seal 5 DM-i vs Toyota Corolla Hybride : la berline hybride rechargeable chinoise peut-elle détrôner la référence japonaise ?',
     excerpt:
