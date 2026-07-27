@@ -78,6 +78,7 @@ export const COMPARISON_DUELS: Array<[string, string]> = [
   ['omoda-e5', 'peugeot-2008'],
   ['xpeng-g6', 'peugeot-3008'],
   ['byd-atto-3', 'peugeot-2008'],
+  ['byd-seal-u', 'peugeot-3008'],
 
   // --- Chinoises vs VW / Hyundai / Citroën ---
   ['mg-zs-hybrid', 'vw-t-cross'],
