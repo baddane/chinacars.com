@@ -19,6 +19,56 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'byd-seal-5-dmi-vs-vw-golf-berline-phev-compacte-essence',
+    title: 'BYD Seal 5 DM-i vs Volkswagen Golf : la berline hybride rechargeable chinoise peut-elle détrôner la compacte la plus vendue d’Europe ?',
+    excerpt:
+      "50 ch de plus, un coffre plus grand et une garantie trois fois plus longue, mais une carrosserie près de 50 cm plus longue et 2 000 € plus chère à l'achat : la berline hybride rechargeable de BYD affronte la compacte essence la plus vendue d'Europe. Verdict chiffré, sans concession.",
+    image: 'https://www.wandaloo.com/files/Voiture-Neuve/byd-seal-5-phev.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-07-28T09:00:00+02:00',
+    readingTime: 7,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux réponses opposées au même problème : la familiale polyvalente à moins de 35 000 €</h2>
+<p>D'un côté, la Volkswagen Golf : la compacte de référence en Europe depuis des décennies, portée par un réseau après-vente dense et une image de marque installée. De l'autre, la BYD Seal 5 DM-i : une berline hybride rechargeable qui promet plus de puissance, un coffre plus grand et une garantie trois fois plus longue, mais dans une carrosserie sensiblement plus imposante et pour un ticket d'entrée cette fois supérieur. Sur le papier, c'est la Golf qui reste la moins chère à l'achat — reste à savoir ce que cet écart cache une fois les fiches techniques posées côte à côte.</p>
+
+<h2>Gabarit et style : deux carrosseries, deux philosophies</h2>
+<p>Les deux voitures ne visent pas du tout le même gabarit : la BYD Seal 5 DM-i (4,78 m) dépasse la Volkswagen Golf (4,28 m) de près de 50 cm, un écart qui la rapproche davantage d'une berline familiale que d'une compacte au sens strict. La Golf mise sur son hayon pratique et ses lignes sobres devenues une signature reconnue dans toute l'Europe, tandis que la BYD adopte une silhouette de berline à coffre plus statutaire, dans la continuité du langage stylistique récent des marques chinoises (voir <a href="/actualites/design-chinois-identite-visuelle-marques-auto">notre article sur l'identité visuelle du design chinois</a>). Un point à garder en tête avant de comparer le reste : ce duel oppose autant deux segments que deux origines.</p>
+
+<h2>Motorisation : hybride rechargeable contre essence pure</h2>
+<p>C'est là que les deux voitures divergent le plus nettement. La BYD Seal 5 DM-i embarque une petite batterie de 8,3 kWh, rechargeable sur une prise domestique, qui permet de couvrir l'essentiel des trajets quotidiens en électrique avant de basculer sur le moteur thermique pour les longs trajets — la même logique que les autres hybrides rechargeables chinoises (voir <a href="/actualites/hybride-vs-phev-comparatif-mg-byd">notre comparatif hybride vs hybride rechargeable</a>). La Golf, elle, reste fidèle à un moteur essence classique, sans aucune prise à brancher. Résultat concret : la BYD peut rouler des semaines sans passer par la pompe pour qui recharge chez soi, quand la Golf reste, comme toute compacte essence, alimentée uniquement au carburant.</p>
+
+<h2>Performances : un avantage chinois net</h2>
+<ul>
+  <li><strong>BYD Seal 5 DM-i</strong> : 200 ch, 0 à 100 km/h en 8,0 s.</li>
+  <li><strong>Volkswagen Golf</strong> : 150 ch, 0 à 100 km/h en 8,5 s.</li>
+</ul>
+<p>Avec 50 ch de plus et un 0 à 100 km/h avancé de 0,5 s, la BYD Seal 5 DM-i prend un avantage net sur le papier, porté par l'appoint du moteur électrique typique des hybrides rechargeables — un agrément que la Golf, plus légère mais moins puissante, ne peut pas égaler au démarrage.</p>
+
+<h2>Autonomie et coût à l'usage : l'avantage chinois se confirme</h2>
+<p>Sur l'autonomie totale, les deux voitures se tiennent de très près : environ 1 100 km entre deux pleins pour la BYD Seal 5 DM-i contre 1 050 km pour la Golf, un écart de 50 km en faveur du modèle chinois grâce à l'appoint de sa petite batterie (voir <a href="/actualites/top-10-voitures-chinoises-meilleure-autonomie-2026">notre classement des voitures chinoises à la meilleure autonomie</a>). Le coût énergétique penche nettement du côté de la BYD pour qui recharge à domicile : 5,5 €/100 km contre 7,5 €/100 km pour la Golf, soit environ 27 % d'économie sur la facture, à condition de brancher régulièrement la batterie.</p>
+
+<h2>Habitabilité et coffre : l'avantage chinois</h2>
+<p>Conséquence directe de son gabarit supérieur, la BYD Seal 5 DM-i l'emporte sur le volume utile : 450 litres de coffre contre 381 litres pour la Golf, un écart de 69 litres en faveur du modèle chinois. Les deux voitures affichent 5 places, largement suffisantes pour un usage familial classique.</p>
+
+<h2>Prix et garantie : l'équation se complique côté chinois</h2>
+<p>Côté tarif, c'est cette fois la Golf qui l'emporte : environ 30 000 € contre 32 000 € pour la BYD Seal 5 DM-i, soit <strong>2 000 € de plus</strong> à débourser pour le modèle chinois (voir aussi <a href="/actualites/decote-voitures-chinoises-risque-mg-byd-2026">notre analyse de la décote des voitures chinoises</a>). L'écart se rééquilibre très largement sur la garantie, où BYD prend un avantage écrasant : <strong>6 ans</strong> contre <strong>2 ans</strong> seulement chez Volkswagen — trois fois plus longue, dans la lignée de la tendance de fond des marques chinoises sur ce terrain (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties constructeurs chinois</a>).</p>
+
+<h2>Sécurité et technologie</h2>
+<p>Sur la sécurité, aucun écart : les deux voitures affichent 5 étoiles Euro NCAP, confirmant la mise à niveau générale des voitures chinoises sur ce critère longtemps considéré comme leur point faible (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point complet sur la sécurité des voitures chinoises</a>). Côté technologie embarquée, les deux modèles se tiennent dans un mouchoir de poche, avec une dotation comparable en écrans et en aides à la conduite de série.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>BYD Seal 5 DM-i</strong> : pour qui peut recharger à domicile, veut plus de puissance, un coffre plus grand et une garantie trois fois plus longue, sans être gêné par une carrosserie nettement plus imposante et un ticket d'entrée supérieur.</li>
+  <li><strong>Volkswagen Golf</strong> : pour qui privilégie le gabarit compact d'origine, le réseau après-vente le plus dense d'Europe et le ticket d'entrée le plus bas, sans chercher la motorisation la plus économique à l'usage.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Ce duel oppose deux logiques d'achat qui divergent nettement, autant sur le segment que sur le tarif. Pour qui reste attaché au gabarit compact historique et au réseau le plus dense d'Europe, la <strong>Volkswagen Golf</strong> demeure une valeur sûre, éprouvée sur des décennies. Mais pour qui peut recharger régulièrement à domicile et veut plus de puissance, plus de coffre et une garantie trois fois plus longue, la <strong>BYD Seal 5 DM-i</strong> propose une équation redoutablement convaincante — au prix, cette fois, d'une carrosserie plus imposante et d'un ticket d'entrée plus élevé.</p>
+`,
+  },
+  {
     slug: 'byd-seal-u-vs-peugeot-3008-suv-familial-electrique-hybride',
     title: 'BYD Seal U vs Peugeot 3008 Hybride : le grand SUV familial 100 % électrique chinois peut-il détrôner la référence hybride française ?',
     excerpt:
