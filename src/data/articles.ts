@@ -19,6 +19,56 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'mg-zs-ev-vs-renault-captur-suv-urbain-electrique-hybride',
+    title: 'MG ZS EV vs Renault Captur Hybride : le SUV urbain 100 % électrique chinois peut-il détrôner la référence hybride française ?',
+    excerpt:
+      "11 ch de plus, une garantie plus de deux fois plus longue et un coût énergétique deux fois moins élevé, mais 560 km d'autonomie totale en moins et 36 litres de coffre en moins : le SUV urbain 100 % électrique chinois affronte la référence hybride française, à prix quasi identique. Verdict chiffré, sans concession.",
+    image: 'https://www.wandaloo.com/files/Voiture-Neuve/mg-zs-ev.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-08-01T09:00:00+02:00',
+    readingTime: 7,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux réponses opposées au même problème : le SUV urbain à moins de 26 000 €</h2>
+<p>D'un côté, le Renault Captur Hybride : le SUV urbain le plus vendu en France, porté par une réputation bien installée et un réseau après-vente dense. De l'autre, le MG ZS EV : un SUV de gabarit très proche, mais 100 % électrique, qui promet un peu plus de puissance et une garantie bien plus longue, pour un ticket d'entrée quasiment identique. Sur le papier, l'écart de prix est anecdotique — reste à savoir ce que chaque motorisation implique une fois les fiches techniques posées côte à côte.</p>
+
+<h2>Gabarit et style : deux SUV urbains presque jumeaux</h2>
+<p>Les deux voitures visent la même clientèle et affichent un gabarit très proche. Le MG ZS EV (4,32 m) dépasse le Renault Captur (4,24 m) de 8 cm, un écart discret qui se traduit surtout par un peu plus d'espace à bord. Le Captur mise sur ses lignes affûtées devenues une référence dans les rues françaises, tandis que le MG adopte une présentation plus épurée, dans la continuité du langage stylistique récent des marques chinoises (voir <a href="/actualites/design-chinois-identite-visuelle-marques-auto">notre article sur l'identité visuelle du design chinois</a>).</p>
+
+<h2>Motorisation : 100 % électrique contre hybride auto-rechargeant</h2>
+<p>C'est là que les deux SUV divergent le plus nettement. Le MG ZS EV embarque une batterie de 64 kWh, rechargeable en courant continu jusqu'à 92 kW, sans jamais consommer une goutte de carburant. Le Renault Captur Hybride, lui, se contente d'une petite batterie de 1,2 kWh qui se recharge uniquement au freinage et à la décélération, sans jamais accepter de prise — la même philosophie que les autres hybrides auto-rechargeants du marché (voir <a href="/actualites/hybride-vs-phev-comparatif-mg-byd">notre comparatif hybride vs hybride rechargeable</a>). Résultat concret : le MG se recharge sur borne comme n'importe quel véhicule électrique, quand le Renault reste, comme tous les hybrides classiques, alimenté uniquement à la pompe.</p>
+
+<h2>Performances : un avantage chinois mesuré</h2>
+<ul>
+  <li><strong>MG ZS EV</strong> : 156 ch, 0 à 100 km/h en 8,6 s.</li>
+  <li><strong>Renault Captur Hybride</strong> : 145 ch, 0 à 100 km/h en 10,6 s.</li>
+</ul>
+<p>Avec 11 ch de plus et 2 secondes d'avance au 0 à 100 km/h, le MG ZS EV prend un avantage net à l'accélération, porté par le couple immédiat de son moteur électrique, loin devant l'agrément plus feutré mais moins vif du système hybride du Captur.</p>
+
+<h2>Autonomie et coût à l'usage : l'électrique contre l'hybride, un match sans surprise</h2>
+<p>Sur l'autonomie totale, le Renault Captur Hybride prend une avance considérable : environ 1 000 km entre deux pleins contre 440 km pour le MG ZS EV, soit 560 km d'écart en faveur du modèle français — un classique de la confrontation entre électrique et hybride, sans prise à recharger sur les longs trajets (voir <a href="/actualites/top-10-voitures-chinoises-meilleure-autonomie-2026">notre classement des voitures chinoises à la meilleure autonomie</a>). Le rapport s'inverse totalement sur le coût énergétique : 3,5 €/100 km pour le MG contre 7,0 €/100 km pour le Renault, un coût exactement divisé par deux pour qui recharge à domicile.</p>
+
+<h2>Habitabilité et coffre : l'avantage français</h2>
+<p>Sur ce terrain, le Renault Captur reprend l'avantage malgré un gabarit inférieur : 484 litres de coffre contre 448 litres pour le MG ZS EV, soit 36 litres d'écart en faveur du modèle français. Les deux SUV affichent 5 places, largement suffisantes pour un usage urbain et périurbain classique.</p>
+
+<h2>Prix et garantie : l'équation se rééquilibre côté chinois</h2>
+<p>Côté tarif, l'écart est anecdotique : environ 25 000 € pour le Captur Hybride contre 25 500 € pour le MG ZS EV, soit <strong>500 € de plus</strong> à peine pour le modèle chinois (voir aussi <a href="/actualites/decote-voitures-chinoises-risque-mg-byd-2026">notre analyse de la décote des voitures chinoises</a>). L'écart se creuse en revanche largement sur la garantie, où MG prend un avantage écrasant : <strong>7 ans</strong> contre <strong>3 ans</strong> seulement chez Renault — plus de deux fois plus longue, dans la lignée de la tendance de fond des marques chinoises sur ce terrain (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties constructeurs chinois</a>).</p>
+
+<h2>Sécurité et technologie</h2>
+<p>Sur la sécurité, aucun écart : les deux SUV affichent 5 étoiles Euro NCAP, confirmant la mise à niveau générale des voitures chinoises sur ce critère longtemps considéré comme leur point faible (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point complet sur la sécurité des voitures chinoises</a>). Côté technologie embarquée, les deux SUV se tiennent également dans un mouchoir de poche, avec une dotation comparable en écrans et en aides à la conduite de série.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>MG ZS EV</strong> : pour qui roule majoritairement en ville et en périurbain, peut recharger à domicile ou au travail, et veut une garantie deux fois plus longue pour un coût à l'usage divisé par deux.</li>
+  <li><strong>Renault Captur Hybride</strong> : pour qui multiplie les longs trajets sans accès simple à une recharge et veut le plus grand coffre, sans chercher à brancher son SUV sur une prise.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Ce duel oppose deux logiques d'achat qui se jouent sur l'usage plus que sur le tarif, quasiment identique des deux côtés. Pour qui multiplie les longs trajets sans recharge facile et cherche le plus grand coffre, le <strong>Renault Captur Hybride</strong> reste un choix pragmatique et éprouvé. Mais pour qui roule surtout au quotidien, peut recharger régulièrement à domicile et veut une garantie deux fois plus longue pour la moitié du coût à l'usage, le <strong>MG ZS EV</strong> propose une équation redoutablement convaincante — au prix, cette fois, d'une autonomie totale nettement plus courte sur les longs trajets.</p>
+`,
+  },
+  {
     slug: 'byd-seal-5-dmi-vs-vw-golf-berline-phev-compacte-essence',
     title: 'BYD Seal 5 DM-i vs Volkswagen Golf : la berline hybride rechargeable chinoise peut-elle détrôner la compacte la plus vendue d’Europe ?',
     excerpt:
