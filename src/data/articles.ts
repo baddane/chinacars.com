@@ -19,6 +19,56 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'mg-hs-vs-dacia-bigster-grand-suv-familial-essence-low-cost',
+    title: 'MG HS vs Dacia Bigster : le grand SUV familial essence chinois peut-il détrôner le champion low-cost roumain ?',
+    excerpt:
+      "30 ch de plus, 5 étoiles Euro NCAP et une garantie plus de deux fois plus longue, mais 160 litres de coffre en moins et 150 km d'autonomie totale en moins : le grand SUV 100 % essence de MG affronte la référence low-cost du groupe Renault. Verdict chiffré, sans concession.",
+    image: 'https://www.wandaloo.com/files/Voiture-Neuve/mg-hs.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-08-02T09:00:00+02:00',
+    readingTime: 7,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux réponses opposées au même problème : le grand SUV familial au meilleur prix</h2>
+<p>D'un côté, le Dacia Bigster : le grand SUV du groupe Renault devenu en quelques mois une référence du segment low-cost en France, porté par un tarif d'entrée imbattable et un réseau après-vente dense. De l'autre, le MG HS : un SUV de gabarit très proche, qui mise lui aussi sur une motorisation 100 % essence sans hybridation, mais avec plus de puissance et une garantie constructeur nettement plus longue. Sur le papier, l'écart de prix reste modeste — reste à savoir ce qu'il cache une fois les fiches techniques posées côte à côte.</p>
+
+<h2>Gabarit et style : deux grands SUV presque jumeaux</h2>
+<p>Les deux voitures visent la même clientèle et affichent un gabarit très proche. Le MG HS (4,67 m) dépasse le Dacia Bigster (4,57 m) de 10 cm, un écart discret qui se traduit surtout par un peu plus d'espace aux places arrière. Le Bigster mise sur des lignes robustes et fonctionnelles devenues la signature du renouveau Dacia, tandis que le MG adopte une présentation plus statutaire, dans la continuité du langage stylistique récent des marques chinoises (voir <a href="/actualites/design-chinois-identite-visuelle-marques-auto">notre article sur l'identité visuelle du design chinois</a>).</p>
+
+<h2>Motorisation : deux moteurs essence, deux philosophies de réglage</h2>
+<p>Ici, pas de rupture technologique : ni le MG HS ni le Dacia Bigster n'embarquent la moindre hybridation, batterie de traction ou prise à brancher. Les deux SUV restent fidèles à un moteur essence classique, sans aucune assistance électrique — une approche qui tranche avec la plupart des duels chinois vs européens dominés par l'hybride ou l'électrique (voir <a href="/actualites/hybride-vs-phev-comparatif-mg-byd">notre comparatif hybride vs hybride rechargeable</a>). La différence se joue donc uniquement sur le réglage moteur : le MG privilégie la puissance brute, le Dacia l'efficience, avec un coût énergétique de 7,8 €/100 km contre 9,5 €/100 km pour le MG, soit environ 22 % d'économie sur la facture de carburant en faveur du modèle roumain.</p>
+
+<h2>Performances : un net avantage chinois</h2>
+<ul>
+  <li><strong>MG HS</strong> : 170 ch, 0 à 100 km/h en 9,5 s.</li>
+  <li><strong>Dacia Bigster</strong> : 140 ch, 0 à 100 km/h en 9,7 s.</li>
+</ul>
+<p>Avec 30 ch de plus, le MG HS affiche un net avantage sur le papier, même si l'écart au chrono reste anecdotique (0,2 s), les deux SUV livrant un agrément de conduite assez comparable au quotidien malgré la puissance supérieure du chinois.</p>
+
+<h2>Autonomie et coût à l'usage : l'avantage roumain</h2>
+<p>Sur l'autonomie totale, le Dacia Bigster prend l'avantage : environ 1 150 km entre deux pleins contre 1 000 km pour le MG HS, soit 150 km d'écart en faveur du modèle roumain, porté par un moteur plus sobre. Le coût énergétique confirme cette avance, avec une facture de carburant inférieure d'environ 22 % pour qui roule au quotidien avec le Bigster.</p>
+
+<h2>Habitabilité et coffre : l'avantage roumain</h2>
+<p>Sur ce terrain, le Dacia Bigster reprend l'avantage malgré un gabarit inférieur : 667 litres de coffre contre 507 litres pour le MG HS, soit 160 litres d'écart en faveur du modèle roumain — l'un des plus grands coffres du segment, conçu dès l'origine pour l'usage familial. Les deux SUV affichent 5 places, largement suffisantes pour une famille nombreuse.</p>
+
+<h2>Prix et garantie : l'équation se rééquilibre côté chinois</h2>
+<p>Côté tarif, l'écart reste modeste : environ 24 000 € pour le Dacia Bigster contre 26 000 € pour le MG HS, soit <strong>2 000 € de plus</strong> à peine pour le modèle chinois (voir aussi <a href="/actualites/decote-voitures-chinoises-risque-mg-byd-2026">notre analyse de la décote des voitures chinoises</a>). L'écart se creuse en revanche largement sur la garantie, où MG prend un avantage écrasant : <strong>7 ans</strong> contre <strong>3 ans</strong> seulement chez Dacia — plus de deux fois plus longue, dans la lignée de la tendance de fond des marques chinoises sur ce terrain (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties constructeurs chinois</a>).</p>
+
+<h2>Sécurité et technologie</h2>
+<p>Sur la sécurité, le MG HS prend l'avantage avec 5 étoiles Euro NCAP contre 4 étoiles pour le Dacia Bigster, confirmant la mise à niveau générale des voitures chinoises sur ce critère longtemps considéré comme leur point faible (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point complet sur la sécurité des voitures chinoises</a>). Côté technologie embarquée, les deux SUV se tiennent dans un mouchoir de poche, avec une dotation comparable en écrans et en aides à la conduite de série.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>MG HS</strong> : pour qui veut plus de puissance, la meilleure note de sécurité du duel et une garantie deux fois plus longue, sans être gêné par un ticket d'entrée légèrement supérieur.</li>
+  <li><strong>Dacia Bigster</strong> : pour qui veut le plus grand coffre du segment, la facture de carburant la plus basse et le tarif le plus serré, sans chercher la puissance ni la garantie la plus longue.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Ce duel oppose deux logiques d'achat qui se jouent sur des nuances plus que sur un fossé, le tarif restant proche des deux côtés. Pour qui privilégie le plus grand coffre du segment et la facture de carburant la plus légère, le <strong>Dacia Bigster</strong> reste un choix pragmatique et éprouvé. Mais pour qui veut plus de puissance, une meilleure note de sécurité et une garantie deux fois plus longue pour 2 000 € à peine, le <strong>MG HS</strong> propose une équation redoutablement convaincante — au prix, cette fois, d'un coffre plus petit et d'une facture de carburant un peu plus salée.</p>
+`,
+  },
+  {
     slug: 'mg-zs-ev-vs-renault-captur-suv-urbain-electrique-hybride',
     title: 'MG ZS EV vs Renault Captur Hybride : le SUV urbain 100 % électrique chinois peut-il détrôner la référence hybride française ?',
     excerpt:
