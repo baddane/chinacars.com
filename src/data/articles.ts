@@ -19,6 +19,56 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'byd-sealion-7-vs-toyota-rav4-suv-coupe-electrique-hybride',
+    title: 'BYD Sealion 7 vs Toyota RAV4 Hybride : le SUV coupé 100 % électrique chinois peut-il détrôner la référence hybride familiale japonaise ?',
+    excerpt:
+      "95 ch de plus, un 0 à 100 km/h avancé de 1,4 seconde et un coût énergétique près de deux fois moins élevé, mais 568 km d'autonomie totale en moins et 6 000 € plus cher à l'achat : le SUV coupé 100 % électrique de BYD affronte la référence hybride familiale de Toyota. Verdict chiffré, sans concession.",
+    image: 'https://www.wandaloo.com/files/Voiture-Neuve/byd-sealion-7.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-08-03T09:00:00+02:00',
+    readingTime: 7,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux réponses opposées au même problème : le grand SUV familial à moins de 50 000 €</h2>
+<p>D'un côté, le Toyota RAV4 Hybride : la référence mondiale du SUV familial hybride, portée par une réputation de fiabilité construite depuis des décennies et un réseau après-vente parmi les plus denses d'Europe. De l'autre, le BYD Sealion 7 : un SUV coupé 100 % électrique qui promet nettement plus de puissance et une garantie plus longue, mais dans une carrosserie plus statutaire et pour un ticket d'entrée cette fois supérieur. Sur le papier, c'est le RAV4 qui reste le moins cher à l'achat — reste à savoir ce que cet écart cache une fois les fiches techniques posées côte à côte.</p>
+
+<h2>Gabarit et style : SUV familial classique contre SUV coupé électrique</h2>
+<p>Les deux voitures ne visent pas tout à fait le même public malgré un usage familial partagé : le BYD Sealion 7 (4,83 m) dépasse le Toyota RAV4 (4,60 m) de 23 cm, un écart qui s'explique par sa silhouette de SUV coupé, plus longue et plus basse qu'un SUV familial classique. Le RAV4 mise sur des lignes robustes et fonctionnelles devenues une référence dans le monde entier, tandis que le BYD adopte une ligne de toit plongeante et un arrière fuyant, dans la continuité du langage stylistique plus statutaire des marques chinoises premium (voir <a href="/actualites/design-chinois-identite-visuelle-marques-auto">notre article sur l'identité visuelle du design chinois</a>).</p>
+
+<h2>Motorisation : 100 % électrique contre hybride auto-rechargeant</h2>
+<p>C'est là que les deux SUV divergent le plus nettement. Le BYD Sealion 7 embarque une grosse batterie de 82,5 kWh, rechargeable en courant continu jusqu'à 230 kW, sans jamais consommer une goutte de carburant. Le Toyota RAV4 Hybride, lui, se contente d'une petite batterie de 1,6 kWh qui se recharge uniquement au freinage et à la décélération, sans jamais accepter de prise. Résultat concret : le BYD se recharge sur borne rapide comme n'importe quel véhicule électrique premium, quand le Toyota reste, comme tous les hybrides classiques, alimenté uniquement à la pompe.</p>
+
+<h2>Performances : un net avantage chinois</h2>
+<ul>
+  <li><strong>BYD Sealion 7</strong> : 313 ch, 0 à 100 km/h en 6,7 s.</li>
+  <li><strong>Toyota RAV4 Hybride</strong> : 218 ch, 0 à 100 km/h en 8,1 s.</li>
+</ul>
+<p>Avec 95 ch de plus et un 0 à 100 km/h avancé de 1,4 s, le BYD Sealion 7 prend un avantage net et immédiatement perceptible, porté par le couple instantané de son moteur électrique — un agrément que le RAV4, plus sobre mais nettement moins vif, ne peut pas égaler au démarrage.</p>
+
+<h2>Autonomie et coût à l'usage : l'avantage japonais sur la route, l'avantage chinois au portefeuille</h2>
+<p>Sur l'autonomie totale, le Toyota RAV4 Hybride prend une avance considérable : environ 1 050 km entre deux pleins contre 482 km pour le BYD Sealion 7, soit 568 km d'écart en faveur du modèle japonais — un classique de la confrontation entre électrique et hybride sur les longs trajets sans recharge facile (voir <a href="/actualites/top-10-voitures-chinoises-meilleure-autonomie-2026">notre classement des voitures chinoises à la meilleure autonomie</a>). Le rapport s'inverse totalement sur le coût énergétique : 3,6 €/100 km pour le BYD contre 6,8 €/100 km pour le Toyota, soit près de 47 % d'économie sur la facture pour qui recharge régulièrement à domicile.</p>
+
+<h2>Habitabilité et coffre : l'avantage japonais malgré un gabarit inférieur</h2>
+<p>Sur ce terrain, le Toyota RAV4 reprend l'avantage malgré ses 23 cm de moins : 580 litres de coffre contre 500 litres pour le BYD Sealion 7, la ligne de toit plongeante du SUV coupé chinois grignotant un peu de volume utile à l'arrière. Les deux SUV affichent 5 places, largement suffisantes pour un usage familial classique.</p>
+
+<h2>Prix et garantie : l'écart se resserre côté chinois</h2>
+<p>Côté tarif, l'écart est net : environ 42 000 € pour le Toyota RAV4 Hybride contre 48 000 € pour le BYD Sealion 7, soit <strong>6 000 € de plus</strong> pour le modèle chinois (voir aussi <a href="/actualites/decote-voitures-chinoises-risque-mg-byd-2026">notre analyse de la décote des voitures chinoises</a>). L'écart se resserre en revanche sur la garantie, où BYD prend l'avantage : <strong>6 ans</strong> contre <strong>5 ans</strong> chez Toyota, dans la lignée de la tendance de fond des marques chinoises sur ce terrain (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties constructeurs chinois</a>).</p>
+
+<h2>Sécurité et technologie</h2>
+<p>Sur la sécurité, aucun écart : les deux SUV affichent 5 étoiles Euro NCAP, confirmant la mise à niveau générale des voitures chinoises sur ce critère longtemps considéré comme leur point faible (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point complet sur la sécurité des voitures chinoises</a>). Côté technologie embarquée, le BYD Sealion 7 prend l'avantage avec une dotation plus sophistiquée en écrans et en aides à la conduite, quand le RAV4 reste plus classique mais tout aussi complet dans l'essentiel.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>BYD Sealion 7</strong> : pour qui roule majoritairement en périurbain, peut recharger à domicile ou au travail, et veut plus de puissance, un style plus statutaire et un coût à l'usage divisé par deux.</li>
+  <li><strong>Toyota RAV4 Hybride</strong> : pour qui multiplie les longs trajets sans accès simple à une recharge et veut le plus grand coffre au tarif le plus serré, sans chercher à brancher son SUV sur une prise.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Ce duel oppose deux logiques d'achat qui se jouent sur l'usage et le budget plus que sur la technique pure. Pour qui multiplie les longs trajets sans recharge facile et cherche le tarif le plus serré, le <strong>Toyota RAV4 Hybride</strong> reste un choix pragmatique et éprouvé. Mais pour qui roule surtout en périurbain, peut recharger régulièrement à domicile et veut nettement plus de puissance pour la moitié du coût à l'usage, le <strong>BYD Sealion 7</strong> propose une équation redoutablement convaincante — au prix, cette fois, d'une autonomie totale plus courte sur les longs trajets et d'un ticket d'entrée plus élevé.</p>
+`,
+  },
+  {
     slug: 'mg-hs-vs-dacia-bigster-grand-suv-familial-essence-low-cost',
     title: 'MG HS vs Dacia Bigster : le grand SUV familial essence chinois peut-il détrôner le champion low-cost roumain ?',
     excerpt:
