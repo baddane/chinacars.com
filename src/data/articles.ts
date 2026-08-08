@@ -19,6 +19,56 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'mg-zs-hybrid-vs-hyundai-kona-suv-urbain-hybride',
+    title: 'MG ZS Hybrid+ vs Hyundai Kona Hybride : le SUV urbain hybride chinois peut-il détrôner la référence coréenne du segment ?',
+    excerpt:
+      "54 ch de plus, un 0 à 100 km/h avancé de 1,9 seconde et 6 000 € d'économie à l'achat, mais 23 litres de coffre en moins et un coût énergétique environ 23 % plus élevé : le SUV urbain hybride de MG affronte la référence hybride coréenne du segment. Verdict chiffré, sans concession.",
+    image: 'https://www.wandaloo.com/files/Voiture-Neuve/mg-zs-hev.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-08-08T09:00:00+02:00',
+    readingTime: 7,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux réponses opposées au même problème : le SUV urbain hybride au meilleur rapport prix-prestations</h2>
+<p>D'un côté, le Hyundai Kona Hybride : une référence installée du segment des SUV urbains hybrides, portée par une réputation de fiabilité solide et un réseau après-vente dense partout en Europe. De l'autre, le MG ZS Hybrid+ : un SUV de gabarit très proche, tout aussi hybride non rechargeable, mais vendu nettement moins cher, plus puissant et couvert par une garantie constructeur plus longue. Sur le papier, l'écart de prix est déjà net — reste à savoir ce qu'il cache une fois les fiches techniques posées côte à côte.</p>
+
+<h2>Gabarit et style : deux SUV urbains presque jumeaux</h2>
+<p>Les deux voitures visent la même clientèle et affichent un gabarit quasiment identique. Le Hyundai Kona Hybride (4,355 m) dépasse le MG ZS Hybrid+ (4,323 m) de seulement 3 cm, un écart si faible qu'il ne se traduit par aucune différence perceptible à l'usage. Le Kona mise sur un design anguleux devenu la signature récente de Hyundai, tandis que le MG adopte une présentation plus classique, dans la continuité du langage stylistique désormais installé des marques chinoises généralistes (voir <a href="/actualites/design-chinois-identite-visuelle-marques-auto">notre article sur l'identité visuelle du design chinois</a>).</p>
+
+<h2>Motorisation : deux hybrides non rechargeables, deux réglages</h2>
+<p>Ici, pas de rupture technologique : ni le MG ZS Hybrid+ ni le Hyundai Kona Hybride n'acceptent de prise à brancher, les deux SUV se contentant d'une petite batterie rechargée au freinage et à la décélération (<a href="/actualites/hybride-vs-phev-comparatif-mg-byd">notre comparatif hybride vs hybride rechargeable</a> détaille cette distinction). La différence se joue donc sur le réglage et l'efficience : 6,5 €/100 km pour le Kona contre 8,0 €/100 km pour le MG, soit environ 23 % d'économie sur la facture de carburant en faveur du modèle coréen.</p>
+
+<h2>Performances : un net avantage chinois</h2>
+<ul>
+  <li><strong>MG ZS Hybrid+</strong> : 195 ch, 0 à 100 km/h en 8,7 s.</li>
+  <li><strong>Hyundai Kona Hybride</strong> : 141 ch, 0 à 100 km/h en 10,6 s.</li>
+</ul>
+<p>Avec 54 ch de plus et un 0 à 100 km/h avancé de 1,9 s, le MG ZS Hybrid+ prend un avantage net et immédiatement perceptible au quotidien, notamment lors des dépassements et des insertions sur voie rapide, un terrain où le Kona, plus sobre, se montre nettement moins vif.</p>
+
+<h2>Autonomie et coût à l'usage : match nul sur la route, avantage coréen au portefeuille</h2>
+<p>Sur l'autonomie totale, aucun écart : les deux SUV affichent environ 1 000 km entre deux pleins, un niveau typique des hybrides non rechargeables et largement suffisant pour les longs trajets (voir <a href="/actualites/top-10-voitures-chinoises-meilleure-autonomie-2026">notre classement des voitures chinoises à la meilleure autonomie</a>). Le coût énergétique départage en revanche nettement les deux SUV, avec une facture de carburant inférieure d'environ 23 % pour qui roule au quotidien avec le Kona.</p>
+
+<h2>Habitabilité et coffre : léger avantage coréen</h2>
+<p>Sur ce terrain, le Hyundai Kona conserve un léger avantage : 466 litres de coffre contre 443 litres pour le MG ZS Hybrid+, soit 23 litres d'écart en faveur du modèle coréen — un écart modeste qui ne change pas fondamentalement l'usage au quotidien. Les deux SUV affichent 5 places, largement suffisantes pour un usage familial classique.</p>
+
+<h2>Prix et garantie : l'équation bascule nettement côté chinois</h2>
+<p>Côté tarif, l'écart est net : environ 24 000 € pour le MG ZS Hybrid+ contre 30 000 € pour le Hyundai Kona Hybride, soit <strong>6 000 € de moins</strong> pour le modèle chinois (voir aussi <a href="/actualites/decote-voitures-chinoises-risque-mg-byd-2026">notre analyse de la décote des voitures chinoises</a>). L'écart se creuse également sur la garantie, où MG prend l'avantage : <strong>7 ans</strong> contre <strong>5 ans</strong> chez Hyundai, dans la lignée de la tendance de fond des marques chinoises sur ce terrain (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties constructeurs chinois</a>).</p>
+
+<h2>Sécurité et technologie</h2>
+<p>Sur la sécurité, aucun écart : les deux SUV affichent 5 étoiles Euro NCAP, confirmant la mise à niveau générale des voitures chinoises sur ce critère longtemps considéré comme leur point faible (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point complet sur la sécurité des voitures chinoises</a>). Côté technologie embarquée, les deux modèles affichent une dotation comparable en écrans et en aides à la conduite, sans écart net entre les deux constructeurs sur ce terrain.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>MG ZS Hybrid+</strong> : pour qui veut le tarif le plus serré, la garantie la plus longue et le plus de puissance, sans être gêné par un coffre légèrement plus petit ni une facture de carburant un peu plus salée.</li>
+  <li><strong>Hyundai Kona Hybride</strong> : pour qui veut le coffre le plus grand du duel et la facture de carburant la plus légère, sans chercher le tarif ni la garantie les plus avantageux.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Ce duel oppose deux logiques d'achat qui se jouent sur un gabarit quasi identique et un écart de prix qui, lui, ne l'est pas. Pour qui privilégie la facture de carburant la plus légère et un coffre un peu plus grand, le <strong>Hyundai Kona Hybride</strong> reste un choix pragmatique et éprouvé. Mais pour qui veut économiser 6 000 € à l'achat, gagner deux ans de garantie et 54 ch supplémentaires, sans rien perdre côté sécurité, le <strong>MG ZS Hybrid+</strong> propose une équation redoutablement convaincante — au prix, cette fois, d'un coffre un peu plus petit et d'une facture de carburant plus élevée.</p>
+`,
+  },
+  {
     slug: 'mg-hs-hybrid-vs-hyundai-tucson-suv-familial-hybride',
     title: 'MG HS Hybrid+ vs Hyundai Tucson Hybride : le grand SUV familial hybride chinois peut-il détrôner la référence coréenne ?',
     excerpt:
