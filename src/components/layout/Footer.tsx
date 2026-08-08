@@ -11,6 +11,12 @@ const footerNavigation = {
     { name: 'Geely', href: '/marques/geely' },
     { name: 'GWM', href: '/marques/gwm' },
     { name: 'Zeekr', href: '/marques/zeekr' },
+    { name: 'NIO', href: '/marques/nio' },
+    { name: 'XPeng', href: '/marques/xpeng' },
+    { name: 'Leapmotor', href: '/marques/leapmotor' },
+    { name: 'Lynk & Co', href: '/marques/lynk-co' },
+    { name: 'JAECOO', href: '/marques/jaecoo' },
+    { name: 'Changan', href: '/marques/changan' },
   ],
   support: [
     { name: 'À propos', href: '/a-propos' },

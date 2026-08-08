@@ -10,9 +10,9 @@ import { brandsQuery } from '@/src/lib/sanity/queries';
 import { toBrandSeed, type SanityBrand } from '@/src/lib/sanity/normalize';
 
 export const metadata: Metadata = {
-  title: 'Marques de voitures chinoises',
+  title: 'Toutes les marques de voitures chinoises — BYD, MG, NIO, XPeng et plus',
   description:
-    'Découvrez toutes les marques de voitures chinoises : BYD, MG, Chery, Geely, GWM, Zeekr. Histoire, modèles, prix et actualités.',
+    'Découvrez toutes les marques chinoises disponibles en Europe et en Afrique du Nord : BYD, MG, Chery, Geely, GWM, Zeekr, NIO, XPeng, Leapmotor, Lynk & Co, JAECOO, Changan. Fiches complètes, modèles et prix.',
   alternates: { canonical: '/marques' },
 };
 

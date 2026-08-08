@@ -31,6 +31,9 @@ export const BRANDS = [
   { name: 'NIO', slug: 'nio', country: 'Chine' },
   { name: 'XPeng', slug: 'xpeng', country: 'Chine' },
   { name: 'Leapmotor', slug: 'leapmotor', country: 'Chine' },
+  { name: 'Lynk & Co', slug: 'lynk-co', country: 'Chine' },
+  { name: 'JAECOO', slug: 'jaecoo', country: 'Chine' },
+  { name: 'Changan', slug: 'changan', country: 'Chine' },
 ] as const;
 
 export const CATEGORIES = [
