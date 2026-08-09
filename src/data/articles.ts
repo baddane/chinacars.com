@@ -19,6 +19,56 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'mg-hs-hybrid-vs-peugeot-3008-suv-familial-hybride',
+    title: 'MG HS Hybrid+ vs Peugeot 3008 Hybride : le grand SUV familial hybride chinois peut-il détrôner la référence hybride française ?',
+    excerpt:
+      "19 ch de plus, une garantie plus de deux fois plus longue et 6 000 € d'économie à l'achat, mais 50 km d'autonomie totale en moins et un coût énergétique environ 23 % plus élevé : le grand SUV familial hybride de MG affronte la référence hybride française. Verdict chiffré, sans concession.",
+    image: 'https://www.wandaloo.com/files/Voiture-Neuve/mg-hs-hev.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-08-09T09:00:00+02:00',
+    readingTime: 7,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux réponses opposées au même problème : le grand SUV familial hybride à moins de 40 000 €</h2>
+<p>D'un côté, le Peugeot 3008 Hybride : une référence installée du segment des SUV familiaux, portée par un habitacle très soigné et un réseau après-vente dense partout en France. De l'autre, le MG HS Hybrid+ : un SUV de gabarit proche, tout aussi hybride non rechargeable, mais vendu nettement moins cher, plus puissant et couvert par une garantie constructeur beaucoup plus longue. Sur le papier, l'écart de prix est déjà net — reste à savoir ce qu'il cache une fois les fiches techniques posées côte à côte.</p>
+
+<h2>Gabarit et style : deux grands SUV familiaux, deux philosophies</h2>
+<p>Les deux voitures visent la même clientèle, mais affichent un gabarit sensiblement différent. Le MG HS Hybrid+ (4,67 m) dépasse le Peugeot 3008 Hybride (4,54 m) de 13 cm, un écart qui se traduit par une silhouette plus imposante côté chinois. Le 3008 mise sur un habitacle très soigné et une planche de bord i-Cockpit devenue la signature de la marque, tandis que le MG adopte une présentation plus statutaire, dans la continuité du langage stylistique récent des marques chinoises (voir <a href="/actualites/design-chinois-identite-visuelle-marques-auto">notre article sur l'identité visuelle du design chinois</a>).</p>
+
+<h2>Motorisation : deux hybrides non rechargeables, deux réglages</h2>
+<p>Ici, pas de rupture technologique : ni le MG HS Hybrid+ ni le Peugeot 3008 Hybride n'acceptent de prise à brancher, les deux SUV se contentant d'une petite batterie rechargée au freinage et à la décélération (<a href="/actualites/hybride-vs-phev-comparatif-mg-byd">notre comparatif hybride vs hybride rechargeable</a> détaille cette distinction). La différence se joue donc sur le réglage et l'efficience : 6,9 €/100 km pour le 3008 contre 8,5 €/100 km pour le MG, soit environ 23 % d'économie sur la facture de carburant en faveur du modèle français.</p>
+
+<h2>Performances : un net avantage chinois</h2>
+<ul>
+  <li><strong>MG HS Hybrid+</strong> : 214 ch, 0 à 100 km/h en 8,0 s.</li>
+  <li><strong>Peugeot 3008 Hybride</strong> : 195 ch, 0 à 100 km/h en 8,9 s.</li>
+</ul>
+<p>Avec 19 ch de plus et un 0 à 100 km/h avancé de 0,9 s, le MG HS Hybrid+ prend un avantage net et immédiatement perceptible au quotidien, notamment lors des dépassements et des insertions sur voie rapide, un terrain où le 3008, plus sobre, se montre nettement moins vif.</p>
+
+<h2>Autonomie et coût à l'usage : léger avantage français</h2>
+<p>Sur l'autonomie totale, le Peugeot 3008 Hybride prend un léger avantage : environ 1 000 km entre deux pleins contre 950 km pour le MG HS Hybrid+, soit 50 km d'écart en faveur du modèle français (voir <a href="/actualites/top-10-voitures-chinoises-meilleure-autonomie-2026">notre classement des voitures chinoises à la meilleure autonomie</a>). Le coût énergétique confirme cette avance, avec une facture de carburant inférieure d'environ 23 % pour qui roule au quotidien avec le 3008.</p>
+
+<h2>Habitabilité et coffre : léger avantage français malgré un gabarit inférieur</h2>
+<p>Sur ce terrain, le Peugeot 3008 reprend un léger avantage malgré ses 13 cm de moins : 520 litres de coffre contre 507 litres pour le MG HS Hybrid+, soit 13 litres d'écart en faveur du modèle français — un écart modeste qui ne change pas fondamentalement l'usage au quotidien. Les deux SUV affichent 5 places, largement suffisantes pour un usage familial classique.</p>
+
+<h2>Prix et garantie : l'équation bascule nettement côté chinois</h2>
+<p>Côté tarif, l'écart est net : environ 32 000 € pour le MG HS Hybrid+ contre 38 000 € pour le Peugeot 3008 Hybride, soit <strong>6 000 € de moins</strong> pour le modèle chinois (voir aussi <a href="/actualites/decote-voitures-chinoises-risque-mg-byd-2026">notre analyse de la décote des voitures chinoises</a>). L'écart se creuse encore davantage sur la garantie, où MG prend un net avantage : <strong>7 ans</strong> contre seulement <strong>3 ans</strong> chez Peugeot, dans la lignée de la tendance de fond des marques chinoises sur ce terrain (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties constructeurs chinois</a>).</p>
+
+<h2>Sécurité et technologie</h2>
+<p>Sur la sécurité, aucun écart : les deux SUV affichent 5 étoiles Euro NCAP, confirmant la mise à niveau générale des voitures chinoises sur ce critère longtemps considéré comme leur point faible (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point complet sur la sécurité des voitures chinoises</a>). Côté technologie embarquée, le Peugeot 3008 prend un léger avantage avec une dotation un peu plus sophistiquée en écrans et en aides à la conduite, le MG restant complet sur l'essentiel sans rivaliser tout à fait sur ce terrain.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>MG HS Hybrid+</strong> : pour qui veut le tarif le plus serré, la garantie la plus longue et le plus de puissance, sans être gêné par un coffre légèrement plus petit ni une facture de carburant plus salée.</li>
+  <li><strong>Peugeot 3008 Hybride</strong> : pour qui veut le coffre le plus grand du duel, la facture de carburant la plus légère et une dotation technologique un peu plus riche, sans chercher le tarif ni la garantie les plus avantageux.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Ce duel oppose deux logiques d'achat qui se jouent sur un gabarit sensiblement différent et un écart de prix qui, lui, ne l'est pas. Pour qui privilégie la facture de carburant la plus légère et un habitacle particulièrement soigné, le <strong>Peugeot 3008 Hybride</strong> reste un choix pragmatique et éprouvé. Mais pour qui veut économiser 6 000 € à l'achat, gagner quatre ans de garantie et 19 ch supplémentaires, sans rien perdre côté sécurité, le <strong>MG HS Hybrid+</strong> propose une équation redoutablement convaincante — au prix, cette fois, d'un coffre un peu plus petit et d'une facture de carburant plus élevée.</p>
+`,
+  },
+  {
     slug: 'mg-zs-hybrid-vs-hyundai-kona-suv-urbain-hybride',
     title: 'MG ZS Hybrid+ vs Hyundai Kona Hybride : le SUV urbain hybride chinois peut-il détrôner la référence coréenne du segment ?',
     excerpt:
