@@ -19,6 +19,56 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'mg-zs-ev-vs-peugeot-2008-suv-urbain-electrique-essence',
+    title: 'MG ZS EV vs Peugeot 2008 : le SUV urbain 100 % électrique chinois peut-il détrôner l\'un des best-sellers essence de France ?',
+    excerpt:
+      "26 ch de plus, une garantie plus du double plus longue et un coût énergétique plus de deux fois inférieur, mais 610 km d'autonomie totale en moins et une recharge à prévoir : le SUV urbain 100 % électrique de MG affronte l'un des best-sellers essence de France, à prix quasi identique. Verdict chiffré, sans concession.",
+    image: 'https://www.wandaloo.com/files/Voiture-Neuve/mg-zs-ev.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-08-10T09:00:00+02:00',
+    readingTime: 7,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux réponses opposées au même problème : le SUV urbain accessible</h2>
+<p>D'un côté, le Peugeot 2008 : l'un des SUV urbains les plus vendus en France, porté par un réseau de concessions dense et une image de marque bien installée. De l'autre, le MG ZS EV : un SUV de gabarit quasiment identique, mais 100 % électrique, qui promet plus de puissance et une garantie bien plus longue, pour un ticket d'entrée à quelques centaines d'euros près. Sur le papier, l'écart de prix est anecdotique — reste à savoir ce que chaque motorisation implique une fois les fiches techniques posées côte à côte.</p>
+
+<h2>Gabarit et style : deux SUV urbains quasiment jumeaux</h2>
+<p>Les deux voitures visent la même clientèle et affichent un gabarit presque identique au centimètre près : le MG ZS EV (4,323 m) contre le Peugeot 2008 (4,304 m), un écart de 19 mm totalement anecdotique pour se garer en ville. Le Peugeot mise sur ses griffes lumineuses et son cockpit i-Cockpit devenus la signature de la marque au lion, tandis que le MG adopte une ligne plus arrondie et discrète, dans la continuité du langage stylistique récent du constructeur (voir <a href="/actualites/design-chinois-identite-visuelle-marques-auto">notre article sur l'identité visuelle du design chinois</a>).</p>
+
+<h2>Motorisation : 100 % électrique contre tout-essence</h2>
+<p>C'est là que les deux SUV divergent le plus nettement. Le MG ZS EV embarque une batterie de 64 kWh, rechargeable en courant continu jusqu'à 92 kW, sans jamais consommer une goutte de carburant. Le Peugeot 2008, lui, reste sur une motorisation essence classique, sans aucune assistance électrique. Résultat concret au quotidien : le MG se recharge sur prise ou borne comme n'importe quel véhicule électrique, quand le Peugeot se ravitaille en quelques minutes dans n'importe quelle station-service, sans jamais avoir à planifier un arrêt de recharge.</p>
+
+<h2>Performances : l'avantage chinois</h2>
+<ul>
+  <li><strong>MG ZS EV</strong> : 156 ch, 0 à 100 km/h en 8,6 s.</li>
+  <li><strong>Peugeot 2008</strong> : 130 ch, 0 à 100 km/h en 9,6 s.</li>
+</ul>
+<p>Avec 26 ch de plus et un 0 à 100 km/h avancé d'une seconde pile, le MG ZS EV prend un avantage net et immédiat au démarrage, porté par le couple disponible dès les premiers tours de roue propre aux motorisations électriques — un terrain où le petit moteur essence du 2008 doit composer avec un temps de réponse plus classique.</p>
+
+<h2>Autonomie et coût à l'usage : deux logiques opposées</h2>
+<p>Sur l'autonomie totale, le Peugeot 2008 garde une avance considérable grâce à son réservoir : environ 1 050 km contre 440 km pour le MG ZS EV, soit 610 km d'écart en faveur du modèle français — un classique de la confrontation entre électrique et thermique, sans prise à recharger sur les longs trajets (voir <a href="/actualites/top-10-voitures-chinoises-meilleure-autonomie-2026">notre classement des voitures chinoises à la meilleure autonomie</a>). Le rapport s'inverse totalement sur le coût énergétique : 3,5 €/100 km pour le MG contre 8,0 €/100 km pour le Peugeot, un coût plus de deux fois inférieur pour qui recharge à domicile.</p>
+
+<h2>Habitabilité et coffre : léger avantage chinois</h2>
+<p>Sur ce terrain, le MG ZS EV prend un léger avantage malgré sa batterie de traction : 448 litres de coffre contre 434 litres pour le Peugeot 2008, soit 14 litres d'écart en faveur du modèle chinois — un résultat qui tranche avec la plupart des duels électrique contre thermique, où la batterie grignote habituellement du volume utile. Les deux SUV affichent 5 places, largement suffisantes pour un usage familial classique.</p>
+
+<h2>Prix et garantie : un écart de prix anecdotique, un fossé sur la garantie</h2>
+<p>Côté tarif, l'écart est minime : environ 25 500 € pour le MG ZS EV contre 25 000 € pour le Peugeot 2008, soit seulement <strong>500 €</strong> d'écart — largement dans l'épaisseur du trait une fois les remises concessionnaires appliquées. La différence se creuse en revanche nettement sur la garantie, où MG prend un net avantage : <strong>7 ans</strong> contre seulement <strong>3 ans</strong> chez Peugeot, plus du double, dans la lignée de la tendance de fond des marques chinoises sur ce terrain (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties constructeurs chinois</a>).</p>
+
+<h2>Sécurité et technologie</h2>
+<p>Sur la sécurité, l'écart est net : 5 étoiles Euro NCAP pour le MG ZS EV contre 4 étoiles pour le Peugeot 2008, confirmant la mise à niveau générale des voitures chinoises sur ce critère longtemps considéré comme leur point faible (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point complet sur la sécurité des voitures chinoises</a>). Côté technologie embarquée, les deux modèles affichent une dotation comparable en écrans et en aides à la conduite, sans écart net entre les deux constructeurs sur ce terrain.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>MG ZS EV</strong> : pour qui peut recharger régulièrement à domicile ou au travail, veut plus de puissance, une meilleure note de sécurité et une garantie deux fois plus longue, sans être gêné par une autonomie totale plus courte sur les longs trajets (voir aussi <a href="/actualites/decote-voitures-chinoises-risque-mg-byd-2026">notre analyse de la décote des voitures chinoises</a>).</li>
+  <li><strong>Peugeot 2008</strong> : pour qui n'a pas de solution de recharge à domicile, veut la simplicité d'un plein en quelques minutes et un réseau de concessions dense, sans chercher la garantie ni la note de sécurité les plus avantageuses.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Ce duel oppose deux logiques d'achat à prix quasiment identique, ce qui est suffisamment rare pour être souligné. Pour qui n'a pas de solution de recharge à domicile et privilégie la simplicité d'un plein classique, le <strong>Peugeot 2008</strong> reste un choix pragmatique et éprouvé. Mais pour qui peut brancher sa voiture chaque soir et cherche plus de puissance, une garantie deux fois plus longue et une meilleure note de sécurité, sans même sacrifier le volume de coffre, le <strong>MG ZS EV</strong> propose une équation redoutablement convaincante — au prix, cette fois, d'une autonomie totale nettement inférieure entre deux recharges.</p>
+`,
+  },
+  {
     slug: 'mg-hs-hybrid-vs-peugeot-3008-suv-familial-hybride',
     title: 'MG HS Hybrid+ vs Peugeot 3008 Hybride : le grand SUV familial hybride chinois peut-il détrôner la référence hybride française ?',
     excerpt:
