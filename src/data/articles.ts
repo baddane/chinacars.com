@@ -5438,6 +5438,57 @@ export const articles: ArticleSeed[] = [
 <p>2026 ressemble bien à une année charnière : les voitures chinoises ont franchi les seuils critiques de la sécurité, du réseau et de la confiance, et leur part de marché progresse durablement. Des obstacles demeurent — taxes, bonus, méfiance résiduelle — mais les constructeurs chinois y répondent avec une agilité remarquable. La Chine a-t-elle définitivement conquis le cœur des Européens ? Peut-être pas totalement. Mais elle a franchi le point où son succès n'est plus une hypothèse, mais une tendance de fond. Et cela, c'est sans doute l'histoire automobile majeure de la décennie.</p>
 `,
   },
+  {
+    slug: 'chery-tiggo-8-pro-vs-hyundai-tucson-suv-7-places-hybride-familial',
+    title:
+      'Chery Tiggo 8 Pro vs Hyundai Tucson Hybride : le SUV 7 places chinois peut-il détrôner la référence hybride coréenne ?',
+    excerpt:
+      "111 ch de plus, deux places supplémentaires et une garantie deux ans plus longue, mais 220 litres de coffre en moins face à la référence hybride coréenne : le grand SUV hybride rechargeable de Chery affronte le Tucson Hybride, à prix quasi identique. Verdict chiffré, sans concession.",
+    image: 'https://www.wandaloo.com/files/Voiture-Neuve/chery-tiggo-8-pro-phev.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-08-27T09:00:00+02:00',
+    readingTime: 7,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le 7 places chinois face à la référence hybride coréenne</h2>
+<p>D'un côté, le Hyundai Tucson Hybride : un SUV familial devenu une référence incontournable du segment, porté par un réseau de concessions dense et une image de marque bien installée. De l'autre, le Chery Tiggo 8 Pro : un grand SUV hybride rechargeable qui joue une carte que le Tucson ne peut pas suivre — une troisième rangée de sièges — pour un ticket d'entrée à peine supérieur. Sur le papier, l'écart de prix reste contenu — reste à savoir ce que chaque configuration implique une fois les fiches techniques posées côte à côte.</p>
+
+<h2>Gabarit et style : un chinois nettement plus long</h2>
+<p>Sur la longueur, l'écart est net : le Chery Tiggo 8 Pro (4,722 m) contre le Hyundai Tucson Hybride (4,510 m), soit 212 mm de plus pour le SUV chinois — un gabarit qui se justifie par sa vocation 7 places, quand le Tucson reste cantonné à une configuration 5 places classique. Le Tucson mise sur des lignes anguleuses devenues la signature récente de la marque coréenne, tandis que le Tiggo 8 Pro adopte un style plus massif et chromé, à l'image des grands SUV familiaux chinois (voir <a href="/actualites/design-chinois-identite-visuelle-marques-auto">notre article sur l'identité visuelle du design chinois</a>).</p>
+
+<h2>Motorisation : hybride rechargeable contre hybride classique</h2>
+<p>C'est là que les deux SUV divergent le plus nettement. Le Chery Tiggo 8 Pro embarque une batterie de 18,3 kWh, rechargeable en courant continu jusqu'à 40 kW, permettant de couvrir une partie significative des trajets du quotidien en 100 % électrique avant de basculer sur le moteur thermique. Le Hyundai Tucson Hybride, lui, se contente d'une petite batterie de 1,5 kWh non rechargeable sur secteur, qui ne fait que soulager le moteur essence sans jamais permettre de rouler durablement sans lui (voir <a href="/actualites/hybride-vs-phev-comparatif-mg-byd">notre comparatif hybride contre hybride rechargeable</a>).</p>
+
+<h2>Performances : l'avantage chinois</h2>
+<ul>
+  <li><strong>Chery Tiggo 8 Pro</strong> : 326 ch, 0 à 100 km/h en 8,0 s.</li>
+  <li><strong>Hyundai Tucson Hybride</strong> : 215 ch, 0 à 100 km/h en 8,0 s.</li>
+</ul>
+<p>Avec 111 ch de plus, le Tiggo 8 Pro affiche un rapport poids-puissance nettement plus favorable sur le papier, mais les deux SUV se neutralisent exactement sur le 0 à 100 km/h, chronométré à 8,0 secondes pile des deux côtés — une parité qui tempère l'avantage brut en chevaux du chinois.</p>
+
+<h2>Autonomie et coût à l'usage : l'avantage à la prise</h2>
+<p>Sur l'autonomie totale, les deux SUV se tiennent exactement à égalité : environ 1 000 km entre deux pleins, aussi bien pour le Tiggo 8 Pro que pour le Tucson Hybride (voir <a href="/actualites/top-10-voitures-chinoises-meilleure-autonomie-2026">notre classement des voitures chinoises à la meilleure autonomie</a>). L'écart se joue en réalité sur le coût énergétique : 6,0 €/100 km pour le Tiggo 8 Pro contre 6,9 €/100 km pour le Tucson, soit un coût inférieur d'environ 13 % pour le chinois — à condition de recharger sa batterie régulièrement pour profiter des kilomètres électriques les moins chers.</p>
+
+<h2>Habitabilité et coffre : deux logiques opposées</h2>
+<p>Sur ce terrain, le verdict est partagé. Le Chery Tiggo 8 Pro l'emporte largement sur les places : 7 sièges contre 5 pour le Tucson Hybride, un avantage décisif pour les familles nombreuses qui doivent composer avec une troisième rangée. Le Tucson prend sa revanche sur le volume de coffre : 620 litres contre seulement 400 litres pour le Tiggo 8 Pro, un écart de 220 litres qui s'explique par la troisième rangée escamotable du SUV chinois, laquelle grignote nécessairement du volume utile une fois relevée.</p>
+
+<h2>Prix et garantie : un écart de prix contenu, un fossé sur la garantie</h2>
+<p>Côté tarif, l'écart reste raisonnable : environ 40 000 € pour le Chery Tiggo 8 Pro contre 38 000 € pour le Hyundai Tucson Hybride, soit <strong>2 000 €</strong> de plus pour la version chinoise — une prime logique compte tenu de la troisième rangée et de la puissance supplémentaire. La différence se creuse nettement sur la garantie, où Chery prend un net avantage : <strong>7 ans</strong> contre seulement <strong>5 ans</strong> chez Hyundai, dans la lignée de la tendance de fond des marques chinoises sur ce terrain (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties constructeurs chinois</a>).</p>
+
+<h2>Sécurité et technologie</h2>
+<p>Sur la sécurité, aucune surprise : 5 étoiles Euro NCAP des deux côtés, confirmant la mise à niveau générale des voitures chinoises sur ce critère longtemps considéré comme leur point faible (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point complet sur la sécurité des voitures chinoises</a>). Côté technologie embarquée, les deux modèles affichent un score identique, sans écart net entre les deux constructeurs sur ce terrain.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>Chery Tiggo 8 Pro</strong> : pour les familles nombreuses qui ont besoin d'une troisième rangée, veulent plus de puissance, une garantie deux ans plus longue et un coût énergétique plus bas en rechargeant régulièrement, sans être gênées par un coffre plus petit une fois les 7 places utilisées.</li>
+  <li><strong>Hyundai Tucson Hybride</strong> : pour qui reste sur une configuration 5 places classique et privilégie un grand coffre, un réseau de concessions dense et une image de marque bien installée, sans chercher la garantie la plus longue ni la troisième rangée.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Ce duel oppose deux façons de concevoir le grand SUV familial, à prix presque identique. Pour qui n'a pas besoin de 7 places et privilégie un volume de coffre généreux avec un réseau de concessions éprouvé, le <strong>Hyundai Tucson Hybride</strong> reste une valeur sûre. Mais pour les familles nombreuses prêtes à sacrifier un peu de volume de coffre contre une troisième rangée, plus de puissance et une garantie deux ans plus longue, le <strong>Chery Tiggo 8 Pro</strong> propose une équation redoutablement convaincante — à condition de recharger sa batterie pour profiter pleinement de son avantage sur le coût à l'usage. Pour aller plus loin, retrouvez notre <a href="/comparateur/chery-tiggo-8-pro-vs-hyundai-tucson">comparatif technique interactif complet</a>.</p>
+`,
+  },
 ];
 
 export function formatArticleDate(iso: string): string {
