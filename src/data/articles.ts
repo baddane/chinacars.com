@@ -19,6 +19,56 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'byd-seal-u-vs-citroen-c5-aircross-suv-familial-electrique-hybride',
+    title: "BYD Seal U vs Citroën C5 Aircross Hybride : le grand SUV familial 100 % électrique chinois peut-il détrôner l'hybride star de Citroën ?",
+    excerpt:
+      "38 ch de plus, une garantie trois fois plus longue et un coût énergétique deux fois inférieur, mais 500 km d'autonomie totale en moins et 155 litres de coffre en moins : le grand SUV familial 100 % électrique de BYD affronte l'hybride phare de Citroën, à prix nettement supérieur. Verdict chiffré, sans concession.",
+    image: 'https://www.wandaloo.com/files/Voiture-Neuve/byd-seal-u-phev.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-09-03T09:00:00+02:00',
+    readingTime: 7,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux réponses opposées au même problème : le grand SUV familial électrifié</h2>
+<p>D'un côté, le Citroën C5 Aircross Hybride : un grand SUV familial installé en France depuis des années, porté par son confort de suspension et un réseau après-vente dense. De l'autre, le BYD Seal U : un SUV de gabarit supérieur, mais 100 % électrique, qui promet plus de puissance et une garantie trois fois plus longue, pour un ticket d'entrée cette fois nettement supérieur. Sur le papier, c'est le Citroën qui reste le moins cher à l'achat — reste à savoir ce que cet écart cache une fois les fiches techniques posées côte à côte.</p>
+
+<h2>Gabarit et style : l'avantage chinois</h2>
+<p>Les deux SUV ne visent pas tout à fait le même gabarit : le BYD Seal U (4,79 m) dépasse le Citroën C5 Aircross (4,50 m) de 29 cm, un écart qui se traduit par un habitacle sensiblement plus spacieux côté chinois. Le Citroën mise sur ses Airbumps et ses sièges Advanced Comfort devenus une signature de la marque aux chevrons, tandis que le BYD adopte une présentation plus statutaire, dans la continuité du langage stylistique récent des marques chinoises (voir <a href="/actualites/design-chinois-identite-visuelle-marques-auto">notre article sur l'identité visuelle du design chinois</a>).</p>
+
+<h2>Motorisation : 100 % électrique contre hybride auto-rechargeant</h2>
+<p>C'est là que les deux SUV divergent le plus nettement. Le BYD Seal U embarque une batterie de 87 kWh, rechargeable en courant continu jusqu'à 140 kW, sans jamais consommer une goutte de carburant. Le Citroën C5 Aircross Hybride, lui, se contente d'une petite batterie de 1,5 kWh qui se recharge uniquement au freinage et à la décélération, sans jamais accepter de prise — la même philosophie que les hybrides auto-rechargeants concurrents (voir <a href="/actualites/hybride-vs-phev-comparatif-mg-byd">notre comparatif hybride vs hybride rechargeable</a>). Résultat concret : le BYD se recharge sur borne comme n'importe quel véhicule électrique, quand le Citroën reste, comme tous les hybrides classiques, alimenté uniquement à la pompe.</p>
+
+<h2>Performances : un avantage chinois mesuré</h2>
+<ul>
+  <li><strong>BYD Seal U</strong> : 218 ch, 0 à 100 km/h en 8,9 s.</li>
+  <li><strong>Citroën C5 Aircross Hybride</strong> : 180 ch, 0 à 100 km/h en 8,7 s.</li>
+</ul>
+<p>Avec 38 ch de plus mais un 0 à 100 km/h très légèrement supérieur (8,9 s contre 8,7 s), le BYD Seal U affiche une puissance affichée nettement supérieure sans la transformer en avance chronométrée, les deux SUV offrant un agrément de conduite comparable au démarrage.</p>
+
+<h2>Autonomie et coût à l'usage : l'électrique contre l'hybride, un match sans surprise</h2>
+<p>Sur l'autonomie totale, le Citroën C5 Aircross Hybride prend une avance considérable : environ 1 000 km entre deux pleins contre 500 km pour le BYD Seal U, soit 500 km d'écart en faveur du modèle français — un classique de la confrontation entre électrique et hybride, sans prise à recharger sur les longs trajets (voir <a href="/actualites/top-10-voitures-chinoises-meilleure-autonomie-2026">notre classement des voitures chinoises à la meilleure autonomie</a>). Le rapport s'inverse totalement sur le coût énergétique : 3,5 €/100 km pour le BYD contre 7,0 €/100 km pour le Citroën, un coût exactement deux fois inférieur pour qui recharge à domicile.</p>
+
+<h2>Habitabilité et coffre : l'avantage français</h2>
+<p>Sur ce terrain, le Citroën C5 Aircross Hybride reprend nettement l'avantage malgré un gabarit inférieur : 580 litres de coffre contre 425 litres pour le BYD Seal U, soit 155 litres d'écart en faveur du modèle français — la volumineuse batterie du modèle chinois grignotant une bonne partie du volume utile. Les deux SUV affichent 5 places, largement suffisantes pour un usage familial classique.</p>
+
+<h2>Prix et garantie : l'équation se complique côté chinois</h2>
+<p>Côté tarif, c'est cette fois le Citroën qui l'emporte nettement : environ 36 000 € pour le C5 Aircross Hybride contre 43 600 € pour le BYD Seal U, soit <strong>7 600 € de plus</strong> à débourser pour le modèle chinois (voir aussi <a href="/actualites/decote-voitures-chinoises-risque-mg-byd-2026">notre analyse de la décote des voitures chinoises</a>). L'écart se rééquilibre très largement sur la garantie, où BYD prend un avantage écrasant : <strong>6 ans</strong> contre <strong>2 ans</strong> seulement chez Citroën — trois fois plus longue, dans la lignée de la tendance de fond des marques chinoises sur ce terrain (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties constructeurs chinois</a>).</p>
+
+<h2>Sécurité et technologie</h2>
+<p>Sur la sécurité, aucun écart : les deux SUV affichent 5 étoiles Euro NCAP, confirmant la mise à niveau générale des voitures chinoises sur ce critère longtemps considéré comme leur point faible (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point complet sur la sécurité des voitures chinoises</a>). Côté technologie embarquée, les deux SUV se tiennent également dans un mouchoir de poche, avec une dotation comparable en écrans et en aides à la conduite de série.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>BYD Seal U</strong> : pour qui roule majoritairement en ville et en périurbain, peut recharger à domicile ou au travail, et veut une garantie trois fois plus longue pour un coût à l'usage deux fois inférieur, sans être gêné par un ticket d'entrée nettement supérieur.</li>
+  <li><strong>Citroën C5 Aircross Hybride</strong> : pour qui multiplie les longs trajets sans accès simple à une recharge, veut le plus grand coffre et privilégie le ticket d'entrée le plus bas.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Ce duel oppose deux logiques d'achat qui divergent nettement, cette fois au bénéfice du tarif et de l'autonomie français. Pour qui multiplie les longs trajets et cherche le plus grand coffre au prix le plus bas, le <strong>Citroën C5 Aircross Hybride</strong> reste un choix pragmatique et éprouvé. Mais pour qui roule surtout au quotidien, peut recharger régulièrement à domicile et veut une garantie trois fois plus longue, le <strong>BYD Seal U</strong> propose une équation convaincante — au prix, cette fois, d'un ticket d'entrée nettement plus élevé et d'un coffre plus modeste.</p>
+`,
+  },
+  {
     slug: 'mg-zs-ev-vs-peugeot-2008-suv-urbain-electrique-essence',
     title: 'MG ZS EV vs Peugeot 2008 : le SUV urbain 100 % électrique chinois peut-il détrôner l\'un des best-sellers essence de France ?',
     excerpt:
