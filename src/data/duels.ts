@@ -30,6 +30,7 @@ export const COMPARISON_DUELS: Array<[string, string]> = [
   ['byd-seagull', 'renault-5-e-tech'],
   ['peugeot-e-208', 'byd-seagull'],
   ['gwm-ora-03', 'dacia-spring'],
+  ['gwm-ora-03', 'peugeot-208'],
   ['mg3-hybrid', 'renault-clio-e-tech'],
   ['mg3-hybrid', 'toyota-yaris'],
   ['dacia-sandero', 'mg3-hybrid'],

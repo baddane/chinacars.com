@@ -19,6 +19,56 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'gwm-ora-03-vs-peugeot-208-citadine-electrique-essence',
+    title: 'GWM Ora 03 vs Peugeot 208 : la citadine 100 % électrique chinoise au design rétro peut-elle détrôner la citadine essence la plus vendue de France ?',
+    excerpt:
+      "71 ch de plus, une garantie plus de deux fois plus longue et un coût énergétique plus de deux fois inférieur, mais 710 km d'autonomie totale en moins et 10 000 € plus chère à l'achat : la citadine 100 % électrique de GWM affronte la citadine essence la plus vendue de France. Verdict chiffré, sans concession.",
+    image: 'https://www.wandaloo.com/files/Voiture-Neuve/gwm-ora-03.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-08-11T09:00:00+02:00',
+    readingTime: 7,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux réponses opposées au même problème : la citadine pour rouler en ville sans se ruiner</h2>
+<p>D'un côté, la Peugeot 208 : la citadine essence la plus vendue de France, portée par un réseau de concessions dense et une image de marque installée de longue date. De l'autre, la GWM Ora 03 : une citadine de gabarit supérieur, 100 % électrique, au design rétro assumé, plus puissante et couverte par une garantie constructeur beaucoup plus longue — mais vendue nettement plus cher. Sur le papier, l'écart de prix est déjà net en défaveur du modèle chinois — reste à savoir ce qu'il cache une fois les fiches techniques posées côte à côte.</p>
+
+<h2>Gabarit et style : deux citadines, deux philosophies</h2>
+<p>Les deux voitures visent la même clientèle, mais affichent un gabarit sensiblement différent. La GWM Ora 03 (4,235 m) dépasse la Peugeot 208 (4,055 m) de 18 cm, un écart qui se traduit par une silhouette plus imposante côté chinois. La 208 mise sur ses griffes lumineuses et son cockpit i-Cockpit devenus la signature de la marque au lion, tandis que l'Ora 03 assume un design rétro directement inspiré des coupés européens des années 1970, dans la continuité du langage stylistique singulier de GWM (voir <a href="/actualites/design-chinois-identite-visuelle-marques-auto">notre article sur l'identité visuelle du design chinois</a>).</p>
+
+<h2>Motorisation : 100 % électrique contre tout-essence</h2>
+<p>C'est là que les deux citadines divergent le plus nettement. La GWM Ora 03 embarque une batterie de 63 kWh, rechargeable en courant continu jusqu'à 64 kW, sans jamais consommer une goutte de carburant. La Peugeot 208, elle, reste sur une motorisation essence classique, sans aucune assistance électrique. Résultat concret au quotidien : l'Ora 03 se recharge sur prise ou borne comme n'importe quel véhicule électrique, quand la 208 se ravitaille en quelques minutes dans n'importe quelle station-service, sans jamais avoir à planifier un arrêt de recharge.</p>
+
+<h2>Performances : l'avantage chinois</h2>
+<ul>
+  <li><strong>GWM Ora 03</strong> : 171 ch, 0 à 100 km/h en 8,2 s.</li>
+  <li><strong>Peugeot 208</strong> : 100 ch, 0 à 100 km/h en 10,8 s.</li>
+</ul>
+<p>Avec 71 ch de plus et un 0 à 100 km/h avancé de 2,6 secondes, l'Ora 03 prend un avantage net et immédiat au démarrage, porté par le couple disponible dès les premiers tours de roue propre aux motorisations électriques — un terrain où le petit moteur essence de la 208 doit composer avec un temps de réponse plus classique.</p>
+
+<h2>Autonomie et coût à l'usage : deux logiques opposées</h2>
+<p>Sur l'autonomie totale, la Peugeot 208 garde une avance considérable grâce à son réservoir : environ 1 050 km contre 340 km pour la GWM Ora 03, soit 710 km d'écart en faveur du modèle français — un classique de la confrontation entre électrique et thermique, sans prise à recharger sur les longs trajets (voir <a href="/actualites/top-10-voitures-chinoises-meilleure-autonomie-2026">notre classement des voitures chinoises à la meilleure autonomie</a>). Le rapport s'inverse totalement sur le coût énergétique : 3,6 €/100 km pour l'Ora 03 contre 8,2 €/100 km pour la 208, soit un coût plus de deux fois inférieur pour qui recharge à domicile.</p>
+
+<h2>Habitabilité et coffre : léger avantage français</h2>
+<p>Sur ce terrain, la Peugeot 208 reprend l'avantage malgré son gabarit plus compact : 311 litres de coffre contre 228 litres pour la GWM Ora 03, soit 83 litres d'écart en faveur du modèle français — la batterie de traction de l'Ora 03 grignote ici un volume utile non négligeable pour une citadine. Les deux voitures affichent 5 places, largement suffisantes pour un usage urbain classique.</p>
+
+<h2>Prix et garantie : l'équation bascule nettement côté français</h2>
+<p>Côté tarif, l'écart est net et pour une fois en défaveur du modèle chinois : environ 30 000 € pour la GWM Ora 03 contre 20 000 € pour la Peugeot 208, soit <strong>10 000 € de plus</strong> pour l'électrique chinoise (voir aussi <a href="/actualites/decote-voitures-chinoises-risque-mg-byd-2026">notre analyse de la décote des voitures chinoises</a>). L'écart se rééquilibre en revanche nettement sur la garantie, où GWM prend un net avantage : <strong>7 ans</strong> contre seulement <strong>3 ans</strong> chez Peugeot, plus du double, dans la lignée de la tendance de fond des marques chinoises sur ce terrain (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties constructeurs chinois</a>).</p>
+
+<h2>Sécurité et technologie</h2>
+<p>Sur la sécurité, l'écart est net : 5 étoiles Euro NCAP pour la GWM Ora 03 contre 4 étoiles pour la Peugeot 208, confirmant la mise à niveau générale des voitures chinoises sur ce critère longtemps considéré comme leur point faible (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point complet sur la sécurité des voitures chinoises</a>). Côté technologie embarquée, les deux citadines affichent une dotation comparable en écrans et en aides à la conduite, sans écart net entre les deux constructeurs sur ce terrain.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>GWM Ora 03</strong> : pour qui peut recharger régulièrement à domicile ou au travail, veut plus de puissance, une meilleure note de sécurité et une garantie deux fois plus longue, sans être gêné par un budget plus élevé ni un coffre plus restreint.</li>
+  <li><strong>Peugeot 208</strong> : pour qui cherche le tarif le plus serré, la simplicité d'un plein en quelques minutes et un réseau de concessions dense, sans chercher la garantie ni la note de sécurité les plus avantageuses.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Ce duel oppose deux logiques d'achat où, fait suffisamment rare pour être souligné, c'est cette fois le modèle chinois qui coûte le plus cher à l'achat. Pour qui cherche le tarif le plus serré et un plein classique en quelques minutes, la <strong>Peugeot 208</strong> reste un choix pragmatique et éprouvé. Mais pour qui peut brancher sa voiture chaque soir et cherche plus de puissance, une garantie deux fois plus longue et une meilleure note de sécurité, la <strong>GWM Ora 03</strong> propose une équation singulière, assumée jusque dans son design rétro — au prix, cette fois, d'un budget nettement plus élevé et d'une autonomie totale bien inférieure entre deux recharges.</p>
+`,
+  },
+  {
     slug: 'mg-zs-ev-vs-peugeot-2008-suv-urbain-electrique-essence',
     title: 'MG ZS EV vs Peugeot 2008 : le SUV urbain 100 % électrique chinois peut-il détrôner l\'un des best-sellers essence de France ?',
     excerpt:
