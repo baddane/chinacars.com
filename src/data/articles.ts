@@ -19,6 +19,56 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'gwm-wey-05-vs-peugeot-3008-suv-familial-phev-hybride',
+    title: 'GWM Wey 05 vs Peugeot 3008 Hybride : le SUV hybride rechargeable le plus puissant de GWM peut-il justifier son surcoût face à la référence hybride familiale française ?',
+    excerpt:
+      "281 ch de plus, une garantie plus du double plus longue et un coût énergétique environ 20 % inférieur en rechargeant à domicile, mais 17 000 € plus cher à l'achat : le SUV hybride rechargeable le plus puissant de GWM affronte la référence hybride familiale française, sur un gabarit 33 cm plus long. Verdict chiffré, sans concession.",
+    image: 'https://www.wandaloo.com/files/Voiture-Neuve/gwm-wey-05.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-09-13T09:00:00+02:00',
+    readingTime: 7,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux réponses opposées au même problème : le grand SUV familial, du mainstream au premium</h2>
+<p>D'un côté, le Peugeot 3008 Hybride : une référence installée du segment des SUV familiaux, portée par un habitacle très soigné et un réseau après-vente dense partout en France. De l'autre, le GWM Wey 05 : le SUV hybride rechargeable le plus puissant de la gamme GWM, nettement plus grand, radicalement plus puissant, mais aussi bien plus cher à l'achat. Sur le papier, l'écart de prix est déjà considérable — reste à savoir ce qu'il achète réellement une fois les fiches techniques posées côte à côte.</p>
+
+<h2>Gabarit et style : un écart de taille qui ne trompe pas</h2>
+<p>Les deux voitures visent une clientèle familiale, mais affichent un gabarit très différent. Le GWM Wey 05 (4,875 m) dépasse le Peugeot 3008 Hybride (4,542 m) de 33,3 cm, un écart qui se traduit par une silhouette nettement plus imposante côté chinois, proche d'un grand SUV coupé premium. Le 3008 mise sur un habitacle très soigné et sa planche de bord i-Cockpit devenue la signature de la marque, tandis que le Wey 05 adopte une présentation statutaire assumée, avec une calandre verticale massive typique du positionnement haut de gamme récent de GWM (voir <a href="/actualites/design-chinois-identite-visuelle-marques-auto">notre article sur l'identité visuelle du design chinois</a>).</p>
+
+<h2>Motorisation : hybride rechargeable contre hybride simple, une vraie rupture technologique</h2>
+<p>Contrairement à un duel entre deux hybrides non rechargeables, celui-ci oppose deux logiques distinctes. Le GWM Wey 05 embarque une batterie de 34 kWh, rechargeable en courant continu jusqu'à 50 kW, capable de parcourir une bonne partie des trajets quotidiens en 100 % électrique avant de basculer sur son moteur thermique. Le Peugeot 3008 Hybride, lui, se contente d'une petite batterie de 1,8 kWh rechargée uniquement au freinage et à la décélération, sans jamais accepter de prise (<a href="/actualites/hybride-vs-phev-comparatif-mg-byd">notre comparatif hybride vs hybride rechargeable</a> détaille cette distinction). Résultat concret : pour qui peut recharger régulièrement, le Wey 05 promet un coût énergétique nettement inférieur ; pour qui ne branche jamais sa voiture, l'avantage s'amenuise fortement.</p>
+
+<h2>Performances : un écart abyssal en faveur du chinois</h2>
+<ul>
+  <li><strong>GWM Wey 05</strong> : 476 ch, 0 à 100 km/h en 5,0 s.</li>
+  <li><strong>Peugeot 3008 Hybride</strong> : 195 ch, 0 à 100 km/h en 8,9 s.</li>
+</ul>
+<p>Avec 281 ch de plus — plus du double de la puissance du 3008 — et un 0 à 100 km/h avancé de 3,9 s, le GWM Wey 05 évolue dans une tout autre catégorie de performances, plus proche d'un SUV sportif que d'un SUV familial classique. Le Peugeot 3008, plus sobre et plus mesuré, reste largement suffisant pour un usage quotidien mais ne rivalise à aucun moment sur ce terrain.</p>
+
+<h2>Autonomie et coût à l'usage : égalité sur la distance, avantage chinois sur la facture</h2>
+<p>Sur l'autonomie totale, aucune différence : environ 1 000 km entre deux pleins pour les deux SUV, batterie et réservoir combinés (voir <a href="/actualites/top-10-voitures-chinoises-meilleure-autonomie-2026">notre classement des voitures chinoises à la meilleure autonomie</a>). Le coût énergétique penche en revanche du côté chinois pour qui recharge à domicile : 5,5 €/100 km pour le Wey 05 contre 6,9 €/100 km pour le 3008, soit environ 20 % d'économie sur la facture — un avantage qui suppose toutefois un accès régulier à une prise, sans quoi l'écart se resserre nettement.</p>
+
+<h2>Habitabilité et coffre : léger avantage chinois, cohérent avec le gabarit</h2>
+<p>Sur ce terrain, le GWM Wey 05 prend un léger avantage, en cohérence avec ses 33 cm de plus : 560 litres de coffre contre 520 litres pour le Peugeot 3008 Hybride, soit 40 litres d'écart en faveur du modèle chinois. Les deux SUV affichent 5 places, largement suffisantes pour un usage familial classique.</p>
+
+<h2>Prix et garantie : l'équation bascule nettement côté français</h2>
+<p>Côté tarif, l'écart est cette fois très net en défaveur du chinois : environ 55 000 € pour le GWM Wey 05 contre 38 000 € pour le Peugeot 3008 Hybride, soit <strong>17 000 € de plus</strong> pour le modèle chinois (voir aussi <a href="/actualites/decote-voitures-chinoises-risque-mg-byd-2026">notre analyse de la décote des voitures chinoises</a>). L'écart se referme en revanche sur la garantie, où GWM reprend un net avantage : <strong>7 ans</strong> contre seulement <strong>3 ans</strong> chez Peugeot, dans la lignée de la tendance de fond des marques chinoises sur ce terrain (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties constructeurs chinois</a>).</p>
+
+<h2>Sécurité et technologie</h2>
+<p>Sur la sécurité, aucun écart : les deux SUV affichent 5 étoiles Euro NCAP, confirmant la mise à niveau générale des voitures chinoises sur ce critère longtemps considéré comme leur point faible (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point complet sur la sécurité des voitures chinoises</a>). Côté technologie embarquée, le GWM Wey 05 prend un léger avantage avec une dotation un peu plus sophistiquée en écrans et en aides à la conduite, cohérente avec son positionnement plus haut de gamme.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>GWM Wey 05</strong> : pour qui veut un maximum de puissance, un gabarit imposant, une garantie deux fois plus longue et peut recharger régulièrement à domicile, sans être arrêté par un ticket d'entrée nettement plus élevé.</li>
+  <li><strong>Peugeot 3008 Hybride</strong> : pour qui veut le tarif le plus serré du duel, un gabarit plus compact à manier en ville et n'a pas besoin d'une puissance excédentaire, sans chercher la garantie ni le coffre les plus généreux.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Ce duel oppose deux logiques d'achat qui se jouent autant sur le gabarit et la puissance que sur le prix. Pour qui privilégie un tarif contenu et un usage familial sans excès, le <strong>Peugeot 3008 Hybride</strong> reste un choix pragmatique et éprouvé. Mais pour qui peut recharger à domicile et cherche un grand SUV nettement plus puissant, avec une garantie deux fois plus longue et un coffre plus généreux, le <strong>GWM Wey 05</strong> propose une équation convaincante — au prix, cette fois, d'un investissement de départ 17 000 € plus élevé.</p>
+`,
+  },
+  {
     slug: 'mg-zs-ev-vs-peugeot-2008-suv-urbain-electrique-essence',
     title: 'MG ZS EV vs Peugeot 2008 : le SUV urbain 100 % électrique chinois peut-il détrôner l\'un des best-sellers essence de France ?',
     excerpt:
