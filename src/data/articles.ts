@@ -19,6 +19,56 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'mg-marvel-r-vs-xpeng-g6-suv-electrique-chinois',
+    title: 'MG Marvel R vs XPeng G6 : quel SUV coupé 100 % électrique chinois choisir en 2026 ?',
+    excerpt:
+      "123 km d'autonomie en plus, un coffre 60 % plus grand et une recharge trois fois plus rapide, mais 1 000 € et deux ans de garantie de moins : le XPeng G6 affronte le MG Marvel R dans le duel interne le plus serré du catalogue électrique chinois. Verdict chiffré, sans concession.",
+    image: 'https://www.wandaloo.com/files/Voiture-Neuve/mg-marvel-r.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-09-14T09:00:00+02:00',
+    readingTime: 7,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux réponses opposées au même problème : le SUV coupé 100 % électrique chinois à moins de 45 000 €</h2>
+<p>Cette fois, pas de référence européenne à détrôner : le duel se joue entre deux constructeurs chinois qui visent exactement le même client. D'un côté, le MG Marvel R, SUV coupé électrique vendu depuis plusieurs années et déjà installé sur le marché. De l'autre, le XPeng G6, arrivé plus récemment avec une architecture électrique nettement plus moderne. Prix d'entrée quasi identique, gabarit voisin — reste à savoir ce que cache l'écart d'à peine 1 000 € une fois les fiches techniques posées côte à côte.</p>
+
+<h2>Gabarit et style : deux SUV électriques de la même classe</h2>
+<p>Les deux voitures visent le même segment avec un gabarit proche : le XPeng G6 (4,753 m) dépasse le MG Marvel R (4,674 m) de 79 mm, un écart qui reste modeste au quotidien mais qui se ressent dans l'habitacle. Le Marvel R mise sur une silhouette de SUV coupé fuyante héritée du design Roewe/MG des années 2020, tandis que le G6 adopte un langage plus récent, plus anguleux, dans la continuité du style affiché par les dernières générations XPeng (voir <a href="/actualites/design-chinois-identite-visuelle-marques-auto">notre article sur l'identité visuelle du design chinois</a>).</p>
+
+<h2>Motorisation et recharge : même énergie, deux générations d'écart</h2>
+<p>Aucune divergence sur le principe : les deux SUV sont 100 % électriques, sans une goutte de carburant à prévoir. La différence se joue sur l'architecture. Le MG Marvel R embarque une batterie de 70 kWh, rechargeable en courant continu jusqu'à 92 kW. Le XPeng G6 va nettement plus loin avec une batterie de 87,5 kWh et une recharge rapide plafonnée à 280 kW, soit <strong>trois fois plus rapide</strong> — un écart qui rappelle l'avance générale des architectures 800V chinoises les plus récentes (voir <a href="/actualites/charge-800v-zeekr-xpeng-humilient-constructeurs-historiques">notre article sur la charge 800V chez Zeekr et XPeng</a>, et <a href="/actualites/xpeng-g6-vs-tesla-model-y-recharge-rapide">notre comparatif XPeng G6 vs Tesla Model Y sur ce même critère</a>).</p>
+
+<h2>Performances : l'écart se joue ailleurs que sur la fiche moteur</h2>
+<ul>
+  <li><strong>MG Marvel R</strong> : 288 ch, 0 à 100 km/h en 4,9 s.</li>
+  <li><strong>XPeng G6</strong> : 296 ch, 0 à 100 km/h en 6,9 s.</li>
+</ul>
+<p>Sur le papier, le XPeng G6 affiche 8 ch de plus, mais c'est bien le MG Marvel R qui l'emporte largement au chronomètre avec un 0 à 100 km/h avancé de deux secondes pleines — signe d'un rapport poids/puissance nettement plus favorable côté MG, malgré une puissance affichée légèrement inférieure.</p>
+
+<h2>Autonomie et coût à l'usage : l'avantage XPeng est massif</h2>
+<p>Sur l'autonomie, l'écart est net : 525 km pour le XPeng G6 contre 402 km pour le MG Marvel R, soit <strong>123 km de plus</strong> en faveur du modèle XPeng (voir <a href="/actualites/top-10-voitures-chinoises-meilleure-autonomie-2026">notre classement des voitures chinoises à la meilleure autonomie</a>). Le coût énergétique, lui, ne départage presque pas les deux SUV : 3,5 €/100 km pour le G6 contre 3,6 €/100 km pour le Marvel R, un écart anecdotique une fois rapporté à un plein.</p>
+
+<h2>Habitabilité et coffre : un écart qui change tout</h2>
+<p>C'est là que le duel bascule le plus nettement : 571 litres de coffre pour le XPeng G6 contre seulement 357 litres pour le MG Marvel R, soit <strong>214 litres d'écart</strong> — près de 60 % de volume utile en plus côté XPeng, un chiffre qui pèse lourd pour qui voyage en famille ou charge régulièrement le coffre. Les deux SUV affichent 5 places, sans écart sur ce point.</p>
+
+<h2>Prix et garantie : MG reprend la main</h2>
+<p>Côté tarif, l'écart reste modeste : environ 42 000 € pour le MG Marvel R contre 43 000 € pour le XPeng G6, soit <strong>1 000 €</strong> de moins pour le modèle MG (voir aussi <a href="/actualites/decote-voitures-chinoises-risque-mg-byd-2026">notre analyse de la décote des voitures chinoises</a>). L'écart se creuse en revanche sur la garantie, où MG conserve son argument traditionnel : <strong>7 ans</strong> contre seulement <strong>5 ans</strong> chez XPeng, dans la lignée de la politique de garantie généreuse de la marque (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties constructeurs chinois</a>).</p>
+
+<h2>Sécurité et technologie</h2>
+<p>Sur la sécurité, aucun écart : les deux SUV affichent 5 étoiles Euro NCAP, confirmant le niveau désormais installé des voitures chinoises sur ce critère (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point complet sur la sécurité des voitures chinoises</a>). Côté technologie embarquée en revanche, le XPeng G6 prend clairement l'avantage avec une dotation plus sophistiquée en aides à la conduite et en interface logicielle, fidèle à la réputation de la marque sur ce terrain, quand le Marvel R reste complet sur l'essentiel sans rivaliser tout à fait.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>MG Marvel R</strong> : pour qui veut le tarif le plus serré, la garantie la plus longue et les accélérations les plus franches, sans être gêné par un coffre nettement plus petit ni une recharge plus lente.</li>
+  <li><strong>XPeng G6</strong> : pour qui roule beaucoup, veut l'autonomie et la recharge les plus rapides du duel ainsi que le coffre le plus grand, sans chercher le tarif ni la garantie les plus avantageux.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Ce duel 100 % chinois oppose deux logiques d'achat à prix quasiment identique. Pour qui privilégie le budget serré, la garantie la plus longue et un tempérament plus vif au démarrage, le <strong>MG Marvel R</strong> reste un choix pragmatique et déjà éprouvé. Mais pour qui roule sur de longues distances et veut le meilleur de la technologie chinoise récente — autonomie supérieure, recharge trois fois plus rapide et coffre 60 % plus grand — le <strong>XPeng G6</strong> propose une équation nettement plus convaincante, au prix, cette fois, d'une garantie deux ans plus courte.</p>
+`,
+  },
+  {
     slug: 'mg-zs-ev-vs-peugeot-2008-suv-urbain-electrique-essence',
     title: 'MG ZS EV vs Peugeot 2008 : le SUV urbain 100 % électrique chinois peut-il détrôner l\'un des best-sellers essence de France ?',
     excerpt:

@@ -89,6 +89,7 @@ export const COMPARISON_DUELS: Array<[string, string]> = [
   ['byd-atto-2', 'citroen-c3-aircross'],
 
   // --- Chinoises entre elles ---
+  ['mg-marvel-r', 'xpeng-g6'],
   ['byd-atto-3', 'omoda-e5'],
   ['byd-atto-3', 'mg-zs-ev'],
   ['mg-zs-hybrid', 'omoda-5-shs-h'],
