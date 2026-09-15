@@ -20,6 +20,7 @@ export const COMPARISON_DUELS: Array<[string, string]> = [
   ['zeekr-x', 'byd-atto-3'],
   ['geely-geometry-c', 'mg-zs-ev'],
   ['xpeng-g6', 'vw-tiguan'],
+  ['xpeng-g6', 'vw-t-roc'],
   ['jaecoo-7', 'vw-tiguan'],
   ['jaecoo-7', 'peugeot-3008'],
   ['hyundai-tucson', 'jaecoo-7'],

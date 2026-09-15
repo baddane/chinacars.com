@@ -19,6 +19,56 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'xpeng-g6-vs-vw-t-roc-suv-compact-electrique-essence',
+    title: "XPeng G6 vs Volkswagen T-Roc : le SUV compact électrique chinois peut-il détrôner l'un des SUV essence les plus vendus d'Europe ?",
+    excerpt:
+      "146 ch de plus, une garantie deux fois et demie plus longue et une facture d'énergie plus de deux fois moins chère, mais 475 km d'autonomie totale en moins et 11 000 € de plus à l'achat : le SUV compact 100 % électrique de XPeng affronte l'un des SUV essence les plus vendus d'Europe. Verdict chiffré, sans concession.",
+    image: 'https://www.wandaloo.com/files/Voiture-Neuve/xpeng-g6.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-09-15T09:00:00+02:00',
+    readingTime: 7,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux réponses opposées au même problème : le SUV compact à moins de 45 000 €</h2>
+<p>D'un côté, le Volkswagen T-Roc : l'un des SUV compacts essence les plus vendus en Europe, porté par un réseau de concessions dense et une image de marque installée depuis des décennies. De l'autre, le XPeng G6 : un SUV de gabarit supérieur, 100 % électrique, nettement plus puissant et couvert par une garantie constructeur bien plus longue, pour un ticket d'entrée à peine plus élevé. Sur le papier, l'écart de prix reste contenu — reste à savoir ce qu'il cache une fois les fiches techniques posées côte à côte.</p>
+
+<h2>Gabarit et style : deux SUV compacts, deux générations</h2>
+<p>Les deux voitures visent une clientèle proche, mais affichent un gabarit sensiblement différent : le XPeng G6 (4,753 m) dépasse le Volkswagen T-Roc (4,234 m) de 52 cm, un écart net qui se traduit par un empattement et une habitabilité arrière plus généreux côté chinois. Le T-Roc mise sur des lignes robustes et un cockpit numérique devenus la signature de la marque au sigle VW, tandis que le G6 adopte un langage plus fuyant et plus récent, dans la continuité du style affiché par les dernières générations XPeng (voir <a href="/actualites/design-chinois-identite-visuelle-marques-auto">notre article sur l'identité visuelle du design chinois</a>).</p>
+
+<h2>Motorisation et recharge : 100 % électrique contre tout-essence</h2>
+<p>C'est là que les deux SUV divergent le plus nettement. Le XPeng G6 embarque une batterie de 87,5 kWh, rechargeable en courant continu jusqu'à 280 kW grâce à son architecture rapide, sans jamais consommer une goutte de carburant (voir <a href="/actualites/charge-800v-zeekr-xpeng-humilient-constructeurs-historiques">notre article sur la charge rapide chez Zeekr et XPeng</a>). Le Volkswagen T-Roc, lui, reste sur une motorisation essence classique, sans aucune assistance électrique. Résultat concret au quotidien : le G6 se recharge sur borne comme n'importe quel véhicule électrique, quand le T-Roc se ravitaille en quelques minutes dans n'importe quelle station-service, sans jamais avoir à planifier un arrêt de recharge.</p>
+
+<h2>Performances : l'avantage chinois est massif</h2>
+<ul>
+  <li><strong>XPeng G6</strong> : 296 ch, 0 à 100 km/h en 6,9 s.</li>
+  <li><strong>Volkswagen T-Roc</strong> : 150 ch, 0 à 100 km/h en 8,4 s.</li>
+</ul>
+<p>Avec 146 ch de plus et un 0 à 100 km/h avancé de 1,5 s, le XPeng G6 prend un avantage écrasant au démarrage, porté par le couple disponible dès les premiers tours de roue propre aux motorisations électriques — un terrain où le petit moteur essence du T-Roc doit composer avec un temps de réponse nettement plus classique.</p>
+
+<h2>Autonomie et coût à l'usage : deux logiques opposées</h2>
+<p>Sur l'autonomie totale, le Volkswagen T-Roc garde une avance considérable grâce à son réservoir : environ 1 000 km contre 525 km pour le XPeng G6, soit <strong>475 km</strong> d'écart en faveur du modèle allemand — un classique de la confrontation entre électrique et thermique, sans prise à recharger sur les longs trajets (voir <a href="/actualites/top-10-voitures-chinoises-meilleure-autonomie-2026">notre classement des voitures chinoises à la meilleure autonomie</a>). Le rapport s'inverse totalement sur le coût énergétique : 3,5 €/100 km pour le G6 contre 7,6 €/100 km pour le T-Roc, soit un coût plus de deux fois inférieur pour qui recharge à domicile.</p>
+
+<h2>Habitabilité et coffre : un écart net en faveur du G6</h2>
+<p>Sur ce terrain, le XPeng G6 prend un avantage marqué malgré sa batterie de traction : 571 litres de coffre contre 445 litres pour le Volkswagen T-Roc, soit <strong>126 litres</strong> d'écart en faveur du modèle chinois — un résultat qui confirme l'avantage de gabarit du G6 sur ce duel. Les deux SUV affichent 5 places, largement suffisantes pour un usage familial classique.</p>
+
+<h2>Prix et garantie : le T-Roc moins cher, le G6 mieux couvert</h2>
+<p>Côté tarif, l'écart reste net : environ 43 000 € pour le XPeng G6 contre 32 000 € pour le Volkswagen T-Roc, soit <strong>11 000 €</strong> de plus pour le modèle chinois (voir aussi <a href="/actualites/decote-voitures-chinoises-risque-mg-byd-2026">notre analyse de la décote des voitures chinoises</a>). L'écart se creuse en revanche totalement à l'inverse sur la garantie, où XPeng prend un avantage écrasant : <strong>5 ans</strong> contre seulement <strong>2 ans</strong> chez Volkswagen, plus de deux fois plus longue, dans la lignée de la générosité habituelle des marques chinoises sur ce terrain (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties constructeurs chinois</a>).</p>
+
+<h2>Sécurité et technologie</h2>
+<p>Sur la sécurité, aucun écart : les deux SUV affichent 5 étoiles Euro NCAP, confirmant le niveau désormais installé des voitures chinoises sur ce critère (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point complet sur la sécurité des voitures chinoises</a>). Côté technologie embarquée en revanche, le XPeng G6 prend un net avantage avec une dotation bien plus sophistiquée en aides à la conduite et en interface logicielle, fidèle à la réputation de la marque sur ce terrain (voir <a href="/actualites/xpeng-g6-vs-tesla-model-y-recharge-rapide">notre comparatif XPeng G6 vs Tesla Model Y sur la recharge</a>), quand le T-Roc reste complet sur l'essentiel sans rivaliser.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>XPeng G6</strong> : pour qui peut recharger régulièrement à domicile ou au travail, veut nettement plus de puissance, un coffre plus grand et une garantie deux fois et demie plus longue, sans être gêné par un surcoût à l'achat ni une autonomie totale plus courte sur les longs trajets.</li>
+  <li><strong>Volkswagen T-Roc</strong> : pour qui n'a pas de solution de recharge à domicile, veut la simplicité d'un plein en quelques minutes et le tarif d'entrée le plus serré, sans chercher la garantie ni les performances les plus avantageuses.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Ce duel oppose deux logiques d'achat que 11 000 € seulement séparent. Pour qui n'a pas de solution de recharge à domicile et privilégie la simplicité d'un plein classique au tarif le plus serré, le <strong>Volkswagen T-Roc</strong> reste un choix pragmatique et éprouvé. Mais pour qui peut brancher sa voiture chaque soir et cherche nettement plus de puissance, un coffre plus grand et une garantie deux fois et demie plus longue, le <strong>XPeng G6</strong> propose une équation redoutablement convaincante — au prix, cette fois, d'une autonomie totale nettement inférieure entre deux recharges.</p>
+`,
+  },
+  {
     slug: 'mg-marvel-r-vs-xpeng-g6-suv-electrique-chinois',
     title: 'MG Marvel R vs XPeng G6 : quel SUV coupé 100 % électrique chinois choisir en 2026 ?',
     excerpt:
