@@ -19,6 +19,56 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'byd-atto-3-vs-geely-geometry-c-suv-electrique-chinois',
+    title: 'BYD Atto 3 vs Geely Geometry C : quel SUV compact électrique chinois choisir sous 40 000 € ?',
+    excerpt:
+      "Même puissance affichée sur la fiche technique (204 ch), mais 5 000 € d'écart de prix, 60 litres de coffre en plus d'un côté et une accélération plus franche de l'autre : le BYD Atto 3 affronte la Geely Geometry C dans un duel interne où chaque euro compte. Verdict chiffré, sans concession.",
+    image: 'https://www.wandaloo.com/files/Voiture-Neuve/byd-atto-3.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-09-16T09:00:00+02:00',
+    readingTime: 7,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Même puissance affichée, deux stratégies opposées sous 40 000 €</h2>
+<p>Sur le papier, les deux SUV compacts électriques affichent exactement la même puissance : 204 ch. Pourtant, une fois les fiches techniques posées côte à côte, le BYD Atto 3 et la Geely Geometry C racontent deux histoires différentes. D'un côté, le Atto 3, installé depuis plusieurs années et positionné plus haut en gamme. De l'autre, la Geometry C, arrivée plus récemment avec un tarif nettement plus agressif. Reste à savoir ce que cache l'écart de 5 000 € une fois les chiffres comparés poste par poste.</p>
+
+<h2>Gabarit et style : deux SUV compacts presque jumeaux</h2>
+<p>Les deux voitures visent un gabarit quasi identique : le BYD Atto 3 (4,455 m) ne dépasse la Geely Geometry C (4,432 m) que de 23 mm, un écart invisible au quotidien. Le Atto 3 mise sur un style extérieur et intérieur volontairement décalé, avec une planche de bord aux formes rondes assumées, tandis que la Geometry C adopte une silhouette plus sobre et plus consensuelle, dans la lignée du design Geely destiné à rassurer une clientèle plus classique (voir <a href="/actualites/design-chinois-identite-visuelle-marques-auto">notre article sur l'identité visuelle du design chinois</a>).</p>
+
+<h2>Batterie et recharge : moins de kWh, mais plus vite chez Geely</h2>
+<p>Les deux SUV sont 100 % électriques, mais l'architecture diffère nettement. Le BYD Atto 3 embarque une batterie de 60 kWh, rechargeable en courant continu jusqu'à 88 kW. La Geely Geometry C se contente d'une batterie plus modeste de 53 kWh, mais rattrape le terrain avec une recharge rapide plafonnée à 100 kW, soit 12 kW de plus que le BYD — un choix qui privilégie les arrêts courts sur autoroute plutôt qu'une grosse capacité embarquée (voir <a href="/actualites/charge-800v-zeekr-xpeng-humilient-constructeurs-historiques">notre article sur la course à la charge rapide chez les constructeurs chinois</a>).</p>
+
+<h2>Performances : la Geometry C plus vive malgré une batterie plus petite</h2>
+<ul>
+  <li><strong>BYD Atto 3</strong> : 204 ch, 0 à 100 km/h en 7,3 s.</li>
+  <li><strong>Geely Geometry C</strong> : 204 ch, 0 à 100 km/h en 6,9 s.</li>
+</ul>
+<p>À puissance identique, c'est bien la Geometry C qui l'emporte au chronomètre, avec un 0 à 100 km/h avancé de 0,4 seconde — signe d'un rapport poids/puissance plus favorable côté Geely, malgré une batterie 7 kWh plus petite que celle du BYD.</p>
+
+<h2>Autonomie et coût à l'usage : l'avantage BYD reste mesuré</h2>
+<p>Sur l'autonomie, l'écart est resserré : 420 km pour le BYD Atto 3 contre 400 km pour la Geely Geometry C, soit seulement 20 km de plus en faveur du BYD (voir <a href="/actualites/top-10-voitures-chinoises-meilleure-autonomie-2026">notre classement des voitures chinoises à la meilleure autonomie</a>) — un écart modeste compte tenu des 7 kWh de batterie supplémentaires du Atto 3, qui se montre ainsi moins efficient au kWh. Le coût énergétique, lui, ne départage pas les deux SUV : 3,4 €/100 km dans les deux cas.</p>
+
+<h2>Habitabilité et coffre : le BYD conserve l'avantage</h2>
+<p>Côté coffre, l'écart est net : 440 litres pour le BYD Atto 3 contre 380 litres pour la Geely Geometry C, soit 60 litres d'écart — près de 16 % de volume utile en plus côté BYD, un chiffre qui compte pour les familles ou les gros rangements. Les deux SUV affichent 5 places, sans différence sur ce point.</p>
+
+<h2>Prix et garantie : la Geometry C reprend la main sur le budget</h2>
+<p>Côté tarif, l'écart devient déterminant : environ 33 000 € pour la Geely Geometry C contre 38 000 € pour le BYD Atto 3, soit 5 000 € de moins pour le modèle Geely (voir aussi <a href="/actualites/decote-voitures-chinoises-risque-mg-byd-2026">notre analyse de la décote des voitures chinoises</a>). L'écart s'inverse en revanche sur la garantie : BYD conserve son argument traditionnel avec 6 ans contre seulement 5 ans chez Geely, dans la lignée de la politique de garantie généreuse de la marque (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties constructeurs chinois</a>).</p>
+
+<h2>Sécurité et technologie</h2>
+<p>Sur la sécurité, aucun écart : les deux SUV affichent 5 étoiles Euro NCAP, confirmant le niveau désormais installé des voitures chinoises sur ce critère (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point complet sur la sécurité des voitures chinoises</a>). Côté technologie embarquée en revanche, le BYD Atto 3 prend l'avantage avec une dotation un cran plus sophistiquée, quand la Geometry C reste correcte sur l'essentiel sans rivaliser tout à fait.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>BYD Atto 3</strong> : pour qui veut le coffre le plus grand, la garantie la plus longue et la dotation technologique la plus complète, sans être gêné par un tarif plus élevé.</li>
+  <li><strong>Geely Geometry C</strong> : pour qui veut le tarif le plus serré, une recharge rapide plus véloce et des accélérations plus franches, sans chercher le coffre ni la garantie les plus généreux.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Ce duel interne oppose deux logiques d'achat à puissance strictement identique. Pour qui privilégie le budget le plus serré, une recharge plus rapide et un tempérament plus vif au démarrage, la <strong>Geely Geometry C</strong> propose une équation redoutable à moins de 35 000 €. Mais pour qui veut le coffre le plus grand, la garantie la plus longue et la dotation technologique la plus aboutie du duel, le <strong>BYD Atto 3</strong> justifie son supplément de 5 000 € par des arguments concrets, au quotidien comme sur la durée.</p>
+`,
+  },
+  {
     slug: 'mg-marvel-r-vs-xpeng-g6-suv-electrique-chinois',
     title: 'MG Marvel R vs XPeng G6 : quel SUV coupé 100 % électrique chinois choisir en 2026 ?',
     excerpt:
