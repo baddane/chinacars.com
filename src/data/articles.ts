@@ -19,6 +19,56 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'mg-hs-hybrid-vs-jaecoo-7-suv-familial-chinois',
+    title: 'MG HS Hybrid+ vs Jaecoo 7 : hybride sans prise ou PHEV rechargeable, quel SUV familial chinois choisir ?',
+    excerpt:
+      "214 ch et jamais besoin de prise d'un côté, 18,3 kWh de batterie et 1 200 km d'autonomie combinée de l'autre : le MG HS Hybrid+ et le Jaecoo 7 abordent l'hybridation à l'opposé l'un de l'autre, pour 3 000 € d'écart. Verdict chiffré entre confort d'usage et coût à la pompe.",
+    image: 'https://www.wandaloo.com/files/Voiture-Neuve/mg-hs-hev.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-09-17T09:00:00+02:00',
+    readingTime: 7,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux SUV familiaux chinois, deux philosophies de l'hybridation</h2>
+<p>Sur le papier, le MG HS Hybrid+ et le Jaecoo 7 visent la même clientèle : une famille qui veut un SUV spacieux sans passer au tout électrique. Mais leurs technologies n'ont rien à voir. Le MG mise sur un hybride classique, sans prise, qui se recharge lui-même en roulant. Le Jaecoo, lui, embarque une vraie batterie de 18,3 kWh rechargeable sur secteur, capable de rouler en électrique pur sur de courtes distances. Deux approches, un même objectif : réduire la facture de carburant sans les contraintes du 100 % électrique.</p>
+
+<h2>Gabarit : le MG HS Hybrid+ nettement plus long</h2>
+<p>Malgré un classement dans le même segment « SUV familial », l'écart de gabarit est net : le MG HS Hybrid+ (4,67 m) dépasse le Jaecoo 7 (4,50 m) de 170 mm, un écart qui se ressent surtout à l'arrière et dans le coffre. Le Jaecoo compense par un style plus musclé et une face avant plus imposante, hérité du design maison Chery (voir <a href="/actualites/design-chinois-identite-visuelle-marques-auto">notre article sur l'identité visuelle du design chinois</a>).</p>
+
+<h2>Motorisation : hybride autonome contre PHEV rechargeable</h2>
+<p>C'est là que les deux SUV divergent complètement. Le MG HS Hybrid+ développe 214 ch avec une toute petite batterie de 2 kWh, jamais rechargeable sur secteur : elle sert uniquement à récupérer l'énergie au freinage et à soulager le moteur thermique à basse vitesse. Le Jaecoo 7 affiche 204 ch, un peu moins que le MG, mais avec une batterie 18,3 kWh rechargeable en courant continu jusqu'à 40 kW, suffisante pour parcourir plusieurs dizaines de kilomètres en 100 % électrique avant que le moteur essence ne prenne le relais (voir <a href="/actualites/hybride-vs-phev-comparatif-mg-byd">notre comparatif hybride vs hybride rechargeable chez MG et BYD</a>).</p>
+
+<h2>Performances : le MG plus véloce malgré une puissance proche</h2>
+<ul>
+  <li><strong>MG HS Hybrid+</strong> : 214 ch, 0 à 100 km/h en 8,0 s.</li>
+  <li><strong>Jaecoo 7</strong> : 204 ch, 0 à 100 km/h en 8,5 s.</li>
+</ul>
+<p>Avec 10 ch de plus, le MG HS Hybrid+ se montre également plus rapide au chronomètre, avec un 0 à 100 km/h avancé de 0,5 seconde. Un écart qui reste modeste au quotidien, les deux SUV visant avant tout le confort plutôt que la sportivité.</p>
+
+<h2>Autonomie et coût à l'usage : l'avantage bascule nettement côté Jaecoo</h2>
+<p>Sur l'autonomie totale, le Jaecoo 7 prend une large avance : 1 200 km entre deux pleins contre 950 km pour le MG HS Hybrid+, soit 250 km de plus grâce à sa batterie rechargeable qui vient s'ajouter au réservoir essence. L'écart est encore plus marqué sur le coût énergétique : 5,5 €/100 km pour le Jaecoo 7 contre 8,5 €/100 km pour le MG HS Hybrid+, soit près de 35 % d'économie en faveur du Jaecoo — à condition de le recharger régulièrement sur une prise ou une borne (voir <a href="/actualites/entretien-voiture-chinoise-france-reseaux-sav">notre point sur les réseaux d'entretien des voitures chinoises en France</a>). Sans recharge, le Jaecoo roule comme un hybride classique plus lourd, et l'avantage économique s'amenuise fortement.</p>
+
+<h2>Habitabilité et coffre : un écart minime malgré la différence de longueur</h2>
+<p>Malgré ses 170 mm de longueur en plus, le MG HS Hybrid+ ne conserve qu'un léger avantage côté coffre : 507 litres contre 500 litres pour le Jaecoo 7, soit à peine 7 litres d'écart. Les deux SUV affichent 5 places, sans différence sur ce point.</p>
+
+<h2>Prix et garantie : le MG moins cher, la garantie à égalité</h2>
+<p>Côté tarif, le MG HS Hybrid+ démarre à 32 000 €, soit 3 000 € de moins que le Jaecoo 7 affiché à 35 000 €. Un écart qui reflète surtout le coût de la batterie rechargeable du Jaecoo. Sur la garantie en revanche, aucune différence : les deux marques alignent 7 ans, dans la lignée des politiques de garantie généreuses désormais standard chez les constructeurs chinois (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties constructeurs chinois</a>).</p>
+
+<h2>Sécurité et technologie</h2>
+<p>Sur la sécurité, aucun écart : les deux SUV affichent 5 étoiles Euro NCAP (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point complet sur la sécurité des voitures chinoises</a>). Côté technologie embarquée, le Jaecoo 7 prend un léger avantage grâce à une dotation un cran plus sophistiquée, portée par son architecture PHEV plus récente.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>MG HS Hybrid+</strong> : pour qui ne veut jamais se soucier d'une prise, roule surtout sur de longs trajets et privilégie le tarif le plus serré et le plus grand coffre du duel.</li>
+  <li><strong>Jaecoo 7</strong> : pour qui a accès à une prise ou une borne au quotidien, veut réduire nettement sa facture de carburant et profiter d'une autonomie totale plus importante.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Ce duel oppose deux façons d'aborder l'hybridation. Pour qui n'a pas de solution de recharge simple ou veut la solution la plus simple d'usage, le <strong>MG HS Hybrid+</strong> reste imbattable : jamais de prise, un tarif plus accessible et un coffre légèrement plus grand. Mais pour qui peut recharger régulièrement, le <strong>Jaecoo 7</strong> transforme ses 3 000 € de supplément en économies concrètes à la pompe, avec une autonomie totale supérieure et une dotation technologique plus complète.</p>
+`,
+  },
+  {
     slug: 'byd-atto-3-vs-geely-geometry-c-suv-electrique-chinois',
     title: 'BYD Atto 3 vs Geely Geometry C : quel SUV compact électrique chinois choisir sous 40 000 € ?',
     excerpt:
