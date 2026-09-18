@@ -19,6 +19,56 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'byd-atto-3-evo-vs-xpeng-g6-suv-electrique-chinois',
+    title: 'BYD Atto 3 Evo vs XPeng G6 : quel SUV compact 100 % électrique chinois choisir en 2026 ?',
+    excerpt:
+      "92 ch de plus, un coffre 30 % plus grand et une recharge presque deux fois plus rapide, mais 4 000 € et un an de garantie de moins : le XPeng G6 affronte le BYD Atto 3 Evo dans un duel 100 % chinois où chaque argument compte. Verdict chiffré, sans concession.",
+    image: 'https://www.wandaloo.com/files/Voiture-Neuve/byd-atto-3-evo.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-09-18T09:00:00+02:00',
+    readingTime: 7,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux réponses chinoises au même cahier des charges : le SUV compact électrique à moins de 45 000 €</h2>
+<p>Pas de rivale européenne à détrôner cette fois : le duel se joue entre deux constructeurs chinois qui visent exactement le même acheteur. D'un côté, le BYD Atto 3 Evo, version rafraîchie d'un modèle déjà largement installé en Europe. De l'autre, le XPeng G6, arrivé plus récemment avec une architecture électrique nettement plus moderne. Écart de prix limité à 4 000 €, gabarit voisin — reste à savoir ce que cache cette différence une fois les fiches techniques posées côte à côte.</p>
+
+<h2>Gabarit et style : le XPeng nettement plus long</h2>
+<p>Malgré un classement dans le même segment « SUV compact », l'écart de gabarit est net : le XPeng G6 (4,753 m) dépasse le BYD Atto 3 Evo (4,455 m) de 298 mm, un écart qui se ressent directement dans l'habitacle et le coffre. Le Atto 3 Evo conserve la silhouette assumée et la planche de bord aux formes rondes qui ont fait la signature du modèle depuis son lancement, tandis que le G6 adopte un langage plus anguleux et plus récent, dans la continuité du style affiché par les dernières générations XPeng (voir <a href="/actualites/design-chinois-identite-visuelle-marques-auto">notre article sur l'identité visuelle du design chinois</a>).</p>
+
+<h2>Motorisation et recharge : même énergie, deux générations d'écart</h2>
+<p>Aucune divergence sur le principe : les deux SUV sont 100 % électriques, sans une goutte de carburant à prévoir. La différence se joue sur l'architecture. Le BYD Atto 3 Evo embarque une batterie de 60 kWh, rechargeable en courant continu jusqu'à 150 kW. Le XPeng G6 va nettement plus loin avec une batterie de 87,5 kWh et une recharge rapide plafonnée à 280 kW, soit près du double — un écart qui rappelle l'avance des architectures 800V chinoises les plus récentes (voir <a href="/actualites/charge-800v-zeekr-xpeng-humilient-constructeurs-historiques">notre article sur la charge 800V chez Zeekr et XPeng</a>).</p>
+
+<h2>Performances : le XPeng plus véloce et plus puissant</h2>
+<ul>
+  <li><strong>BYD Atto 3 Evo</strong> : 204 ch, 0 à 100 km/h en 7,3 s.</li>
+  <li><strong>XPeng G6</strong> : 296 ch, 0 à 100 km/h en 6,9 s.</li>
+</ul>
+<p>Avec 92 ch de plus, le XPeng G6 l'emporte logiquement au chronomètre, avec un 0 à 100 km/h avancé de 0,4 seconde. Un écart de puissance conséquent qui ne se traduit pourtant pas par un gouffre à l'accélération, le Atto 3 Evo restant dans le jeu grâce à un rapport poids/puissance correct pour la catégorie.</p>
+
+<h2>Autonomie et coût à l'usage : un écart resserré malgré des batteries très différentes</h2>
+<p>Sur l'autonomie, l'écart reste modeste : 525 km pour le XPeng G6 contre 500 km pour le BYD Atto 3 Evo, soit seulement 25 km de plus en faveur du modèle XPeng (voir <a href="/actualites/top-10-voitures-chinoises-meilleure-autonomie-2026">notre classement des voitures chinoises à la meilleure autonomie</a>) — un écart resserré compte tenu des 27,5 kWh de batterie supplémentaires du G6, qui se montre ainsi moins efficient au kWh consommé. Le coût énergétique, lui, ne départage presque pas les deux SUV : 3,4 €/100 km pour le BYD contre 3,5 €/100 km pour le XPeng.</p>
+
+<h2>Habitabilité et coffre : l'avantage XPeng est net</h2>
+<p>C'est là que le duel bascule le plus nettement : 571 litres de coffre pour le XPeng G6 contre 440 litres pour le BYD Atto 3 Evo, soit 131 litres d'écart — près de 30 % de volume utile en plus côté XPeng, un chiffre qui pèse pour les familles ou les gros rangements. Les deux SUV affichent 5 places, sans écart sur ce point.</p>
+
+<h2>Prix et garantie : BYD reprend la main</h2>
+<p>Côté tarif, l'écart est net : environ 39 000 € pour le BYD Atto 3 Evo contre 43 000 € pour le XPeng G6, soit 4 000 € de moins pour le modèle BYD (voir aussi <a href="/actualites/decote-voitures-chinoises-risque-mg-byd-2026">notre analyse de la décote des voitures chinoises</a>). L'écart se confirme sur la garantie, où BYD conserve son argument traditionnel : 6 ans contre seulement 5 ans chez XPeng, dans la lignée de la politique de garantie généreuse de la marque (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties constructeurs chinois</a>).</p>
+
+<h2>Sécurité et technologie</h2>
+<p>Sur la sécurité, aucun écart : les deux SUV affichent 5 étoiles Euro NCAP, confirmant le niveau désormais installé des voitures chinoises sur ce critère (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point complet sur la sécurité des voitures chinoises</a>). Côté technologie embarquée en revanche, le XPeng G6 prend clairement l'avantage avec une dotation plus sophistiquée en aides à la conduite et en interface logicielle, fidèle à la réputation de la marque sur ce terrain, quand le Atto 3 Evo reste correct sur l'essentiel sans rivaliser tout à fait.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>BYD Atto 3 Evo</strong> : pour qui veut le tarif le plus serré du duel, la garantie la plus longue et un modèle déjà éprouvé sur les routes européennes, sans être gêné par un coffre plus petit ni une recharge deux fois plus lente.</li>
+  <li><strong>XPeng G6</strong> : pour qui roule beaucoup, veut la puissance, l'autonomie et la recharge les plus rapides du duel ainsi que le coffre le plus grand, sans chercher le tarif ni la garantie les plus avantageux.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Ce duel 100 % chinois oppose une valeur sûre à une architecture plus ambitieuse. Pour qui privilégie le budget le plus serré, la garantie la plus longue et un modèle déjà éprouvé, le <strong>BYD Atto 3 Evo</strong> reste un choix pragmatique et sans mauvaise surprise. Mais pour qui roule sur de longues distances et veut le meilleur de la technologie chinoise récente — puissance supérieure, recharge presque deux fois plus rapide et coffre 30 % plus grand — le <strong>XPeng G6</strong> justifie son supplément de 4 000 € par des arguments concrets, au prix d'un an de garantie en moins.</p>
+`,
+  },
+  {
     slug: 'mg-hs-hybrid-vs-jaecoo-7-suv-familial-chinois',
     title: 'MG HS Hybrid+ vs Jaecoo 7 : hybride sans prise ou PHEV rechargeable, quel SUV familial chinois choisir ?',
     excerpt:
