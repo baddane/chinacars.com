@@ -19,6 +19,56 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'omoda-e5-vs-geely-geometry-c-suv-compact-electrique-chinois',
+    title: 'Omoda E5 vs Geely Geometry C : quel SUV compact électrique chinois choisir ?',
+    excerpt:
+      "Même puissance au chronomètre (204 ch), une longueur presque identique au millimètre près, mais 6 600 € d'écart et deux philosophies opposées sur la batterie et la garantie : l'Omoda E5 affronte la Geely Geometry C dans un duel électrique chinois très serré. Verdict chiffré, sans concession.",
+    image: 'https://www.wandaloo.com/files/Voiture-Neuve/omoda-e5.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-09-19T09:00:00+02:00',
+    readingTime: 7,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux SUV compacts électriques chinois, presque jumeaux sur le papier</h2>
+<p>Difficile de trouver duel plus serré sur le gabarit : l'Omoda E5 et la Geely Geometry C visent très exactement le même acheteur, avec une longueur qui ne diffère que de 8 mm. Pourtant, une fois les fiches techniques posées côte à côte, les deux SUV racontent deux histoires différentes : l'un mise sur l'autonomie et la garantie longue durée, l'autre sur le tarif serré et la recharge rapide. Reste à savoir lequel des deux arguments pèse le plus lourd une fois l'écart de 6 600 € pris en compte.</p>
+
+<h2>Gabarit et style : deux SUV compacts quasiment jumeaux</h2>
+<p>Les deux voitures affichent un gabarit presque identique : l'Omoda E5 (4,424 m) ne dépasse la Geely Geometry C (4,432 m) que de... 8 mm, un écart totalement invisible au quotidien. L'Omoda E5 mise sur une silhouette élégante et une face avant discrète héritée du design maison Chery, tandis que la Geometry C adopte des lignes plus consensuelles, dans la lignée du style Geely destiné à rassurer une clientèle familiale (voir <a href="/actualites/design-chinois-identite-visuelle-marques-auto">notre article sur l'identité visuelle du design chinois</a>).</p>
+
+<h2>Batterie et recharge : plus de kWh chez Omoda, plus vite chez Geely</h2>
+<p>Les deux SUV sont 100 % électriques, mais l'architecture diverge nettement. L'Omoda E5 embarque une batterie de 61 kWh, plus généreuse, mais plafonnée à 80 kW en recharge rapide. La Geely Geometry C se contente d'une batterie plus modeste de 53 kWh — soit 8 kWh de moins — mais recharge plus vite, jusqu'à 100 kW, soit 20 kW de plus que l'Omoda, un choix qui privilégie les arrêts courts sur autoroute plutôt qu'une grosse capacité embarquée (voir <a href="/actualites/charge-800v-zeekr-xpeng-humilient-constructeurs-historiques">notre article sur la course à la charge rapide chez les constructeurs chinois</a>).</p>
+
+<h2>Performances : la Geometry C plus vive malgré une puissance identique</h2>
+<ul>
+  <li><strong>Omoda E5</strong> : 204 ch, 0 à 100 km/h en 7,6 s.</li>
+  <li><strong>Geely Geometry C</strong> : 204 ch, 0 à 100 km/h en 6,9 s.</li>
+</ul>
+<p>À puissance strictement identique, c'est bien la Geometry C qui l'emporte au chronomètre, avec un 0 à 100 km/h avancé de 0,7 seconde — signe d'un rapport poids/puissance plus favorable côté Geely, malgré une batterie 8 kWh plus petite que celle de l'Omoda.</p>
+
+<h2>Autonomie et efficience : l'Omoda devant en distance, la Geometry C plus efficiente au kWh</h2>
+<p>Sur l'autonomie brute, l'Omoda E5 prend l'avantage : 430 km contre 400 km pour la Geely Geometry C, soit 30 km de plus (voir <a href="/actualites/top-10-voitures-chinoises-meilleure-autonomie-2026">notre classement des voitures chinoises à la meilleure autonomie</a>). Mais rapporté à la taille de la batterie, c'est la Geometry C qui se montre la plus efficiente : environ 7,55 km par kWh contre 7,05 km/kWh pour l'Omoda, qui doit sa plus grande autonomie à une batterie tout simplement plus grosse plutôt qu'à un meilleur rendement. Le coût énergétique, lui, ne départage presque pas les deux SUV : 3,3 €/100 km pour l'Omoda contre 3,4 €/100 km pour la Geometry C.</p>
+
+<h2>Habitabilité et coffre : un écart insignifiant</h2>
+<p>Comme sur la longueur, l'écart de coffre est minime : 380 litres pour la Geely Geometry C contre 378 litres pour l'Omoda E5, soit 2 litres de différence — un chiffre qui ne changera la vie d'aucun acheteur. Les deux SUV affichent 5 places, sans écart sur ce point.</p>
+
+<h2>Prix et garantie : l'écart se creuse nettement</h2>
+<p>Côté tarif, l'écart est important : environ 33 000 € pour la Geely Geometry C contre 39 600 € pour l'Omoda E5, soit 6 600 € de moins pour le modèle Geely, près de 20 % d'économie à l'achat. Mais la garantie inverse la tendance : l'Omoda E5 aligne 7 ans, contre seulement 5 ans chez Geely, dans la lignée de la politique de garantie généreuse désormais standard chez Chery et ses filiales (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties constructeurs chinois</a>). Un écart de 2 ans qui pèse dans la durée, notamment sur la question de la décote à la revente (voir <a href="/actualites/decote-voitures-chinoises-risque-mg-byd-2026">notre analyse de la décote des voitures chinoises</a>).</p>
+
+<h2>Sécurité et technologie</h2>
+<p>Sur la sécurité, aucun écart : les deux SUV affichent 5 étoiles Euro NCAP, confirmant le niveau désormais installé des voitures chinoises sur ce critère (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point complet sur la sécurité des voitures chinoises</a>). Côté technologie embarquée, l'Omoda E5 prend un léger avantage grâce à une dotation un cran plus sophistiquée, quand la Geometry C reste correcte sur l'essentiel sans rivaliser tout à fait.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>Omoda E5</strong> : pour qui veut l'autonomie brute la plus élevée du duel, la garantie la plus longue et une dotation technologique un cran au-dessus, sans être gêné par un tarif plus élevé ni une recharge plus lente.</li>
+  <li><strong>Geely Geometry C</strong> : pour qui veut le tarif le plus serré du duel, une meilleure efficience énergétique et une recharge plus rapide, sans chercher l'autonomie ni la garantie les plus longues.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Ce duel entre presque-jumeaux se joue loin du gabarit, identique au millimètre près, mais sur des choix d'ingénierie et de politique commerciale bien distincts. Pour qui privilégie le budget le plus serré et une recharge rapide plus performante, la <strong>Geely Geometry C</strong> reste une option pragmatique et cohérente. Mais pour qui veut l'autonomie la plus large, la garantie la plus rassurante et une technologie embarquée un peu plus complète, l'<strong>Omoda E5</strong> justifie son supplément de 6 600 € par des arguments concrets, au prix d'une recharge rapide moins véloce.</p>
+`,
+  },
+  {
     slug: 'byd-atto-3-evo-vs-xpeng-g6-suv-electrique-chinois',
     title: 'BYD Atto 3 Evo vs XPeng G6 : quel SUV compact 100 % électrique chinois choisir en 2026 ?',
     excerpt:
