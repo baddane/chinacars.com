@@ -19,6 +19,56 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'omoda-e5-vs-byd-atto-3-evo-suv-compact-electrique-chinois',
+    title: 'Omoda E5 vs BYD Atto 3 Evo : quel SUV compact électrique chinois choisir en 2026 ?',
+    excerpt:
+      "Même puissance au chronomètre (204 ch) et un gabarit à 31 mm près, mais 70 km d'autonomie et une recharge presque deux fois plus rapide d'un côté, une garantie plus longue de l'autre : l'Omoda E5 affronte la BYD Atto 3 Evo pour 600 € d'écart. Verdict chiffré, sans concession.",
+    image: 'https://www.wandaloo.com/files/Voiture-Neuve/omoda-e5.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-09-21T09:00:00+02:00',
+    readingTime: 7,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux SUV compacts électriques chinois, presque jumeaux sur le gabarit</h2>
+<p>Encore un duel 100 % chinois pour ce segment très disputé du SUV compact électrique : l'Omoda E5 et la BYD Atto 3 Evo visent le même acheteur, avec un tarif qui ne diffère que de 600 € et une puissance strictement identique. Mais derrière ces chiffres presque jumeaux se cachent deux architectures de batterie très différentes, qui redistribuent les cartes dès qu'on regarde l'autonomie et la recharge de plus près.</p>
+
+<h2>Gabarit et style : un écart de 31 mm, invisible au quotidien</h2>
+<p>Les deux SUV affichent un gabarit quasiment identique : la BYD Atto 3 Evo (4,455 m) ne dépasse l'Omoda E5 (4,424 m) que de 31 mm, un écart totalement imperceptible dans la vie de tous les jours. L'Omoda E5 mise sur une silhouette élégante et sobre héritée du design maison Chery, tandis que l'Atto 3 Evo conserve la signature plus ronde et assumée qui a fait le succès du modèle depuis son lancement (voir <a href="/actualites/design-chinois-identite-visuelle-marques-auto">notre article sur l'identité visuelle du design chinois</a>).</p>
+
+<h2>Batterie et recharge : la BYD nettement plus rapide à la prise</h2>
+<p>Les deux SUV sont 100 % électriques, avec des batteries de capacité quasi identique : 61 kWh pour l'Omoda E5, 60 kWh pour la BYD Atto 3 Evo, soit à peine 1 kWh d'écart. La différence se joue entièrement sur la vitesse de recharge : l'Atto 3 Evo plafonne à 150 kW en courant continu, quasiment le double des 80 kW de l'Omoda E5, un écart qui change concrètement la durée d'un arrêt sur autoroute (voir <a href="/actualites/charge-800v-zeekr-xpeng-humilient-constructeurs-historiques">notre article sur la course à la charge rapide chez les constructeurs chinois</a>).</p>
+
+<h2>Performances : l'Atto 3 Evo légèrement plus vive à puissance égale</h2>
+<ul>
+  <li><strong>Omoda E5</strong> : 204 ch, 0 à 100 km/h en 7,6 s.</li>
+  <li><strong>BYD Atto 3 Evo</strong> : 204 ch, 0 à 100 km/h en 7,3 s.</li>
+</ul>
+<p>À puissance rigoureusement identique, c'est la BYD Atto 3 Evo qui l'emporte au chronomètre, avec un 0 à 100 km/h avancé de 0,3 seconde — un écart modeste, à peine perceptible au volant, mais qui confirme un rapport poids/puissance légèrement plus favorable côté BYD.</p>
+
+<h2>Autonomie et efficience : l'avantage bascule nettement côté BYD</h2>
+<p>Sur l'autonomie, l'écart est net : 500 km pour la BYD Atto 3 Evo contre 430 km pour l'Omoda E5, soit 70 km de plus en faveur du modèle BYD (voir <a href="/actualites/top-10-voitures-chinoises-meilleure-autonomie-2026">notre classement des voitures chinoises à la meilleure autonomie</a>). L'écart est d'autant plus marquant que la batterie de l'Atto 3 Evo est légèrement plus petite : rapportée au kWh, elle affiche une efficience d'environ 8,3 km/kWh contre 7,05 km/kWh pour l'Omoda E5, soit près de 18 % de rendement en plus. Le coût énergétique, lui, ne départage presque pas les deux SUV : 3,3 €/100 km pour l'Omoda contre 3,4 €/100 km pour la BYD.</p>
+
+<h2>Habitabilité et coffre : la BYD prend une avance confortable</h2>
+<p>Côté coffre, l'écart se creuse : 440 litres pour la BYD Atto 3 Evo contre 378 litres pour l'Omoda E5, soit 62 litres d'écart — environ 16 % de volume utile en plus côté BYD, un chiffre qui compte pour les familles ou les gros rangements. Les deux SUV affichent 5 places, sans écart sur ce point.</p>
+
+<h2>Prix et garantie : l'Omoda reprend la main sur la durée</h2>
+<p>Côté tarif, l'écart reste modeste : environ 39 000 € pour la BYD Atto 3 Evo contre 39 600 € pour l'Omoda E5, soit 600 € de moins pour le modèle BYD. Mais la garantie inverse la tendance : l'Omoda E5 aligne 7 ans, contre 6 ans chez BYD, dans la lignée de la politique de garantie généreuse désormais standard chez Chery et ses filiales (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties constructeurs chinois</a>). Un an d'écart qui pèse dans la durée, notamment sur la question de la décote à la revente (voir <a href="/actualites/decote-voitures-chinoises-risque-mg-byd-2026">notre analyse de la décote des voitures chinoises</a>).</p>
+
+<h2>Sécurité et technologie</h2>
+<p>Sur la sécurité, aucun écart : les deux SUV affichent 5 étoiles Euro NCAP, confirmant le niveau désormais installé des voitures chinoises sur ce critère (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point complet sur la sécurité des voitures chinoises</a>). Côté technologie embarquée, les deux modèles se tiennent dans un mouchoir de poche, avec une dotation comparable en aides à la conduite et en interface multimédia, sans qu'aucun des deux ne prenne l'avantage.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>Omoda E5</strong> : pour qui veut la garantie la plus longue du duel, sans être gêné par une autonomie plus courte ni une recharge deux fois plus lente.</li>
+  <li><strong>BYD Atto 3 Evo</strong> : pour qui veut l'autonomie la plus large, la recharge la plus rapide, le coffre le plus grand et le tarif le plus serré du duel, sans chercher la garantie la plus longue.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Ce duel entre presque-jumeaux se joue loin du gabarit, identique à 31 mm près, mais sur des choix d'ingénierie bien distincts autour de la batterie. Pour qui privilégie la tranquillité d'une garantie longue, l'<strong>Omoda E5</strong> reste un choix cohérent. Mais pour qui veut l'autonomie la plus large, la recharge la plus rapide et le coffre le plus grand, tout en payant 600 € de moins, la <strong>BYD Atto 3 Evo</strong> l'emporte sur presque tous les critères qui comptent au quotidien.</p>
+`,
+  },
+  {
     slug: 'omoda-e5-vs-geely-geometry-c-suv-compact-electrique-chinois',
     title: 'Omoda E5 vs Geely Geometry C : quel SUV compact électrique chinois choisir ?',
     excerpt:
