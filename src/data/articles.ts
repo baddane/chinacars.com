@@ -19,6 +19,56 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'byd-atto-3-evo-vs-geely-geometry-c-suv-compact-electrique-chinois',
+    title: 'BYD Atto 3 Evo vs Geely Geometry C : quel SUV compact électrique chinois choisir en 2026 ?',
+    excerpt:
+      "Même puissance au chronomètre (204 ch) et 23 mm d'écart de gabarit, mais 100 km d'autonomie et une recharge 50 % plus rapide d'un côté, 6 000 € d'économie de l'autre : le BYD Atto 3 Evo affronte la Geely Geometry C pour clore le trio des SUV compacts électriques chinois. Verdict chiffré, sans concession.",
+    image: 'https://www.wandaloo.com/files/Voiture-Neuve/byd-atto-3-evo.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-09-23T09:00:00+02:00',
+    readingTime: 7,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le troisième duel d'un trio qui se resserre</h2>
+<p>Après avoir opposé l'Omoda E5 à la Geely Geometry C, puis à la BYD Atto 3 Evo (voir <a href="/actualites/omoda-e5-vs-geely-geometry-c-suv-compact-electrique-chinois">notre comparatif Omoda E5 vs Geely Geometry C</a> et <a href="/actualites/omoda-e5-vs-byd-atto-3-evo-suv-compact-electrique-chinois">notre comparatif Omoda E5 vs BYD Atto 3 Evo</a>), il ne restait plus qu'un affrontement à trancher pour boucler le triangle : le BYD Atto 3 Evo face à la Geely Geometry C. Même puissance affichée, gabarit à 23 mm près, mais deux philosophies de batterie qui redistribuent nettement les cartes sur l'autonomie et le tarif.</p>
+
+<h2>Gabarit et style : un écart de 23 mm, imperceptible au quotidien</h2>
+<p>Les deux SUV affichent un gabarit très proche : le BYD Atto 3 Evo (4,455 m) ne dépasse la Geely Geometry C (4,432 m) que de 23 mm, un écart invisible dans la vie de tous les jours. L'Atto 3 Evo conserve la silhouette ronde et assumée qui a fait la signature du modèle depuis son lancement, tandis que la Geometry C mise sur des lignes plus consensuelles, dans la lignée du style Geely destiné à rassurer une clientèle familiale (voir <a href="/actualites/design-chinois-identite-visuelle-marques-auto">notre article sur l'identité visuelle du design chinois</a>).</p>
+
+<h2>Batterie et recharge : la BYD nettement devant sur les deux tableaux</h2>
+<p>Les deux SUV sont 100 % électriques, mais l'écart de batterie est net : 60 kWh pour le BYD Atto 3 Evo contre 53 kWh pour la Geely Geometry C, soit 7 kWh de plus côté BYD. La recharge rapide suit la même tendance : l'Atto 3 Evo plafonne à 150 kW en courant continu, contre seulement 100 kW pour la Geometry C, un écart de 50 % qui change concrètement la durée d'un arrêt sur autoroute (voir <a href="/actualites/charge-800v-zeekr-xpeng-humilient-constructeurs-historiques">notre article sur la course à la charge rapide chez les constructeurs chinois</a>).</p>
+
+<h2>Performances : la Geometry C plus vive malgré une puissance identique</h2>
+<ul>
+  <li><strong>BYD Atto 3 Evo</strong> : 204 ch, 0 à 100 km/h en 7,3 s.</li>
+  <li><strong>Geely Geometry C</strong> : 204 ch, 0 à 100 km/h en 6,9 s.</li>
+</ul>
+<p>À puissance rigoureusement identique, c'est la Geely Geometry C qui l'emporte au chronomètre, avec un 0 à 100 km/h avancé de 0,4 seconde — signe d'un rapport poids/puissance plus favorable côté Geely, malgré une batterie 7 kWh plus petite que celle du BYD.</p>
+
+<h2>Autonomie et efficience : l'avantage bascule nettement côté BYD</h2>
+<p>Sur l'autonomie, l'écart est net : 500 km pour le BYD Atto 3 Evo contre 400 km pour la Geely Geometry C, soit 100 km de plus en faveur du modèle BYD, l'équivalent de 25 % d'autonomie supplémentaire (voir <a href="/actualites/top-10-voitures-chinoises-meilleure-autonomie-2026">notre classement des voitures chinoises à la meilleure autonomie</a>). L'écart ne se limite pas à une plus grosse batterie : rapportée au kWh, l'Atto 3 Evo affiche une efficience d'environ 8,3 km/kWh contre 7,55 km/kWh pour la Geometry C, soit près de 10 % de rendement en plus. Le coût énergétique, lui, ne départage pas les deux SUV : 3,4 €/100 km de part et d'autre.</p>
+
+<h2>Habitabilité et coffre : la BYD prend une avance confortable</h2>
+<p>Côté coffre, l'écart se creuse : 440 litres pour le BYD Atto 3 Evo contre 380 litres pour la Geely Geometry C, soit 60 litres d'écart — environ 16 % de volume utile en plus côté BYD, un chiffre qui compte pour les familles ou les gros rangements. Les deux SUV affichent 5 places, sans écart sur ce point.</p>
+
+<h2>Prix et garantie : la Geometry C reprend la main sur le budget</h2>
+<p>Côté tarif, l'écart est important : environ 33 000 € pour la Geely Geometry C contre 39 000 € pour le BYD Atto 3 Evo, soit 6 000 € de moins pour le modèle Geely, près de 18 % d'économie à l'achat. La garantie penche cependant du côté BYD : 6 ans contre seulement 5 ans chez Geely, un écart qui pèse dans la durée, notamment sur la question de la décote à la revente (voir <a href="/actualites/decote-voitures-chinoises-risque-mg-byd-2026">notre analyse de la décote des voitures chinoises</a> et <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties constructeurs chinois</a>).</p>
+
+<h2>Sécurité et technologie</h2>
+<p>Sur la sécurité, aucun écart : les deux SUV affichent 5 étoiles Euro NCAP, confirmant le niveau désormais installé des voitures chinoises sur ce critère (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point complet sur la sécurité des voitures chinoises</a>). Côté technologie embarquée, le BYD Atto 3 Evo prend un léger avantage grâce à une dotation un cran plus sophistiquée, quand la Geometry C reste correcte sur l'essentiel sans rivaliser tout à fait.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>BYD Atto 3 Evo</strong> : pour qui veut l'autonomie la plus large du duel, la recharge la plus rapide, le coffre le plus grand et la garantie la plus longue, sans être gêné par un tarif plus élevé ni un 0 à 100 km/h légèrement moins vif.</li>
+  <li><strong>Geely Geometry C</strong> : pour qui veut le tarif le plus serré du duel et un 0 à 100 km/h plus véloce, sans chercher l'autonomie, la recharge ni le coffre les plus généreux.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Ce troisième duel referme le triangle entre l'Omoda E5, la Geely Geometry C et le BYD Atto 3 Evo, et confirme une tendance déjà observée : la Geometry C reste l'option la plus abordable du segment, quitte à sacrifier de l'autonomie et de la vitesse de recharge. Pour qui privilégie le budget le plus serré, elle demeure un choix pragmatique. Mais pour qui veut l'autonomie la plus large, la recharge la plus rapide, le coffre le plus grand et la garantie la plus longue, le <strong>BYD Atto 3 Evo</strong> l'emporte sur presque tous les critères qui comptent au quotidien, au prix d'un supplément de 6 000 €.</p>
+`,
+  },
+  {
     slug: 'omoda-e5-vs-byd-atto-3-evo-suv-compact-electrique-chinois',
     title: 'Omoda E5 vs BYD Atto 3 Evo : quel SUV compact électrique chinois choisir en 2026 ?',
     excerpt:
