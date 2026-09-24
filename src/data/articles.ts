@@ -19,6 +19,56 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'zeekr-x-vs-geely-geometry-c-suv-compact-electrique-chinois',
+    title: 'Zeekr X vs Geely Geometry C : quel SUV compact électrique chinois choisir en 2026 ?',
+    excerpt:
+      "Un gabarit strictement identique au millimètre près (4,432 m chacun), mais 224 chevaux et 3,1 secondes d'écart au 0 à 100 km/h d'un côté, 12 000 € d'économie de l'autre : le Zeekr X affronte la Geely Geometry C, du SUV compact électrique premium au SUV compact accessible. Verdict chiffré, sans concession.",
+    image: 'https://www.wandaloo.com/files/Voiture-Neuve/zeekr-x.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-09-24T09:00:00+02:00',
+    readingTime: 7,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Un nouveau rival s'invite dans le trio des SUV compacts électriques chinois</h2>
+<p>Après avoir confronté l'Omoda E5, la Geely Geometry C et le BYD Atto 3 Evo dans un triangle serré (voir <a href="/actualites/byd-atto-3-evo-vs-geely-geometry-c-suv-compact-electrique-chinois">notre comparatif BYD Atto 3 Evo vs Geely Geometry C</a>), un quatrième prétendant vient bousculer le segment : le Zeekr X, positionné sur un créneau nettement plus premium et plus cher. Face à la Geely Geometry C, il affiche un gabarit rigoureusement identique au millimètre près, mais des ambitions très différentes.</p>
+
+<h2>Gabarit et style : un gabarit identique au millimètre près</h2>
+<p>Coïncidence rare : le Zeekr X et la Geely Geometry C affichent très exactement la même longueur, 4,432 m chacun, sans le moindre écart. Un cas d'école pour comparer deux philosophies de SUV compact électrique chinois à gabarit strictement identique. Le Zeekr X mise sur un style plus affirmé et une finition premium héritée de la marque haut de gamme de Geely, tandis que la Geometry C reste sur des lignes plus consensuelles destinées à une clientèle familiale (voir <a href="/actualites/design-chinois-identite-visuelle-marques-auto">notre article sur l'identité visuelle du design chinois</a>).</p>
+
+<h2>Batterie et recharge : le Zeekr X large devant sur les deux tableaux</h2>
+<p>Les deux SUV sont 100 % électriques, mais l'écart de batterie est net : 66 kWh pour le Zeekr X contre 53 kWh pour la Geely Geometry C, soit 13 kWh de plus côté Zeekr, près d'un quart de capacité supplémentaire. La recharge rapide suit la même tendance : le Zeekr X plafonne à 150 kW en courant continu, contre 100 kW pour la Geometry C, un écart de 50 % qui change concrètement la durée d'un arrêt sur autoroute (voir <a href="/actualites/charge-800v-zeekr-xpeng-humilient-constructeurs-historiques">notre article sur la course à la charge rapide chez les constructeurs chinois</a>).</p>
+
+<h2>Performances : le Zeekr X dans une autre catégorie</h2>
+<ul>
+  <li><strong>Zeekr X</strong> : 428 ch, 0 à 100 km/h en 3,8 s.</li>
+  <li><strong>Geely Geometry C</strong> : 204 ch, 0 à 100 km/h en 6,9 s.</li>
+</ul>
+<p>Ici, aucune ambiguïté : le Zeekr X développe 224 chevaux de plus que la Geely Geometry C, plus du double de puissance, et abat le 0 à 100 km/h en 3,8 secondes contre 6,9 secondes pour la Geometry C, soit 3,1 secondes d'écart. Un fossé qui place clairement le Zeekr X dans la catégorie des SUV compacts électriques sportifs, loin du profil familial de la Geometry C.</p>
+
+<h2>Autonomie et efficience : l'avantage bascule côté Geometry C au kWh</h2>
+<p>Sur l'autonomie brute, le Zeekr X prend l'avantage : 440 km contre 400 km pour la Geely Geometry C, soit 40 km de plus, malgré un différentiel de puissance considérable (voir <a href="/actualites/top-10-voitures-chinoises-meilleure-autonomie-2026">notre classement des voitures chinoises à la meilleure autonomie</a>). Mais rapportée au kWh, c'est la Geometry C qui se montre la plus efficiente : environ 7,55 km/kWh contre 6,67 km/kWh pour le Zeekr X, soit près de 13 % de rendement en plus — la contrepartie logique d'un moteur bien plus puissant à faire avancer. Le coût énergétique, lui, ne départage pas les deux SUV : 3,4 €/100 km de part et d'autre.</p>
+
+<h2>Habitabilité et coffre : la Geometry C reprend l'avantage</h2>
+<p>Côté coffre, c'est la Geely Geometry C qui l'emporte : 380 litres contre 362 litres pour le Zeekr X, soit 18 litres d'écart en sa faveur — la conséquence probable d'une architecture électrique plus orientée performance chez Zeekr. Les deux SUV affichent 5 places, sans écart sur ce point.</p>
+
+<h2>Prix et garantie : un écart de 12 000 € qui change tout</h2>
+<p>Côté tarif, l'écart est considérable : environ 33 000 € pour la Geely Geometry C contre 45 000 € pour le Zeekr X, soit 12 000 € de plus pour le modèle Zeekr, un tiers du budget de la Geometry C. La garantie, elle, ne départage pas les deux constructeurs : 5 ans de part et d'autre, un point à surveiller face aux garanties plus longues désormais courantes chez d'autres marques chinoises (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties constructeurs chinois</a> et <a href="/actualites/decote-voitures-chinoises-risque-mg-byd-2026">notre analyse de la décote des voitures chinoises</a>).</p>
+
+<h2>Sécurité et technologie</h2>
+<p>Sur la sécurité, aucun écart : les deux SUV affichent 5 étoiles Euro NCAP, confirmant le niveau désormais installé des voitures chinoises sur ce critère (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point complet sur la sécurité des voitures chinoises</a>). Côté technologie embarquée, le Zeekr X prend un net avantage grâce à une dotation nettement plus sophistiquée, conforme à son positionnement premium, quand la Geometry C reste correcte sur l'essentiel sans rivaliser.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>Zeekr X</strong> : pour qui veut les performances les plus vives du duel, la batterie la plus généreuse, la recharge la plus rapide et la dotation technologique la plus poussée, sans être gêné par un tarif 12 000 € plus élevé ni un coffre plus modeste.</li>
+  <li><strong>Geely Geometry C</strong> : pour qui veut le tarif le plus accessible du duel et le meilleur rendement énergétique au kWh, sans chercher les performances, la puissance de charge ni la dotation technologique les plus poussées.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Ce duel à gabarit rigoureusement identique illustre deux philosophies opposées du SUV compact électrique chinois. Pour qui privilégie le budget le plus serré et un usage familial sans prétention sportive, la <strong>Geely Geometry C</strong> reste un choix cohérent et économe. Mais pour qui veut des performances dans une autre catégorie, une batterie plus généreuse, une recharge plus rapide et une dotation technologique nettement plus poussée, le <strong>Zeekr X</strong> l'emporte sur presque tous les critères qui comptent, au prix d'un supplément de 12 000 €.</p>
+`,
+  },
+  {
     slug: 'byd-atto-3-evo-vs-geely-geometry-c-suv-compact-electrique-chinois',
     title: 'BYD Atto 3 Evo vs Geely Geometry C : quel SUV compact électrique chinois choisir en 2026 ?',
     excerpt:
