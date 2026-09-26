@@ -19,6 +19,56 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'xpeng-g6-vs-geely-geometry-c-suv-compact-electrique-chinois',
+    title: 'XPeng G6 vs Geely Geometry C : quel SUV compact électrique chinois choisir en 2026 ?',
+    excerpt:
+      "Un chrono strictement identique (6,9 s au 0 à 100 km/h) malgré 92 chevaux d'écart, mais 125 km d'autonomie et une recharge quasiment trois fois plus rapide d'un côté, 10 000 € d'économie de l'autre : le XPeng G6 affronte la Geely Geometry C sur le segment très disputé du SUV compact électrique chinois. Verdict chiffré, sans concession.",
+    image: 'https://www.wandaloo.com/files/Voiture-Neuve/xpeng-g6.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-09-26T09:00:00+02:00',
+    readingTime: 7,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux visions opposées du SUV compact électrique chinois</h2>
+<p>Après le Zeekr X et la BYD Atto 3 Evo (voir <a href="/actualites/zeekr-x-vs-geely-geometry-c-suv-compact-electrique-chinois">notre comparatif Zeekr X vs Geely Geometry C</a> et <a href="/actualites/byd-atto-3-evo-vs-geely-geometry-c-suv-compact-electrique-chinois">notre comparatif BYD Atto 3 Evo vs Geely Geometry C</a>), c'est au tour du XPeng G6 de se frotter à la Geely Geometry C. D'un côté, un SUV pensé comme une vitrine technologique par une marque obsédée par l'intelligence embarquée (voir <a href="/actualites/xpeng-marque-intelligence-artificielle-automobile">notre portrait de XPeng</a>) ; de l'autre, un modèle plus sage, taillé pour convaincre sur le rapport prix-prestations.</p>
+
+<h2>Gabarit et style : le G6 nettement plus grand</h2>
+<p>Contrairement au duel Zeekr X / Geometry C à la taille rigoureusement identique, ici l'écart est net : le XPeng G6 mesure 4,753 m contre 4,432 m pour la Geely Geometry C, soit 321 mm de plus, l'équivalent d'une catégorie de gabarit supérieure malgré une classification commune en « SUV compact ». Le G6 assume une silhouette basse et aérodynamique typique des SUV électriques nouvelle génération, quand la Geometry C conserve des proportions plus classiques destinées à une clientèle familiale (voir <a href="/actualites/design-chinois-identite-visuelle-marques-auto">notre article sur l'identité visuelle du design chinois</a>).</p>
+
+<h2>Batterie et recharge : le G6 dans une autre dimension</h2>
+<p>Les deux SUV sont 100 % électriques, mais l'écart de batterie est considérable : 87,5 kWh pour le XPeng G6 contre 53 kWh pour la Geely Geometry C, soit 34,5 kWh de plus côté XPeng, près des deux tiers de capacité supplémentaire. L'écart se creuse encore davantage sur la recharge rapide : le G6 plafonne à 280 kW en courant continu grâce à son architecture 800V, contre seulement 100 kW pour la Geometry C, soit près de 3 fois plus rapide (voir <a href="/actualites/charge-800v-zeekr-xpeng-humilient-constructeurs-historiques">notre article sur la course à la charge rapide chez les constructeurs chinois</a>).</p>
+
+<h2>Performances : un chrono identique malgré un monde d'écart en puissance</h2>
+<ul>
+  <li><strong>XPeng G6</strong> : 296 ch, 0 à 100 km/h en 6,9 s.</li>
+  <li><strong>Geely Geometry C</strong> : 204 ch, 0 à 100 km/h en 6,9 s.</li>
+</ul>
+<p>Voici le chiffre le plus surprenant de ce duel : malgré 92 chevaux d'écart en faveur du G6, soit près de moitié plus de puissance, les deux SUV abattent le 0 à 100 km/h exactement dans le même temps, 6,9 secondes. Un gabarit et un poids supérieurs côté XPeng viennent donc neutraliser tout son avantage brut en puissance au chronomètre.</p>
+
+<h2>Autonomie et efficience : le G6 devant en absolu, la Geometry C plus sobre au kWh</h2>
+<p>Sur l'autonomie, l'écart est net : 525 km pour le XPeng G6 contre 400 km pour la Geely Geometry C, soit 125 km de plus, environ 31 % d'autonomie supplémentaire (voir <a href="/actualites/top-10-voitures-chinoises-meilleure-autonomie-2026">notre classement des voitures chinoises à la meilleure autonomie</a>). Mais rapportée au kWh, la tendance s'inverse : la Geometry C affiche une efficience d'environ 7,55 km/kWh contre 6 km/kWh pour le G6, soit plus de 25 % de rendement en plus — la contrepartie logique d'un gabarit et d'une puissance bien supérieurs chez XPeng. Le coût énergétique, lui, reste quasiment identique : 3,5 €/100 km pour le G6 contre 3,4 €/100 km pour la Geometry C.</p>
+
+<h2>Habitabilité et coffre : le G6 large vainqueur</h2>
+<p>Côté coffre, l'écart est important : 571 litres pour le XPeng G6 contre 380 litres pour la Geely Geometry C, soit 191 litres de plus, environ 50 % de volume utile supplémentaire — un argument de poids pour les familles ou les longs trajets. Les deux SUV affichent 5 places, sans écart sur ce point.</p>
+
+<h2>Prix et garantie : la Geometry C reprend l'avantage du budget</h2>
+<p>Côté tarif, l'écart est significatif : environ 33 000 € pour la Geely Geometry C contre 43 000 € pour le XPeng G6, soit 10 000 € de plus pour le modèle XPeng, environ 30 % du budget de la Geometry C. La garantie, elle, ne départage pas les deux constructeurs : 5 ans de part et d'autre, un point à surveiller face aux garanties plus longues désormais courantes chez d'autres marques chinoises (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties constructeurs chinois</a> et <a href="/actualites/decote-voitures-chinoises-risque-mg-byd-2026">notre analyse de la décote des voitures chinoises</a>).</p>
+
+<h2>Sécurité et technologie : l'écart se creuse nettement en faveur du G6</h2>
+<p>Sur la sécurité, aucun écart : les deux SUV affichent 5 étoiles Euro NCAP, confirmant le niveau désormais installé des voitures chinoises sur ce critère (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point complet sur la sécurité des voitures chinoises</a>). Côté technologie embarquée en revanche, le fossé est le plus marqué de tout le comparatif : le XPeng G6 profite du savoir-faire du constructeur en matière d'aides à la conduite avancées et de capteurs lidar (voir <a href="/actualites/lidar-xpeng-vs-vision-tesla-conduite-autonome-france">notre comparatif Lidar XPeng vs Vision Tesla</a>), quand la Geometry C reste correcte sur l'essentiel sans viser ce niveau de sophistication.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>XPeng G6</strong> : pour qui veut l'autonomie la plus large du duel, la recharge la plus rapide, le coffre le plus grand et la dotation technologique la plus avancée, sans être gêné par un tarif 10 000 € plus élevé ni un rendement énergétique moins favorable au kWh.</li>
+  <li><strong>Geely Geometry C</strong> : pour qui veut le tarif le plus accessible du duel et le meilleur rendement énergétique au kWh, sans chercher l'autonomie, la recharge, le coffre ni la dotation technologique les plus poussés.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Ce duel oppose deux philosophies bien distinctes du SUV compact électrique chinois. Pour qui privilégie le budget le plus serré et un usage familial sans prétention technologique, la <strong>Geely Geometry C</strong> reste un choix cohérent et économe. Mais pour qui veut l'autonomie la plus large, la recharge la plus rapide, le coffre le plus généreux et la dotation technologique la plus avancée du segment, le <strong>XPeng G6</strong> l'emporte sur la quasi-totalité des critères qui comptent, au prix d'un supplément de 10 000 €.</p>
+`,
+  },
+  {
     slug: 'zeekr-x-vs-geely-geometry-c-suv-compact-electrique-chinois',
     title: 'Zeekr X vs Geely Geometry C : quel SUV compact électrique chinois choisir en 2026 ?',
     excerpt:
