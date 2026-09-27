@@ -19,6 +19,56 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'byd-atto-3-evo-vs-omoda-5-shs-h-suv-compact-electrique-hybride',
+    title: 'BYD Atto 3 Evo vs Omoda 5 SHS-H : le SUV compact chinois, 100 % électrique ou hybride ?',
+    excerpt:
+      "20 chevaux de plus et une autonomie totale plus que doublée, mais un coût énergétique deux fois plus élevé et aucune recharge rapide possible : l'Omoda 5 SHS-H affronte la BYD Atto 3 Evo pour 9 000 € d'écart entre hybride et 100 % électrique dans ce duel 100 % chinois. Verdict chiffré, sans concession.",
+    image: 'https://www.wandaloo.com/files/Voiture-Neuve/byd-atto-3-evo.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-09-27T09:00:00+02:00',
+    readingTime: 7,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux logiques de motorisation qui s'affrontent sur le même segment</h2>
+<p>Après avoir opposé l'Omoda E5 à la <a href="/actualites/omoda-e5-vs-byd-atto-3-evo-suv-compact-electrique-chinois">BYD Atto 3 Evo</a> dans un duel 100 % électrique, place à sa variante hybride : l'Omoda 5 SHS-H, déjà confrontée au <a href="/actualites/omoda-5-shs-h-vs-toyota-yaris-cross-hybride">Toyota Yaris Cross</a>, affronte cette fois la BYD Atto 3 Evo dans un duel entre deux logiques opposées : d'un côté l'hybride auto-rechargeant à l'autonomie totale colossale, de l'autre le 100 % électrique rechargeable en courant continu. Même segment, même clientèle visée, deux philosophies de motorisation radicalement différentes.</p>
+
+<h2>Gabarit et style : deux carrosseries quasi identiques</h2>
+<p>Sans surprise puisque les deux modèles partagent la même base Omoda 5, l'écart de gabarit est minime : la BYD Atto 3 Evo (4,455 m) ne dépasse l'Omoda 5 SHS-H (4,424 m) que de 31 mm, un écart invisible au quotidien. L'Omoda mise sur une silhouette élégante et discrète héritée du design maison Chery, tandis que l'Atto 3 Evo conserve la signature plus ronde et assumée qui a fait le succès du modèle BYD depuis son lancement (voir <a href="/actualites/design-chinois-identite-visuelle-marques-auto">notre article sur l'identité visuelle du design chinois</a>).</p>
+
+<h2>Motorisation : 100 % électrique contre hybride auto-rechargeant SHS-H</h2>
+<p>C'est là que tout se joue. La BYD Atto 3 Evo embarque une batterie de 60 kWh, rechargeable en courant continu jusqu'à 150 kW, sans jamais consommer une goutte de carburant. L'Omoda 5 SHS-H, elle, se contente d'une petite batterie de 1,8 kWh qui se recharge uniquement au freinage et à la décélération grâce à la technologie hybride maison de Chery, sans jamais accepter de prise. Résultat concret : la BYD se recharge sur borne comme n'importe quel véhicule électrique, quand l'Omoda reste, comme tous les hybrides classiques, alimentée uniquement à la pompe.</p>
+
+<h2>Performances : l'Omoda plus puissante, la BYD plus vive</h2>
+<ul>
+  <li><strong>BYD Atto 3 Evo</strong> : 204 ch, 0 à 100 km/h en 7,3 s.</li>
+  <li><strong>Omoda 5 SHS-H</strong> : 224 ch, 0 à 100 km/h en 7,8 s.</li>
+</ul>
+<p>Malgré 20 chevaux de moins, soit environ 10 % de puissance en moins, la BYD Atto 3 Evo devance l'Omoda 5 SHS-H au chronomètre de 0,5 seconde — le couple immédiat du moteur électrique compense largement le déficit de puissance affiché sur la fiche technique face à la mécanique hybride.</p>
+
+<h2>Autonomie et coût à l'usage : l'hybride creuse l'écart, l'électrique le rattrape au portefeuille</h2>
+<p>Sur l'autonomie totale, l'Omoda 5 SHS-H prend une avance considérable : environ 1 100 km entre deux pleins contre 500 km pour la BYD Atto 3 Evo, soit 600 km d'écart, plus du double — un classique de la confrontation entre hybride et électrique, sans prise à recharger sur les longs trajets (voir <a href="/actualites/top-10-voitures-chinoises-meilleure-autonomie-2026">notre classement des voitures chinoises à la meilleure autonomie</a>). Le rapport s'inverse totalement sur le coût énergétique : 3,4 €/100 km pour la BYD contre 7,0 €/100 km pour l'Omoda, un coût plus de deux fois supérieur pour qui n'a pas accès à une recharge à domicile.</p>
+
+<h2>Habitabilité et coffre : la BYD nettement devant</h2>
+<p>Côté coffre, l'écart est net : 440 litres pour la BYD Atto 3 Evo contre 360 litres pour l'Omoda 5 SHS-H, soit 80 litres de plus, environ 22 % de volume utile supplémentaire côté BYD — la conséquence directe d'une architecture électrique qui libère davantage d'espace utile qu'un bloc hybride encombrant sous le capot. Les deux SUV affichent 5 places, sans écart sur ce point.</p>
+
+<h2>Prix et garantie : l'Omoda largement en tête sur le budget</h2>
+<p>Côté tarif, l'écart est significatif : environ 30 000 € pour l'Omoda 5 SHS-H contre 39 000 € pour la BYD Atto 3 Evo, soit 9 000 € de moins pour le modèle Omoda, 30 % du prix de vente de l'Omoda elle-même. La garantie confirme cet avantage : l'Omoda 5 SHS-H aligne 7 ans, contre 6 ans chez BYD, dans la lignée de la politique de garantie généreuse désormais standard chez Chery et ses filiales (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties constructeurs chinois</a>), un argument qui pèse aussi sur la décote à la revente (voir <a href="/actualites/decote-voitures-chinoises-risque-mg-byd-2026">notre analyse de la décote des voitures chinoises</a>).</p>
+
+<h2>Sécurité et technologie</h2>
+<p>Sur la sécurité, aucun écart : les deux SUV affichent 5 étoiles Euro NCAP, confirmant le niveau désormais installé des voitures chinoises sur ce critère (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point complet sur la sécurité des voitures chinoises</a>). Côté technologie embarquée, les deux modèles se tiennent dans un mouchoir de poche, avec une dotation comparable en aides à la conduite et en interface multimédia, sans qu'aucun des deux ne prenne l'avantage.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>Omoda 5 SHS-H</strong> : pour qui multiplie les longs trajets sans accès simple à une recharge, veut le tarif le plus serré et la garantie la plus longue du duel, sans chercher le coffre le plus grand ni le coût à l'usage le plus faible.</li>
+  <li><strong>BYD Atto 3 Evo</strong> : pour qui roule surtout au quotidien, peut recharger régulièrement à domicile, et veut le coffre le plus grand et le coût énergétique le plus faible du duel, au prix d'un ticket d'entrée 9 000 € plus élevé.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Ce duel oppose deux logiques d'achat qui divergent uniquement sur la motorisation, à gabarit quasiment identique. Pour qui multiplie les longs trajets sans accès simple à une recharge et veut préserver son budget, l'<strong>Omoda 5 SHS-H</strong> reste le choix le plus rassurant, avec 9 000 € d'économie et une garantie plus longue à la clé. Mais pour qui roule surtout au quotidien et peut recharger régulièrement à domicile, la <strong>BYD Atto 3 Evo</strong> propose une équation convaincante : un coffre plus grand et un coût à l'usage plus de deux fois inférieur, au prix d'une autonomie totale bien moindre sur les longs trajets.</p>
+`,
+  },
+  {
     slug: 'xpeng-g6-vs-geely-geometry-c-suv-compact-electrique-chinois',
     title: 'XPeng G6 vs Geely Geometry C : quel SUV compact électrique chinois choisir en 2026 ?',
     excerpt:
