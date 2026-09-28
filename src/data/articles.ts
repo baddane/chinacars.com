@@ -19,6 +19,56 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'xpeng-g6-vs-omoda-e5-suv-compact-electrique-chinois',
+    title: 'XPeng G6 vs Omoda E5 : quel SUV compact électrique chinois choisir en 2026 ?',
+    excerpt:
+      "95 km d'autonomie de plus et une recharge 3,5 fois plus rapide d'un côté, 3 400 € d'économie et 2 ans de garantie en plus de l'autre : le XPeng G6 affronte l'Omoda E5 sur le segment très disputé du SUV compact électrique chinois. Verdict chiffré, sans concession.",
+    image: 'https://www.wandaloo.com/files/Voiture-Neuve/xpeng-g6.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-09-28T09:00:00+02:00',
+    readingTime: 7,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux approches du SUV compact électrique chinois</h2>
+<p>Après avoir mesuré l'Omoda E5 face à la Geely Geometry C et à la BYD Atto 3 Evo (voir <a href="/actualites/omoda-e5-vs-geely-geometry-c-suv-compact-electrique-chinois">notre comparatif Omoda E5 vs Geely Geometry C</a> et <a href="/actualites/omoda-e5-vs-byd-atto-3-evo-suv-compact-electrique-chinois">notre comparatif Omoda E5 vs BYD Atto 3 Evo</a>), place à un nouvel adversaire pour l'Omoda : le XPeng G6, déjà opposé à la Geely Geometry C et à la BYD Atto 3 Evo (voir <a href="/actualites/xpeng-g6-vs-geely-geometry-c-suv-compact-electrique-chinois">notre comparatif XPeng G6 vs Geely Geometry C</a> et <a href="/actualites/xpeng-g6-vs-byd-atto-3-evo-autonomie-reelle">notre comparatif XPeng G6 vs BYD Atto 3 Evo</a>). D'un côté, la vitrine technologique de la marque obsédée par l'intelligence embarquée (voir <a href="/actualites/xpeng-marque-intelligence-artificielle-automobile">notre portrait de XPeng</a>) ; de l'autre, un modèle plus compact taillé pour le rapport prix-prestations.</p>
+
+<h2>Gabarit et style : le G6 nettement plus grand</h2>
+<p>L'écart de gabarit est net : le XPeng G6 mesure 4,753 m contre 4,424 m pour l'Omoda E5, soit 329 mm de plus, l'équivalent d'une catégorie de taille supérieure malgré une classification commune en « SUV compact ». Le G6 assume une silhouette basse et aérodynamique typique des SUV électriques nouvelle génération, quand l'Omoda E5 mise sur une silhouette plus classique héritée du design maison Chery (voir <a href="/actualites/design-chinois-identite-visuelle-marques-auto">notre article sur l'identité visuelle du design chinois</a>).</p>
+
+<h2>Batterie et recharge : le G6 dans une autre dimension</h2>
+<p>Les deux SUV sont 100 % électriques, mais l'écart de batterie est important : 87,5 kWh pour le XPeng G6 contre 61 kWh pour l'Omoda E5, soit 26,5 kWh de plus côté XPeng, près de 43 % de capacité supplémentaire. L'écart se creuse largement sur la recharge rapide : le G6 plafonne à 280 kW en courant continu grâce à son architecture 800V, contre seulement 80 kW pour l'Omoda E5, soit 3,5 fois plus rapide (voir <a href="/actualites/charge-800v-zeekr-xpeng-humilient-constructeurs-historiques">notre article sur la course à la charge rapide chez les constructeurs chinois</a> et <a href="/actualites/xpeng-g6-vs-tesla-model-y-recharge-rapide">notre comparatif XPeng G6 vs Tesla Model Y sur ce même critère</a>).</p>
+
+<h2>Performances : le G6 largement devant</h2>
+<ul>
+  <li><strong>XPeng G6</strong> : 296 ch, 0 à 100 km/h en 6,9 s.</li>
+  <li><strong>Omoda E5</strong> : 204 ch, 0 à 100 km/h en 7,6 s.</li>
+</ul>
+<p>Avec 92 chevaux de plus, soit environ 45 % de puissance supplémentaire, le XPeng G6 devance logiquement l'Omoda E5 au chronomètre de 0,7 seconde. Un écart cohérent avec la vocation plus sportive et plus premium affichée par XPeng sur ce modèle.</p>
+
+<h2>Autonomie et efficience : le G6 devant en absolu, l'Omoda plus sobre au kWh</h2>
+<p>Sur l'autonomie, l'écart est net : 525 km pour le XPeng G6 contre 430 km pour l'Omoda E5, soit 95 km de plus, environ 22 % d'autonomie supplémentaire (voir <a href="/actualites/top-10-voitures-chinoises-meilleure-autonomie-2026">notre classement des voitures chinoises à la meilleure autonomie</a>). Mais rapportée au kWh, la tendance s'inverse : l'Omoda E5 affiche une efficience d'environ 7,05 km/kWh contre 6 km/kWh pour le G6, soit près de 18 % de rendement en plus — la contrepartie logique d'un gabarit et d'une puissance bien supérieurs chez XPeng. Le coût énergétique reste proche : 3,5 €/100 km pour le G6 contre 3,3 €/100 km pour l'Omoda E5.</p>
+
+<h2>Habitabilité et coffre : le G6 large vainqueur</h2>
+<p>Côté coffre, l'écart est important : 571 litres pour le XPeng G6 contre 378 litres pour l'Omoda E5, soit 193 litres de plus, environ 51 % de volume utile supplémentaire — un argument de poids pour les familles ou les longs trajets. Les deux SUV affichent 5 places, sans écart sur ce point.</p>
+
+<h2>Prix et garantie : l'Omoda E5 reprend l'avantage du budget et de la durée</h2>
+<p>Côté tarif, l'écart reste modéré : environ 39 600 € pour l'Omoda E5 contre 43 000 € pour le XPeng G6, soit 3 400 € de plus pour le modèle XPeng, moins de 9 % d'écart. La garantie penche nettement du côté chinois le plus accessible : 7 ans pour l'Omoda E5, contre seulement 5 ans chez XPeng, dans la lignée de la politique de garantie généreuse désormais standard chez Chery et ses filiales (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties constructeurs chinois</a>), un argument qui pèse aussi sur la décote à la revente (voir <a href="/actualites/decote-voitures-chinoises-risque-mg-byd-2026">notre analyse de la décote des voitures chinoises</a>).</p>
+
+<h2>Sécurité et technologie : l'écart se creuse nettement en faveur du G6</h2>
+<p>Sur la sécurité, aucun écart : les deux SUV affichent 5 étoiles Euro NCAP, confirmant le niveau désormais installé des voitures chinoises sur ce critère (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point complet sur la sécurité des voitures chinoises</a>). Côté technologie embarquée en revanche, l'écart est net : le XPeng G6 profite du savoir-faire du constructeur en matière d'aides à la conduite avancées et de capteurs lidar (voir <a href="/actualites/lidar-xpeng-vs-vision-tesla-conduite-autonome-france">notre comparatif Lidar XPeng vs Vision Tesla</a>), quand l'Omoda E5 reste correcte sur l'essentiel sans viser ce niveau de sophistication (voir aussi <a href="/actualites/omoda-e5-vs-hyundai-kona-electric-design-futuriste">notre comparatif Omoda E5 vs Hyundai Kona Electric</a>).</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>XPeng G6</strong> : pour qui veut l'autonomie la plus large du duel, la recharge la plus rapide, le coffre le plus grand et la dotation technologique la plus avancée, sans être gêné par un supplément de 3 400 € ni une garantie plus courte.</li>
+  <li><strong>Omoda E5</strong> : pour qui veut le tarif le plus accessible du duel, la garantie la plus longue et le meilleur rendement énergétique au kWh, sans chercher l'autonomie, la recharge, le coffre ni la dotation technologique les plus poussés.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Ce duel oppose deux philosophies du SUV compact électrique chinois, avec un écart de prix limité à 3 400 €. Pour qui veut l'autonomie la plus large, la recharge la plus rapide, le coffre le plus généreux et la dotation technologique la plus avancée du segment, le <strong>XPeng G6</strong> l'emporte sur la quasi-totalité des critères qui comptent. Mais pour qui privilégie un budget plus serré, une garantie plus longue et un meilleur rendement énergétique au kWh, l'<strong>Omoda E5</strong> reste un choix cohérent, sur un gabarit plus compact.</p>
+`,
+  },
+  {
     slug: 'byd-atto-3-evo-vs-omoda-5-shs-h-suv-compact-electrique-hybride',
     title: 'BYD Atto 3 Evo vs Omoda 5 SHS-H : le SUV compact chinois, 100 % électrique ou hybride ?',
     excerpt:
