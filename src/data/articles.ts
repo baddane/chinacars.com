@@ -19,6 +19,56 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'zeekr-x-vs-omoda-e5-suv-compact-electrique-chinois',
+    title: 'Zeekr X vs Omoda E5 : quel SUV compact électrique chinois choisir en 2026 ?',
+    excerpt:
+      "Deux fois plus de puissance et un 0 à 100 km/h divisé par deux d'un côté, 5 400 € d'économie et 2 ans de garantie en plus de l'autre : le Zeekr X affronte l'Omoda E5 avec un gabarit quasi identique (8 mm d'écart). Verdict chiffré, sans concession.",
+    image: 'https://www.wandaloo.com/files/Voiture-Neuve/zeekr-x.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-09-29T09:00:00+02:00',
+    readingTime: 7,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le SUV compact premium de Geely face au SUV malin de Chery</h2>
+<p>Après avoir opposé le Zeekr X à la Geely Geometry C (voir <a href="/actualites/zeekr-x-vs-geely-geometry-c-suv-compact-electrique-chinois">notre comparatif Zeekr X vs Geely Geometry C</a>) et l'Omoda E5 à la Geely Geometry C, à la BYD Atto 3 Evo et au XPeng G6 (voir <a href="/actualites/omoda-e5-vs-geely-geometry-c-suv-compact-electrique-chinois">notre comparatif Omoda E5 vs Geely Geometry C</a> et <a href="/actualites/xpeng-g6-vs-omoda-e5-suv-compact-electrique-chinois">notre comparatif XPeng G6 vs Omoda E5</a>), il restait à réunir le Zeekr X et l'Omoda E5. Deux SUV compacts électriques de gabarit presque identique, mais deux philosophies : la performance premium d'un côté, le rapport prix-garantie de l'autre.</p>
+
+<h2>Gabarit et style : quasiment à égalité</h2>
+<p>Le Zeekr X mesure 4,432 m contre 4,424 m pour l'Omoda E5, soit seulement 8 mm d'écart : les deux SUV occupent la même place de parking. Le Zeekr X affiche un style plus affirmé et une finition premium héritée de la marque haut de gamme de Geely, tandis que l'Omoda E5 reste sur des lignes plus classiques (voir <a href="/actualites/design-chinois-identite-visuelle-marques-auto">notre article sur l'identité visuelle du design chinois</a>).</p>
+
+<h2>Batterie et recharge : l'avantage nettement pour le Zeekr X</h2>
+<p>Les deux SUV sont 100 % électriques. Côté batterie, l'écart est modéré : 66 kWh pour le Zeekr X contre 61 kWh pour l'Omoda E5, soit 5 kWh de plus, environ 8 % de capacité supplémentaire. La recharge rapide creuse davantage l'écart : le Zeekr X accepte jusqu'à 150 kW en courant continu, contre 80 kW pour l'Omoda E5, soit près de 1,9 fois plus rapide, ce qui change concrètement la durée d'un arrêt sur autoroute (voir <a href="/actualites/charge-800v-zeekr-xpeng-humilient-constructeurs-historiques">notre article sur la course à la charge rapide chez les constructeurs chinois</a>).</p>
+
+<h2>Performances : le Zeekr X dans une autre catégorie</h2>
+<ul>
+  <li><strong>Zeekr X</strong> : 428 ch, 0 à 100 km/h en 3,8 s.</li>
+  <li><strong>Omoda E5</strong> : 204 ch, 0 à 100 km/h en 7,6 s.</li>
+</ul>
+<p>Le Zeekr X développe 224 chevaux de plus que l'Omoda E5, soit plus du double de puissance, et abat le 0 à 100 km/h en 3,8 secondes contre 7,6 secondes : exactement deux fois plus vite. Le Zeekr X joue dans la cour des SUV électriques sportifs, quand l'Omoda E5 assure un rythme familial confortable.</p>
+
+<h2>Autonomie et efficience : quasi-égalité, l'Omoda plus sobre au kWh</h2>
+<p>Sur l'autonomie, le duel est serré : 440 km pour le Zeekr X contre 430 km pour l'Omoda E5, soit seulement 10 km d'écart (voir <a href="/actualites/top-10-voitures-chinoises-meilleure-autonomie-2026">notre classement des voitures chinoises à la meilleure autonomie</a>). Rapportée au kWh, l'Omoda E5 se montre plus efficiente : environ 7,05 km/kWh contre 6,67 km/kWh pour le Zeekr X, soit près de 6 % de rendement en plus, la contrepartie logique d'un moteur bien plus puissant. Le coût énergétique reste très proche : 3,4 €/100 km pour le Zeekr X contre 3,3 €/100 km pour l'Omoda E5.</p>
+
+<h2>Habitabilité et coffre : léger avantage à l'Omoda E5</h2>
+<p>Côté coffre, l'Omoda E5 l'emporte : 378 litres contre 362 litres pour le Zeekr X, soit 16 litres de plus, un écart modeste au quotidien. Les deux SUV affichent 5 places, sans écart sur ce point.</p>
+
+<h2>Prix et garantie : l'Omoda E5 reprend la main</h2>
+<p>Côté tarif, l'Omoda E5 est affichée environ 39 600 € contre 45 000 € pour le Zeekr X, soit 5 400 € de plus pour le modèle Zeekr, un peu moins de 14 % d'écart. La garantie penche aussi côté Omoda : 7 ans contre 5 ans chez Zeekr, dans la lignée de la politique généreuse du groupe Chery (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties constructeurs chinois</a>), un argument qui pèse aussi sur la décote à la revente (voir <a href="/actualites/decote-voitures-chinoises-risque-mg-byd-2026">notre analyse de la décote des voitures chinoises</a>).</p>
+
+<h2>Sécurité et technologie</h2>
+<p>Sur la sécurité, aucun écart : les deux SUV affichent 5 étoiles Euro NCAP (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point complet sur la sécurité des voitures chinoises</a>). Côté technologie embarquée, le Zeekr X prend l'avantage grâce à une dotation plus sophistiquée, conforme à son positionnement premium, quand l'Omoda E5 reste correcte sur l'essentiel (voir aussi <a href="/actualites/omoda-e5-vs-hyundai-kona-electric-design-futuriste">notre comparatif Omoda E5 vs Hyundai Kona Electric</a>).</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>Zeekr X</strong> : pour qui veut les performances les plus vives du duel, la recharge la plus rapide et la dotation technologique la plus poussée, sans être gêné par un tarif 5 400 € plus élevé ni une garantie plus courte.</li>
+  <li><strong>Omoda E5</strong> : pour qui veut le tarif le plus accessible, la garantie la plus longue, le meilleur rendement au kWh et un coffre un peu plus grand, sans chercher les performances ni la puissance de charge les plus élevées.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>À gabarit et autonomie quasi identiques, tout se joue sur la performance, la recharge et le budget. Pour qui veut un SUV compact électrique nettement plus rapide, qui recharge presque deux fois plus vite et mieux équipé, le <strong>Zeekr X</strong> l'emporte, au prix de 5 400 € de plus. Mais pour qui privilégie un budget plus serré, 7 ans de garantie et un rendement plus sobre, l'<strong>Omoda E5</strong> reste un choix cohérent et raisonnable.</p>
+`,
+  },
+  {
     slug: 'xpeng-g6-vs-omoda-e5-suv-compact-electrique-chinois',
     title: 'XPeng G6 vs Omoda E5 : quel SUV compact électrique chinois choisir en 2026 ?',
     excerpt:
