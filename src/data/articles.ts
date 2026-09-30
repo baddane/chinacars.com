@@ -19,6 +19,53 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'jaecoo-7-vs-omoda-5-shs-h-suv-chery-phev-ou-hybride',
+    title: 'Jaecoo 7 vs Omoda 5 SHS-H : PHEV ou hybride sans prise, quel SUV Chery choisir en 2026 ?',
+    excerpt:
+      "140 litres de coffre, 18,3 kWh de batterie et 1,5 €/100 km d'économie d'un côté, 5 000 € de moins et 20 ch de plus de l'autre : le Jaecoo 7 PHEV affronte l'Omoda 5 SHS-H, deux SUV du groupe Chery aux philosophies opposées. Verdict chiffré, sans concession.",
+    image: 'https://www.wandaloo.com/files/Voiture-Neuve/jaecoo-7.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-09-30T09:00:00+02:00',
+    readingTime: 7,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux SUV du groupe Chery, deux façons d'électrifier</h2>
+<p>Le Jaecoo 7 et l'Omoda 5 SHS-H sortent de la même maison, mais ne jouent pas dans la même catégorie. Le premier est un SUV familial hybride rechargeable (PHEV) avec 18,3 kWh de batterie ; le second, un SUV compact à hybridation simple (SHS-H), sans prise et avec une batterie de 1,8 kWh (voir <a href="/actualites/omoda-shs-h-hybride-comment-ca-marche">notre explication du fonctionnement de l'hybride Omoda SHS-H</a>). Nous avons déjà confronté le Jaecoo 7 à son cousin Tiggo 8 Pro (voir <a href="/actualites/jaecoo-7-vs-chery-tiggo-8-pro-suv-familial-chery">notre comparatif Jaecoo 7 vs Chery Tiggo 8 Pro</a>) et l'Omoda 5 à la Toyota Yaris Cross (voir <a href="/actualites/omoda-5-shs-h-vs-toyota-yaris-cross-hybride">notre comparatif Omoda 5 SHS-H vs Toyota Yaris Cross</a>) : place au duel interne.</p>
+
+<h2>Gabarit et coffre : le Jaecoo 7 change de dimension</h2>
+<p>Le Jaecoo 7 mesure 4,500 m contre 4,424 m pour l'Omoda 5, soit 76 mm de plus seulement. Pourtant, l'écart de coffre est net : 500 litres contre 360 litres, soit 140 litres de plus (près de 39 %). Les deux SUV accueillent 5 passagers. Pour une famille, c'est l'argument le plus concret du duel.</p>
+
+<h2>Motorisation et performances : l'Omoda 5 légèrement plus vif</h2>
+<ul>
+  <li><strong>Jaecoo 7 PHEV</strong> : 204 ch, 0 à 100 km/h en 8,5 s.</li>
+  <li><strong>Omoda 5 SHS-H</strong> : 224 ch, 0 à 100 km/h en 7,8 s.</li>
+</ul>
+<p>L'Omoda 5 SHS-H développe 20 chevaux de plus et gagne 0,7 seconde sur le 0 à 100 km/h. Un avantage réel mais modeste : aucun des deux n'est un SUV sportif, et le Jaecoo 7 se montre tout à fait suffisant en usage familial.</p>
+
+<h2>Batterie, recharge et autonomie : le vrai clivage</h2>
+<p>Le Jaecoo 7 embarque 18,3 kWh de batterie, rechargeable jusqu'à 40 kW en courant continu, ce qui permet de rouler en électrique sur les trajets courts du quotidien. L'Omoda 5 SHS-H n'a pas de prise : sa batterie de 1,8 kWh se recharge en roulant et n'assure qu'un rôle d'assistance (voir <a href="/actualites/hybride-vs-phev-comparatif-mg-byd">notre comparatif hybride et PHEV</a>). Sur route, l'autonomie totale reste proche : 1 200 km pour le Jaecoo 7 contre 1 100 km pour l'Omoda 5, soit 100 km d'écart.</p>
+
+<h2>Coût énergétique : 1,5 €/100 km d'écart</h2>
+<p>Avec une utilisation régulière de la prise, le Jaecoo 7 est indiqué à environ 5,5 €/100 km contre 7,0 €/100 km pour l'Omoda 5 SHS-H, soit 1,5 € d'économie, près de 21 % de moins. Sur 15 000 km par an, cela représente environ 225 € d'économie annuelle : un gain réel mais qui met plusieurs années à compenser l'écart d'achat, et qui suppose de recharger régulièrement.</p>
+
+<h2>Prix et garantie : l'Omoda 5 nettement plus accessible</h2>
+<p>Le Jaecoo 7 est affiché environ 35 000 € contre 30 000 € pour l'Omoda 5 SHS-H, soit 5 000 € de plus, environ 17 % d'écart. La garantie est identique : 7 ans pour les deux, dans la lignée de la politique du groupe Chery (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties constructeurs chinois</a>). Ce prix d'entrée plus bas pèsera aussi sur la décote (voir <a href="/actualites/decote-voitures-chinoises-risque-mg-byd-2026">notre analyse de la décote des voitures chinoises</a>).</p>
+
+<h2>Sécurité et technologie</h2>
+<p>Sur la sécurité, aucun écart : les deux SUV affichent 5 étoiles Euro NCAP (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point complet sur la sécurité des voitures chinoises</a>). Côté technologie embarquée, la dotation est comparable, avec un niveau équivalent de sophistication.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>Jaecoo 7</strong> : pour qui a besoin d'un grand coffre, peut recharger à domicile ou au travail et veut réduire sa facture d'énergie, sans craindre un ticket d'entrée 5 000 € plus élevé.</li>
+  <li><strong>Omoda 5 SHS-H</strong> : pour qui veut le tarif le plus bas, aucune contrainte de recharge et un peu plus de puissance, en acceptant un coffre de 360 litres et une consommation plus élevée.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Deux SUV, deux usages. Pour une famille qui peut brancher sa voiture et qui a besoin d'espace, le <strong>Jaecoo 7</strong> l'emporte : 140 litres de coffre en plus et une facture énergétique réduite justifient les 5 000 € supplémentaires. Pour un budget plus serré et une utilisation sans prise, l'<strong>Omoda 5 SHS-H</strong> reste un choix simple, un peu plus vif et plus abordable.</p>
+`,
+  },
+  {
     slug: 'zeekr-x-vs-omoda-e5-suv-compact-electrique-chinois',
     title: 'Zeekr X vs Omoda E5 : quel SUV compact électrique chinois choisir en 2026 ?',
     excerpt:
