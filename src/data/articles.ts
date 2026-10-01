@@ -19,6 +19,53 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'byd-seal-u-vs-mg-hs-hybrid-suv-familial-electrique-ou-hybride',
+    title: 'BYD Seal U vs MG HS Hybrid+ : SUV familial 100 % électrique ou hybride, quel choix chinois en 2026 ?',
+    excerpt:
+      "11 600 € de moins, 450 km d'autonomie totale en plus et 82 litres de coffre supplémentaires d'un côté, 5 €/100 km d'économie d'énergie et 140 kW de recharge de l'autre : le BYD Seal U électrique affronte le MG HS Hybrid+. Verdict chiffré, sans concession.",
+    image: 'https://www.wandaloo.com/files/Voiture-Neuve/byd-seal-u-phev.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-10-01T09:00:00+02:00',
+    readingTime: 7,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux SUV familiaux chinois, deux philosophies</h2>
+<p>Le BYD Seal U et le MG HS Hybrid+ visent la même clientèle : des familles qui veulent un grand SUV bien équipé sans payer le prix d'un modèle européen. Mais le premier est 100 % électrique avec une batterie de 87 kWh, le second est un hybride sans prise avec une batterie de 2 kWh (voir <a href="/actualites/hybride-vs-phev-comparatif-mg-byd">notre comparatif hybride et PHEV</a>). Nous avons déjà confronté le Seal U au Peugeot 3008 (voir <a href="/actualites/byd-seal-u-vs-peugeot-3008-suv-familial-electrique-hybride">notre comparatif BYD Seal U vs Peugeot 3008</a>) et le HS Hybrid+ au Jaecoo 7 (voir <a href="/actualites/mg-hs-hybrid-vs-jaecoo-7-suv-familial-chinois">notre comparatif MG HS Hybrid+ vs Jaecoo 7</a>) : voici le duel direct.</p>
+
+<h2>Gabarit et coffre : le MG HS plus spacieux malgré sa taille</h2>
+<p>Le Seal U mesure 4,785 m contre 4,670 m pour le HS, soit 115 mm de plus. Pourtant, c'est le MG qui offre le plus grand coffre : 507 litres contre 425 litres, soit 82 litres de plus (environ 19 %). Les deux SUV accueillent 5 passagers.</p>
+
+<h2>Performances : un écart minime</h2>
+<ul>
+  <li><strong>BYD Seal U</strong> : 218 ch, 0 à 100 km/h en 8,9 s.</li>
+  <li><strong>MG HS Hybrid+</strong> : 214 ch, 0 à 100 km/h en 8,0 s.</li>
+</ul>
+<p>Le Seal U développe 4 chevaux de plus, mais le HS Hybrid+ gagne 0,9 seconde sur le 0 à 100 km/h. Aucun des deux n'est un SUV sportif, et l'écart se ressent peu en usage quotidien.</p>
+
+<h2>Autonomie et recharge : le nerf de la guerre</h2>
+<p>Le Seal U annonce 500 km d'autonomie, avec une recharge rapide jusqu'à 140 kW en courant continu. Le MG HS Hybrid+ n'a pas de prise : sa batterie de 2 kWh se recharge en roulant, et son autonomie totale atteint 950 km, soit 450 km de plus. Pour les grands trajets sans planification, le MG est plus simple ; pour un usage quotidien avec borne à domicile, l'électrique est plus cohérent.</p>
+
+<h2>Coût énergétique : 5 €/100 km d'écart</h2>
+<p>Le Seal U est indiqué à environ 3,5 €/100 km contre 8,5 €/100 km pour le HS Hybrid+, soit 5 € d'économie, près de 59 % de moins. Sur 15 000 km par an, cela représente environ 750 € d'économie annuelle, à condition de recharger à tarif domestique.</p>
+
+<h2>Prix et garantie : le MG nettement moins cher</h2>
+<p>Le Seal U est affiché environ 43 600 € contre 32 000 € pour le HS Hybrid+, soit 11 600 € de plus, environ 36 % d'écart. Avec 750 € d'économie annuelle, il faudrait plus de 15 ans pour compenser la différence d'achat. La garantie est de 6 ans pour BYD contre 7 ans pour MG (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties constructeurs chinois</a>). Le prix d'entrée plus élevé pèsera aussi sur la décote (voir <a href="/actualites/decote-voitures-chinoises-risque-mg-byd-2026">notre analyse de la décote des voitures chinoises</a>).</p>
+
+<h2>Sécurité et technologie</h2>
+<p>Sur la sécurité, aucun écart : les deux SUV affichent 5 étoiles Euro NCAP (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point complet sur la sécurité des voitures chinoises</a>). Côté technologie embarquée, le Seal U conserve un léger avantage de sophistication.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>BYD Seal U</strong> : pour qui peut recharger à domicile, roule beaucoup en usage quotidien et veut une facture d'énergie minimale, sans craindre un ticket d'entrée 11 600 € plus élevé.</li>
+  <li><strong>MG HS Hybrid+</strong> : pour qui veut le tarif le plus bas, aucune contrainte de recharge, un plus grand coffre et une garantie de 7 ans.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Deux SUV, deux usages. Pour un budget serré et des trajets longs sans contrainte, le <strong>MG HS Hybrid+</strong> l'emporte : 11 600 € d'économie à l'achat, 82 litres de coffre en plus et 450 km d'autonomie totale supplémentaires. Pour un foyer équipé d'une borne qui veut réduire au maximum le coût au kilomètre, le <strong>BYD Seal U</strong> reste le meilleur choix, avec 750 € d'économie annuelle et une recharge rapide.</p>
+`,
+  },
+  {
     slug: 'jaecoo-7-vs-omoda-5-shs-h-suv-chery-phev-ou-hybride',
     title: 'Jaecoo 7 vs Omoda 5 SHS-H : PHEV ou hybride sans prise, quel SUV Chery choisir en 2026 ?',
     excerpt:

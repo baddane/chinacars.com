@@ -188,6 +188,9 @@ export const COMPARISON_DUELS: Array<[string, string]> = [
 
   // --- Chinoises entre elles (suite) ---
   ['jaecoo-7', 'omoda-5-shs-h'],
+
+  // --- Chinoises entre elles (suite) ---
+  ['byd-seal-u', 'mg-hs-hybrid'],
 ];
 
 export function duelSlug(a: string, b: string): string {
