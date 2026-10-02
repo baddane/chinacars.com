@@ -19,6 +19,53 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'xpeng-g9-vs-byd-sealion-7-grand-suv-electrique-chinois',
+    title: 'XPeng G9 vs BYD Sealion 7 : quel grand SUV 100 % électrique chinois choisir en 2026 ?',
+    excerpt:
+      "92 ch de plus, 160 litres de coffre supplémentaires et une recharge à 300 kW, mais 9 000 € et un an de garantie de plus à payer : le XPeng G9 défie le BYD Sealion 7 dans un duel de grands SUV électriques 100 % chinois. Verdict chiffré, sans concession.",
+    image: 'https://www.wandaloo.com/files/Voiture-Neuve/xpeng-g9.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-10-02T09:00:00+02:00',
+    readingTime: 7,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux grands SUV électriques chinois, deux niveaux d'ambition</h2>
+<p>Le XPeng G9 et le BYD Sealion 7 visent le même acheteur : un foyer qui veut un grand SUV électrique bien équipé, sans passer par une marque premium européenne. Le G9 joue la carte du haut de gamme technologique, le Sealion 7 celle du prix maîtrisé et de la garantie longue. Nous avons déjà opposé le Sealion 7 au Toyota RAV4 (voir <a href="/actualites/byd-sealion-7-vs-toyota-rav4-suv-coupe-electrique-hybride">notre comparatif BYD Sealion 7 vs Toyota RAV4</a>) et le G9 au NIO EL6 (voir <a href="/actualites/nio-el6-vs-xpeng-g9-grands-suv-electriques-premium">notre duel NIO EL6 vs XPeng G9</a>) : voici la confrontation directe.</p>
+
+<h2>Gabarit et coffre : le G9 beaucoup plus pratique</h2>
+<p>Le G9 mesure 4,891 m contre 4,830 m pour le Sealion 7, soit 61 mm de plus. L'écart est bien plus net sur le coffre : 660 litres contre 500 litres, soit 160 litres de plus, environ 32 % de volume en plus. Les deux SUV accueillent 5 passagers.</p>
+
+<h2>Performances : le XPeng domine</h2>
+<ul>
+  <li><strong>XPeng G9</strong> : 405 ch, 0 à 100 km/h en 6,4 s.</li>
+  <li><strong>BYD Sealion 7</strong> : 313 ch, 0 à 100 km/h en 6,7 s.</li>
+</ul>
+<p>Le G9 développe 92 ch de plus et gagne 0,3 seconde sur le 0 à 100 km/h. L'écart de puissance est conséquent, mais celui de chrono reste modeste : les deux sont très rapides pour des SUV de cette taille.</p>
+
+<h2>Autonomie et recharge : deux avantages pour XPeng</h2>
+<p>Le G9 annonce 540 km d'autonomie avec une batterie de 93,5 kWh, contre 482 km pour le Sealion 7 (batterie de 82,5 kWh), soit 58 km de plus. La recharge rapide accentue l'écart : jusqu'à 300 kW pour le XPeng contre 230 kW pour le BYD, soit 70 kW de plus (voir <a href="/actualites/charge-800v-zeekr-xpeng-humilient-constructeurs-historiques">notre article sur la charge 800V chez Zeekr et XPeng</a>). Sur long trajet, c'est un vrai gain de temps aux bornes compatibles.</p>
+
+<h2>Coût énergétique : un écart minime</h2>
+<p>Le Sealion 7 est indiqué à environ 3,6 €/100 km contre 3,9 €/100 km pour le G9, soit 0,3 € d'écart. Sur 15 000 km par an, cela représente environ 45 € : un critère quasi neutre dans ce duel.</p>
+
+<h2>Prix et garantie : le BYD nettement moins cher</h2>
+<p>Le G9 est affiché environ 57 000 € contre 48 000 € pour le Sealion 7, soit 9 000 € de plus (environ 19 %). Côté garantie, BYD offre 6 ans contre 5 ans chez XPeng (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties constructeurs chinois</a>). Le ticket d'entrée plus élevé du G9 pèsera aussi sur la décote (voir <a href="/actualites/decote-voitures-chinoises-risque-mg-byd-2026">notre analyse de la décote des voitures chinoises</a>).</p>
+
+<h2>Sécurité et technologie</h2>
+<p>Sur la sécurité, aucun écart : les deux SUV affichent 5 étoiles Euro NCAP (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point complet sur la sécurité des voitures chinoises</a>). Côté technologie embarquée, le G9 prend l'avantage avec une dotation plus sophistiquée en aides à la conduite et en interface logicielle.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>XPeng G9</strong> : pour qui roule beaucoup, veut la puissance, la recharge la plus rapide, le plus grand coffre et la technologie la plus avancée, et accepte un surcoût de 9 000 €.</li>
+  <li><strong>BYD Sealion 7</strong> : pour qui veut un grand SUV électrique plus abordable, avec une garantie de 6 ans et une consommation équivalente, sans avoir besoin du volume de coffre maximal.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Le <strong>XPeng G9</strong> l'emporte sur presque tous les critères techniques : 92 ch de plus, 160 litres de coffre en plus, 58 km d'autonomie supplémentaires et une recharge à 300 kW. Le <strong>BYD Sealion 7</strong> reste le choix de la raison pour qui compte chaque euro : 9 000 € d'économie à l'achat et un an de garantie de plus, pour un coût à l'usage quasi identique.</p>
+`,
+  },
+  {
     slug: 'byd-seal-u-vs-mg-hs-hybrid-suv-familial-electrique-ou-hybride',
     title: 'BYD Seal U vs MG HS Hybrid+ : SUV familial 100 % électrique ou hybride, quel choix chinois en 2026 ?',
     excerpt:
