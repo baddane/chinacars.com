@@ -19,6 +19,53 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'mg-hs-hybrid-vs-chery-tiggo-8-pro-suv-familial-hybride-ou-phev-7-places',
+    title: 'MG HS Hybrid+ vs Chery Tiggo 8 Pro : SUV familial hybride ou PHEV 7 places, quel choix chinois en 2026 ?',
+    excerpt:
+      "8 000 € d'économie et 107 litres de coffre en plus pour le MG HS Hybrid+, mais 112 ch, 2 places supplémentaires et une conduite électrique pour le Chery Tiggo 8 Pro : deux grands SUV familiaux chinois, deux philosophies. Verdict chiffré.",
+    image: '/cars/mg-hs-hybrid.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-10-03T09:00:00+02:00',
+    readingTime: 7,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux SUV familiaux chinois, deux manières de faire de l'hybride</h2>
+<p>Le MG HS Hybrid+ et le Chery Tiggo 8 Pro s'adressent aux familles qui veulent de l'espace et de l'équipement sans payer le prix d'un SUV européen. Le premier est un hybride simple (sans prise, batterie de 2 kWh) ; le second est un hybride rechargeable (PHEV) avec 18,3 kWh de batterie (voir <a href="/actualites/hybride-vs-phev-comparatif-mg-byd">notre comparatif hybride et PHEV</a>). Nous avons déjà confronté le HS Hybrid+ au Jaecoo 7 (voir <a href="/actualites/mg-hs-hybrid-vs-jaecoo-7-suv-familial-chinois">notre comparatif MG HS Hybrid+ vs Jaecoo 7</a>) et le Tiggo 8 Pro au Dacia Jogger Hybrid (voir <a href="/actualites/chery-tiggo-8-pro-vs-dacia-jogger-hybrid-suv-7-places-familial">notre duel Tiggo 8 Pro vs Dacia Jogger Hybrid</a>) : voici la confrontation directe.</p>
+
+<h2>Gabarit, places et coffre : deux logiques différentes</h2>
+<p>Le Tiggo 8 Pro mesure 4,722 m contre 4,670 m pour le HS Hybrid+, soit 52 mm de plus. Il propose 7 places contre 5, un atout décisif pour les grandes familles. En contrepartie, le MG offre un coffre plus généreux en configuration 5 places : 507 litres contre 400 litres, soit 107 litres de plus (environ 27 %).</p>
+
+<h2>Performances : puissance contre chrono</h2>
+<ul>
+  <li><strong>Chery Tiggo 8 Pro</strong> : 326 ch, 0 à 100 km/h en 8,0 s.</li>
+  <li><strong>MG HS Hybrid+</strong> : 214 ch, 0 à 100 km/h en 8,0 s.</li>
+</ul>
+<p>Le Tiggo 8 Pro développe 112 ch de plus, mais les deux SUV affichent le même chrono sur le 0 à 100 km/h. Dans l'usage quotidien, la puissance supplémentaire du Chery se ressent surtout en charge, avec 7 passagers ou en remorquage.</p>
+
+<h2>Autonomie et recharge : le PHEV a un atout unique</h2>
+<p>Les deux modèles annoncent une autonomie totale très proche : 1 000 km pour le Tiggo 8 Pro contre 950 km pour le HS Hybrid+, soit 50 km d'écart. La vraie différence est ailleurs : le Tiggo 8 Pro se branche (recharge jusqu'à 40 kW) et peut rouler en mode électrique sur les trajets courts, ce que le MG ne permet pas, sa batterie de 2 kWh servant uniquement à soutenir le moteur thermique (voir <a href="/actualites/charge-800v-zeekr-xpeng-humilient-constructeurs-historiques">notre article sur la recharge rapide chez les constructeurs chinois</a>).</p>
+
+<h2>Coût énergétique : le PHEV nettement plus économe</h2>
+<p>Le Tiggo 8 Pro est indiqué à environ 6,0 €/100 km contre 8,5 €/100 km pour le HS Hybrid+, soit 2,5 € d'écart. Sur 15 000 km par an, cela représente environ 375 € d'économie annuelle en faveur du Chery, à condition de recharger régulièrement : sans recharge, l'avantage du PHEV fond.</p>
+
+<h2>Prix et garantie : le MG nettement moins cher</h2>
+<p>Le HS Hybrid+ démarre autour de 32 000 € contre 40 000 € pour le Tiggo 8 Pro, soit 8 000 € de moins (environ 25 % d'écart). Sur la garantie, c'est l'égalité : 7 ans chez MG comme chez Chery (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties constructeurs chinois</a>). L'écart de prix à l'achat pèsera aussi sur la décote (voir <a href="/actualites/decote-voitures-chinoises-risque-mg-byd-2026">notre analyse de la décote des voitures chinoises</a>).</p>
+
+<h2>Sécurité et technologie</h2>
+<p>Sur la sécurité, aucun écart : les deux SUV affichent 5 étoiles Euro NCAP (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point sur la sécurité des voitures chinoises</a>). Côté technologie embarquée, le Tiggo 8 Pro prend un léger avantage dans notre notation (7/10 contre 6/10).</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>MG HS Hybrid+</strong> : pour une famille de 5 maximum qui veut le plus grand coffre et le prix d'achat le plus bas, sans contrainte de recharge.</li>
+  <li><strong>Chery Tiggo 8 Pro</strong> : pour les familles nombreuses (7 places), les conducteurs qui peuvent se brancher à domicile et veulent rouler en électrique au quotidien, avec 112 ch de plus.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Le <strong>Chery Tiggo 8 Pro</strong> l'emporte sur la puissance, le nombre de places, le coût énergétique et la technologie. Le <strong>MG HS Hybrid+</strong> reste le choix du budget : 8 000 € d'économie à l'achat et 107 litres de coffre en plus, pour la même garantie de 7 ans et le même niveau de sécurité. Vous pouvez tester les deux dans <a href="/comparateur/mg-hs-hybrid-vs-chery-tiggo-8-pro">notre comparateur</a>.</p>
+`,
+  },
+  {
     slug: 'xpeng-g9-vs-byd-sealion-7-grand-suv-electrique-chinois',
     title: 'XPeng G9 vs BYD Sealion 7 : quel grand SUV 100 % électrique chinois choisir en 2026 ?',
     excerpt:
