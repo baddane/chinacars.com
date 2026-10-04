@@ -197,6 +197,9 @@ export const COMPARISON_DUELS: Array<[string, string]> = [
 
   // --- Chinoises entre elles (suite) ---
   ['mg-hs-hybrid', 'chery-tiggo-8-pro'],
+
+  // --- Chinoises entre elles (suite) ---
+  ['byd-atto-2', 'mg-zs-ev'],
 ];
 
 export function duelSlug(a: string, b: string): string {

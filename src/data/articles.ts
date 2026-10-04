@@ -19,6 +19,53 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'byd-atto-2-vs-mg-zs-ev-suv-urbain-phev-ou-electrique-chinois',
+    title: 'BYD Atto 2 vs MG ZS EV : SUV urbain PHEV ou 100 % électrique, quel choix chinois en 2026 ?',
+    excerpt:
+      "560 km d'autonomie en plus et 21 ch de plus pour le BYD Atto 2, mais 4 500 € d'économie, 2 € de moins aux 100 km et 1 an de garantie en plus pour le MG ZS EV : deux SUV urbains chinois, deux motorisations. Verdict chiffré.",
+    image: '/cars/byd-atto-2.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-10-04T09:00:00+02:00',
+    readingTime: 7,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux SUV urbains chinois, deux manières de se passer de l'essence pure</h2>
+<p>Le BYD Atto 2 et le MG ZS EV visent la même clientèle : des urbains qui veulent un SUV compact bien équipé sans payer le prix d'un modèle européen. Le premier est un hybride rechargeable (PHEV) avec une batterie de 7,8 kWh ; le second est une voiture 100 % électrique avec une batterie de 64 kWh (voir <a href="/actualites/hybride-vs-phev-comparatif-mg-byd">notre comparatif hybride et PHEV</a>). Nous avons déjà confronté l'Atto 2 au Peugeot 2008 (voir <a href="/actualites/byd-atto-2-vs-peugeot-2008-suv-urbain-phev-essence">notre duel BYD Atto 2 vs Peugeot 2008</a>) et le ZS EV au Peugeot e-2008 (voir <a href="/actualites/mg-zs-ev-vs-peugeot-e2008-suv-urbain-electrique">notre comparatif MG ZS EV vs Peugeot e-2008</a>) : voici la confrontation directe.</p>
+
+<h2>Gabarit et coffre : le MG un peu plus généreux</h2>
+<p>Les deux SUV sont quasiment identiques en longueur : 4,310 m pour l'Atto 2 contre 4,323 m pour le ZS EV, soit 13 mm d'écart, sans conséquence en ville. Le MG offre un coffre plus grand : 448 litres contre 400 litres, soit 48 litres de plus (environ 12 %). Les deux proposent 5 places.</p>
+
+<h2>Performances : un avantage de puissance, pas de chrono</h2>
+<ul>
+  <li><strong>BYD Atto 2</strong> : 177 ch, 0 à 100 km/h en 8,5 s.</li>
+  <li><strong>MG ZS EV</strong> : 156 ch, 0 à 100 km/h en 8,6 s.</li>
+</ul>
+<p>L'Atto 2 développe 21 ch de plus, mais l'écart sur le 0 à 100 km/h n'est que de 0,1 s. Dans l'usage quotidien, les deux se valent en ville ; le couple instantané du moteur électrique du MG compense largement sa puissance inférieure.</p>
+
+<h2>Autonomie et recharge : deux philosophies</h2>
+<p>L'écart d'autonomie est considérable : 1 000 km pour l'Atto 2 (réservoir plus batterie) contre 440 km pour le ZS EV, soit 560 km de plus pour le BYD. Mais les deux chiffres ne se comparent pas à l'identique : l'Atto 2 se ravitaille en quelques minutes à la pompe, alors que le ZS EV doit se recharger, jusqu'à 92 kW en courant continu (voir <a href="/actualites/charge-800v-zeekr-xpeng-humilient-constructeurs-historiques">notre article sur la recharge rapide chez les constructeurs chinois</a>). Pour les grands rouleurs sans borne à domicile, le PHEV supprime toute contrainte ; pour un usage essentiellement urbain avec recharge à la maison, l'électrique pur suffit.</p>
+
+<h2>Coût énergétique : l'électrique reste plus économe</h2>
+<p>Le ZS EV est indiqué à environ 3,5 €/100 km contre 5,5 €/100 km pour l'Atto 2, soit 2 € d'écart. Sur 15 000 km par an, cela représente environ 300 € d'économie annuelle en faveur du MG.</p>
+
+<h2>Prix et garantie : le MG devant sur les deux tableaux</h2>
+<p>Le ZS EV démarre autour de 25 500 € contre 30 000 € pour l'Atto 2, soit 4 500 € de moins (environ 18 % d'écart). Côté garantie, MG propose 7 ans contre 6 ans chez BYD, un an de plus (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties constructeurs chinois</a>). L'écart de prix à l'achat pèsera aussi sur la décote (voir <a href="/actualites/decote-voitures-chinoises-risque-mg-byd-2026">notre analyse de la décote des voitures chinoises</a>).</p>
+
+<h2>Sécurité et technologie</h2>
+<p>Sur la sécurité, aucun écart : les deux SUV affichent 5 étoiles Euro NCAP (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point sur la sécurité des voitures chinoises</a>). Côté technologie embarquée, l'Atto 2 prend un léger avantage dans notre notation (7/10 contre 6/10).</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>BYD Atto 2</strong> : pour ceux qui font de longs trajets ou n'ont pas de point de recharge, et veulent plus de puissance et un peu plus de technologie.</li>
+  <li><strong>MG ZS EV</strong> : pour les urbains et périurbains qui rechargent à domicile, veulent le prix d'achat et le coût au kilomètre les plus bas, un plus grand coffre et 7 ans de garantie.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Le <strong>MG ZS EV</strong> l'emporte sur le prix, le coût énergétique, le coffre et la garantie : c'est le choix du budget pour un usage quotidien électrique. Le <strong>BYD Atto 2</strong> prend l'avantage sur la puissance, la technologie et surtout l'autonomie totale (1 000 km), au prix de 4 500 € de plus. Vous pouvez tester les deux dans <a href="/comparateur/byd-atto-2-vs-mg-zs-ev">notre comparateur</a>.</p>
+`,
+  },
+  {
     slug: 'mg-hs-hybrid-vs-chery-tiggo-8-pro-suv-familial-hybride-ou-phev-7-places',
     title: 'MG HS Hybrid+ vs Chery Tiggo 8 Pro : SUV familial hybride ou PHEV 7 places, quel choix chinois en 2026 ?',
     excerpt:
