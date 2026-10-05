@@ -19,6 +19,53 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'byd-seal-u-vs-xpeng-g6-suv-electrique-chinois-confort-ou-performance',
+    title: 'BYD Seal U vs XPeng G6 : deux SUV électriques chinois, confort familial ou performance high-tech en 2026 ?',
+    excerpt:
+      "Pour 600 € de moins, le XPeng G6 offre 78 ch de plus, 2 s de moins au 0 à 100 km/h, une recharge deux fois plus rapide et 146 L de coffre en plus. Le BYD Seal U garde une garantie d'un an supplémentaire. Verdict chiffré.",
+    image: '/cars/xpeng-g6.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-10-05T09:00:00+02:00',
+    readingTime: 7,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux SUV électriques chinois au même prix, deux caractères</h2>
+<p>Le BYD Seal U et le XPeng G6 s'affichent à des tarifs quasi identiques (43 600 € contre 43 000 €) avec des batteries de capacité équivalente (87 kWh contre 87,5 kWh). Pourtant, ils ne jouent pas la même partition. Nous avons déjà opposé le Seal U au Peugeot 3008 (voir <a href="/actualites/byd-seal-u-vs-peugeot-3008-suv-familial-electrique-hybride">notre duel BYD Seal U vs Peugeot 3008</a>) et le G6 au BYD Atto 3 Evo (voir <a href="/actualites/xpeng-g6-vs-byd-atto-3-evo-autonomie-reelle">notre comparatif XPeng G6 vs BYD Atto 3 Evo</a>) : voici la confrontation directe.</p>
+
+<h2>Gabarit et coffre : le G6 bien plus pratique</h2>
+<p>Le Seal U mesure 4,785 m contre 4,753 m pour le G6, soit 32 mm de plus. Malgré ce gabarit légèrement supérieur, c'est le XPeng qui offre le plus grand coffre : 571 litres contre 425 litres, soit 146 litres de plus (environ 34 %). Les deux proposent 5 places.</p>
+
+<h2>Performances : l'écart est net</h2>
+<ul>
+  <li><strong>BYD Seal U</strong> : 218 ch, 0 à 100 km/h en 8,9 s.</li>
+  <li><strong>XPeng G6</strong> : 296 ch, 0 à 100 km/h en 6,9 s.</li>
+</ul>
+<p>Le G6 développe 78 ch de plus et gagne 2 secondes au 0 à 100 km/h. Le Seal U reste confortable et suffisant pour un usage familial, mais le XPeng est nettement plus vif en dépassement.</p>
+
+<h2>Autonomie et recharge : le G6 domine</h2>
+<p>L'autonomie annoncée est de 525 km pour le G6 contre 500 km pour le Seal U (25 km de plus). La vraie différence est la recharge : 280 kW maximum pour le XPeng contre 140 kW pour le BYD, soit le double. Sur un long trajet, cela se traduit par des arrêts nettement plus courts (voir <a href="/actualites/charge-800v-zeekr-xpeng-humilient-constructeurs-historiques">notre article sur la recharge rapide chez les constructeurs chinois</a>), à condition de trouver une borne assez puissante.</p>
+
+<h2>Coût énergétique : égalité</h2>
+<p>Les deux SUV sont donnés à environ 3,5 €/100 km. Sur 15 000 km par an, la facture d'énergie est donc la même, autour de 525 €.</p>
+
+<h2>Prix et garantie : un match nul nuancé</h2>
+<p>Le G6 est 600 € moins cher (environ 1,4 %), un écart symbolique. Côté garantie, BYD propose 6 ans contre 5 ans chez XPeng, un an de plus (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties constructeurs chinois</a>). Pour la revente, la notoriété plus installée de BYD peut peser sur la décote (voir <a href="/actualites/decote-voitures-chinoises-risque-mg-byd-2026">notre analyse de la décote des voitures chinoises</a>).</p>
+
+<h2>Sécurité et technologie</h2>
+<p>Les deux obtiennent 5 étoiles Euro NCAP (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point sur la sécurité des voitures chinoises</a>). Sur la technologie embarquée, le G6 prend l'avantage dans notre notation : 9/10 contre 7/10 pour le Seal U.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>BYD Seal U</strong> : pour les familles qui privilégient une conduite sereine, une garantie plus longue et une marque bien implantée.</li>
+  <li><strong>XPeng G6</strong> : pour ceux qui roulent beaucoup et veulent des performances, une recharge ultra-rapide, un grand coffre et le meilleur niveau technologique.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>À prix quasi égal, le <strong>XPeng G6</strong> gagne sur la puissance, l'accélération, l'autonomie, la recharge, le coffre et la technologie. Le <strong>BYD Seal U</strong> ne l'emporte que sur la garantie (6 ans contre 5). Pour un conducteur qui valorise la tranquillité à long terme, le BYD reste défendable ; pour tous les autres, le G6 est le meilleur rapport équipement-prix de ce duel. Vous pouvez tester les deux dans <a href="/comparateur/byd-seal-u-vs-xpeng-g6">notre comparateur</a>.</p>
+`,
+  },
+  {
     slug: 'byd-atto-2-vs-mg-zs-ev-suv-urbain-phev-ou-electrique-chinois',
     title: 'BYD Atto 2 vs MG ZS EV : SUV urbain PHEV ou 100 % électrique, quel choix chinois en 2026 ?',
     excerpt:
