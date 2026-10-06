@@ -19,6 +19,53 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'byd-seal-u-vs-byd-sealion-7-suv-electrique-byd-familial-ou-coupe',
+    title: 'BYD Seal U vs BYD Sealion 7 : deux SUV électriques de la même marque, lequel choisir en 2026 ?',
+    excerpt:
+      "Le Sealion 7 coûte 4 400 € de plus que le Seal U, mais offre 95 ch en plus, 2,2 s de moins au 0 à 100 km/h, une recharge de 230 kW et 75 L de coffre supplémentaires. Le Seal U garde l'avantage sur l'autonomie. Verdict chiffré.",
+    image: '/cars/byd-sealion-7.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-10-06T09:00:00+02:00',
+    readingTime: 7,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux SUV électriques BYD, deux positionnements</h2>
+<p>Au sein de la gamme BYD, le Seal U (43 600 €) et le Sealion 7 (48 000 €) ciblent la même clientèle de familles qui passent à l'électrique, avec des batteries proches (87 kWh contre 82,5 kWh). Le premier est un SUV familial classique, le second un SUV coupé plus puissant et plus technologique. Nous avons déjà opposé le Seal U à un rival français (voir <a href="/actualites/byd-seal-u-vs-peugeot-3008-suv-familial-electrique-hybride">notre duel BYD Seal U vs Peugeot 3008</a>) et le Sealion 7 à un hybride japonais (voir <a href="/actualites/byd-sealion-7-vs-toyota-rav4-suv-coupe-electrique-hybride">notre comparatif BYD Sealion 7 vs Toyota RAV4</a>) : voici le duel interne.</p>
+
+<h2>Gabarit et coffre : le Sealion 7 plus généreux</h2>
+<p>Le Sealion 7 mesure 4,830 m contre 4,785 m pour le Seal U, soit 45 mm de plus. Le volume de coffre suit : 500 litres contre 425 litres, soit 75 litres d'avantage (environ 18 %), malgré une ligne coupée. Les deux proposent 5 places.</p>
+
+<h2>Performances : un écart net</h2>
+<ul>
+  <li><strong>BYD Seal U</strong> : 218 ch, 0 à 100 km/h en 8,9 s.</li>
+  <li><strong>BYD Sealion 7</strong> : 313 ch, 0 à 100 km/h en 6,7 s.</li>
+</ul>
+<p>Le Sealion 7 développe 95 ch de plus et gagne 2,2 secondes au 0 à 100 km/h. Le Seal U se montre suffisant pour un usage familial, mais le Sealion 7 joue dans une autre catégorie en dépassement.</p>
+
+<h2>Autonomie et recharge : deux logiques</h2>
+<p>Le Seal U annonce 500 km contre 482 km pour le Sealion 7, soit 18 km de plus grâce à sa batterie plus grande. En revanche, le Sealion 7 accepte jusqu'à 230 kW en recharge contre 140 kW, soit 90 kW de plus : les arrêts sur autoroute sont nettement plus courts (voir <a href="/actualites/charge-800v-zeekr-xpeng-humilient-constructeurs-historiques">notre article sur la recharge rapide chez les constructeurs chinois</a>), à condition de trouver une borne assez puissante.</p>
+
+<h2>Coût énergétique : quasi égalité</h2>
+<p>Le Seal U est donné à 3,5 €/100 km et le Sealion 7 à 3,6 €/100 km. Sur 15 000 km par an, cela représente environ 525 € contre 540 €, soit 15 € d'écart seulement.</p>
+
+<h2>Prix et garantie</h2>
+<p>Le Sealion 7 coûte 4 400 € de plus (environ 10 %). Les deux bénéficient de la même garantie de 6 ans (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties constructeurs chinois</a>), ce qui neutralise ce critère. Sur la revente, la décote reste un point à surveiller pour les deux modèles (voir <a href="/actualites/decote-voitures-chinoises-risque-mg-byd-2026">notre analyse de la décote des voitures chinoises</a>).</p>
+
+<h2>Sécurité et technologie</h2>
+<p>Les deux obtiennent 5 étoiles Euro NCAP (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point sur la sécurité des voitures chinoises</a>). Dans notre notation technologique, le Sealion 7 marque 8/10 contre 7/10 pour le Seal U.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>BYD Seal U</strong> : pour ceux qui veulent le meilleur prix d'entrée, l'autonomie la plus élevée et une conduite familiale tranquille.</li>
+  <li><strong>BYD Sealion 7</strong> : pour ceux qui roulent beaucoup, veulent des performances, une recharge rapide, un coffre plus grand et un peu plus de technologie.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Le <strong>Sealion 7</strong> gagne sur la puissance, l'accélération, la recharge, le coffre et la technologie ; le <strong>Seal U</strong> l'emporte sur le prix et l'autonomie, avec une garantie identique. Si le budget le permet, les 4 400 € supplémentaires du Sealion 7 sont bien employés ; sinon, le Seal U reste un choix cohérent. Vous pouvez tester les deux dans <a href="/comparateur/byd-seal-u-vs-byd-sealion-7">notre comparateur</a>.</p>
+`,
+  },
+  {
     slug: 'byd-seal-u-vs-xpeng-g6-suv-electrique-chinois-confort-ou-performance',
     title: 'BYD Seal U vs XPeng G6 : deux SUV électriques chinois, confort familial ou performance high-tech en 2026 ?',
     excerpt:
