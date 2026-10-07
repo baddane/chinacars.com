@@ -19,6 +19,53 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'byd-atto-3-evo-vs-mg-zs-ev-suv-electrique-chinois-premium-ou-abordable',
+    title: 'BYD Atto 3 Evo vs MG ZS EV : deux SUV électriques chinois, performance ou prix serré en 2026 ?',
+    excerpt:
+      "L'Atto 3 Evo coûte 13 500 € de plus que le MG ZS EV, mais offre 48 ch en plus, 60 km d'autonomie supplémentaires et une recharge de 150 kW contre 92 kW. Le ZS EV garde l'avantage sur le prix et la garantie de 7 ans. Verdict chiffré.",
+    image: '/cars/byd-atto-3-evo.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-10-07T09:00:00+02:00',
+    readingTime: 7,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux SUV électriques chinois, deux philosophies</h2>
+<p>Le BYD Atto 3 Evo (39 000 €) et le MG ZS EV (25 500 €) sont deux SUV électriques d'origine chinoise, mais ils ne jouent pas dans la même cour tarifaire. Le premier mise sur la technologie et la recharge rapide, le second sur le prix d'achat et une garantie généreuse. Nous avons déjà opposé le MG ZS EV à des rivaux européens (voir <a href="/actualites/mg-zs-ev-vs-peugeot-e2008-suv-urbain-electrique">notre duel MG ZS EV vs Peugeot e-2008</a>) et l'Atto 3 Evo à d'autres chinoises (voir <a href="/actualites/omoda-e5-vs-byd-atto-3-evo-suv-compact-electrique-chinois">notre comparatif Omoda E5 vs BYD Atto 3 Evo</a>) : voici le face-à-face direct.</p>
+
+<h2>Gabarit et coffre : l'Atto 3 Evo plus long, le ZS EV plus malin</h2>
+<p>L'Atto 3 Evo mesure 4,455 m contre 4,323 m pour le ZS EV, soit 132 mm de plus, ce qui se ressent à l'arrière. Côté coffre, c'est pourtant le MG qui prend l'avantage : 448 litres contre 440 litres, soit 8 litres de mieux. Les deux proposent 5 places.</p>
+
+<h2>Performances : un écart net</h2>
+<ul>
+  <li><strong>BYD Atto 3 Evo</strong> : 204 ch, 0 à 100 km/h en 7,3 s.</li>
+  <li><strong>MG ZS EV</strong> : 156 ch, 0 à 100 km/h en 8,6 s.</li>
+</ul>
+<p>L'Atto 3 Evo développe 48 ch de plus et gagne 1,3 seconde au 0 à 100 km/h. Le ZS EV reste largement suffisant en ville et sur route, mais les reprises sont moins vives.</p>
+
+<h2>Autonomie et recharge : l'avantage BYD</h2>
+<p>L'Atto 3 Evo annonce 500 km contre 440 km pour le ZS EV, soit 60 km de plus, avec pourtant une batterie plus petite (60 kWh contre 64 kWh). La recharge accentue l'écart : 150 kW contre 92 kW, soit 58 kW de plus. Sur autoroute, les arrêts sont nettement plus courts (voir <a href="/actualites/charge-800v-zeekr-xpeng-humilient-constructeurs-historiques">notre article sur la recharge rapide chez les constructeurs chinois</a>).</p>
+
+<h2>Coût énergétique : quasi égalité</h2>
+<p>L'Atto 3 Evo est donné à 3,4 €/100 km et le ZS EV à 3,5 €/100 km. Sur 15 000 km par an, cela représente environ 510 € contre 525 €, soit 15 € d'écart seulement : l'énergie ne départage pas les deux modèles.</p>
+
+<h2>Prix et garantie : le ZS EV très à l'aise</h2>
+<p>Le ZS EV coûte 13 500 € de moins, soit environ 35 % d'économie à l'achat. Il bénéficie en plus d'une garantie de 7 ans contre 6 ans pour la BYD (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties constructeurs chinois</a>). Sur la revente, la décote reste un point à surveiller pour les deux modèles (voir <a href="/actualites/decote-voitures-chinoises-risque-mg-byd-2026">notre analyse de la décote des voitures chinoises</a>).</p>
+
+<h2>Sécurité et technologie</h2>
+<p>Les deux obtiennent 5 étoiles Euro NCAP (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point sur la sécurité des voitures chinoises</a>). Dans notre notation technologique, l'Atto 3 Evo marque 7/10 contre 6/10 pour le ZS EV.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>BYD Atto 3 Evo</strong> : pour ceux qui font de longs trajets, veulent une recharge rapide, de meilleures performances et un équipement plus technologique.</li>
+  <li><strong>MG ZS EV</strong> : pour un usage surtout urbain et périurbain, avec un budget serré et l'envie d'une garantie de 7 ans.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>L'<strong>Atto 3 Evo</strong> gagne sur la puissance, l'accélération, l'autonomie, la recharge et la technologie ; le <strong>ZS EV</strong> l'emporte sur le prix, la garantie et, de peu, le coffre. Si vous roulez beaucoup, les 13 500 € supplémentaires se justifient ; sinon, le ZS EV est le choix le plus rationnel. Vous pouvez tester les deux dans <a href="/comparateur/byd-atto-3-evo-vs-mg-zs-ev">notre comparateur</a>.</p>
+`,
+  },
+  {
     slug: 'byd-seal-u-vs-byd-sealion-7-suv-electrique-byd-familial-ou-coupe',
     title: 'BYD Seal U vs BYD Sealion 7 : deux SUV électriques de la même marque, lequel choisir en 2026 ?',
     excerpt:
