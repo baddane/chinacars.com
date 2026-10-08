@@ -19,6 +19,53 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'byd-tang-vs-zeekr-001-grand-suv-7-places-ou-break-premium-electrique',
+    title: 'BYD Tang vs Zeekr 001 : grand SUV 7 places ou break premium électrique, lequel choisir en 2026 ?',
+    excerpt:
+      "Deux électriques chinoises de 4,97 m à 60 000 € environ : le Tang offre 7 places et 6 ans de garantie, le Zeekr 001 gagne 27 ch, 90 km d'autonomie, 1 s au 0 à 100 km/h et une recharge de 200 kW. Verdict chiffré.",
+    image: '/cars/zeekr-001.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-10-08T09:00:00+02:00',
+    readingTime: 7,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux grandes électriques chinoises, deux usages</h2>
+<p>Le BYD Tang (62 000 €) et le Zeekr 001 (60 000 €) mesurent tous deux 4,97 m et visent la même clientèle haut de gamme, mais leur vocation diffère : le premier est un grand SUV familial jusqu'à 7 places, le second un break premium sportif à 5 places. Nous avons déjà confronté le Tang à un rival du segment (voir <a href="/actualites/byd-tang-2026-vs-mg-s9-suv-7-places">notre duel BYD Tang vs MG S9</a>) et le Zeekr 001 à la concurrence (voir <a href="/actualites/zeekr-001-vs-nio-et7-luxe-technologique-chinois">notre comparatif Zeekr 001 vs NIO ET7</a>) : voici leur face-à-face direct.</p>
+
+<h2>Gabarit et habitabilité : 7 places contre 5</h2>
+<p>Les deux ont exactement la même longueur, 4,970 m. La différence est dans l'agencement : le Tang propose 7 places contre 5 pour le Zeekr 001. Côté coffre, le Tang annonce 550 litres contre 539 litres, soit 11 litres de plus. Pour une famille nombreuse, la troisième rangée est un vrai argument.</p>
+
+<h2>Performances : le Zeekr 001 devant</h2>
+<ul>
+  <li><strong>BYD Tang</strong> : 517 ch, 0 à 100 km/h en 4,9 s.</li>
+  <li><strong>Zeekr 001</strong> : 544 ch, 0 à 100 km/h en 3,8 s.</li>
+</ul>
+<p>Le Zeekr 001 développe 27 ch de plus et gagne 1,1 seconde au 0 à 100 km/h. Le Tang reste très rapide pour un SUV de ce gabarit, mais le break est nettement plus sportif.</p>
+
+<h2>Autonomie et recharge : avantage Zeekr</h2>
+<p>Le Zeekr 001 annonce 620 km contre 530 km pour le Tang, soit 90 km de plus, avec une batterie de 100 kWh contre 108,8 kWh. Il recharge aussi plus vite : 200 kW contre 170 kW, soit 30 kW d'écart (voir <a href="/actualites/charge-800v-zeekr-xpeng-humilient-constructeurs-historiques">notre article sur la recharge rapide chez les constructeurs chinois</a>).</p>
+
+<h2>Coût énergétique : le Zeekr plus sobre</h2>
+<p>Le Tang est donné à 4,2 €/100 km et le Zeekr 001 à 3,6 €/100 km. Sur 15 000 km par an, cela représente environ 630 € contre 540 €, soit 90 € d'économie par an pour le Zeekr.</p>
+
+<h2>Prix et garantie</h2>
+<p>Le Zeekr 001 est affiché 2 000 € moins cher (60 000 € contre 62 000 €), soit environ 3 % d'écart. Le Tang reprend l'avantage sur la garantie : 6 ans contre 5 ans (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties constructeurs chinois</a>). Sur la revente, la décote reste un point à surveiller (voir <a href="/actualites/decote-voitures-chinoises-risque-mg-byd-2026">notre analyse de la décote des voitures chinoises</a>).</p>
+
+<h2>Sécurité et technologie</h2>
+<p>Les deux obtiennent 5 étoiles Euro NCAP (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point sur la sécurité des voitures chinoises</a>). Dans notre notation technologique, le Zeekr 001 marque 9/10 contre 8/10 pour le Tang.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>BYD Tang</strong> : pour les familles qui ont besoin de 7 places, d'un coffre généreux et d'une garantie de 6 ans.</li>
+  <li><strong>Zeekr 001</strong> : pour ceux qui privilégient les performances, l'autonomie, la recharge rapide et la technologie, à 5 places.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Le <strong>Zeekr 001</strong> gagne sur la puissance, l'accélération, l'autonomie, la recharge, le coût énergétique, le prix et la technologie ; le <strong>BYD Tang</strong> l'emporte sur le nombre de places, le coffre (de peu) et la garantie. Si vous n'avez pas besoin de 7 places, le Zeekr 001 est le meilleur choix sur le papier ; sinon, le Tang est le plus polyvalent. Vous pouvez tester les deux dans <a href="/comparateur/byd-tang-vs-zeekr-001">notre comparateur</a>.</p>
+`,
+  },
+  {
     slug: 'byd-atto-3-evo-vs-mg-zs-ev-suv-electrique-chinois-premium-ou-abordable',
     title: 'BYD Atto 3 Evo vs MG ZS EV : deux SUV électriques chinois, performance ou prix serré en 2026 ?',
     excerpt:
