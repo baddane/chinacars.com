@@ -19,6 +19,53 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'xpeng-g9-vs-zeekr-001-grand-suv-techno-ou-break-sportif-electrique',
+    title: 'XPeng G9 vs Zeekr 001 : grand SUV techno ou break sportif électrique, lequel choisir en 2026 ?',
+    excerpt:
+      "Deux électriques chinoises premium à moins de 60 000 € : le Zeekr 001 gagne 139 ch, 2,6 s au 0 à 100 km/h et 80 km d'autonomie, le XPeng G9 répond avec une recharge de 300 kW, 121 litres de coffre en plus et un prix de 3 000 € inférieur. Verdict chiffré.",
+    image: '/cars/zeekr-001.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-10-09T09:00:00+02:00',
+    readingTime: 7,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux visions du haut de gamme électrique chinois</h2>
+<p>Le XPeng G9 (57 000 €) et le Zeekr 001 (60 000 €) ciblent le même acheteur : une électrique premium, très équipée, qui rivalise avec les allemandes sans le prix. Le premier est un grand SUV familial, le second un break sportif. Nous avons déjà opposé le G9 au NIO EL6 (voir <a href="/actualites/nio-el6-vs-xpeng-g9-grands-suv-electriques-premium">notre duel NIO EL6 vs XPeng G9</a>) et le Zeekr 001 au NIO ET7 (voir <a href="/actualites/zeekr-001-vs-nio-et7-luxe-technologique-chinois">notre comparatif Zeekr 001 vs NIO ET7</a>) : voici leur face-à-face direct.</p>
+
+<h2>Gabarit et coffre : le G9 plus pratique</h2>
+<p>Le Zeekr 001 mesure 4,970 m contre 4,891 m pour le XPeng G9, soit 79 mm de plus. Pourtant, c'est le G9 qui offre le plus grand coffre : 660 litres contre 539 litres, soit 121 litres de plus. Les deux proposent 5 places.</p>
+
+<h2>Performances : le Zeekr 001 nettement devant</h2>
+<ul>
+  <li><strong>XPeng G9</strong> : 405 ch, 0 à 100 km/h en 6,4 s.</li>
+  <li><strong>Zeekr 001</strong> : 544 ch, 0 à 100 km/h en 3,8 s.</li>
+</ul>
+<p>Le Zeekr 001 développe 139 ch de plus et gagne 2,6 secondes au 0 à 100 km/h. L'écart est net : le break est une vraie sportive, le G9 privilégie le confort.</p>
+
+<h2>Autonomie et recharge : un match équilibré</h2>
+<p>Le Zeekr 001 annonce 620 km contre 540 km pour le G9, soit 80 km de plus, avec une batterie de 100 kWh contre 93,5 kWh. En revanche, le G9 recharge bien plus vite : 300 kW contre 200 kW, soit 100 kW d'écart (voir <a href="/actualites/charge-800v-zeekr-xpeng-humilient-constructeurs-historiques">notre article sur la recharge rapide chez les constructeurs chinois</a>). Sur un long trajet, la puissance de recharge du G9 compense en partie sa moindre autonomie.</p>
+
+<h2>Coût énergétique</h2>
+<p>Le G9 est donné à 3,9 €/100 km et le Zeekr 001 à 3,6 €/100 km. Sur 15 000 km par an, cela représente environ 585 € contre 540 €, soit 45 € d'économie par an pour le Zeekr.</p>
+
+<h2>Prix et garantie</h2>
+<p>Le XPeng G9 est affiché 3 000 € moins cher (57 000 € contre 60 000 €), soit environ 5 % d'écart. La garantie est identique : 5 ans pour les deux (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties constructeurs chinois</a>). Sur la revente, la décote reste un point à surveiller (voir <a href="/actualites/decote-voitures-chinoises-risque-mg-byd-2026">notre analyse de la décote des voitures chinoises</a>).</p>
+
+<h2>Sécurité et technologie</h2>
+<p>Les deux obtiennent 5 étoiles Euro NCAP (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point sur la sécurité des voitures chinoises</a>) et la même note technologique de 9/10 dans notre évaluation.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>XPeng G9</strong> : pour les familles qui veulent un grand coffre, la recharge la plus rapide et un prix plus contenu.</li>
+  <li><strong>Zeekr 001</strong> : pour ceux qui recherchent les performances, l'autonomie et la sobriété d'un break premium.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Le <strong>Zeekr 001</strong> l'emporte sur la puissance, l'accélération, l'autonomie et le coût énergétique ; le <strong>XPeng G9</strong> sur le coffre, la recharge et le prix. Pour le plaisir de conduire, choisissez le Zeekr ; pour l'usage familial et les longs trajets, le G9 est plus malin. Vous pouvez tester les deux dans <a href="/comparateur/xpeng-g9-vs-zeekr-001">notre comparateur</a>.</p>
+`,
+  },
+  {
     slug: 'byd-tang-vs-zeekr-001-grand-suv-7-places-ou-break-premium-electrique',
     title: 'BYD Tang vs Zeekr 001 : grand SUV 7 places ou break premium électrique, lequel choisir en 2026 ?',
     excerpt:
