@@ -19,6 +19,53 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'byd-seal-vs-xpeng-g6-berline-electrique-ou-suv-recharge-rapide',
+    title: 'BYD Seal vs XPeng G6 : berline électrique ou SUV à recharge ultra-rapide, lequel choisir en 2026 ?',
+    excerpt:
+      "Deux électriques chinoises à moins de 46 000 € : la BYD Seal gagne 1 s au 0 à 100 km/h, 45 km d'autonomie et 2 000 € de moins, le XPeng G6 répond avec une recharge de 280 kW, 171 litres de coffre en plus et la techno la mieux notée. Verdict chiffré.",
+    image: '/cars/byd-seal.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-10-10T09:00:00+02:00',
+    readingTime: 7,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Berline ou SUV : deux façons de rouler électrique</h2>
+<p>La BYD Seal (45 000 €) et le XPeng G6 (43 000 €) se disputent le même budget : celui d'une électrique chinoise haut de gamme, bien équipée, capable de tutoyer Tesla. L'une est une berline basse et sportive, l'autre un SUV coupé spacieux. Nous avons déjà confronté la Seal à la Model 3 (voir <a href="/actualites/byd-seal-vs-tesla-model-3-highland-berline-ultime-2026">notre duel BYD Seal vs Tesla Model 3 Highland</a>) et le G6 à la Model Y (voir <a href="/actualites/xpeng-g6-vs-tesla-model-y-recharge-rapide">notre comparatif XPeng G6 vs Tesla Model Y</a>) : voici leur face-à-face direct.</p>
+
+<h2>Gabarit et coffre : le G6 bien plus pratique</h2>
+<p>La Seal mesure 4,800 m contre 4,753 m pour le G6, soit 47 mm de plus. Pourtant, le G6 offre le plus grand coffre : 571 litres contre 400 litres, soit 171 litres de plus, avec un hayon bien plus facile à charger. Les deux proposent 5 places.</p>
+
+<h2>Performances : la Seal plus vive</h2>
+<ul>
+  <li><strong>BYD Seal</strong> : 313 ch, 0 à 100 km/h en 5,9 s.</li>
+  <li><strong>XPeng G6</strong> : 296 ch, 0 à 100 km/h en 6,9 s.</li>
+</ul>
+<p>La Seal développe 17 ch de plus et gagne une seconde complète au 0 à 100 km/h. Son centre de gravité bas lui donne aussi un comportement plus incisif que celui du SUV.</p>
+
+<h2>Autonomie et recharge : deux atouts opposés</h2>
+<p>La Seal annonce 570 km contre 525 km pour le G6, soit 45 km de plus, avec une batterie de 82,5 kWh contre 87,5 kWh. En revanche, le G6 recharge presque deux fois plus vite : 280 kW contre 150 kW, soit 130 kW d'écart (voir <a href="/actualites/charge-800v-zeekr-xpeng-humilient-constructeurs-historiques">notre article sur la recharge 800V</a>). Sur un long trajet, la puissance de recharge du G6 efface largement son déficit d'autonomie.</p>
+
+<h2>Coût énergétique</h2>
+<p>La Seal est donnée à 3,4 €/100 km et le G6 à 3,5 €/100 km. Sur 15 000 km par an, cela représente environ 510 € contre 525 €, soit 15 € d'économie par an pour la Seal : l'écart est négligeable.</p>
+
+<h2>Prix et garantie</h2>
+<p>Le XPeng G6 est affiché 2 000 € moins cher (43 000 € contre 45 000 €), soit environ 4 % d'écart. La BYD Seal prend l'avantage sur la garantie : 6 ans contre 5 ans (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties constructeurs chinois</a>). Sur la revente, la décote reste un point à surveiller (voir <a href="/actualites/decote-voitures-chinoises-risque-mg-byd-2026">notre analyse de la décote des voitures chinoises</a>).</p>
+
+<h2>Sécurité et technologie</h2>
+<p>Les deux obtiennent 5 étoiles Euro NCAP (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point sur la sécurité des voitures chinoises</a>). Côté technologie, le G6 est mieux noté (9/10 contre 8/10 dans notre évaluation), grâce à son assistance à la conduite et à son interface très fluide.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>BYD Seal</strong> : pour les amateurs de conduite, qui veulent la meilleure autonomie, une garantie plus longue et une vraie allure de berline.</li>
+  <li><strong>XPeng G6</strong> : pour les familles et les gros rouleurs qui veulent un grand coffre, une recharge ultra-rapide et un prix plus contenu.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>La <strong>BYD Seal</strong> l'emporte sur la puissance, l'accélération, l'autonomie, le coût énergétique et la garantie ; le <strong>XPeng G6</strong> sur le coffre, la recharge, le prix et la technologie. Pour le plaisir au volant, choisissez la Seal ; pour l'usage familial et les longs trajets, le G6 est plus malin. Vous pouvez tester les deux dans <a href="/comparateur/byd-seal-vs-xpeng-g6">notre comparateur</a>.</p>
+`,
+  },
+  {
     slug: 'xpeng-g9-vs-zeekr-001-grand-suv-techno-ou-break-sportif-electrique',
     title: 'XPeng G9 vs Zeekr 001 : grand SUV techno ou break sportif électrique, lequel choisir en 2026 ?',
     excerpt:
