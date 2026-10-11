@@ -19,6 +19,53 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'byd-han-vs-zeekr-001-berline-premium-ou-break-sportif-electrique',
+    title: 'BYD Han vs Zeekr 001 : berline premium ou break sportif électrique, lequel choisir en 2026 ?',
+    excerpt:
+      "Deux électriques chinoises haut de gamme séparées de 12 000 € : le Zeekr 001 est moins cher, plus puissant, recharge 80 kW plus vite et offre 99 km d'autonomie et 129 litres de coffre en plus ; la BYD Han répond avec une garantie d'un an de plus. Verdict chiffré.",
+    image: '/cars/byd-han.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-10-11T09:00:00+02:00',
+    readingTime: 7,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Berline de prestige ou break de performance</h2>
+<p>La BYD Han (72 000 €) et le Zeekr 001 (60 000 €) visent la même clientèle : celle qui veut une grande électrique chinoise, très puissante et richement équipée, à la place d'une allemande de segment supérieur. La première est une berline classique de 4,995 m, le second un break sportif de 4,970 m. Nous avons déjà confronté la Han à la Mercedes EQE (voir <a href="/actualites/byd-han-vs-mercedes-eqe-luxe-chinois-confort-allemand">notre duel BYD Han vs Mercedes EQE</a>) et le Zeekr 001 à la concurrence chinoise (voir <a href="/actualites/zeekr-001-vs-nio-et7-luxe-technologique-chinois">notre comparatif Zeekr 001 vs NIO ET7</a>) : voici leur face-à-face direct.</p>
+
+<h2>Gabarit et coffre : le break plus pratique</h2>
+<p>Les deux mesurent presque la même longueur, avec 25 mm de plus pour la Han. Le Zeekr 001 offre pourtant le plus grand coffre : 539 litres contre 410 litres, soit 129 litres de plus, avec un hayon plus pratique pour les bagages volumineux. Les deux proposent 5 places.</p>
+
+<h2>Performances : un duel très serré</h2>
+<ul>
+  <li><strong>BYD Han</strong> : 517 ch, 0 à 100 km/h en 3,9 s.</li>
+  <li><strong>Zeekr 001</strong> : 544 ch, 0 à 100 km/h en 3,8 s.</li>
+</ul>
+<p>Le Zeekr 001 développe 27 ch de plus et gagne un dixième de seconde au 0 à 100 km/h. Dans les deux cas, les accélérations dépassent celles de la plupart des sportives thermiques.</p>
+
+<h2>Autonomie et recharge : avantage net au Zeekr</h2>
+<p>Le Zeekr 001 annonce 620 km contre 521 km pour la Han, soit 99 km de plus, grâce à sa batterie de 100 kWh contre 85,4 kWh. Il recharge aussi bien plus vite : 200 kW contre 120 kW, soit 80 kW d'écart (voir <a href="/actualites/charge-800v-zeekr-xpeng-humilient-constructeurs-historiques">notre article sur la recharge 800V</a>). Sur un long trajet, l'écart se compte en arrêts de recharge évités.</p>
+
+<h2>Coût énergétique</h2>
+<p>Le Zeekr 001 est donné à 3,6 €/100 km et la Han à 3,7 €/100 km. Sur 15 000 km par an, cela représente environ 540 € contre 555 €, soit 15 € d'économie par an pour le Zeekr : l'écart est négligeable.</p>
+
+<h2>Prix et garantie</h2>
+<p>Le Zeekr 001 est affiché 12 000 € moins cher (60 000 € contre 72 000 €), soit environ 17 % d'écart, malgré un équipement supérieur. La BYD Han prend l'avantage sur la garantie : 6 ans contre 5 ans (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties constructeurs chinois</a>). Sur la revente, la décote reste un point à surveiller sur ce segment (voir <a href="/actualites/decote-voitures-chinoises-risque-mg-byd-2026">notre analyse de la décote des voitures chinoises</a>).</p>
+
+<h2>Sécurité et technologie</h2>
+<p>Les deux obtiennent 5 étoiles Euro NCAP (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point sur la sécurité des voitures chinoises</a>). Côté technologie, le Zeekr 001 est mieux noté (9/10 contre 8/10 dans notre évaluation), grâce à son interface très complète et à ses aides à la conduite.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>BYD Han</strong> : pour ceux qui préfèrent une vraie berline de représentation, sobre et confortable, avec une garantie de 6 ans.</li>
+  <li><strong>Zeekr 001</strong> : pour les gros rouleurs et les familles qui veulent plus d'autonomie, une recharge rapide, un grand coffre et un prix nettement plus bas.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Le <strong>Zeekr 001</strong> l'emporte sur la puissance, l'accélération, l'autonomie, la recharge, le coffre, le coût énergétique, le prix et la technologie ; la <strong>BYD Han</strong> sur la garantie et sur le format berline. Pour la plupart des acheteurs, le Zeekr 001 offre davantage pour 12 000 € de moins ; la Han reste pertinente pour son style de berline et sa garantie plus longue. Vous pouvez tester les deux dans <a href="/comparateur/byd-han-vs-zeekr-001">notre comparateur</a>.</p>
+`,
+  },
+  {
     slug: 'byd-seal-vs-xpeng-g6-berline-electrique-ou-suv-recharge-rapide',
     title: 'BYD Seal vs XPeng G6 : berline électrique ou SUV à recharge ultra-rapide, lequel choisir en 2026 ?',
     excerpt:
