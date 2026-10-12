@@ -19,6 +19,50 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'mg-zs-hybrid-vs-mg-hs-hybrid-quel-suv-hybride-mg-choisir',
+    title: 'MG ZS Hybrid+ vs MG HS Hybrid+ : quel SUV hybride MG choisir en 2026 ?',
+    excerpt:
+      "Deux SUV hybrides de la même marque séparés de 8 000 € : le ZS Hybrid+ est 33 % moins cher, plus sobre sur le papier et offre 50 km d'autonomie de plus ; le HS Hybrid+ répond avec 19 ch de plus, 64 litres de coffre en plus et un gabarit nettement plus familial. Verdict chiffré.",
+    image: '/cars/mg-hs-hybrid.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-10-12T09:00:00+02:00',
+    readingTime: 6,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux SUV hybrides, une même philosophie</h2>
+<p>Le MG ZS Hybrid+ (24 000 €) et le MG HS Hybrid+ (32 000 €) partagent la même technologie hybride non rechargeable et la même garantie de 7 ans. Le premier est un SUV urbain de 4,323 m, le second un SUV familial de 4,670 m. Nous avons déjà confronté le ZS à l'Omoda 5 (voir <a href="/actualites/omoda-5-vs-mg-zs-hybrid-suv-urbains-abordables">notre duel Omoda 5 vs MG ZS Hybrid+</a>) et le HS à la concurrence japonaise (voir <a href="/actualites/mg-hs-hybrid-vs-toyota-rav4-suv-familial-hybride">notre comparatif MG HS Hybrid+ vs Toyota RAV4</a>) : voici leur face-à-face interne.</p>
+
+<h2>Gabarit et coffre : le HS joue dans une autre catégorie</h2>
+<p>Le HS mesure 347 mm de plus que le ZS. Son coffre atteint 507 litres contre 443 litres, soit 64 litres de plus, ce qui compte pour les poussettes, les valises et les départs en vacances. Les deux proposent 5 places ; le ZS reste en revanche bien plus simple à garer en ville.</p>
+
+<h2>Performances : un écart modeste</h2>
+<ul>
+  <li><strong>MG ZS Hybrid+</strong> : 195 ch, 0 à 100 km/h en 8,7 s.</li>
+  <li><strong>MG HS Hybrid+</strong> : 214 ch, 0 à 100 km/h en 8,0 s.</li>
+</ul>
+<p>Le HS développe 19 ch de plus et gagne 0,7 s au 0 à 100 km/h. Une avance appréciable pour les dépassements en charge, mais pas décisive au quotidien.</p>
+
+<h2>Autonomie et coût d'usage</h2>
+<p>Le ZS annonce 1 000 km entre deux pleins contre 950 km pour le HS, soit 50 km de plus. Il est aussi un peu plus sobre : 8,0 €/100 km contre 8,5 €/100 km. Sur 15 000 km par an, cela représente environ 1 200 € contre 1 275 €, soit 75 € d'économie par an pour le ZS. Pour comparer ces modèles aux motorisations concurrentes, voir <a href="/actualites/mg-zs-hybrid-vs-vw-t-roc-suv-urbain-hybride-essence">notre duel MG ZS Hybrid+ vs VW T-Roc</a>.</p>
+
+<h2>Prix et garantie</h2>
+<p>Le ZS est affiché 8 000 € moins cher (24 000 € contre 32 000 €), soit un tiers d'écart. Les deux bénéficient de la même garantie de 7 ans. Il faut environ 107 ans d'économie d'énergie pour amortir l'écart de prix : le choix se fait sur l'usage et l'espace, pas sur le carburant.</p>
+
+<h2>Sécurité et technologie</h2>
+<p>Les deux obtiennent 5 étoiles Euro NCAP et la même note de technologie (6/10 dans notre évaluation) : à l'équipement, aucun des deux ne prend l'avantage.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>MG ZS Hybrid+</strong> : pour la ville et les petits budgets, avec un prix d'accès bas, une autonomie de 1 000 km et une conduite facile.</li>
+  <li><strong>MG HS Hybrid+</strong> : pour les familles et les gros rouleurs qui veulent un grand coffre, plus de puissance et un vrai confort routier.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Le <strong>ZS Hybrid+</strong> l'emporte sur le prix, l'autonomie et le coût énergétique ; le <strong>HS Hybrid+</strong> sur la puissance, l'accélération, le coffre et le gabarit. Si vous roulez surtout seul ou à deux, le ZS suffit largement et fait économiser 8 000 € ; dès que la famille s'agrandit, le HS justifie son supplément. Vous pouvez tester les deux dans <a href="/comparateur/mg-zs-hybrid-vs-mg-hs-hybrid">notre comparateur</a>.</p>
+`,
+  },
+  {
     slug: 'byd-han-vs-zeekr-001-berline-premium-ou-break-sportif-electrique',
     title: 'BYD Han vs Zeekr 001 : berline premium ou break sportif électrique, lequel choisir en 2026 ?',
     excerpt:
