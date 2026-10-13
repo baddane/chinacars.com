@@ -19,6 +19,50 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'byd-atto-2-vs-byd-atto-3-evo-quel-suv-byd-choisir-hybride-ou-electrique',
+    title: 'BYD Atto 2 vs BYD Atto 3 Evo : quel SUV BYD choisir en 2026, hybride rechargeable ou 100 % électrique ?',
+    excerpt:
+      "Deux SUV de la même marque, deux philosophies : l'Atto 2 PHEV coûte 9 000 € de moins et offre 1 000 km d'autonomie, l'Atto 3 Evo 100 % électrique répond avec 27 ch de plus, un 0 à 100 km/h en 7,3 s et un coût d'usage inférieur de 2,1 €/100 km. Verdict chiffré.",
+    image: '/cars/byd-atto-3-evo.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-10-13T09:00:00+02:00',
+    readingTime: 6,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux SUV BYD, deux manières de rouler</h2>
+<p>La gamme BYD propose deux SUV aux antipodes technologiques : l'Atto 2 (30 000 €), hybride rechargeable de 4,310 m, et l'Atto 3 Evo (39 000 €), SUV compact 100 % électrique de 4,455 m. Nous avons déjà confronté l'Atto 2 à un rival électrique (voir <a href="/actualites/byd-atto-2-vs-mg-zs-ev-suv-urbain-phev-ou-electrique-chinois">notre duel BYD Atto 2 vs MG ZS EV</a>) et l'Atto 3 Evo à la même cible (voir <a href="/actualites/byd-atto-3-evo-vs-mg-zs-ev-suv-electrique-chinois-premium-ou-abordable">notre comparatif BYD Atto 3 Evo vs MG ZS EV</a>) : voici leur face-à-face au sein de la marque.</p>
+
+<h2>Prix et garantie</h2>
+<p>L'Atto 2 est affiché 9 000 € moins cher (30 000 € contre 39 000 €), soit environ 23 % d'économie à l'achat. Les deux bénéficient de la même garantie de 6 ans et de 5 étoiles Euro NCAP.</p>
+
+<h2>Performances : l'électrique prend l'avantage</h2>
+<ul>
+  <li><strong>BYD Atto 2</strong> : 177 ch, 0 à 100 km/h en 8,5 s.</li>
+  <li><strong>BYD Atto 3 Evo</strong> : 204 ch, 0 à 100 km/h en 7,3 s.</li>
+</ul>
+<p>L'Atto 3 Evo développe 27 ch de plus et gagne 1,2 s au 0 à 100 km/h, avec la réponse immédiate d'un moteur électrique.</p>
+
+<h2>Autonomie et recharge</h2>
+<p>L'Atto 2 PHEV annonce 1 000 km entre deux pleins, soit le double de l'Atto 3 Evo (500 km). Pour les longs trajets sans planification, c'est l'argument décisif de l'hybride. L'Atto 3 Evo se rattrape avec une recharge rapide jusqu'à 150 kW sur sa batterie de 60 kWh, alors que la petite batterie de 7,8 kWh de l'Atto 2 ne se recharge pas en courant continu.</p>
+
+<h2>Coût d'usage</h2>
+<p>L'électrique est nettement plus économe : 3,4 €/100 km contre 5,5 €/100 km pour l'Atto 2. Sur 15 000 km par an, cela donne environ 510 € contre 825 €, soit 315 € d'économie par an pour l'Atto 3 Evo. À ce rythme, il faudrait près de 29 ans pour amortir les 9 000 € d'écart de prix : le choix se fait d'abord sur l'usage et le budget d'achat.</p>
+
+<h2>Gabarit et coffre</h2>
+<p>L'Atto 3 Evo mesure 145 mm de plus et offre 440 litres de coffre contre 400 litres, soit 40 litres de plus. Les deux accueillent 5 passagers ; l'Atto 2 reste plus maniable en ville.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>BYD Atto 2</strong> : pour les budgets serrés et les gros rouleurs sans borne à domicile, avec 1 000 km d'autonomie.</li>
+  <li><strong>BYD Atto 3 Evo</strong> : pour ceux qui peuvent recharger chez eux ou au travail et veulent plus de puissance, plus de coffre et un coût au kilomètre réduit.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>L'<strong>Atto 2</strong> l'emporte sur le prix et l'autonomie ; l'<strong>Atto 3 Evo</strong> sur la puissance, l'accélération, le coffre, la recharge rapide et le coût énergétique. Sans possibilité de recharge régulière, l'Atto 2 est le choix de la raison ; avec une borne, l'Atto 3 Evo justifie son supplément. Vous pouvez tester les deux dans <a href="/comparateur/byd-atto-2-vs-byd-atto-3-evo">notre comparateur</a>.</p>
+`,
+  },
+  {
     slug: 'mg-zs-hybrid-vs-mg-hs-hybrid-quel-suv-hybride-mg-choisir',
     title: 'MG ZS Hybrid+ vs MG HS Hybrid+ : quel SUV hybride MG choisir en 2026 ?',
     excerpt:
