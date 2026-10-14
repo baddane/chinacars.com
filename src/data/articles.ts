@@ -19,6 +19,50 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'byd-seagull-vs-mg3-hybrid-citadine-electrique-ou-hybride-chinoise',
+    title: 'BYD Seagull vs MG3 Hybrid+ : quelle citadine chinoise choisir en 2026, 100 % électrique ou full hybride ?',
+    excerpt:
+      "Deux citadines chinoises à moins de 20 000 € : la MG3 Hybrid+ coûte 1 500 € de moins, développe 39 ch de plus et offre 1 000 km d'autonomie, la BYD Seagull répond avec un coût d'usage 2,3 fois inférieur et 15 L de coffre en plus. Verdict chiffré.",
+    image: '/cars/byd-seagull.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-10-14T09:00:00+02:00',
+    readingTime: 6,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux citadines chinoises, deux énergies</h2>
+<p>La BYD Seagull (20 000 €, 3,99 m) et la MG3 Hybrid+ (18 500 €, 4,11 m) se disputent le même budget, mais pas la même philosophie : l'une est 100 % électrique, l'autre full hybride sans prise. Nous avons déjà comparé la Seagull à une rivale chinoise (voir <a href="/actualites/leapmotor-t03-vs-byd-seagull-micro-citadines">Leapmotor T03 vs BYD Seagull</a>) et la MG3 à une rivale française (voir <a href="/actualites/mg3-hybrid-vs-renault-clio-e-tech-hegemonie-francaise">MG3 Hybrid+ vs Renault Clio E-Tech</a>) : voici leur face-à-face direct.</p>
+
+<h2>Prix et garantie</h2>
+<p>La MG3 est affichée 1 500 € moins cher (18 500 € contre 20 000 €), soit 7,5 % d'économie. Elle bénéficie aussi d'une garantie de 7 ans contre 6 ans pour la BYD (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties constructeurs chinois</a>). Les deux affichent 4 étoiles Euro NCAP.</p>
+
+<h2>Performances : avantage MG3</h2>
+<ul>
+  <li><strong>BYD Seagull</strong> : 156 ch, 0 à 100 km/h en 9,1 s.</li>
+  <li><strong>MG3 Hybrid+</strong> : 195 ch, 0 à 100 km/h en 8,0 s.</li>
+</ul>
+<p>La MG3 développe 39 ch de plus et gagne 1,1 s au 0 à 100 km/h : très convaincant pour une citadine.</p>
+
+<h2>Autonomie et recharge</h2>
+<p>L'écart est spectaculaire : 1 000 km d'autonomie pour la MG3 contre 310 km pour la Seagull, soit 690 km de plus, sans jamais se brancher. La BYD se recharge jusqu'à 85 kW en courant continu sur sa batterie de 43 kWh ; la MG3, full hybride avec une petite batterie de 1,8 kWh, ne se recharge pas sur borne.</p>
+
+<h2>Coût d'usage : la Seagull reprend la main</h2>
+<p>L'électrique est bien plus économe : 3,2 €/100 km contre 7,5 €/100 km pour la MG3. Sur 15 000 km par an, cela donne environ 480 € contre 1 125 €, soit 645 € d'économie par an pour la Seagull. Les 1 500 € d'écart de prix sont ainsi amortis en un peu plus de 2 ans : la MG3 est moins chère à l'achat, la BYD à l'usage, à condition de pouvoir la recharger.</p>
+
+<h2>Gabarit et coffre</h2>
+<p>La MG3 mesure 123 mm de plus, mais la Seagull offre 308 litres de coffre contre 293 litres, soit 15 litres de plus. Les deux accueillent 5 passagers ; la Seagull reste plus facile à garer en centre-ville.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>BYD Seagull</strong> : pour les citadins qui rechargent à domicile ou au travail et roulent surtout en ville, avec un coût au kilomètre très bas.</li>
+  <li><strong>MG3 Hybrid+</strong> : pour ceux qui n'ont pas de borne, font de longs trajets et veulent le prix d'achat le plus bas, la meilleure accélération et 1 000 km d'autonomie.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>La <strong>MG3 Hybrid+</strong> l'emporte sur le prix, la puissance, l'accélération, l'autonomie et la garantie ; la <strong>BYD Seagull</strong> sur le coût d'usage et le coffre. Sans possibilité de recharge, la MG3 est le choix évident ; avec une prise à la maison, la Seagull rentabilise vite son léger surcoût. Vous pouvez tester les deux dans <a href="/comparateur/byd-seagull-vs-mg3-hybrid">notre comparateur</a>.</p>
+`,
+  },
+  {
     slug: 'byd-atto-2-vs-byd-atto-3-evo-quel-suv-byd-choisir-hybride-ou-electrique',
     title: 'BYD Atto 2 vs BYD Atto 3 Evo : quel SUV BYD choisir en 2026, hybride rechargeable ou 100 % électrique ?',
     excerpt:
