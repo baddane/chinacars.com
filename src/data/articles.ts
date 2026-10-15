@@ -19,6 +19,50 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'byd-seal-vs-byd-sealion-7-berline-ou-suv-coupe-electrique-byd',
+    title: 'BYD Seal vs BYD Sealion 7 : berline ou SUV coupé, quel haut de gamme électrique BYD choisir en 2026 ?',
+    excerpt:
+      "Même batterie de 82,5 kWh et 313 ch, mais deux carrosseries : la Seal coûte 3 000 € de moins, accélère 0,8 s plus vite et offre 88 km d'autonomie en plus, tandis que le Sealion 7 recharge à 230 kW et gagne 100 L de coffre. Verdict chiffré.",
+    image: '/cars/byd-seal.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-10-15T09:00:00+02:00',
+    readingTime: 6,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux haut de gamme BYD sur la même base</h2>
+<p>La BYD Seal (45 000 €, 4,80 m) et le BYD Sealion 7 (48 000 €, 4,83 m) partagent la même batterie Blade de 82,5 kWh et la même puissance de 313 ch. Tout les sépare pourtant : la première est une berline basse et sportive, le second un SUV coupé plus spacieux. Nous avons déjà confronté la Seal à une rivale chinoise (voir <a href="/actualites/byd-seal-vs-xpeng-g6-berline-electrique-ou-suv-recharge-rapide">BYD Seal vs XPeng G6</a>) et le Sealion 7 à un grand SUV (voir <a href="/actualites/xpeng-g9-vs-byd-sealion-7-grand-suv-electrique-chinois">XPeng G9 vs BYD Sealion 7</a>) : voici leur duel direct.</p>
+
+<h2>Prix et garantie</h2>
+<p>La Seal est affichée 3 000 € moins cher (45 000 € contre 48 000 €), soit environ 6 % d'économie. Les deux bénéficient de 6 ans de garantie et de 5 étoiles Euro NCAP.</p>
+
+<h2>Performances : avantage Seal</h2>
+<ul>
+  <li><strong>BYD Seal</strong> : 313 ch, 0 à 100 km/h en 5,9 s.</li>
+  <li><strong>BYD Sealion 7</strong> : 313 ch, 0 à 100 km/h en 6,7 s.</li>
+</ul>
+<p>À puissance identique, la Seal, plus légère et plus basse, gagne 0,8 s au 0 à 100 km/h.</p>
+
+<h2>Autonomie et recharge</h2>
+<p>La Seal annonce 570 km d'autonomie contre 482 km pour le Sealion 7, soit 88 km de plus. En revanche, le Sealion 7 accepte jusqu'à 230 kW en courant continu contre 150 kW pour la Seal : sur borne ultra-rapide, il récupère beaucoup plus vite de l'énergie, ce qui compense en partie son autonomie moindre sur long trajet.</p>
+
+<h2>Coût d'usage</h2>
+<p>La consommation estimée est de 3,4 €/100 km pour la Seal contre 3,6 €/100 km pour le Sealion 7. Sur 15 000 km par an, cela donne environ 510 € contre 540 €, soit 30 € d'écart : le coût d'usage ne départage pas vraiment les deux modèles.</p>
+
+<h2>Gabarit et coffre : avantage Sealion 7</h2>
+<p>Le Sealion 7 offre 500 litres de coffre contre 400 litres pour la Seal, soit 100 litres de plus, pour une longueur quasi identique (4 830 mm contre 4 800 mm). Les deux accueillent 5 passagers, mais le SUV offre une position de conduite plus haute et un accès plus facile.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>BYD Seal</strong> : pour les conducteurs qui privilégient le prix, l'accélération, l'autonomie et le plaisir de conduite d'une berline.</li>
+  <li><strong>BYD Sealion 7</strong> : pour les familles qui ont besoin de coffre, d'une assise haute et d'une recharge ultra-rapide à 230 kW.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>La <strong>BYD Seal</strong> l'emporte sur le prix, l'accélération, l'autonomie et la consommation ; le <strong>BYD Sealion 7</strong> sur le coffre et la puissance de recharge. Pour rouler beaucoup et à moindre coût, la Seal est le meilleur choix ; pour une famille qui veut du volume, le Sealion 7 justifie ses 3 000 € de plus. Vous pouvez tester les deux dans <a href="/comparateur/byd-seal-vs-byd-sealion-7">notre comparateur</a>.</p>
+`,
+  },
+  {
     slug: 'byd-seagull-vs-mg3-hybrid-citadine-electrique-ou-hybride-chinoise',
     title: 'BYD Seagull vs MG3 Hybrid+ : quelle citadine chinoise choisir en 2026, 100 % électrique ou full hybride ?',
     excerpt:
