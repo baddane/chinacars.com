@@ -19,6 +19,50 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'byd-atto-3-vs-byd-seal-u-suv-compact-ou-familial-electrique-byd',
+    title: 'BYD Atto 3 vs BYD Seal U : SUV compact ou familial, quel SUV électrique BYD choisir en 2026 ?',
+    excerpt:
+      "L'Atto 3 coûte 5 600 € de moins et accélère 1,6 s plus vite, mais le Seal U offre 80 km d'autonomie en plus, une recharge à 140 kW contre 88 kW et 330 mm de longueur supplémentaire. Verdict chiffré.",
+    image: '/cars/byd-atto-3.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-10-16T09:00:00+02:00',
+    readingTime: 6,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux SUV électriques BYD, deux formats</h2>
+<p>Le BYD Atto 3 (38 000 €, 4,46 m) et le BYD Seal U (43 600 €, 4,79 m) sont les deux SUV électriques les plus accessibles de la gamme BYD. Le premier vise la polyvalence urbaine, le second les familles qui roulent beaucoup. Nous avons déjà confronté l'Atto 3 à une rivale chinoise (voir <a href="/actualites/byd-atto-3-vs-geely-geometry-c-suv-electrique-chinois">BYD Atto 3 vs Geely Geometry C</a>) et le Seal U à un autre SUV (voir <a href="/actualites/byd-seal-u-vs-xpeng-g6-suv-electrique-chinois-confort-ou-performance">BYD Seal U vs XPeng G6</a>) : voici leur duel direct.</p>
+
+<h2>Prix et garantie</h2>
+<p>L'Atto 3 est affiché 5 600 € moins cher (38 000 € contre 43 600 €), soit près de 13 % d'économie. Les deux bénéficient de 6 ans de garantie et de 5 étoiles Euro NCAP.</p>
+
+<h2>Performances : avantage Atto 3</h2>
+<ul>
+  <li><strong>BYD Atto 3</strong> : 204 ch, 0 à 100 km/h en 7,3 s.</li>
+  <li><strong>BYD Seal U</strong> : 218 ch, 0 à 100 km/h en 8,9 s.</li>
+</ul>
+<p>Malgré 14 ch de moins, l'Atto 3, plus compact et plus léger, gagne 1,6 s au 0 à 100 km/h.</p>
+
+<h2>Autonomie et recharge : avantage Seal U</h2>
+<p>Le Seal U annonce 500 km d'autonomie (batterie de 87 kWh) contre 420 km pour l'Atto 3 (60 kWh), soit 80 km de plus. Il accepte aussi 140 kW en courant continu contre 88 kW : sur autoroute, les arrêts sont à la fois plus rares et plus courts.</p>
+
+<h2>Coût d'usage</h2>
+<p>La consommation estimée est de 3,4 €/100 km pour l'Atto 3 contre 3,5 €/100 km pour le Seal U. Sur 15 000 km par an, cela donne environ 510 € contre 525 €, soit 15 € d'écart : le coût d'usage ne départage pas les deux modèles.</p>
+
+<h2>Gabarit et coffre</h2>
+<p>Le Seal U mesure 4 785 mm contre 4 455 mm, soit 330 mm de plus, ce qui se ressent à l'arrière et sur la tenue de route à haute vitesse. Paradoxalement, l'Atto 3 propose un coffre légèrement plus grand : 440 litres contre 425 litres. Les deux accueillent 5 passagers.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>BYD Atto 3</strong> : pour un usage mixte ville et périphérie, un budget serré et une bonne accélération.</li>
+  <li><strong>BYD Seal U</strong> : pour les familles et les gros rouleurs qui veulent plus d'autonomie, une recharge rapide et un gabarit confortable.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Le <strong>BYD Atto 3</strong> l'emporte sur le prix, l'accélération et le coffre ; le <strong>BYD Seal U</strong> sur l'autonomie, la puissance de recharge, la puissance et le gabarit. Pour un usage quotidien à moindre coût, l'Atto 3 suffit ; pour partir en famille sur de longues distances, le Seal U justifie ses 5 600 € de plus. Vous pouvez tester les deux dans <a href="/comparateur/byd-atto-3-vs-byd-seal-u">notre comparateur</a>.</p>
+`,
+  },
+  {
     slug: 'byd-seal-vs-byd-sealion-7-berline-ou-suv-coupe-electrique-byd',
     title: 'BYD Seal vs BYD Sealion 7 : berline ou SUV coupé, quel haut de gamme électrique BYD choisir en 2026 ?',
     excerpt:
