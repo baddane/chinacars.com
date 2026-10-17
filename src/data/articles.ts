@@ -19,6 +19,50 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'zeekr-001-vs-xpeng-g6-break-premium-ou-suv-electrique-chinois',
+    title: 'Zeekr 001 vs XPeng G6 : break premium ou SUV électrique, quel haut de gamme chinois choisir en 2026 ?',
+    excerpt:
+      "Le Zeekr 001 écrase le G6 en puissance (544 ch contre 296) et au 0 à 100 km/h (3,8 s contre 6,9 s), mais coûte 17 000 € de plus. Le XPeng G6 répond par une recharge à 280 kW et un plus grand coffre. Verdict chiffré.",
+    image: '/cars/zeekr-001.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-10-17T09:00:00+02:00',
+    readingTime: 6,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux visions du haut de gamme électrique chinois</h2>
+<p>Le Zeekr 001 (60 000 €, 4,97 m) et le XPeng G6 (43 000 €, 4,75 m) incarnent deux façons de s'attaquer aux allemandes : un break sportif de 544 ch d'un côté, un SUV technologique à recharge ultra-rapide de l'autre. Nous avons déjà confronté le Zeekr 001 à une rivale chinoise (voir <a href="/actualites/zeekr-001-vs-nio-et7-luxe-technologique-chinois">Zeekr 001 vs NIO ET7</a>) et le G6 à la BYD Seal (voir <a href="/actualites/byd-seal-vs-xpeng-g6-berline-electrique-ou-suv-recharge-rapide">BYD Seal vs XPeng G6</a>) : voici leur face-à-face direct.</p>
+
+<h2>Prix et garantie</h2>
+<p>Le XPeng G6 est affiché 17 000 € moins cher (43 000 € contre 60 000 €), soit environ 28 % d'économie. Les deux modèles bénéficient de 5 ans de garantie et de 5 étoiles Euro NCAP.</p>
+
+<h2>Performances : avantage Zeekr 001</h2>
+<ul>
+  <li><strong>Zeekr 001</strong> : 544 ch, 0 à 100 km/h en 3,8 s.</li>
+  <li><strong>XPeng G6</strong> : 296 ch, 0 à 100 km/h en 6,9 s.</li>
+</ul>
+<p>Le Zeekr dispose de 248 ch de plus et gagne 3,1 s au 0 à 100 km/h : c'est un autre monde en accélération pure.</p>
+
+<h2>Autonomie et recharge</h2>
+<p>Le Zeekr 001 annonce 620 km d'autonomie (batterie de 100 kWh) contre 525 km pour le G6 (87,5 kWh), soit 95 km de plus. En revanche, le G6 accepte 280 kW en courant continu contre 200 kW : sur un trajet long, ses arrêts sont plus courts, à condition de trouver une borne assez puissante.</p>
+
+<h2>Coût d'usage</h2>
+<p>La consommation estimée est de 3,6 €/100 km pour le Zeekr contre 3,5 €/100 km pour le G6. Sur 15 000 km par an, cela donne environ 540 € contre 525 €, soit 15 € d'écart : le coût d'usage ne départage pas les deux modèles. La vraie différence est à l'achat.</p>
+
+<h2>Gabarit et coffre</h2>
+<p>Le Zeekr mesure 4 970 mm contre 4 753 mm, soit 217 mm de plus. Le G6 propose pourtant le plus grand coffre : 571 litres contre 539 litres. Les deux accueillent 5 passagers.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>Zeekr 001</strong> : pour ceux qui veulent des performances de supercar, la plus grande autonomie et un gabarit de grande routière, avec un budget à la hauteur.</li>
+  <li><strong>XPeng G6</strong> : pour ceux qui cherchent un SUV très technologique, une recharge ultra-rapide et un grand coffre pour 17 000 € de moins.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Le <strong>Zeekr 001</strong> l'emporte sur la puissance, l'accélération, l'autonomie et le gabarit ; le <strong>XPeng G6</strong> sur le prix, la puissance de recharge et le coffre. Si la performance et l'autonomie comptent avant tout, le Zeekr justifie son tarif ; pour un usage quotidien et familial plus raisonnable, le G6 offre l'essentiel pour bien moins cher. Vous pouvez tester les deux dans <a href="/comparateur/zeekr-001-vs-xpeng-g6">notre comparateur</a>.</p>
+`,
+  },
+  {
     slug: 'byd-atto-3-vs-byd-seal-u-suv-compact-ou-familial-electrique-byd',
     title: 'BYD Atto 3 vs BYD Seal U : SUV compact ou familial, quel SUV électrique BYD choisir en 2026 ?',
     excerpt:
