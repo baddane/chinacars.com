@@ -19,6 +19,50 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'zeekr-x-vs-byd-atto-3-evo-suv-compact-premium-ou-suv-electrique-polyvalent',
+    title: 'Zeekr X vs BYD Atto 3 Evo : SUV compact premium ou SUV électrique polyvalent, lequel choisir en 2026 ?',
+    excerpt:
+      "Le Zeekr X double la puissance de l'Atto 3 Evo (428 ch contre 204) et passe de 0 à 100 km/h en 3,8 s contre 7,3 s, mais coûte 6 000 € de plus. L'Atto 3 Evo répond par 60 km d'autonomie en plus, un coffre de 440 litres et 6 ans de garantie. Verdict chiffré.",
+    image: '/cars/zeekr-x.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-10-18T09:00:00+02:00',
+    readingTime: 6,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux SUV compacts électriques, deux philosophies</h2>
+<p>Le Zeekr X (45 000 €, 4,43 m) et la BYD Atto 3 Evo (39 000 €, 4,46 m) occupent le même segment, mais pas le même terrain de jeu : le premier vise le compact premium sportif, la seconde le SUV électrique polyvalent. Nous avons déjà opposé le Zeekr X à l'Omoda E5 (voir <a href="/actualites/zeekr-x-vs-omoda-e5-suv-compact-electrique-chinois">Zeekr X vs Omoda E5</a>) et l'Atto 3 Evo au XPeng G6 (voir <a href="/actualites/byd-atto-3-evo-vs-xpeng-g6-suv-electrique-chinois">BYD Atto 3 Evo vs XPeng G6</a>) : voici leur face-à-face direct.</p>
+
+<h2>Prix et garantie</h2>
+<p>L'Atto 3 Evo est affichée 6 000 € moins cher (39 000 € contre 45 000 €), soit environ 13 % d'économie. Elle bénéficie aussi d'une garantie plus longue : 6 ans contre 5 ans pour le Zeekr X. Les deux obtiennent 5 étoiles Euro NCAP.</p>
+
+<h2>Performances : avantage Zeekr X</h2>
+<ul>
+  <li><strong>Zeekr X</strong> : 428 ch, 0 à 100 km/h en 3,8 s.</li>
+  <li><strong>BYD Atto 3 Evo</strong> : 204 ch, 0 à 100 km/h en 7,3 s.</li>
+</ul>
+<p>Le Zeekr dispose de 224 ch de plus et gagne 3,5 s au 0 à 100 km/h : l'écart est considérable pour un SUV de ce gabarit.</p>
+
+<h2>Autonomie et recharge</h2>
+<p>L'Atto 3 Evo annonce 500 km d'autonomie (batterie de 60 kWh) contre 440 km pour le Zeekr X (66 kWh), soit 60 km de plus malgré une batterie plus petite. La recharge rapide est identique : 150 kW en courant continu pour les deux modèles, donc des arrêts de durée comparable sur autoroute.</p>
+
+<h2>Coût d'usage</h2>
+<p>La consommation estimée est de 3,4 €/100 km pour les deux modèles, soit environ 510 € par an pour 15 000 km. Le coût d'usage ne départage pas ces deux SUV : la vraie différence se joue à l'achat et dans les performances.</p>
+
+<h2>Gabarit et coffre</h2>
+<p>Les deux modèles sont quasi identiques en longueur (4 432 mm contre 4 455 mm, soit 23 mm d'écart) et accueillent 5 passagers. L'Atto 3 Evo est nettement plus pratique avec 440 litres de coffre contre 362 litres, soit 78 litres de plus.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>Zeekr X</strong> : pour ceux qui veulent des performances de sportive, une dotation technologique plus riche (note de 8/10 contre 7/10) et une image premium.</li>
+  <li><strong>BYD Atto 3 Evo</strong> : pour ceux qui privilégient l'autonomie, le volume de coffre, la garantie de 6 ans et un budget plus contenu.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Le <strong>Zeekr X</strong> l'emporte sur la puissance, l'accélération et la technologie ; la <strong>BYD Atto 3 Evo</strong> sur le prix, l'autonomie, le coffre et la garantie. Si vous cherchez le plaisir de conduite, le Zeekr X justifie ses 6 000 € de plus ; pour un usage quotidien et familial, l'Atto 3 Evo offre l'essentiel pour moins cher. Vous pouvez tester les deux dans <a href="/comparateur/zeekr-x-vs-byd-atto-3-evo">notre comparateur</a>.</p>
+`,
+  },
+  {
     slug: 'zeekr-001-vs-xpeng-g6-break-premium-ou-suv-electrique-chinois',
     title: 'Zeekr 001 vs XPeng G6 : break premium ou SUV électrique, quel haut de gamme chinois choisir en 2026 ?',
     excerpt:
