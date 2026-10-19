@@ -19,6 +19,50 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'mg-cyberster-vs-zeekr-001-roadster-electrique-ou-break-premium-sportif',
+    title: 'MG Cyberster vs Zeekr 001 : roadster électrique ou break premium sportif, quelle sportive chinoise choisir en 2026 ?',
+    excerpt:
+      "Le Cyberster accélère plus fort (0 à 100 km/h en 3,2 s contre 3,8 s) et se garantit 7 ans, mais le Zeekr 001 offre 40 km d'autonomie en plus, une recharge à 200 kW, 5 places et 539 litres de coffre pour 5 000 € de moins. Verdict chiffré.",
+    image: '/cars/mg-cyberster.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-10-19T09:00:00+02:00',
+    readingTime: 6,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux sportives électriques, deux usages</h2>
+<p>Le MG Cyberster (65 000 €, 4,54 m) est un roadster deux places ; le Zeekr 001 (60 000 €, 4,97 m) est un break premium cinq places. Tous deux dépassent 500 ch et passent de 0 à 100 km/h en moins de 4 secondes, mais ils ne servent pas le même quotidien. Nous avons déjà opposé le Cyberster à la berline BYD Seal (voir <a href="/actualites/mg-cyberster-vs-byd-seal-06-gt-plaisir-conduite">MG Cyberster vs BYD Seal</a>) et le Zeekr 001 à la BYD Han (voir <a href="/actualites/byd-han-vs-zeekr-001-berline-premium-ou-break-sportif-electrique">BYD Han vs Zeekr 001</a>) : voici leur face-à-face direct.</p>
+
+<h2>Prix et garantie</h2>
+<p>Le Zeekr 001 est affiché 5 000 € moins cher (60 000 € contre 65 000 €), soit environ 8 % d'économie. Le Cyberster reprend l'avantage sur la garantie : 7 ans contre 5 ans. Côté sécurité, le Zeekr obtient 5 étoiles Euro NCAP contre 4 pour le Cyberster.</p>
+
+<h2>Performances : avantage Cyberster sur le chrono</h2>
+<ul>
+  <li><strong>MG Cyberster</strong> : 503 ch, 0 à 100 km/h en 3,2 s.</li>
+  <li><strong>Zeekr 001</strong> : 544 ch, 0 à 100 km/h en 3,8 s.</li>
+</ul>
+<p>Le Zeekr est plus puissant de 41 ch, mais le Cyberster, plus court et plus léger, gagne 0,6 s au 0 à 100 km/h.</p>
+
+<h2>Autonomie et recharge</h2>
+<p>Le Zeekr 001 annonce 620 km (batterie de 100 kWh) contre 580 km pour le Cyberster (77 kWh), soit 40 km de plus. L'écart est plus net en recharge rapide : 200 kW en courant continu contre 144 kW, ce qui raccourcit nettement les arrêts sur autoroute.</p>
+
+<h2>Coût d'usage</h2>
+<p>La consommation estimée est de 3,6 €/100 km pour le Zeekr 001 et de 3,7 €/100 km pour le Cyberster, soit environ 540 € contre 555 € par an pour 15 000 km. L'écart est négligeable : le coût d'usage ne départage pas ces deux modèles.</p>
+
+<h2>Gabarit et coffre</h2>
+<p>Le Zeekr 001 mesure 435 mm de plus (4 970 mm contre 4 535 mm), accueille 5 passagers contre 2 et offre 539 litres de coffre contre 249 litres, soit 290 litres de plus. Le Cyberster assume son statut de voiture plaisir, au détriment du côté pratique.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>MG Cyberster</strong> : pour ceux qui veulent un roadster cabriolet, la meilleure accélération et une garantie de 7 ans, en second véhicule.</li>
+  <li><strong>Zeekr 001</strong> : pour ceux qui veulent une sportive utilisable tous les jours, en famille, avec plus d'autonomie, une recharge plus rapide et la meilleure dotation technologique (9/10 contre 7/10).</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Le <strong>MG Cyberster</strong> l'emporte sur l'accélération, le plaisir cabriolet et la garantie ; le <strong>Zeekr 001</strong> sur le prix, l'autonomie, la recharge, l'espace, la sécurité et la technologie. Pour une seule voiture, le Zeekr 001 est le choix rationnel ; le Cyberster se justifie comme voiture passion. Vous pouvez tester les deux dans <a href="/comparateur/mg-cyberster-vs-zeekr-001">notre comparateur</a>.</p>
+`,
+  },
+  {
     slug: 'zeekr-x-vs-byd-atto-3-evo-suv-compact-premium-ou-suv-electrique-polyvalent',
     title: 'Zeekr X vs BYD Atto 3 Evo : SUV compact premium ou SUV électrique polyvalent, lequel choisir en 2026 ?',
     excerpt:
