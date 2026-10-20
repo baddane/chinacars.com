@@ -19,6 +19,50 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'byd-tang-vs-xpeng-g9-grand-suv-7-places-ou-grand-suv-premium-ultra-rapide',
+    title: 'BYD Tang vs XPeng G9 : grand SUV 7 places ou grand SUV premium à recharge ultra-rapide, lequel choisir en 2026 ?',
+    excerpt:
+      "Le Tang offre 7 places, 112 ch de plus et un 0 à 100 km/h en 4,9 s, mais le XPeng G9 coûte 5 000 € de moins, recharge à 300 kW contre 170 kW et offre 110 litres de coffre en plus. Verdict chiffré.",
+    image: '/cars/byd-tang.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-10-20T09:00:00+02:00',
+    readingTime: 6,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux grands SUV électriques, deux philosophies</h2>
+<p>Le BYD Tang (62 000 €, 4,97 m) est un grand SUV familial jusqu'à 7 places ; le XPeng G9 (57 000 €, 4,89 m) est un grand SUV premium 5 places, centré sur la technologie et la recharge. Nous avons déjà opposé le Tang au Zeekr 001 (voir <a href="/actualites/byd-tang-vs-zeekr-001-grand-suv-7-places-ou-break-premium-electrique">BYD Tang vs Zeekr 001</a>) et le G9 au Sealion 7 (voir <a href="/comparateur/xpeng-g9-vs-byd-sealion-7">XPeng G9 vs BYD Sealion 7</a>) : voici leur face-à-face direct.</p>
+
+<h2>Prix et garantie</h2>
+<p>Le XPeng G9 est affiché 5 000 € moins cher (57 000 € contre 62 000 €), soit environ 8 % d'économie. Le Tang reprend l'avantage sur la garantie : 6 ans contre 5 ans. Les deux modèles obtiennent 5 étoiles Euro NCAP.</p>
+
+<h2>Performances : le Tang bien plus puissant</h2>
+<ul>
+  <li><strong>BYD Tang</strong> : 517 ch, 0 à 100 km/h en 4,9 s.</li>
+  <li><strong>XPeng G9</strong> : 405 ch, 0 à 100 km/h en 6,4 s.</li>
+</ul>
+<p>Le Tang a 112 ch de plus et gagne 1,5 s au 0 à 100 km/h : l'écart se sent surtout aux reprises, avec un SUV chargé.</p>
+
+<h2>Autonomie et recharge : avantage G9</h2>
+<p>L'autonomie est quasiment identique : 540 km pour le G9 (batterie de 93,5 kWh) contre 530 km pour le Tang (108,8 kWh), soit 10 km d'écart. La vraie différence se joue en recharge rapide : 300 kW en courant continu pour le G9 contre 170 kW pour le Tang, ce qui raccourcit nettement les arrêts sur autoroute.</p>
+
+<h2>Coût d'usage</h2>
+<p>La consommation estimée est de 3,9 €/100 km pour le G9 et de 4,2 €/100 km pour le Tang, soit environ 585 € contre 630 € par an pour 15 000 km. Le G9 économise une cinquantaine d'euros par an : un avantage réel mais modeste.</p>
+
+<h2>Gabarit et coffre</h2>
+<p>Le Tang est plus long de 79 mm (4 970 mm contre 4 891 mm) et accueille 7 passagers contre 5. Paradoxalement, le G9 offre le plus grand coffre en configuration 5 places : 660 litres contre 550 litres, soit 110 litres de plus. Si vous avez besoin de 7 places, seul le Tang répond présent.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>BYD Tang</strong> : pour les grandes familles qui veulent 7 vraies places, la meilleure accélération et 6 ans de garantie.</li>
+  <li><strong>XPeng G9</strong> : pour ceux qui roulent beaucoup sur autoroute et veulent une recharge ultra-rapide, un grand coffre, la meilleure dotation technologique (9/10 contre 8/10) et un prix plus bas.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Le <strong>BYD Tang</strong> l'emporte sur la puissance, l'accélération, le nombre de places et la garantie ; le <strong>XPeng G9</strong> sur le prix, la recharge, le coffre, le coût d'usage, l'autonomie (de peu) et la technologie. Sans besoin de 7 places, le G9 est le meilleur choix sur le papier ; pour une famille nombreuse, le Tang reste incontournable. Vous pouvez tester les deux dans <a href="/comparateur/byd-tang-vs-xpeng-g9">notre comparateur</a>.</p>
+`,
+  },
+  {
     slug: 'mg-cyberster-vs-zeekr-001-roadster-electrique-ou-break-premium-sportif',
     title: 'MG Cyberster vs Zeekr 001 : roadster électrique ou break premium sportif, quelle sportive chinoise choisir en 2026 ?',
     excerpt:
