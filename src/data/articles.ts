@@ -19,6 +19,50 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'byd-han-vs-xpeng-g9-berline-premium-ou-grand-suv-high-tech-electrique',
+    title: 'BYD Han vs XPeng G9 : berline premium ou grand SUV high-tech à recharge ultra-rapide, lequel choisir en 2026 ?',
+    excerpt:
+      "La Han dégaine 112 ch de plus et un 0 à 100 km/h en 3,9 s, mais le XPeng G9 coûte 15 000 € de moins, recharge à 300 kW contre 120 kW et offre 250 litres de coffre en plus. Verdict chiffré.",
+    image: '/cars/byd-han.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-10-21T09:00:00+02:00',
+    readingTime: 6,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux flagships électriques, deux carrosseries</h2>
+<p>La BYD Han (72 000 €, 4,995 m) est une berline premium taillée pour la performance ; le XPeng G9 (57 000 €, 4,89 m) est un grand SUV de 5 places, champion de la technologie et de la recharge. Nous avons déjà opposé la Han à la Zeekr 001 (voir <a href="/actualites/byd-han-vs-zeekr-001-berline-premium-ou-break-sportif-electrique">BYD Han vs Zeekr 001</a>) et le G9 au Tang (voir <a href="/comparateur/byd-tang-vs-xpeng-g9">BYD Tang vs XPeng G9</a>) : voici leur face-à-face direct.</p>
+
+<h2>Prix et garantie</h2>
+<p>Le XPeng G9 est affiché 15 000 € moins cher (57 000 € contre 72 000 €), soit environ 21 % d'économie. La Han reprend l'avantage sur la garantie : 6 ans contre 5 ans. Les deux modèles obtiennent 5 étoiles Euro NCAP.</p>
+
+<h2>Performances : la Han est une fusée</h2>
+<ul>
+  <li><strong>BYD Han</strong> : 517 ch, 0 à 100 km/h en 3,9 s.</li>
+  <li><strong>XPeng G9</strong> : 405 ch, 0 à 100 km/h en 6,4 s.</li>
+</ul>
+<p>La Han a 112 ch de plus et gagne 2,5 s au 0 à 100 km/h : un écart considérable, qui place la berline au niveau des sportives.</p>
+
+<h2>Autonomie et recharge : avantage G9</h2>
+<p>L'autonomie est très proche : 540 km pour le G9 (batterie de 93,5 kWh) contre 521 km pour la Han (85,4 kWh), soit 19 km d'écart. La vraie différence se joue en recharge rapide : 300 kW en courant continu pour le G9 contre 120 kW pour la Han, ce qui raccourcit nettement les arrêts sur autoroute.</p>
+
+<h2>Coût d'usage</h2>
+<p>La consommation estimée est de 3,7 €/100 km pour la Han et de 3,9 €/100 km pour le G9, soit environ 555 € contre 585 € par an pour 15 000 km. La Han économise une trentaine d'euros par an : l'écart est négligeable face à l'écart de prix d'achat.</p>
+
+<h2>Gabarit et coffre</h2>
+<p>La Han est plus longue de 104 mm (4 995 mm contre 4 891 mm), mais le G9, plus haut, offre un bien plus grand coffre : 660 litres contre 410 litres, soit 250 litres de plus. Les deux accueillent 5 passagers.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>BYD Han</strong> : pour les amateurs de berline performante qui veulent l'accélération, 6 ans de garantie et un coût d'usage légèrement inférieur.</li>
+  <li><strong>XPeng G9</strong> : pour ceux qui roulent beaucoup sur autoroute, ont besoin d'espace et veulent la meilleure dotation technologique (9/10 contre 8/10) à un prix nettement plus bas.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>La <strong>BYD Han</strong> l'emporte sur la puissance, l'accélération, la garantie et le coût d'usage (de peu) ; le <strong>XPeng G9</strong> sur le prix, la recharge, le coffre, l'autonomie (de peu) et la technologie. Pour un usage familial et des trajets longs, le G9 est le meilleur choix sur le papier ; pour le plaisir de conduire, la Han reste inégalée. Vous pouvez tester les deux dans <a href="/comparateur/byd-han-vs-xpeng-g9">notre comparateur</a>.</p>
+`,
+  },
+  {
     slug: 'byd-tang-vs-xpeng-g9-grand-suv-7-places-ou-grand-suv-premium-ultra-rapide',
     title: 'BYD Tang vs XPeng G9 : grand SUV 7 places ou grand SUV premium à recharge ultra-rapide, lequel choisir en 2026 ?',
     excerpt:
