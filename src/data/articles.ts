@@ -19,6 +19,50 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'mg-marvel-r-vs-byd-sealion-7-suv-electrique-sportif-ou-suv-coupe-recharge-rapide',
+    title: 'MG Marvel R vs BYD Sealion 7 : SUV électrique sportif ou SUV coupé à recharge rapide, lequel choisir en 2026 ?',
+    excerpt:
+      "Le Marvel R coûte 6 000 € de moins, abat le 0 à 100 km/h en 4,9 s et offre 7 ans de garantie, mais le Sealion 7 recharge à 230 kW contre 92 kW, roule 80 km de plus et offre 143 litres de coffre en plus. Verdict chiffré.",
+    image: '/cars/mg-marvel-r.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-10-22T09:00:00+02:00',
+    readingTime: 6,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux SUV électriques, deux philosophies</h2>
+<p>Le MG Marvel R (42 000 €, 4,67 m) est un SUV électrique orienté performance, avec 288 ch et deux moteurs ; le BYD Sealion 7 (48 000 €, 4,83 m) est un SUV coupé plus grand, plus puissant sur le papier et bien plus rapide à recharger. Nous avons déjà opposé le Marvel R au XPeng G6 (voir <a href="/actualites/mg-marvel-r-vs-xpeng-g6-suv-electrique-chinois">MG Marvel R vs XPeng G6</a>) et le Sealion 7 à un grand SUV (voir <a href="/actualites/xpeng-g9-vs-byd-sealion-7-grand-suv-electrique-chinois">XPeng G9 vs BYD Sealion 7</a>) : voici leur face-à-face direct.</p>
+
+<h2>Prix et garantie</h2>
+<p>Le Marvel R est affiché 6 000 € moins cher (42 000 € contre 48 000 €), soit environ 12,5 % d'économie. Il garde aussi l'avantage sur la garantie : 7 ans contre 6 ans. Les deux modèles obtiennent 5 étoiles Euro NCAP.</p>
+
+<h2>Performances : le Marvel R plus vif, le Sealion 7 plus puissant</h2>
+<ul>
+  <li><strong>MG Marvel R</strong> : 288 ch, 0 à 100 km/h en 4,9 s.</li>
+  <li><strong>BYD Sealion 7</strong> : 313 ch, 0 à 100 km/h en 6,7 s.</li>
+</ul>
+<p>Le Sealion 7 a 25 ch de plus, mais le Marvel R, plus léger, gagne 1,8 s au 0 à 100 km/h : la transmission intégrale se ressent nettement aux accélérations.</p>
+
+<h2>Autonomie et recharge : avantage Sealion 7</h2>
+<p>Le Sealion 7 (batterie de 82,5 kWh) annonce 482 km contre 402 km pour le Marvel R (70 kWh), soit 80 km d'écart. Surtout, il encaisse 230 kW en courant continu contre 92 kW : sur autoroute, les arrêts sont beaucoup plus courts.</p>
+
+<h2>Coût d'usage</h2>
+<p>La consommation estimée est identique : 3,6 €/100 km pour les deux, soit environ 540 € par an pour 15 000 km. Le coût d'usage ne départage donc pas les deux SUV : seuls le prix d'achat et la recharge font la différence.</p>
+
+<h2>Gabarit et coffre</h2>
+<p>Le Sealion 7 est plus long de 156 mm (4 830 mm contre 4 674 mm) et offre un coffre nettement supérieur : 500 litres contre 357 litres, soit 143 litres de plus. Les deux accueillent 5 passagers.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>MG Marvel R</strong> : pour ceux qui veulent un SUV électrique rapide, 6 000 € moins cher et couvert 7 ans, avec surtout des trajets urbains et périurbains.</li>
+  <li><strong>BYD Sealion 7</strong> : pour les familles qui roulent beaucoup, ont besoin de volume et veulent une recharge rapide et une meilleure dotation technologique (8/10 contre 7/10).</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Le <strong>MG Marvel R</strong> l'emporte sur le prix, l'accélération et la garantie ; le <strong>BYD Sealion 7</strong> sur la puissance, l'autonomie, la recharge, le coffre et la technologie. Pour un usage familial et des trajets longs, le Sealion 7 justifie ses 6 000 € de plus ; pour un SUV électrique performant à prix contenu, le Marvel R reste très cohérent. Vous pouvez tester les deux dans <a href="/comparateur/mg-marvel-r-vs-byd-sealion-7">notre comparateur</a>.</p>
+`,
+  },
+  {
     slug: 'byd-han-vs-xpeng-g9-berline-premium-ou-grand-suv-high-tech-electrique',
     title: 'BYD Han vs XPeng G9 : berline premium ou grand SUV high-tech à recharge ultra-rapide, lequel choisir en 2026 ?',
     excerpt:
