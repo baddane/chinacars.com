@@ -19,6 +19,50 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'zeekr-x-vs-mg-marvel-r-suv-compact-premium-ou-suv-electrique-performant-abordable',
+    title: 'Zeekr X vs MG Marvel R : SUV compact premium ou SUV électrique performant et abordable, lequel choisir en 2026 ?',
+    excerpt:
+      "Le Zeekr X affiche 428 ch contre 288, un 0 à 100 km/h en 3,8 s contre 4,9 s, 38 km d'autonomie de plus et une recharge à 150 kW contre 92 kW, pour 3 000 € de plus. Le Marvel R répond par 7 ans de garantie, un SUV plus long de 242 mm et un prix contenu. Verdict chiffré.",
+    image: '/cars/zeekr-x.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-10-23T09:00:00+02:00',
+    readingTime: 6,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux SUV électriques chinois, deux approches de la performance</h2>
+<p>Le Zeekr X (45 000 €, 4,43 m) est un SUV compact premium au caractère très sportif ; le MG Marvel R (42 000 €, 4,67 m) est un SUV électrique plus long, performant lui aussi, mais positionné sur le prix et la garantie. Nous avons déjà confronté le Zeekr X à une rivale compacte (voir <a href="/actualites/zeekr-x-vs-byd-atto-3-evo-suv-compact-premium-ou-suv-electrique-polyvalent">Zeekr X vs BYD Atto 3 Evo</a>) et le Marvel R à une autre électrique chinoise (voir <a href="/actualites/mg-marvel-r-vs-xpeng-g6-suv-electrique-chinois">MG Marvel R vs XPeng G6</a>) : voici leur duel direct.</p>
+
+<h2>Prix et garantie</h2>
+<p>Le Marvel R est affiché 3 000 € moins cher (42 000 € contre 45 000 €), soit environ 7 % d'économie. Il prend aussi l'avantage sur la garantie : 7 ans contre 5 ans pour le Zeekr X. Les deux modèles obtiennent 5 étoiles Euro NCAP.</p>
+
+<h2>Performances : le Zeekr X change de catégorie</h2>
+<ul>
+  <li><strong>Zeekr X</strong> : 428 ch, 0 à 100 km/h en 3,8 s.</li>
+  <li><strong>MG Marvel R</strong> : 288 ch, 0 à 100 km/h en 4,9 s.</li>
+</ul>
+<p>Le Zeekr X offre 140 ch de plus et gagne 1,1 s au 0 à 100 km/h. Le Marvel R reste très rapide pour son prix, mais le Zeekr X joue clairement dans la cour des sportives.</p>
+
+<h2>Autonomie et recharge : avantage Zeekr X</h2>
+<p>Malgré une batterie plus petite (66 kWh contre 70 kWh), le Zeekr X annonce 440 km contre 402 km pour le Marvel R, soit 38 km de plus. Il recharge aussi plus vite en courant continu : 150 kW contre 92 kW, de quoi raccourcir nettement les arrêts sur autoroute.</p>
+
+<h2>Coût d'usage</h2>
+<p>La consommation estimée est de 3,4 €/100 km pour le Zeekr X contre 3,6 €/100 km pour le Marvel R, soit environ 510 € contre 540 € par an pour 15 000 km. L'écart de 30 € par an est symbolique : il ne compense pas les 3 000 € de prix d'achat supplémentaires.</p>
+
+<h2>Gabarit et coffre</h2>
+<p>Le Marvel R est plus long de 242 mm (4 674 mm contre 4 432 mm), ce qui se retrouve à l'intérieur, mais pas dans le coffre : 357 litres contre 362 litres pour le Zeekr X, soit seulement 5 litres d'écart. Les deux accueillent 5 passagers. Le Zeekr X est donc plus facile à garer en ville à volume de chargement quasi équivalent.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>Zeekr X</strong> : pour ceux qui veulent un SUV compact premium, très rapide, avec une meilleure autonomie, une recharge rapide et une dotation technologique de 8/10.</li>
+  <li><strong>MG Marvel R</strong> : pour ceux qui privilégient un prix plus bas, 7 ans de garantie et un gabarit plus généreux, avec des trajets surtout urbains et périurbains.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Le <strong>Zeekr X</strong> l'emporte sur la puissance, l'accélération, l'autonomie, la recharge, le coffre (de peu), la consommation et la technologie ; le <strong>MG Marvel R</strong> sur le prix, la garantie et la longueur. Pour 3 000 € de plus, le Zeekr X offre un net gain de performances et de recharge, ce qui le rend plus convaincant sur le papier ; le Marvel R reste le choix rationnel pour qui veut rester sous la barre des 45 000 € avec 7 ans de tranquillité. Vous pouvez tester les deux dans <a href="/comparateur/zeekr-x-vs-mg-marvel-r">notre comparateur</a>.</p>
+`,
+  },
+  {
     slug: 'mg-marvel-r-vs-byd-sealion-7-suv-electrique-sportif-ou-suv-coupe-recharge-rapide',
     title: 'MG Marvel R vs BYD Sealion 7 : SUV électrique sportif ou SUV coupé à recharge rapide, lequel choisir en 2026 ?',
     excerpt:
