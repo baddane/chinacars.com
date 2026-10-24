@@ -19,6 +19,50 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'mg-marvel-r-vs-byd-seal-u-suv-electrique-sportif-ou-suv-familial-grande-autonomie',
+    title: 'MG Marvel R vs BYD Seal U : SUV électrique sportif ou SUV familial grande autonomie, lequel choisir en 2026 ?',
+    excerpt:
+      "Le MG Marvel R affiche 288 ch contre 218, un 0 à 100 km/h en 4,9 s contre 8,9 s, 7 ans de garantie et 1 600 € de moins. Le BYD Seal U répond par 98 km d'autonomie en plus, une recharge à 140 kW contre 92 kW et 68 litres de coffre supplémentaires. Verdict chiffré.",
+    image: '/cars/mg-marvel-r.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-10-24T09:00:00+02:00',
+    readingTime: 6,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux SUV électriques chinois, deux philosophies</h2>
+<p>Le MG Marvel R (42 000 €, 4,67 m) mise sur la performance et la garantie ; le BYD Seal U (43 600 €, 4,79 m) sur l'autonomie, la recharge et l'espace pour les familles. Nous avons déjà confronté le Marvel R à une autre électrique chinoise (voir <a href="/actualites/mg-marvel-r-vs-xpeng-g6-suv-electrique-chinois">MG Marvel R vs XPeng G6</a>) et le Seal U à un rival tout aussi ambitieux (voir <a href="/actualites/byd-seal-u-vs-xpeng-g6-suv-electrique-chinois-confort-ou-performance">BYD Seal U vs XPeng G6</a>) : voici leur duel direct.</p>
+
+<h2>Prix et garantie : avantage Marvel R</h2>
+<p>Le Marvel R est affiché 1 600 € moins cher (42 000 € contre 43 600 €), soit environ 4 % d'économie. Il prend aussi l'avantage sur la garantie : 7 ans contre 6 ans pour le Seal U. Les deux modèles obtiennent 5 étoiles Euro NCAP.</p>
+
+<h2>Performances : le Marvel R change de braquet</h2>
+<ul>
+  <li><strong>MG Marvel R</strong> : 288 ch, 0 à 100 km/h en 4,9 s.</li>
+  <li><strong>BYD Seal U</strong> : 218 ch, 0 à 100 km/h en 8,9 s.</li>
+</ul>
+<p>Le Marvel R offre 70 ch de plus et gagne 4 secondes au 0 à 100 km/h : l'écart est considérable, le Seal U se contentant d'un rythme de SUV familial tranquille.</p>
+
+<h2>Autonomie et recharge : avantage Seal U</h2>
+<p>Avec une batterie de 87 kWh contre 70 kWh, le Seal U annonce 500 km contre 402 km pour le Marvel R, soit 98 km de plus. Il recharge aussi plus vite en courant continu : 140 kW contre 92 kW, ce qui raccourcit nettement les arrêts sur les longs trajets.</p>
+
+<h2>Coût d'usage</h2>
+<p>La consommation estimée est de 3,5 €/100 km pour le Seal U contre 3,6 €/100 km pour le Marvel R, soit environ 525 € contre 540 € par an pour 15 000 km. L'écart de 15 € par an est négligeable : le choix se joue ailleurs.</p>
+
+<h2>Gabarit et coffre</h2>
+<p>Le Seal U est plus long de 111 mm (4 785 mm contre 4 674 mm) et offre 425 litres de coffre contre 357 litres, soit 68 litres de plus, un vrai atout pour les départs en vacances. Les deux accueillent 5 passagers et affichent la même dotation technologique (7/10).</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>MG Marvel R</strong> : pour ceux qui veulent un SUV électrique très rapide, au prix légèrement plus bas et avec 7 ans de garantie, surtout pour des trajets urbains et périurbains.</li>
+  <li><strong>BYD Seal U</strong> : pour les familles qui roulent beaucoup et veulent plus d'autonomie, une recharge plus rapide et un coffre plus généreux.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Le <strong>MG Marvel R</strong> l'emporte sur la puissance, l'accélération, le prix et la garantie ; le <strong>BYD Seal U</strong> sur l'autonomie, la recharge, le coffre, la longueur et, de très peu, la consommation. Pour un usage familial et des trajets longs, le Seal U est le choix le plus cohérent ; pour le plaisir de conduite à moindre prix, le Marvel R est imbattable dans cette comparaison. Vous pouvez tester les deux dans <a href="/comparateur/mg-marvel-r-vs-byd-seal-u">notre comparateur</a>.</p>
+`,
+  },
+  {
     slug: 'zeekr-x-vs-mg-marvel-r-suv-compact-premium-ou-suv-electrique-performant-abordable',
     title: 'Zeekr X vs MG Marvel R : SUV compact premium ou SUV électrique performant et abordable, lequel choisir en 2026 ?',
     excerpt:
