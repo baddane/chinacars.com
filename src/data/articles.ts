@@ -19,6 +19,50 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'xpeng-g9-vs-byd-seal-u-grand-suv-premium-ultra-rapide-ou-suv-familial-electrique-abordable',
+    title: 'XPeng G9 vs BYD Seal U : grand SUV premium ultra-rapide ou SUV familial électrique abordable, lequel choisir en 2026 ?',
+    excerpt:
+      "Le XPeng G9 affiche 405 ch contre 218, un 0 à 100 km/h en 6,4 s contre 8,9 s, une recharge à 300 kW contre 140 kW et 235 litres de coffre en plus. Le BYD Seal U répond par 13 400 € d'économie, 1 an de garantie en plus et 60 € de moins par an en énergie. Verdict chiffré.",
+    image: '/cars/xpeng-g9.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-10-25T09:00:00+02:00',
+    readingTime: 6,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux SUV électriques chinois, deux budgets</h2>
+<p>Le XPeng G9 (57 000 €, 4,89 m) vise le haut de gamme avec ses 405 ch et sa recharge ultra-rapide ; le BYD Seal U (43 600 €, 4,79 m) joue la carte du SUV familial raisonnable. Nous avons déjà opposé le G9 à un autre rival chinois (voir <a href="/actualites/xpeng-g9-vs-byd-sealion-7-grand-suv-electrique-chinois">XPeng G9 vs BYD Sealion 7</a>) et le Seal U à un cousin d'XPeng (voir <a href="/actualites/byd-seal-u-vs-xpeng-g6-suv-electrique-chinois-confort-ou-performance">BYD Seal U vs XPeng G6</a>) : voici leur duel direct.</p>
+
+<h2>Prix et garantie : avantage Seal U</h2>
+<p>Le Seal U est affiché 13 400 € moins cher (43 600 € contre 57 000 €), soit environ 24 % d'économie. Il offre aussi une garantie plus longue : 6 ans contre 5 ans pour le G9. Les deux modèles obtiennent 5 étoiles Euro NCAP.</p>
+
+<h2>Performances : le G9 change de catégorie</h2>
+<ul>
+  <li><strong>XPeng G9</strong> : 405 ch, 0 à 100 km/h en 6,4 s.</li>
+  <li><strong>BYD Seal U</strong> : 218 ch, 0 à 100 km/h en 8,9 s.</li>
+</ul>
+<p>Le G9 offre 187 ch de plus et gagne 2,5 secondes au 0 à 100 km/h : un vrai écart de caractère entre un grand SUV sportif et un SUV familial au rythme plus tranquille.</p>
+
+<h2>Autonomie et recharge : avantage G9</h2>
+<p>Avec une batterie de 93,5 kWh contre 87 kWh, le G9 annonce 540 km contre 500 km, soit 40 km de plus. Surtout, il recharge à 300 kW contre 140 kW en courant continu : sur autoroute, les arrêts sont nettement plus courts.</p>
+
+<h2>Coût d'usage</h2>
+<p>La consommation estimée est de 3,9 €/100 km pour le G9 contre 3,5 €/100 km pour le Seal U, soit environ 585 € contre 525 € par an pour 15 000 km. Le Seal U économise 60 € par an, un écart modeste face aux 13 400 € de différence à l'achat.</p>
+
+<h2>Gabarit et coffre</h2>
+<p>Le G9 est plus long de 106 mm (4 891 mm contre 4 785 mm) et surtout bien plus logeable : 660 litres de coffre contre 425 litres, soit 235 litres de plus. Les deux accueillent 5 passagers, mais le G9 est mieux noté côté technologie (9/10 contre 7/10).</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>XPeng G9</strong> : pour les gros rouleurs qui veulent un grand SUV rapide, très bien équipé, avec une recharge ultra-rapide et un coffre immense.</li>
+  <li><strong>BYD Seal U</strong> : pour les familles qui cherchent un SUV électrique complet, moins cher à l'achat, avec une garantie de 6 ans et un coût d'usage plus bas.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Le <strong>XPeng G9</strong> l'emporte sur la puissance, l'accélération, l'autonomie, la recharge, le coffre, la longueur et la technologie ; le <strong>BYD Seal U</strong> sur le prix, la garantie et la consommation. Si le budget le permet, le G9 est le plus abouti ; pour un usage familial raisonnable, le Seal U offre le meilleur rapport prix/prestations. Vous pouvez tester les deux dans <a href="/comparateur/xpeng-g9-vs-byd-seal-u">notre comparateur</a>.</p>
+`,
+  },
+  {
     slug: 'mg-marvel-r-vs-byd-seal-u-suv-electrique-sportif-ou-suv-familial-grande-autonomie',
     title: 'MG Marvel R vs BYD Seal U : SUV électrique sportif ou SUV familial grande autonomie, lequel choisir en 2026 ?',
     excerpt:
