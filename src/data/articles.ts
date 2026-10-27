@@ -19,6 +19,50 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'byd-atto-3-evo-vs-mg-marvel-r-suv-compact-autonomie-recharge-rapide-ou-suv-electrique-sportif-garantie-7-ans',
+    title: 'BYD Atto 3 Evo vs MG Marvel R : SUV compact à grande autonomie ou SUV électrique sportif garanti 7 ans, lequel choisir en 2026 ?',
+    excerpt:
+      "Le BYD Atto 3 Evo coûte 3 000 € de moins, offre 98 km d'autonomie en plus, une recharge 58 kW plus rapide et 83 litres de coffre en plus. Le MG Marvel R répond par 84 ch de plus, un 0 à 100 km/h en 4,9 s et 7 ans de garantie. Verdict chiffré.",
+    image: '/cars/byd-atto-3-evo.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-10-27T09:00:00+02:00',
+    readingTime: 6,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux SUV électriques chinois, deux façons de convaincre</h2>
+<p>Le BYD Atto 3 Evo (39 000 €, 4,46 m) mise sur l'autonomie, la recharge et le prix ; le MG Marvel R (42 000 €, 4,67 m) joue la carte des performances et d'une garantie record. Nous avons déjà confronté le Marvel R à un autre SUV chinois (voir <a href="/actualites/mg-marvel-r-vs-xpeng-g6-suv-electrique-chinois">MG Marvel R vs XPeng G6</a>) et l'Atto 3 Evo à un rival compact (voir <a href="/actualites/byd-atto-3-evo-vs-geely-geometry-c-suv-compact-electrique-chinois">BYD Atto 3 Evo vs Geely Geometry C</a>) : voici leur duel direct.</p>
+
+<h2>Prix et garantie : un partage des points</h2>
+<p>L'Atto 3 Evo est 3 000 € moins cher (39 000 € contre 42 000 €), soit environ 7 % d'économie. En contrepartie, le Marvel R offre une garantie d'un an de plus : 7 ans contre 6 ans (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties constructeurs chinois</a>). Les deux modèles obtiennent 5 étoiles Euro NCAP (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point sur la sécurité des voitures chinoises</a>).</p>
+
+<h2>Performances : le Marvel R nettement plus vif</h2>
+<ul>
+  <li><strong>BYD Atto 3 Evo</strong> : 204 ch, 0 à 100 km/h en 7,3 s.</li>
+  <li><strong>MG Marvel R</strong> : 288 ch, 0 à 100 km/h en 4,9 s.</li>
+</ul>
+<p>Le Marvel R développe 84 ch de plus et gagne 2,4 secondes au 0 à 100 km/h. L'Atto 3 Evo reste largement suffisant au quotidien, mais le MG offre des accélérations de sportive.</p>
+
+<h2>Autonomie et recharge : l'avantage BYD</h2>
+<p>Malgré une batterie plus petite (60 kWh contre 70 kWh), l'Atto 3 Evo annonce 500 km contre 402 km pour le Marvel R, soit 98 km de plus. La recharge est aussi à son avantage : 150 kW contre 92 kW en courant continu, soit 58 kW de plus. Sur long trajet, c'est la différence entre des arrêts courts et de longues pauses (voir <a href="/actualites/charge-800v-zeekr-xpeng-humilient-constructeurs-historiques">notre article sur la recharge rapide chez les constructeurs chinois</a>).</p>
+
+<h2>Coût d'usage</h2>
+<p>La consommation estimée est de 3,4 €/100 km pour l'Atto 3 Evo contre 3,6 €/100 km pour le Marvel R, soit environ 510 € contre 540 € par an pour 15 000 km. L'écart de 30 € par an est faible, mais il va dans le même sens que le prix d'achat.</p>
+
+<h2>Gabarit et coffre</h2>
+<p>Le Marvel R est plus long de 219 mm (4 674 mm contre 4 455 mm), mais c'est l'Atto 3 Evo qui offre le plus grand coffre : 440 litres contre 357 litres, soit 83 litres de plus. Les deux accueillent 5 passagers et obtiennent la même note technologique (7/10).</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>BYD Atto 3 Evo</strong> : pour les familles et les rouleurs qui veulent une grande autonomie, une recharge rapide, un coffre pratique et un prix contenu.</li>
+  <li><strong>MG Marvel R</strong> : pour ceux qui recherchent des performances marquées, un SUV plus long et la garantie la plus longue du segment.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Le <strong>BYD Atto 3 Evo</strong> l'emporte sur le prix, l'autonomie, la recharge, la consommation et le coffre ; le <strong>MG Marvel R</strong> sur la puissance, l'accélération, la longueur et la garantie. Pour un usage polyvalent, l'Atto 3 Evo offre le meilleur rapport prix-prestations ; pour le plaisir de conduire et la tranquillité d'une garantie de 7 ans, le Marvel R se défend. Vous pouvez tester les deux dans <a href="/comparateur/byd-atto-3-evo-vs-mg-marvel-r">notre comparateur</a>.</p>
+`,
+  },
+  {
     slug: 'zeekr-x-vs-byd-seal-u-suv-compact-premium-ultra-puissant-ou-suv-familial-electrique-grande-autonomie',
     title: 'Zeekr X vs BYD Seal U : SUV compact premium ultra-puissant ou SUV familial électrique grande autonomie, lequel choisir en 2026 ?',
     excerpt:
