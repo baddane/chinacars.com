@@ -19,6 +19,50 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'zeekr-001-vs-byd-sealion-7-break-premium-ultra-puissant-ou-suv-coupe-electrique-recharge-rapide',
+    title: 'Zeekr 001 vs BYD Sealion 7 : break premium ultra-puissant ou SUV coupé électrique à recharge rapide, lequel choisir en 2026 ?',
+    excerpt:
+      "La Zeekr 001 offre 231 ch de plus, un 0 à 100 km/h en 3,8 s et 138 km d'autonomie en plus. Le BYD Sealion 7 coûte 12 000 € de moins, recharge à 230 kW et profite d'un an de garantie en plus. Verdict chiffré.",
+    image: '/cars/zeekr-001.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-10-28T09:00:00+02:00',
+    readingTime: 6,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux grands électriques chinois, deux philosophies</h2>
+<p>La Zeekr 001 (60 000 €, 4,97 m) vise le haut de gamme avec une puissance de supercar et une batterie de 100 kWh ; le BYD Sealion 7 (48 000 €, 4,83 m) joue la carte du rapport prix-prestations et de la recharge rapide. Nous avons déjà opposé la Zeekr 001 à un autre rival chinois (voir <a href="/actualites/zeekr-001-vs-nio-et7-luxe-technologique-chinois">Zeekr 001 vs NIO ET7</a>) et le Sealion 7 à un grand SUV (voir <a href="/actualites/xpeng-g9-vs-byd-sealion-7-grand-suv-electrique-chinois">XPeng G9 vs BYD Sealion 7</a>) : voici leur duel direct.</p>
+
+<h2>Prix et garantie : l'avantage BYD</h2>
+<p>Le Sealion 7 est 12 000 € moins cher (48 000 € contre 60 000 €), soit 20 % d'économie. Il offre aussi une garantie d'un an de plus : 6 ans contre 5 ans (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties constructeurs chinois</a>). Les deux modèles obtiennent 5 étoiles Euro NCAP (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point sur la sécurité des voitures chinoises</a>).</p>
+
+<h2>Performances : la Zeekr dans une autre catégorie</h2>
+<ul>
+  <li><strong>Zeekr 001</strong> : 544 ch, 0 à 100 km/h en 3,8 s.</li>
+  <li><strong>BYD Sealion 7</strong> : 313 ch, 0 à 100 km/h en 6,7 s.</li>
+</ul>
+<p>La Zeekr 001 développe 231 ch de plus et gagne 2,9 secondes au 0 à 100 km/h. Le Sealion 7 reste très convaincant au quotidien, mais la Zeekr joue dans la cour des sportives.</p>
+
+<h2>Autonomie et recharge : un duel équilibré</h2>
+<p>Grâce à sa batterie de 100 kWh (contre 82,5 kWh), la Zeekr 001 annonce 620 km contre 482 km, soit 138 km de plus. En revanche, le Sealion 7 recharge plus vite : 230 kW contre 200 kW en courant continu, soit 30 kW de plus (voir <a href="/actualites/charge-800v-zeekr-xpeng-humilient-constructeurs-historiques">notre article sur la recharge rapide chez les constructeurs chinois</a>).</p>
+
+<h2>Coût d'usage</h2>
+<p>La consommation estimée est identique : 3,6 €/100 km, soit environ 540 € par an pour 15 000 km pour les deux modèles. La différence se joue donc sur le prix d'achat, pas à la prise.</p>
+
+<h2>Gabarit et coffre</h2>
+<p>La Zeekr 001 est plus longue de 140 mm (4 970 mm contre 4 830 mm) et offre un coffre un peu plus grand : 539 litres contre 500 litres, soit 39 litres de plus. Les deux accueillent 5 passagers ; côté technologie, la Zeekr obtient 9/10 contre 8/10.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>Zeekr 001</strong> : pour ceux qui veulent des performances de premier plan, la plus grande autonomie et une dotation technologique haut de gamme.</li>
+  <li><strong>BYD Sealion 7</strong> : pour les familles qui cherchent un SUV coupé spacieux, une recharge très rapide et 12 000 € d'économie.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>La <strong>Zeekr 001</strong> l'emporte sur la puissance, l'accélération, l'autonomie, le coffre, la longueur et la technologie ; le <strong>BYD Sealion 7</strong> sur le prix, la recharge et la garantie. Si le budget le permet, la Zeekr 001 est la plus aboutie ; pour le meilleur rapport prix-prestations, le Sealion 7 est difficile à battre. Vous pouvez tester les deux dans <a href="/comparateur/zeekr-001-vs-byd-sealion-7">notre comparateur</a>.</p>
+`,
+  },
+  {
     slug: 'byd-atto-3-evo-vs-mg-marvel-r-suv-compact-autonomie-recharge-rapide-ou-suv-electrique-sportif-garantie-7-ans',
     title: 'BYD Atto 3 Evo vs MG Marvel R : SUV compact à grande autonomie ou SUV électrique sportif garanti 7 ans, lequel choisir en 2026 ?',
     excerpt:
