@@ -19,6 +19,50 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'byd-han-vs-byd-tang-berline-premium-ou-grand-suv-7-places-electrique-lequel-choisir',
+    title: 'BYD Han vs BYD Tang : berline premium ou grand SUV 7 places électrique, lequel choisir en 2026 ?',
+    excerpt:
+      "Même puissance de 517 ch, mais le BYD Tang coûte 10 000 € de moins, recharge à 170 kW et offre 7 places et 140 L de coffre en plus. La Han reste plus rapide (3,9 s) et moins gourmande. Verdict chiffré.",
+    image: '/cars/byd-han.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-10-29T09:00:00+02:00',
+    readingTime: 6,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux fleurons de BYD, deux carrosseries</h2>
+<p>La BYD Han (72 000 €, 4,995 m) est la berline statutaire de la marque ; le BYD Tang (62 000 €, 4,97 m) est son grand SUV familial. Les deux annoncent 517 ch, 5 étoiles Euro NCAP et 6 ans de garantie. Nous les avons déjà confrontés à d'autres rivaux (voir <a href="/actualites/byd-han-vs-xpeng-g9-berline-premium-ou-grand-suv-high-tech-electrique">BYD Han vs XPeng G9</a> et <a href="/actualites/byd-tang-vs-xpeng-g9-grand-suv-7-places-ou-grand-suv-premium-ultra-rapide">BYD Tang vs XPeng G9</a>) : voici enfin le duel entre cousins.</p>
+
+<h2>Prix : 10 000 € d'écart en faveur du Tang</h2>
+<p>Le Tang coûte 10 000 € de moins que la Han (62 000 € contre 72 000 €), soit environ 14 % d'économie, pour la même puissance. La garantie est identique : 6 ans (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties constructeurs chinois</a>), et les deux modèles obtiennent 5 étoiles Euro NCAP (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point sur la sécurité des voitures chinoises</a>).</p>
+
+<h2>Performances : la Han plus vive</h2>
+<ul>
+  <li><strong>BYD Han</strong> : 517 ch, 0 à 100 km/h en 3,9 s.</li>
+  <li><strong>BYD Tang</strong> : 517 ch, 0 à 100 km/h en 4,9 s.</li>
+</ul>
+<p>À puissance égale, la berline, plus légère et plus basse, gagne 1 seconde au 0 à 100 km/h. Dans les deux cas, les performances dépassent largement les besoins d'un usage familial.</p>
+
+<h2>Autonomie et recharge : avantage Tang</h2>
+<p>Le Tang embarque une batterie de 108,8 kWh (contre 85,4 kWh pour la Han), soit 23,4 kWh de plus, et annonce 530 km contre 521 km, 9 km de plus. Surtout, il recharge à 170 kW en courant continu contre 120 kW, soit 50 kW de plus : un vrai atout sur autoroute (voir <a href="/actualites/charge-800v-zeekr-xpeng-humilient-constructeurs-historiques">notre article sur la recharge rapide chez les constructeurs chinois</a>).</p>
+
+<h2>Coût d'usage</h2>
+<p>La Han est plus sobre : 3,7 €/100 km contre 4,2 €/100 km pour le Tang, soit environ 555 € contre 630 € par an pour 15 000 km, 75 € d'économie annuelle. Un écart faible face aux 10 000 € de différence à l'achat.</p>
+
+<h2>Gabarit, coffre et places</h2>
+<p>Les deux sont quasi aussi longs (4 995 mm pour la Han, 4 970 mm pour le Tang). Le Tang prend l'avantage sur le plan pratique : 7 places contre 5, et un coffre de 550 litres contre 410 litres, soit 140 litres de plus. Côté technologie, les deux obtiennent 8/10.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>BYD Han</strong> : pour ceux qui veulent la berline la plus rapide, la plus sobre et le prestige d'un flagship.</li>
+  <li><strong>BYD Tang</strong> : pour les familles qui ont besoin de 7 places, d'un grand coffre et d'une recharge rapide, avec 10 000 € d'économie.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>La <strong>Han</strong> l'emporte sur l'accélération, la consommation et la longueur ; le <strong>Tang</strong> sur le prix, l'autonomie, la recharge, le coffre et le nombre de places. Pour la plupart des acheteurs, le Tang offre le meilleur rapport prix-prestations ; la Han séduira les amateurs de berlines performantes. Testez les deux dans <a href="/comparateur/byd-han-vs-byd-tang">notre comparateur</a>.</p>
+`,
+  },
+  {
     slug: 'zeekr-001-vs-byd-sealion-7-break-premium-ultra-puissant-ou-suv-coupe-electrique-recharge-rapide',
     title: 'Zeekr 001 vs BYD Sealion 7 : break premium ultra-puissant ou SUV coupé électrique à recharge rapide, lequel choisir en 2026 ?',
     excerpt:

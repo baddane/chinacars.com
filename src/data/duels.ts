@@ -236,6 +236,7 @@ export const COMPARISON_DUELS: Array<[string, string]> = [
   ['zeekr-x', 'byd-seal-u'],
   ['byd-atto-3-evo', 'mg-marvel-r'],
   ['zeekr-001', 'byd-sealion-7'],
+  ['byd-han', 'byd-tang'],
 ];
 
 export function duelSlug(a: string, b: string): string {
