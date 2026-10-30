@@ -19,6 +19,50 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'byd-tang-vs-byd-sealion-7-grand-suv-7-places-ou-suv-coupe-a-recharge-ultra-rapide-lequel-choisir',
+    title: 'BYD Tang vs BYD Sealion 7 : grand SUV 7 places ou SUV coupé à recharge ultra-rapide, lequel choisir en 2026 ?',
+    excerpt:
+      "Le BYD Tang offre 7 places, 517 ch et 48 km d'autonomie en plus ; le Sealion 7 coûte 14 000 € de moins, recharge à 230 kW et consomme moins. Verdict chiffré entre deux SUV électriques de la même marque.",
+    image: '/cars/byd-tang.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-10-30T09:00:00+02:00',
+    readingTime: 6,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux SUV électriques BYD, deux philosophies</h2>
+<p>Le BYD Tang (62 000 €, 4,97 m) est le grand SUV familial 7 places de la marque ; le BYD Sealion 7 (48 000 €, 4,83 m) est son SUV coupé plus accessible. Les deux sont 100 % électriques, notés 5 étoiles Euro NCAP et garantis 6 ans. Nous avons déjà opposé le Tang à d'autres rivaux (voir <a href="/actualites/byd-tang-vs-xpeng-g9-grand-suv-7-places-ou-grand-suv-premium-ultra-rapide">BYD Tang vs XPeng G9</a>) : voici le duel en famille.</p>
+
+<h2>Prix : 14 000 € d'écart en faveur du Sealion 7</h2>
+<p>Le Sealion 7 coûte 14 000 € de moins que le Tang (48 000 € contre 62 000 €), soit environ 23 % d'économie. La garantie est identique : 6 ans (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties constructeurs chinois</a>), et la sécurité aussi (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point sur la sécurité des voitures chinoises</a>).</p>
+
+<h2>Performances : le Tang bien plus puissant</h2>
+<ul>
+  <li><strong>BYD Tang</strong> : 517 ch, 0 à 100 km/h en 4,9 s.</li>
+  <li><strong>BYD Sealion 7</strong> : 313 ch, 0 à 100 km/h en 6,7 s.</li>
+</ul>
+<p>Le Tang aligne 204 ch de plus et gagne 1,8 seconde au 0 à 100 km/h. Le Sealion 7 reste largement suffisant pour un usage quotidien.</p>
+
+<h2>Autonomie et recharge : un duel de bons points</h2>
+<p>Le Tang embarque une batterie de 108,8 kWh (contre 82,5 kWh), soit 26,3 kWh de plus, et annonce 530 km contre 482 km, 48 km de mieux. En revanche, le Sealion 7 recharge plus vite : 230 kW en courant continu contre 170 kW, soit 60 kW de plus, un atout sur autoroute (voir <a href="/actualites/charge-800v-zeekr-xpeng-humilient-constructeurs-historiques">notre article sur la recharge rapide chez les constructeurs chinois</a>).</p>
+
+<h2>Coût d'usage</h2>
+<p>Le Sealion 7 est plus sobre : 3,6 €/100 km contre 4,2 €/100 km pour le Tang, soit environ 540 € contre 630 € par an pour 15 000 km, 90 € d'économie annuelle. Un écart modeste face aux 14 000 € de différence à l'achat.</p>
+
+<h2>Gabarit, coffre et places</h2>
+<p>Le Tang mesure 4 970 mm contre 4 830 mm, soit 140 mm de plus. Il propose 7 places contre 5, et un coffre de 550 litres contre 500 litres, 50 litres de plus. Côté technologie, les deux obtiennent 8/10.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>BYD Tang</strong> : pour les grandes familles qui ont besoin de 7 places, de performances élevées et d'une grande autonomie.</li>
+  <li><strong>BYD Sealion 7</strong> : pour ceux qui veulent un SUV coupé 5 places, plus abordable, plus sobre et très rapide à recharger.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Le <strong>Tang</strong> l'emporte sur la puissance, l'accélération, l'autonomie, le coffre et le nombre de places ; le <strong>Sealion 7</strong> sur le prix, la recharge rapide, la consommation et la compacité. Si vous n'avez pas besoin de 7 places, le Sealion 7 offre le meilleur rapport prix-prestations. Testez les deux dans <a href="/comparateur/byd-tang-vs-byd-sealion-7">notre comparateur</a>.</p>
+`,
+  },
+  {
     slug: 'byd-han-vs-byd-tang-berline-premium-ou-grand-suv-7-places-electrique-lequel-choisir',
     title: 'BYD Han vs BYD Tang : berline premium ou grand SUV 7 places électrique, lequel choisir en 2026 ?',
     excerpt:
