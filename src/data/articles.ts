@@ -19,6 +19,50 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'byd-atto-2-vs-byd-seagull-suv-urbain-hybride-rechargeable-ou-citadine-electrique-lequel-choisir',
+    title: 'BYD Atto 2 vs BYD Seagull : SUV urbain hybride rechargeable ou citadine électrique, lequel choisir en 2026 ?',
+    excerpt:
+      "L'Atto 2 PHEV offre 1 000 km d'autonomie, 5 étoiles Euro NCAP et 92 litres de coffre en plus ; la Seagull coûte 10 000 € de moins et consomme 2,3 €/100 km de moins. Verdict chiffré entre les deux petites BYD.",
+    image: '/cars/byd-atto-2.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-10-31T09:00:00+02:00',
+    readingTime: 6,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux BYD d'entrée de gamme, deux technologies</h2>
+<p>Le BYD Atto 2 (30 000 €, 4,31 m) est un SUV urbain hybride rechargeable ; la BYD Seagull (20 000 €, 3,99 m), commercialisée en Europe sous le nom de Dolphin Surf, est une citadine 100 % électrique. Les deux sont garanties 6 ans. Pour d'autres duels autour de l'Atto 2, voir <a href="/actualites/byd-atto-2-vs-byd-atto-3-evo-quel-suv-byd-choisir-hybride-ou-electrique">BYD Atto 2 vs Atto 3 Evo</a> ; pour la Seagull, voir <a href="/actualites/leapmotor-t03-vs-byd-seagull-micro-citadines">Leapmotor T03 vs BYD Seagull</a>.</p>
+
+<h2>Prix : 10 000 € d'écart en faveur de la Seagull</h2>
+<p>La Seagull coûte 10 000 € de moins que l'Atto 2 (20 000 € contre 30 000 €), soit un tiers d'économie. La garantie est la même, 6 ans (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties constructeurs chinois</a>).</p>
+
+<h2>Performances : l'Atto 2 un peu devant</h2>
+<ul>
+  <li><strong>BYD Atto 2</strong> : 177 ch, 0 à 100 km/h en 8,5 s.</li>
+  <li><strong>BYD Seagull</strong> : 156 ch, 0 à 100 km/h en 9,1 s.</li>
+</ul>
+<p>L'Atto 2 aligne 21 ch de plus et gagne 0,6 seconde au 0 à 100 km/h : un écart perceptible mais modeste en usage urbain.</p>
+
+<h2>Autonomie et recharge : deux logiques opposées</h2>
+<p>L'Atto 2 annonce 1 000 km entre deux pleins (réservoir et petite batterie de 7,8 kWh), contre 310 km pour la Seagull et sa batterie de 43 kWh : 690 km de plus, idéal pour les longs trajets sans stress. En contrepartie, la Seagull se recharge en courant continu jusqu'à 85 kW, ce que l'Atto 2 ne propose pas (voir <a href="/actualites/charge-800v-zeekr-xpeng-humilient-constructeurs-historiques">notre article sur la recharge rapide</a>).</p>
+
+<h2>Coût d'usage</h2>
+<p>La Seagull est bien plus économe : 3,2 €/100 km contre 5,5 €/100 km pour l'Atto 2, soit environ 480 € contre 825 € par an pour 15 000 km, 345 € d'économie annuelle. Sur plusieurs années, cela réduit l'écart de prix à l'achat sans le combler.</p>
+
+<h2>Gabarit, coffre et sécurité</h2>
+<p>L'Atto 2 mesure 4 310 mm contre 3 990 mm, soit 320 mm de plus, et offre un coffre de 400 litres contre 308 litres, 92 litres de plus. Il est aussi mieux noté en sécurité : 5 étoiles Euro NCAP contre 4 pour la Seagull (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point sur la sécurité des voitures chinoises</a>). Côté technologie, 7/10 contre 6/10.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>BYD Atto 2</strong> : pour ceux qui roulent beaucoup, veulent un vrai coffre, 5 étoiles de sécurité et aucune contrainte de recharge.</li>
+  <li><strong>BYD Seagull</strong> : pour un usage essentiellement urbain, avec une borne à domicile et un budget serré.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>L'<strong>Atto 2</strong> l'emporte sur la puissance, l'accélération, l'autonomie, le coffre, la sécurité et la technologie ; la <strong>Seagull</strong> sur le prix, la recharge rapide, le coût d'usage et la compacité. Pour la ville et un petit budget, la Seagull est imbattable ; pour un seul véhicule polyvalent, l'Atto 2 est plus complet. Testez les deux dans <a href="/comparateur/byd-atto-2-vs-byd-seagull">notre comparateur</a>.</p>
+`,
+  },
+  {
     slug: 'byd-tang-vs-byd-sealion-7-grand-suv-7-places-ou-suv-coupe-a-recharge-ultra-rapide-lequel-choisir',
     title: 'BYD Tang vs BYD Sealion 7 : grand SUV 7 places ou SUV coupé à recharge ultra-rapide, lequel choisir en 2026 ?',
     excerpt:
