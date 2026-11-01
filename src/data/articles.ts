@@ -19,6 +19,50 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'byd-seal-5-dmi-vs-mg5-berline-phev-longue-autonomie-ou-break-electrique-lequel-choisir',
+    title: 'BYD Seal 5 DM-i vs MG5 : berline hybride rechargeable ou break électrique, lequel choisir en 2026 ?',
+    excerpt:
+      "La Seal 5 DM-i offre 1 100 km d'autonomie, 44 ch de plus et coûte 2 500 € de moins ; le MG5 coûte 2,3 €/100 km de moins, se recharge à 87 kW et reste garanti 7 ans. Verdict chiffré.",
+    image: '/cars/byd-seal-5-dmi.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-11-01T09:00:00+02:00',
+    readingTime: 6,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux familiales chinoises, deux technologies</h2>
+<p>La BYD Seal 5 DM-i (32 000 €, 4,78 m) est une berline hybride rechargeable ; le MG5 (34 500 €, 4,60 m) est un break 100 % électrique. Pour d'autres duels, voir <a href="/actualites/byd-seal-5-dmi-vs-toyota-corolla-hybride-berline-hybride-rechargeable">Seal 5 DM-i vs Toyota Corolla</a> et <a href="/actualites/mg5-vs-byd-han-break-vs-berline">MG5 vs BYD Han</a>.</p>
+
+<h2>Prix : 2 500 € en faveur de la Seal 5 DM-i</h2>
+<p>La Seal 5 DM-i est 2 500 € moins chère (32 000 € contre 34 500 €). Le MG5 compense avec une garantie plus longue : 7 ans contre 6 (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties</a>).</p>
+
+<h2>Performances : la BYD devant</h2>
+<ul>
+  <li><strong>BYD Seal 5 DM-i</strong> : 200 ch, 0 à 100 km/h en 8,0 s.</li>
+  <li><strong>MG5</strong> : 156 ch, 0 à 100 km/h en 8,3 s.</li>
+</ul>
+<p>La Seal 5 DM-i aligne 44 ch de plus, mais l'écart au 0 à 100 km/h n'est que de 0,3 s : le couple instantané de l'électrique rattrape sa puissance moindre.</p>
+
+<h2>Autonomie et recharge</h2>
+<p>La Seal 5 DM-i annonce 1 100 km (batterie de 8,3 kWh plus réservoir), contre 400 km pour le MG5 et sa batterie de 61,1 kWh : 700 km de plus, sans arrêt de recharge. Le MG5 se recharge en courant continu jusqu'à 87 kW, ce que la BYD ne propose pas (voir <a href="/actualites/hybride-vs-phev-comparatif-mg-byd">notre comparatif hybride et PHEV</a>).</p>
+
+<h2>Coût d'usage</h2>
+<p>Le MG5 est plus économe : 3,6 €/100 km contre 5,5 €/100 km, soit environ 540 € contre 825 € par an pour 15 000 km, 285 € d'économie annuelle.</p>
+
+<h2>Gabarit, coffre et sécurité</h2>
+<p>Le MG5 propose un coffre de 479 litres contre 450 litres (29 litres de plus), dans un gabarit plus court de 180 mm. Les deux obtiennent 5 étoiles Euro NCAP (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point sur la sécurité</a>). La BYD prend l'avantage en technologie : 7/10 contre 6/10.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>BYD Seal 5 DM-i</strong> : pour les gros rouleurs sans borne à domicile, qui veulent de la puissance et un prix d'achat réduit.</li>
+  <li><strong>MG5</strong> : pour un usage quotidien avec recharge à domicile, un coffre généreux et la garantie la plus longue.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>La <strong>Seal 5 DM-i</strong> l'emporte sur le prix, la puissance, l'accélération, l'autonomie, le gabarit et la technologie ; le <strong>MG5</strong> sur la recharge rapide, le coût d'usage, le coffre et la garantie. Pour rouler beaucoup sans contrainte, la BYD ; pour économiser à l'usage, le MG5. Testez les deux dans <a href="/comparateur/mg5-vs-byd-seal-5-dmi">notre comparateur</a>.</p>
+`,
+  },
+  {
     slug: 'byd-atto-2-vs-byd-seagull-suv-urbain-hybride-rechargeable-ou-citadine-electrique-lequel-choisir',
     title: 'BYD Atto 2 vs BYD Seagull : SUV urbain hybride rechargeable ou citadine électrique, lequel choisir en 2026 ?',
     excerpt:
