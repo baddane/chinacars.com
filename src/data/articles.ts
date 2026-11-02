@@ -19,6 +19,50 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'byd-seal-5-dmi-vs-jaecoo-7-berline-phev-ou-suv-phev-lequel-choisir',
+    title: 'BYD Seal 5 DM-i vs Jaecoo 7 : berline ou SUV hybride rechargeable, lequel choisir en 2026 ?',
+    excerpt:
+      "La Seal 5 DM-i coûte 3 000 € de moins et accélère 0,5 s plus vite ; le Jaecoo 7 offre 100 km d'autonomie de plus, une recharge à 40 kW, 50 litres de coffre en plus et 7 ans de garantie. Verdict chiffré.",
+    image: '/cars/byd-seal-5-dmi.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-11-02T09:00:00+02:00',
+    readingTime: 6,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux hybrides rechargeables chinoises, deux carrosseries</h2>
+<p>La BYD Seal 5 DM-i (32 000 €, 4,78 m) est une berline hybride rechargeable ; le Jaecoo 7 (35 000 €, 4,50 m) est un SUV familial lui aussi rechargeable. Pour d'autres duels, voir <a href="/actualites/byd-seal-5-dmi-vs-toyota-corolla-hybride-berline-hybride-rechargeable">Seal 5 DM-i vs Toyota Corolla</a> et <a href="/actualites/jaecoo-7-vs-chery-tiggo-8-pro-suv-familial-chery">Jaecoo 7 vs Chery Tiggo 8 Pro</a>.</p>
+
+<h2>Prix : 3 000 € en faveur de la Seal 5 DM-i</h2>
+<p>La Seal 5 DM-i est 3 000 € moins chère (32 000 € contre 35 000 €). Le Jaecoo 7 compense avec une garantie plus longue : 7 ans contre 6 (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties</a>).</p>
+
+<h2>Performances : un duel serré</h2>
+<ul>
+  <li><strong>BYD Seal 5 DM-i</strong> : 200 ch, 0 à 100 km/h en 8,0 s.</li>
+  <li><strong>Jaecoo 7</strong> : 204 ch, 0 à 100 km/h en 8,5 s.</li>
+</ul>
+<p>Le Jaecoo 7 aligne 4 ch de plus, mais la Seal 5 DM-i, plus légère et plus basse, accélère 0,5 s plus vite.</p>
+
+<h2>Autonomie et recharge</h2>
+<p>Le Jaecoo 7 annonce 1 200 km contre 1 100 km pour la Seal 5 DM-i, grâce à une batterie de 18,3 kWh contre 8,3 kWh. Il accepte aussi la recharge en courant continu jusqu'à 40 kW, ce que la BYD ne propose pas (voir <a href="/actualites/hybride-vs-phev-comparatif-mg-byd">notre comparatif hybride et PHEV</a>).</p>
+
+<h2>Coût d'usage</h2>
+<p>Égalité : 5,5 €/100 km pour les deux, soit environ 825 € par an pour 15 000 km. La différence se fera sur la part de trajets réalisés en mode électrique, plus importante avec la grande batterie du Jaecoo 7.</p>
+
+<h2>Gabarit, coffre et sécurité</h2>
+<p>Le Jaecoo 7 propose un coffre de 500 litres contre 450 litres (50 litres de plus), dans un gabarit pourtant plus court de 280 mm. Les deux obtiennent 5 étoiles Euro NCAP (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point sur la sécurité</a>) et la même note technologique : 7/10.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>BYD Seal 5 DM-i</strong> : pour les gros rouleurs qui veulent une berline, un prix d'achat réduit et de bonnes accélérations.</li>
+  <li><strong>Jaecoo 7</strong> : pour les familles qui veulent un SUV spacieux, une plus grande batterie, la recharge rapide et la garantie la plus longue.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>La <strong>Seal 5 DM-i</strong> l'emporte sur le prix, l'accélération et le gabarit ; le <strong>Jaecoo 7</strong> sur la puissance, l'autonomie, la recharge, le coffre et la garantie. Pour payer moins, la BYD ; pour un SUV polyvalent et plus autonome, le Jaecoo 7. Testez les deux dans <a href="/comparateur/byd-seal-5-dmi-vs-jaecoo-7">notre comparateur</a>.</p>
+`,
+  },
+  {
     slug: 'byd-seal-5-dmi-vs-mg5-berline-phev-longue-autonomie-ou-break-electrique-lequel-choisir',
     title: 'BYD Seal 5 DM-i vs MG5 : berline hybride rechargeable ou break électrique, lequel choisir en 2026 ?',
     excerpt:
