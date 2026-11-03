@@ -19,6 +19,50 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'jaecoo-7-vs-byd-sealion-7-suv-phev-abordable-ou-suv-coupe-electrique-recharge-rapide',
+    title: 'Jaecoo 7 vs BYD Sealion 7 : SUV hybride rechargeable ou SUV coupé électrique, lequel choisir en 2026 ?',
+    excerpt:
+      "Le Jaecoo 7 coûte 13 000 € de moins, offre 1 200 km d'autonomie et 7 ans de garantie ; le Sealion 7 aligne 109 ch de plus, un 0 à 100 km/h en 6,7 s et une recharge à 230 kW. Verdict chiffré.",
+    image: '/cars/jaecoo-7.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-11-03T09:00:00+02:00',
+    readingTime: 6,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux SUV chinois, deux philosophies</h2>
+<p>Le Jaecoo 7 (35 000 €, 4,50 m) est un SUV familial hybride rechargeable ; le BYD Sealion 7 (48 000 €, 4,83 m) est un SUV coupé 100 % électrique. Pour d'autres duels, voir <a href="/actualites/jaecoo-7-vs-chery-tiggo-8-pro-suv-familial-chery">Jaecoo 7 vs Chery Tiggo 8 Pro</a> et <a href="/actualites/zeekr-001-vs-byd-sealion-7-break-premium-ultra-puissant-ou-suv-coupe-electrique-recharge-rapide">Zeekr 001 vs BYD Sealion 7</a>.</p>
+
+<h2>Prix : 13 000 € d'écart</h2>
+<p>Le Jaecoo 7 est 13 000 € moins cher (35 000 € contre 48 000 €). Il garde aussi l'avantage côté garantie : 7 ans contre 6 (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties</a>).</p>
+
+<h2>Performances : le Sealion 7 domine</h2>
+<ul>
+  <li><strong>Jaecoo 7</strong> : 204 ch, 0 à 100 km/h en 8,5 s.</li>
+  <li><strong>BYD Sealion 7</strong> : 313 ch, 0 à 100 km/h en 6,7 s.</li>
+</ul>
+<p>Le Sealion 7 dispose de 109 ch de plus et gagne 1,8 s sur le 0 à 100 km/h.</p>
+
+<h2>Autonomie et recharge</h2>
+<p>Le Jaecoo 7 annonce 1 200 km d'autonomie cumulée contre 482 km pour le Sealion 7, mais avec une batterie de 18,3 kWh contre 82,5 kWh. Côté recharge, le Sealion 7 accepte jusqu'à 230 kW, contre 40 kW pour le Jaecoo 7 (voir <a href="/actualites/hybride-vs-phev-comparatif-mg-byd">notre comparatif hybride et PHEV</a>).</p>
+
+<h2>Coût d'usage</h2>
+<p>Le Sealion 7 consomme l'équivalent de 3,6 €/100 km contre 5,5 €/100 km pour le Jaecoo 7. Sur 15 000 km par an, cela représente environ 540 € contre 825 €, soit près de 285 € d'économie annuelle, loin de compenser les 13 000 € d'écart à l'achat.</p>
+
+<h2>Gabarit, coffre et sécurité</h2>
+<p>Les deux offrent un coffre de 500 litres et 5 places ; le Sealion 7 est plus long de 330 mm. Les deux obtiennent 5 étoiles Euro NCAP (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point sur la sécurité</a>). Le Sealion 7 est mieux noté sur la technologie : 8/10 contre 7/10.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>Jaecoo 7</strong> : pour les familles au budget serré qui font de longs trajets sans dépendre des bornes, avec la garantie la plus longue.</li>
+  <li><strong>BYD Sealion 7</strong> : pour ceux qui veulent un SUV rapide, très bien équipé, avec un coût d'usage minimal et une recharge ultra-rapide.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Le <strong>Jaecoo 7</strong> l'emporte sur le prix, l'autonomie totale et la garantie ; le <strong>BYD Sealion 7</strong> sur la puissance, l'accélération, la recharge, le coût d'usage et la technologie. Pour payer moins et rouler sans contrainte, le Jaecoo 7 ; pour la performance électrique, le Sealion 7. Testez les deux dans <a href="/comparateur/jaecoo-7-vs-byd-sealion-7">notre comparateur</a>.</p>
+`,
+  },
+  {
     slug: 'byd-seal-5-dmi-vs-jaecoo-7-berline-phev-ou-suv-phev-lequel-choisir',
     title: 'BYD Seal 5 DM-i vs Jaecoo 7 : berline ou SUV hybride rechargeable, lequel choisir en 2026 ?',
     excerpt:
