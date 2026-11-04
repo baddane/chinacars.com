@@ -19,6 +19,50 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'byd-seal-u-vs-jaecoo-7-suv-electrique-grande-batterie-ou-suv-phev-sans-contrainte',
+    title: 'BYD Seal U vs Jaecoo 7 : SUV électrique ou SUV hybride rechargeable, lequel choisir en 2026 ?',
+    excerpt:
+      "Le Jaecoo 7 coûte 8 600 € de moins, offre 500 L de coffre, 1 200 km d'autonomie et 7 ans de garantie ; le Seal U mise sur une recharge à 140 kW et 3,5 €/100 km. Verdict chiffré.",
+    image: '/cars/byd-seal-u.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-11-04T09:00:00+02:00',
+    readingTime: 6,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux SUV familiaux, deux motorisations</h2>
+<p>Le BYD Seal U (43 600 €, 4,79 m) est un SUV familial 100 % électrique ; le Jaecoo 7 (35 000 €, 4,50 m) est un SUV hybride rechargeable. Pour d'autres duels, voir <a href="/actualites/byd-seal-u-vs-peugeot-3008-suv-familial-electrique-hybride">BYD Seal U vs Peugeot 3008</a> et <a href="/actualites/byd-seal-5-dmi-vs-jaecoo-7-berline-phev-ou-suv-phev-lequel-choisir">BYD Seal 5 DM-i vs Jaecoo 7</a>.</p>
+
+<h2>Prix : 8 600 € d'écart</h2>
+<p>Le Jaecoo 7 est 8 600 € moins cher (35 000 € contre 43 600 €). Il garde aussi l'avantage côté garantie : 7 ans contre 6 (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties</a>).</p>
+
+<h2>Performances : quasi à égalité</h2>
+<ul>
+  <li><strong>BYD Seal U</strong> : 218 ch, 0 à 100 km/h en 8,9 s.</li>
+  <li><strong>Jaecoo 7</strong> : 204 ch, 0 à 100 km/h en 8,5 s.</li>
+</ul>
+<p>Le Seal U aligne 14 ch de plus, mais le Jaecoo 7, plus léger, accélère 0,4 s plus vite.</p>
+
+<h2>Autonomie et recharge</h2>
+<p>Le Jaecoo 7 annonce 1 200 km d'autonomie cumulée contre 500 km pour le Seal U, mais avec une batterie de 18,3 kWh contre 87 kWh. Côté recharge, le Seal U accepte jusqu'à 140 kW, contre 40 kW pour le Jaecoo 7 (voir <a href="/actualites/hybride-vs-phev-comparatif-mg-byd">notre comparatif hybride et PHEV</a>).</p>
+
+<h2>Coût d'usage</h2>
+<p>Le Seal U consomme l'équivalent de 3,5 €/100 km contre 5,5 €/100 km pour le Jaecoo 7. Sur 15 000 km par an, cela représente environ 525 € contre 825 €, soit 300 € d'économie annuelle : il faudrait près de 29 ans pour compenser les 8 600 € d'écart à l'achat.</p>
+
+<h2>Gabarit, coffre et sécurité</h2>
+<p>Le Jaecoo 7 offre un coffre plus grand (500 litres contre 425) malgré 285 mm de moins en longueur ; les deux accueillent 5 personnes. Les deux obtiennent 5 étoiles Euro NCAP (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point sur la sécurité</a>) et la même note technologie : 7/10.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>BYD Seal U</strong> : pour ceux qui peuvent recharger à domicile et veulent un SUV électrique à faible coût d'usage, avec une recharge rapide à 140 kW.</li>
+  <li><strong>Jaecoo 7</strong> : pour les familles au budget serré qui font de longs trajets sans dépendre des bornes, avec un grand coffre et la garantie la plus longue.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Le <strong>Jaecoo 7</strong> l'emporte sur le prix, le coffre, l'accélération, l'autonomie totale et la garantie ; le <strong>BYD Seal U</strong> sur la puissance, la recharge et le coût d'usage. Pour payer moins et rouler sans contrainte, le Jaecoo 7 ; pour l'électrique pur et les économies à l'usage, le Seal U. Testez les deux dans <a href="/comparateur/byd-seal-u-vs-jaecoo-7">notre comparateur</a>.</p>
+`,
+  },
+  {
     slug: 'jaecoo-7-vs-byd-sealion-7-suv-phev-abordable-ou-suv-coupe-electrique-recharge-rapide',
     title: 'Jaecoo 7 vs BYD Sealion 7 : SUV hybride rechargeable ou SUV coupé électrique, lequel choisir en 2026 ?',
     excerpt:
