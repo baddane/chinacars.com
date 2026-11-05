@@ -19,6 +19,50 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'byd-atto-2-vs-omoda-e5-suv-urbain-phev-ou-suv-compact-electrique',
+    title: 'BYD Atto 2 vs Omoda E5 : SUV hybride rechargeable ou SUV 100 % électrique, lequel choisir en 2026 ?',
+    excerpt:
+      "L'Atto 2 coûte 9 600 € de moins et promet 1 000 km d'autonomie ; l'Omoda E5 accélère plus vite, recharge à 80 kW et garantit 7 ans. Verdict chiffré.",
+    image: '/cars/byd-atto-2.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-11-05T09:00:00+02:00',
+    readingTime: 6,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux SUV compacts, deux logiques</h2>
+<p>La BYD Atto 2 (30 000 €, 4,31 m) est un SUV urbain hybride rechargeable ; l'Omoda E5 (39 600 €, 4,42 m) est un SUV compact 100 % électrique. Pour d'autres duels autour de ces modèles, voir <a href="/actualites/byd-atto-2-vs-mg-zs-ev-suv-urbain-phev-ou-electrique-chinois">BYD Atto 2 vs MG ZS EV</a> et <a href="/actualites/omoda-e5-vs-byd-atto-3-evo-suv-compact-electrique-chinois">Omoda E5 vs BYD Atto 3 Evo</a>.</p>
+
+<h2>Prix : 9 600 € d'écart</h2>
+<p>L'Atto 2 est 9 600 € moins chère (30 000 € contre 39 600 €). L'Omoda E5 prend sa revanche côté garantie : 7 ans contre 6 (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties</a>).</p>
+
+<h2>Performances : l'électrique devant</h2>
+<ul>
+  <li><strong>BYD Atto 2</strong> : 177 ch, 0 à 100 km/h en 8,5 s.</li>
+  <li><strong>Omoda E5</strong> : 204 ch, 0 à 100 km/h en 7,6 s.</li>
+</ul>
+<p>L'Omoda E5 aligne 27 ch de plus et gagne 0,9 s sur le 0 à 100 km/h.</p>
+
+<h2>Autonomie et recharge</h2>
+<p>L'Atto 2 annonce 1 000 km d'autonomie cumulée avec une batterie de 7,8 kWh ; l'Omoda E5 affiche 430 km avec 61 kWh et accepte une recharge jusqu'à 80 kW (voir <a href="/actualites/hybride-vs-phev-comparatif-mg-byd">notre comparatif hybride et PHEV</a>). Pour rouler loin sans s'arrêter, l'Atto 2 est plus tranquille ; pour recharger vite, l'E5 est le seul des deux à le permettre.</p>
+
+<h2>Coût d'usage</h2>
+<p>L'Omoda E5 consomme l'équivalent de 3,3 €/100 km contre 5,5 €/100 km pour l'Atto 2. Sur 15 000 km par an : environ 495 € contre 825 €, soit 330 € d'économie annuelle. Il faudrait près de 29 ans pour combler les 9 600 € d'écart à l'achat.</p>
+
+<h2>Gabarit, coffre et sécurité</h2>
+<p>L'Atto 2 propose un coffre un peu plus grand (400 litres contre 378) malgré 114 mm de moins en longueur ; les deux accueillent 5 personnes. Les deux obtiennent 5 étoiles Euro NCAP (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point sur la sécurité</a>) et la même note technologie : 7/10.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>BYD Atto 2</strong> : pour les budgets serrés qui veulent un SUV compact sans contrainte de recharge et un prix d'entrée bas.</li>
+  <li><strong>Omoda E5</strong> : pour ceux qui peuvent recharger à domicile et veulent de meilleures performances, un coût d'usage réduit et 7 ans de garantie.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>L'<strong>Atto 2</strong> l'emporte sur le prix, le coffre et l'autonomie totale ; l'<strong>Omoda E5</strong> sur la puissance, l'accélération, la recharge, le coût d'usage et la garantie. Pour payer moins et rouler sans contrainte, l'Atto 2 ; pour l'électrique pur et les économies à l'usage, l'Omoda E5. Testez les deux dans <a href="/comparateur/byd-atto-2-vs-omoda-e5">notre comparateur</a>.</p>
+`,
+  },
+  {
     slug: 'byd-seal-u-vs-jaecoo-7-suv-electrique-grande-batterie-ou-suv-phev-sans-contrainte',
     title: 'BYD Seal U vs Jaecoo 7 : SUV électrique ou SUV hybride rechargeable, lequel choisir en 2026 ?',
     excerpt:
