@@ -19,6 +19,50 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'byd-atto-3-evo-vs-jaecoo-7-suv-electrique-ou-suv-phev-lequel-choisir',
+    title: 'BYD Atto 3 Evo vs Jaecoo 7 : SUV électrique ou SUV hybride rechargeable, lequel choisir en 2026 ?',
+    excerpt:
+      "La Jaecoo 7 coûte 4 000 € de moins, offre 60 litres de coffre en plus et 7 ans de garantie ; l'Atto 3 Evo accélère 1,2 s plus vite et recharge à 150 kW. Verdict chiffré.",
+    image: '/cars/byd-atto-3-evo.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-11-06T09:00:00+02:00',
+    readingTime: 6,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux SUV, deux philosophies</h2>
+<p>La BYD Atto 3 Evo (39 000 €, 4,46 m) est un SUV compact 100 % électrique ; la Jaecoo 7 (35 000 €, 4,50 m) est un SUV familial hybride rechargeable. Pour d'autres duels autour de ces modèles, voir <a href="/actualites/omoda-e5-vs-byd-atto-3-evo-suv-compact-electrique-chinois">Omoda E5 vs BYD Atto 3 Evo</a> et <a href="/actualites/mg-hs-hybrid-vs-jaecoo-7-suv-familial-chinois">MG HS Hybrid+ vs Jaecoo 7</a>.</p>
+
+<h2>Prix : 4 000 € d'écart</h2>
+<p>La Jaecoo 7 est 4 000 € moins chère (35 000 € contre 39 000 €) et offre une garantie plus longue : 7 ans contre 6 (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties</a>).</p>
+
+<h2>Performances : même puissance, accélération différente</h2>
+<ul>
+  <li><strong>BYD Atto 3 Evo</strong> : 204 ch, 0 à 100 km/h en 7,3 s.</li>
+  <li><strong>Jaecoo 7</strong> : 204 ch, 0 à 100 km/h en 8,5 s.</li>
+</ul>
+<p>À puissance égale, l'Atto 3 Evo gagne 1,2 s sur le 0 à 100 km/h grâce au couple immédiat de son moteur électrique.</p>
+
+<h2>Autonomie et recharge</h2>
+<p>L'Atto 3 Evo annonce 500 km avec une batterie de 60 kWh et accepte jusqu'à 150 kW en recharge rapide. La Jaecoo 7 affiche 1 200 km d'autonomie cumulée avec une batterie de 18,3 kWh rechargeable jusqu'à 40 kW (voir <a href="/actualites/hybride-vs-phev-comparatif-mg-byd">notre comparatif hybride et PHEV</a>). Pour les longs trajets sans planification, la Jaecoo 7 est plus tranquille ; pour recharger vite, l'Atto 3 Evo est nettement devant.</p>
+
+<h2>Coût d'usage</h2>
+<p>L'Atto 3 Evo consomme l'équivalent de 3,4 €/100 km contre 5,5 €/100 km pour la Jaecoo 7. Sur 15 000 km par an : environ 510 € contre 825 €, soit 315 € d'économie annuelle. Il faudrait près de 13 ans pour combler les 4 000 € d'écart à l'achat.</p>
+
+<h2>Gabarit, coffre et sécurité</h2>
+<p>La Jaecoo 7 propose 500 litres de coffre contre 440, et 45 mm de longueur en plus ; les deux accueillent 5 personnes. Les deux obtiennent 5 étoiles Euro NCAP (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point sur la sécurité</a>) et la même note technologie : 7/10.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>BYD Atto 3 Evo</strong> : pour ceux qui peuvent recharger à domicile et veulent de meilleures accélérations, une recharge rapide et un coût d'usage réduit.</li>
+  <li><strong>Jaecoo 7</strong> : pour les familles qui veulent un prix d'entrée plus bas, un grand coffre, 7 ans de garantie et aucune contrainte de recharge sur route.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>La <strong>Jaecoo 7</strong> l'emporte sur le prix, le coffre, l'autonomie totale et la garantie ; l'<strong>Atto 3 Evo</strong> sur l'accélération, la recharge rapide et le coût d'usage. Pour payer moins et rouler sans contrainte, la Jaecoo 7 ; pour l'électrique pur et les économies à l'usage, l'Atto 3 Evo. Testez les deux dans <a href="/comparateur/byd-atto-3-evo-vs-jaecoo-7">notre comparateur</a>.</p>
+`,
+  },
+  {
     slug: 'byd-atto-2-vs-omoda-e5-suv-urbain-phev-ou-suv-compact-electrique',
     title: 'BYD Atto 2 vs Omoda E5 : SUV hybride rechargeable ou SUV 100 % électrique, lequel choisir en 2026 ?',
     excerpt:
