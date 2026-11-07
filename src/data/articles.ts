@@ -19,6 +19,50 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'byd-sealion-7-vs-mg-hs-hybrid-suv-coupe-electrique-ou-suv-familial-hybride',
+    title: 'BYD Sealion 7 vs MG HS Hybrid+ : SUV coupé 100 % électrique ou SUV familial hybride, lequel choisir en 2026 ?',
+    excerpt:
+      "Le Sealion 7 accélère 1,3 s plus vite, recharge à 230 kW et coûte 735 € de moins par an à l'usage ; le MG HS Hybrid+ est 16 000 € moins cher, offre 950 km d'autonomie et 7 ans de garantie. Verdict chiffré.",
+    image: '/cars/byd-sealion-7.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-11-07T09:00:00+02:00',
+    readingTime: 6,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux SUV, deux philosophies</h2>
+<p>Le BYD Sealion 7 (48 000 €, 4,83 m) est un SUV coupé 100 % électrique ; le MG HS Hybrid+ (32 000 €, 4,67 m) est un SUV familial hybride non rechargeable. Pour d'autres duels autour de ces modèles, voir <a href="/actualites/byd-sealion-7-vs-toyota-rav4-suv-coupe-electrique-hybride">BYD Sealion 7 vs Toyota RAV4</a> et <a href="/actualites/mg-hs-hybrid-vs-jaecoo-7-suv-familial-chinois">MG HS Hybrid+ vs Jaecoo 7</a>.</p>
+
+<h2>Prix : 16 000 € d'écart</h2>
+<p>Le MG HS Hybrid+ est 16 000 € moins cher (32 000 € contre 48 000 €) et offre une garantie plus longue : 7 ans contre 6 (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties</a>).</p>
+
+<h2>Performances : 99 ch d'écart</h2>
+<ul>
+  <li><strong>BYD Sealion 7</strong> : 313 ch, 0 à 100 km/h en 6,7 s.</li>
+  <li><strong>MG HS Hybrid+</strong> : 214 ch, 0 à 100 km/h en 8,0 s.</li>
+</ul>
+<p>Le Sealion 7 gagne 1,3 s sur le 0 à 100 km/h grâce au couple immédiat de son moteur électrique et à ses 99 ch supplémentaires.</p>
+
+<h2>Autonomie et recharge</h2>
+<p>Le Sealion 7 annonce 482 km avec une batterie de 82,5 kWh et accepte jusqu'à 230 kW en recharge rapide. Le HS Hybrid+ ne se recharge pas : son autonomie de 950 km se récupère en deux minutes à la pompe (voir <a href="/actualites/hybride-vs-phev-comparatif-mg-byd">notre comparatif hybride et PHEV</a>). Pour les longs trajets sans planification, le MG est plus tranquille ; pour recharger vite quand une borne est disponible, le Sealion 7 est nettement devant.</p>
+
+<h2>Coût d'usage</h2>
+<p>Le Sealion 7 consomme l'équivalent de 3,6 €/100 km contre 8,5 €/100 km pour le HS Hybrid+. Sur 15 000 km par an : environ 540 € contre 1 275 €, soit 735 € d'économie annuelle. Il faudrait près de 22 ans pour combler les 16 000 € d'écart à l'achat.</p>
+
+<h2>Gabarit, coffre et sécurité</h2>
+<p>Le Sealion 7 mesure 160 mm de plus, mais le MG propose un coffre à peine plus grand : 507 litres contre 500. Les deux accueillent 5 personnes et obtiennent 5 étoiles Euro NCAP (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point sur la sécurité</a>). Côté technologie, le Sealion 7 prend l'avantage : 8/10 contre 6/10.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>BYD Sealion 7</strong> : pour ceux qui peuvent recharger à domicile et veulent des performances, une recharge ultra-rapide, plus de technologie et un faible coût d'usage.</li>
+  <li><strong>MG HS Hybrid+</strong> : pour les familles qui veulent un prix d'entrée nettement plus bas, 7 ans de garantie et aucune contrainte de recharge.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Le <strong>MG HS Hybrid+</strong> l'emporte sur le prix, l'autonomie totale, le coffre et la garantie ; le <strong>BYD Sealion 7</strong> sur l'accélération, la recharge rapide, la technologie et le coût d'usage. Pour payer 16 000 € de moins et rouler sans contrainte, le HS Hybrid+ ; pour l'électrique haut de gamme, le Sealion 7. Testez les deux dans <a href="/comparateur/byd-sealion-7-vs-mg-hs-hybrid">notre comparateur</a>.</p>
+`,
+  },
+  {
     slug: 'byd-atto-3-evo-vs-jaecoo-7-suv-electrique-ou-suv-phev-lequel-choisir',
     title: 'BYD Atto 3 Evo vs Jaecoo 7 : SUV électrique ou SUV hybride rechargeable, lequel choisir en 2026 ?',
     excerpt:
