@@ -19,6 +19,50 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'byd-atto-3-evo-vs-peugeot-2008-suv-electrique-chinois-ou-suv-essence-francais',
+    title: 'BYD Atto 3 Evo vs Peugeot 2008 : SUV électrique chinois ou SUV essence français, lequel choisir en 2026 ?',
+    excerpt:
+      "L'Atto 3 Evo offre 74 ch de plus, 2,3 s de moins au 0 à 100 km/h, 5 étoiles Euro NCAP et 690 € d'énergie économisés par an ; le Peugeot 2008 est 14 000 € moins cher et affiche 1 050 km d'autonomie. Verdict chiffré.",
+    image: '/cars/byd-atto-3-evo.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-11-08T09:00:00+02:00',
+    readingTime: 6,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux SUV compacts, deux philosophies</h2>
+<p>Le BYD Atto 3 Evo (39 000 €, 4,46 m) est un SUV compact 100 % électrique ; le Peugeot 2008 (25 000 €, 4,30 m) est un SUV urbain essence, l'un des best-sellers du segment en France. Pour d'autres duels autour de ces modèles, voir <a href="/actualites/byd-atto-2-vs-peugeot-2008-suv-urbain-phev-essence">BYD Atto 2 vs Peugeot 2008</a> et <a href="/actualites/byd-atto-3-evo-vs-mg-zs-ev-suv-electrique-chinois-premium-ou-abordable">BYD Atto 3 Evo vs MG ZS EV</a>.</p>
+
+<h2>Prix : 14 000 € d'écart</h2>
+<p>Le Peugeot 2008 est nettement moins cher à l'achat (25 000 € contre 39 000 €). En revanche, la garantie est deux fois plus longue chez BYD : 6 ans contre 3 (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties</a>).</p>
+
+<h2>Performances : 74 ch d'écart</h2>
+<ul>
+  <li><strong>BYD Atto 3 Evo</strong> : 204 ch, 0 à 100 km/h en 7,3 s.</li>
+  <li><strong>Peugeot 2008</strong> : 130 ch, 0 à 100 km/h en 9,6 s.</li>
+</ul>
+<p>L'Atto 3 Evo gagne 2,3 s sur le 0 à 100 km/h grâce au couple immédiat de son moteur électrique et à ses 74 ch supplémentaires.</p>
+
+<h2>Autonomie et recharge</h2>
+<p>L'Atto 3 Evo annonce 500 km avec une batterie de 60 kWh et accepte jusqu'à 150 kW en recharge rapide. Le 2008 n'a pas besoin de borne : ses 1 050 km d'autonomie se récupèrent en quelques minutes à la pompe. Pour les très longs trajets sans planification, le Peugeot est plus tranquille ; pour un usage quotidien avec recharge à domicile, l'Atto 3 Evo suffit largement (voir <a href="/actualites/hybride-vs-phev-comparatif-mg-byd">notre comparatif hybride et PHEV</a>).</p>
+
+<h2>Coût d'usage</h2>
+<p>L'Atto 3 Evo consomme l'équivalent de 3,4 €/100 km contre 8,0 €/100 km pour le 2008. Sur 15 000 km par an : environ 510 € contre 1 200 €, soit 690 € d'économie annuelle. Il faudrait plus de 20 ans pour combler les 14 000 € d'écart à l'achat sur la seule énergie.</p>
+
+<h2>Gabarit, coffre et sécurité</h2>
+<p>L'Atto 3 Evo mesure 151 mm de plus et offre un coffre à peine plus grand : 440 litres contre 434. Les deux accueillent 5 personnes, mais l'Atto 3 Evo obtient 5 étoiles Euro NCAP contre 4 pour le 2008 (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point sur la sécurité</a>). Côté technologie, léger avantage au BYD : 7/10 contre 6/10.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>BYD Atto 3 Evo</strong> : pour ceux qui peuvent recharger à domicile et veulent plus de puissance, une meilleure note de sécurité, une garantie de 6 ans et un faible coût d'usage.</li>
+  <li><strong>Peugeot 2008</strong> : pour les budgets serrés, les gros rouleurs sans accès à la recharge et ceux qui veulent une autonomie de plus de 1 000 km.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Le <strong>Peugeot 2008</strong> l'emporte sur le prix et l'autonomie totale ; le <strong>BYD Atto 3 Evo</strong> sur les performances, la sécurité, la garantie, la technologie et le coût d'usage. Pour payer 14 000 € de moins et rouler sans contrainte, le 2008 ; pour un SUV électrique mieux doté et plus sûr, l'Atto 3 Evo. Testez les deux dans <a href="/comparateur/byd-atto-3-evo-vs-peugeot-2008">notre comparateur</a>.</p>
+`,
+  },
+  {
     slug: 'byd-sealion-7-vs-mg-hs-hybrid-suv-coupe-electrique-ou-suv-familial-hybride',
     title: 'BYD Sealion 7 vs MG HS Hybrid+ : SUV coupé 100 % électrique ou SUV familial hybride, lequel choisir en 2026 ?',
     excerpt:
