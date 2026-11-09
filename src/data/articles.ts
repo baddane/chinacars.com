@@ -19,6 +19,50 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'byd-sealion-7-vs-peugeot-3008-suv-coupe-electrique-ou-suv-hybride-francais',
+    title: 'BYD Sealion 7 vs Peugeot 3008 Hybride : SUV coupé électrique ou SUV hybride français, lequel choisir en 2026 ?',
+    excerpt:
+      "Le Sealion 7 offre 118 ch de plus, 2,2 s de moins au 0 à 100 km/h, une recharge à 230 kW et 495 € d'énergie économisés par an ; le Peugeot 3008 est 10 000 € moins cher et affiche 1 000 km d'autonomie. Verdict chiffré.",
+    image: '/cars/byd-sealion-7.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-11-09T09:00:00+02:00',
+    readingTime: 6,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux SUV haut de gamme, deux philosophies</h2>
+<p>Le BYD Sealion 7 (48 000 €, 4,83 m) est un SUV coupé 100 % électrique ; le Peugeot 3008 Hybride (38 000 €, 4,54 m) est un SUV familial hybride non rechargeable, l'une des références du segment en France. Pour d'autres duels autour de ces modèles, voir <a href="/actualites/byd-seal-u-vs-peugeot-3008-suv-familial-electrique-hybride">BYD Seal U vs Peugeot 3008</a> et <a href="/actualites/mg-hs-hybrid-vs-peugeot-3008-suv-familial-hybride">MG HS Hybrid+ vs Peugeot 3008</a>.</p>
+
+<h2>Prix : 10 000 € d'écart</h2>
+<p>Le Peugeot 3008 est moins cher à l'achat (38 000 € contre 48 000 €). En revanche, la garantie est deux fois plus longue chez BYD : 6 ans contre 3 (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties</a>).</p>
+
+<h2>Performances : 118 ch d'écart</h2>
+<ul>
+  <li><strong>BYD Sealion 7</strong> : 313 ch, 0 à 100 km/h en 6,7 s.</li>
+  <li><strong>Peugeot 3008 Hybride</strong> : 195 ch, 0 à 100 km/h en 8,9 s.</li>
+</ul>
+<p>Le Sealion 7 gagne 2,2 s sur le 0 à 100 km/h grâce au couple immédiat de sa motorisation électrique et à ses 118 ch supplémentaires.</p>
+
+<h2>Autonomie et recharge</h2>
+<p>Le Sealion 7 annonce 482 km avec une batterie de 82,5 kWh et accepte jusqu'à 230 kW en recharge rapide. Le 3008 n'a pas besoin de borne : ses 1 000 km d'autonomie se récupèrent en quelques minutes à la pompe. Pour les très longs trajets sans planification, le Peugeot est plus tranquille ; pour un usage quotidien avec recharge à domicile, le Sealion 7 suffit largement (voir <a href="/actualites/hybride-vs-phev-comparatif-mg-byd">notre comparatif hybride et PHEV</a>).</p>
+
+<h2>Coût d'usage</h2>
+<p>Le Sealion 7 consomme l'équivalent de 3,6 €/100 km contre 6,9 €/100 km pour le 3008. Sur 15 000 km par an : environ 540 € contre 1 035 €, soit 495 € d'économie annuelle. Il faudrait une vingtaine d'années pour combler les 10 000 € d'écart à l'achat sur la seule énergie.</p>
+
+<h2>Gabarit, coffre et sécurité</h2>
+<p>Le Sealion 7 mesure 288 mm de plus, mais son coffre est un peu plus petit : 500 litres contre 520 pour le 3008. Les deux accueillent 5 personnes et obtiennent 5 étoiles Euro NCAP (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point sur la sécurité</a>). Côté technologie, léger avantage au BYD : 8/10 contre 7/10.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>BYD Sealion 7</strong> : pour ceux qui peuvent recharger à domicile et veulent de fortes performances, une recharge ultra-rapide, une garantie de 6 ans et un faible coût d'usage.</li>
+  <li><strong>Peugeot 3008 Hybride</strong> : pour les budgets plus serrés, les gros rouleurs sans accès à la recharge et ceux qui veulent une autonomie de 1 000 km.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Le <strong>Peugeot 3008</strong> l'emporte sur le prix, l'autonomie totale et le volume de coffre ; le <strong>BYD Sealion 7</strong> sur les performances, la recharge, la garantie, la technologie et le coût d'usage. Pour payer 10 000 € de moins et rouler sans contrainte, le 3008 ; pour un SUV électrique puissant et mieux garanti, le Sealion 7. Testez les deux dans <a href="/comparateur/byd-sealion-7-vs-peugeot-3008">notre comparateur</a>.</p>
+`,
+  },
+  {
     slug: 'byd-atto-3-evo-vs-peugeot-2008-suv-electrique-chinois-ou-suv-essence-francais',
     title: 'BYD Atto 3 Evo vs Peugeot 2008 : SUV électrique chinois ou SUV essence français, lequel choisir en 2026 ?',
     excerpt:
