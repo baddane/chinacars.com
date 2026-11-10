@@ -248,6 +248,7 @@ export const COMPARISON_DUELS: Array<[string, string]> = [
   ['byd-sealion-7', 'mg-hs-hybrid'],
   ['byd-atto-3-evo', 'peugeot-2008'],
   ['byd-sealion-7', 'peugeot-3008'],
+  ['byd-atto-2', 'toyota-yaris-cross'],
 ];
 
 export function duelSlug(a: string, b: string): string {
