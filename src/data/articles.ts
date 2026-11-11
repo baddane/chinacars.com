@@ -19,6 +19,50 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'byd-atto-2-vs-renault-captur-suv-urbain-phev-chinois-ou-hybride-francais',
+    title: 'BYD Atto 2 vs Renault Captur E-Tech : SUV urbain PHEV chinois ou SUV hybride français, lequel choisir en 2026 ?',
+    excerpt:
+      "L'Atto 2 offre 32 ch de plus, 2,1 s de moins au 0 à 100 km/h, une garantie doublée (6 ans contre 3) et 225 € d'énergie économisés par an ; le Captur est 5 000 € moins cher et propose 84 litres de coffre en plus. Verdict chiffré.",
+    image: '/cars/byd-atto-2.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-11-11T09:00:00+02:00',
+    readingTime: 6,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux SUV urbains électrifiés, deux philosophies</h2>
+<p>Le BYD Atto 2 (30 000 €, 4,31 m) est un SUV urbain hybride rechargeable (PHEV) ; le Renault Captur E-Tech (25 000 €, 4,24 m) est un SUV hybride non rechargeable, l'un des best-sellers du segment en France. Pour d'autres duels autour de ces deux modèles, voir <a href="/actualites/byd-atto-2-vs-peugeot-2008-suv-urbain-phev-essence">BYD Atto 2 vs Peugeot 2008</a> et <a href="/actualites/mg-zs-ev-vs-renault-captur-suv-urbain-electrique-hybride">MG ZS EV vs Renault Captur</a>.</p>
+
+<h2>Prix : 5 000 € d'écart</h2>
+<p>Le Captur est nettement moins cher à l'achat (25 000 € contre 30 000 €). La garantie penche en revanche fortement du côté de BYD : 6 ans contre 3 ans chez Renault, soit le double (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties</a>).</p>
+
+<h2>Performances : 32 ch d'écart</h2>
+<ul>
+  <li><strong>BYD Atto 2</strong> : 177 ch, 0 à 100 km/h en 8,5 s.</li>
+  <li><strong>Renault Captur E-Tech</strong> : 145 ch, 0 à 100 km/h en 10,6 s.</li>
+</ul>
+<p>L'Atto 2 gagne 2,1 s sur le 0 à 100 km/h : un écart sensible en insertion sur voie rapide ou lors des dépassements.</p>
+
+<h2>Autonomie et recharge</h2>
+<p>Égalité parfaite sur l'autonomie totale : 1 000 km pour chacun. L'Atto 2 s'appuie sur une batterie de 7,8 kWh rechargeable sur prise, qui permet de rouler en électrique sur les trajets quotidiens ; le Captur utilise une petite batterie de 1,2 kWh qui se recharge uniquement en roulant et ne se branche jamais. Aucun des deux n'accepte la recharge rapide DC (voir <a href="/actualites/hybride-vs-phev-comparatif-mg-byd">notre comparatif hybride et PHEV</a>).</p>
+
+<h2>Coût d'usage</h2>
+<p>L'Atto 2 consomme l'équivalent de 5,5 €/100 km contre 7,0 €/100 km pour le Captur. Sur 15 000 km par an : environ 825 € contre 1 050 €, soit 225 € d'économie annuelle. Il faut environ 22 ans pour amortir les 5 000 € d'écart à l'achat sur la seule énergie ; l'écart se réduit toutefois si vous rechargez souvent à domicile.</p>
+
+<h2>Gabarit, coffre et sécurité</h2>
+<p>L'Atto 2 mesure 71 mm de plus que le Captur, mais c'est le Renault qui offre le plus grand coffre : 484 litres contre 400, soit 84 litres d'avance grâce à sa banquette coulissante. Les deux accueillent 5 personnes et obtiennent 5 étoiles Euro NCAP (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point sur la sécurité</a>). Côté technologie, léger avantage au BYD : 7/10 contre 6/10.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>BYD Atto 2</strong> : pour ceux qui peuvent recharger à domicile, veulent plus de puissance, une garantie de 6 ans et un coût d'usage plus faible.</li>
+  <li><strong>Renault Captur E-Tech</strong> : pour les budgets plus serrés, les familles qui ont besoin d'un grand coffre et ceux qui préfèrent un hybride sans prise adossé à un large réseau après-vente.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Le <strong>Renault Captur E-Tech</strong> l'emporte sur le prix et le coffre ; le <strong>BYD Atto 2</strong> sur les performances, la garantie, la technologie et le coût d'usage, les deux faisant jeu égal sur l'autonomie et la sécurité. Pour payer 5 000 € de moins et charger davantage, le Captur ; pour un SUV urbain plus vif et deux fois mieux garanti, l'Atto 2. Testez les deux dans <a href="/comparateur/byd-atto-2-vs-renault-captur">notre comparateur</a>.</p>
+`,
+  },
+  {
     slug: 'byd-atto-2-vs-toyota-yaris-cross-suv-urbain-phev-chinois-ou-suv-hybride-japonais',
     title: 'BYD Atto 2 vs Toyota Yaris Cross : SUV urbain PHEV chinois ou SUV hybride japonais, lequel choisir en 2026 ?',
     excerpt:
