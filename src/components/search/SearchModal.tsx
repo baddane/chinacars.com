@@ -8,7 +8,6 @@ import { normalize, type SearchItem, type SearchType } from '@/src/lib/searchTyp
 interface Props {
   open: boolean;
   onClose: () => void;
-  index: SearchItem[];
 }
 
 const GROUP_ORDER: SearchType[] = ['Article', 'Comparaison', 'Marque'];
@@ -19,8 +18,27 @@ const GROUP_LABELS: Record<SearchType, string> = {
 };
 const MAX_PER_GROUP = 6;
 
-export default function SearchModal({ open, onClose, index }: Props) {
+// Index chargé une seule fois, à la première ouverture (partagé entre montages).
+let indexPromise: Promise<SearchItem[]> | null = null;
+function loadIndex(): Promise<SearchItem[]> {
+  if (!indexPromise) {
+    indexPromise = fetch('/search-index.json')
+      .then((r) => (r.ok ? r.json() : []))
+      .catch(() => {
+        indexPromise = null;
+        return [];
+      });
+  }
+  return indexPromise;
+}
+
+export default function SearchModal({ open, onClose }: Props) {
   const [query, setQuery] = useState('');
+  const [index, setIndex] = useState<SearchItem[]>([]);
+
+  useEffect(() => {
+    if (open && index.length === 0) loadIndex().then(setIndex);
+  }, [open, index.length]);
   const inputRef = useRef<HTMLInputElement>(null);
 
   useEffect(() => {
