@@ -19,6 +19,50 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'mg-zs-hybrid-vs-citroen-c3-aircross-suv-urbain-hybride-chinois-ou-essence-francais',
+    title: 'MG ZS Hybrid+ vs Citroën C3 Aircross : SUV urbain hybride chinois ou SUV essence français, lequel choisir en 2026 ?',
+    excerpt:
+      "Le ZS Hybrid+ offre 65 ch de plus, 1,2 s de moins au 0 à 100 km/h, une garantie de 7 ans contre 2 et une étoile Euro NCAP supplémentaire ; le C3 Aircross est 4 000 € moins cher, un peu plus grand et propose 17 litres de coffre en plus. Verdict chiffré.",
+    image: '/cars/mg-zs-hybrid.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-11-12T09:00:00+02:00',
+    readingTime: 6,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux SUV urbains, deux motorisations</h2>
+<p>Le MG ZS Hybrid+ (24 000 €, 4,32 m) est un SUV urbain hybride non rechargeable ; le Citroën C3 Aircross (20 000 €, 4,39 m) est un SUV urbain essence, renouvelé avec un style plus robuste et une version 7 places en option. Pour d'autres duels autour de ces deux modèles, voir <a href="/actualites/mg-zs-hybrid-vs-dacia-duster-hybrid-low-cost">MG ZS Hybrid+ vs Dacia Duster</a> et <a href="/actualites/byd-atto-2-vs-citroen-c3-aircross-suv-urbain-phev-francais">BYD Atto 2 vs Citroën C3 Aircross</a>.</p>
+
+<h2>Prix : 4 000 € d'écart</h2>
+<p>Le C3 Aircross est le moins cher à l'achat (20 000 € contre 24 000 €). La garantie change toutefois la donne : 7 ans chez MG contre 2 ans chez Citroën, soit 5 années de couverture en plus (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties</a>).</p>
+
+<h2>Performances : 65 ch d'écart</h2>
+<ul>
+  <li><strong>MG ZS Hybrid+</strong> : 195 ch, 0 à 100 km/h en 8,7 s.</li>
+  <li><strong>Citroën C3 Aircross</strong> : 130 ch, 0 à 100 km/h en 9,9 s.</li>
+</ul>
+<p>Le ZS Hybrid+ gagne 1,2 s sur le 0 à 100 km/h. Son système hybride permet en outre de démarrer et de rouler à basse vitesse en mode électrique en ville, là où le C3 Aircross reste un essence classique.</p>
+
+<h2>Autonomie et consommation</h2>
+<p>Avantage léger au C3 Aircross sur l'autonomie totale : 1 050 km contre 1 000 km, soit 50 km de plus entre deux pleins. Aucun des deux ne se branche : le ZS Hybrid+ recharge sa batterie de 1,8 kWh en roulant et au freinage (voir <a href="/actualites/hybride-vs-phev-comparatif-mg-byd">notre comparatif hybride et PHEV</a>).</p>
+
+<h2>Coût d'usage</h2>
+<p>Dans notre comparateur, les deux SUV sont au coude-à-coude : 8,0 €/100 km pour le ZS Hybrid+ contre 8,1 €/100 km pour le C3 Aircross. Sur 15 000 km par an, cela représente environ 1 200 € contre 1 215 €, soit seulement 15 € d'écart annuel : l'énergie ne suffit pas à amortir les 4 000 € d'écart à l'achat. L'hybride creuse toutefois l'écart en circulation urbaine dense, son terrain de prédilection.</p>
+
+<h2>Gabarit, coffre et sécurité</h2>
+<p>Le C3 Aircross mesure 67 mm de plus et offre un coffre légèrement plus grand : 460 litres contre 443, soit 17 litres d'avance. Les deux accueillent 5 personnes dans leur configuration de base. Sur la sécurité, le ZS Hybrid+ obtient 5 étoiles Euro NCAP contre 4 pour le Citroën (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point sur la sécurité</a>). Côté technologie, léger avantage au MG : 6/10 contre 5/10.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>MG ZS Hybrid+</strong> : pour ceux qui roulent beaucoup en ville, veulent plus de puissance, une garantie de 7 ans et la note Euro NCAP maximale.</li>
+  <li><strong>Citroën C3 Aircross</strong> : pour les budgets serrés, ceux qui privilégient le confort et un coffre un peu plus grand, ou qui envisagent l'option 7 places.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Le <strong>Citroën C3 Aircross</strong> l'emporte sur le prix, l'autonomie, le gabarit et le coffre ; le <strong>MG ZS Hybrid+</strong> sur les performances, la garantie, la sécurité et la technologie, les deux faisant quasiment jeu égal sur le coût d'usage. Pour payer 4 000 € de moins, le C3 Aircross ; pour un SUV urbain plus vif, mieux noté en sécurité et garanti 5 ans de plus, le ZS Hybrid+. Testez les deux dans <a href="/comparateur/mg-zs-hybrid-vs-citroen-c3-aircross">notre comparateur</a>.</p>
+`,
+  },
+  {
     slug: 'byd-atto-2-vs-renault-captur-suv-urbain-phev-chinois-ou-hybride-francais',
     title: 'BYD Atto 2 vs Renault Captur E-Tech : SUV urbain PHEV chinois ou SUV hybride français, lequel choisir en 2026 ?',
     excerpt:
