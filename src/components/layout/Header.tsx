@@ -6,7 +6,6 @@ import { usePathname } from 'next/navigation';
 import { Menu, X, Car, Search, Globe } from 'lucide-react';
 import { cn } from '@/src/lib/utils';
 import SearchModal from '@/src/components/search/SearchModal';
-import type { SearchItem } from '@/src/lib/searchTypes';
 
 const navigation = [
   { name: 'Actualités', href: '/actualites' },
@@ -17,7 +16,7 @@ const navigation = [
   { name: 'Électrique', href: '/electrique' },
 ];
 
-export default function Header({ searchIndex = [] }: { searchIndex?: SearchItem[] }) {
+export default function Header() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [searchOpen, setSearchOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
@@ -187,7 +186,7 @@ export default function Header({ searchIndex = [] }: { searchIndex?: SearchItem[
         </div>
       </div>
 
-      <SearchModal open={searchOpen} onClose={() => setSearchOpen(false)} index={searchIndex} />
+      <SearchModal open={searchOpen} onClose={() => setSearchOpen(false)} />
     </header>
   );
 }
