@@ -19,6 +19,50 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'omoda-5-shs-h-vs-peugeot-2008-suv-hybride-chinois-ou-suv-essence-francais',
+    title: 'Omoda 5 SHS-H vs Peugeot 2008 : SUV hybride chinois ou SUV essence français, lequel choisir en 2026 ?',
+    excerpt:
+      "L'Omoda 5 SHS-H offre 94 ch de plus, 1,8 s de moins au 0 à 100 km/h, une garantie de 7 ans contre 3 et une étoile Euro NCAP supplémentaire ; le Peugeot 2008 est 5 000 € moins cher et propose 74 litres de coffre en plus. Verdict chiffré.",
+    image: '/cars/omoda-5-shs-h.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-11-13T09:00:00+02:00',
+    readingTime: 6,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux SUV, deux philosophies</h2>
+<p>L'Omoda 5 SHS-H (30 000 €, 4,42 m) est un SUV compact hybride non rechargeable, motorisé par le système Super Hybrid de Chery ; le Peugeot 2008 (25 000 €, 4,30 m) est l'un des SUV urbains essence les plus vendus en France, avec son i-Cockpit caractéristique. Pour d'autres duels autour de ces deux modèles, voir <a href="/actualites/omoda-5-shs-h-vs-toyota-yaris-cross-hybride">Omoda 5 SHS-H vs Toyota Yaris Cross</a> et <a href="/actualites/byd-atto-2-vs-peugeot-2008-suv-urbain-phev-essence">BYD Atto 2 vs Peugeot 2008</a>.</p>
+
+<h2>Prix : 5 000 € d'écart</h2>
+<p>Le 2008 est le moins cher à l'achat (25 000 € contre 30 000 €). La garantie rééquilibre une partie du match : 7 ans chez Omoda contre 3 ans chez Peugeot, soit 4 années de couverture en plus (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties</a>).</p>
+
+<h2>Performances : 94 ch d'écart</h2>
+<ul>
+  <li><strong>Omoda 5 SHS-H</strong> : 224 ch, 0 à 100 km/h en 7,8 s.</li>
+  <li><strong>Peugeot 2008</strong> : 130 ch, 0 à 100 km/h en 9,6 s.</li>
+</ul>
+<p>L'Omoda 5 SHS-H gagne 1,8 s sur le 0 à 100 km/h. Son système hybride, où le moteur électrique assure l'essentiel de la traction en ville, lui permet aussi de rouler sans bruit à basse vitesse (voir <a href="/actualites/omoda-shs-h-hybride-comment-ca-marche">notre explication du SHS-H</a>).</p>
+
+<h2>Autonomie et consommation</h2>
+<p>Avantage à l'Omoda sur l'autonomie totale : 1 100 km contre 1 050 km, soit 50 km de plus entre deux pleins. Aucun des deux ne se branche : l'Omoda recharge sa batterie de 1,8 kWh en roulant et au freinage (voir <a href="/actualites/hybride-vs-phev-comparatif-mg-byd">notre comparatif hybride et PHEV</a>).</p>
+
+<h2>Coût d'usage</h2>
+<p>Dans notre comparateur, l'Omoda 5 SHS-H consomme pour 7,0 €/100 km contre 8,0 €/100 km pour le 2008. Sur 15 000 km par an, cela représente environ 1 050 € contre 1 200 €, soit 150 € d'économie annuelle : il faut donc plus de 30 ans pour amortir les 5 000 € d'écart à l'achat par la seule énergie. L'écart se creuse toutefois en circulation urbaine, terrain où l'hybride est le plus efficace.</p>
+
+<h2>Gabarit, coffre et sécurité</h2>
+<p>L'Omoda est plus long de 120 mm, mais c'est le 2008 qui offre le plus grand coffre : 434 litres contre 360, soit 74 litres d'avance. Les deux accueillent 5 personnes. Sur la sécurité, l'Omoda 5 obtient 5 étoiles Euro NCAP contre 4 pour le Peugeot (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point sur la sécurité</a>). Côté technologie, léger avantage à l'Omoda : 7/10 contre 6/10.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>Omoda 5 SHS-H</strong> : pour ceux qui veulent un SUV vif et sobre, une garantie longue et la note Euro NCAP maximale, sans contrainte de recharge.</li>
+  <li><strong>Peugeot 2008</strong> : pour les budgets plus serrés, ceux qui ont besoin d'un grand coffre ou qui privilégient un réseau après-vente dense et une valeur de revente éprouvée.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Le <strong>Peugeot 2008</strong> l'emporte sur le prix et le coffre ; l'<strong>Omoda 5 SHS-H</strong> sur les performances, l'autonomie, le coût d'usage, la garantie, la sécurité et la technologie. Pour payer 5 000 € de moins et charger davantage, le 2008 ; pour un SUV hybride nettement plus puissant, plus sobre et garanti 4 ans de plus, l'Omoda 5 SHS-H. Testez les deux dans <a href="/comparateur/omoda-5-shs-h-vs-peugeot-2008">notre comparateur</a>.</p>
+`,
+  },
+  {
     slug: 'mg-zs-hybrid-vs-citroen-c3-aircross-suv-urbain-hybride-chinois-ou-essence-francais',
     title: 'MG ZS Hybrid+ vs Citroën C3 Aircross : SUV urbain hybride chinois ou SUV essence français, lequel choisir en 2026 ?',
     excerpt:
