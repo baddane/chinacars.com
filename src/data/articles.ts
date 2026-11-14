@@ -19,6 +19,50 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'mg-hs-hybrid-vs-citroen-c5-aircross-suv-familial-hybride-chinois-ou-francais',
+    title: 'MG HS Hybrid+ vs Citroën C5 Aircross Hybride : SUV familial hybride chinois ou français, lequel choisir en 2026 ?',
+    excerpt:
+      "Le MG HS Hybrid+ coûte 4 000 € de moins, offre 34 ch de plus et une garantie de 7 ans contre 2 ; le Citroën C5 Aircross Hybride répond avec 73 litres de coffre en plus et environ 225 € de carburant économisés chaque année. Verdict chiffré.",
+    image: '/cars/mg-hs-hybrid.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-11-14T09:00:00+02:00',
+    readingTime: 6,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux SUV familiaux hybrides, deux priorités</h2>
+<p>Le MG HS Hybrid+ (32 000 €, 4,67 m) et le Citroën C5 Aircross Hybride (36 000 €, 4,50 m) jouent dans la même catégorie : des SUV familiaux 5 places, hybrides non rechargeables, pensés pour les longs trajets sans contrainte de prise. Le premier mise sur la puissance, le prix et la garantie ; le second sur le confort, le volume de chargement et la sobriété. Pour la version essence du SUV chinois face au même rival, voir <a href="/actualites/mg-hs-vs-citroen-c5-aircross-suv-familial-essence-hybride">MG HS vs Citroën C5 Aircross</a> ; pour un autre duel familial à la française, <a href="/actualites/mg-hs-hybrid-vs-peugeot-3008-suv-familial-hybride">MG HS Hybrid+ vs Peugeot 3008</a>.</p>
+
+<h2>Prix et garantie : avantage MG</h2>
+<p>Le MG HS Hybrid+ est 4 000 € moins cher à l'achat (32 000 € contre 36 000 €). L'écart est encore plus marqué sur la garantie : 7 ans chez MG contre 2 ans chez Citroën, soit 5 années de couverture constructeur en plus (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties</a>).</p>
+
+<h2>Performances : 34 ch d'écart</h2>
+<ul>
+  <li><strong>MG HS Hybrid+</strong> : 214 ch, 0 à 100 km/h en 8,0 s.</li>
+  <li><strong>Citroën C5 Aircross Hybride</strong> : 180 ch, 0 à 100 km/h en 8,7 s.</li>
+</ul>
+<p>Le MG gagne 0,7 s sur le 0 à 100 km/h. Un avantage appréciable en charge, famille à bord, lors des insertions et des dépassements ; le Citroën reste suffisant mais privilégie la douceur au dynamisme.</p>
+
+<h2>Autonomie et consommation : avantage Citroën</h2>
+<p>Aucun des deux ne se branche : leurs petites batteries (2 kWh pour le MG, 1,5 kWh pour le Citroën) se rechargent en roulant et au freinage (voir <a href="/actualites/hybride-vs-phev-comparatif-mg-byd">notre comparatif hybride et PHEV</a>). Le C5 Aircross parcourt environ 1 000 km entre deux pleins contre 950 km pour le HS, soit 50 km de mieux.</p>
+
+<h2>Coût d'usage</h2>
+<p>Dans notre comparateur, le Citroën consomme pour 7,0 €/100 km contre 8,5 €/100 km pour le MG. Sur 15 000 km par an, cela représente environ 1 050 € contre 1 275 €, soit 225 € d'économie annuelle pour le C5 Aircross. Il lui faudrait près de 18 ans pour compenser par la seule énergie les 4 000 € payés en plus à l'achat : sur une durée de détention classique, le MG reste le moins coûteux au total.</p>
+
+<h2>Gabarit, coffre et sécurité</h2>
+<p>Le MG est plus long de 170 mm, mais c'est le Citroën qui offre le plus grand coffre : 580 litres contre 507, soit 73 litres d'avance, un atout pour les vacances en famille. Les deux accueillent 5 personnes. Égalité sur la sécurité, avec 5 étoiles Euro NCAP de part et d'autre (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point sur la sécurité</a>), et sur la technologie embarquée, notée 6/10 pour chacun.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>MG HS Hybrid+</strong> : pour ceux qui veulent le meilleur rapport prix-puissance, une garantie longue pour garder la voiture sereinement 7 ans, et un grand SUV au gabarit statutaire.</li>
+  <li><strong>Citroën C5 Aircross Hybride</strong> : pour les familles qui chargent beaucoup, roulent beaucoup et privilégient le confort, la sobriété et un réseau après-vente dense.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Le <strong>Citroën C5 Aircross Hybride</strong> l'emporte sur le coffre, l'autonomie et le coût d'usage ; le <strong>MG HS Hybrid+</strong> sur le prix, la puissance, les accélérations et la garantie, avec une égalité sur la sécurité et la technologie. Pour 4 000 € de moins, 34 ch de plus et 5 ans de garantie supplémentaires, le MG ; pour un coffre plus grand et une facture de carburant plus légère, le Citroën. Testez les deux dans <a href="/comparateur/mg-hs-hybrid-vs-citroen-c5-aircross">notre comparateur</a>.</p>
+`,
+  },
+  {
     slug: 'omoda-5-shs-h-vs-peugeot-2008-suv-hybride-chinois-ou-suv-essence-francais',
     title: 'Omoda 5 SHS-H vs Peugeot 2008 : SUV hybride chinois ou SUV essence français, lequel choisir en 2026 ?',
     excerpt:
