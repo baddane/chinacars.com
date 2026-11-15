@@ -253,6 +253,7 @@ export const COMPARISON_DUELS: Array<[string, string]> = [
   ['mg-zs-hybrid', 'citroen-c3-aircross'],
   ['omoda-5-shs-h', 'peugeot-2008'],
   ['mg-hs-hybrid', 'citroen-c5-aircross'],
+  ['omoda-5-shs-h', 'vw-t-roc'],
 ];
 
 export function duelSlug(a: string, b: string): string {

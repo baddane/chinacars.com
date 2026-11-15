@@ -19,6 +19,50 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'omoda-5-shs-h-vs-vw-t-roc-suv-compact-hybride-chinois-ou-essence-allemand',
+    title: 'Omoda 5 SHS-H vs Volkswagen T-Roc : SUV compact hybride chinois ou essence allemand, lequel choisir en 2026 ?',
+    excerpt:
+      "L'Omoda 5 SHS-H coûte 2 000 € de moins, aligne 74 ch de plus et une garantie de 7 ans contre 2 ; le Volkswagen T-Roc répond avec 85 litres de coffre en plus et un gabarit plus court pour la ville. Verdict chiffré.",
+    image: '/cars/omoda-5-shs-h.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-11-15T09:00:00+02:00',
+    readingTime: 6,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux SUV compacts, deux philosophies</h2>
+<p>L'Omoda 5 SHS-H (30 000 €, 4,42 m) et le Volkswagen T-Roc (32 000 €, 4,23 m) visent la même clientèle : des conducteurs qui veulent un SUV compact polyvalent, à l'aise en ville comme sur autoroute. Le chinois mise sur une motorisation hybride puissante, un prix contenu et une garantie longue ; l'allemand sur l'image de marque, un coffre plus généreux et une valeur de revente réputée solide. Pour d'autres duels de l'Omoda 5 hybride, voir <a href="/actualites/omoda-5-shs-h-vs-toyota-yaris-cross-hybride">Omoda 5 SHS-H vs Toyota Yaris Cross</a> et <a href="/actualites/omoda-5-shs-h-vs-peugeot-2008-suv-hybride-chinois-ou-suv-essence-francais">Omoda 5 SHS-H vs Peugeot 2008</a> ; pour le T-Roc face à un autre SUV chinois, <a href="/actualites/mg-zs-hybrid-vs-vw-t-roc-suv-urbain-hybride-essence">MG ZS Hybrid+ vs Volkswagen T-Roc</a>.</p>
+
+<h2>Prix et garantie : avantage Omoda</h2>
+<p>L'Omoda 5 SHS-H est 2 000 € moins cher à l'achat (30 000 € contre 32 000 €). Sur la garantie, l'écart est encore plus net : 7 ans chez Omoda contre 2 ans chez Volkswagen, soit 5 années de couverture constructeur supplémentaires (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties</a>).</p>
+
+<h2>Performances : 74 ch d'écart</h2>
+<ul>
+  <li><strong>Omoda 5 SHS-H</strong> : 224 ch, 0 à 100 km/h en 7,8 s.</li>
+  <li><strong>Volkswagen T-Roc</strong> : 150 ch, 0 à 100 km/h en 8,4 s.</li>
+</ul>
+<p>L'Omoda gagne 0,6 s sur le 0 à 100 km/h et dispose d'une réserve de puissance nettement supérieure, appréciable lors des dépassements et des insertions sur voie rapide. Le T-Roc reste vif et agréable, avec un comportement routier réputé pour sa rigueur.</p>
+
+<h2>Autonomie et consommation : avantage Omoda</h2>
+<p>Ni l'un ni l'autre ne se branche. L'Omoda 5 SHS-H associe un moteur essence à une petite batterie de 1,8 kWh qui se recharge en roulant et au freinage (voir <a href="/actualites/hybride-vs-phev-comparatif-mg-byd">notre comparatif hybride et PHEV</a>), tandis que le T-Roc de notre comparateur est une version essence. Résultat : environ 1 100 km entre deux pleins pour l'Omoda contre 1 000 km pour le Volkswagen, soit 100 km de mieux.</p>
+
+<h2>Coût d'usage</h2>
+<p>Dans notre comparateur, l'Omoda consomme pour 7,0 €/100 km contre 7,6 €/100 km pour le T-Roc. Sur 15 000 km par an, cela représente environ 1 050 € contre 1 140 €, soit 90 € d'économie annuelle pour l'Omoda. Cumulé à un prix d'achat inférieur de 2 000 €, l'avantage économique est clairement du côté chinois sur toute la durée de détention.</p>
+
+<h2>Gabarit, coffre et sécurité</h2>
+<p>L'Omoda est plus long de 190 mm, mais c'est le T-Roc qui offre le plus grand coffre : 445 litres contre 360, soit 85 litres d'avance, un vrai plus pour les familles et les départs en vacances. Ses 4,23 m le rendent aussi plus facile à garer en ville. Égalité sur la sécurité, avec 5 étoiles Euro NCAP de part et d'autre (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point sur la sécurité</a>). Côté technologie embarquée, l'Omoda prend l'avantage (7/10 contre 6/10) grâce à une dotation de série plus riche.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>Omoda 5 SHS-H</strong> : pour ceux qui veulent le meilleur rapport prix-puissance, une consommation maîtrisée, un équipement généreux et 7 ans de garantie pour garder la voiture longtemps en toute sérénité.</li>
+  <li><strong>Volkswagen T-Roc</strong> : pour ceux qui privilégient le volume de chargement, un gabarit compact en ville, un réseau après-vente dense et la valeur de revente d'une marque établie.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>L'<strong>Omoda 5 SHS-H</strong> l'emporte sur le prix, la puissance, les accélérations, l'autonomie, le coût d'usage, la garantie et la technologie ; le <strong>Volkswagen T-Roc</strong> sur le coffre et la compacité, avec une égalité sur la sécurité. Pour 2 000 € de moins, 74 ch de plus et 5 ans de garantie supplémentaires, l'Omoda ; pour un coffre plus logeable et la rassurance d'une marque historique, le T-Roc. Testez les deux dans <a href="/comparateur/omoda-5-shs-h-vs-vw-t-roc">notre comparateur</a>.</p>
+`,
+  },
+  {
     slug: 'mg-hs-hybrid-vs-citroen-c5-aircross-suv-familial-hybride-chinois-ou-francais',
     title: 'MG HS Hybrid+ vs Citroën C5 Aircross Hybride : SUV familial hybride chinois ou français, lequel choisir en 2026 ?',
     excerpt:
