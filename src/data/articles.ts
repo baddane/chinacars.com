@@ -19,6 +19,50 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'mg-hs-hybrid-vs-vw-tiguan-suv-familial-hybride-chinois-ou-essence-allemand',
+    title: 'MG HS Hybrid+ vs Volkswagen Tiguan : SUV familial hybride chinois ou essence allemand, lequel choisir en 2026 ?',
+    excerpt:
+      "Le MG HS Hybrid+ coûte 8 000 € de moins, aligne 64 ch de plus et une garantie de 7 ans contre 2 ; le Volkswagen Tiguan répond avec 145 litres de coffre en plus, une consommation un peu plus sobre et une technologie plus aboutie. Verdict chiffré.",
+    image: '/cars/mg-hs-hybrid.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-11-16T09:00:00+02:00',
+    readingTime: 6,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux SUV familiaux, deux stratégies</h2>
+<p>Le MG HS Hybrid+ (32 000 €, 4,67 m) et le Volkswagen Tiguan (40 000 €, 4,54 m) s'adressent aux familles qui veulent un SUV spacieux, confortable et polyvalent. Le chinois joue la carte de l'hybride puissant à prix serré, avec une garantie longue ; l'allemand celle de la référence du segment, avec un coffre immense, une finition soignée et une valeur de revente réputée. Pour d'autres duels du HS hybride, voir <a href="/actualites/mg-hs-hybrid-vs-peugeot-3008-suv-familial-hybride">MG HS Hybrid+ vs Peugeot 3008</a> et <a href="/actualites/mg-hs-hybrid-vs-toyota-rav4-suv-familial-hybride">MG HS Hybrid+ vs Toyota RAV4</a> ; pour le Tiguan face à un autre SUV chinois, <a href="/actualites/jaecoo-5-vs-volkswagen-tiguan-menace-chinoise">Jaecoo 5 vs Volkswagen Tiguan</a>.</p>
+
+<h2>Prix et garantie : net avantage MG</h2>
+<p>Le MG HS Hybrid+ est 8 000 € moins cher à l'achat (32 000 € contre 40 000 €), soit 20 % d'économie sur le prix de départ. Sur la garantie, l'écart est tout aussi marqué : 7 ans chez MG contre 2 ans chez Volkswagen, soit 5 années de couverture constructeur supplémentaires (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties</a>).</p>
+
+<h2>Performances : 64 ch d'écart</h2>
+<ul>
+  <li><strong>MG HS Hybrid+</strong> : 214 ch, 0 à 100 km/h en 8,0 s.</li>
+  <li><strong>Volkswagen Tiguan</strong> : 150 ch, 0 à 100 km/h en 9,3 s.</li>
+</ul>
+<p>Le MG gagne 1,3 s sur le 0 à 100 km/h et dispose d'une réserve de puissance nettement supérieure, appréciable chargé avec toute la famille et les bagages. Le Tiguan compense par un comportement routier posé et une insonorisation soignée sur long trajet.</p>
+
+<h2>Autonomie et consommation : léger avantage Tiguan</h2>
+<p>Ni l'un ni l'autre ne se branche. Le MG HS Hybrid+ associe un moteur essence à une batterie d'environ 2 kWh qui se recharge en roulant et au freinage (voir <a href="/actualites/hybride-vs-phev-comparatif-mg-byd">notre comparatif hybride et PHEV</a>), tandis que le Tiguan de notre comparateur est une version essence. Sur le papier, le Volkswagen parcourt environ 1 000 km entre deux pleins contre 950 km pour le MG, soit 50 km de mieux.</p>
+
+<h2>Coût d'usage</h2>
+<p>Dans notre comparateur, le MG consomme pour 8,5 €/100 km contre 7,8 €/100 km pour le Tiguan. Sur 15 000 km par an, cela représente environ 1 275 € contre 1 170 €, soit 105 € d'économie annuelle pour le Volkswagen. Mais il faudrait plus de 75 ans à ce rythme pour rattraper les 8 000 € d'écart à l'achat : sur une durée de détention réaliste, le MG reste nettement le plus économique.</p>
+
+<h2>Gabarit, coffre et sécurité</h2>
+<p>Le MG est plus long de 131 mm, mais c'est le Tiguan qui offre le coffre le plus impressionnant : 652 litres contre 507, soit 145 litres d'avance, un atout majeur pour les familles nombreuses, les poussettes et les départs en vacances. Égalité sur la sécurité, avec 5 étoiles Euro NCAP de part et d'autre (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point sur la sécurité</a>). Côté technologie embarquée, le Tiguan prend l'avantage (7/10 contre 6/10) grâce à une interface plus aboutie et des aides à la conduite plus sophistiquées.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>MG HS Hybrid+</strong> : pour les familles qui veulent un SUV spacieux, puissant et sobre en ville grâce à l'hybridation, avec 8 000 € d'économie à l'achat et 7 ans de garantie pour rouler longtemps en toute sérénité.</li>
+  <li><strong>Volkswagen Tiguan</strong> : pour ceux qui privilégient le volume de chargement maximal, une technologie plus raffinée, un réseau après-vente dense et la valeur de revente d'une marque établie.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Le <strong>MG HS Hybrid+</strong> l'emporte sur le prix, la puissance, les accélérations et la garantie ; le <strong>Volkswagen Tiguan</strong> sur le coffre, l'autonomie, le coût d'usage et la technologie, avec une égalité sur la sécurité. Pour 8 000 € de moins, 64 ch de plus et 5 ans de garantie supplémentaires, le MG ; pour un coffre géant et le raffinement d'une référence du segment, le Tiguan. Testez les deux dans <a href="/comparateur/mg-hs-hybrid-vs-vw-tiguan">notre comparateur</a>.</p>
+`,
+  },
+  {
     slug: 'omoda-5-shs-h-vs-vw-t-roc-suv-compact-hybride-chinois-ou-essence-allemand',
     title: 'Omoda 5 SHS-H vs Volkswagen T-Roc : SUV compact hybride chinois ou essence allemand, lequel choisir en 2026 ?',
     excerpt:
