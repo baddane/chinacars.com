@@ -19,6 +19,50 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'mg3-hybrid-vs-peugeot-208-citadine-hybride-chinoise-ou-essence-francaise',
+    title: 'MG3 Hybrid+ vs Peugeot 208 : citadine hybride chinoise ou essence française, laquelle choisir en 2026 ?',
+    excerpt:
+      "1 500 € moins chère, 95 ch de plus et 7 ans de garantie contre 3 : la MG3 Hybrid+ bouscule la reine des ventes françaises. La Peugeot 208 répond avec un coffre plus grand, 50 km d'autonomie en plus et une présentation plus flatteuse. Verdict chiffré.",
+    image: '/cars/mg3-hybrid.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-11-18T09:00:00+02:00',
+    readingTime: 6,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>La citadine la plus vendue de France face à l'outsider chinois</h2>
+<p>La Peugeot 208 (20 000 €, 4,06 m) est l'une des citadines les plus vendues en France depuis des années ; la MG3 Hybrid+ (18 500 €, 4,11 m) s'est fait une place en proposant l'hybridation complète au prix d'une citadine essence. Les deux visent le même acheteur : un conducteur urbain ou périurbain qui veut une voiture compacte, économique et capable d'avaler quelques longs trajets. Pour d'autres duels de la MG3, voir <a href="/actualites/mg3-hybrid-vs-renault-clio-e-tech-hegemonie-francaise">MG3 Hybrid+ vs Renault Clio E-Tech</a> et <a href="/actualites/mg3-hybrid-vs-hyundai-i20-citadine-hybride-essence">MG3 Hybrid+ vs Hyundai i20</a> ; pour la 208 en version électrique face à une chinoise, <a href="/actualites/gwm-ora-03-vs-peugeot-e-208-citadine-electrique-prix-autonomie">GWM Ora 03 vs Peugeot e-208</a>.</p>
+
+<h2>Prix et garantie : avantage MG</h2>
+<p>La MG3 Hybrid+ démarre à 18 500 € contre 20 000 € pour la 208 essence de notre comparateur, soit 1 500 € d'écart (7,5 % de moins). Et l'écart se creuse sur la garantie : 7 ans chez MG contre 3 ans chez Peugeot, soit 4 années de couverture supplémentaires. Pour une citadine que l'on garde souvent longtemps ou que l'on revend d'occasion, l'argument pèse lourd (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties</a>).</p>
+
+<h2>Performances : presque deux fois plus de puissance</h2>
+<ul>
+  <li><strong>MG3 Hybrid+</strong> : 195 ch, 0 à 100 km/h en 8,0 s.</li>
+  <li><strong>Peugeot 208</strong> : 100 ch, 0 à 100 km/h en 10,8 s.</li>
+</ul>
+<p>Avec 95 ch de plus, la MG3 dispose de près de deux fois la puissance de la 208 et la devance de 2,8 secondes sur le 0 à 100 km/h. Une différence très nette dans les insertions sur voie rapide et les dépassements, là où le trois-cylindres de 100 ch de la Peugeot demande d'anticiper, surtout chargé. La 208 garde pour elle une direction vive et un petit volant très agréables en ville (voir <a href="/actualites/mg3-hybrid-moteur-electrique-plus-puissant-concurrents">pourquoi la MG3 est si puissante</a>).</p>
+
+<h2>Autonomie et consommation : léger avantage 208 sur la route</h2>
+<p>Ni l'une ni l'autre ne se branche. La MG3 Hybrid+ associe un moteur essence à une batterie de 1,8 kWh qui se recharge en roulant et au freinage, ce qui lui permet de rouler en électrique à basse vitesse en ville (voir <a href="/actualites/hybride-vs-phev-comparatif-mg-byd">notre comparatif hybride et PHEV</a>). Sur le papier, la 208 parcourt environ 1 050 km entre deux pleins contre 1 000 km pour la MG3, soit 50 km de mieux, un petit avantage sur long trajet autoroutier.</p>
+
+<h2>Coût d'usage : la MG3 plus sobre</h2>
+<p>Notre comparateur donne 7,5 €/100 km pour la MG3 contre 8,2 €/100 km pour la 208, soit 0,70 € d'économie tous les 100 km. Sur 15 000 km par an, cela représente environ 1 125 € de carburant pour la MG contre 1 230 € pour la Peugeot, soit un peu plus de 100 € par an. L'écart est surtout marqué en ville et dans les bouchons, là où l'hybridation fait son office. Ajoutez les 1 500 € d'écart à l'achat et la garantie plus longue, et la MG3 reste nettement plus économique sur cinq ans.</p>
+
+<h2>Gabarit, coffre et sécurité</h2>
+<p>La MG3 est plus longue de 58 mm (4 113 mm contre 4 055 mm), mais c'est la 208 qui offre le plus grand coffre : 311 litres contre 293, soit 18 litres d'avance, la batterie de la chinoise grignotant un peu de volume. Les deux accueillent cinq places, avec des places arrière surtout adaptées aux enfants ou aux trajets courts. Sécurité : égalité à 4 étoiles Euro NCAP (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point sur la sécurité</a>). Côté technologie embarquée, égalité également à 6/10 : la MG3 mise sur un écran central et des aides à la conduite complètes dès l'entrée de gamme, la 208 sur son i-Cockpit et une présentation intérieure plus valorisante.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>MG3 Hybrid+</strong> : pour ceux qui veulent le maximum de puissance et de sobriété pour le prix, une conduite hybride souple en ville et 7 ans de garantie pour rouler sereinement.</li>
+  <li><strong>Peugeot 208</strong> : pour ceux qui privilégient le style, la finition intérieure, un coffre un peu plus grand et la proximité d'un réseau après-vente présent dans chaque ville.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>La <strong>MG3 Hybrid+</strong> l'emporte sur le prix, la puissance, les accélérations, le coût d'usage et la garantie ; la <strong>Peugeot 208</strong> sur le coffre et l'autonomie, avec une égalité sur la sécurité et la technologie. Pour 1 500 € de moins, 95 ch de plus, une consommation réduite et 4 ans de garantie en plus, la MG3 ; pour le design et la sérénité d'une marque bien implantée, la 208. Retrouvez d'autres modèles dans <a href="/actualites/5-meilleures-citadines-chinoises-ville">notre sélection des meilleures citadines chinoises</a> et testez les deux dans <a href="/comparateur/mg3-hybrid-vs-peugeot-208">notre comparateur</a>.</p>
+`,
+  },
+  {
     slug: 'mg-zs-hybrid-vs-peugeot-2008-suv-urbain-hybride-chinois-ou-essence-francais',
     title: 'MG ZS Hybrid+ vs Peugeot 2008 : SUV urbain hybride chinois ou essence français, lequel choisir en 2026 ?',
     excerpt:
