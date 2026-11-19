@@ -19,6 +19,50 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'mg-zs-hybrid-vs-toyota-c-hr-suv-hybride-chinois-ou-japonais',
+    title: 'MG ZS Hybrid+ vs Toyota C-HR Hybride : SUV hybride chinois ou japonais, lequel choisir en 2026 ?',
+    excerpt:
+      "8 000 € moins cher, 55 ch de plus, 55 litres de coffre en prime et 7 ans de garantie : le MG ZS Hybrid+ attaque la référence de l'hybride. Le Toyota C-HR répond par une sobriété record, plus d'autonomie et une technologie plus aboutie. Verdict chiffré.",
+    image: '/cars/mg-zs-hybrid.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-11-19T09:00:00+02:00',
+    readingTime: 6,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le pionnier de l'hybride face au challenger chinois</h2>
+<p>Toyota a popularisé l'hybride non rechargeable en Europe, et le C-HR Hybride (32 000 €, 4,36 m) en est l'une des vitrines les plus stylées. Le MG ZS Hybrid+ (24 000 €, 4,32 m) reprend la même recette, un moteur essence épaulé par un moteur électrique et une petite batterie qui se recharge en roulant, mais à un tarif bien plus bas. Deux SUV de même gabarit, sans prise, pour le même acheteur : celui qui veut consommer peu sans changer ses habitudes. Pour d'autres duels du ZS, voir <a href="/actualites/mg-zs-hybrid-vs-peugeot-2008-suv-urbain-hybride-chinois-ou-essence-francais">MG ZS Hybrid+ vs Peugeot 2008</a> et <a href="/actualites/mg-zs-hybrid-vs-hyundai-kona-suv-urbain-hybride">MG ZS Hybrid+ vs Hyundai Kona</a> ; pour le C-HR face à une autre chinoise, <a href="/actualites/geely-geometry-c-vs-toyota-c-hr-suv-compact-electrique-hybride">Geely Geometry C vs Toyota C-HR</a>.</p>
+
+<h2>Prix et garantie : avantage MG, et de loin</h2>
+<p>Le MG ZS Hybrid+ démarre à 24 000 € contre 32 000 € pour le C-HR Hybride, soit 8 000 € d'écart : le chinois coûte 25 % de moins. Sur la garantie, MG offre 7 ans contre 5 ans pour Toyota dans notre comparateur. Nuance importante : Toyota prolonge sa couverture via son programme lié à l'entretien dans le réseau, un argument à vérifier selon votre usage. À l'achat, l'avantage MG reste net (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties</a>).</p>
+
+<h2>Performances : le ZS plus musclé</h2>
+<ul>
+  <li><strong>MG ZS Hybrid+</strong> : 195 ch, 0 à 100 km/h en 8,7 s.</li>
+  <li><strong>Toyota C-HR Hybride</strong> : 140 ch, 0 à 100 km/h en 9,9 s.</li>
+</ul>
+<p>Avec 55 ch de plus, le MG prend 1,2 seconde au Toyota sur le 0 à 100 km/h. La différence se ressent surtout sur voie rapide et en dépassement, chargé. Le C-HR, lui, privilégie la douceur : son système hybride, rodé depuis des années, est d'un agrément exemplaire en ville, même s'il se fait entendre lors des fortes accélérations. Si vous constatez un manque de punch sur votre ZS, lisez <a href="/actualites/mg-zs-hybrid-plus-perte-de-puissance-cause-solution">notre article sur la perte de puissance du MG ZS Hybrid+</a>.</p>
+
+<h2>Autonomie et consommation : le savoir-faire Toyota</h2>
+<p>Aucun des deux ne se branche : la batterie (1,8 kWh pour le MG, 1,0 kWh pour le Toyota) se recharge au freinage et en roulant, et permet de circuler en électrique à basse vitesse (voir <a href="/actualites/hybride-vs-phev-comparatif-mg-byd">notre comparatif hybride et PHEV</a>). Le C-HR parcourt environ 1 050 km entre deux pleins contre 1 000 km pour le ZS, soit 50 km de mieux. C'est le seul terrain technique où Toyota fait valoir sa longue expérience de l'hybride.</p>
+
+<h2>Coût d'usage : le C-HR plus économe au quotidien</h2>
+<p>Notre comparateur donne 6,5 €/100 km pour le C-HR contre 8,0 €/100 km pour le ZS, soit 1,50 € d'écart tous les 100 km. Sur 15 000 km par an, cela représente environ 975 € de carburant pour le Toyota contre 1 200 € pour le MG, soit 225 € d'économie annuelle. Mais au rythme de 225 € par an, il faudrait plus de 35 ans pour compenser les 8 000 € d'écart à l'achat : sur le coût total, le MG reste largement gagnant, sauf pour un très gros rouleur qui garde sa voiture longtemps.</p>
+
+<h2>Gabarit, coffre et sécurité</h2>
+<p>Le C-HR est plus long de 37 mm (4 360 mm contre 4 323 mm), mais c'est le ZS qui offre le plus grand coffre : 443 litres contre 388, soit 55 litres d'avance. La ligne de coupé du Toyota se paie aussi à l'arrière, où la garde au toit et la luminosité sont plus limitées : pour une famille, le MG est plus pratique. Sécurité : égalité à 5 étoiles Euro NCAP (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point sur la sécurité</a>). Côté technologie, le C-HR prend l'avantage (7/10 contre 6/10) avec une présentation intérieure plus moderne et des aides à la conduite plus abouties ; le ZS reste très bien équipé dès l'entrée de gamme.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>MG ZS Hybrid+</strong> : pour les familles qui veulent le maximum d'espace, de puissance et de garantie pour le prix, avec un budget d'achat maîtrisé.</li>
+  <li><strong>Toyota C-HR Hybride</strong> : pour ceux qui privilégient le design, la sobriété record, une technologie plus aboutie et la réputation de fiabilité de l'hybride Toyota, et qui acceptent de payer pour.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Le <strong>MG ZS Hybrid+</strong> l'emporte sur le prix, la puissance, les accélérations, le coffre et la garantie ; le <strong>Toyota C-HR Hybride</strong> sur la consommation, l'autonomie et la technologie, avec une égalité sur la sécurité. Pour 8 000 € de moins, 55 ch et 55 litres de coffre en plus, le ZS ; pour le style et l'hybride le plus sobre, le C-HR. Retrouvez d'autres rivaux dans <a href="/actualites/omoda-5-vs-mg-zs-hybrid-suv-urbains-abordables">Omoda 5 vs MG ZS Hybrid+</a> et testez les deux dans <a href="/comparateur/mg-zs-hybrid-vs-toyota-c-hr">notre comparateur</a>.</p>
+`,
+  },
+  {
     slug: 'mg3-hybrid-vs-peugeot-208-citadine-hybride-chinoise-ou-essence-francaise',
     title: 'MG3 Hybrid+ vs Peugeot 208 : citadine hybride chinoise ou essence française, laquelle choisir en 2026 ?',
     excerpt:
