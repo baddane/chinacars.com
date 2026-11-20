@@ -19,6 +19,50 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'byd-atto-2-vs-toyota-c-hr-suv-phev-chinois-ou-hybride-japonais',
+    title: 'BYD Atto 2 vs Toyota C-HR Hybride : SUV hybride rechargeable chinois ou hybride japonais, lequel choisir en 2026 ?',
+    excerpt:
+      "2 000 € moins cher, 37 ch de plus, une batterie près de huit fois plus grande qui se recharge sur prise et un an de garantie en prime : le BYD Atto 2 bouscule le Toyota C-HR. Le japonais répond par son design, 50 km d'autonomie en plus et la simplicité de l'hybride sans prise. Verdict chiffré.",
+    image: '/cars/byd-atto-2.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-11-20T09:00:00+02:00',
+    readingTime: 6,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux SUV hybrides de même taille, deux philosophies</h2>
+<p>Le Toyota C-HR Hybride (32 000 €, 4,36 m) est l'un des SUV compacts hybrides les plus vendus en Europe, réputé pour sa sobriété et sa fiabilité. Le BYD Atto 2 (30 000 €, 4,31 m) arrive avec une recette différente : un hybride rechargeable (PHEV) dont la batterie de 7,8 kWh se branche sur une prise pour rouler en électrique au quotidien. Même gabarit, même acheteur, mais deux façons très différentes de réduire sa consommation. Pour d'autres duels de l'Atto 2, voir <a href="/actualites/byd-atto-2-vs-toyota-yaris-cross-suv-urbain-phev-chinois-ou-suv-hybride-japonais">BYD Atto 2 vs Toyota Yaris Cross</a> et <a href="/actualites/byd-atto-2-vs-renault-captur-suv-urbain-phev-chinois-ou-hybride-francais">BYD Atto 2 vs Renault Captur</a> ; pour le C-HR face à une autre chinoise, <a href="/actualites/mg-zs-hybrid-vs-toyota-c-hr-suv-hybride-chinois-ou-japonais">MG ZS Hybrid+ vs Toyota C-HR</a>.</p>
+
+<h2>Prix et garantie : avantage BYD</h2>
+<p>L'Atto 2 démarre à 30 000 € contre 32 000 € pour le C-HR Hybride, soit 2 000 € d'écart en faveur du chinois. C'est rare pour un hybride rechargeable, généralement plus cher qu'un hybride simple à cause de sa batterie plus grande. La garantie est aussi plus longue chez BYD : 6 ans contre 5 ans pour Toyota dans notre comparateur. Nuance : Toyota peut prolonger sa couverture si l'entretien est réalisé dans son réseau, un point à vérifier selon votre usage (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties</a>).</p>
+
+<h2>Performances : l'Atto 2 plus vif</h2>
+<ul>
+  <li><strong>BYD Atto 2</strong> : 177 ch, 0 à 100 km/h en 8,5 s.</li>
+  <li><strong>Toyota C-HR Hybride</strong> : 140 ch, 0 à 100 km/h en 9,9 s.</li>
+</ul>
+<p>Avec 37 ch de plus, l'Atto 2 prend 1,4 seconde au C-HR sur le 0 à 100 km/h. Le système DM-i de BYD fonctionne surtout en mode électrique, le moteur essence servant le plus souvent de générateur : les relances sont franches et silencieuses. Le C-HR reste très agréable en ville, mais son moteur se fait davantage entendre lors des fortes accélérations.</p>
+
+<h2>Batterie et autonomie : la prise change tout</h2>
+<p>C'est la vraie différence entre les deux. La batterie de l'Atto 2 (7,8 kWh) se recharge sur une prise domestique ou une borne et permet de faire une quarantaine de kilomètres en électrique : de quoi couvrir la plupart des trajets domicile-travail sans consommer d'essence. Celle du C-HR (1,0 kWh) ne se branche pas et se recharge seulement au freinage et en roulant : elle aide le moteur thermique mais ne permet de rouler en électrique que sur de courtes distances. Entre deux pleins, le C-HR va un peu plus loin : environ 1 050 km contre 1 000 km pour l'Atto 2, soit 50 km d'avance (voir <a href="/actualites/hybride-vs-phev-comparatif-mg-byd">notre comparatif hybride et PHEV</a>).</p>
+
+<h2>Coût d'usage : l'Atto 2 moins cher, à condition de le brancher</h2>
+<p>Notre comparateur donne 5,5 €/100 km pour l'Atto 2 contre 6,5 €/100 km pour le C-HR, soit 1 € d'écart tous les 100 km. Sur 15 000 km par an, cela représente environ 825 € d'énergie pour le BYD contre 975 € pour le Toyota, soit 150 € d'économie annuelle. Attention : cet avantage suppose de recharger régulièrement l'Atto 2. Sans prise à domicile ou au travail, un PHEV roule surtout à l'essence et perd l'essentiel de son intérêt. Dans ce cas, la sobriété du C-HR redevient un vrai argument.</p>
+
+<h2>Gabarit, coffre et sécurité</h2>
+<p>Le C-HR est plus long de 50 mm (4 360 mm contre 4 310 mm), mais les coffres sont presque identiques : 400 litres pour l'Atto 2 contre 388 pour le C-HR, soit 12 litres de plus pour le chinois. La ligne de coupé du Toyota réduit la place sous le toit et la lumière à l'arrière, alors que l'Atto 2, plus carré, est un peu plus pratique pour une famille. Sécurité : égalité à 5 étoiles Euro NCAP (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point sur la sécurité</a>). Égalité aussi sur la technologie (7/10 chacun) : grand écran rotatif et mises à jour à distance chez BYD, aides à la conduite très abouties chez Toyota.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>BYD Atto 2</strong> : pour ceux qui peuvent recharger à domicile ou au travail, font surtout des trajets courts en semaine et veulent un SUV plus puissant, mieux garanti et moins cher à l'achat.</li>
+  <li><strong>Toyota C-HR Hybride</strong> : pour ceux qui n'ont pas de prise, roulent beaucoup sur longue distance, aiment son design de coupé et font confiance à la fiabilité reconnue de l'hybride Toyota.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Le <strong>BYD Atto 2</strong> l'emporte sur le prix, la puissance, les accélérations, la garantie, le coût d'usage et, de peu, le coffre ; le <strong>Toyota C-HR Hybride</strong> sur l'autonomie entre deux pleins et la simplicité d'un hybride sans prise, avec une égalité sur la sécurité et la technologie. Si vous pouvez le brancher, l'Atto 2 est le choix le plus rationnel : 2 000 € de moins et des trajets du quotidien en électrique. Sans prise, le C-HR reste une valeur sûre. Pour un autre rival hybride rechargeable, lisez <a href="/actualites/byd-atto-2-vs-peugeot-2008-suv-urbain-phev-essence">BYD Atto 2 vs Peugeot 2008</a> et testez les deux dans <a href="/comparateur/byd-atto-2-vs-toyota-c-hr">notre comparateur</a>.</p>
+`,
+  },
+  {
     slug: 'mg-zs-hybrid-vs-toyota-c-hr-suv-hybride-chinois-ou-japonais',
     title: 'MG ZS Hybrid+ vs Toyota C-HR Hybride : SUV hybride chinois ou japonais, lequel choisir en 2026 ?',
     excerpt:
