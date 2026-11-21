@@ -19,6 +19,50 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'byd-atto-2-vs-hyundai-kona-hybride-suv-urbain-phev-chinois-ou-hybride-coreen',
+    title: 'BYD Atto 2 vs Hyundai Kona Hybride : SUV urbain hybride rechargeable chinois ou hybride coréen, lequel choisir en 2026 ?',
+    excerpt:
+      "Même prix de 30 000 €, même autonomie de 1 000 km entre deux pleins : le BYD Atto 2 et le Hyundai Kona Hybride se tiennent de près. Le chinois répond par 36 ch de plus, une batterie six fois plus grande qui se branche et un an de garantie en plus ; le coréen par un coffre plus grand de 66 litres. Verdict chiffré.",
+    image: '/cars/byd-atto-2.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-11-21T09:00:00+02:00',
+    readingTime: 6,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux SUV urbains au même prix, deux façons d'électrifier</h2>
+<p>Le Hyundai Kona Hybride (30 000 €, 4,36 m) est l'un des SUV urbains hybrides les plus complets du marché, apprécié pour sa ligne futuriste et son habitabilité. Le BYD Atto 2 (30 000 €, 4,31 m) arrive au même tarif avec une autre recette : un hybride rechargeable (PHEV) dont la batterie de 7,8 kWh se branche sur une prise pour rouler en électrique au quotidien. Même prix, même gabarit, même clientèle : c'est un duel parfaitement équilibré sur le papier. Pour d'autres duels de l'Atto 2, voir <a href="/actualites/byd-atto-2-vs-toyota-c-hr-suv-phev-chinois-ou-hybride-japonais">BYD Atto 2 vs Toyota C-HR</a> et <a href="/actualites/byd-atto-2-vs-renault-captur-suv-urbain-phev-chinois-ou-hybride-francais">BYD Atto 2 vs Renault Captur</a> ; pour le Kona face à une autre chinoise, <a href="/actualites/mg-zs-hybrid-vs-hyundai-kona-suv-urbain-hybride">MG ZS Hybrid+ vs Hyundai Kona</a>.</p>
+
+<h2>Prix et garantie : égalité sur le tarif, avantage BYD sur la garantie</h2>
+<p>Les deux SUV démarrent à 30 000 € dans notre comparateur. C'est un très bon point pour l'Atto 2 : un hybride rechargeable coûte d'habitude plus cher qu'un hybride simple, à cause de sa batterie plus grande. À prix égal, BYD offre aussi une garantie plus longue : 6 ans contre 5 ans pour Hyundai. La garantie Hyundai reste toutefois sans limite de kilométrage, un vrai plus pour les gros rouleurs (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties</a>).</p>
+
+<h2>Performances : l'Atto 2 nettement plus vif</h2>
+<ul>
+  <li><strong>BYD Atto 2</strong> : 177 ch, 0 à 100 km/h en 8,5 s.</li>
+  <li><strong>Hyundai Kona Hybride</strong> : 141 ch, 0 à 100 km/h en 10,6 s.</li>
+</ul>
+<p>Avec 36 ch de plus, l'Atto 2 prend 2,1 secondes au Kona sur le 0 à 100 km/h. Son système DM-i fonctionne surtout en mode électrique, le moteur essence servant le plus souvent de générateur : les relances sont franches et silencieuses. Le Kona, avec sa boîte à double embrayage, reste agréable et souple en ville, mais il manque de vigueur pour doubler sur route avec quatre adultes à bord.</p>
+
+<h2>Batterie et autonomie : la prise fait la différence</h2>
+<p>Entre deux pleins, égalité parfaite : environ 1 000 km pour chacun. La vraie différence est ailleurs. La batterie de l'Atto 2 (7,8 kWh) se recharge sur une prise domestique ou une borne et permet de faire une quarantaine de kilomètres en électrique, de quoi couvrir la plupart des trajets domicile-travail sans une goutte d'essence. Celle du Kona (1,3 kWh), six fois plus petite, ne se branche pas : elle se recharge seulement au freinage et en roulant, et ne permet de rouler en électrique que sur de courtes distances, surtout en ville (voir <a href="/actualites/hybride-vs-phev-comparatif-mg-byd">notre comparatif hybride et PHEV</a>).</p>
+
+<h2>Coût d'usage : l'Atto 2 moins cher, à condition de le brancher</h2>
+<p>Notre comparateur donne 5,5 €/100 km pour l'Atto 2 contre 6,5 €/100 km pour le Kona, soit 1 € d'écart tous les 100 km. Sur 15 000 km par an, cela représente environ 825 € d'énergie pour le BYD contre 975 € pour le Hyundai, soit 150 € d'économie annuelle. Attention : cet avantage suppose de recharger régulièrement l'Atto 2. Sans prise à domicile ou au travail, un PHEV roule surtout à l'essence et perd l'essentiel de son intérêt. Dans ce cas, la sobriété du Kona redevient un vrai argument.</p>
+
+<h2>Gabarit, coffre et sécurité : le Kona plus logeable</h2>
+<p>Le Kona est un peu plus long (4 355 mm contre 4 310 mm, soit 45 mm de plus) et en profite pour offrir le plus grand coffre du duel : 466 litres contre 400 pour l'Atto 2, soit 66 litres de plus. Sa banquette arrière est aussi très accueillante pour la catégorie. C'est un vrai argument pour une petite famille. Sécurité : égalité à 5 étoiles Euro NCAP (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point sur la sécurité</a>). Sur la technologie, l'Atto 2 prend l'avantage (7/10 contre 6/10) grâce à son grand écran rotatif, ses mises à jour à distance et sa clé virtuelle sur smartphone ; le Kona répond par une double dalle de 12,3 pouces lisible et bien intégrée.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>BYD Atto 2</strong> : pour ceux qui peuvent recharger à domicile ou au travail, font surtout des trajets courts en semaine et veulent un SUV plus puissant, mieux équipé et mieux garanti au même prix.</li>
+  <li><strong>Hyundai Kona Hybride</strong> : pour ceux qui n'ont pas de prise, privilégient le volume de coffre et l'espace à bord, et veulent un hybride simple, sobre et sans contrainte de recharge.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Le <strong>BYD Atto 2</strong> l'emporte sur la puissance, les accélérations, la garantie, la technologie et le coût d'usage ; le <strong>Hyundai Kona Hybride</strong> sur le coffre et l'habitabilité, avec une égalité sur le prix, l'autonomie entre deux pleins et la sécurité. Si vous pouvez le brancher, l'Atto 2 est le choix le plus rationnel : à prix identique, il offre plus de performances et des trajets du quotidien en électrique. Sans prise, ou si le coffre compte avant tout, le Kona reste une valeur sûre. Pour un autre rival du Kona, lisez <a href="/actualites/byd-atto-3-evo-vs-hyundai-kona-hybride-suv-urbain-electrique-hybride">BYD Atto 3 Evo vs Hyundai Kona Hybride</a> et testez les deux dans <a href="/comparateur/byd-atto-2-vs-hyundai-kona">notre comparateur</a>.</p>
+`,
+  },
+  {
     slug: 'byd-atto-2-vs-toyota-c-hr-suv-phev-chinois-ou-hybride-japonais',
     title: 'BYD Atto 2 vs Toyota C-HR Hybride : SUV hybride rechargeable chinois ou hybride japonais, lequel choisir en 2026 ?',
     excerpt:
