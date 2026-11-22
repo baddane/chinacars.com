@@ -19,6 +19,50 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'byd-atto-2-vs-vw-t-roc-suv-urbain-phev-chinois-ou-essence-allemand',
+    title: 'BYD Atto 2 vs Volkswagen T-Roc : SUV urbain hybride rechargeable chinois ou SUV essence allemand, lequel choisir en 2026 ?',
+    excerpt:
+      "2 000 € de moins, 27 ch de plus, une batterie qui se branche et 4 ans de garantie supplémentaires : le BYD Atto 2 attaque le Volkswagen T-Roc sur tous les fronts. L'allemand répond par un coffre plus grand de 45 litres, des accélérations équivalentes et l'image d'une marque historique. Verdict chiffré.",
+    image: '/cars/byd-atto-2.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-11-22T09:00:00+02:00',
+    readingTime: 6,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le best-seller allemand face au PHEV chinois abordable</h2>
+<p>Le Volkswagen T-Roc (32 000 €, 4,23 m) est l'un des SUV compacts les plus vendus en Europe, apprécié pour sa finition, sa conduite rassurante et la solidité de sa cote. Le BYD Atto 2 (30 000 €, 4,31 m) arrive avec une proposition très différente : un hybride rechargeable (PHEV) dont la batterie de 7,8 kWh se branche sur une prise pour rouler en électrique au quotidien, le tout pour moins cher. D'un côté l'essence classique et une marque installée, de l'autre l'électrification et un nouvel entrant ambitieux. Pour d'autres duels de l'Atto 2, voir <a href="/actualites/byd-atto-2-vs-peugeot-2008-suv-urbain-phev-essence">BYD Atto 2 vs Peugeot 2008</a> et <a href="/actualites/byd-atto-2-vs-hyundai-kona-hybride-suv-urbain-phev-chinois-ou-hybride-coreen">BYD Atto 2 vs Hyundai Kona Hybride</a> ; pour le T-Roc face à d'autres chinois, <a href="/actualites/mg-zs-hybrid-vs-vw-t-roc-suv-urbain-hybride-essence">MG ZS Hybrid+ vs Volkswagen T-Roc</a> et <a href="/actualites/omoda-5-shs-h-vs-vw-t-roc-suv-compact-hybride-chinois-ou-essence-allemand">Omoda 5 SHS-H vs Volkswagen T-Roc</a>.</p>
+
+<h2>Prix et garantie : net avantage BYD</h2>
+<p>L'Atto 2 démarre à 30 000 € dans notre comparateur, contre 32 000 € pour le T-Roc, soit 2 000 € d'économie à l'achat. C'est d'autant plus notable qu'un hybride rechargeable coûte habituellement plus cher qu'un modèle essence, à cause de sa batterie. L'écart se creuse sur la garantie : 6 ans chez BYD contre 2 ans seulement chez Volkswagen, soit 4 ans de tranquillité supplémentaires sans souscrire d'extension (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties</a>).</p>
+
+<h2>Performances : plus de puissance pour l'Atto 2, chrono identique</h2>
+<ul>
+  <li><strong>BYD Atto 2</strong> : 177 ch, 0 à 100 km/h en 8,5 s.</li>
+  <li><strong>Volkswagen T-Roc</strong> : 150 ch, 0 à 100 km/h en 8,4 s.</li>
+</ul>
+<p>Malgré 27 ch de moins, le T-Roc devance l'Atto 2 d'un dixième de seconde sur le 0 à 100 km/h : un écart imperceptible au volant. Le ressenti diffère surtout dans la manière. Le système DM-i de BYD roule le plus souvent en électrique, le moteur essence servant principalement de générateur : démarrages silencieux et relances immédiates en ville. Le T-Roc offre un comportement plus classique, avec un châssis réputé pour son équilibre et un agrément de conduite très homogène sur route.</p>
+
+<h2>Autonomie et énergie : la prise change la donne</h2>
+<p>Entre deux pleins, égalité : environ 1 000 km pour chacun. Mais l'Atto 2 dispose d'un atout que le T-Roc n'a pas : sa batterie de 7,8 kWh se recharge sur une prise domestique ou une borne et permet de parcourir une quarantaine de kilomètres en mode 100 % électrique. De quoi couvrir la plupart des trajets domicile-travail sans consommer d'essence. Le T-Roc, motorisé par un moteur essence sans batterie de traction, consomme du carburant dès le premier kilomètre (voir <a href="/actualites/hybride-vs-phev-comparatif-mg-byd">notre comparatif hybride et PHEV</a>).</p>
+
+<h2>Coût d'usage : plus de 300 € d'économie par an</h2>
+<p>Notre comparateur donne 5,5 €/100 km pour l'Atto 2 contre 7,6 €/100 km pour le T-Roc, soit 2,1 € d'écart tous les 100 km. Sur 15 000 km par an, cela représente environ 825 € d'énergie pour le BYD contre 1 140 € pour le Volkswagen, soit 315 € d'économie annuelle. Ajoutée aux 2 000 € de moins à l'achat, l'économie dépasse 3 500 € en cinq ans. Une condition toutefois : recharger régulièrement l'Atto 2. Sans prise à domicile ou au travail, un PHEV roule surtout à l'essence et l'écart de consommation fond nettement.</p>
+
+<h2>Gabarit, coffre et sécurité : le T-Roc plus logeable malgré sa taille</h2>
+<p>L'Atto 2 est plus long de 76 mm (4 310 mm contre 4 234 mm), mais c'est le T-Roc qui propose le plus grand coffre : 445 litres contre 400, soit 45 litres de plus. Une différence utile pour les départs en vacances à quatre. Le T-Roc, plus court, reste aussi un peu plus facile à garer en ville. Sécurité : égalité à 5 étoiles Euro NCAP (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point sur la sécurité</a>). Sur la technologie, l'Atto 2 prend l'avantage (7/10 contre 6/10) grâce à son grand écran rotatif, ses mises à jour à distance et sa clé virtuelle sur smartphone ; le T-Roc mise sur une ergonomie familière et un combiné numérique bien lisible.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>BYD Atto 2</strong> : pour ceux qui peuvent recharger à domicile ou au travail, veulent payer moins cher à l'achat comme à l'usage, et apprécient une garantie longue et une dotation technologique riche.</li>
+  <li><strong>Volkswagen T-Roc</strong> : pour ceux qui n'ont pas de prise, privilégient le volume de coffre, le gabarit compact et la valeur de revente d'une marque installée de longue date.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Le <strong>BYD Atto 2</strong> l'emporte sur le prix, la puissance, la garantie, la technologie et le coût d'usage ; le <strong>Volkswagen T-Roc</strong> sur le coffre et la compacité, avec une égalité sur les accélérations, l'autonomie entre deux pleins et la sécurité. Pour un conducteur qui peut le brancher, l'Atto 2 est le choix le plus rationnel : moins cher, mieux garanti et nettement plus économique au quotidien. Sans possibilité de recharge, ou si l'image de marque et le coffre priment, le T-Roc reste une valeur sûre. Pour un autre rival allemand d'un SUV chinois, lisez <a href="/actualites/mg-zs-hybrid-vs-vw-t-roc-suv-urbain-hybride-essence">MG ZS Hybrid+ vs Volkswagen T-Roc</a> et testez les deux dans <a href="/comparateur/byd-atto-2-vs-vw-t-roc">notre comparateur</a>.</p>
+`,
+  },
+  {
     slug: 'byd-atto-2-vs-hyundai-kona-hybride-suv-urbain-phev-chinois-ou-hybride-coreen',
     title: 'BYD Atto 2 vs Hyundai Kona Hybride : SUV urbain hybride rechargeable chinois ou hybride coréen, lequel choisir en 2026 ?',
     excerpt:
