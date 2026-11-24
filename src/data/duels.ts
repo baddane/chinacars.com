@@ -262,6 +262,7 @@ export const COMPARISON_DUELS: Array<[string, string]> = [
   ['byd-atto-2', 'hyundai-kona'],
   ['byd-atto-2', 'vw-t-roc'],
   ['gwm-wey-05', 'peugeot-3008'],
+  ['gwm-wey-05', 'vw-tiguan'],
 ];
 
 export function duelSlug(a: string, b: string): string {

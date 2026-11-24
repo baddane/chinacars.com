@@ -19,6 +19,50 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'gwm-wey-05-vs-vw-tiguan-suv-familial-phev-chinois-ou-essence-allemand',
+    title: 'GWM Wey 05 vs Volkswagen Tiguan : SUV familial hybride rechargeable chinois ou SUV essence allemand, lequel choisir en 2026 ?',
+    excerpt:
+      "476 ch contre 150, une batterie de 34 kWh rechargeable en rapide et 7 ans de garantie contre 2 : le GWM Wey 05 surclasse le Volkswagen Tiguan sur la fiche technique. Mais l'allemand coûte 15 000 € de moins et offre un coffre plus grand. Lequel est le plus pertinent ? Verdict chiffré.",
+    image: '/cars/gwm-wey-05.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-11-24T09:00:00+02:00',
+    readingTime: 6,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Le best-seller allemand face au PHEV chinois surpuissant</h2>
+<p>Le Volkswagen Tiguan (40 000 €, 4,54 m) est la référence historique des SUV familiaux en Europe : finition soignée, comportement routier sain et, dans sa version d'entrée 1.5 eTSI de 150 ch, une motorisation essence à micro-hybridation qui ne se recharge pas. Le GWM Wey 05 (55 000 €, 4,88 m) arrive avec une tout autre proposition : un grand SUV hybride rechargeable (PHEV) de 476 ch, à transmission intégrale, doté d'une batterie de 34 kWh. D'un côté la valeur sûre, de l'autre le challenger chinois haut de gamme. Pour d'autres duels du Tiguan, voir <a href="/actualites/mg-hs-hybrid-vs-vw-tiguan-suv-familial-hybride-chinois-ou-essence-allemand">MG HS Hybrid+ vs Volkswagen Tiguan</a> et <a href="/actualites/jaecoo-5-vs-volkswagen-tiguan-menace-chinoise">Jaecoo 5 vs Volkswagen Tiguan</a> ; pour le Wey 05, <a href="/actualites/gwm-wey-05-vs-peugeot-3008-suv-familial-phev-chinois-ou-hybride-francais">GWM Wey 05 vs Peugeot 3008</a> et <a href="/actualites/gwm-wey-05-vs-volvo-xc60-recharge-phev-autonomie">GWM Wey 05 vs Volvo XC60 Recharge</a>.</p>
+
+<h2>Prix et garantie : le Tiguan moins cher, le Wey 05 bien mieux couvert</h2>
+<p>Le Volkswagen Tiguan démarre à 40 000 € dans notre comparateur, contre 55 000 € pour le GWM Wey 05 : 15 000 € d'écart. C'est beaucoup, mais il faut le relativiser : le Tiguan hybride rechargeable eHybrid, seul à pouvoir rivaliser techniquement avec le Wey 05, se négocie au-delà de 50 000 €. Côté garantie, le match est sans appel : 7 ans pour le GWM contre seulement 2 ans chez Volkswagen, soit 5 ans de tranquillité supplémentaires sans extension payante (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties</a>). En contrepartie, le réseau Volkswagen est incomparablement plus dense que celui de GWM, un critère à vérifier avant l'achat.</p>
+
+<h2>Performances : le Wey 05 joue dans une autre catégorie</h2>
+<ul>
+  <li><strong>GWM Wey 05</strong> : 476 ch, 0 à 100 km/h en 5,0 s.</li>
+  <li><strong>Volkswagen Tiguan</strong> : 150 ch, 0 à 100 km/h en 9,3 s.</li>
+</ul>
+<p>Avec plus de trois fois la puissance et 4,3 secondes d'avance sur le 0 à 100 km/h, le Wey 05 affiche des chronos de SUV sportif. Le Tiguan 1.5 eTSI reste agréable et suffisant pour un usage familial, avec une boîte DSG douce et un bon confort, mais il ne cherche pas à briller par ses accélérations. Au quotidien, la vraie différence est ailleurs : le Wey 05 roule le plus souvent en électrique, sans bruit ni consommation d'essence, quand le Tiguan sollicite son moteur thermique à chaque kilomètre.</p>
+
+<h2>Autonomie et recharge : avantage décisif au PHEV</h2>
+<p>Entre deux pleins, les deux SUV affichent environ 1 000 km : égalité pour les longs trajets. Mais la batterie de 34 kWh du Wey 05 se recharge sur prise domestique, sur borne et en recharge rapide jusqu'à 50 kW, ce qui reste rare chez les hybrides rechargeables. Elle permet de dépasser 100 km en mode 100 % électrique, de quoi couvrir la plupart des trajets de la semaine sans passer à la pompe. Le Tiguan essence, lui, ne se branche pas du tout (voir <a href="/actualites/hybride-vs-phev-comparatif-mg-byd">notre comparatif hybride et PHEV</a> pour bien comprendre les différences).</p>
+
+<h2>Coût d'usage : 345 € d'économie par an pour le Wey 05</h2>
+<p>Notre comparateur donne 5,5 €/100 km pour le Wey 05 contre 7,8 €/100 km pour le Tiguan, soit 2,3 € d'écart tous les 100 km. Sur 15 000 km par an, cela représente environ 825 € d'énergie pour le GWM contre 1 170 € pour le Volkswagen, soit 345 € d'économie annuelle, et bien davantage pour qui recharge chaque soir et roule surtout en électrique. Insuffisant pour effacer seul les 15 000 € d'écart à l'achat, mais combiné aux 5 années de garantie supplémentaires, l'avantage du Wey 05 sur le coût total de possession devient tangible pour un conducteur qui garde sa voiture longtemps.</p>
+
+<h2>Gabarit, coffre et sécurité : le Tiguan plus logeable, le Wey 05 plus spacieux à bord</h2>
+<p>Le Wey 05 mesure 4 875 mm, soit 336 mm de plus que le Tiguan (4 539 mm), ce qui se traduit par une habitabilité arrière plus généreuse. Paradoxalement, c'est le Tiguan qui offre le plus grand coffre : 652 litres contre 560, soit 92 litres de plus, grâce à l'absence de grosse batterie sous le plancher. Plus compact, l'allemand est aussi plus facile à garer en ville. Sécurité : égalité à 5 étoiles Euro NCAP (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point sur la sécurité</a>). Sur la technologie, le Wey 05 prend l'avantage (8/10 contre 7/10) avec ses grands écrans, son affichage tête haute et ses aides à la conduite très complètes ; le Tiguan répond avec un intérieur moderne et une ergonomie améliorée par rapport à la génération précédente.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>GWM Wey 05</strong> : pour ceux qui disposent d'une recharge à domicile, veulent rouler majoritairement en électrique, apprécient la puissance et une dotation technologique complète, et privilégient une garantie longue de 7 ans.</li>
+  <li><strong>Volkswagen Tiguan</strong> : pour ceux qui veulent un SUV familial éprouvé et moins cher à l'achat, sans contrainte de recharge, avec le plus grand coffre du duel, un gabarit plus maniable et un réseau après-vente très étendu.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Le <strong>GWM Wey 05</strong> l'emporte sur la puissance, les accélérations, la garantie, la technologie, l'habitabilité et le coût d'usage ; le <strong>Volkswagen Tiguan</strong> sur le prix, le coffre et la compacité, avec une égalité sur l'autonomie entre deux pleins et la sécurité. Face à un Tiguan essence de base, le Wey 05 domine nettement la fiche technique, mais à un tarif supérieur. La comparaison la plus juste se fait d'ailleurs avec le Tiguan eHybrid : à prix voisin, le chinois offre alors bien plus de puissance, d'autonomie électrique et de garantie. Pour un rival chinois plus proche du Tiguan en prix, lisez <a href="/actualites/mg-hs-hybrid-vs-vw-tiguan-suv-familial-hybride-chinois-ou-essence-allemand">MG HS Hybrid+ vs Volkswagen Tiguan</a> et testez les deux dans <a href="/comparateur/gwm-wey-05-vs-vw-tiguan">notre comparateur</a>.</p>
+`,
+  },
+  {
     slug: 'gwm-wey-05-vs-peugeot-3008-suv-familial-phev-chinois-ou-hybride-francais',
     title: 'GWM Wey 05 vs Peugeot 3008 : SUV familial hybride rechargeable chinois ou hybride français, lequel choisir en 2026 ?',
     excerpt:
