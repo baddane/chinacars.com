@@ -19,6 +19,50 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'gwm-wey-05-vs-hyundai-tucson-hybride-suv-familial-phev-chinois-ou-hybride-coreen',
+    title: 'GWM Wey 05 vs Hyundai Tucson Hybride : SUV familial hybride rechargeable chinois ou hybride coréen, lequel choisir en 2026 ?',
+    excerpt:
+      "476 ch contre 215, une batterie de 34 kWh rechargeable en rapide contre 1,5 kWh non rechargeable : le GWM Wey 05 écrase le Hyundai Tucson Hybride sur le papier. Mais le coréen coûte 17 000 € de moins, offre un coffre plus grand et une garantie de 5 ans déjà rassurante. Lequel choisir ? Verdict chiffré.",
+    image: '/cars/gwm-wey-05.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-11-25T09:00:00+02:00',
+    readingTime: 6,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux visions de l'hybride pour la famille</h2>
+<p>Le Hyundai Tucson Hybride (38 000 €, 4,51 m) est l'un des SUV familiaux les plus vendus d'Europe : un hybride simple (HEV) de 215 ch associant un 1.6 T-GDi à un moteur électrique et une petite batterie de 1,5 kWh qui se recharge seule, au freinage et en décélération. Le GWM Wey 05 (55 000 €, 4,88 m) pousse la logique beaucoup plus loin : un hybride rechargeable (PHEV) de 476 ch, à transmission intégrale, avec une batterie de 34 kWh qui se branche. D'un côté l'hybride sans contrainte, de l'autre le PHEV qui roule surtout en électrique. Pour d'autres duels du Tucson, voir <a href="/actualites/mg-hs-hybrid-vs-hyundai-tucson-suv-familial-hybride">MG HS Hybrid+ vs Hyundai Tucson</a> ; pour le Wey 05, <a href="/actualites/gwm-wey-05-vs-vw-tiguan-suv-familial-phev-chinois-ou-essence-allemand">GWM Wey 05 vs Volkswagen Tiguan</a>, <a href="/actualites/gwm-wey-05-vs-peugeot-3008-suv-familial-phev-chinois-ou-hybride-francais">GWM Wey 05 vs Peugeot 3008</a> et <a href="/actualites/gwm-wey-05-vs-volvo-xc60-recharge-phev-autonomie">GWM Wey 05 vs Volvo XC60 Recharge</a>.</p>
+
+<h2>Prix et garantie : le Tucson bien moins cher, le Wey 05 mieux couvert</h2>
+<p>Le Hyundai Tucson Hybride démarre à 38 000 € dans notre comparateur, contre 55 000 € pour le GWM Wey 05 : 17 000 € d'écart, soit près de 45 % de plus pour le chinois. Il faut toutefois comparer ce qui est comparable : le Tucson hybride rechargeable (PHEV), plus proche techniquement du Wey 05, se négocie autour de 45 000 à 48 000 € pour une batterie bien plus petite et une puissance nettement inférieure. Côté garantie, Hyundai fait partie des généralistes les plus généreux avec 5 ans, mais GWM va plus loin avec 7 ans, soit 2 années de sérénité supplémentaires (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties</a>). Le réseau Hyundai reste en revanche bien plus dense que celui de GWM, un point à vérifier près de chez soi avant de signer.</p>
+
+<h2>Performances : plus du double de puissance pour le Wey 05</h2>
+<ul>
+  <li><strong>GWM Wey 05</strong> : 476 ch, 0 à 100 km/h en 5,0 s.</li>
+  <li><strong>Hyundai Tucson Hybride</strong> : 215 ch, 0 à 100 km/h en 8,0 s.</li>
+</ul>
+<p>Avec 261 ch de plus et 3 secondes d'avance sur le 0 à 100 km/h, le Wey 05 affiche des performances de SUV sportif, aidées par sa transmission intégrale. Le Tucson Hybride n'a pourtant rien de poussif : 215 ch suffisent largement pour un SUV familial, avec des relances franches et une boîte automatique à 6 rapports bien étagée. La différence la plus sensible au quotidien tient surtout au silence : le Wey 05 évolue la plupart du temps en mode 100 % électrique, quand le Tucson ne roule en électrique que sur de courtes phases, à basse vitesse.</p>
+
+<h2>Autonomie et recharge : le PHEV change la donne si vous avez une prise</h2>
+<p>Entre deux pleins, les deux SUV affichent environ 1 000 km : égalité parfaite pour les grands départs. La vraie différence se joue sur la batterie : 34 kWh rechargeables sur prise domestique, sur borne et en recharge rapide jusqu'à 50 kW pour le Wey 05, ce qui lui permet de dépasser 100 km en mode électrique ; seulement 1,5 kWh non rechargeable pour le Tucson, qui ne se branche jamais. Pour un trajet domicile-travail classique, le Wey 05 peut donc ne quasiment jamais consommer d'essence, à condition de le recharger régulièrement. Sans recharge à domicile, en revanche, l'avantage du PHEV fond et son poids devient un handicap (voir <a href="/actualites/hybride-vs-phev-comparatif-mg-byd">notre comparatif hybride et PHEV</a>).</p>
+
+<h2>Coût d'usage : 210 € d'économie par an pour le Wey 05</h2>
+<p>Notre comparateur donne 5,5 €/100 km pour le Wey 05 contre 6,9 €/100 km pour le Tucson Hybride, soit 1,4 € d'écart tous les 100 km. Sur 15 000 km par an, cela représente environ 825 € d'énergie pour le GWM contre 1 035 € pour le Hyundai, soit 210 € d'économie annuelle, davantage pour qui recharge chaque soir et roule surtout en électrique. C'est un écart réel mais modeste, car le Tucson Hybride est déjà très sobre pour sa catégorie : il faudrait des dizaines d'années pour amortir les 17 000 € de différence à l'achat par le seul coût d'énergie. Le Wey 05 se justifie donc par ses prestations, pas par les économies.</p>
+
+<h2>Gabarit, coffre et sécurité : le Tucson plus pratique, le Wey 05 plus spacieux</h2>
+<p>Le Wey 05 mesure 4 875 mm, soit 365 mm de plus que le Tucson (4 510 mm), ce qui lui donne une habitabilité arrière digne du segment supérieur. Pourtant, c'est le Tucson qui offre le plus grand coffre : 620 litres contre 560, soit 60 litres de plus, sa petite batterie ne grignotant presque pas d'espace. Plus court, le coréen est aussi plus facile à manœuvrer et à garer en ville. Sécurité : égalité à 5 étoiles Euro NCAP (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point sur la sécurité</a>). Sur la technologie, le Wey 05 prend l'avantage (8/10 contre 7/10) avec ses grands écrans, son affichage tête haute et ses aides à la conduite très complètes ; le Tucson restylé répond avec un double écran incurvé de 12,3 pouces et une ergonomie appréciée, qui conserve des commandes physiques pour la climatisation.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>GWM Wey 05</strong> : pour ceux qui disposent d'une recharge à domicile ou au travail, veulent rouler majoritairement en électrique, apprécient la puissance, la transmission intégrale et l'espace à bord, et privilégient une garantie de 7 ans.</li>
+  <li><strong>Hyundai Tucson Hybride</strong> : pour ceux qui veulent un SUV familial sobre et fiable sans aucune contrainte de recharge, au prix d'achat nettement plus bas, avec le plus grand coffre du duel, un gabarit plus maniable et un réseau après-vente étendu.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Le <strong>GWM Wey 05</strong> l'emporte sur la puissance, les accélérations, la garantie, la technologie, l'habitabilité et le coût d'usage ; le <strong>Hyundai Tucson Hybride</strong> sur le prix, le coffre et la compacité, avec une égalité sur l'autonomie entre deux pleins et la sécurité. Pour un acheteur sans prise de recharge ou au budget plafonné autour de 40 000 €, le Tucson Hybride reste un choix rationnel difficile à prendre en défaut. Pour celui qui peut recharger et cherche un SUV haut de gamme, le Wey 05 offre bien plus de prestations, mais à un tarif nettement supérieur. Pour un rival chinois du Tucson à prix équivalent, lisez <a href="/actualites/mg-hs-hybrid-vs-hyundai-tucson-suv-familial-hybride">MG HS Hybrid+ vs Hyundai Tucson</a> et testez les deux modèles dans <a href="/comparateur/gwm-wey-05-vs-hyundai-tucson">notre comparateur</a>.</p>
+`,
+  },
+  {
     slug: 'gwm-wey-05-vs-vw-tiguan-suv-familial-phev-chinois-ou-essence-allemand',
     title: 'GWM Wey 05 vs Volkswagen Tiguan : SUV familial hybride rechargeable chinois ou SUV essence allemand, lequel choisir en 2026 ?',
     excerpt:
