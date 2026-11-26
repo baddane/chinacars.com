@@ -19,6 +19,50 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'byd-sealion-7-vs-vw-tiguan-suv-coupe-electrique-chinois-ou-suv-essence-allemand',
+    title: 'BYD Sealion 7 vs Volkswagen Tiguan : SUV coupé électrique chinois ou SUV essence allemand, lequel choisir en 2026 ?',
+    excerpt:
+      "313 ch contre 150, une recharge rapide à 230 kW et 630 € d'énergie économisés chaque année : le BYD Sealion 7 domine le Volkswagen Tiguan sur le papier. Mais l'allemand coûte 8 000 € de moins, offre 152 litres de coffre en plus et 1 000 km d'autonomie sans borne. Lequel choisir ? Verdict chiffré.",
+    image: '/cars/byd-sealion-7.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-11-26T09:00:00+02:00',
+    readingTime: 6,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>L'électrique chinois face à la référence allemande</h2>
+<p>Le Volkswagen Tiguan (40 000 €, 4,54 m) est depuis des années l'un des SUV familiaux les plus vendus d'Europe : la troisième génération mise sur un 1.5 eTSI essence de 150 ch à micro-hybridation 48 V, un très grand coffre et une image de solidité. Le BYD Sealion 7 (48 000 €, 4,83 m) arrive avec une proposition radicalement différente : un SUV coupé 100 % électrique de 313 ch, doté d'une batterie Blade de 82,5 kWh et d'une architecture capable d'encaisser 230 kW en recharge rapide. D'un côté la continuité thermique, de l'autre le basculement vers l'électrique. Pour d'autres duels du Sealion 7, voir <a href="/actualites/byd-sealion-7-vs-peugeot-3008-suv-coupe-electrique-ou-suv-hybride-francais">BYD Sealion 7 vs Peugeot 3008</a> et <a href="/actualites/byd-sealion-7-vs-toyota-rav4-suv-coupe-electrique-hybride">BYD Sealion 7 vs Toyota RAV4</a> ; pour le Tiguan, <a href="/actualites/gwm-wey-05-vs-vw-tiguan-suv-familial-phev-chinois-ou-essence-allemand">GWM Wey 05 vs Volkswagen Tiguan</a> et <a href="/actualites/mg-hs-hybrid-vs-vw-tiguan-suv-familial-hybride-chinois-ou-essence-allemand">MG HS Hybrid+ vs Volkswagen Tiguan</a>.</p>
+
+<h2>Prix et garantie : le Tiguan moins cher, le Sealion 7 bien mieux couvert</h2>
+<p>Le Volkswagen Tiguan démarre à 40 000 € dans notre comparateur, contre 48 000 € pour le BYD Sealion 7 : 8 000 € d'écart, soit 20 % de plus pour le chinois. L'écart se resserre toutefois dès que l'on monte en gamme chez Volkswagen : un Tiguan de puissance comparable (eTSI 204 ch ou hybride rechargeable eHybrid) dépasse aisément 48 000 €. Côté garantie, le contraste est net : 6 ans chez BYD (et 8 ans sur la batterie) contre 2 ans seulement chez Volkswagen, soit 4 années de couverture supplémentaires pour le Sealion 7 (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties</a>). Le réseau Volkswagen reste en revanche beaucoup plus dense, un atout pour l'entretien et la revente.</p>
+
+<h2>Performances : plus du double de puissance pour le Sealion 7</h2>
+<ul>
+  <li><strong>BYD Sealion 7</strong> : 313 ch, 0 à 100 km/h en 6,7 s.</li>
+  <li><strong>Volkswagen Tiguan</strong> : 150 ch, 0 à 100 km/h en 9,3 s.</li>
+</ul>
+<p>Avec 163 ch de plus et 2,6 secondes d'avance sur le 0 à 100 km/h, le Sealion 7 joue dans une autre catégorie, servi par le couple instantané de son moteur électrique. Le Tiguan 150 ch reste suffisant pour un usage familial, avec une boîte DSG à double embrayage douce et une micro-hybridation qui coupe le moteur en roue libre, mais il se montre nettement moins vif en relance, surtout chargé. Au quotidien, le silence de fonctionnement du Sealion 7 constitue aussi un vrai gain de confort.</p>
+
+<h2>Autonomie et recharge : le Tiguan pour la liberté, le Sealion 7 pour la rapidité</h2>
+<p>C'est le point fort du Tiguan : environ 1 000 km entre deux pleins, récupérés en cinq minutes à n'importe quelle station. Le Sealion 7 annonce 482 km en cycle WLTP, ce qui couvre largement les trajets quotidiens et la plupart des week-ends. Sur autoroute, il faut compter un arrêt toutes les 3 heures environ, mais sa recharge rapide jusqu'à 230 kW permet de passer de 10 à 80 % en une vingtaine de minutes sur une borne puissante, l'une des meilleures valeurs du segment. L'idéal reste une borne à domicile : le Sealion 7 repart alors chaque matin « plein » pour un coût minime. Sans possibilité de recharge chez soi ou au travail, le Tiguan reste l'option la plus simple (voir <a href="/actualites/hybride-vs-phev-comparatif-mg-byd">notre comparatif hybride et PHEV</a>).</p>
+
+<h2>Coût d'usage : 630 € d'économie par an pour le Sealion 7</h2>
+<p>Notre comparateur donne 3,6 €/100 km pour le Sealion 7 contre 7,8 €/100 km pour le Tiguan essence, soit 4,2 € d'écart tous les 100 km. Sur 15 000 km par an, cela représente environ 540 € d'énergie pour le BYD contre 1 170 € pour le Volkswagen, soit 630 € d'économie annuelle, et davantage encore avec un abonnement électrique heures creuses. À ce rythme, les 8 000 € d'écart à l'achat sont compensés en un peu moins de 13 ans par la seule énergie, plus vite pour les gros rouleurs. Il faut aussi compter un entretien plus léger sur l'électrique (pas de vidange, freins moins sollicités grâce à la régénération).</p>
+
+<h2>Gabarit, coffre et sécurité : le Tiguan plus pratique, le Sealion 7 plus spacieux à bord</h2>
+<p>Le Sealion 7 mesure 4 830 mm, soit 291 mm de plus que le Tiguan (4 539 mm), ce qui lui offre un empattement généreux et un plancher arrière plat très appréciable aux places arrière. Pourtant, c'est le Tiguan qui l'emporte nettement sur le coffre : 652 litres contre 500, soit 152 litres de plus, la ligne de toit fuyante du coupé chinois limitant le volume utile (le Sealion 7 compense en partie avec un petit coffre avant). Plus court, l'allemand est aussi plus facile à garer. Sécurité : égalité à 5 étoiles Euro NCAP (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point sur la sécurité</a>). Sur la technologie, le Sealion 7 prend l'avantage (8/10 contre 7/10) avec son écran rotatif de 15,6 pouces, son affichage tête haute et sa pompe à chaleur de série ; le Tiguan répond avec un écran de 15 pouces et une molette de commande physique bien pensée.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>BYD Sealion 7</strong> : pour ceux qui peuvent recharger à domicile ou au travail, veulent passer à l'électrique sans compromis sur les performances, apprécient une recharge rapide de premier plan et une garantie de 6 ans, et roulent suffisamment pour amortir l'écart de prix.</li>
+  <li><strong>Volkswagen Tiguan</strong> : pour ceux qui n'ont pas de solution de recharge, effectuent souvent de longs trajets sans vouloir planifier d'arrêts, ont besoin du plus grand coffre possible et privilégient un prix d'achat plus bas, un réseau dense et une valeur de revente éprouvée.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Le <strong>BYD Sealion 7</strong> l'emporte sur la puissance, les accélérations, la garantie, la technologie, l'habitabilité et le coût d'usage ; le <strong>Volkswagen Tiguan</strong> sur le prix, l'autonomie totale, le coffre et la compacité, avec une égalité sur la sécurité. Pour un acheteur sans borne ou au budget plafonné à 40 000 €, le Tiguan reste un choix rationnel. Pour celui qui peut recharger et cherche un SUV familial moderne, rapide et très bien garanti, le Sealion 7 offre bien plus pour 8 000 € supplémentaires, en partie récupérés à l'usage. Comparez aussi le Tiguan au <a href="/actualites/gwm-wey-05-vs-vw-tiguan-suv-familial-phev-chinois-ou-essence-allemand">GWM Wey 05 hybride rechargeable</a> et testez les deux modèles dans <a href="/comparateur/byd-sealion-7-vs-vw-tiguan">notre comparateur</a>.</p>
+`,
+  },
+  {
     slug: 'gwm-wey-05-vs-hyundai-tucson-hybride-suv-familial-phev-chinois-ou-hybride-coreen',
     title: 'GWM Wey 05 vs Hyundai Tucson Hybride : SUV familial hybride rechargeable chinois ou hybride coréen, lequel choisir en 2026 ?',
     excerpt:
