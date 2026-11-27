@@ -19,6 +19,50 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'xpeng-g6-vs-toyota-rav4-suv-electrique-chinois-ou-suv-hybride-japonais',
+    title: 'XPeng G6 vs Toyota RAV4 Hybride : SUV électrique chinois ou SUV hybride japonais, lequel choisir en 2026 ?',
+    excerpt:
+      "Pour 1 000 € d'écart seulement, le XPeng G6 aligne 78 ch de plus, une recharge ultra-rapide à 280 kW et près de 500 € d'énergie économisés chaque année. Le Toyota RAV4 Hybride répond par 1 050 km d'autonomie, une fiabilité légendaire et zéro contrainte de recharge. Lequel choisir ? Verdict chiffré.",
+    image: '/cars/xpeng-g6.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-11-27T09:00:00+02:00',
+    readingTime: 6,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux visions du SUV familial au même prix</h2>
+<p>Le Toyota RAV4 Hybride (42 000 €, 4,60 m) est le SUV hybride de référence : un 2.5 essence associé à deux moteurs électriques pour 218 ch, une transmission e-CVT d'une grande douceur et une réputation de fiabilité que peu de constructeurs peuvent revendiquer. Le XPeng G6 (43 000 €, 4,75 m) choisit l'autre voie : un SUV coupé 100 % électrique de 296 ch, bâti sur une architecture 800 V avec une batterie de 87,5 kWh et l'une des recharges rapides les plus puissantes du marché. Fait rare, les deux modèles se tiennent à 1 000 € près : le choix se fait donc sur l'usage, pas sur le budget. Pour d'autres duels du G6, voir <a href="/actualites/xpeng-g6-vs-tesla-model-y-recharge-rapide">XPeng G6 vs Tesla Model Y</a> et <a href="/actualites/byd-seal-u-vs-xpeng-g6-suv-electrique-chinois-confort-ou-performance">BYD Seal U vs XPeng G6</a> ; pour le RAV4, <a href="/actualites/byd-sealion-7-vs-toyota-rav4-suv-coupe-electrique-hybride">BYD Sealion 7 vs Toyota RAV4</a> et <a href="/actualites/mg-hs-hybrid-vs-toyota-rav4-suv-familial-hybride">MG HS Hybrid+ vs Toyota RAV4</a>.</p>
+
+<h2>Prix et garantie : quasi-égalité</h2>
+<p>Le XPeng G6 démarre à 43 000 € dans notre comparateur, contre 42 000 € pour le Toyota RAV4 Hybride : 1 000 € d'écart, soit à peine 2,4 % de plus pour le chinois. À ce niveau, les remises commerciales et les éventuelles aides à l'achat d'un véhicule électrique peuvent facilement inverser la hiérarchie. Côté garantie, match nul sur le papier avec 5 ans chacun, mais avec des nuances : XPeng couvre la batterie de traction 8 ans, tandis que Toyota prolonge la garantie jusqu'à 10 ans à condition d'entretenir le véhicule dans son réseau (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties</a>). Le réseau Toyota, très dense, reste un atout majeur pour l'entretien et la revente, là où XPeng construit encore sa présence en Europe.</p>
+
+<h2>Performances : avantage net au XPeng G6</h2>
+<ul>
+  <li><strong>XPeng G6</strong> : 296 ch, 0 à 100 km/h en 6,9 s.</li>
+  <li><strong>Toyota RAV4 Hybride</strong> : 218 ch, 0 à 100 km/h en 8,1 s.</li>
+</ul>
+<p>Avec 78 ch de plus et 1,2 seconde d'avance sur le 0 à 100 km/h, le G6 se montre plus vif, notamment en relance grâce au couple instantané de son moteur électrique. Le RAV4 n'a pourtant rien de poussif : son système hybride est réactif en ville, où il roule souvent en mode électrique, mais la transmission e-CVT fait monter le moteur dans les tours lors des fortes accélérations, ce qui nuit au silence. Sur ce point, le G6 offre un confort acoustique nettement supérieur.</p>
+
+<h2>Autonomie et recharge : 1 050 km contre 280 kW</h2>
+<p>C'est le grand atout du RAV4 : environ 1 050 km entre deux pleins, soit le double du G6, et un plein en cinq minutes dans n'importe quelle station, sans jamais avoir à brancher la voiture. Le XPeng G6 annonce 525 km en cycle WLTP, une valeur solide qui couvre sans difficulté une semaine de trajets quotidiens. Surtout, son architecture 800 V accepte jusqu'à 280 kW en charge rapide : sur une borne compatible, il passe de 10 à 80 % en une vingtaine de minutes, le temps d'un café. Sur un long trajet, l'arrêt imposé reste donc court. Le G6 prend tout son sens avec une borne à domicile ; sans solution de recharge régulière, le RAV4 reste l'option la plus sereine (voir <a href="/actualites/hybride-vs-phev-comparatif-mg-byd">notre comparatif hybride et PHEV</a>).</p>
+
+<h2>Coût d'usage : près de 500 € d'économie par an pour le G6</h2>
+<p>Notre comparateur donne 3,5 €/100 km pour le XPeng G6 contre 6,8 €/100 km pour le RAV4 Hybride, soit 3,3 € d'écart tous les 100 km. Sur 15 000 km par an, cela représente environ 525 € d'énergie pour le G6 contre 1 020 € pour le RAV4, soit 495 € d'économie annuelle, et davantage avec un tarif heures creuses. Les 1 000 € d'écart à l'achat sont ainsi effacés en à peine deux ans. L'entretien de l'électrique est en outre plus léger (pas de vidange, freins ménagés par la régénération), même si l'hybride Toyota est lui-même réputé très économique à entretenir.</p>
+
+<h2>Gabarit, coffre et sécurité : égalité ou presque</h2>
+<p>Le G6 mesure 4 753 mm, soit 153 mm de plus que le RAV4 (4 600 mm), avec un long empattement et un plancher plat qui profitent aux passagers arrière. Côté coffre, les deux sont au coude-à-coude : 580 litres pour le RAV4 contre 571 pour le G6, soit 9 litres d'écart seulement, malgré la ligne de toit fuyante du chinois. Le RAV4, plus court et plus haut, se montre un peu plus pratique en ville et propose une transmission intégrale (AWD-i) appréciée en montagne. Sécurité : égalité à 5 étoiles Euro NCAP (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point sur la sécurité</a>). Sur la technologie, le G6 domine clairement (9/10 contre 7/10) avec son grand écran central de 14,96 pouces, ses aides à la conduite avancées, sa pompe à chaleur de série et ses mises à jour à distance ; le RAV4 mise sur une ergonomie plus classique avec davantage de commandes physiques.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>XPeng G6</strong> : pour ceux qui peuvent recharger à domicile ou au travail, veulent un SUV électrique performant et très bien équipé, apprécient une recharge ultra-rapide pour les longs trajets et roulent suffisamment pour profiter des économies d'énergie.</li>
+  <li><strong>Toyota RAV4 Hybride</strong> : pour ceux qui n'ont pas de borne, avalent souvent de longues distances sans vouloir planifier d'arrêts, ont besoin d'une transmission intégrale et privilégient la fiabilité éprouvée, un réseau dense et une excellente valeur de revente.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Le <strong>XPeng G6</strong> l'emporte sur la puissance, les accélérations, la recharge, la technologie, l'habitabilité et le coût d'usage ; le <strong>Toyota RAV4 Hybride</strong> sur l'autonomie totale, la simplicité d'usage et, de justesse, le prix et le coffre, avec une égalité sur la sécurité et la garantie. À budget quasi identique, le G6 offre davantage de prestations et rembourse son petit surcoût en deux ans, à condition de pouvoir recharger facilement. Sans solution de recharge, le RAV4 reste un choix rationnel et sans souci. Comparez aussi le RAV4 au <a href="/actualites/byd-sealion-7-vs-toyota-rav4-suv-coupe-electrique-hybride">BYD Sealion 7</a> et testez les deux modèles dans <a href="/comparateur/xpeng-g6-vs-toyota-rav4">notre comparateur</a>.</p>
+`,
+  },
+  {
     slug: 'byd-sealion-7-vs-vw-tiguan-suv-coupe-electrique-chinois-ou-suv-essence-allemand',
     title: 'BYD Sealion 7 vs Volkswagen Tiguan : SUV coupé électrique chinois ou SUV essence allemand, lequel choisir en 2026 ?',
     excerpt:
