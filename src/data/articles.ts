@@ -19,6 +19,50 @@ export interface ArticleSeed {
 
 export const articles: ArticleSeed[] = [
   {
+    slug: 'xpeng-g6-vs-hyundai-tucson-hybride-suv-electrique-chinois-ou-suv-hybride-coreen',
+    title: 'XPeng G6 vs Hyundai Tucson Hybride : SUV électrique chinois ou SUV hybride coréen, lequel choisir en 2026 ?',
+    excerpt:
+      "Le XPeng G6 aligne 81 ch de plus, une recharge ultra-rapide à 280 kW et environ 510 € d'énergie économisés chaque année. Le Hyundai Tucson Hybride répond par 5 000 € de moins, 1 000 km d'autonomie et un coffre de 620 litres. Lequel choisir ? Verdict chiffré.",
+    image: '/cars/xpeng-g6.jpg',
+    category: 'Comparatif',
+    categorySlug: 'comparatif',
+    publishedAt: '2026-11-28T09:00:00+02:00',
+    readingTime: 6,
+    author: 'Rédaction Véhicules Chinois',
+    body: `
+<h2>Deux SUV familiaux, deux philosophies</h2>
+<p>Le Hyundai Tucson Hybride (38 000 €, 4,51 m) est l'un des SUV familiaux les plus vendus d'Europe : un 1.6 T-GDi essence associé à un moteur électrique pour 215 ch, une boîte automatique à 6 rapports et une présentation intérieure moderne. Le XPeng G6 (43 000 €, 4,75 m) joue une autre partition : un SUV coupé 100 % électrique de 296 ch, bâti sur une architecture 800 V avec une batterie de 87,5 kWh et l'une des recharges rapides les plus puissantes du segment. D'un côté la polyvalence sans prise, de l'autre la technologie électrique la plus aboutie. Pour d'autres duels du G6, voir <a href="/actualites/xpeng-g6-vs-toyota-rav4-suv-electrique-chinois-ou-suv-hybride-japonais">XPeng G6 vs Toyota RAV4 Hybride</a> et <a href="/actualites/xpeng-g6-vs-tesla-model-y-recharge-rapide">XPeng G6 vs Tesla Model Y</a> ; pour le Tucson, <a href="/actualites/gwm-wey-05-vs-hyundai-tucson-hybride-suv-familial-phev-chinois-ou-hybride-coreen">GWM Wey 05 vs Hyundai Tucson</a> et <a href="/actualites/mg-hs-hybrid-vs-hyundai-tucson-suv-familial-hybride">MG HS Hybrid+ vs Hyundai Tucson</a>.</p>
+
+<h2>Prix et garantie : avantage Hyundai à l'achat</h2>
+<p>Le Hyundai Tucson Hybride démarre à 38 000 € dans notre comparateur, contre 43 000 € pour le XPeng G6 : 5 000 € d'écart, soit environ 13 % de plus pour le chinois. Une partie de cet écart peut être compensée par les aides à l'achat d'un véhicule électrique lorsque le G6 y est éligible, mais sur le prix catalogue, le coréen garde l'avantage. Côté garantie, égalité à 5 ans : Hyundai couvre ses véhicules 5 ans sans limite de kilométrage et la batterie hybride 8 ans, tandis que XPeng garantit sa batterie de traction 8 ans (voir <a href="/actualites/garantie-7-ans-10-ans-constructeurs-chinois-comparatif">notre comparatif des garanties</a>). Le réseau Hyundai, bien implanté, reste un atout pour l'entretien et la revente, là où XPeng développe encore sa présence en Europe.</p>
+
+<h2>Performances : le XPeng G6 nettement devant</h2>
+<ul>
+  <li><strong>XPeng G6</strong> : 296 ch, 0 à 100 km/h en 6,9 s.</li>
+  <li><strong>Hyundai Tucson Hybride</strong> : 215 ch, 0 à 100 km/h en 8,0 s.</li>
+</ul>
+<p>Avec 81 ch de plus et 1,1 seconde d'avance sur le 0 à 100 km/h, le G6 se montre plus vif, surtout en relance grâce au couple instantané de son moteur électrique. Le Tucson n'a pourtant rien de lent : son 1.6 turbo hybride est bien plus dynamique que la moyenne des SUV hybrides, et sa vraie boîte automatique évite l'effet « mobylette » des transmissions à variation continue. Mais en silence de fonctionnement et en douceur, l'électrique reste imbattable.</p>
+
+<h2>Autonomie et recharge : 1 000 km contre 280 kW</h2>
+<p>Le Tucson Hybride parcourt environ 1 000 km entre deux pleins, près du double du G6, et se ravitaille en cinq minutes dans n'importe quelle station, sans jamais être branché. Le XPeng G6 annonce 525 km en cycle WLTP, de quoi couvrir une semaine de trajets quotidiens. Son atout maître est sa recharge : grâce à l'architecture 800 V, il accepte jusqu'à 280 kW sur borne rapide et passe de 10 à 80 % en une vingtaine de minutes. Sur un long trajet, la pause reste donc courte. Le G6 s'impose pour qui dispose d'une borne à domicile ou au travail ; sans solution de recharge régulière, le Tucson reste le choix le plus serein (voir <a href="/actualites/hybride-vs-phev-comparatif-mg-byd">notre comparatif hybride et PHEV</a>).</p>
+
+<h2>Coût d'usage : environ 510 € d'économie par an pour le G6</h2>
+<p>Notre comparateur donne 3,5 €/100 km pour le XPeng G6 contre 6,9 €/100 km pour le Tucson Hybride, soit 3,4 € d'écart tous les 100 km. Sur 15 000 km par an, cela représente environ 525 € d'énergie pour le G6 contre 1 035 € pour le Tucson, soit 510 € d'économie annuelle, davantage avec un tarif heures creuses. À ce rythme, il faut une dizaine d'années pour amortir les 5 000 € d'écart à l'achat ; le calcul devient en revanche favorable au G6 pour les gros rouleurs (25 000 km par an et plus) ou en cas d'aide à l'achat. L'entretien de l'électrique est par ailleurs plus léger : pas de vidange et des freins ménagés par la régénération.</p>
+
+<h2>Gabarit, coffre et sécurité : le Tucson plus pratique</h2>
+<p>Le G6 mesure 4 753 mm, soit 243 mm de plus que le Tucson (4 510 mm), avec un long empattement et un plancher plat qui offrent beaucoup d'espace aux jambes à l'arrière. Pourtant, c'est le coréen qui propose le plus grand coffre : 620 litres contre 571 pour le G6, soit 49 litres de plus, grâce à sa carrosserie plus haute et à son hayon vertical, quand le chinois paie sa ligne de toit fuyante. Plus compact, le Tucson est aussi plus facile à manœuvrer en ville et existe en transmission intégrale HTRAC. Sécurité : égalité à 5 étoiles Euro NCAP (voir <a href="/actualites/securite-voitures-chinoises-niveau-europeen-2026">notre point sur la sécurité</a>). Sur la technologie, le G6 domine (9/10 contre 7/10) avec son grand écran central de 14,96 pouces, ses aides à la conduite avancées, sa pompe à chaleur et ses mises à jour à distance ; le Tucson mise sur une double dalle incurvée et une ergonomie plus classique avec davantage de commandes physiques.</p>
+
+<h2>Pour qui ?</h2>
+<ul>
+  <li><strong>XPeng G6</strong> : pour ceux qui peuvent recharger à domicile ou au travail, veulent un SUV électrique performant et très technologique, apprécient une recharge ultra-rapide sur autoroute et roulent beaucoup pour profiter des économies d'énergie.</li>
+  <li><strong>Hyundai Tucson Hybride</strong> : pour ceux qui n'ont pas de borne, veulent dépenser 5 000 € de moins, ont besoin d'un grand coffre ou d'une transmission intégrale et privilégient la simplicité d'usage, un réseau dense et une bonne valeur de revente.</li>
+</ul>
+
+<h2>Verdict</h2>
+<p>Le <strong>XPeng G6</strong> l'emporte sur la puissance, les accélérations, la recharge, la technologie, l'habitabilité arrière et le coût d'usage ; le <strong>Hyundai Tucson Hybride</strong> sur le prix, l'autonomie totale, le coffre et la simplicité d'usage, avec une égalité sur la sécurité et la garantie. Le G6 est le SUV le plus moderne et le plus agréable à conduire des deux, mais son surcoût ne s'amortit vite que pour les gros rouleurs équipés d'une borne. Pour un usage familial mixte sans recharge à domicile, le Tucson reste un choix rationnel et polyvalent. Comparez aussi le G6 au <a href="/comparateur/xpeng-g6-vs-peugeot-3008">Peugeot 3008</a> et testez les deux modèles dans <a href="/comparateur/xpeng-g6-vs-hyundai-tucson">notre comparateur</a>.</p>
+`,
+  },
+  {
     slug: 'xpeng-g6-vs-toyota-rav4-suv-electrique-chinois-ou-suv-hybride-japonais',
     title: 'XPeng G6 vs Toyota RAV4 Hybride : SUV électrique chinois ou SUV hybride japonais, lequel choisir en 2026 ?',
     excerpt:
